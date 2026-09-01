@@ -1,0 +1,18 @@
+---
+import { Badge } from '@/components/ui/badge';
+import { EVIDENCE, type EvidenceLevel } from '@/config';
+
+interface Props {
+  level: EvidenceLevel;
+  class?: string;
+}
+
+const { level, class: className } = Astro.props;
+const { label, blurb } = EVIDENCE[level];
+---
+
+<!-- Renders to static HTML: no client: directive, so no JS ships. -->
+<Badge variant={level} className={className} title={blurb}>
+  <span class="size-1.5 rounded-full bg-current" aria-hidden="true"></span>
+  {label}
+</Badge>

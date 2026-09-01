@@ -1,0 +1,43 @@
+---
+import { SITE, urls } from '@/config';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="border-border/60 mt-24 border-t">
+  <div class="text-muted-foreground mx-auto max-w-6xl px-4 py-10 text-sm sm:px-6">
+    <div class="flex flex-col gap-8 sm:flex-row sm:justify-between">
+      <div class="max-w-sm">
+        <p class="text-foreground font-semibold">{SITE.name}</p>
+        <p class="mt-1.5">{SITE.tagline}</p>
+      </div>
+
+      <nav class="flex gap-12" aria-label="Footer">
+        <ul class="space-y-2">
+          <li><a href={urls.jobs()} class="hover:text-foreground">All jobs</a></li>
+          <li><a href={urls.openJobs()} class="hover:text-foreground">Open jobs</a></li>
+          <li><a href={urls.bots()} class="hover:text-foreground">All bots</a></li>
+        </ul>
+        <ul class="space-y-2">
+          <li><a href={urls.submit()} class="hover:text-foreground">Submit a bot</a></li>
+          <li>
+            <a href="https://github.com/lureilly1/botjobs" class="hover:text-foreground" rel="noopener">
+              Source
+            </a>
+          </li>
+          <li><a href="/methodology" class="hover:text-foreground">Methodology</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <!--
+      Required on every page. Nominative use of the trademark is covered by this
+      notice; it is why the product name stays out of the domain. See plan §10.
+    -->
+    <p class="border-border/60 mt-8 border-t pt-6 text-xs leading-relaxed">
+      Bot Jobs is an independent community project and is not affiliated with or endorsed by xAI.
+      Grok and Grok Bot are trademarks of xAI.
+    </p>
+    <p class="mt-2 text-xs">&copy; {year} {SITE.name}</p>
+  </div>
+</footer>

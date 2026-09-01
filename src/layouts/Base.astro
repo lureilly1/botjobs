@@ -1,0 +1,77 @@
+---
+import '@/styles/global.css';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import { SITE } from '@/config';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** Absolute or root-relative canonical. Defaults to the current URL. */
+  canonical?: string;
+  /** Faceted and search pages set this. See plan §10 — facets never index. */
+  noindex?: boolean;
+  ogImage?: string;
+}
+
+const {
+  title,
+  description = SITE.description,
+  canonical,
+  noindex = false,
+  ogImage,
+} = Astro.props;
+
+const canonicalUrl = new URL(canonical ?? Astro.url.pathname, SITE.url).href;
+const fullTitle = title === SITE.name ? title : `${title} · ${SITE.name}`;
+const ogImageUrl = ogImage ? new URL(ogImage, SITE.url).href : undefined;
+---
+
+<!doctype html>
+<html lang="en" class="h-full">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
+    <meta name="twitter:card" content={ogImageUrl ? 'summary_large_image' : 'summary'} />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+    <!-- Theme is resolved before first paint so a dark-mode visitor never sees a
+         white flash. Inline by necessity; it must run before the body renders. -->
+    <script is:inline>
+      (() => {
+        const stored = localStorage.getItem('theme');
+        const dark = stored ? stored === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.classList.toggle('dark', dark);
+      })();
+    </script>
+  </head>
+
+  <body class="flex min-h-full flex-col">
+    <a
+      href="#main"
+      class="bg-background focus:ring-ring sr-only rounded-md px-4 py-2 focus:not-sr-only focus:absolute focus:top-3 focus:left-3 focus:z-50 focus:ring-2"
+    >
+      Skip to content
+    </a>
+
+    <Header />
+
+    <main id="main" class="flex-1">
+      <slot />
+    </main>
+
+    <Footer />
+  </body>
+</html>

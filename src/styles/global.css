@@ -1,0 +1,173 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+/* ==========================================================================
+   RE-SKIN HERE
+   --------------------------------------------------------------------------
+   Everything a new site needs to change lives in this one block. Swap the
+   accent + the three evidence hues and the whole directory changes character
+   without touching a single component.
+
+   Colours are oklch(L C H): lightness 0-1, chroma 0-0.4, hue 0-360.
+   To move the accent, change --brand-hue and leave the rest alone.
+   ========================================================================== */
+:root {
+  --brand-hue: 258; /* indigo. 145 = green, 25 = red, 65 = amber */
+  --brand-chroma: 0.17;
+
+  --radius: 0.625rem;
+
+  /* Evidence tiers (see the plan, §3). Deliberately not a red/amber/green
+     ramp: `listed` is not a failure state, it is simply unverified. */
+  --evidence-listed: oklch(0.556 0 0); /* neutral   — in a catalogue, nothing checked */
+  --evidence-source-linked: oklch(0.62 0.14 258); /* accent  — creator + source post recorded */
+  --evidence-verified: oklch(0.63 0.15 155); /* green   — official x.ai page reconciled */
+
+  /* An open job is a vacancy, not an error. Amber reads as "available". */
+  --open-job: oklch(0.68 0.15 65);
+}
+
+/* ==========================================================================
+   Base tokens (shadcn/ui, neutral). Derived from the brand block above where
+   it makes sense — you should rarely need to edit below this line.
+   ========================================================================== */
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+
+  --primary: oklch(0.52 var(--brand-chroma) var(--brand-hue));
+  --primary-foreground: oklch(0.985 0 0);
+
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0);
+
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.52 var(--brand-chroma) var(--brand-hue));
+
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+
+  --primary: oklch(0.7 var(--brand-chroma) var(--brand-hue));
+  --primary-foreground: oklch(0.145 0 0);
+
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.985 0 0);
+
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.7 var(--brand-chroma) var(--brand-hue));
+
+  --evidence-listed: oklch(0.708 0 0);
+  --evidence-source-linked: oklch(0.72 0.13 258);
+  --evidence-verified: oklch(0.74 0.14 155);
+  --open-job: oklch(0.78 0.14 65);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-evidence-listed: var(--evidence-listed);
+  --color-evidence-source-linked: var(--evidence-source-linked);
+  --color-evidence-verified: var(--evidence-verified);
+  --color-open-job: var(--open-job);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Editorial prose sits at a comfortable measure. Job intros are the product,
+     so they get real typographic care rather than whatever the grid gives them. */
+  .prose-editorial {
+    @apply text-[15px]/[1.7] text-muted-foreground max-w-[68ch];
+  }
+
+  .prose-editorial strong {
+    @apply text-foreground font-medium;
+  }
+
+  /* Visible focus for keyboard users, invisible for mouse users. */
+  :focus-visible {
+    @apply outline-ring outline-2 outline-offset-2;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}

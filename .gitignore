@@ -1,0 +1,22 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# runtime data — never commit user submissions or the local database
+data/private/
+
+# environment
+.env
+.env.production
+.env.local
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
