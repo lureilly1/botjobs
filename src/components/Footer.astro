@@ -1,5 +1,5 @@
 ---
-import { SITE, urls } from '@/config';
+import { SITE, urls, REPO } from '@/config';
 
 const year = new Date().getFullYear();
 ---
@@ -7,9 +7,12 @@ const year = new Date().getFullYear();
 <footer class="border-border/60 mt-24 border-t">
   <div class="text-muted-foreground mx-auto max-w-6xl px-4 py-10 text-sm sm:px-6">
     <div class="flex flex-col gap-8 sm:flex-row sm:justify-between">
-      <div class="max-w-sm">
-        <p class="text-foreground font-semibold">{SITE.name}</p>
-        <p class="mt-1.5">{SITE.tagline}</p>
+      <div class="max-w-xs">
+        <div class="flex items-center gap-2">
+          <img src="/logo-160.png" alt="" width="32" height="32" class="size-8" />
+          <p class="text-foreground font-display font-extrabold tracking-tight">{SITE.name}</p>
+        </div>
+        <p class="mt-2">{SITE.tagline}</p>
       </div>
 
       <nav class="flex gap-12" aria-label="Footer">
@@ -19,13 +22,11 @@ const year = new Date().getFullYear();
           <li><a href={urls.bots()} class="hover:text-foreground">All bots</a></li>
         </ul>
         <ul class="space-y-2">
-          <li><a href={urls.submit()} class="hover:text-foreground">Submit a bot</a></li>
+          <li><a href={urls.submitBot()} class="hover:text-foreground">Submit a bot</a></li>
+          <li><a href={urls.submitJob()} class="hover:text-foreground">Submit a job</a></li>
           <li>
-            <a href="https://github.com/lureilly1/botjobs" class="hover:text-foreground" rel="noopener">
-              Source
-            </a>
+            <a href={REPO} class="hover:text-foreground" rel="noopener">Source</a>
           </li>
-          <li><a href="/methodology" class="hover:text-foreground">Methodology</a></li>
         </ul>
       </nav>
     </div>

@@ -1,4 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="7" fill="#4f46e5"/>
-  <text x="16" y="23" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">B</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="13" fill="#FFC81E" />
+  <g stroke="#231f1c" stroke-width="3.5" stroke-linejoin="round">
+    <circle cx="32" cy="40" r="18" fill="#231f1c" />
+    <path d="M17 30a15 14 0 0 1 30 0Z" fill="#fff" />
+    <ellipse cx="32" cy="30" rx="19.5" ry="4.2" fill="#fff" />
+  </g>
+  <g fill="#fff">
+    <rect x="24.5" y="36" width="4.4" height="9.5" rx="2.2" transform="rotate(-9 26.7 40.8)" />
+    <rect x="35.2" y="36" width="4.4" height="9.5" rx="2.2" transform="rotate(-9 37.4 40.8)" />
+  </g>
 </svg>

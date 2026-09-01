@@ -47,8 +47,18 @@ export const urls = {
   guide: (slug: string) => `/${PATH_SEGMENT}/guides/${slug}`,
   search: (q?: string) => `/${PATH_SEGMENT}/search${q ? `?q=${encodeURIComponent(q)}` : ''}`,
   submit: () => '/submit',
+  // Two sides of the same board: bots are the candidates, jobs are the
+  // vacancies. Both land on /submit; the anchors keep them as distinct CTAs
+  // without a second page to maintain.
+  submitBot: () => '/submit#bot',
+  submitJob: () => '/submit#job',
   report: (botSlug: string) => `/report?bot=${encodeURIComponent(botSlug)}`,
 } as const;
+
+/** Interim submission route until the drafting pipeline lands (plan T15). */
+export const REPO = 'https://github.com/lureilly1/botjobs';
+export const issueUrl = (template: 'bot' | 'job', title: string) =>
+  `${REPO}/issues/new?labels=${template}-submission&title=${encodeURIComponent(title)}`;
 
 /**
  * Evidence tiers. The labels are load-bearing: `link-verified` must never read

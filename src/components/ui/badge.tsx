@@ -7,23 +7,24 @@ import { cn } from '@/lib/utils';
 // a user rating to both people and Google, and we have no user reviews.
 // See the plan §3 and §10.
 export const badgeVariants = cva(
-  'inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-xs font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring',
+  'inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 font-mono text-[11px] font-medium tracking-tight whitespace-nowrap',
   {
     variants: {
       variant: {
-        default: 'border-transparent bg-primary text-primary-foreground',
-        secondary: 'border-transparent bg-secondary text-secondary-foreground',
-        outline: 'text-foreground',
+        default: 'border-ink bg-ink text-paper',
+        secondary: 'border-border bg-secondary text-secondary-foreground',
+        outline: 'border-ink text-foreground',
 
         // Evidence tiers. Each carries a tinted dot rendered by the caller.
-        listed: 'border-evidence-listed/25 bg-evidence-listed/10 text-evidence-listed',
+        listed: 'border-evidence-listed/30 bg-evidence-listed/8 text-evidence-listed',
         'source-linked':
-          'border-evidence-source-linked/25 bg-evidence-source-linked/10 text-evidence-source-linked',
+          'border-evidence-source-linked/30 bg-evidence-source-linked/8 text-evidence-source-linked',
         'link-verified':
-          'border-evidence-verified/25 bg-evidence-verified/10 text-evidence-verified',
+          'border-evidence-verified/30 bg-evidence-verified/8 text-evidence-verified',
 
-        // A job nobody has built a bot for yet. A vacancy, not an error.
-        open: 'border-open-job/30 bg-open-job/10 text-open-job',
+        // A job nobody has built a bot for yet. A vacancy, not an error — so it
+        // wears the hard hat colour rather than a warning colour.
+        open: 'border-ink bg-hi-vis text-ink',
       },
     },
     defaultVariants: {

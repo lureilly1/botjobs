@@ -6,16 +6,19 @@ import { cn } from '@/lib/utils';
 // nesting a <button> inside an <a>. Prefer `<a class={buttonVariants(...)}>`
 // over a Slot/asChild indirection — this site is mostly links.
 export const buttonVariants = cva(
-  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0",
+  "inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-md text-sm font-semibold tracking-tight focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0",
   {
     variants: {
       variant: {
-        default: 'bg-primary text-primary-foreground shadow-sm hover:bg-primary/90',
-        secondary: 'bg-secondary text-secondary-foreground hover:bg-secondary/80',
-        outline: 'border border-input bg-background hover:bg-accent hover:text-accent-foreground',
-        ghost: 'hover:bg-accent hover:text-accent-foreground',
-        link: 'text-primary underline-offset-4 hover:underline',
-        destructive: 'bg-destructive text-destructive-foreground shadow-sm hover:bg-destructive/90',
+        // The cartoon outline in UI form. `pressable` collapses the offset
+        // shadow on click, so the button physically presses into the page.
+        default: 'bg-ink text-paper outlined pressable',
+        hivis: 'bg-hi-vis text-ink outlined pressable',
+        secondary: 'bg-card text-ink outlined pressable',
+        outline: 'border-border text-foreground hover:border-ink border bg-transparent',
+        ghost: 'hover:bg-accent/40 text-foreground',
+        link: 'text-foreground underline decoration-hi-vis decoration-2 underline-offset-4',
+        destructive: 'bg-destructive text-destructive-foreground outlined pressable',
       },
       size: {
         sm: 'h-8 rounded-md px-3 text-xs',

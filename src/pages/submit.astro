@@ -1,0 +1,100 @@
+---
+import Base from '@/layouts/Base.astro';
+import { buttonVariants } from '@/components/ui/button';
+import { Badge } from '@/components/ui/badge';
+import { issueUrl, urls } from '@/config';
+
+// The drafting pipeline (form → AI draft → PR from a bot fork) is T15. Until
+// then the honest route is the one the repo already supports: an issue or a
+// direct PR. Better a working path today than a form that pretends to submit.
+const routes = [
+  {
+    id: 'bot',
+    kicker: 'You built or found one',
+    title: 'Submit a bot',
+    lede: 'Put a candidate forward. Paste the official x.ai share link and tell us what it actually does — we write the listing in our own words, credit you, and link back to wherever it first appeared.',
+    checklist: [
+      'An official x.ai/bot/… share link',
+      'Who made it, if it was not you',
+      'One line on what it does in practice',
+    ],
+    cta: 'Submit a bot',
+    href: issueUrl('bot', '[bot] '),
+    variant: 'hivis' as const,
+  },
+  {
+    id: 'job',
+    kicker: 'You want one to exist',
+    title: 'Submit a job',
+    lede: 'Post a vacancy. If nobody has built a decent bot for it yet, the job still gets a page and sits on the open list until somebody does — which is how creators find out it is wanted.',
+    checklist: [
+      'The job, in the words you would search for',
+      'What a good result would look like',
+      'Anything you have already tried',
+    ],
+    cta: 'Submit a job',
+    href: issueUrl('job', '[job] '),
+    variant: 'secondary' as const,
+  },
+];
+---
+
+<Base
+  title="Submit a bot or a job"
+  description="Put a Grok Bot forward for a job, or post a job you want a bot to do."
+>
+  <section class="mx-auto max-w-6xl px-4 pt-14 pb-10 sm:px-6">
+    <p class="eyebrow text-muted-foreground">Two ways in</p>
+    <h1 class="mt-3 max-w-2xl text-[2.25rem] leading-[1] sm:text-5xl">
+      Put a bot forward, or <span class="marker">post the job</span>.
+    </h1>
+    <p class="prose-editorial mt-4">
+      This is a job board, so it runs on both sides. Bots are the candidates and jobs are the
+      vacancies — and a vacancy nobody can fill is still worth listing.
+    </p>
+  </section>
+
+  <section class="mx-auto grid max-w-6xl gap-5 px-4 pb-16 sm:px-6 lg:grid-cols-2">
+    {
+      routes.map((r) => (
+        <div id={r.id} class="outlined bg-card scroll-mt-24 rounded-lg p-6 sm:p-7">
+          <Badge variant={r.variant === 'hivis' ? 'open' : 'outline'}>{r.kicker}</Badge>
+          <h2 class="mt-3.5 text-2xl">{r.title}</h2>
+          <p class="prose-editorial mt-2.5">{r.lede}</p>
+
+          <p class="eyebrow text-muted-foreground mt-6">What to include</p>
+          <ul class="mt-2.5 space-y-1.5 text-sm">
+            {r.checklist.map((item) => (
+              <li class="flex gap-2.5">
+                <span class="bg-hi-vis mt-2 size-1.5 shrink-0 rounded-full" aria-hidden="true" />
+                {item}
+              </li>
+            ))}
+          </ul>
+
+          <a href={r.href} rel="noopener" class={buttonVariants({ variant: r.variant, className: 'mt-6' })}>
+            {r.cta}
+          </a>
+        </div>
+      ))
+    }
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
+    <div class="border-border rounded-lg border border-dashed p-6">
+      <h2 class="text-lg">What happens next</h2>
+      <p class="prose-editorial mt-2">
+        Every record on this site is a file in a public repo, so a submission becomes a pull
+        request that anyone can read. We never republish a source directory's write-up — the
+        listing gets written in our own words and your original link is credited. If something
+        is wrong, say so and we will fix it; if you want a bot removed, we remove it within 48
+        hours without argument.
+      </p>
+      <p class="mt-4 text-sm">
+        <a href={urls.openJobs()} class="font-semibold underline decoration-2 underline-offset-4">
+          See which jobs are still open →
+        </a>
+      </p>
+    </div>
+  </section>
+</Base>

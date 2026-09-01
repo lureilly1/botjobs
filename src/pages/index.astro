@@ -4,11 +4,13 @@ import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
 import { SITE, urls } from '@/config';
-import { getJobs, bestEvidence } from '@/lib/data';
+import { getJobs, getBots, bestEvidence } from '@/lib/data';
 
 const jobs = await getJobs();
+const bots = await getBots();
 const filled = jobs.filter((j) => j.status === 'filled');
 const open = jobs.filter((j) => j.status === 'open');
+const creators = new Set(bots.map((b) => b.creator.handle)).size;
 
 const suggestions = [
   'Monitor my competitors',
@@ -23,58 +25,87 @@ const suggestions = [
 ---
 
 <Base title={SITE.name} description={SITE.description}>
-  <section class="mx-auto max-w-6xl px-4 pt-16 pb-14 sm:px-6 sm:pt-24">
-    <div class="max-w-3xl">
-      <p class="eyebrow">The vacancies board for Grok Bots</p>
-      <h1
-        class="mt-3 text-3xl font-semibold tracking-tight text-balance sm:text-[2.75rem] sm:leading-[1.05]"
-      >
-        What do you want your Grok Bot to do?
-      </h1>
-      <p class="prose-editorial mt-4">
-        Every listing here is a job somebody actually wanted done. We find the bots that
-        claim they can do it, check their paperwork against the official listing, and write
-        down what we found. <strong>You do the hiring.</strong>
-      </p>
+  <section class="mx-auto max-w-6xl px-4 pt-14 pb-12 sm:px-6 sm:pt-20">
+    <div class="grid items-center gap-10 lg:grid-cols-[minmax(0,1fr)_auto]">
+      <div class="max-w-3xl">
+        <p class="eyebrow text-muted-foreground">The vacancies board for Grok Bots</p>
 
-      <!-- Plain form, no JavaScript required. The typeahead becomes a React
-           island in T11; this stays as the no-JS fallback underneath it. -->
-      <form action={urls.search()} method="get" class="mt-8 flex gap-2">
-        <label for="q" class="sr-only">Describe the job</label>
-        <input
-          id="q"
-          name="q"
-          type="search"
-          autocomplete="off"
-          placeholder="monitor my competitors"
-          class="border-input bg-card ring-offset-background placeholder:text-muted-foreground focus-visible:ring-ring h-11 flex-1 rounded-md border px-4 text-[15px] shadow-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
-        />
-        <button type="submit" class={buttonVariants({ size: 'lg' })}>Find bots</button>
-      </form>
+        <h1 class="mt-3.5 text-[2.5rem] leading-[0.98] sm:text-6xl">
+          Find the right <span class="marker">GrokBot</span> for the job.
+        </h1>
 
-      <ul class="mt-5 flex flex-wrap gap-2">
-        {
-          suggestions.map((s) => (
-            <li>
-              <a
-                href={urls.search(s)}
-                class="border-border bg-card text-muted-foreground hover:border-foreground/25 hover:text-foreground inline-block rounded-full border px-3 py-1.5 text-[13px] transition-colors"
-              >
-                {s}
-              </a>
-            </li>
-          ))
-        }
-      </ul>
+        <p class="prose-editorial mt-5">
+          Every listing here is a job somebody actually wanted done. We find the bots that
+          claim they can do it, check their paperwork against the official listing, and write
+          down what we found. <strong>You do the hiring.</strong>
+        </p>
+
+        <form action={urls.search()} method="get" class="mt-8 flex max-w-xl gap-2.5">
+          <label for="q" class="sr-only">Describe the job</label>
+          <input
+            id="q"
+            name="q"
+            type="search"
+            autocomplete="off"
+            placeholder="monitor my competitors"
+            class="border-ink bg-card placeholder:text-muted-foreground focus-visible:ring-ink h-12 flex-1 rounded-md border-[1.5px] px-4 text-[15px] font-medium focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+          />
+          <button type="submit" class={buttonVariants({ size: 'lg', className: 'h-12' })}>
+            Find bots
+          </button>
+        </form>
+
+        <ul class="mt-4 flex flex-wrap gap-2">
+          {
+            suggestions.map((s) => (
+              <li>
+                <a
+                  href={urls.search(s)}
+                  class="border-border bg-card text-muted-foreground hover:border-ink hover:text-foreground inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+                >
+                  {s}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <img
+        src="/logo.png"
+        alt="The Bot Jobs mascot: a bot in a hard hat carrying a toolbox and a spanner"
+        width="512"
+        height="512"
+        class="hidden w-[260px] justify-self-end lg:block"
+      />
     </div>
+
+    <!-- The numbers are the pitch: this is a union of catalogues nobody else indexes. -->
+    <dl class="border-border mt-12 grid max-w-2xl grid-cols-3 gap-px overflow-hidden border-y">
+      {
+        [
+          { n: bots.length, label: 'bots on file' },
+          { n: creators, label: 'creators credited' },
+          { n: jobs.length, label: 'jobs listed' },
+        ].map(({ n, label }) => (
+          <div class="py-4">
+            <dt class="font-display text-3xl font-extrabold tracking-tight">{n}</dt>
+            <dd class="eyebrow text-muted-foreground mt-1">{label}</dd>
+          </div>
+        ))
+      }
+    </dl>
   </section>
 
   {
     filled.length > 0 && (
       <section class="mx-auto max-w-6xl px-4 pb-14 sm:px-6">
-        <div class="mb-1 flex items-baseline justify-between">
-          <h2 class="text-xl font-semibold tracking-tight">Now hiring</h2>
-          <a href={urls.jobs()} class="text-muted-foreground hover:text-foreground text-sm">
+        <div class="mb-1 flex items-baseline justify-between gap-4">
+          <h2 class="text-2xl">Now hiring</h2>
+          <a
+            href={urls.jobs()}
+            class="text-muted-foreground hover:text-foreground shrink-0 text-sm font-medium"
+          >
             All jobs →
           </a>
         </div>
@@ -82,14 +113,15 @@ const suggestions = [
           Jobs with at least one bot worth putting forward.
         </p>
 
-        <ul class="border-border bg-card rule-list overflow-hidden rounded-lg border">
+        <ul class="border-ink bg-card rule-list overflow-hidden rounded-lg border-[1.5px]">
           {filled.map((job) => (
             <li>
-              <a href={urls.job(job.slug)} class="group hover:bg-accent/60 flex items-center gap-4 p-4 transition-colors sm:px-5">
+              <a
+                href={urls.job(job.slug)}
+                class="group hover:bg-hi-vis/15 flex items-center gap-4 p-4 transition-colors sm:px-5"
+              >
                 <div class="min-w-0 flex-1">
-                  <h3 class="group-hover:text-primary font-medium transition-colors">
-                    {job.title}
-                  </h3>
+                  <h3 class="text-[17px] font-bold">{job.title}</h3>
                   <p class="text-muted-foreground mt-0.5 line-clamp-1 text-sm">
                     {job.searchIntent}
                   </p>
@@ -108,24 +140,24 @@ const suggestions = [
 
   {
     open.length > 0 && (
-      <section class="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
-        <div class="border-open-job/25 bg-open-job/[0.04] rounded-lg border p-5 sm:p-6">
-          <Badge variant="open" className="font-mono">
+      <section class="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
+        <div class="outlined bg-card rounded-lg p-6 sm:p-7">
+          <Badge variant="open">
             {open.length} open {open.length === 1 ? 'position' : 'positions'}
           </Badge>
-          <h2 class="mt-3 text-xl font-semibold tracking-tight">Nobody has applied yet</h2>
-          <p class="prose-editorial mt-2">
+          <h2 class="mt-3.5 text-2xl">Nobody has applied yet</h2>
+          <p class="prose-editorial mt-2.5">
             Some jobs have no bot behind them worth recommending. We leave the position open
-            rather than padding it out with something that does not do the work — which
-            makes this, conveniently, a build-this list.
+            rather than padding it out with something that does not do the work — which makes
+            this, conveniently, a build-this list.
           </p>
 
           <ul class="mt-5 flex flex-wrap gap-2">
-            {open.slice(0, 6).map((job) => (
+            {open.slice(0, 8).map((job) => (
               <li>
                 <a
                   href={urls.job(job.slug)}
-                  class="border-open-job/30 bg-card text-foreground hover:border-open-job/60 inline-block rounded-full border px-3 py-1.5 text-[13px] transition-colors"
+                  class="border-ink bg-hi-vis/25 hover:bg-hi-vis inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
                 >
                   {job.title}
                 </a>
@@ -135,7 +167,7 @@ const suggestions = [
 
           <a
             href={urls.openJobs()}
-            class={buttonVariants({ variant: 'outline', size: 'sm', className: 'mt-5' })}
+            class={buttonVariants({ variant: 'secondary', size: 'sm', className: 'mt-6' })}
           >
             See every open job
           </a>
@@ -143,4 +175,39 @@ const suggestions = [
       </section>
     )
   }
+
+  <!-- Both sides of the board. Bots are the candidates, jobs are the vacancies. -->
+  <section class="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
+    <div class="grid gap-5 sm:grid-cols-2">
+      <div class="border-ink rounded-lg border-[1.5px] p-6">
+        <p class="eyebrow text-muted-foreground">Built or found one</p>
+        <h2 class="mt-2.5 text-xl">Submit a bot</h2>
+        <p class="prose-editorial mt-2 text-sm">
+          Put a candidate forward. We write the listing in our own words, credit you, and link
+          back to where it first appeared.
+        </p>
+        <a
+          href={urls.submitBot()}
+          class={buttonVariants({ variant: 'hivis', size: 'sm', className: 'mt-5' })}
+        >
+          Submit a bot
+        </a>
+      </div>
+
+      <div class="border-ink rounded-lg border-[1.5px] p-6">
+        <p class="eyebrow text-muted-foreground">Want one to exist</p>
+        <h2 class="mt-2.5 text-xl">Submit a job</h2>
+        <p class="prose-editorial mt-2 text-sm">
+          Post a vacancy. If nobody has built a decent bot for it, the job still gets a page —
+          which is how creators find out it is wanted.
+        </p>
+        <a
+          href={urls.submitJob()}
+          class={buttonVariants({ variant: 'secondary', size: 'sm', className: 'mt-5' })}
+        >
+          Submit a job
+        </a>
+      </div>
+    </div>
+  </section>
 </Base>
