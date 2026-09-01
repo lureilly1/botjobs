@@ -1,0 +1,31 @@
+{
+  "slug": "chef",
+  "name": "Chef",
+  "grokShareUrl": "https://x.ai/bot/3U6zxtPa1b8GbWheaIr4J",
+  "botId": "3U6zxtPa1b8GbWheaIr4J",
+  "creator": {
+    "handle": "DogecoinNorway",
+    "url": "https://x.com/DogecoinNorway"
+  },
+  "sourceUrl": "https://x.com/DogecoinNorway/status/2093396816087990331",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chef/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "life-hacks",
+    "saving-money",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

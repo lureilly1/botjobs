@@ -1,0 +1,30 @@
+{
+  "slug": "sterling",
+  "name": "Sterling",
+  "grokShareUrl": "https://x.ai/bot/WNJl5y33yqdOp3CnhR4-k",
+  "botId": "WNJl5y33yqdOp3CnhR4-k",
+  "creator": {
+    "handle": "jchybow",
+    "url": "https://x.com/jchybow"
+  },
+  "sourceUrl": "https://x.com/jchybow/status/2094256023498326357",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sterling/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

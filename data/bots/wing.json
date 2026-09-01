@@ -1,0 +1,29 @@
+{
+  "slug": "wing",
+  "name": "wing",
+  "grokShareUrl": "https://x.ai/bot/7tQzGIL3WcHG8_Nt7CVwv",
+  "botId": "7tQzGIL3WcHG8_Nt7CVwv",
+  "creator": {
+    "handle": "poteto",
+    "url": "https://x.com/poteto"
+  },
+  "sourceUrl": "https://x.com/poteto/status/2093516142019318262",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wing/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "content",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

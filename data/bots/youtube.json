@@ -1,0 +1,30 @@
+{
+  "slug": "youtube",
+  "name": "Youtube分析官",
+  "grokShareUrl": "https://x.ai/bot/Ja29gpInav-alRhXhzyNL",
+  "botId": "Ja29gpInav-alRhXhzyNL",
+  "creator": {
+    "handle": "madogiwacowork",
+    "url": "https://x.com/madogiwacowork"
+  },
+  "sourceUrl": "https://x.com/madogiwacowork/status/2093685473411805533",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/youtube/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "youtube",
+    "content",
+    "learning",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

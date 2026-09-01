@@ -1,0 +1,31 @@
+{
+  "slug": "unifi-aq-trmnl-integration",
+  "name": "unifi AQ trmnl integration",
+  "grokShareUrl": "https://x.ai/bot/NU02qQ9iahZtAM0i0x1KT",
+  "botId": "NU02qQ9iahZtAM0i0x1KT",
+  "creator": {
+    "handle": "rrrkren",
+    "url": "https://x.com/rrrkren"
+  },
+  "sourceUrl": "https://x.com/rrrkren/status/2094584750040388071",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/unifi-aq-trmnl-integration/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "home",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

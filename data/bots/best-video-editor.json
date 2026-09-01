@@ -1,0 +1,30 @@
+{
+  "slug": "best-video-editor",
+  "name": "Best Video Editor",
+  "grokShareUrl": "https://x.ai/bot/Do4CujP_kqnnc1KYnpOfI",
+  "botId": "Do4CujP_kqnnc1KYnpOfI",
+  "creator": {
+    "handle": "XFreeze",
+    "url": "https://x.com/XFreeze"
+  },
+  "sourceUrl": "https://x.com/XFreeze/status/2093442263200235974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/best-video-editor/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

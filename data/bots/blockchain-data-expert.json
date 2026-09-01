@@ -1,0 +1,31 @@
+{
+  "slug": "blockchain-data-expert",
+  "name": "Blockchain Data Expert",
+  "grokShareUrl": "https://x.ai/bot/eyFr_G8h9UmrQHNpZpNfx",
+  "botId": "eyFr_G8h9UmrQHNpZpNfx",
+  "creator": {
+    "handle": "data_nexus",
+    "url": "https://x.com/data_nexus"
+  },
+  "sourceUrl": "https://x.com/data_nexus/status/2094265024227192946",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blockchain-data-expert/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "crypto",
+    "data",
+    "research",
+    "analytics",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

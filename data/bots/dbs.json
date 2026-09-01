@@ -1,0 +1,31 @@
+{
+  "slug": "dbs",
+  "name": "dbs",
+  "grokShareUrl": "https://x.ai/bot/l6H6WL7HF-CAwcvr1hBey",
+  "botId": "l6H6WL7HF-CAwcvr1hBey",
+  "creator": {
+    "handle": "Leechael",
+    "url": "https://x.com/Leechael"
+  },
+  "sourceUrl": "https://x.com/Leechael/status/2093655085935165706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dbs/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "social-media",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "mappy-talent-map",
+  "name": "Mappy (Talent Map)",
+  "grokShareUrl": "https://x.ai/bot/spIXb6rwPJq_iFlu1L-_l",
+  "botId": "spIXb6rwPJq_iFlu1L-_l",
+  "creator": {
+    "handle": "NickRoman",
+    "url": "https://x.com/NickRoman"
+  },
+  "sourceUrl": "https://x.com/NickRoman/status/2093426904950833178",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mappy-talent-map/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "recruiting",
+    "business",
+    "sales",
+    "research",
+    "data",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

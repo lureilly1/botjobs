@@ -1,0 +1,32 @@
+{
+  "slug": "storiesbot",
+  "name": "StoriesBot",
+  "grokShareUrl": "https://x.ai/bot/cV7nGFO88pb2WXNN56h8A",
+  "botId": "cV7nGFO88pb2WXNN56h8A",
+  "creator": {
+    "handle": "viticci",
+    "url": "https://x.com/viticci"
+  },
+  "sourceUrl": "https://x.com/viticci/status/2093420134962540763",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/storiesbot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "research",
+    "learning",
+    "content",
+    "on-demand",
+    "knowledge-base"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

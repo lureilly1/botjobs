@@ -1,0 +1,30 @@
+{
+  "slug": "steer",
+  "name": "STEER",
+  "grokShareUrl": "https://x.ai/bot/mhzjt-Pa01Ds8EJ0zJrcz",
+  "botId": "mhzjt-Pa01Ds8EJ0zJrcz",
+  "creator": {
+    "handle": "bfrench",
+    "url": "https://x.com/bfrench"
+  },
+  "sourceUrl": "https://x.com/bfrench/status/2094591383080403402",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/steer/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

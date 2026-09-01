@@ -1,0 +1,30 @@
+{
+  "slug": "overwatch",
+  "name": "Overwatch",
+  "grokShareUrl": "https://x.ai/bot/7u3XiRiTYw4GVZmuZboyP",
+  "botId": "7u3XiRiTYw4GVZmuZboyP",
+  "creator": {
+    "handle": "scheemunai",
+    "url": "https://x.com/scheemunai"
+  },
+  "sourceUrl": "https://x.com/scheemunai/status/2093397147882229897",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/overwatch/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "back-office",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

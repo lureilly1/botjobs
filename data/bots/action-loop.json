@@ -1,0 +1,29 @@
+{
+  "slug": "action-loop",
+  "name": "Action Loop",
+  "grokShareUrl": "https://x.ai/bot/py5cXgcAKPdEYsYK_AmcM",
+  "botId": "py5cXgcAKPdEYsYK_AmcM",
+  "creator": {
+    "handle": "thekuchh",
+    "url": "https://x.com/thekuchh"
+  },
+  "sourceUrl": "https://x.com/thekuchh/status/2094103820687303057",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/action-loop/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sap-technical-consultant",
+  "name": "SAP Technical Consultant",
+  "grokShareUrl": "https://x.ai/bot/O08yUdBz6vFFqYITvWPPi",
+  "botId": "O08yUdBz6vFFqYITvWPPi",
+  "creator": {
+    "handle": "beinglalit21",
+    "url": "https://x.com/beinglalit21"
+  },
+  "sourceUrl": "https://x.com/beinglalit21/status/2093783196488061076",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sap-technical-consultant/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "engineering",
+    "data",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

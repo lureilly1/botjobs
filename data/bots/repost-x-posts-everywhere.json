@@ -1,0 +1,31 @@
+{
+  "slug": "repost-x-posts-everywhere",
+  "name": "repost X posts everywhere",
+  "grokShareUrl": "https://x.ai/bot/fu6JIwhLoBvrxtaZik0RP",
+  "botId": "fu6JIwhLoBvrxtaZik0RP",
+  "creator": {
+    "handle": "jackfriks",
+    "url": "https://x.com/jackfriks"
+  },
+  "sourceUrl": "https://x.com/jackfriks/status/2093719119984001073",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/repost-x-posts-everywhere/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "automation",
+    "content",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

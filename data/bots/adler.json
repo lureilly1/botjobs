@@ -1,0 +1,31 @@
+{
+  "slug": "adler",
+  "name": "Adler",
+  "grokShareUrl": "https://x.ai/bot/5HCe3lRaa5-c4c2RbA-LT",
+  "botId": "5HCe3lRaa5-c4c2RbA-LT",
+  "creator": {
+    "handle": "pardzz_",
+    "url": "https://x.com/pardzz_"
+  },
+  "sourceUrl": "https://x.com/pardzz_/status/2093708336025698586",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/adler/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "wellbeing",
+    "learning",
+    "health",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

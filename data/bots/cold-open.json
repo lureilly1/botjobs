@@ -1,0 +1,30 @@
+{
+  "slug": "cold-open",
+  "name": "Cold Open",
+  "grokShareUrl": "https://x.ai/bot/h4suD8jA37Wsb7tS4giUO",
+  "botId": "h4suD8jA37Wsb7tS4giUO",
+  "creator": {
+    "handle": "altryne",
+    "url": "https://x.com/altryne"
+  },
+  "sourceUrl": "https://x.com/altryne/status/2093459037484622297",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cold-open/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

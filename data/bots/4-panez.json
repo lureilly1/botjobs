@@ -1,0 +1,29 @@
+{
+  "slug": "4-panez",
+  "name": "4 Panez",
+  "grokShareUrl": "https://x.ai/bot/91R37-rUOh9sS1tZkIF9d",
+  "botId": "91R37-rUOh9sS1tZkIF9d",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2094179990782759104",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/4-panez/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "design",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

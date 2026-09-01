@@ -1,0 +1,32 @@
+{
+  "slug": "cos",
+  "name": "CoS",
+  "grokShareUrl": "https://x.ai/bot/eiVFbd0nIdH2gzSwHOs0D",
+  "botId": "eiVFbd0nIdH2gzSwHOs0D",
+  "creator": {
+    "handle": "theaaron",
+    "url": "https://x.com/theaaron"
+  },
+  "sourceUrl": "https://x.com/theaaron/status/2094547674766929996",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cos/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "back-office",
+    "calendar",
+    "email",
+    "agent-team",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

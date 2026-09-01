@@ -1,0 +1,31 @@
+{
+  "slug": "adaptlypost",
+  "name": "AdaptlyPost",
+  "grokShareUrl": "https://x.ai/bot/1GpK7CoPs4e_M__9rb3uR",
+  "botId": "1GpK7CoPs4e_M__9rb3uR",
+  "creator": {
+    "handle": "tarasshyn",
+    "url": "https://x.com/tarasshyn"
+  },
+  "sourceUrl": "https://x.com/tarasshyn/status/2093726077906493508",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/adaptlypost/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "content",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

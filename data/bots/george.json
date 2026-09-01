@@ -1,0 +1,30 @@
+{
+  "slug": "george",
+  "name": "George",
+  "grokShareUrl": "https://x.ai/bot/8vjjlI7z5W0HtpRcFQgJ4",
+  "botId": "8vjjlI7z5W0HtpRcFQgJ4",
+  "creator": {
+    "handle": "arni0x9053",
+    "url": "https://x.com/arni0x9053"
+  },
+  "sourceUrl": "https://x.com/arni0x9053/status/2093838719510053326",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/george/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "automation",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

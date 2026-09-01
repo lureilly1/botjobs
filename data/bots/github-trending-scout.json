@@ -1,0 +1,31 @@
+{
+  "slug": "github-trending-scout",
+  "name": "github 优秀仓库",
+  "grokShareUrl": "https://x.ai/bot/D9HYH2jAmGiKw7e499mrE",
+  "botId": "D9HYH2jAmGiKw7e499mrE",
+  "creator": {
+    "handle": "ios_1261142602",
+    "url": "https://x.com/ios_1261142602"
+  },
+  "sourceUrl": "https://x.com/ios_1261142602/status/2094243852932776384",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/github-trending-scout/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "research",
+    "engineering",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

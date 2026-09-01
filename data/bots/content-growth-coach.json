@@ -1,0 +1,31 @@
+{
+  "slug": "content-growth-coach",
+  "name": "Content Growth Coach",
+  "grokShareUrl": "https://x.ai/bot/sMmoqCElqRPj1RYbtngMr",
+  "botId": "sMmoqCElqRPj1RYbtngMr",
+  "creator": {
+    "handle": "jxckvibe",
+    "url": "https://x.com/jxckvibe"
+  },
+  "sourceUrl": "https://x.com/jxckvibe/status/2093771166598975669",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/content-growth-coach/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "growth",
+    "social-media",
+    "youtube",
+    "content",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "fantasy-football-advisor",
+  "name": "Fantasy Football Advisor",
+  "grokShareUrl": "https://x.ai/bot/E273ZIwirOOdwMfeCp97t",
+  "botId": "E273ZIwirOOdwMfeCp97t",
+  "creator": {
+    "handle": "Colehollander10",
+    "url": "https://x.com/Colehollander10"
+  },
+  "sourceUrl": "https://x.com/Colehollander10/status/2093837029674987662",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-advisor/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "monitoring",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

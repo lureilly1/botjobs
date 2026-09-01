@@ -19,7 +19,9 @@ export const SHARE_URL_RE = /^https:\/\/x\.ai\/bot\/([A-Za-z0-9_-]+)$/;
 
 export const EVIDENCE_LEVELS = ['listed', 'source-linked', 'link-verified'];
 
-export const LINK_STATUSES = ['live', 'redirected', 'dead'];
+// `unchecked` is the honest state straight after ingest: we have the share URL
+// from a catalogue but have not yet fetched it ourselves.
+export const LINK_STATUSES = ['unchecked', 'live', 'redirected', 'dead'];
 
 export const CATEGORIES = {
   'business-operations': 'Business & Operations',
@@ -111,7 +113,16 @@ export function validateBot(bot, filenameSlug) {
     if (!isNonEmptyString(bot.discoveredVia.url)) e.push('discoveredVia.url: required');
   }
 
-  if (!isNonEmptyString(bot.description)) e.push('description: required (our own words)');
+  // description is nullable ON PURPOSE.
+  //
+  // Ingest pulls facts — share URL, creator, source post, tags. It must never
+  // pull a source directory's description, because that is their editorial and
+  // reusing it is the exact pattern our own rules forbid. So an ingested record
+  // arrives with description: null and stays unpublishable until somebody
+  // writes our summary. The copy rule is enforced structurally: the pipeline
+  // that could plagiarise has nowhere to put the stolen text.
+  if (bot.description !== null && !isNonEmptyString(bot.description))
+    e.push('description: must be our own words, or null until written');
 
   if (!EVIDENCE_LEVELS.includes(bot.evidenceLevel))
     e.push(`evidenceLevel: must be one of ${EVIDENCE_LEVELS.join(', ')}`);
@@ -249,11 +260,23 @@ export function validateDataset(jobs, bots) {
     } else byBotId.set(id, slug);
   }
 
+  const botsBySlug = new Map(bots.map((b) => [b.slug, b.record]));
+
   for (const { slug, record } of jobs) {
     const errors = [];
     for (const b of record?.bots ?? []) {
-      if (b?.botSlug && !botSlugs.has(b.botSlug))
+      if (b?.botSlug && !botSlugs.has(b.botSlug)) {
         errors.push(`bots: "${b.botSlug}" has no record in data/bots/`);
+        continue;
+      }
+      // A published job cannot put forward a candidate we have not written up.
+      // This is what stops raw ingest output reaching a page: an ingested bot
+      // has description: null until somebody describes it in our own words.
+      if (record?.publish === true && !botsBySlug.get(b.botSlug)?.description) {
+        errors.push(
+          `bots: "${b.botSlug}" has no description yet — a published job cannot put forward a bot we have not written up`
+        );
+      }
     }
     for (const r of record?.relatedJobs ?? []) {
       if (!jobSlugs.has(r)) errors.push(`relatedJobs: "${r}" has no record in data/jobs/`);

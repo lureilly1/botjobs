@@ -1,0 +1,31 @@
+{
+  "slug": "box-inspector",
+  "name": "Box Inspector",
+  "grokShareUrl": "https://x.ai/bot/q7GLbLhMZDpJXBGuuci1J",
+  "botId": "q7GLbLhMZDpJXBGuuci1J",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2093499564988703231",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/box-inspector/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "decision-support",
+    "research",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

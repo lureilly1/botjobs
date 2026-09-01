@@ -1,0 +1,30 @@
+{
+  "slug": "tech-lead",
+  "name": "Tech Lead",
+  "grokShareUrl": "https://x.ai/bot/RfFPxQ_rfEGcUncrJ6g_W",
+  "botId": "RfFPxQ_rfEGcUncrJ6g_W",
+  "creator": {
+    "handle": "inqusit",
+    "url": "https://x.com/inqusit"
+  },
+  "sourceUrl": "https://x.com/inqusit/status/2094021157213348277",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tech-lead/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

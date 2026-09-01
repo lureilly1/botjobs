@@ -1,0 +1,30 @@
+{
+  "slug": "researchy",
+  "name": "Researchy",
+  "grokShareUrl": "https://x.ai/bot/rQt4W2zO2Gx9lfcBjd1lj",
+  "botId": "rQt4W2zO2Gx9lfcBjd1lj",
+  "creator": {
+    "handle": "farzyness",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": "https://x.com/farzyness/status/2094148803494391903",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/researchy/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

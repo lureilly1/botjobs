@@ -1,0 +1,32 @@
+{
+  "slug": "grimoire-s-tome-the-grim-council",
+  "name": "Grimoire's Tome & The Grim Council",
+  "grokShareUrl": "https://x.ai/bot/luPJeAxuAjhqO97wU3wm0",
+  "botId": "luPJeAxuAjhqO97wU3wm0",
+  "creator": {
+    "handle": "NickADobos",
+    "url": "https://x.com/NickADobos"
+  },
+  "sourceUrl": "https://x.com/NickADobos/status/2093400318063284581",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grimoire-s-tome-the-grim-council/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "personal",
+    "automation",
+    "productivity",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

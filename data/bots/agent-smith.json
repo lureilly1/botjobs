@@ -1,0 +1,31 @@
+{
+  "slug": "agent-smith",
+  "name": "Agent Smith",
+  "grokShareUrl": "https://x.ai/bot/JcFj23aaufNWkuiiJTX0j",
+  "botId": "JcFj23aaufNWkuiiJTX0j",
+  "creator": {
+    "handle": "chiplay",
+    "url": "https://x.com/chiplay"
+  },
+  "sourceUrl": "https://x.com/chiplay/status/2093502053037293650",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-smith/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "back-office",
+    "meta-bot",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "foundry",
+  "name": "Foundry",
+  "grokShareUrl": "https://x.ai/bot/ScfBcREQMQex9JUf2Se63",
+  "botId": "ScfBcREQMQex9JUf2Se63",
+  "creator": {
+    "handle": "gtOSnz",
+    "url": "https://x.com/gtOSnz"
+  },
+  "sourceUrl": "https://x.com/gtOSnz/status/2093633012722512228",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/foundry/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

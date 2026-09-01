@@ -1,0 +1,31 @@
+{
+  "slug": "work-work-door",
+  "name": "Work (Work Door)",
+  "grokShareUrl": "https://x.ai/bot/vOipeiu0AZ7CuC5ynw5h0",
+  "botId": "vOipeiu0AZ7CuC5ynw5h0",
+  "creator": {
+    "handle": "TylerNishida",
+    "url": "https://x.com/TylerNishida"
+  },
+  "sourceUrl": "https://x.com/TylerNishida/status/2093426221732532457",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/work-work-door/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

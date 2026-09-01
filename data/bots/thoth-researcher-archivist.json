@@ -1,0 +1,32 @@
+{
+  "slug": "thoth-researcher-archivist",
+  "name": "Thoth (Researcher & Archivist)",
+  "grokShareUrl": "https://x.ai/bot/W4Z5pvEm6UgCml48Ig4dT",
+  "botId": "W4Z5pvEm6UgCml48Ig4dT",
+  "creator": {
+    "handle": "RichSilver",
+    "url": "https://x.com/RichSilver"
+  },
+  "sourceUrl": "https://x.com/RichSilver/status/2093409239246971049",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/thoth-researcher-archivist/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "student",
+    "research",
+    "data",
+    "back-office",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

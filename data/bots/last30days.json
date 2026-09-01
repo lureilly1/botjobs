@@ -1,0 +1,31 @@
+{
+  "slug": "last30days",
+  "name": "last30days",
+  "grokShareUrl": "https://x.ai/bot/ANv3NrqPfRcS9PdXku7h8",
+  "botId": "ANv3NrqPfRcS9PdXku7h8",
+  "creator": {
+    "handle": "mvanhorn",
+    "url": "https://x.com/mvanhorn"
+  },
+  "sourceUrl": "https://x.com/mvanhorn/status/2093466618718245198",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/last30days/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "research",
+    "analytics",
+    "social-media",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

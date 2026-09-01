@@ -1,0 +1,31 @@
+{
+  "slug": "flowsery",
+  "name": "Flowsery",
+  "grokShareUrl": "https://x.ai/bot/tOP05p0n0XVUcpJDfPH0k",
+  "botId": "tOP05p0n0XVUcpJDfPH0k",
+  "creator": {
+    "handle": "tarasshyn",
+    "url": "https://x.com/tarasshyn"
+  },
+  "sourceUrl": "https://x.com/tarasshyn/status/2093730218145976437",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/flowsery/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "analytics",
+    "monitoring",
+    "data",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

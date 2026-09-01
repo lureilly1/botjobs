@@ -1,0 +1,31 @@
+{
+  "slug": "kody",
+  "name": "Kody",
+  "grokShareUrl": "https://x.ai/bot/yTSGElYcIjFW_5IXu2I-e",
+  "botId": "yTSGElYcIjFW_5IXu2I-e",
+  "creator": {
+    "handle": "kentcdodds",
+    "url": "https://x.com/kentcdodds"
+  },
+  "sourceUrl": "https://x.com/kentcdodds/status/2093380421883252897",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kody/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "developer",
+    "productivity",
+    "ops",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

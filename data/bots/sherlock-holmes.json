@@ -1,0 +1,31 @@
+{
+  "slug": "sherlock-holmes",
+  "name": "Sherlock Holmes",
+  "grokShareUrl": "https://x.ai/bot/fXHgGtuPfTcHBTVKSCZ1d",
+  "botId": "fXHgGtuPfTcHBTVKSCZ1d",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2093383124948324505",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sherlock-holmes/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "ops",
+    "research",
+    "data",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

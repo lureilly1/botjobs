@@ -1,0 +1,30 @@
+{
+  "slug": "linky",
+  "name": "Linky",
+  "grokShareUrl": "https://x.ai/bot/zcHEE4_hbqw3cZsy7X2Vk",
+  "botId": "zcHEE4_hbqw3cZsy7X2Vk",
+  "creator": {
+    "handle": "adamludwin",
+    "url": "https://x.com/adamludwin"
+  },
+  "sourceUrl": "https://x.com/adamludwin/status/2093402167394914392",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linky/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

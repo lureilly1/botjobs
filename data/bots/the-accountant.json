@@ -1,0 +1,32 @@
+{
+  "slug": "the-accountant",
+  "name": "The Accountant",
+  "grokShareUrl": "https://x.ai/bot/Y_R1Ya9SIzQZguGTV5NCX",
+  "botId": "Y_R1Ya9SIzQZguGTV5NCX",
+  "creator": {
+    "handle": "brstorrie",
+    "url": "https://x.com/brstorrie"
+  },
+  "sourceUrl": "https://x.com/brstorrie/status/2094654945488252959",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-accountant/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "saving-money",
+    "analytics",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

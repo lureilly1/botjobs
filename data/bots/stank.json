@@ -1,0 +1,29 @@
+{
+  "slug": "stank",
+  "name": "stank",
+  "grokShareUrl": "https://x.ai/bot/FuUabKAg1U5Hyi39TvpTi",
+  "botId": "FuUabKAg1U5Hyi39TvpTi",
+  "creator": {
+    "handle": "poteto",
+    "url": "https://x.com/poteto"
+  },
+  "sourceUrl": "https://x.com/poteto/status/2093517486117499387",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stank/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "life-hacks",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

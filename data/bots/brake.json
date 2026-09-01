@@ -1,0 +1,32 @@
+{
+  "slug": "brake",
+  "name": "Brake",
+  "grokShareUrl": "https://x.ai/bot/ig-dwKjUc7doBIDhiMi9Z",
+  "botId": "ig-dwKjUc7doBIDhiMi9Z",
+  "creator": {
+    "handle": "FantomBuildz",
+    "url": "https://x.com/FantomBuildz"
+  },
+  "sourceUrl": "https://x.com/FantomBuildz/status/2094396074542662068",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/brake/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "productivity",
+    "monitoring",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "marketing-bot-cmo",
+  "name": "Marketing Bot (CMO)",
+  "grokShareUrl": "https://x.ai/bot/37ZOM10GzlSOQpMjRp7KB",
+  "botId": "37ZOM10GzlSOQpMjRp7KB",
+  "creator": {
+    "handle": "tymarsha",
+    "url": "https://x.com/tymarsha"
+  },
+  "sourceUrl": "https://x.com/tymarsha/status/2093448136396095754",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/marketing-bot-cmo/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "growth",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

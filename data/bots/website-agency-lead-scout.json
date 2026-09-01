@@ -1,0 +1,30 @@
+{
+  "slug": "website-agency-lead-scout",
+  "name": "website agency lead scout",
+  "grokShareUrl": "https://x.ai/bot/FBSTEPfTxj7ekvSml-nUJ",
+  "botId": "FBSTEPfTxj7ekvSml-nUJ",
+  "creator": {
+    "handle": "joshkim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": "https://x.com/joshkim/status/2093586339086352806",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/website-agency-lead-scout/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

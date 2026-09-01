@@ -1,0 +1,31 @@
+{
+  "slug": "ai-orchestrator-jp",
+  "name": "AI Orchestrator (JP)",
+  "grokShareUrl": "https://x.ai/bot/-kSMWtBCorQFkgUhm0DLk",
+  "botId": "-kSMWtBCorQFkgUhm0DLk",
+  "creator": {
+    "handle": "mei_999_",
+    "url": "https://x.com/mei_999_"
+  },
+  "sourceUrl": "https://x.com/mei_999_/status/2093423565676954067",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-orchestrator-jp/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "personal",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

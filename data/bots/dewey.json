@@ -1,0 +1,30 @@
+{
+  "slug": "dewey",
+  "name": "Dewey",
+  "grokShareUrl": "https://x.ai/bot/rfAHsaFrz6xHBMtUpxDi5",
+  "botId": "rfAHsaFrz6xHBMtUpxDi5",
+  "creator": {
+    "handle": "Vixlio",
+    "url": "https://x.com/Vixlio"
+  },
+  "sourceUrl": "https://x.com/Vixlio/status/2093843651856081165",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dewey/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "monitoring",
+    "email",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

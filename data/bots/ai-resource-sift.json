@@ -1,0 +1,31 @@
+{
+  "slug": "ai-resource-sift",
+  "name": "AI Resource Sift",
+  "grokShareUrl": "https://x.ai/bot/3XvYxSCGJRY6x1woq-hdL",
+  "botId": "3XvYxSCGJRY6x1woq-hdL",
+  "creator": {
+    "handle": "beamnxw",
+    "url": "https://x.com/beamnxw"
+  },
+  "sourceUrl": "https://x.com/beamnxw/status/2093456831481885041",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-resource-sift/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "student",
+    "research",
+    "learning",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

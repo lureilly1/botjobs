@@ -1,0 +1,32 @@
+{
+  "slug": "fixer-uzi",
+  "name": "Fixer (Uzi)",
+  "grokShareUrl": "https://x.ai/bot/jiF_km66YLNm5LBVJ5_Ho",
+  "botId": "jiF_km66YLNm5LBVJ5_Ho",
+  "creator": {
+    "handle": "UziObi",
+    "url": "https://x.com/UziObi"
+  },
+  "sourceUrl": "https://x.com/UziObi/status/2093401597048975758",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fixer-uzi/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "personal",
+    "productivity",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

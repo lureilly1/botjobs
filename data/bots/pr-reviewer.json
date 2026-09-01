@@ -1,0 +1,29 @@
+{
+  "slug": "pr-reviewer",
+  "name": "PR Reviewer",
+  "grokShareUrl": "https://x.ai/bot/rt629UEZFtE4Wz0A_0c37",
+  "botId": "rt629UEZFtE4Wz0A_0c37",
+  "creator": {
+    "handle": "mustafaergisi",
+    "url": "https://x.com/mustafaergisi"
+  },
+  "sourceUrl": "https://x.com/mustafaergisi/status/2093393924870058039",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pr-reviewer/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

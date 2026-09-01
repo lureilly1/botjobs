@@ -1,0 +1,32 @@
+{
+  "slug": "paddy",
+  "name": "Paddy",
+  "grokShareUrl": "https://x.ai/bot/A42rzhad6J8lhYMOaQ20o",
+  "botId": "A42rzhad6J8lhYMOaQ20o",
+  "creator": {
+    "handle": "DavidCarbutt_",
+    "url": "https://x.com/DavidCarbutt_"
+  },
+  "sourceUrl": "https://x.com/DavidCarbutt_/status/2093669914926072133",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paddy/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "growth",
+    "decision-support",
+    "content",
+    "youtube",
+    "video",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

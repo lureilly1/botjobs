@@ -1,0 +1,31 @@
+{
+  "slug": "twitter-automations",
+  "name": "Twitter Automations",
+  "grokShareUrl": "https://x.ai/bot/e5dNa8n9x4U93UHaCb5nS",
+  "botId": "e5dNa8n9x4U93UHaCb5nS",
+  "creator": {
+    "handle": "theadvisorbtc",
+    "url": "https://x.com/theadvisorbtc"
+  },
+  "sourceUrl": "https://x.com/theadvisorbtc/status/2094434891622457825",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/twitter-automations/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "automation",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

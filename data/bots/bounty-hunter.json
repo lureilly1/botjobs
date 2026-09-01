@@ -1,0 +1,32 @@
+{
+  "slug": "bounty-hunter",
+  "name": "Bounty Hunter",
+  "grokShareUrl": "https://x.ai/bot/gCWYD009F66A3XDEYdZgf",
+  "botId": "gCWYD009F66A3XDEYdZgf",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2093383127162925558",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bounty-hunter/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "life-hacks",
+    "email",
+    "finance",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

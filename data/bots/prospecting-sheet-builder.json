@@ -1,0 +1,31 @@
+{
+  "slug": "prospecting-sheet-builder",
+  "name": "Prospecting Sheet Builder",
+  "grokShareUrl": "https://x.ai/bot/3Peagz3nzagjBRFhjrENd",
+  "botId": "3Peagz3nzagjBRFhjrENd",
+  "creator": {
+    "handle": "thekuchh",
+    "url": "https://x.com/thekuchh"
+  },
+  "sourceUrl": "https://x.com/thekuchh/status/2093742276564459867",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prospecting-sheet-builder/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "research",
+    "automation",
+    "email",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "wedding-photo-hunter",
+  "name": "Wedding Photo Hunter",
+  "grokShareUrl": "https://x.ai/bot/qL6Dww98g_OGhwqDmgvJK",
+  "botId": "qL6Dww98g_OGhwqDmgvJK",
+  "creator": {
+    "handle": "ajt",
+    "url": "https://x.com/ajt"
+  },
+  "sourceUrl": "https://x.com/ajt/status/2093421988580675775",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wedding-photo-hunter/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "automation",
+    "on-demand",
+    "family"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

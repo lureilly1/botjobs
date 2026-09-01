@@ -1,0 +1,27 @@
+{
+  "slug": "keywire-would-you-rather-collector",
+  "name": "KeyWire: Would You Rather: Collector",
+  "grokShareUrl": "https://x.ai/bot/_qeZe0Y7621Wr8y6d7KBU",
+  "botId": "_qeZe0Y7621Wr8y6d7KBU",
+  "creator": {
+    "handle": "CryptoVonDoom",
+    "url": "https://x.com/CryptoVonDoom"
+  },
+  "sourceUrl": "https://x.com/CryptoVonDoom/status/2093528067650281687",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/keywire-would-you-rather-collector/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "john-wick",
+  "name": "John Wick",
+  "grokShareUrl": "https://x.ai/bot/_OlL8LPI6lc2xi82F4Gf7",
+  "botId": "_OlL8LPI6lc2xi82F4Gf7",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2093383148906184985",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/john-wick/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "growth",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

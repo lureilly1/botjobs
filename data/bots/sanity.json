@@ -1,0 +1,30 @@
+{
+  "slug": "sanity",
+  "name": "Sanity",
+  "grokShareUrl": "https://x.ai/bot/qR7nq7v3w0bwpojx2LgQx",
+  "botId": "qR7nq7v3w0bwpojx2LgQx",
+  "creator": {
+    "handle": "ahdumgray",
+    "url": "https://x.com/ahdumgray"
+  },
+  "sourceUrl": "https://x.com/ahdumgray/status/2093504459741794550",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sanity/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "content",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

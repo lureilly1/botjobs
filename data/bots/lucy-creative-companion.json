@@ -1,0 +1,30 @@
+{
+  "slug": "lucy-creative-companion",
+  "name": "Lucy (creative companion)",
+  "grokShareUrl": "https://x.ai/bot/4E6m-7mPfUHzLt_aIJ_5D",
+  "botId": "4E6m-7mPfUHzLt_aIJ_5D",
+  "creator": {
+    "handle": "princess414141",
+    "url": "https://x.com/princess414141"
+  },
+  "sourceUrl": "https://x.com/princess414141/status/2093428767947456999",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lucy-creative-companion/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "wellbeing",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

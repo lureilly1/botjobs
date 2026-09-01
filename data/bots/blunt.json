@@ -1,0 +1,32 @@
+{
+  "slug": "blunt",
+  "name": "Blunt",
+  "grokShareUrl": "https://x.ai/bot/N0J32FbnVRuetJi1oJggh",
+  "botId": "N0J32FbnVRuetJi1oJggh",
+  "creator": {
+    "handle": "Talsiach",
+    "url": "https://x.com/Talsiach"
+  },
+  "sourceUrl": "https://x.com/Talsiach/status/2094408059657326944",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blunt/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "growth",
+    "decision-support",
+    "content",
+    "design",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

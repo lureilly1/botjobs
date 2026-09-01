@@ -1,0 +1,30 @@
+{
+  "slug": "shane-hunter",
+  "name": "shane hunter",
+  "grokShareUrl": "https://x.ai/bot/o0yoY_AhWPpIySJR5TaM-",
+  "botId": "o0yoY_AhWPpIySJR5TaM-",
+  "creator": {
+    "handle": "rightish19",
+    "url": "https://x.com/rightish19"
+  },
+  "sourceUrl": "https://x.com/rightish19/status/2093761406545834296",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shane-hunter/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

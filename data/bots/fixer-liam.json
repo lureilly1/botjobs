@@ -1,0 +1,31 @@
+{
+  "slug": "fixer-liam",
+  "name": "Fixer (Liam)",
+  "grokShareUrl": "https://x.ai/bot/CEtFUY1_kkn78AJSNINHI",
+  "botId": "CEtFUY1_kkn78AJSNINHI",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2093383129780109562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fixer-liam/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "life-hacks",
+    "back-office",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

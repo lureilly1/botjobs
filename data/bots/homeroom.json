@@ -1,0 +1,30 @@
+{
+  "slug": "homeroom",
+  "name": "Homeroom",
+  "grokShareUrl": "https://x.ai/bot/IciOb-9jMtlkc1RJj6MQe",
+  "botId": "IciOb-9jMtlkc1RJj6MQe",
+  "creator": {
+    "handle": "ahalvor",
+    "url": "https://x.com/ahalvor"
+  },
+  "sourceUrl": "https://x.com/ahalvor/status/2094564057575739567",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homeroom/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jess-executive-assistant",
+  "name": "Jess (Executive Assistant)",
+  "grokShareUrl": "https://x.ai/bot/Nmv2fCQEcQc3EHzVXJZKN",
+  "botId": "Nmv2fCQEcQc3EHzVXJZKN",
+  "creator": {
+    "handle": "LoganARobison",
+    "url": "https://x.com/LoganARobison"
+  },
+  "sourceUrl": "https://x.com/LoganARobison/status/2093380304891167113",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jess-executive-assistant/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "ops",
+    "productivity",
+    "email",
+    "back-office",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

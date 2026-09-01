@@ -1,0 +1,29 @@
+{
+  "slug": "kirk-enterprise-crew",
+  "name": "Kirk (Enterprise Crew)",
+  "grokShareUrl": "https://x.ai/bot/FaRchqvTT6ZCRVPf0JABl",
+  "botId": "FaRchqvTT6ZCRVPf0JABl",
+  "creator": {
+    "handle": "The_Mr_Wizard",
+    "url": "https://x.com/The_Mr_Wizard"
+  },
+  "sourceUrl": "https://x.com/The_Mr_Wizard/status/2093442495447191944",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kirk-enterprise-crew/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

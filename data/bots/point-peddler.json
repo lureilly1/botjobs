@@ -1,0 +1,31 @@
+{
+  "slug": "point-peddler",
+  "name": "point peddler",
+  "grokShareUrl": "https://x.ai/bot/PFD95widaEeqjkYLLUZmD",
+  "botId": "PFD95widaEeqjkYLLUZmD",
+  "creator": {
+    "handle": "poteto",
+    "url": "https://x.com/poteto"
+  },
+  "sourceUrl": "https://x.com/poteto/status/2093483181588779415",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/point-peddler/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "travel",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

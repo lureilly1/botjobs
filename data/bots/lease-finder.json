@@ -1,0 +1,31 @@
+{
+  "slug": "lease-finder",
+  "name": "Lease Finder",
+  "grokShareUrl": "https://x.ai/bot/_A_AZayMmSNuN_-sdq_M1",
+  "botId": "_A_AZayMmSNuN_-sdq_M1",
+  "creator": {
+    "handle": "dannymacias",
+    "url": "https://x.com/dannymacias"
+  },
+  "sourceUrl": "https://x.com/dannymacias/status/2093409778265694256",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lease-finder/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

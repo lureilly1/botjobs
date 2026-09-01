@@ -1,0 +1,32 @@
+{
+  "slug": "usage-auditor",
+  "name": "Usage Auditor",
+  "grokShareUrl": "https://x.ai/bot/M5vd5Dp9Et4EZQ3Ik3Hn2",
+  "botId": "M5vd5Dp9Et4EZQ3Ik3Hn2",
+  "creator": {
+    "handle": "maxjean__",
+    "url": "https://x.com/maxjean__"
+  },
+  "sourceUrl": "https://x.com/maxjean__/status/2094450310232055860",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/usage-auditor/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "monitoring",
+    "analytics",
+    "meta-bot",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

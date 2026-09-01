@@ -1,0 +1,29 @@
+{
+  "slug": "negotiator",
+  "name": "Negotiator",
+  "grokShareUrl": "https://x.ai/bot/gsA3R-R-IIA7x3qUkojCu",
+  "botId": "gsA3R-R-IIA7x3qUkojCu",
+  "creator": {
+    "handle": "danizhu",
+    "url": "https://x.com/danizhu"
+  },
+  "sourceUrl": "https://x.com/danizhu/status/2093604446098047488",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/negotiator/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "life-hacks",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

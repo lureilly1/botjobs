@@ -1,0 +1,31 @@
+{
+  "slug": "shikamaru",
+  "name": "Shikamaru",
+  "grokShareUrl": "https://x.ai/bot/rrvGu13S5uYCc09WP7A-9",
+  "botId": "rrvGu13S5uYCc09WP7A-9",
+  "creator": {
+    "handle": "WorldlyReviewer",
+    "url": "https://x.com/WorldlyReviewer"
+  },
+  "sourceUrl": "https://x.com/WorldlyReviewer/status/2093382383802151353",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shikamaru/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "ops",
+    "agent-team",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

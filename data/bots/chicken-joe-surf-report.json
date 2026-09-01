@@ -1,0 +1,30 @@
+{
+  "slug": "chicken-joe-surf-report",
+  "name": "Chicken Joe (Surf Report)",
+  "grokShareUrl": "https://x.ai/bot/7f5AjmpjZkmTIsSybedYS",
+  "botId": "7f5AjmpjZkmTIsSybedYS",
+  "creator": {
+    "handle": "parker__conrad",
+    "url": "https://x.com/parker__conrad"
+  },
+  "sourceUrl": "https://x.com/parker__conrad/status/2093408518816899425",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chicken-joe-surf-report/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "monitoring",
+    "travel",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

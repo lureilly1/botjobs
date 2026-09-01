@@ -1,0 +1,30 @@
+{
+  "slug": "product-ops",
+  "name": "Product Ops",
+  "grokShareUrl": "https://x.ai/bot/gJKPDjN3yS95ZpZBTWruv",
+  "botId": "gJKPDjN3yS95ZpZBTWruv",
+  "creator": {
+    "handle": "inqusit",
+    "url": "https://x.com/inqusit"
+  },
+  "sourceUrl": "https://x.com/inqusit/status/2093513553613656106",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-ops/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "engineering",
+    "productivity",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

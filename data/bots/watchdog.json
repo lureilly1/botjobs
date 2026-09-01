@@ -1,0 +1,31 @@
+{
+  "slug": "watchdog",
+  "name": "Watchdog",
+  "grokShareUrl": "https://x.ai/bot/PuAEE57P58Df5zskFY3pg",
+  "botId": "PuAEE57P58Df5zskFY3pg",
+  "creator": {
+    "handle": "jxckvibe",
+    "url": "https://x.com/jxckvibe"
+  },
+  "sourceUrl": "https://x.com/jxckvibe/status/2093828719374705066",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/watchdog/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

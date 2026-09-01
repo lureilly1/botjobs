@@ -1,0 +1,30 @@
+{
+  "slug": "pulse",
+  "name": "Pulse — Your X Concierge",
+  "grokShareUrl": "https://x.ai/bot/oUYHu9LEXP5RVPFvoG4Ms",
+  "botId": "oUYHu9LEXP5RVPFvoG4Ms",
+  "creator": {
+    "handle": "GrokBotDev",
+    "url": "https://x.com/GrokBotDev"
+  },
+  "sourceUrl": "https://x.com/GrokBotDev/status/2094029086490308904",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pulse/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "news",
+    "monitoring",
+    "scheduled",
+    "productivity"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

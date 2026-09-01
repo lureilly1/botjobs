@@ -1,0 +1,29 @@
+{
+  "slug": "steve-j",
+  "name": "Steve J",
+  "grokShareUrl": "https://x.ai/bot/cuEYUcYmz-497oKWVfWX2",
+  "botId": "cuEYUcYmz-497oKWVfWX2",
+  "creator": {
+    "handle": "AhuraDeus",
+    "url": "https://x.com/AhuraDeus"
+  },
+  "sourceUrl": "https://x.com/AhuraDeus/status/2094468731934003649",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/steve-j/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "meta-bot",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

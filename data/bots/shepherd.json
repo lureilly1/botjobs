@@ -1,0 +1,31 @@
+{
+  "slug": "shepherd",
+  "name": "Shepherd",
+  "grokShareUrl": "https://x.ai/bot/i5YF8f-zdcR76uKPrqg3J",
+  "botId": "i5YF8f-zdcR76uKPrqg3J",
+  "creator": {
+    "handle": "herdrdev",
+    "url": "https://x.com/herdrdev"
+  },
+  "sourceUrl": "https://x.com/herdrdev/status/2094129284885467399",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shepherd/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

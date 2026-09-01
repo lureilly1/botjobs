@@ -1,0 +1,33 @@
+{
+  "slug": "data-science-querie",
+  "name": "Data Science (Querie)",
+  "grokShareUrl": "https://x.ai/bot/Bu2sEQqu0hEjpbzN_07D3",
+  "botId": "Bu2sEQqu0hEjpbzN_07D3",
+  "creator": {
+    "handle": "egavrilenko11",
+    "url": "https://x.com/egavrilenko11"
+  },
+  "sourceUrl": "https://x.com/egavrilenko11/status/2093409119302791170",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/data-science-querie/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "ops",
+    "data",
+    "research",
+    "back-office",
+    "on-demand",
+    "analytics"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tally-desk",
+  "name": "Tally Desk",
+  "grokShareUrl": "https://x.ai/bot/m-qZ-OIA6Nt2LZeb2bKg5",
+  "botId": "m-qZ-OIA6Nt2LZeb2bKg5",
+  "creator": {
+    "handle": "joshkim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": "https://x.com/joshkim/status/2093795274598817946",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tally-desk/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "automation",
+    "back-office",
+    "data",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "dispatch",
+  "name": "Dispatch",
+  "grokShareUrl": "https://x.ai/bot/YkmZEZYBk-BqylyQbM3kq",
+  "botId": "YkmZEZYBk-BqylyQbM3kq",
+  "creator": {
+    "handle": "FilippoFonseca",
+    "url": "https://x.com/FilippoFonseca"
+  },
+  "sourceUrl": "https://x.com/FilippoFonseca/status/2093402774704914915",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dispatch/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "ops",
+    "productivity",
+    "automation",
+    "email",
+    "back-office",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

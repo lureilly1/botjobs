@@ -1,0 +1,30 @@
+{
+  "slug": "clipmaker",
+  "name": "ClipMaker",
+  "grokShareUrl": "https://x.ai/bot/b986_CbfzB8jKLcU14LTi",
+  "botId": "b986_CbfzB8jKLcU14LTi",
+  "creator": {
+    "handle": "r40_io",
+    "url": "https://x.com/r40_io"
+  },
+  "sourceUrl": "https://x.com/r40_io/status/2094165107886395638",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clipmaker/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "youtube",
+    "video",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

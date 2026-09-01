@@ -1,0 +1,31 @@
+{
+  "slug": "interview-prep",
+  "name": "Interview Prep",
+  "grokShareUrl": "https://x.ai/bot/4aTE8S1KT93GkqHYxWIo3",
+  "botId": "4aTE8S1KT93GkqHYxWIo3",
+  "creator": {
+    "handle": "techdevnotes",
+    "url": "https://x.com/techdevnotes"
+  },
+  "sourceUrl": "https://x.com/techdevnotes/status/2093385170896216257",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/interview-prep/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "developer",
+    "personal",
+    "learning",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "freebots-lol",
+  "name": "freebots.lol",
+  "grokShareUrl": "https://x.ai/bot/ndOGeXyjkQLdceRlk7JP4",
+  "botId": "ndOGeXyjkQLdceRlk7JP4",
+  "creator": {
+    "handle": "Daniel_Farinax",
+    "url": "https://x.com/Daniel_Farinax"
+  },
+  "sourceUrl": "https://x.com/Daniel_Farinax/status/2093592700587331679",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/freebots-lol/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "social-media",
+    "automation",
+    "meta-bot",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

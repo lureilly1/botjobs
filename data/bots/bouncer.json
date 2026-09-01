@@ -1,0 +1,30 @@
+{
+  "slug": "bouncer",
+  "name": "Bouncer",
+  "grokShareUrl": "https://x.ai/bot/cGcG0msqfz7o7J3QMLhbE",
+  "botId": "cGcG0msqfz7o7J3QMLhbE",
+  "creator": {
+    "handle": "bradshannon",
+    "url": "https://x.com/bradshannon"
+  },
+  "sourceUrl": "https://x.com/bradshannon/status/2094260531305578886",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bouncer/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "decision-support",
+    "on-demand",
+    "meta-bot"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

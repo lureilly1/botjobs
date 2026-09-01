@@ -1,0 +1,31 @@
+{
+  "slug": "grok-bot-post-watcher",
+  "name": "最值得关注的Grok Bot 推文？",
+  "grokShareUrl": "https://x.ai/bot/lFDR77qKaT3Iglzv9pUac",
+  "botId": "lFDR77qKaT3Iglzv9pUac",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2094583123392761968",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-post-watcher/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "monitoring",
+    "news",
+    "research",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

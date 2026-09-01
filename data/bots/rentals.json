@@ -1,0 +1,30 @@
+{
+  "slug": "rentals",
+  "name": "RENTALS",
+  "grokShareUrl": "https://x.ai/bot/JrnQAM0z-7SNI9UtIO3-Z",
+  "botId": "JrnQAM0z-7SNI9UtIO3-Z",
+  "creator": {
+    "handle": "HandsomeHenry6",
+    "url": "https://x.com/HandsomeHenry6"
+  },
+  "sourceUrl": "https://x.com/HandsomeHenry6/status/2093905948637114427",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rentals/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "real-estate",
+    "business",
+    "automation",
+    "social-media",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

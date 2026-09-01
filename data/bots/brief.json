@@ -1,0 +1,29 @@
+{
+  "slug": "brief",
+  "name": "Brief",
+  "grokShareUrl": "https://x.ai/bot/Z7mWuQwWmnR-im3F7Hyh1",
+  "botId": "Z7mWuQwWmnR-im3F7Hyh1",
+  "creator": {
+    "handle": "anandVragav",
+    "url": "https://x.com/anandVragav"
+  },
+  "sourceUrl": "https://x.com/anandVragav/status/2093613851048661141",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/brief/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

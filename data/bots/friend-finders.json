@@ -1,0 +1,30 @@
+{
+  "slug": "friend-finders",
+  "name": "friend finders",
+  "grokShareUrl": "https://x.ai/bot/FGBuaEH72GHuC9ZrVj7XA",
+  "botId": "FGBuaEH72GHuC9ZrVj7XA",
+  "creator": {
+    "handle": "pukerrainbrow",
+    "url": "https://x.com/pukerrainbrow"
+  },
+  "sourceUrl": "https://x.com/pukerrainbrow/status/2093531901730676792",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/friend-finders/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "personal",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

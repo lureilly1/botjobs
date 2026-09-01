@@ -1,0 +1,31 @@
+{
+  "slug": "design-expert",
+  "name": "Design Expert",
+  "grokShareUrl": "https://x.ai/bot/H2WEoHRGKv_6a3j6lsHiG",
+  "botId": "H2WEoHRGKv_6a3j6lsHiG",
+  "creator": {
+    "handle": "inqusit",
+    "url": "https://x.com/inqusit"
+  },
+  "sourceUrl": "https://x.com/inqusit/status/2093765735197851709",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/design-expert/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "design",
+    "content",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "feedback",
+  "name": "Feedback",
+  "grokShareUrl": "https://x.ai/bot/_-3KKbHbnSRzrS_8KFugU",
+  "botId": "_-3KKbHbnSRzrS_8KFugU",
+  "creator": {
+    "handle": "nytemodeonly",
+    "url": "https://x.com/nytemodeonly"
+  },
+  "sourceUrl": "https://x.com/nytemodeonly/status/2094225527984820492",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/feedback/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "support",
+    "automation",
+    "productivity",
+    "engineering",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

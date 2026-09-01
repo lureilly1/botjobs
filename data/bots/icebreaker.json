@@ -1,0 +1,30 @@
+{
+  "slug": "icebreaker",
+  "name": "Icebreaker",
+  "grokShareUrl": "https://x.ai/bot/62_FP-LQ4OOq4uTevKlUP",
+  "botId": "62_FP-LQ4OOq4uTevKlUP",
+  "creator": {
+    "handle": "amberdawn1786",
+    "url": "https://x.com/amberdawn1786"
+  },
+  "sourceUrl": "https://x.com/amberdawn1786/status/2093722772396536068",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/icebreaker/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

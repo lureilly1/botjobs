@@ -1,0 +1,30 @@
+{
+  "slug": "off-balance-atlas",
+  "name": "Off-Balance Atlas",
+  "grokShareUrl": "https://x.ai/bot/tSUFdzcg2WDFLFsFLHzIb",
+  "botId": "tSUFdzcg2WDFLFsFLHzIb",
+  "creator": {
+    "handle": "AdemVessell",
+    "url": "https://x.com/AdemVessell"
+  },
+  "sourceUrl": "https://x.com/AdemVessell/status/2093511313158983798",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/off-balance-atlas/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "research",
+    "content",
+    "engineering",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

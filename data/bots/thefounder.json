@@ -1,0 +1,33 @@
+{
+  "slug": "thefounder",
+  "name": "TheFounder",
+  "grokShareUrl": "https://x.ai/bot/Bt48h63v32_q_shWVlEBb",
+  "botId": "Bt48h63v32_q_shWVlEBb",
+  "creator": {
+    "handle": "DaniAcostaAI",
+    "url": "https://x.com/DaniAcostaAI"
+  },
+  "sourceUrl": "https://x.com/DaniAcostaAI/status/2093628837867241883",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/thefounder/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "back-office",
+    "agent-team",
+    "on-demand",
+    "scheduled",
+    "automation"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

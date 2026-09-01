@@ -1,0 +1,30 @@
+{
+  "slug": "wholefoods",
+  "name": "Wholefoods",
+  "grokShareUrl": "https://x.ai/bot/7ZTQWd31OnZYDVJRzxzrU",
+  "botId": "7ZTQWd31OnZYDVJRzxzrU",
+  "creator": {
+    "handle": "DennisonBertram",
+    "url": "https://x.com/DennisonBertram"
+  },
+  "sourceUrl": "https://x.com/DennisonBertram/status/2094150768550945000",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wholefoods/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "shopping",
+    "food",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

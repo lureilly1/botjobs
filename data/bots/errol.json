@@ -1,0 +1,29 @@
+{
+  "slug": "errol",
+  "name": "Errol",
+  "grokShareUrl": "https://x.ai/bot/mQoLg90Pj5Cn2Gso4AkoQ",
+  "botId": "mQoLg90Pj5Cn2Gso4AkoQ",
+  "creator": {
+    "handle": "zachmllr",
+    "url": "https://x.com/zachmllr"
+  },
+  "sourceUrl": "https://x.com/zachmllr/status/2094270994777030966",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/errol/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "learning",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "gus-fring",
+  "name": "Gus Fring",
+  "grokShareUrl": "https://x.ai/bot/Dhk5c79MEj0MRM484ZM1k",
+  "botId": "Dhk5c79MEj0MRM484ZM1k",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2094782521095463198",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gus-fring/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "monitoring",
+    "back-office",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

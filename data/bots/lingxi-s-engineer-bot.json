@@ -1,0 +1,31 @@
+{
+  "slug": "lingxi-s-engineer-bot",
+  "name": "Lingxi's Engineer Bot",
+  "grokShareUrl": "https://x.ai/bot/fY1xWwCLzDDGVe3GwH78j",
+  "botId": "fY1xWwCLzDDGVe3GwH78j",
+  "creator": {
+    "handle": "lingxi",
+    "url": "https://x.com/lingxi"
+  },
+  "sourceUrl": "https://x.com/lingxi/status/2094489411245461677",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lingxi-s-engineer-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "agent-team",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

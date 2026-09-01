@@ -1,0 +1,31 @@
+{
+  "slug": "sable-game-art",
+  "name": "Sable: Game Art",
+  "grokShareUrl": "https://x.ai/bot/oSvAMKX_ahD56ZmgwtRys",
+  "botId": "oSvAMKX_ahD56ZmgwtRys",
+  "creator": {
+    "handle": "DannyLimanseta",
+    "url": "https://x.com/DannyLimanseta"
+  },
+  "sourceUrl": "https://x.com/DannyLimanseta/status/2093381938484810054",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sable-game-art/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "developer",
+    "design",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

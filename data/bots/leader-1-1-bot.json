@@ -1,0 +1,31 @@
+{
+  "slug": "leader-1-1-bot",
+  "name": "Leader 1:1 Bot",
+  "grokShareUrl": "https://x.ai/bot/eZhKhPkfxxFSml18TS2X8",
+  "botId": "eZhKhPkfxxFSml18TS2X8",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2093410582099808561",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/leader-1-1-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "personal",
+    "productivity",
+    "learning",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

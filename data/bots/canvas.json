@@ -1,0 +1,30 @@
+{
+  "slug": "canvas",
+  "name": "Canvas",
+  "grokShareUrl": "https://x.ai/bot/YihRBqrXaDwRdjN79Uofl",
+  "botId": "YihRBqrXaDwRdjN79Uofl",
+  "creator": {
+    "handle": "daxperera",
+    "url": "https://x.com/daxperera"
+  },
+  "sourceUrl": "https://x.com/daxperera/status/2093488563388330458",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/canvas/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "learning",
+    "calendar",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

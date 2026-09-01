@@ -1,0 +1,31 @@
+{
+  "slug": "love",
+  "name": "Love ❤️",
+  "grokShareUrl": "https://x.ai/bot/Xg8tws0lVEouCHOVMcnLg",
+  "botId": "Xg8tws0lVEouCHOVMcnLg",
+  "creator": {
+    "handle": "dannybuck",
+    "url": "https://x.com/dannybuck"
+  },
+  "sourceUrl": "https://x.com/dannybuck/status/2093732626544628001",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/love/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "calendar",
+    "events",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

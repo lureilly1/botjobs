@@ -1,0 +1,33 @@
+{
+  "slug": "projects-manager",
+  "name": "Projects Manager",
+  "grokShareUrl": "https://x.ai/bot/FU-Ev6_Ju4lFGWwWRD0GD",
+  "botId": "FU-Ev6_Ju4lFGWwWRD0GD",
+  "creator": {
+    "handle": "ericzakariasson",
+    "url": "https://x.com/ericzakariasson"
+  },
+  "sourceUrl": "https://x.com/ericzakariasson/status/2093381689041109349",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/projects-manager/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "productivity",
+    "automation",
+    "data",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

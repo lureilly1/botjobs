@@ -1,0 +1,31 @@
+{
+  "slug": "grant-general-manager",
+  "name": "Grant (General Manager)",
+  "grokShareUrl": "https://x.ai/bot/fkM4b8n4RqZTbrq5fw5L_",
+  "botId": "fkM4b8n4RqZTbrq5fw5L_",
+  "creator": {
+    "handle": "HouseHackerJon",
+    "url": "https://x.com/HouseHackerJon"
+  },
+  "sourceUrl": "https://x.com/HouseHackerJon/status/2093435306255220830",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grant-general-manager/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "back-office",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

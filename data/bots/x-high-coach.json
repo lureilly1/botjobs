@@ -1,0 +1,31 @@
+{
+  "slug": "x-high-coach",
+  "name": "X High Coach",
+  "grokShareUrl": "https://x.ai/bot/xSfBSprfKv5h909uzrv7W",
+  "botId": "xSfBSprfKv5h909uzrv7W",
+  "creator": {
+    "handle": "Hightv",
+    "url": "https://x.com/Hightv"
+  },
+  "sourceUrl": "https://x.com/Hightv/status/2093611453010084257",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-high-coach/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "analytics",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

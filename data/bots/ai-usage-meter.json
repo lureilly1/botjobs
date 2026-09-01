@@ -1,0 +1,31 @@
+{
+  "slug": "ai-usage-meter",
+  "name": "AI Usage Meter",
+  "grokShareUrl": "https://x.ai/bot/2atUDeldi9vF1R_ySRgCo",
+  "botId": "2atUDeldi9vF1R_ySRgCo",
+  "creator": {
+    "handle": "BrianDEvans",
+    "url": "https://x.com/BrianDEvans"
+  },
+  "sourceUrl": "https://x.com/BrianDEvans/status/2093386518375346484",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-usage-meter/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "saving-money",
+    "monitoring",
+    "productivity",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "steward",
+  "name": "Steward",
+  "grokShareUrl": "https://x.ai/bot/VMwfgQlHkYfFkbPYDWzAA",
+  "botId": "VMwfgQlHkYfFkbPYDWzAA",
+  "creator": {
+    "handle": "cjblev",
+    "url": "https://x.com/cjblev"
+  },
+  "sourceUrl": "https://x.com/cjblev/status/2094100993923252291",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/steward/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "analytics",
+    "saving-money",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "theta-vantage-desk",
+  "name": "Theta Vantage Desk",
+  "grokShareUrl": "https://x.ai/bot/YbX8HTAePBjwpwP05CVJS",
+  "botId": "YbX8HTAePBjwpwP05CVJS",
+  "creator": {
+    "handle": "ThetaVantage",
+    "url": "https://x.com/ThetaVantage"
+  },
+  "sourceUrl": "https://x.com/ThetaVantage/status/2094150193042386996",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/theta-vantage-desk/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "analytics",
+    "decision-support",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

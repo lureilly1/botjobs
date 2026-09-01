@@ -1,0 +1,33 @@
+{
+  "slug": "clipper",
+  "name": "Clipper",
+  "grokShareUrl": "https://x.ai/bot/ozEfaAFJMDGoB-ysym8_V",
+  "botId": "ozEfaAFJMDGoB-ysym8_V",
+  "creator": {
+    "handle": "thesoragirls",
+    "url": "https://x.com/thesoragirls"
+  },
+  "sourceUrl": "https://x.com/thesoragirls/status/2093420118487310516",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clipper/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "social-media",
+    "design",
+    "automation",
+    "on-demand",
+    "video"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "ai-pm-os",
+  "name": "AI PM OS",
+  "grokShareUrl": "https://x.ai/bot/9dtfHw4LHmwc5uBC-a9vj",
+  "botId": "9dtfHw4LHmwc5uBC-a9vj",
+  "creator": {
+    "handle": "nurijanian",
+    "url": "https://x.com/nurijanian"
+  },
+  "sourceUrl": "https://x.com/nurijanian/status/2093716302884147646",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-pm-os/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "productivity",
+    "back-office",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

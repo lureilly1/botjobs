@@ -1,0 +1,31 @@
+{
+  "slug": "forge-template-foundry",
+  "name": "Forge (Template Foundry)",
+  "grokShareUrl": "https://x.ai/bot/uF_uodOFUz9mdv6XDWE70",
+  "botId": "uF_uodOFUz9mdv6XDWE70",
+  "creator": {
+    "handle": "rryssf",
+    "url": "https://x.com/rryssf"
+  },
+  "sourceUrl": "https://x.com/rryssf/status/2093423943243747773",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/forge-template-foundry/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "business",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "grok-deck",
+  "name": "Grok Deck",
+  "grokShareUrl": "https://x.ai/bot/Ja9NzNTRz2ozzQLNfrJwI",
+  "botId": "Ja9NzNTRz2ozzQLNfrJwI",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2094305288266666452",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-deck/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

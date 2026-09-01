@@ -1,0 +1,31 @@
+{
+  "slug": "adm-account-bot",
+  "name": "ADM account bot",
+  "grokShareUrl": "https://x.ai/bot/4Gc1tZsJu7C8YH-EnTfaN",
+  "botId": "4Gc1tZsJu7C8YH-EnTfaN",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2093727476405170365",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/adm-account-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "growth",
+    "back-office",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

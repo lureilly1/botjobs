@@ -1,0 +1,30 @@
+{
+  "slug": "funhouse",
+  "name": "Funhouse",
+  "grokShareUrl": "https://x.ai/bot/kP7i2Po6_T_Rj9h9VVlk5",
+  "botId": "kP7i2Po6_T_Rj9h9VVlk5",
+  "creator": {
+    "handle": "AdemVessell",
+    "url": "https://x.com/AdemVessell"
+  },
+  "sourceUrl": "https://x.com/AdemVessell/status/2093869927753224689",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/funhouse/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

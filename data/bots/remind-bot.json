@@ -1,0 +1,30 @@
+{
+  "slug": "remind-bot",
+  "name": "remind bot",
+  "grokShareUrl": "https://x.ai/bot/peJxDrQRS4t2DHuHfzhfW",
+  "botId": "peJxDrQRS4t2DHuHfzhfW",
+  "creator": {
+    "handle": "damonchen",
+    "url": "https://x.com/damonchen"
+  },
+  "sourceUrl": "https://x.com/damonchen/status/2093559687354671335",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/remind-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "calendar",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

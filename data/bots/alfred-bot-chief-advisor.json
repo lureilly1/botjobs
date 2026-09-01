@@ -1,0 +1,31 @@
+{
+  "slug": "alfred-bot-chief-advisor",
+  "name": "Alfred (Bot Chief Advisor)",
+  "grokShareUrl": "https://x.ai/bot/KZ9xav0Qad1U5QigEn7rh",
+  "botId": "KZ9xav0Qad1U5QigEn7rh",
+  "creator": {
+    "handle": "heyrobinai",
+    "url": "https://x.com/heyrobinai"
+  },
+  "sourceUrl": "https://x.com/heyrobinai/status/2093393717545648305",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alfred-bot-chief-advisor/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

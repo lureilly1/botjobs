@@ -1,0 +1,30 @@
+{
+  "slug": "openrobot",
+  "name": "openrobot",
+  "grokShareUrl": "https://x.ai/bot/ndO6BI7E2ur5X-bhWM_1R",
+  "botId": "ndO6BI7E2ur5X-bhWM_1R",
+  "creator": {
+    "handle": "noborderhuman",
+    "url": "https://x.com/noborderhuman"
+  },
+  "sourceUrl": "https://x.com/noborderhuman/status/2093529993972432967",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/openrobot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "recruiting",
+    "email",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

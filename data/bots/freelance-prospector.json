@@ -1,0 +1,31 @@
+{
+  "slug": "freelance-prospector",
+  "name": "Freelance Prospector",
+  "grokShareUrl": "https://x.ai/bot/UMCdNlqEH7USe3eOznd1U",
+  "botId": "UMCdNlqEH7USe3eOznd1U",
+  "creator": {
+    "handle": "cristianmock",
+    "url": "https://x.com/cristianmock"
+  },
+  "sourceUrl": "https://x.com/cristianmock/status/2093406266349474212",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/freelance-prospector/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "creator",
+    "business",
+    "growth",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

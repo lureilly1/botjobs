@@ -1,0 +1,30 @@
+{
+  "slug": "commercial-taste",
+  "name": "Commercial Taste",
+  "grokShareUrl": "https://x.ai/bot/vekulzIMXM8hDjkp-mDkX",
+  "botId": "vekulzIMXM8hDjkp-mDkX",
+  "creator": {
+    "handle": "thesmitpatel",
+    "url": "https://x.com/thesmitpatel"
+  },
+  "sourceUrl": "https://x.com/thesmitpatel/status/2094100307340857707",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/commercial-taste/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "decision-support",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "webby",
+  "name": "Webby",
+  "grokShareUrl": "https://x.ai/bot/Q2shbC8RRmoRleIyr5J33",
+  "botId": "Q2shbC8RRmoRleIyr5J33",
+  "creator": {
+    "handle": "farzyness",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": "https://x.com/farzyness/status/2093485215150744014",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/webby/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "content",
+    "automation",
+    "back-office",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

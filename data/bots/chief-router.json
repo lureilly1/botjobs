@@ -1,0 +1,32 @@
+{
+  "slug": "chief-router",
+  "name": "Chief (Router)",
+  "grokShareUrl": "https://x.ai/bot/JugVUSPe_wSZg-in69owM",
+  "botId": "JugVUSPe_wSZg-in69owM",
+  "creator": {
+    "handle": "nykdotdev",
+    "url": "https://x.com/nykdotdev"
+  },
+  "sourceUrl": "https://x.com/nykdotdev/status/2093395691452457171",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-router/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "productivity",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "x-top-100-fans-weekly",
+  "name": "X Top 100 Fans (Weekly)",
+  "grokShareUrl": "https://x.ai/bot/HU7XArfGhUgLnzVcr7neB",
+  "botId": "HU7XArfGhUgLnzVcr7neB",
+  "creator": {
+    "handle": "AdamLowisz",
+    "url": "https://x.com/AdamLowisz"
+  },
+  "sourceUrl": "https://x.com/AdamLowisz/status/2093386801692201110",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-top-100-fans-weekly/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "growth",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

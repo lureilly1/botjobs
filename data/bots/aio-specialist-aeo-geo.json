@@ -1,0 +1,31 @@
+{
+  "slug": "aio-specialist-aeo-geo",
+  "name": "AIO Specialist (AEO/GEO)",
+  "grokShareUrl": "https://x.ai/bot/wOvqAFpr3o8VB3g4Tmpxr",
+  "botId": "wOvqAFpr3o8VB3g4Tmpxr",
+  "creator": {
+    "handle": "mathiasnoyez",
+    "url": "https://x.com/mathiasnoyez"
+  },
+  "sourceUrl": "https://x.com/mathiasnoyez/status/2093445450388893813",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/aio-specialist-aeo-geo/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "seo",
+    "content",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

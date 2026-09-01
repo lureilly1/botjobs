@@ -1,0 +1,30 @@
+{
+  "slug": "latch",
+  "name": "Latch",
+  "grokShareUrl": "https://x.ai/bot/9nbLm_04EvjnolE9oevTT",
+  "botId": "9nbLm_04EvjnolE9oevTT",
+  "creator": {
+    "handle": "OliverKorzen",
+    "url": "https://x.com/OliverKorzen"
+  },
+  "sourceUrl": "https://x.com/OliverKorzen/status/2094492533439230267",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/latch/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "productivity",
+    "learning",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

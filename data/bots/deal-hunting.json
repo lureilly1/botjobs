@@ -1,0 +1,31 @@
+{
+  "slug": "deal-hunting",
+  "name": "Deal Hunting",
+  "grokShareUrl": "https://x.ai/bot/MGiEdMz0TNxBkvMgUZAbf",
+  "botId": "MGiEdMz0TNxBkvMgUZAbf",
+  "creator": {
+    "handle": "scheemunai",
+    "url": "https://x.com/scheemunai"
+  },
+  "sourceUrl": "https://x.com/scheemunai/status/2093399328836440571",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deal-hunting/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

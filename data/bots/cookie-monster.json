@@ -1,0 +1,30 @@
+{
+  "slug": "cookie-monster",
+  "name": "Cookie Monster",
+  "grokShareUrl": "https://x.ai/bot/55t0IuxxlT7BWffNVOKai",
+  "botId": "55t0IuxxlT7BWffNVOKai",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2094457258025631943",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cookie-monster/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

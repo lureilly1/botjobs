@@ -1,0 +1,32 @@
+{
+  "slug": "echo",
+  "name": "Echo",
+  "grokShareUrl": "https://x.ai/bot/ph5mcXqVy2p176Br7BJYi",
+  "botId": "ph5mcXqVy2p176Br7BJYi",
+  "creator": {
+    "handle": "kristaletz",
+    "url": "https://x.com/kristaletz"
+  },
+  "sourceUrl": "https://x.com/kristaletz/status/2093494509682217308",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/echo/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "meetings",
+    "content",
+    "design",
+    "productivity",
+    "automation"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

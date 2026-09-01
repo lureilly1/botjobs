@@ -1,0 +1,29 @@
+{
+  "slug": "1000x-product-engineer",
+  "name": "1000x Product Engineer",
+  "grokShareUrl": "https://x.ai/bot/sQDD87Gp6VLT0m99tFpzu",
+  "botId": "sQDD87Gp6VLT0m99tFpzu",
+  "creator": {
+    "handle": "TomZarebczan",
+    "url": "https://x.com/TomZarebczan"
+  },
+  "sourceUrl": "https://x.com/TomZarebczan/status/2093387240479051938",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/1000x-product-engineer/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "design",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

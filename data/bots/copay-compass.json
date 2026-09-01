@@ -1,0 +1,32 @@
+{
+  "slug": "copay-compass",
+  "name": "Copay Compass",
+  "grokShareUrl": "https://x.ai/bot/ehxj2Wdxq9M04jvaAqyBD",
+  "botId": "ehxj2Wdxq9M04jvaAqyBD",
+  "creator": {
+    "handle": "MSaintjour",
+    "url": "https://x.com/MSaintjour"
+  },
+  "sourceUrl": "https://x.com/MSaintjour/status/2094802093622133104",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/copay-compass/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "finance",
+    "saving-money",
+    "monitoring",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

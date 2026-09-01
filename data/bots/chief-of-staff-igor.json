@@ -1,0 +1,31 @@
+{
+  "slug": "chief-of-staff-igor",
+  "name": "chief of staff (igor)",
+  "grokShareUrl": "https://x.ai/bot/we_JMJA8IuOvy1eUX6EQz",
+  "botId": "we_JMJA8IuOvy1eUX6EQz",
+  "creator": {
+    "handle": "iamigorekk",
+    "url": "https://x.com/iamigorekk"
+  },
+  "sourceUrl": "https://x.com/iamigorekk/status/2093546304081162412",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-igor/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

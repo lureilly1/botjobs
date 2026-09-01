@@ -1,0 +1,30 @@
+{
+  "slug": "inbox-zero",
+  "name": "Inbox Zero",
+  "grokShareUrl": "https://x.ai/bot/h5i1TCuYEL2mVtMbQtW98",
+  "botId": "h5i1TCuYEL2mVtMbQtW98",
+  "creator": {
+    "handle": "zapnocode",
+    "url": "https://x.com/zapnocode"
+  },
+  "sourceUrl": "https://x.com/zapnocode/status/2093493728660865073",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-zero/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

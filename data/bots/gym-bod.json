@@ -1,0 +1,31 @@
+{
+  "slug": "gym-bod",
+  "name": "Gym Bod",
+  "grokShareUrl": "https://x.ai/bot/3mtiwFoZcEMq59w-49DMS",
+  "botId": "3mtiwFoZcEMq59w-49DMS",
+  "creator": {
+    "handle": "DrPB",
+    "url": "https://x.com/DrPB"
+  },
+  "sourceUrl": "https://x.com/DrPB/status/2093815967360991485",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gym-bod/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "life-hacks",
+    "wellbeing",
+    "health",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

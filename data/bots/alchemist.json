@@ -1,0 +1,31 @@
+{
+  "slug": "alchemist",
+  "name": "Alchemist",
+  "grokShareUrl": "https://x.ai/bot/JjO20_oGKrE_Ys5Uz4efj",
+  "botId": "JjO20_oGKrE_Ys5Uz4efj",
+  "creator": {
+    "handle": "2onism",
+    "url": "https://x.com/2onism"
+  },
+  "sourceUrl": "https://x.com/2onism/status/2093723713279803515",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alchemist/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

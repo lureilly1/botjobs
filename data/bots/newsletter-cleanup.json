@@ -1,0 +1,31 @@
+{
+  "slug": "newsletter-cleanup",
+  "name": "Newsletter Cleanup",
+  "grokShareUrl": "https://x.ai/bot/dHd69sBvMG2o3lJa__T7K",
+  "botId": "dHd69sBvMG2o3lJa__T7K",
+  "creator": {
+    "handle": "scheemunai",
+    "url": "https://x.com/scheemunai"
+  },
+  "sourceUrl": "https://x.com/scheemunai/status/2093398594745254196",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/newsletter-cleanup/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "life-hacks",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

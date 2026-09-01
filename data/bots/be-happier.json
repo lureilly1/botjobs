@@ -1,0 +1,32 @@
+{
+  "slug": "be-happier",
+  "name": "Be Happier",
+  "grokShareUrl": "https://x.ai/bot/0VC1XzREXRFGe0hVo-JEG",
+  "botId": "0VC1XzREXRFGe0hVo-JEG",
+  "creator": {
+    "handle": "lennysan",
+    "url": "https://x.com/lennysan"
+  },
+  "sourceUrl": "https://x.com/lennysan/status/2093428147194847238",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/be-happier/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "life-hacks",
+    "productivity",
+    "learning",
+    "scheduled",
+    "wellbeing"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

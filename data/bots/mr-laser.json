@@ -1,0 +1,31 @@
+{
+  "slug": "mr-laser",
+  "name": "Mr. Laser",
+  "grokShareUrl": "https://x.ai/bot/GU4KJSYtPZeiLf8ubPMXY",
+  "botId": "GU4KJSYtPZeiLf8ubPMXY",
+  "creator": {
+    "handle": "RichSilver",
+    "url": "https://x.com/RichSilver"
+  },
+  "sourceUrl": "https://x.com/RichSilver/status/2093409240962506861",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mr-laser/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "ops",
+    "design",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

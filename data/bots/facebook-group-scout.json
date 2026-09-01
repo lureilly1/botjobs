@@ -1,0 +1,30 @@
+{
+  "slug": "facebook-group-scout",
+  "name": "facebook group scout",
+  "grokShareUrl": "https://x.ai/bot/C7ZoMLPxEbFmu0-iAieFj",
+  "botId": "C7ZoMLPxEbFmu0-iAieFj",
+  "creator": {
+    "handle": "joshkim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": "https://x.com/joshkim/status/2093581726287335447",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/facebook-group-scout/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "social-media",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

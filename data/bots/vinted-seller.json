@@ -1,0 +1,30 @@
+{
+  "slug": "vinted-seller",
+  "name": "Vinted Seller",
+  "grokShareUrl": "https://x.ai/bot/nqMcywYF0Bg35egak7dSh",
+  "botId": "nqMcywYF0Bg35egak7dSh",
+  "creator": {
+    "handle": "trytocatchme98",
+    "url": "https://x.com/trytocatchme98"
+  },
+  "sourceUrl": "https://x.com/trytocatchme98/status/2093760516875333635",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vinted-seller/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "automation",
+    "support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

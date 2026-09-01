@@ -1,0 +1,30 @@
+{
+  "slug": "gardener",
+  "name": "Gardener",
+  "grokShareUrl": "https://x.ai/bot/oH3eR4YWtsljcz0W4HUBp",
+  "botId": "oH3eR4YWtsljcz0W4HUBp",
+  "creator": {
+    "handle": "tylerklose",
+    "url": "https://x.com/tylerklose"
+  },
+  "sourceUrl": "https://x.com/tylerklose/status/2093483701480866210",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gardener/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

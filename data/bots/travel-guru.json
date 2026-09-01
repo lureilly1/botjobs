@@ -1,0 +1,30 @@
+{
+  "slug": "travel-guru",
+  "name": "travel guru",
+  "grokShareUrl": "https://x.ai/bot/r5R9X50NdzRZBPcBQAnhP",
+  "botId": "r5R9X50NdzRZBPcBQAnhP",
+  "creator": {
+    "handle": "congressdj",
+    "url": "https://x.com/congressdj"
+  },
+  "sourceUrl": "https://x.com/congressdj/status/2093539459719434306",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-guru/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "linkedin-leads",
+  "name": "Linkedin Leads",
+  "grokShareUrl": "https://x.ai/bot/-BdTEtBnZEq9K1ef-bn6W",
+  "botId": "-BdTEtBnZEq9K1ef-bn6W",
+  "creator": {
+    "handle": "angelesp",
+    "url": "https://x.com/angelesp"
+  },
+  "sourceUrl": "https://x.com/angelesp/status/2093826046231511549",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linkedin-leads/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "growth",
+    "social-media",
+    "research",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

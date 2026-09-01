@@ -1,0 +1,30 @@
+{
+  "slug": "flora",
+  "name": "Flora",
+  "grokShareUrl": "https://x.ai/bot/HC7kphHSxDzb639YlmI6O",
+  "botId": "HC7kphHSxDzb639YlmI6O",
+  "creator": {
+    "handle": "RichSilver",
+    "url": "https://x.com/RichSilver"
+  },
+  "sourceUrl": "https://x.com/RichSilver/status/2094267086591680962",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/flora/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "monitoring",
+    "life-hacks",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

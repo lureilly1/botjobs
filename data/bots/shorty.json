@@ -1,0 +1,31 @@
+{
+  "slug": "shorty",
+  "name": "Shorty",
+  "grokShareUrl": "https://x.ai/bot/32fHIBw9Yz-s_o35KycGX",
+  "botId": "32fHIBw9Yz-s_o35KycGX",
+  "creator": {
+    "handle": "farzyness",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": "https://x.com/farzyness/status/2093485851606929592",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shorty/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "content",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "family-wordpress-helpdesk",
+  "name": "family wordpress helpdesk",
+  "grokShareUrl": "https://x.ai/bot/7ySyCp6OurH0hlcKMAm_b",
+  "botId": "7ySyCp6OurH0hlcKMAm_b",
+  "creator": {
+    "handle": "joshkim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": "https://x.com/joshkim/status/2093583573915963624",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/family-wordpress-helpdesk/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "support",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

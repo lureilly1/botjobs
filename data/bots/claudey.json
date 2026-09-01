@@ -1,0 +1,30 @@
+{
+  "slug": "claudey",
+  "name": "Claudey",
+  "grokShareUrl": "https://x.ai/bot/OR72i4SNc0_F1IzbCfg-D",
+  "botId": "OR72i4SNc0_F1IzbCfg-D",
+  "creator": {
+    "handle": "farzyness",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": "https://x.com/farzyness/status/2094240859243913669",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claudey/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

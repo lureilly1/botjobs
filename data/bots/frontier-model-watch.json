@@ -1,0 +1,31 @@
+{
+  "slug": "frontier-model-watch",
+  "name": "Frontier Model Watch",
+  "grokShareUrl": "https://x.ai/bot/YHqn0iTQuvI-8LC01IP6S",
+  "botId": "YHqn0iTQuvI-8LC01IP6S",
+  "creator": {
+    "handle": "GuleidAmina",
+    "url": "https://x.com/GuleidAmina"
+  },
+  "sourceUrl": "https://x.com/GuleidAmina/status/2093400067617309106",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/frontier-model-watch/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "research",
+    "monitoring",
+    "learning",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

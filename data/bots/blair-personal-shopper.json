@@ -1,0 +1,30 @@
+{
+  "slug": "blair-personal-shopper",
+  "name": "Blair (Personal Shopper)",
+  "grokShareUrl": "https://x.ai/bot/BAbHIps4VA0Hr4GLIOJme",
+  "botId": "BAbHIps4VA0Hr4GLIOJme",
+  "creator": {
+    "handle": "jediahkatz",
+    "url": "https://x.com/jediahkatz"
+  },
+  "sourceUrl": "https://x.com/jediahkatz/status/2093391579964694670",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blair-personal-shopper/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

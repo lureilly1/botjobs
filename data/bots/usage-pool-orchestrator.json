@@ -1,0 +1,31 @@
+{
+  "slug": "usage-pool-orchestrator",
+  "name": "Usage-pool orchestrator",
+  "grokShareUrl": "https://x.ai/bot/Nx4wpKeM_NYx577xlJFMD",
+  "botId": "Nx4wpKeM_NYx577xlJFMD",
+  "creator": {
+    "handle": "JordanHall_dev",
+    "url": "https://x.com/JordanHall_dev"
+  },
+  "sourceUrl": "https://x.com/JordanHall_dev/status/2094562218889080932",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/usage-pool-orchestrator/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "saving-money",
+    "engineering",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

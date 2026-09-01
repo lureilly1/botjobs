@@ -1,0 +1,29 @@
+{
+  "slug": "retrieval-exam",
+  "name": "Retrieval Exam",
+  "grokShareUrl": "https://x.ai/bot/OAlX-diXtFDIT6sTZ0NbI",
+  "botId": "OAlX-diXtFDIT6sTZ0NbI",
+  "creator": {
+    "handle": "thekuchh",
+    "url": "https://x.com/thekuchh"
+  },
+  "sourceUrl": "https://x.com/thekuchh/status/2094103773832737075",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/retrieval-exam/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

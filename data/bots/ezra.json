@@ -1,0 +1,30 @@
+{
+  "slug": "ezra",
+  "name": "Ezra",
+  "grokShareUrl": "https://x.ai/bot/YlbxRlO-HM1TEC6l2YSM6",
+  "botId": "YlbxRlO-HM1TEC6l2YSM6",
+  "creator": {
+    "handle": "lapaksquare",
+    "url": "https://x.com/lapaksquare"
+  },
+  "sourceUrl": "https://x.com/lapaksquare/status/2093614088526131246",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ezra/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "learning",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

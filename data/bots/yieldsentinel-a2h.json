@@ -1,0 +1,31 @@
+{
+  "slug": "yieldsentinel-a2h",
+  "name": "YieldSentinel A2H",
+  "grokShareUrl": "https://x.ai/bot/RFXogCwTbb2mUODW6rfVe",
+  "botId": "RFXogCwTbb2mUODW6rfVe",
+  "creator": {
+    "handle": "MyEnsNames",
+    "url": "https://x.com/MyEnsNames"
+  },
+  "sourceUrl": "https://x.com/MyEnsNames/status/2093434321700831688",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/yieldsentinel-a2h/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "crypto",
+    "research",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

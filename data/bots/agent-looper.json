@@ -1,0 +1,30 @@
+{
+  "slug": "agent-looper",
+  "name": "Agent Looper",
+  "grokShareUrl": "https://x.ai/bot/AETdGbRRNWfckrRGv22LD",
+  "botId": "AETdGbRRNWfckrRGv22LD",
+  "creator": {
+    "handle": "dancingteeth",
+    "url": "https://x.com/dancingteeth"
+  },
+  "sourceUrl": "https://x.com/dancingteeth/status/2093868415542845628",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-looper/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "local-deals",
+  "name": "Local Deals",
+  "grokShareUrl": "https://x.ai/bot/KmR5kmGnalq1b2nhCRXyo",
+  "botId": "KmR5kmGnalq1b2nhCRXyo",
+  "creator": {
+    "handle": "brandon_galang",
+    "url": "https://x.com/brandon_galang"
+  },
+  "sourceUrl": "https://x.com/brandon_galang/status/2093402021789593873",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/local-deals/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

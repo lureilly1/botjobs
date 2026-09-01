@@ -1,0 +1,31 @@
+{
+  "slug": "clip-bot",
+  "name": "Clip Bot",
+  "grokShareUrl": "https://x.ai/bot/Vk0cnF2c364QxNv-Xip1M",
+  "botId": "Vk0cnF2c364QxNv-Xip1M",
+  "creator": {
+    "handle": "ThisWeeknAI",
+    "url": "https://x.com/ThisWeeknAI"
+  },
+  "sourceUrl": "https://x.com/ThisWeeknAI/status/2093465404303720846",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clip-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

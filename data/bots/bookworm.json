@@ -1,0 +1,30 @@
+{
+  "slug": "bookworm",
+  "name": "bookworm",
+  "grokShareUrl": "https://x.ai/bot/KPpT1F6tP4Q5GZ2BH2hBH",
+  "botId": "KPpT1F6tP4Q5GZ2BH2hBH",
+  "creator": {
+    "handle": "NavyaM89482",
+    "url": "https://x.com/NavyaM89482"
+  },
+  "sourceUrl": "https://x.com/NavyaM89482/status/2093524788761248166",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bookworm/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "growth",
+    "email",
+    "content",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

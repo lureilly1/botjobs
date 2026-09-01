@@ -16,7 +16,9 @@
     "start": "node ./dist/server/entry.mjs",
     "check": "astro check",
     "validate": "node scripts/validate.mjs",
-    "prepare": "git config core.hooksPath .githooks || true"
+    "prepare": "git config core.hooksPath .githooks || true",
+    "ingest:grokbot": "node scripts/ingest-grokbot.mjs",
+    "ingest": "pnpm ingest:grokbot"
   },
   "dependencies": {
     "@astrojs/node": "^11.1.5",

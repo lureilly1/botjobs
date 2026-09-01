@@ -1,0 +1,31 @@
+{
+  "slug": "redreplier",
+  "name": "RedReplier",
+  "grokShareUrl": "https://x.ai/bot/8aU6ly_uunnMabpybs3hB",
+  "botId": "8aU6ly_uunnMabpybs3hB",
+  "creator": {
+    "handle": "tarasshyn",
+    "url": "https://x.com/tarasshyn"
+  },
+  "sourceUrl": "https://x.com/tarasshyn/status/2093730218145976437",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/redreplier/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "sales",
+    "social-media",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

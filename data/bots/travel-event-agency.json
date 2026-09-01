@@ -1,0 +1,32 @@
+{
+  "slug": "travel-event-agency",
+  "name": "Travel & Event Agency",
+  "grokShareUrl": "https://x.ai/bot/m7sSNlYWSxqrsHrMiEnsh",
+  "botId": "m7sSNlYWSxqrsHrMiEnsh",
+  "creator": {
+    "handle": "DogecoinNorway",
+    "url": "https://x.com/DogecoinNorway"
+  },
+  "sourceUrl": "https://x.com/DogecoinNorway/status/2093419031407845671",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-event-agency/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "shopping",
+    "saving-money",
+    "research",
+    "on-demand",
+    "events"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

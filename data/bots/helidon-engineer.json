@@ -1,0 +1,31 @@
+{
+  "slug": "helidon-engineer",
+  "name": "helidon engineer",
+  "grokShareUrl": "https://x.ai/bot/5mReUHPYTBA6nJ2aNvlqn",
+  "botId": "5mReUHPYTBA6nJ2aNvlqn",
+  "creator": {
+    "handle": "TheSurenk",
+    "url": "https://x.com/TheSurenk"
+  },
+  "sourceUrl": "https://x.com/TheSurenk/status/2093548918806122764",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/helidon-engineer/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "automation",
+    "learning",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

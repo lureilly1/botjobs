@@ -1,0 +1,30 @@
+{
+  "slug": "grok-bot-coach",
+  "name": "Grok Bot Coach",
+  "grokShareUrl": "https://x.ai/bot/BrjELcmSwatjRc8DYjtrT",
+  "botId": "BrjELcmSwatjRc8DYjtrT",
+  "creator": {
+    "handle": "GuleidAmina",
+    "url": "https://x.com/GuleidAmina"
+  },
+  "sourceUrl": "https://x.com/GuleidAmina/status/2093404361972122011",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-coach/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

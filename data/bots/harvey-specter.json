@@ -1,0 +1,30 @@
+{
+  "slug": "harvey-specter",
+  "name": "Harvey Specter",
+  "grokShareUrl": "https://x.ai/bot/lkkCqhC1jBFp6ouZOQd9m",
+  "botId": "lkkCqhC1jBFp6ouZOQd9m",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2093382733019939198",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/harvey-specter/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "sales",
+    "saving-money",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ethan",
+  "name": "Ethan",
+  "grokShareUrl": "https://x.ai/bot/F5Mm-0O3fPPZjYGIdsycE",
+  "botId": "F5Mm-0O3fPPZjYGIdsycE",
+  "creator": {
+    "handle": "jumperz",
+    "url": "https://x.com/jumperz"
+  },
+  "sourceUrl": "https://x.com/jumperz/status/2093407073815929223",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ethan/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "knowledge-base",
+    "analytics",
+    "developer",
+    "automation"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

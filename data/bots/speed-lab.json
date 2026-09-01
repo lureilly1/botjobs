@@ -1,0 +1,30 @@
+{
+  "slug": "speed-lab",
+  "name": "Speed Lab",
+  "grokShareUrl": "https://x.ai/bot/LEbVr_WZ-cym7XwIm7xf5",
+  "botId": "LEbVr_WZ-cym7XwIm7xf5",
+  "creator": {
+    "handle": "pwnies",
+    "url": "https://x.com/pwnies"
+  },
+  "sourceUrl": "https://x.com/pwnies/status/2093494257105379569",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/speed-lab/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

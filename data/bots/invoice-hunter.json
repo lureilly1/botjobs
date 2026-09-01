@@ -1,0 +1,32 @@
+{
+  "slug": "invoice-hunter",
+  "name": "Invoice Hunter",
+  "grokShareUrl": "https://x.ai/bot/-kO6HrXokJZANVwUOMZO9",
+  "botId": "-kO6HrXokJZANVwUOMZO9",
+  "creator": {
+    "handle": "scheemunai",
+    "url": "https://x.com/scheemunai"
+  },
+  "sourceUrl": "https://x.com/scheemunai/status/2093398873247031468",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/invoice-hunter/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "back-office",
+    "finance",
+    "email",
+    "automation",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

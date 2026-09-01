@@ -1,0 +1,32 @@
+{
+  "slug": "revenuedog",
+  "name": "RevenueDog",
+  "grokShareUrl": "https://x.ai/bot/IDFtkYcsl7MpfdfTx09RT",
+  "botId": "IDFtkYcsl7MpfdfTx09RT",
+  "creator": {
+    "handle": "lexrus",
+    "url": "https://x.com/lexrus"
+  },
+  "sourceUrl": "https://x.com/lexrus/status/2094285817221111992",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/revenuedog/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "analytics",
+    "finance",
+    "data",
+    "decision-support",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "grok-bot-knower",
+  "name": "Grok Bot Knower",
+  "grokShareUrl": "https://x.ai/bot/v13QjVZ83GcaitG_3j4su",
+  "botId": "v13QjVZ83GcaitG_3j4su",
+  "creator": {
+    "handle": "ngundotra",
+    "url": "https://x.com/ngundotra"
+  },
+  "sourceUrl": "https://x.com/ngundotra/status/2094085203685785840",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-knower/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "research",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

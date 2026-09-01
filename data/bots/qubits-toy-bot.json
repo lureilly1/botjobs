@@ -1,0 +1,30 @@
+{
+  "slug": "qubits-toy-bot",
+  "name": "Qubits Toy Bot",
+  "grokShareUrl": "https://x.ai/bot/USVlMLTxHCex8XgcUQGfv",
+  "botId": "USVlMLTxHCex8XgcUQGfv",
+  "creator": {
+    "handle": "Toy_Maestro",
+    "url": "https://x.com/Toy_Maestro"
+  },
+  "sourceUrl": "https://x.com/Toy_Maestro/status/2093752472472887476",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/qubits-toy-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

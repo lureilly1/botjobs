@@ -1,0 +1,29 @@
+{
+  "slug": "segundo-c-rebro",
+  "name": "Segundo Cérebro",
+  "grokShareUrl": "https://x.ai/bot/OaRwBX_QPos9EDlhLEV1J",
+  "botId": "OaRwBX_QPos9EDlhLEV1J",
+  "creator": {
+    "handle": "liderzio",
+    "url": "https://x.com/liderzio"
+  },
+  "sourceUrl": "https://x.com/liderzio/status/2093672211844337867",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/segundo-c-rebro/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

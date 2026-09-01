@@ -1,0 +1,29 @@
+{
+  "slug": "ceo",
+  "name": "CEO",
+  "grokShareUrl": "https://x.ai/bot/GHLPyes3hiP9A6kES7UHg",
+  "botId": "GHLPyes3hiP9A6kES7UHg",
+  "creator": {
+    "handle": "inqusit",
+    "url": "https://x.com/inqusit"
+  },
+  "sourceUrl": "https://x.com/inqusit/status/2093510161524810062",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ceo/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "decision-support",
+    "agent-team"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

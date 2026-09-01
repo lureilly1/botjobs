@@ -1,0 +1,33 @@
+{
+  "slug": "inbot",
+  "name": "Inbot",
+  "grokShareUrl": "https://x.ai/bot/yH2UttxbMwMugweZrigHT",
+  "botId": "yH2UttxbMwMugweZrigHT",
+  "creator": {
+    "handle": "matt_silberman",
+    "url": "https://x.com/matt_silberman"
+  },
+  "sourceUrl": "https://x.com/matt_silberman/status/2093378871403933751",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "ops",
+    "email",
+    "productivity",
+    "automation",
+    "back-office",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "onboarding-coach",
+  "name": "Onboarding Coach",
+  "grokShareUrl": "https://x.ai/bot/OfZitBsJprif-DfsQKBUY",
+  "botId": "OfZitBsJprif-DfsQKBUY",
+  "creator": {
+    "handle": "tpgoebel",
+    "url": "https://x.com/tpgoebel"
+  },
+  "sourceUrl": "https://x.com/tpgoebel/status/2093738394899599806",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/onboarding-coach/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "decision-support",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "illo",
+  "name": "illo",
+  "grokShareUrl": "https://x.ai/bot/y3uTGY5hkl6iTmE-ZAX02",
+  "botId": "y3uTGY5hkl6iTmE-ZAX02",
+  "creator": {
+    "handle": "trevin",
+    "url": "https://x.com/trevin"
+  },
+  "sourceUrl": "https://x.com/trevin/status/2093390512925610067",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/illo/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "design",
+    "content",
+    "social-media",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "homework-checker",
+  "name": "Homework Checker",
+  "grokShareUrl": "https://x.ai/bot/Mm_WhYXIjZ3xDNf3s3p91",
+  "botId": "Mm_WhYXIjZ3xDNf3s3p91",
+  "creator": {
+    "handle": "kevinace",
+    "url": "https://x.com/kevinace"
+  },
+  "sourceUrl": "https://x.com/kevinace/status/2093425364353667118",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homework-checker/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "monitoring",
+    "scheduled",
+    "family"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

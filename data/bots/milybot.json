@@ -1,0 +1,32 @@
+{
+  "slug": "milybot",
+  "name": "Milybot",
+  "grokShareUrl": "https://x.ai/bot/vcOZX9RVPatQMVCinCVY_",
+  "botId": "vcOZX9RVPatQMVCinCVY_",
+  "creator": {
+    "handle": "1Milysec",
+    "url": "https://x.com/1Milysec"
+  },
+  "sourceUrl": "https://x.com/1Milysec/status/2093806488586502490",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/milybot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "finance",
+    "data",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

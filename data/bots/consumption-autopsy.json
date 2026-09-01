@@ -1,0 +1,30 @@
+{
+  "slug": "consumption-autopsy",
+  "name": "Consumption Autopsy",
+  "grokShareUrl": "https://x.ai/bot/WBo-ahaIrvCKXUH_3iEFy",
+  "botId": "WBo-ahaIrvCKXUH_3iEFy",
+  "creator": {
+    "handle": "thekuchh",
+    "url": "https://x.com/thekuchh"
+  },
+  "sourceUrl": "https://x.com/thekuchh/status/2094103715070558493",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/consumption-autopsy/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

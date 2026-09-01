@@ -1,0 +1,30 @@
+{
+  "slug": "just-in-time-curriculum",
+  "name": "Just-in-Time Curriculum",
+  "grokShareUrl": "https://x.ai/bot/rpkZERbKrIN_NlDl8ErVZ",
+  "botId": "rpkZERbKrIN_NlDl8ErVZ",
+  "creator": {
+    "handle": "thekuchh",
+    "url": "https://x.com/thekuchh"
+  },
+  "sourceUrl": "https://x.com/thekuchh/status/2094103762126455245",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/just-in-time-curriculum/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

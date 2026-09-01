@@ -1,0 +1,30 @@
+{
+  "slug": "grok-build",
+  "name": "Grok Build",
+  "grokShareUrl": "https://x.ai/bot/eydijdzrfgtnmlnUyPSI-",
+  "botId": "eydijdzrfgtnmlnUyPSI-",
+  "creator": {
+    "handle": "BillZanetti",
+    "url": "https://x.com/BillZanetti"
+  },
+  "sourceUrl": "https://x.com/BillZanetti/status/2094534653646356788",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-build/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "saasbot",
+  "name": "SaaSbot",
+  "grokShareUrl": "https://x.ai/bot/X6RbSbeyLvQ_I5k3zU4IM",
+  "botId": "X6RbSbeyLvQ_I5k3zU4IM",
+  "creator": {
+    "handle": "danielfoch",
+    "url": "https://x.com/danielfoch"
+  },
+  "sourceUrl": "https://x.com/danielfoch/status/2093697807542526325",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/saasbot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "ops",
+    "automation",
+    "growth",
+    "back-office",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "time-keeper",
+  "name": "Time Keeper",
+  "grokShareUrl": "https://x.ai/bot/IAEp851k9orM1LguTm2F8",
+  "botId": "IAEp851k9orM1LguTm2F8",
+  "creator": {
+    "handle": "ironted21",
+    "url": "https://x.com/ironted21"
+  },
+  "sourceUrl": "https://x.com/ironted21/status/2093771512331252046",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/time-keeper/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "calendar",
+    "scheduled",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

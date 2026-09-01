@@ -1,0 +1,32 @@
+{
+  "slug": "developer",
+  "name": "Developer",
+  "grokShareUrl": "https://x.ai/bot/0fYZ_kKkiXNbLn_KBD3f3",
+  "botId": "0fYZ_kKkiXNbLn_KBD3f3",
+  "creator": {
+    "handle": "m_check1B",
+    "url": "https://x.com/m_check1B"
+  },
+  "sourceUrl": "https://x.com/m_check1B/status/2094337521123508268",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/developer/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "monitoring",
+    "agent-team",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

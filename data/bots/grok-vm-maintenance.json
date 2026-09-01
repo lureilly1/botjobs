@@ -1,0 +1,31 @@
+{
+  "slug": "grok-vm-maintenance",
+  "name": "Grok VM maintenance",
+  "grokShareUrl": "https://x.ai/bot/9UZp5k0Fp0LYmkyos5swQ",
+  "botId": "9UZp5k0Fp0LYmkyos5swQ",
+  "creator": {
+    "handle": "old_pgmrs_will",
+    "url": "https://x.com/old_pgmrs_will"
+  },
+  "sourceUrl": "https://x.com/old_pgmrs_will/status/2094360885884322286",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-vm-maintenance/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "monitoring",
+    "automation",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

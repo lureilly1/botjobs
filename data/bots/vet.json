@@ -1,0 +1,31 @@
+{
+  "slug": "vet",
+  "name": "Vet",
+  "grokShareUrl": "https://x.ai/bot/9Vmfeck_zr6jo9dO-xEBT",
+  "botId": "9Vmfeck_zr6jo9dO-xEBT",
+  "creator": {
+    "handle": "GaurangKaria",
+    "url": "https://x.com/GaurangKaria"
+  },
+  "sourceUrl": "https://x.com/GaurangKaria/status/2093779467554419008",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vet/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "monitoring",
+    "decision-support",
+    "meta-bot",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

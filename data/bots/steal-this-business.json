@@ -1,0 +1,30 @@
+{
+  "slug": "steal-this-business",
+  "name": "Steal This Business",
+  "grokShareUrl": "https://x.ai/bot/Ojrv95GLUG1nO1p1RWzVK",
+  "botId": "Ojrv95GLUG1nO1p1RWzVK",
+  "creator": {
+    "handle": "adxtyahq",
+    "url": "https://x.com/adxtyahq"
+  },
+  "sourceUrl": "https://x.com/adxtyahq/status/2093705315607065020",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/steal-this-business/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "rutin",
+  "name": "Rutin",
+  "grokShareUrl": "https://x.ai/bot/o4gWkNGmffEaVtOhaEsA7",
+  "botId": "o4gWkNGmffEaVtOhaEsA7",
+  "creator": {
+    "handle": "naoufal_elh",
+    "url": "https://x.com/naoufal_elh"
+  },
+  "sourceUrl": "https://x.com/naoufal_elh/status/2093710581354135607",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rutin/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "productivity",
+    "monitoring",
+    "meta-bot",
+    "scheduled",
+    "agent-team"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

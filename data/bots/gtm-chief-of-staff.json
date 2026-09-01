@@ -1,0 +1,31 @@
+{
+  "slug": "gtm-chief-of-staff",
+  "name": "GTM Chief Of Staff",
+  "grokShareUrl": "https://x.ai/bot/r9Svkbs3dN6CY1Iy_Au4b",
+  "botId": "r9Svkbs3dN6CY1Iy_Au4b",
+  "creator": {
+    "handle": "thekuchh",
+    "url": "https://x.com/thekuchh"
+  },
+  "sourceUrl": "https://x.com/thekuchh/status/2093742276564459867",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gtm-chief-of-staff/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "back-office",
+    "meetings",
+    "meta-bot",
+    "agent-team"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

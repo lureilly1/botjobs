@@ -1,0 +1,31 @@
+{
+  "slug": "chatprd",
+  "name": "ChatPRD",
+  "grokShareUrl": "https://x.ai/bot/36vKs2HSysdaJDe6OLD4w",
+  "botId": "36vKs2HSysdaJDe6OLD4w",
+  "creator": {
+    "handle": "clairevo",
+    "url": "https://x.com/clairevo"
+  },
+  "sourceUrl": "https://x.com/clairevo/status/2093496614099042450",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chatprd/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "automation",
+    "content",
+    "meetings",
+    "knowledge-base"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

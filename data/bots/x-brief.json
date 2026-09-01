@@ -1,0 +1,32 @@
+{
+  "slug": "x-brief",
+  "name": "X Brief",
+  "grokShareUrl": "https://x.ai/bot/GkX6X536UK2MlbkfGLQnb",
+  "botId": "GkX6X536UK2MlbkfGLQnb",
+  "creator": {
+    "handle": "daniel_mac8",
+    "url": "https://x.com/daniel_mac8"
+  },
+  "sourceUrl": "https://x.com/daniel_mac8/status/2093401980987425103",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-brief/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "marketer",
+    "social-media",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

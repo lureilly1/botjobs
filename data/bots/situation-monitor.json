@@ -1,0 +1,30 @@
+{
+  "slug": "situation-monitor",
+  "name": "Situation monitor",
+  "grokShareUrl": "https://x.ai/bot/lkHayxdQjNzVVJIDh7qaF",
+  "botId": "lkHayxdQjNzVVJIDh7qaF",
+  "creator": {
+    "handle": "ChaseMc67",
+    "url": "https://x.com/ChaseMc67"
+  },
+  "sourceUrl": "https://x.com/ChaseMc67/status/2093878821078573520",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/situation-monitor/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "monitoring",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "se-call-bot",
+  "name": "SE call bot",
+  "grokShareUrl": "https://x.ai/bot/9wmmsO_xoeLPeGEqjWLzE",
+  "botId": "9wmmsO_xoeLPeGEqjWLzE",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2094066260376166500",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/se-call-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "meetings",
+    "productivity",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

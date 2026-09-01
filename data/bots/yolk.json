@@ -1,0 +1,29 @@
+{
+  "slug": "yolk",
+  "name": "Yolk",
+  "grokShareUrl": "https://x.ai/bot/Rk8tYkT8dM9QbhsAci5lh",
+  "botId": "Rk8tYkT8dM9QbhsAci5lh",
+  "creator": {
+    "handle": "jp_costa",
+    "url": "https://x.com/jp_costa"
+  },
+  "sourceUrl": "https://x.com/jp_costa/status/2093508536718500211",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/yolk/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "life-hacks",
+    "scheduled"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

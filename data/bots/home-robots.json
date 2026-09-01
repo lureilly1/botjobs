@@ -1,0 +1,30 @@
+{
+  "slug": "home-robots",
+  "name": "Home Robots",
+  "grokShareUrl": "https://x.ai/bot/3mf-UN4mGnCp8DbPBnW5u",
+  "botId": "3mf-UN4mGnCp8DbPBnW5u",
+  "creator": {
+    "handle": "SawyerMerritt",
+    "url": "https://x.com/SawyerMerritt"
+  },
+  "sourceUrl": "https://x.com/SawyerMerritt/status/2093384986162352495",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/home-robots/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

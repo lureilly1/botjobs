@@ -1,0 +1,29 @@
+{
+  "slug": "teslrbot",
+  "name": "TeslrBot",
+  "grokShareUrl": "https://x.ai/bot/_S9OOSBgXixedyANQSYjQ",
+  "botId": "_S9OOSBgXixedyANQSYjQ",
+  "creator": {
+    "handle": "HeresMyEth",
+    "url": "https://x.com/HeresMyEth"
+  },
+  "sourceUrl": "https://x.com/HeresMyEth/status/2093448648944496995",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/teslrbot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

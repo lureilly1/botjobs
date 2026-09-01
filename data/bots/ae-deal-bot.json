@@ -1,0 +1,31 @@
+{
+  "slug": "ae-deal-bot",
+  "name": "AE deal bot",
+  "grokShareUrl": "https://x.ai/bot/yXsqmCaODNkTEwtIbiXxe",
+  "botId": "yXsqmCaODNkTEwtIbiXxe",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2094802082750673227",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ae-deal-bot/"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "decision-support",
+    "research",
+    "growth",
+    "on-demand"
+  ],
+  "evidenceLevel": "source-linked",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}
