@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/x-top-100-fans-weekly/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "X Top 100 Fans Weekly by Adam",
+    "description": "Ranks your top 100 X fans each week by how they engaged with your posts, then sends you the digest.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/x-top-100-fans-weekly/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

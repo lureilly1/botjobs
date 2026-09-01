@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/talent-matchmaker/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Talent Matchmaker by Lenny",
+    "description": "Matches job seekers with open roles from your email — scans investor updates and inbound for hiring signals and people looking, tracks both sides of the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/talent-matchmaker/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/dispatch/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Dispatch by Filippo",
+    "description": "A close-the-day desk. Nightly scan of email, Slack, LinkedIn, and X DMs; if someone agreed to a call and no calendar invite exists, book it. Morning...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/dispatch/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

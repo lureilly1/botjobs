@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/minecraft"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Minecraftクラッシュ解析 by Masaki",
+    "description": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/minecraft"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

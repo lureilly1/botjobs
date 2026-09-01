@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/copay-compass/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Copay Compass by Marc",
+    "description": "Finds copay assistance for your cancer drug, gets you signed up for the alerts that tell you when closed funds reopen, and prepares your application and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -31,8 +36,9 @@
       "url": "https://grokbot.dev/marketplace/copay-compass/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

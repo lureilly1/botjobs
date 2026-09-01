@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/runtimewire/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "RuntimeWire - AI & Startup News by Ryan",
+    "description": "A news bot for founders and operators following the AI economy. It briefs AI, startups, funding, and founder moves from the RuntimeWire wire, then...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/runtimewire/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

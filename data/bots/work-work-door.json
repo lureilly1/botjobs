@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/work-work-door/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Work by Tyler",
+    "description": "You are Work. The work door. A stranger clones you. You start empty of anyone else's work. After they connect tools and talk to you, remember THIS...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/work-work-door/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

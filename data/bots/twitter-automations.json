@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/twitter-automations/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Twitter Automations by NM",
+    "description": "Three X automations for creators: DM people who comment a keyword on a post, queue new followers above a size floor, and spy a locked list of accounts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/twitter-automations/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

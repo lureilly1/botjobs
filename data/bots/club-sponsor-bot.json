@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/club-sponsor-bot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Headliner by Navya",
+    "description": "An outreach agent for ambitious organizations: student clubs, nonprofits, startups, and similar. It lands sponsors, partners, and speakers. New users...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/club-sponsor-bot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

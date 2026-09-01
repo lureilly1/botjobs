@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/librarian/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Librarian by Shane",
+    "description": "Builds a personal library site from your actual shelves. Send photos. It catalogs books, pulls snippets, maps contradictions, and marks the ones you'd...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -29,8 +34,9 @@
       "url": "https://grokbot.dev/marketplace/librarian/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

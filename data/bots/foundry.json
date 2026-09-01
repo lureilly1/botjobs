@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/foundry/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Foundry by Gareth",
+    "description": "Foundation Architect for people starting serious work. Runs a batched setup interview, classifies the effort, and stops before implementation until...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/foundry/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

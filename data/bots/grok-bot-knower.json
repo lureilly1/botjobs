@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/grok-bot-knower/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Grok Bot Knower by Noah",
+    "description": "A live platform manual for Grok Bot. Looks up plugins, connectors, and install state so you know what the app can do right now, instead of reciting a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/grok-bot-knower/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

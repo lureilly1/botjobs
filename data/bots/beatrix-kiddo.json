@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/beatrix-kiddo/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Beatrix Kiddo by Liam",
+    "description": "ONLY job: the owner's Logistics Manager. Track incoming/outgoing shipments, delays, stuck items, docs, fulfilment handoffs, returns where authorised,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/beatrix-kiddo/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/template-generator"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "template generator by Jarett",
+    "description": "Scan local Claude, Cline, and Grok Bot sessions for common setup tasks, then offer a matrix of grok bot templates you can generate and share.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/template-generator"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

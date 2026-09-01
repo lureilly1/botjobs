@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/palette/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Palette by Michael",
+    "description": "Turns a photo into a four-role colour palette: a labelled 55/20/20/5 bar chart and four hex codes sampled from the image. For designers who want colours...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -28,8 +33,9 @@
       "url": "https://grokbot.dev/marketplace/palette/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

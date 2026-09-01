@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/pulse/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Pulse by Andrej",
+    "description": "A read-only X concierge. Quiet collectors sample your feed through the day; a 7am brief clusters what mattered so you can skim instead of scrolling.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -29,8 +34,9 @@
       "url": "https://grokbot.dev/marketplace/pulse/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

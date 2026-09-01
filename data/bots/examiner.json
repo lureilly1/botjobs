@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/examiner/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Examiner by Liam",
+    "description": "Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong. Isolated: talk only to you....",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/examiner/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

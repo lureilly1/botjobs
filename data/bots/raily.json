@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/raily/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Raily by Ntty",
+    "description": "A read-only personal friends discovery assistant. Helps review matches, intros, and account status without changing any data.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/raily/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

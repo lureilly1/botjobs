@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/vet/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Vet by Gaurang",
+    "description": "Inspects Grok Bot templates and existing teammates for malicious intent, hidden instructions, dangerous skills, and unattended routines. Issues a pass,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/vet/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

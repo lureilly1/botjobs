@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/nom-nom"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Nom Nom by Nikola",
+    "description": "A calorie tracker for anyone who wants a simple food log. It records meals, remembers named recipes, keeps a running daily total, and sends an...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/nom-nom"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

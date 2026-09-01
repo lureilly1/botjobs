@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/design-expert/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Design Expert by Ashish",
+    "description": "A product design lead that keeps AI-built UIs honest: real type, unique folds, and a studio stop rule so one generate is never “done.” For founders and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/design-expert/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/dewey/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Dewey by William",
+    "description": "Watches Gmail and pings you when a message looks time-sensitive or needs a reply. Reads freely; never sends, replies, or trashes mail unless you ask.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/dewey/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

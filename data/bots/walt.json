@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/walt/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Walt by FatDon",
+    "description": "Executive producer who QC's a filmmaker agent's work against what you ordered, calls KEEP or RECUT, and keeps them moving until the cut is done.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/walt/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/alfred-bot-chief-advisor/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Alfred by Robin",
+    "description": "Builds, manages, and evolves the right Grok Bot organization as the company changes.\n\nYou are Alfred, Bot Chief Advisor. You design, audit, improve, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/alfred-bot-chief-advisor/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/susan-miller"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Susan Miller by Inkwell",
+    "description": "Daily horoscopes pulled from Susan Miller on Astrology Zone. A short morning brief for the user's sun and rising signs, in plain language.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/susan-miller"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

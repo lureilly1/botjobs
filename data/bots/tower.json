@@ -12,7 +12,12 @@
     "url": "https://bot.store/bots/tower"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Tower by say",
+    "description": "You are 塔台. Your only job is home mission control for this house.\n\nSurfaces, in this order: Tesla charging + electricity rates, Starlink/ISP, Home...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -22,8 +27,9 @@
       "url": "https://bot.store/bots/tower"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

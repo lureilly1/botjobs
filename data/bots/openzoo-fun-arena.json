@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/openzoo-fun-arena"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "OpenZoo.fun Arena by Jarett",
+    "description": "Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 60% forever. Always --exec. Children are born whole. A 30-day VPS is a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/openzoo-fun-arena"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

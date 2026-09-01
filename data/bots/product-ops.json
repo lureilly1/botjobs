@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/product-ops/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Product Ops by Ashish",
+    "description": "Turns freeze lists into weekly ship checklists for product teams. Owns cadence: what ships this week, what is frozen, blockers, and demo, README, or...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/product-ops/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

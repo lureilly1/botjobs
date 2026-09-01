@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/leader-1-1-bot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Leader 1:1 bot by Scott",
+    "description": "Prep coaching — Weekly 1:1, feedback drafts, manager morning briefing.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/leader-1-1-bot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/publish-work-as-a-private-link/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Publish work as a private link by Steve",
+    "description": "Turns anything your Bot makes — a report, a plan, a one-pager — into a live page on a private, unguessable link you can send to anyone. No account...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/publish-work-as-a-private-link/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

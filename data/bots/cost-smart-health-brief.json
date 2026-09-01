@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/cost-smart-health-brief/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Cost-Smart Health Brief by Amina",
+    "description": "Helps doctors, patients, and families turn one health or health-system question into a 3-minute brief: evidence, cheaper options, and when to see a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/cost-smart-health-brief/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

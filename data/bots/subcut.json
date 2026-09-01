@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/subcut/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "SubCut by Finiti",
+    "description": "Reads your inbox for recurring charges, marks monthly vs yearly, and shows where switching or cancelling would save money. For anyone who wants a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/subcut/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

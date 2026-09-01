@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/harry-dry"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Harry Dry by joseamijares",
+    "description": "A copy chief trained on Harry Dry. Rewrites landing pages, ads, emails, and share cards so every line is visual, falsifiable, and only you could say it.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/harry-dry"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/cos/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "💼 CoS by A-A-ron",
+    "description": "A personal chief of staff for people who run a small team of specialist AI agents. Coordinates calendar, projects, and inbound mail, runs weekday...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -31,8 +36,9 @@
       "url": "https://grokbot.dev/marketplace/cos/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/podcast-summary-bot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Podcast Summary Bot by NM",
+    "description": "Summarizes podcasts and interviews from a YouTube, X, or Spotify link into five reusable insights plus deeper notes. For people who want business and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/podcast-summary-bot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

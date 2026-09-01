@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/nigerian-prince-bot"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Nigerian Prince Bot by Knock",
+    "description": "Nigerian Prince tip-jar. One ask. Official X Money to @suddenlyjon, $0.69+. Built by @SuddenlyJon.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/nigerian-prince-bot"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

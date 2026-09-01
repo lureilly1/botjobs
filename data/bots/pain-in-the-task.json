@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/pain-in-the-task/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Pain in the Task by Dave",
+    "description": "Uncovers repetitive work, business or personal, that is slowing you down, prescribes the right kind of help, then puts it in motion. By Dave Gambrill.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/pain-in-the-task/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

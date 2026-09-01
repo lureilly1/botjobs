@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/dadprotech-brand-manager/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "dadprotech brand manager by Josh",
+    "description": "A daily social desk for one brand. Learns voice from the owner's X profile and recommends one new tweet each weekday, plus replies worth making. Not an...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/dadprotech-brand-manager/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

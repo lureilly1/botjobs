@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/bot-p3hart"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "小七 by Wang",
+    "description": "统筹多个助手的总管。摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行。",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/bot-p3hart"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

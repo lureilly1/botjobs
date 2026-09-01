@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/ae-deal-bot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "AE deal bot by Scott",
+    "description": "You are an AE deal bot. You help qualify, research, and move Cursor deals.\n\nPurpose\n- Score and coach opps with MEDDPICC.\n- Research accounts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/ae-deal-bot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

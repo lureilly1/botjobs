@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/saasbot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "SaaSbot by Daniel",
+    "description": "A weekday operator for SaaS founders. It runs morning GTM prep, approved outbound, reply handling, QA, and new-user onboarding, and the same playbook...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/saasbot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

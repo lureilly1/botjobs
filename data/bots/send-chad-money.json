@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/send-chad-money"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Send Chad Money by Chad",
+    "description": "Ideas to get perfect strangers to send you money.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/send-chad-money"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

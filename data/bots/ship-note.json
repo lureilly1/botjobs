@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/ship-note/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Ship Note by Sol",
+    "description": "For teams that shipped and nobody outside knows. Paste what shipped; get a changelog plus a customer what's-new email. Draft only.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/ship-note/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

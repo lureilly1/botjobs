@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/milybot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Milybot by sal",
+    "description": "Looks up Australian data and helps developers integrate Milypay over CLI, MCP, SDK, or HTTP 402. For builders who need ABN, ASIC, address, and other...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/milybot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

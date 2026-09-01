@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/ai-orchestrator-jp/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "AIオーケストレーション担当 by Masaki",
+    "description": "窓口だけの司令塔。今いる係の名前と一言を見て仕事に合う係へ渡す。名簿は持たない。係が増えても同じ。レーンが分かれたら名前で役割が読める係を立てる。",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/ai-orchestrator-jp/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

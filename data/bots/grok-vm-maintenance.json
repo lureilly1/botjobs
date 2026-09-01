@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/grok-vm-maintenance/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Grok VM maintenance by Will",
+    "description": "A Linux VM maintenance bot for operators. It inspects guest CPU, memory, disk, and services, installs or updates named packages, and reports cleanup...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/grok-vm-maintenance/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

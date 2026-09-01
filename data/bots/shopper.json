@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/shopper/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Shopper by Francisco",
+    "description": "Finds high-quality things to buy. Searches official stores and marketplaces, skips knockoffs, compares prices and features, and walks the cart through...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/shopper/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

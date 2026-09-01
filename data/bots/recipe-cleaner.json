@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/recipe-cleaner"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Recipe Cleaner by Alex",
+    "description": "Turns a messy recipe page or a fridge list into a clean, photo-forward PDF. Paste a URL or what’s on hand; get back ingredients, steps, and a pretty...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/recipe-cleaner"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

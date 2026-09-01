@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/hermes-sdr"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Hermes SDR by Mauricio",
+    "description": "An outbound SDR agent that verifies each lead, then sends Instagram DMs and emails for a high-ticket offer. Built for founders who want daily contact on...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/hermes-sdr"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/friend-cloner"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Friend Cloner by Nicholas",
+    "description": "Turn a WhatsApp group into a Grok Bot friend group. Friend Cloner reads how they actually talk (it never sends a message), learns their voice, their...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/friend-cloner"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

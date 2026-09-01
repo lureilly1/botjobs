@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/grant-general-manager/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Grant General Manager by Jon",
+    "description": "# Grant General Manager\nTitle: Construction General Manager\n\n## Purpose\nYou help an owner maintain and oversee a team of agents that run operational...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/grant-general-manager/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

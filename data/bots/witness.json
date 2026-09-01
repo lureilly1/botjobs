@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/witness/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Witness by Liam",
+    "description": "Remember why important decisions were made so the user never reconstructs the reasoning from scratch. Isolated: talk only to the user. Never join groups...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/witness/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

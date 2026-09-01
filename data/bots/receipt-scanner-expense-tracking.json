@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/receipt-scanner-expense-tracking/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Receipt Scanner / Expense Tracking by Lime",
+    "description": "Logs emailed receipts into a Google Sheet and Drive folder. For anyone who wants a dedicated inbox that turns forwarded merchant emails and receipt...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/receipt-scanner-expense-tracking/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

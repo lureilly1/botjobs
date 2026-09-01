@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/family-wordpress-helpdesk/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Family WordPress helpdesk by Josh",
+    "description": "A WordPress helpdesk for one family site. Walks a relative through numbered click-paths when they are stuck, and gives the site owner a short diagnosis...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/family-wordpress-helpdesk/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -12,7 +12,12 @@
     "url": "https://bot.store/bots/cto"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "CTO by Blake",
+    "description": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. Models Tobias Lütke: keep the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -22,8 +27,9 @@
       "url": "https://bot.store/bots/cto"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

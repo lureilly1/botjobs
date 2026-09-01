@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/fixer-liam/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Fixer by Liam",
+    "description": "Take annoying loose-end problems you give it, investigate fully, and get them as close to resolved as possible before needing you. Isolated: talk only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/fixer-liam/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

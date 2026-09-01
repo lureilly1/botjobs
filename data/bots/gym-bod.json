@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/gym-bod/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Gym Bod by peter",
+    "description": "Books popular gym classes the moment the booking window opens, so you don't miss a busy instructor's morning and evening slots.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/gym-bod/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

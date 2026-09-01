@@ -166,9 +166,18 @@ export function validateBot(bot, filenameSlug) {
     }
   }
 
-  if (bot.evidenceLevel === 'source-linked' || bot.evidenceLevel === 'link-verified') {
-    if (!isNonEmptyString(bot.sourceUrl))
-      e.push(`evidenceLevel is ${bot.evidenceLevel} but sourceUrl is missing`);
+  // The tiers are not a single ladder — they answer different questions.
+  //
+  //   source-linked  → where did this come from?  (needs the originating post)
+  //   link-verified  → does it still exist, and what does xAI call it?
+  //                    (needs the official page, and nothing else)
+  //
+  // A bot listed only on bot.store has no originating post but its official
+  // page reconciles perfectly, so it is legitimately link-verified with no
+  // sourceUrl. Requiring one here would have forced 59 records to understate
+  // evidence we actually hold.
+  if (bot.evidenceLevel === 'source-linked' && !isNonEmptyString(bot.sourceUrl)) {
+    e.push('evidenceLevel is source-linked but sourceUrl is missing');
   }
 
   return e;

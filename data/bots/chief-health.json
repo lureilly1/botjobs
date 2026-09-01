@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/chief-health/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Chief Health by AJAC",
+    "description": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/chief-health/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

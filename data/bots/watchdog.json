@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/watchdog/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Watchdog by SmoresBoy",
+    "description": "On first install, scans email once as soon as Gmail is ready, then weekly for receipts, renewals, and trials. Lists what is charging and what is due in...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/watchdog/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/paperwork/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Paperwork by Liam",
+    "description": "Takes every boring document someone receives, works out what it is and what needs doing, then tracks it in a Notion Paperwork database so nothing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/paperwork/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

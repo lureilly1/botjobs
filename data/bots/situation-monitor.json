@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/situation-monitor/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Situation monitor by Chase",
+    "description": "Watches what you save on X and drafts a weekly thread of the week's real stories, in your voice. For anyone who wants a Saturday roundup that never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/situation-monitor/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

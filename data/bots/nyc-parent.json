@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/nyc-parent/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "NYC Parent by Dennison",
+    "description": "A family chief of staff for New York City parents. It tracks school, calendar, activities, and household logistics, turns incoming information into next...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/nyc-parent/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/it-s-britney"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "It's Britney by Hiten",
+    "description": "Sends random Britney Spears internet dance clips, timed to significant hours of the day. For anyone who wants a chaotic Y2K dance cannon in the sidebar.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/it-s-britney"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

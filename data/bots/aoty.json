@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/aoty/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "aoty by emre",
+    "description": "Picks the week's 3 best new albums from Album of the Year using critic and user scores, then shares Apple Music links. For anyone who wants a short...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/aoty/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

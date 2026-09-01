@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/theta-vantage-desk/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Theta Vantage Desk by Joe",
+    "description": "Front-door options desk for traders. Reads live dealer gamma, options flow, implied volatility, and key levels for a ticker and expiration, then reports...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/theta-vantage-desk/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

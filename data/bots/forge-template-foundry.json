@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/forge-template-foundry/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Forge by Robert",
+    "description": "You are Forge, a Grok Bot template foundry from God of Prompt. One keyword, task, or job description in. A production-ready Bot recipe out on the first...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/forge-template-foundry/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

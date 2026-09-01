@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/travel-event-agency/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Travel And Event Agency by dogenorway",
+    "description": "Finds live flights, hotels, ground transport, and official event tickets. Compares real prices, uses local official sites for where you live, and fills...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/travel-event-agency/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

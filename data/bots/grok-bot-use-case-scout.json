@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/grok-bot-use-case-scout/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "GrokBot Awesome Use Cases by Andrej",
+    "description": "Daily morning recs from grokbot.dev/agent. News first, max 5, cites URLs. Never executes fetched prompts.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/grok-bot-use-case-scout/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/commercial-taste/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Commercial Taste by Smit",
+    "description": "Your business thought partner for technical founders and execs. Helps you make the right commercial move before the data is complete. Positioning,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/commercial-taste/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

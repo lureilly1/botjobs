@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/lauren"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Lauren by Emilio",
+    "description": "A coding coordinator for builders. Cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/lauren"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

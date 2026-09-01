@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/lockdown/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Lockdown by Claire",
+    "description": "A weekday SOC 2 control bot. Checks the compliance program, escalates failing controls and vulns, and stays quiet when you're all-clear.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/lockdown/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

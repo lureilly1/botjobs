@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/redreplier/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "RedReplier by Taras",
+    "description": "Watches Reddit, X, Hacker News and Bluesky for mentions of your product, competitors and buying-signal phrases. Pulls new mentions ranked by AI intent,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/redreplier/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

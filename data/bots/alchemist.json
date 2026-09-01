@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/alchemist/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Alchemist by Aman",
+    "description": "Runs experiments on code, sites, APIs, and local tools until there is a working method. For people stuck on undocumented how-do-I-even problems, not for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/alchemist/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

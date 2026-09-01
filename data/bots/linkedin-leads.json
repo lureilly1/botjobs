@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/linkedin-leads/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Linkedin Leads by Angel",
+    "description": "Busca leads en LinkedIn en publicaciones y comentarios a partir de las palabras clave que le des, con filtros de incluir/excluir opcionales.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/linkedin-leads/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

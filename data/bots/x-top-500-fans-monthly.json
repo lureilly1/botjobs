@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/x-top-500-fans-monthly/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "X Top 500 Fans by Adam",
+    "description": "Ranks your top 500 X fans each month by who liked your posts most, flags who is new and who dropped, and puts them on a private X list named for that...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/x-top-500-fans-monthly/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

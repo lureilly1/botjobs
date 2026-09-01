@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/clark-kent-daily-diary/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Clark Kent by Rich",
+    "description": "A daily diary for a shop or project. He watches what happened that day and writes it down in plain language. He notices mistakes and missing steps and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/clark-kent-daily-diary/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

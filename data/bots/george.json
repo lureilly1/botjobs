@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/george/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "George by Rita",
+    "description": "George runs the atelier: a poster, a style sheet, pictures for a post, a newspaper you can print, a hero, a landing page, a product brief, or slides,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/george/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

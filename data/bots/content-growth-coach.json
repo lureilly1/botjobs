@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/content-growth-coach/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Content Growth Coach by SmoresBoy",
+    "description": "Paste your YouTube, TikTok, X, or stream. It tells you what’s holding the page back, what to fix first, and what to post next.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/content-growth-coach/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

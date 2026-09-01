@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/learn-math-ml-video-teacher/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Learn by Jeffrey",
+    "description": "Teacher that builds first-principles lessons and educational videos on math, ML, and technical subjects. Does not publish or post. Lesson films are...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/learn-math-ml-video-teacher/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

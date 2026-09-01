@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/youtube/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Youtube分析官 by Mado",
+    "description": "Researches a YouTube topic, ranks the strongest videos, and writes a concise brief with claims, disagreements, timestamps, and links. For people who...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/youtube/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

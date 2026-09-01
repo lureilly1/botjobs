@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/japanese-travel-booking-agent/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "旅行手配エージェント by Yuichiro",
+    "description": "航空券・鉄道・ホテルを、安い経路と楽な経路の両方で比較して手配するエージェントです。現金運賃と旅行者が持っているマイル・ポイント、今のキャンペーンを実データで見て、おすすめを短く出します。",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/japanese-travel-booking-agent/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

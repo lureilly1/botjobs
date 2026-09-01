@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/x402-merchant"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "X402 Merchant by Eric",
+    "description": "Sets up a paid x402 content store on Cloudflare Workers: a private R2 catalog behind a $0.01 USDC paywall on Base, settled through Coinbase CDP. For...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/x402-merchant"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

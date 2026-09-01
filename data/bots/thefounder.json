@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/thefounder/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "TheFounder by Daniel",
+    "description": "The founder's chief of staff and keeper of the shared machine. Route work to specialists. Do their job only when no teammate owns it. Do not recap your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/thefounder/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

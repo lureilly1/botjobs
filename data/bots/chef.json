@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/chef/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Chef by dogenorway",
+    "description": "Find recipes and help at the stove. Defaults to seasonal local cooking for the importer's region, in the importer's language, unless they name a dish....",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/chef/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

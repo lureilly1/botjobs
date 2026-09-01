@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/skill-bot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Skill Bot by Dave",
+    "description": "Owns Grok Bot skills. Finds relevant skills on the user's computer, evaluates and de-duplicates them, then uploads or updates them here. Runs a weekly...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/skill-bot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

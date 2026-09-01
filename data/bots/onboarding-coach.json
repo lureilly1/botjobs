@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/onboarding-coach/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Onboarding Coach by Tobias",
+    "description": "Welcomes new Grok Bot users, learns how they live and work, then proposes concrete jobs. Shows how a specialist team and an optional Chief of Staff grow...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/onboarding-coach/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

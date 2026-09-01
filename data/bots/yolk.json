@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/yolk/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Yolk by JP",
+    "description": "A Tamagotchi egg that hatches on what you type. It asks for food four times a day — only a food emoji counts — and leaves the sidebar if you miss a meal.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -33,8 +38,9 @@
       "url": "https://grokbot.dev/marketplace/yolk/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

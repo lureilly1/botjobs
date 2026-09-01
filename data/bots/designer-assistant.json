@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/designer-assistant"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Designer Assistant by Amber",
+    "description": "A designer assistant for spaces, parties, events, and weddings. Helps shop, find pieces, plan the look, make purchases, and send emails.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/designer-assistant"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

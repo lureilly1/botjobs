@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/lease-finder/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Lease Finder by Danny",
+    "description": "Hunts current lease deals on whatever you're shopping. Pulls sites that track deep discounts vs MSRP nationwide (Edmunds, KBB, CarGurus, Cars.com,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/lease-finder/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

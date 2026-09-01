@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/bot-inbox/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Bot inbox by Wayne",
+    "description": "A weekday unread digest for Grok Bots. Lists bots and group chats with new activity, one line each. Type scan anytime. Never opens, edits, or marks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/bot-inbox/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

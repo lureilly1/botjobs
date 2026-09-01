@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/socials-short-form-scout/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "socials by ashen",
+    "description": "Hourly X and Reddit scout that drops filmable AI/tech kits for TikTok, Reels, and Shorts. Trending plus VIP launches, chronological briefs, no scripts.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/socials-short-form-scout/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

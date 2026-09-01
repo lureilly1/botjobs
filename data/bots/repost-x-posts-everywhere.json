@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/repost-x-posts-everywhere/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "repost X posts everywhere by jack",
+    "description": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge. For people who post on X and want those originals (and text-only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/repost-x-posts-everywhere/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

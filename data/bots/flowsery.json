@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/flowsery/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Flowsery by Taras",
+    "description": "Session-level analytics for site owners. Pulls the issues Flowsery’s AI found in session recordings (bugs, broken flows, UX problems ranked by how many...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/flowsery/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

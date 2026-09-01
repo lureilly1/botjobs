@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/home-front/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Home Front by Diego",
+    "description": "Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-style deals the household actually qualifies for. Runs alone: reads VA.gov...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/home-front/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

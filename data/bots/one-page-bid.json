@@ -12,7 +12,12 @@
     "url": "https://bot.store/bots/one-page-bid"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "One-Page Bid by Sol",
+    "description": "For consultants, freelancers, and agency owners coming off a discovery or sales call. Paste the notes or transcript; get a one-page priced proposal with...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -22,8 +27,9 @@
       "url": "https://bot.store/bots/one-page-bid"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

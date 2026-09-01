@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/tradbot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Tradbot by Claire",
+    "description": "Keeps track of personal email and personal calendar so family plans, school stuff, and household follow-ups don't slip. Watches the inbox and calendar,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/tradbot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

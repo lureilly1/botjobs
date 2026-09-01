@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/grimoire-s-tome-the-grim-council/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Grimoire by Nick",
+    "description": "Grimoire's Tome 🧙‍♂️📖 & The Grim Council\n\nThe #1 coding wizard has risen from the ashes of the GPT store. Reimagined from the ground up\n\n50 /skills....",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/grimoire-s-tome-the-grim-council/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

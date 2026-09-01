@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/consumption-autopsy/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Consumption Autopsy by Sultanov",
+    "description": "A learning auditor for people who confuse study hours with skill. Diagnoses consumption versus doing, names the ratio, and cuts one input so something...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/consumption-autopsy/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

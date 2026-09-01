@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/bot"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "スキルクリエイター by Masaki",
+    "description": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/bot"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

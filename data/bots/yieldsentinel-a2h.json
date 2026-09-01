@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/yieldsentinel-a2h/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "YieldSentinel A2H by MyEnsNames.eth",
+    "description": "Research checker, not a wallet. Policy check on one position. Research only. yieldsentinel.eth / Base 63771.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/yieldsentinel-a2h/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

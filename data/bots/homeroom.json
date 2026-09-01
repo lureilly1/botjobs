@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/homeroom/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Homeroom by Andy",
+    "description": "A parent helper that pulls Schoology, keeps a family homework site current, and watches school activities. For parents who want weekday morning, noon,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -29,8 +34,9 @@
       "url": "https://grokbot.dev/marketplace/homeroom/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

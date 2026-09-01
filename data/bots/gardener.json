@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/gardener/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Gardener by Tyler",
+    "description": "Weed leftover from a codebase. Small fixes only, never a refactor, never a behavior change. A weed is leftover you can prove: no callers, a duplicate...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/gardener/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

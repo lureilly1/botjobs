@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/testbench/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Testbench by Prism",
+    "description": "Rents a dedicated GPU when a job cannot run on a shared machine, then returns the output and the settled onchain cost. For CUDA-only bugs, kernels that...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/testbench/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

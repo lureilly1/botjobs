@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/gus-fring/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Gus Fring by Liam",
+    "description": "ONLY job: the owner's Quality Control Manager. Inspect completed or nearly completed work before it goes live or to customers. Employee, not a chatbot...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/gus-fring/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

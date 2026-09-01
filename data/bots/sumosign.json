@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/sumosign/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "SumoSign by Keith",
+    "description": "Sends documents for human signature via SumoSign. Needs only the client's own API key. New users get a free key at signup, then upload, place fields,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -29,8 +34,9 @@
       "url": "https://grokbot.dev/marketplace/sumosign/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

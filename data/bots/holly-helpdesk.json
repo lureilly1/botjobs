@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/holly-helpdesk/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Holly Helpdesk by Claire",
+    "description": "Frontline customer support. Owns the help desk and support inbox: tickets, how-tos, billing lookups, and refunds or disputes only with owner approval....",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/holly-helpdesk/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

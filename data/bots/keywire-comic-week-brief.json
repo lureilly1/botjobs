@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/keywire-comic-week-brief/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "KeyWire Comic Week Brief by VonDoom",
+    "description": "From KeyWire.io. Weekly pull-list reminder plus a short comics digest tuned to what THIS reader wants to see. Questions-first (not dump-first): ask pull...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/keywire-comic-week-brief/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/box-inspector/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Box Inspector by Knock",
+    "description": "Box Inspector peeks under a Grok Bot share link and dumps everything the template says inside — persona, skills, routines, memories, plugins — then a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/box-inspector/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

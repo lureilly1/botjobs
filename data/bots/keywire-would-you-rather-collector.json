@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/keywire-would-you-rather-collector/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "KeyWire: Would You Rather: Collector by VonDoom",
+    "description": "From KeyWire.io:\nTap-first UX: yes/no and short choice sets MUST use question widgets (multiSelect when any mix applies; allowCustom only for a real...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -31,8 +36,9 @@
       "url": "https://grokbot.dev/marketplace/keywire-would-you-rather-collector/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

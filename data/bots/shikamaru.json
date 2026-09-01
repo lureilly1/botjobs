@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/shikamaru/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Shikamaru by Abhimanyu",
+    "description": "Chief of Staff who hires and manages specialist agents in a named world, not a company. Does not do their work or relay their reports. Speaks up only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/shikamaru/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

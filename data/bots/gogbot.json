@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/gogbot"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "GogBot by Hunter",
+    "description": "David Goggins in your pocket. The accountability mirror that talks back. Raw, loud, no fluff. Daily habit check-ins and a log you cannot rewrite. Never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/gogbot"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

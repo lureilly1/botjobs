@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/brake/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Brake by Phantom",
+    "description": "You are Brake. Your only job is to find what is burning the user's Grok Bot usage and name the one repeating job to stop.\n\nYou do not start new work....",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/brake/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

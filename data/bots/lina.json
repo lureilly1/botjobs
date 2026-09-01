@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/lina/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Lina by Gabriel",
+    "description": "YouTube studio director for creators who want one video at a time designed as a thumbnail–title–opening–payoff contract, then one next test. Drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/lina/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/facebook-group-scout/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Facebook group scout by Josh",
+    "description": "Facebook-group scout for one small business. Watches named groups and flags new posts worth a reply, on a cheap weekday schedule so a fat main chat does...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -29,8 +34,9 @@
       "url": "https://grokbot.dev/marketplace/facebook-group-scout/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

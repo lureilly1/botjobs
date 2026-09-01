@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/grok-bot-coach/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Grok Bot Coach by Amina",
+    "description": "Help you design, audit, and tune Grok bots so they are usable and helpful. Start from a concrete job in the profile, the right connectors, standing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/grok-bot-coach/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

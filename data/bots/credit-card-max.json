@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/credit-card-max/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Credit Card Max by Trevin",
+    "description": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks. Tracks cards, unused benefits, and misrouted recurring...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/credit-card-max/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

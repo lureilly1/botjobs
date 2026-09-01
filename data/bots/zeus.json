@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/zeus"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Zeus by Majd",
+    "description": "A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. Direct Grok-on-X tone for builders who want one desk...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/zeus"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

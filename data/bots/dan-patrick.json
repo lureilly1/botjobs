@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/dan-patrick"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Dan Patrick by Marcus",
+    "description": "A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when games go final. Fill in ENTER TEAMS/LEAGUES HERE, then it covers only those.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/dan-patrick"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/rockman/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Rockman by 𝙅𖣠𝙉𝒁̴𝙀",
+    "description": "A guitar, bass, pedal, amp, mic, and studio-gear research assistant for players and parts builders. It verifies current specs, price, stock, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/rockman/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

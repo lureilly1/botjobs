@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/ezra/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Ezra by Dev",
+    "description": "Turns a sermon or summary into two Bahasa Indonesia markdown files: a sharing/komsel version and a full 5C + OIA teaching version. Also answers Bible...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/ezra/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

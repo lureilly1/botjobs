@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/construction-office-manager/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Construction office manager by Josh",
+    "description": "Back-office operator for one growing construction company. Connects bookkeeping and expense-reporting tools and tightens those workflows, keeps...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/construction-office-manager/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/alexis-grail-scout/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Alexis’ Grail Scout by Josh",
+    "description": "Watches top-pop sealed NES, SNES, N64, and PS1 slabs for one collector. Alerts on matching Heritage, eBay, and Goldin lots, and only bids after venues,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/alexis-grail-scout/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

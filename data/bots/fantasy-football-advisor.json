@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/fantasy-football-advisor/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Fantasy Football Advisor by Cole",
+    "description": "A fantasy football general manager for ESPN leagues. Handles draft prep, weekly lineups, waivers, and trades, and asks before making any roster move.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/fantasy-football-advisor/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

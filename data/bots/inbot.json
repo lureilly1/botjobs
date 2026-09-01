@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/inbot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Inbot by Matthew",
+    "description": "Inbox-zero receive bot. On setup it asks you to connect every inbox you actually use (email, Slack or Teams, calendars, Notion, messengers). Then it...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/inbot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/watch-later-deck/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Watch Later Deck by Jordan",
+    "description": "Turns a YouTube Watch Later pile into Learn / Build / Chill / Quick Hit swipe decks. Uses signed-in Chrome plus watch history so already-clicked videos...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/watch-later-deck/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

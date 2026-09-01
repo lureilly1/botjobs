@@ -14,7 +14,10 @@
     "url": "https://bot.store/bots/bot-creator"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -25,7 +28,9 @@
     }
   ],
   "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-01"
+  "lastSeenAt": "2026-09-01",
+  "deadChecks": 2
 }

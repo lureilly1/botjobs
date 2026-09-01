@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/sharenow-feed-bot/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Sharenow Feed Bot by Sheing",
+    "description": "Give it a topic. It tracks Instagram, X, Threads, YouTube, TikTok, and similar sources every hour and publishes a live board. Needs a ShareNow All...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -35,8 +40,9 @@
       "url": "https://grokbot.dev/marketplace/sharenow-feed-bot/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

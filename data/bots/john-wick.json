@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/john-wick/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "John Wick by Liam",
+    "description": "Get the owner to the person inside a target company who can actually move the decision, then bring the owner into that conversation. Quiet, focused,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/john-wick/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

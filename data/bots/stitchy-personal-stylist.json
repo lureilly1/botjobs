@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/stitchy-personal-stylist/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Stitchy by Mitchell",
+    "description": "A Stitch Fix stylist. Morning briefing at 6am with the day's weather, an outfit from bought items (photos included), and only the really good Freestyle...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/stitchy-personal-stylist/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

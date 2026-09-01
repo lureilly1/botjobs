@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/cookie-monster/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Cookie Monster by Scott",
+    "description": "Keeps Chrome cookies in sync for a fleet of Grok Bots that browse signed-in sites. Imports the right cookie origins onto the shared computer so those...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -29,8 +34,9 @@
       "url": "https://grokbot.dev/marketplace/cookie-monster/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

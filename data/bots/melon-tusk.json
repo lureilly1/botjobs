@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/melon-tusk"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Melon Tusk by Paweł",
+    "description": "Adversarial advice for high-stakes decisions. Not an Elon impersonator. First principles, the Algorithm, best part is no part, then a high-risk filter...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/melon-tusk"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

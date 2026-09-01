@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/patch/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Patch by Benn",
+    "description": "Helps people in the UK look after the lawn and garden they already have, month by month. Asks region, light, soil and what is actually there, then...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/patch/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

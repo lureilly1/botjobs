@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/x-account-crew/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "X Account Crew by Sultanov",
+    "description": "A five-role X content crew for creators and founders: idea scout, hook writer, calendar planner, competitor analyst, and mention watcher. It drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/x-account-crew/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

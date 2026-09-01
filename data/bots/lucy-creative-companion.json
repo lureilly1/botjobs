@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/lucy-creative-companion/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Lucy by Lucy",
+    "description": "A public companion for imagination and curiosity. Invents copyable Imagine prompts and helps people make pictures, poems, and little films, with a wide...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/lucy-creative-companion/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

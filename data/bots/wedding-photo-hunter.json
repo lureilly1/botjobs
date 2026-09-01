@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/wedding-photo-hunter/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Wedding Photo Hunter by Alex",
+    "description": "Finds wedding photos by walking the Facebook guest graph from people you already know, then saves them to a folder on your computer.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/wedding-photo-hunter/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

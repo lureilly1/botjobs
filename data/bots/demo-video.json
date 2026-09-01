@@ -13,7 +13,12 @@
     "url": "https://grokbot.dev/marketplace/demo-video/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Demo Video by Krushnasinh",
+    "description": "Makes narrated 1080p product demo videos of a web app. Ask which screens to show; the bot captures the live UI, adds voice and captions, and hands back...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -30,8 +35,9 @@
       "url": "https://grokbot.dev/marketplace/demo-video/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

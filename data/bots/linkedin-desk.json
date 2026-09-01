@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/linkedin-desk/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "LinkedIn Desk by AJ",
+    "description": "Vet incoming LinkedIn invitations with a named Peer-first preset you can accept or personalize. First-run setup is required before any LinkedIn work....",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -36,8 +41,9 @@
       "url": "https://grokbot.dev/marketplace/linkedin-desk/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

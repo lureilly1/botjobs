@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/shop/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Shop by Alex",
+    "description": "Finds products across Shopify and shortlists a few options with checkout links. Asks where to ship each time, and never spends without your approval.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/shop/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

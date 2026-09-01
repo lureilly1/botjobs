@@ -14,7 +14,12 @@
     "url": "https://bot.store/bots/x-high-coach"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "X High Coach by High",
+    "description": "Drop an X username. Get a score, health flags, unfollow watch, and punchy rewrites. For anyone who wants more reach and fewer surprises.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [],
@@ -24,8 +29,9 @@
       "url": "https://bot.store/bots/x-high-coach"
     }
   ],
-  "evidenceLevel": "listed",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

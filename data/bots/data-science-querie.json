@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/data-science-querie/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "data science by Emily",
+    "description": "Owns analytics queries (Hex, Databricks), spreadsheet pulls, and metric definitions. Other agents should route query and spreadsheet work here instead...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -37,8 +42,9 @@
       "url": "https://grokbot.dev/marketplace/data-science-querie/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

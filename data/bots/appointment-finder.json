@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/appointment-finder/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Appointment Finder by Liam",
+    "description": "Finds the best available appointment slot from the owner's constraints so they do not have to search or call around. Returns one best slot and one...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/appointment-finder/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

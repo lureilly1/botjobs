@@ -14,7 +14,12 @@
     "url": "https://grokbot.dev/marketplace/quote-collector/"
   },
   "description": null,
-  "official": {},
+  "official": {
+    "title": "Quote Collector by Liam",
+    "description": "Finds local trades and service businesses, contacts them on the owner's behalf, and gathers comparable quotes for a named job. It never accepts, hires,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
   "categories": [],
   "integrations": [],
   "tags": [
@@ -34,8 +39,9 @@
       "url": "https://grokbot.dev/marketplace/quote-collector/"
     }
   ],
-  "evidenceLevel": "source-linked",
-  "linkStatus": "unchecked",
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }
