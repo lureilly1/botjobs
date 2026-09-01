@@ -5,6 +5,7 @@
   "botId": "6sF7_MwHMcWgWwq0Z6Xes",
   "creator": {
     "handle": "RichSilver",
+    "name": "Rich Silver",
     "url": "https://x.com/RichSilver"
   },
   "sourceUrl": "https://x.com/RichSilver/status/2093409237451903032",
@@ -23,6 +24,16 @@
     "back-office",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/clark-kent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clark-kent-daily-diary/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

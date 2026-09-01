@@ -5,6 +5,7 @@
   "botId": "qR7nq7v3w0bwpojx2LgQx",
   "creator": {
     "handle": "ahdumgray",
+    "name": "Adam Gray",
     "url": "https://x.com/ahdumgray"
   },
   "sourceUrl": "https://x.com/ahdumgray/status/2093504459741794550",
@@ -22,6 +23,16 @@
     "content",
     "knowledge-base",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sanity"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sanity/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

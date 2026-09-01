@@ -5,6 +5,7 @@
   "botId": "2asdeMXYDwlPREURnfCxn",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093899347406831738",
@@ -22,6 +23,16 @@
     "monitoring",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/alexis-grail-scout"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alexis-grail-scout/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

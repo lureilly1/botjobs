@@ -5,6 +5,7 @@
   "botId": "9Mo5saoPQYIp45IgzMT7P",
   "creator": {
     "handle": "byeleni",
+    "name": "Eleni",
     "url": "https://x.com/byeleni"
   },
   "sourceUrl": "https://x.com/byeleni/status/2093388385763119459",
@@ -21,6 +22,16 @@
     "research",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/news-scout"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/news-scout/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

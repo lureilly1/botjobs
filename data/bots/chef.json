@@ -5,6 +5,7 @@
   "botId": "3U6zxtPa1b8GbWheaIr4J",
   "creator": {
     "handle": "DogecoinNorway",
+    "name": "Doge Norway",
     "url": "https://x.com/DogecoinNorway"
   },
   "sourceUrl": "https://x.com/DogecoinNorway/status/2093396816087990331",
@@ -23,6 +24,16 @@
     "saving-money",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chef"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chef/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

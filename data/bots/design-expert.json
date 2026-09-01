@@ -5,6 +5,7 @@
   "botId": "H2WEoHRGKv_6a3j6lsHiG",
   "creator": {
     "handle": "inqusit",
+    "name": "Ashish",
     "url": "https://x.com/inqusit"
   },
   "sourceUrl": "https://x.com/inqusit/status/2093765735197851709",
@@ -23,6 +24,16 @@
     "content",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/design-expert"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/design-expert/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

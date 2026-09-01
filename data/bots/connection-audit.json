@@ -5,6 +5,7 @@
   "botId": "qllnuXO-FDFBHZU4MSamY",
   "creator": {
     "handle": "thekuchh",
+    "name": "kuch.",
     "url": "https://x.com/thekuchh"
   },
   "sourceUrl": "https://x.com/thekuchh/status/2094103797270503600",
@@ -21,6 +22,16 @@
     "productivity",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/connection-audit"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/connection-audit/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

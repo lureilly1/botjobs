@@ -5,6 +5,7 @@
   "botId": "RFXogCwTbb2mUODW6rfVe",
   "creator": {
     "handle": "MyEnsNames",
+    "name": "MyEnsNames.eth",
     "url": "https://x.com/MyEnsNames"
   },
   "sourceUrl": "https://x.com/MyEnsNames/status/2093434321700831688",
@@ -23,6 +24,16 @@
     "decision-support",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/yieldsentinel-a2h"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yieldsentinel-a2h/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

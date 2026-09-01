@@ -5,6 +5,7 @@
   "botId": "2PSNlIROOJPj9qZlfRy0w",
   "creator": {
     "handle": "NicoChauvin74",
+    "name": "Nicolas Chauvin",
     "url": "https://x.com/NicoChauvin74"
   },
   "sourceUrl": "https://x.com/NicoChauvin74/status/2093778235054031136",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/betree"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/betree/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

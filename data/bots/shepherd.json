@@ -5,6 +5,7 @@
   "botId": "i5YF8f-zdcR76uKPrqg3J",
   "creator": {
     "handle": "herdrdev",
+    "name": "いにしえ@高信頼AIニュース\"NeuralWire.org\"運営｜Will Oldgram",
     "url": "https://x.com/herdrdev"
   },
   "sourceUrl": "https://x.com/herdrdev/status/2094129284885467399",
@@ -23,6 +24,16 @@
     "automation",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shepherd"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shepherd/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

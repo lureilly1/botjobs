@@ -5,6 +5,7 @@
   "botId": "Wt4IQj3R1eePOyOOnox7H",
   "creator": {
     "handle": "emrecolakoglu",
+    "name": "𝕖𝕞𝕣𝕖",
     "url": "https://x.com/emrecolakoglu"
   },
   "sourceUrl": "https://x.com/emrecolakoglu/status/2093780158180175982",
@@ -22,6 +23,16 @@
     "content",
     "scheduled",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/aoty"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/aoty/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

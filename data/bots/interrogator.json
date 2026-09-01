@@ -5,6 +5,7 @@
   "botId": "-TlSH1rNkA-c2JLsFFVc7",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383139250917746",
@@ -21,6 +22,16 @@
     "personal",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/interrogator"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/interrogator/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

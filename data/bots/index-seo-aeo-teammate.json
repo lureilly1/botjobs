@@ -5,6 +5,7 @@
   "botId": "Viv2NbC5skPslV1WH9Fs7",
   "creator": {
     "handle": "adamta",
+    "name": "adamta",
     "url": "https://x.com/adamta"
   },
   "sourceUrl": "https://x.com/adamta/status/2093387269356785800",
@@ -24,6 +25,16 @@
     "data",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/index"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/index-seo-aeo-teammate/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

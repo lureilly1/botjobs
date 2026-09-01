@@ -5,6 +5,7 @@
   "botId": "sMmoqCElqRPj1RYbtngMr",
   "creator": {
     "handle": "jxckvibe",
+    "name": "JackBuilds",
     "url": "https://x.com/jxckvibe"
   },
   "sourceUrl": "https://x.com/jxckvibe/status/2093771166598975669",
@@ -23,6 +24,16 @@
     "youtube",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/content-growth-coach"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/content-growth-coach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

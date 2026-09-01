@@ -1,0 +1,31 @@
+{
+  "slug": "shoppy",
+  "name": "shoppy",
+  "grokShareUrl": "https://x.ai/bot/26SigD00Ar-mArCvNwXN2",
+  "botId": "26SigD00Ar-mArCvNwXN2",
+  "creator": {
+    "handle": "vandymeares",
+    "name": "vandy",
+    "url": "https://x.com/vandymeares"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/shoppy"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shoppy"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -5,6 +5,7 @@
   "botId": "Ojrv95GLUG1nO1p1RWzVK",
   "creator": {
     "handle": "adxtyahq",
+    "name": "aditya",
     "url": "https://x.com/adxtyahq"
   },
   "sourceUrl": "https://x.com/adxtyahq/status/2093705315607065020",
@@ -22,6 +23,16 @@
     "decision-support",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/steal-this-business"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/steal-this-business/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

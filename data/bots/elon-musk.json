@@ -1,0 +1,31 @@
+{
+  "slug": "elon-musk",
+  "name": "Elon Musk",
+  "grokShareUrl": "https://x.ai/bot/Jj_TYDU1AWN-76k9YjsKa",
+  "botId": "Jj_TYDU1AWN-76k9YjsKa",
+  "creator": {
+    "handle": "London_Vista",
+    "name": "Jacob",
+    "url": "https://x.com/London_Vista"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/elon-musk"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/elon-musk"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

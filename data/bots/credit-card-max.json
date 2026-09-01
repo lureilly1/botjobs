@@ -5,6 +5,7 @@
   "botId": "D831qeIZ5QrobdVh-X79U",
   "creator": {
     "handle": "trevin",
+    "name": "Trevin Chow",
     "url": "https://x.com/trevin"
   },
   "sourceUrl": "https://x.com/trevin/status/2093390512925610067",
@@ -23,6 +24,16 @@
     "life-hacks",
     "shopping",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/credit-card-max"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/credit-card-max/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

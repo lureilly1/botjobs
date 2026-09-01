@@ -5,6 +5,7 @@
   "botId": "62_FP-LQ4OOq4uTevKlUP",
   "creator": {
     "handle": "amberdawn1786",
+    "name": "Amber Dawn",
     "url": "https://x.com/amberdawn1786"
   },
   "sourceUrl": "https://x.com/amberdawn1786/status/2093722772396536068",
@@ -22,6 +23,16 @@
     "research",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/icebreaker"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/icebreaker/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

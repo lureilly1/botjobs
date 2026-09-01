@@ -5,6 +5,7 @@
   "botId": "BrjELcmSwatjRc8DYjtrT",
   "creator": {
     "handle": "GuleidAmina",
+    "name": "Amina Guleid",
     "url": "https://x.com/GuleidAmina"
   },
   "sourceUrl": "https://x.com/GuleidAmina/status/2093404361972122011",
@@ -22,6 +23,16 @@
     "learning",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grok-bot-coach"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-coach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "9-kjE0PVBDhmW-7Fck_R9",
   "creator": {
     "handle": "jordanwcjackson",
+    "name": "Jordan Coin Jackson",
     "url": "https://x.com/jordanwcjackson"
   },
   "sourceUrl": "https://x.com/jordanwcjackson/status/2094246245199995176",
@@ -22,6 +23,16 @@
     "video",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/watch-later-deck"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/watch-later-deck/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "1hyNK6vXzs_8QamyfhvCV",
   "creator": {
     "handle": "CryptoVonDoom",
+    "name": "CryptoVonDoom",
     "url": "https://x.com/CryptoVonDoom"
   },
   "sourceUrl": "https://x.com/CryptoVonDoom/status/2093469613623583219",
@@ -24,6 +25,16 @@
     "content",
     "news",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/keywire-comic-week-brief"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/keywire-comic-week-brief/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

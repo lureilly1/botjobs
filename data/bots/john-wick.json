@@ -5,6 +5,7 @@
   "botId": "_OlL8LPI6lc2xi82F4Gf7",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383148906184985",
@@ -22,6 +23,16 @@
     "growth",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/john-wick"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/john-wick/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

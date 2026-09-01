@@ -5,6 +5,7 @@
   "botId": "HmUpwJbVbgLEGisEj0FPt",
   "creator": {
     "handle": "liam_fallen",
+    "name": "Liam",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093635776659554701",
@@ -23,6 +24,16 @@
     "shopping",
     "email",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/returns-warranties"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/returns-warranties/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

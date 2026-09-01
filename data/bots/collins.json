@@ -5,6 +5,7 @@
   "botId": "D6lddHs6lfM0k7Cj3P6j3",
   "creator": {
     "handle": "zachmllr",
+    "name": "Zach Miller",
     "url": "https://x.com/zachmllr"
   },
   "sourceUrl": "https://x.com/zachmllr/status/2094258928922116418",
@@ -21,6 +22,16 @@
     "family",
     "learning",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/collins"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/collins/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

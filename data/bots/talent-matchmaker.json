@@ -5,6 +5,7 @@
   "botId": "l8p6rXw-lalL-UNiHySnJ",
   "creator": {
     "handle": "lennysan",
+    "name": "Lenny Rachitsky",
     "url": "https://x.com/lennysan"
   },
   "sourceUrl": "https://x.com/lennysan/status/2093428147194847238",
@@ -25,6 +26,16 @@
     "monitoring",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/talent-matchmaker"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/talent-matchmaker/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "Mm_WhYXIjZ3xDNf3s3p91",
   "creator": {
     "handle": "kevinace",
+    "name": "Kevin Wimer",
     "url": "https://x.com/kevinace"
   },
   "sourceUrl": "https://x.com/kevinace/status/2093425364353667118",
@@ -23,6 +24,16 @@
     "monitoring",
     "scheduled",
     "family"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/homework-checker"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/homework-checker/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

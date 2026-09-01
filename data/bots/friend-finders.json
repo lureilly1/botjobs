@@ -5,6 +5,7 @@
   "botId": "FGBuaEH72GHuC9ZrVj7XA",
   "creator": {
     "handle": "pukerrainbrow",
+    "name": "Pukerainbow 🤮🌈",
     "url": "https://x.com/pukerrainbrow"
   },
   "sourceUrl": "https://x.com/pukerrainbrow/status/2093531901730676792",
@@ -22,6 +23,16 @@
     "research",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/friend-finders"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/friend-finders/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

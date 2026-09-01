@@ -5,6 +5,7 @@
   "botId": "VjbtJ_qTdzbhJGmXdvTIc",
   "creator": {
     "handle": "lennysan",
+    "name": "Lenny Rachitsky",
     "url": "https://x.com/lennysan"
   },
   "sourceUrl": "https://x.com/lennysan/status/2093428147194847238",
@@ -24,6 +25,16 @@
     "research",
     "on-demand",
     "knowledge-base"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lennybot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lennybot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

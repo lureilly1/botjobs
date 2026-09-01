@@ -5,6 +5,7 @@
   "botId": "zj8VKu1CnqkHCM4Na1zex",
   "creator": {
     "handle": "wells1226",
+    "name": "Tyler",
     "url": "https://x.com/wells1226"
   },
   "sourceUrl": "https://x.com/wells1226/status/2093640876857999710",
@@ -22,6 +23,16 @@
     "growth",
     "social-media",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ads-operator"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ads-operator/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

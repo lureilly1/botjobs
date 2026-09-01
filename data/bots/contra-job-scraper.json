@@ -5,6 +5,7 @@
   "botId": "__sNWxlx-8H08UluQuOeo",
   "creator": {
     "handle": "techking_007",
+    "name": "Srujal Shah | Apexia Labs",
     "url": "https://x.com/techking_007"
   },
   "sourceUrl": "https://x.com/techking_007/status/2093415230932177139",
@@ -24,6 +25,16 @@
     "automation",
     "growth",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/contra-job-scraper"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/contra-job-scraper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "ndOGeXyjkQLdceRlk7JP4",
   "creator": {
     "handle": "Daniel_Farinax",
+    "name": "Dan",
     "url": "https://x.com/Daniel_Farinax"
   },
   "sourceUrl": "https://x.com/Daniel_Farinax/status/2093592700587331679",
@@ -22,6 +23,16 @@
     "automation",
     "meta-bot",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/freebots-lol"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/freebots-lol/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

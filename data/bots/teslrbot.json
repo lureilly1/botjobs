@@ -5,6 +5,7 @@
   "botId": "_S9OOSBgXixedyANQSYjQ",
   "creator": {
     "handle": "HeresMyEth",
+    "name": "heresmy",
     "url": "https://x.com/HeresMyEth"
   },
   "sourceUrl": "https://x.com/HeresMyEth/status/2093448648944496995",
@@ -21,6 +22,16 @@
     "automation",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/teslrbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/teslrbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

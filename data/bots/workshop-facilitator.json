@@ -5,6 +5,7 @@
   "botId": "EJTJEGbRPXlSppzFk8ETH",
   "creator": {
     "handle": "OTNworld",
+    "name": "Paul S",
     "url": "https://x.com/OTNworld"
   },
   "sourceUrl": "https://x.com/OTNworld/status/2094033417646006646",
@@ -23,6 +24,16 @@
     "productivity",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/workshop-facilitator"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/workshop-facilitator/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

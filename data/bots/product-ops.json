@@ -5,6 +5,7 @@
   "botId": "gJKPDjN3yS95ZpZBTWruv",
   "creator": {
     "handle": "inqusit",
+    "name": "Ashish",
     "url": "https://x.com/inqusit"
   },
   "sourceUrl": "https://x.com/inqusit/status/2093513553613656106",
@@ -22,6 +23,16 @@
     "engineering",
     "productivity",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/product-ops"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-ops/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

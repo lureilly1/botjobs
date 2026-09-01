@@ -5,6 +5,7 @@
   "botId": "0aEcF7mtG_zsDWXEUeOGx",
   "creator": {
     "handle": "poteto",
+    "name": "lauren",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093528015900930387",
@@ -21,6 +22,16 @@
     "family",
     "agent-team",
     "automation"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/den"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/den/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "dHd69sBvMG2o3lJa__T7K",
   "creator": {
     "handle": "scheemunai",
+    "name": "Shimecki",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093398594745254196",
@@ -23,6 +24,16 @@
     "life-hacks",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/newsletter-cleanup"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/newsletter-cleanup/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

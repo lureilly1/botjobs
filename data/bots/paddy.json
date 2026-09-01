@@ -5,6 +5,7 @@
   "botId": "A42rzhad6J8lhYMOaQ20o",
   "creator": {
     "handle": "DavidCarbutt_",
+    "name": "David Carbutt",
     "url": "https://x.com/DavidCarbutt_"
   },
   "sourceUrl": "https://x.com/DavidCarbutt_/status/2093669914926072133",
@@ -24,6 +25,16 @@
     "youtube",
     "video",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/paddy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paddy/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

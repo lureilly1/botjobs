@@ -5,6 +5,7 @@
   "botId": "zcHEE4_hbqw3cZsy7X2Vk",
   "creator": {
     "handle": "adamludwin",
+    "name": "Adam Ludwin",
     "url": "https://x.com/adamludwin"
   },
   "sourceUrl": "https://x.com/adamludwin/status/2093402167394914392",
@@ -22,6 +23,16 @@
     "productivity",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/linky"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linky/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

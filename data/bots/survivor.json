@@ -1,0 +1,31 @@
+{
+  "slug": "survivor",
+  "name": "Survivor",
+  "grokShareUrl": "https://x.ai/bot/hSRFXCKSpKGcBA9q8BOw8",
+  "botId": "hSRFXCKSpKGcBA9q8BOw8",
+  "creator": {
+    "handle": "_danvargas_",
+    "name": "danvargas",
+    "url": "https://x.com/_danvargas_"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/survivor"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/survivor"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

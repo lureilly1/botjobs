@@ -5,6 +5,7 @@
   "botId": "XjQ-AZTMrGLmQOTeMu3LF",
   "creator": {
     "handle": "aryamankhawow",
+    "name": "aryamankhawow",
     "url": "https://x.com/aryamankhawow"
   },
   "sourceUrl": "https://x.com/aryamankhawow/status/2093385343928033312",
@@ -24,6 +25,16 @@
     "email",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-of-staff-aryaman"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-aryaman/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

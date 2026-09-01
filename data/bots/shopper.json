@@ -5,6 +5,7 @@
   "botId": "h5CE1r5-LDWHacnuRuuOW",
   "creator": {
     "handle": "FranciscoKemeny",
+    "name": "FranciscoKemeny",
     "url": "https://x.com/FranciscoKemeny"
   },
   "sourceUrl": "https://x.com/FranciscoKemeny/status/2093486505163735509",
@@ -22,6 +23,16 @@
     "saving-money",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shopper-h5ce1r"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shopper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

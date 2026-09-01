@@ -5,6 +5,7 @@
   "botId": "BsTA9W4uysdokbBQiriuQ",
   "creator": {
     "handle": "FatDon420",
+    "name": "FatDon420",
     "url": "https://x.com/FatDon420"
   },
   "sourceUrl": "https://x.com/FatDon420/status/2093481701930410183",
@@ -22,6 +23,16 @@
     "video",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/walt"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/walt/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

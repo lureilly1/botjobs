@@ -5,6 +5,7 @@
   "botId": "3iNSp9IoRCnSjh0Z6MtWZ",
   "creator": {
     "handle": "theoscarvibes",
+    "name": "Oscar",
     "url": "https://x.com/theoscarvibes"
   },
   "sourceUrl": "https://x.com/theoscarvibes/status/2093543065055056124",
@@ -24,6 +25,16 @@
     "back-office",
     "engineering",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/kerf"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kerf/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

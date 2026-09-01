@@ -5,6 +5,7 @@
   "botId": "OPLop__-mqSsyQheR5JYv",
   "creator": {
     "handle": "waynesutton",
+    "name": "Wayne Sutton",
     "url": "https://x.com/waynesutton"
   },
   "sourceUrl": "https://x.com/waynesutton/status/2093835122231722366",
@@ -22,6 +23,16 @@
     "automation",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/apps"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/apps/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

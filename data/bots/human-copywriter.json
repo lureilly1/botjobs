@@ -5,6 +5,7 @@
   "botId": "JZAccYtlRFvDSU2CnMnkZ",
   "creator": {
     "handle": "massimodeluisa",
+    "name": "Massimo De Luisa",
     "url": "https://x.com/massimodeluisa"
   },
   "sourceUrl": "https://x.com/massimodeluisa/status/2093446449446986145",
@@ -21,6 +22,16 @@
     "marketer",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/human-copywriter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/human-copywriter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

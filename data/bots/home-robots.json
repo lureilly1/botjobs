@@ -5,6 +5,7 @@
   "botId": "3mf-UN4mGnCp8DbPBnW5u",
   "creator": {
     "handle": "SawyerMerritt",
+    "name": "Sawyer Merritt",
     "url": "https://x.com/SawyerMerritt"
   },
   "sourceUrl": "https://x.com/SawyerMerritt/status/2093384986162352495",
@@ -22,6 +23,16 @@
     "automation",
     "life-hacks",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/home-robots"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/home-robots/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

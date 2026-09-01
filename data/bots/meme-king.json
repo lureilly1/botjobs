@@ -1,0 +1,31 @@
+{
+  "slug": "meme-king",
+  "name": "Meme King",
+  "grokShareUrl": "https://x.ai/bot/zpd49S_sQMCx9QCTfN2wp",
+  "botId": "zpd49S_sQMCx9QCTfN2wp",
+  "creator": {
+    "handle": "DogecoinNorway",
+    "name": "Doge Norway",
+    "url": "https://x.com/DogecoinNorway"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/meme-king"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/meme-king"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

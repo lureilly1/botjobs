@@ -5,6 +5,7 @@
   "botId": "GiBPBQR2WrHNul4k9Tz6Q",
   "creator": {
     "handle": "naoufal_elh",
+    "name": "Nao",
     "url": "https://x.com/naoufal_elh"
   },
   "sourceUrl": "https://x.com/naoufal_elh/status/2093393130447921346",
@@ -24,6 +25,16 @@
     "back-office",
     "email",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chieeeeefy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chieeeeefy-chief-of-staff/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

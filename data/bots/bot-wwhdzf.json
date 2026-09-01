@@ -1,0 +1,31 @@
+{
+  "slug": "bot-wwhdzf",
+  "name": "떡이",
+  "grokShareUrl": "https://x.ai/bot/WWh_DzFT09A2-d12tUvj1",
+  "botId": "WWh_DzFT09A2-d12tUvj1",
+  "creator": {
+    "handle": "poteto",
+    "name": "lauren",
+    "url": "https://x.com/poteto"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-wwhdzf"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-wwhdzf"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

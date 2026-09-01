@@ -5,6 +5,7 @@
   "botId": "LEbVr_WZ-cym7XwIm7xf5",
   "creator": {
     "handle": "pwnies",
+    "name": "Jacob Miller",
     "url": "https://x.com/pwnies"
   },
   "sourceUrl": "https://x.com/pwnies/status/2093494257105379569",
@@ -22,6 +23,16 @@
     "automation",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/speed-lab"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/speed-lab/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

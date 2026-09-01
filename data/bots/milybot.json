@@ -5,6 +5,7 @@
   "botId": "vcOZX9RVPatQMVCinCVY_",
   "creator": {
     "handle": "1Milysec",
+    "name": "Mily Secunda",
     "url": "https://x.com/1Milysec"
   },
   "sourceUrl": "https://x.com/1Milysec/status/2093806488586502490",
@@ -24,6 +25,16 @@
     "engineering",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/milybot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/milybot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

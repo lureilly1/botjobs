@@ -5,6 +5,7 @@
   "botId": "0VC1XzREXRFGe0hVo-JEG",
   "creator": {
     "handle": "lennysan",
+    "name": "Lenny Rachitsky",
     "url": "https://x.com/lennysan"
   },
   "sourceUrl": "https://x.com/lennysan/status/2093428147194847238",
@@ -24,6 +25,16 @@
     "learning",
     "scheduled",
     "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/be-happier"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/be-happier/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

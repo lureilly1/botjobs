@@ -5,6 +5,7 @@
   "botId": "Nn0ykGa3vJ6YS7ib7F6yH",
   "creator": {
     "handle": "ArthurMacwaters",
+    "name": "Arthur MacWaters",
     "url": "https://x.com/ArthurMacwaters"
   },
   "sourceUrl": "https://x.com/ArthurMacwaters/status/2093412671144296661",
@@ -23,6 +24,16 @@
     "research",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/research-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/research-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

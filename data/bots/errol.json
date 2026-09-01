@@ -5,6 +5,7 @@
   "botId": "mQoLg90Pj5Cn2Gso4AkoQ",
   "creator": {
     "handle": "zachmllr",
+    "name": "Zach Miller",
     "url": "https://x.com/zachmllr"
   },
   "sourceUrl": "https://x.com/zachmllr/status/2094270994777030966",
@@ -21,6 +22,16 @@
     "family",
     "learning",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/errol"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/errol/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

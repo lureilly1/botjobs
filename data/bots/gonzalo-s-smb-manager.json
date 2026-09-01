@@ -5,6 +5,7 @@
   "botId": "G0GVoN9xUbXFucwWz539v",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093579852955975761",
@@ -22,6 +23,16 @@
     "back-office",
     "automation",
     "social-media"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gonzalo-s-smb-manager"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gonzalo-s-smb-manager/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

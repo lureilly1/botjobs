@@ -5,6 +5,7 @@
   "botId": "8vjjlI7z5W0HtpRcFQgJ4",
   "creator": {
     "handle": "arni0x9053",
+    "name": "arni",
     "url": "https://x.com/arni0x9053"
   },
   "sourceUrl": "https://x.com/arni0x9053/status/2093838719510053326",
@@ -22,6 +23,16 @@
     "design",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/george"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/george/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

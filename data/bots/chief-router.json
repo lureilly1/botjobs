@@ -5,6 +5,7 @@
   "botId": "JugVUSPe_wSZg-in69owM",
   "creator": {
     "handle": "nykdotdev",
+    "name": "nykdotdev",
     "url": "https://x.com/nykdotdev"
   },
   "sourceUrl": "https://x.com/nykdotdev/status/2093395691452457171",
@@ -24,6 +25,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-router/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

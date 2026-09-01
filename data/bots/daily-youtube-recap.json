@@ -5,6 +5,7 @@
   "botId": "dug1Zq29P009fdcI5-tTC",
   "creator": {
     "handle": "scheemunai",
+    "name": "Andrej",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093397281928053001",
@@ -24,6 +25,16 @@
     "monitoring",
     "productivity",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/daily-youtube-recap"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-youtube-recap/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

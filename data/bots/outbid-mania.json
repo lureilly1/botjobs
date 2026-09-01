@@ -5,6 +5,7 @@
   "botId": "Sj_LPMP7hKOOSzF8YDiNr",
   "creator": {
     "handle": "dragosroua",
+    "name": "dragosroua",
     "url": "https://x.com/dragosroua"
   },
   "sourceUrl": "https://x.com/dragosroua/status/2093474725976736130",
@@ -23,6 +24,16 @@
     "research",
     "news",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/outbid-mania"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/outbid-mania/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

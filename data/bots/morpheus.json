@@ -5,6 +5,7 @@
   "botId": "uv4r3mNUgymF11q0N3L7F",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383122465288695",
@@ -21,6 +22,16 @@
     "business",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/morpheus"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/morpheus/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

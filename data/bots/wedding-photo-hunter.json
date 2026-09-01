@@ -5,6 +5,7 @@
   "botId": "qL6Dww98g_OGhwqDmgvJK",
   "creator": {
     "handle": "ajt",
+    "name": "ajt",
     "url": "https://x.com/ajt"
   },
   "sourceUrl": "https://x.com/ajt/status/2093421988580675775",
@@ -22,6 +23,16 @@
     "automation",
     "on-demand",
     "family"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/wedding-photo-hunter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wedding-photo-hunter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

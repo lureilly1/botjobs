@@ -5,6 +5,7 @@
   "botId": "fcJJMM58AdXSTBdW3xWyW",
   "creator": {
     "handle": "kristaletz",
+    "name": "kristaletz",
     "url": "https://x.com/kristaletz"
   },
   "sourceUrl": "https://x.com/kristaletz/status/2093378627932918087",
@@ -22,6 +23,16 @@
     "growth",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pg"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pg-prospecting/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

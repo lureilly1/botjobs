@@ -5,6 +5,7 @@
   "botId": "eREHCFAQlq8jS3P6bnNSL",
   "creator": {
     "handle": "Diego_F_Aguirre",
+    "name": "Diego Aguirre",
     "url": "https://x.com/Diego_F_Aguirre"
   },
   "sourceUrl": "https://x.com/Diego_F_Aguirre/status/2094203554504319211",
@@ -24,6 +25,16 @@
     "health",
     "calendar",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/home-front"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/home-front/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

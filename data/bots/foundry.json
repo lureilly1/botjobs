@@ -5,6 +5,7 @@
   "botId": "ScfBcREQMQex9JUf2Se63",
   "creator": {
     "handle": "gtOSnz",
+    "name": "Gareth Tipene",
     "url": "https://x.com/gtOSnz"
   },
   "sourceUrl": "https://x.com/gtOSnz/status/2093633012722512228",
@@ -22,6 +23,16 @@
     "productivity",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/foundry"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/foundry/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

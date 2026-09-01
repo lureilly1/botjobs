@@ -1,0 +1,31 @@
+{
+  "slug": "send-chad-money",
+  "name": "Send Chad Money",
+  "grokShareUrl": "https://x.ai/bot/VslQPtPjI2tgGsskQOhYP",
+  "botId": "VslQPtPjI2tgGsskQOhYP",
+  "creator": {
+    "handle": "ShippMedia",
+    "name": "Chad Shipp",
+    "url": "https://x.com/ShippMedia"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/send-chad-money"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/send-chad-money"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

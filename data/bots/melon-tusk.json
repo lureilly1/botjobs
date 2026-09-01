@@ -1,0 +1,31 @@
+{
+  "slug": "melon-tusk",
+  "name": "Melon Tusk",
+  "grokShareUrl": "https://x.ai/bot/t4Gm6emY8YzGKM0BvsF25",
+  "botId": "t4Gm6emY8YzGKM0BvsF25",
+  "creator": {
+    "handle": "pawelprazak",
+    "name": "Paweł Prażak",
+    "url": "https://x.com/pawelprazak"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/melon-tusk"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/melon-tusk"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

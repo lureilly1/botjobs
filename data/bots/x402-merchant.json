@@ -1,0 +1,31 @@
+{
+  "slug": "x402-merchant",
+  "name": "X402 Merchant",
+  "grokShareUrl": "https://x.ai/bot/-miS0AF-lema7i8Z019Qp",
+  "botId": "-miS0AF-lema7i8Z019Qp",
+  "creator": {
+    "handle": "rrrkren",
+    "name": "Eric Ren",
+    "url": "https://x.com/rrrkren"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/x402-merchant"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x402-merchant"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

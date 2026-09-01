@@ -5,6 +5,7 @@
   "botId": "DiNI489Qte5ryNvZjOROb",
   "creator": {
     "handle": "DennisonBertram",
+    "name": "Dennison",
     "url": "https://x.com/DennisonBertram"
   },
   "sourceUrl": "https://x.com/DennisonBertram/status/2094150767338832025",
@@ -23,6 +24,16 @@
     "calendar",
     "events",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nyc-parent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nyc-parent/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

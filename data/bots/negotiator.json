@@ -5,6 +5,7 @@
   "botId": "gsA3R-R-IIA7x3qUkojCu",
   "creator": {
     "handle": "danizhu",
+    "name": "Dani Zhu",
     "url": "https://x.com/danizhu"
   },
   "sourceUrl": "https://x.com/danizhu/status/2093604446098047488",
@@ -21,6 +22,16 @@
     "decision-support",
     "life-hacks",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/negotiator"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/negotiator/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

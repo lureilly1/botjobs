@@ -5,6 +5,7 @@
   "botId": "eyFr_G8h9UmrQHNpZpNfx",
   "creator": {
     "handle": "data_nexus",
+    "name": "Derek | Data Nexus",
     "url": "https://x.com/data_nexus"
   },
   "sourceUrl": "https://x.com/data_nexus/status/2094265024227192946",
@@ -23,6 +24,16 @@
     "research",
     "analytics",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/blockchain-data-expert"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blockchain-data-expert/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

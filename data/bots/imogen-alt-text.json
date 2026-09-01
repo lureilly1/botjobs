@@ -5,6 +5,7 @@
   "botId": "9y2GcFkKMAUhYlMxRUS0X",
   "creator": {
     "handle": "kentcdodds",
+    "name": "Kent C. Dodds",
     "url": "https://x.com/kentcdodds"
   },
   "sourceUrl": "https://x.com/kentcdodds/status/2093405822730825820",
@@ -23,6 +24,16 @@
     "automation",
     "design",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/imogen"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/imogen-alt-text/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

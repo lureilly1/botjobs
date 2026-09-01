@@ -5,6 +5,7 @@
   "botId": "2atUDeldi9vF1R_ySRgCo",
   "creator": {
     "handle": "BrianDEvans",
+    "name": "Brian D. Evans",
     "url": "https://x.com/BrianDEvans"
   },
   "sourceUrl": "https://x.com/BrianDEvans/status/2093386518375346484",
@@ -23,6 +24,16 @@
     "monitoring",
     "productivity",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/aiusagebot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-usage-meter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

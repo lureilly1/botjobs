@@ -5,6 +5,7 @@
   "botId": "fu6JIwhLoBvrxtaZik0RP",
   "creator": {
     "handle": "jackfriks",
+    "name": "jack friks",
     "url": "https://x.com/jackfriks"
   },
   "sourceUrl": "https://x.com/jackfriks/status/2093719119984001073",
@@ -23,6 +24,16 @@
     "automation",
     "content",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/repost-x-posts-everywhere"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/repost-x-posts-everywhere/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "mZM210IvFxqswc9eaLjQa",
   "creator": {
     "handle": "benngarnish",
+    "name": "Benn Garnish",
     "url": "https://x.com/benngarnish"
   },
   "sourceUrl": "https://x.com/benngarnish/status/2094068114929393746",
@@ -22,6 +23,16 @@
     "decision-support",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/patch"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/patch/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

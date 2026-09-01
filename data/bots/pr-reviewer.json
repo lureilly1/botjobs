@@ -5,6 +5,7 @@
   "botId": "rt629UEZFtE4Wz0A_0c37",
   "creator": {
     "handle": "mustafaergisi",
+    "name": "Mustafa Ergisi",
     "url": "https://x.com/mustafaergisi"
   },
   "sourceUrl": "https://x.com/mustafaergisi/status/2093393924870058039",
@@ -21,6 +22,16 @@
     "automation",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pr-reviewer"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pr-reviewer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

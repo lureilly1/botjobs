@@ -5,6 +5,7 @@
   "botId": "p_0KTQ41WwupGeD-iShbK",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383141901709505",
@@ -23,6 +24,16 @@
     "productivity",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/witness"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/witness/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

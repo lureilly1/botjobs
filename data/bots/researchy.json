@@ -5,6 +5,7 @@
   "botId": "rQt4W2zO2Gx9lfcBjd1lj",
   "creator": {
     "handle": "farzyness",
+    "name": "Joshua Allen",
     "url": "https://x.com/farzyness"
   },
   "sourceUrl": "https://x.com/farzyness/status/2094148803494391903",
@@ -22,6 +23,16 @@
     "research",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/researchy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/researchy/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

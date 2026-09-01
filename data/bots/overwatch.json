@@ -5,6 +5,7 @@
   "botId": "7u3XiRiTYw4GVZmuZboyP",
   "creator": {
     "handle": "scheemunai",
+    "name": "Shimecki",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093397147882229897",
@@ -22,6 +23,16 @@
     "automation",
     "back-office",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/overwatch"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/overwatch/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

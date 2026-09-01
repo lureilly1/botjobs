@@ -5,6 +5,7 @@
   "botId": "BAbHIps4VA0Hr4GLIOJme",
   "creator": {
     "handle": "jediahkatz",
+    "name": "Jediah Katz",
     "url": "https://x.com/jediahkatz"
   },
   "sourceUrl": "https://x.com/jediahkatz/status/2093391579964694670",
@@ -22,6 +23,16 @@
     "saving-money",
     "life-hacks",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/blair"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blair-personal-shopper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

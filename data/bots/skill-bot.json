@@ -5,6 +5,7 @@
   "botId": "WdKtVYWvxVEDmc7xp8zO2",
   "creator": {
     "handle": "davespeers",
+    "name": "Dave Speers",
     "url": "https://x.com/davespeers"
   },
   "sourceUrl": "https://x.com/davespeers/status/2093703778872496292",
@@ -23,6 +24,16 @@
     "knowledge-base",
     "meta-bot",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/skill-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/skill-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

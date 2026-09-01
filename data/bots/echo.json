@@ -5,6 +5,7 @@
   "botId": "ph5mcXqVy2p176Br7BJYi",
   "creator": {
     "handle": "kristaletz",
+    "name": "kristaletz",
     "url": "https://x.com/kristaletz"
   },
   "sourceUrl": "https://x.com/kristaletz/status/2093494509682217308",
@@ -24,6 +25,16 @@
     "design",
     "productivity",
     "automation"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/echo"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/echo/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

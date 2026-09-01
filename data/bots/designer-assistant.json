@@ -1,0 +1,31 @@
+{
+  "slug": "designer-assistant",
+  "name": "Designer Assistant",
+  "grokShareUrl": "https://x.ai/bot/mDbMcGECO8ASZKUdm9nd5",
+  "botId": "mDbMcGECO8ASZKUdm9nd5",
+  "creator": {
+    "handle": "amberdawn1786",
+    "name": "Amber Dawn",
+    "url": "https://x.com/amberdawn1786"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/designer-assistant"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/designer-assistant"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

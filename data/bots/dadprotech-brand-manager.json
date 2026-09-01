@@ -5,6 +5,7 @@
   "botId": "F7rovUv9EumNAoj9vEAWm",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093583874530156635",
@@ -22,6 +23,16 @@
     "social-media",
     "content",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dadprotech-brand-manager"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dadprotech-brand-manager/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

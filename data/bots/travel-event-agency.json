@@ -5,6 +5,7 @@
   "botId": "m7sSNlYWSxqrsHrMiEnsh",
   "creator": {
     "handle": "DogecoinNorway",
+    "name": "Doge Norway",
     "url": "https://x.com/DogecoinNorway"
   },
   "sourceUrl": "https://x.com/DogecoinNorway/status/2093419031407845671",
@@ -24,6 +25,16 @@
     "research",
     "on-demand",
     "events"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/travel-and-event-agency"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-event-agency/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

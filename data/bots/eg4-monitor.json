@@ -5,6 +5,7 @@
   "botId": "9rxPP70OSzuTtTaOrzeqz",
   "creator": {
     "handle": "look4terry",
+    "name": "Terry Haynes",
     "url": "https://x.com/look4terry"
   },
   "sourceUrl": "https://x.com/look4terry/status/2093839716370309156",
@@ -23,6 +24,16 @@
     "home",
     "data",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/eg4-monitor"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/eg4-monitor/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

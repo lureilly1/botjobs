@@ -5,6 +5,7 @@
   "botId": "xRyaLCqAzIr_paD5tC8PK",
   "creator": {
     "handle": "BitsOfJT",
+    "name": "₿its Of JT",
     "url": "https://x.com/BitsOfJT"
   },
   "sourceUrl": "https://x.com/BitsOfJT/status/2093757984203583651",
@@ -22,6 +23,16 @@
     "automation",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bandit"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bandit/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

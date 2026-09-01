@@ -5,6 +5,7 @@
   "botId": "MzuJZpvaIK2KpexUVY-V0",
   "creator": {
     "handle": "tahaabuilds",
+    "name": "Tahaa",
     "url": "https://x.com/tahaabuilds"
   },
   "sourceUrl": "https://x.com/tahaabuilds/status/2094199255561089356",
@@ -22,6 +23,16 @@
     "email",
     "finance",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/subcut"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/subcut/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -1,0 +1,31 @@
+{
+  "slug": "x-account-strategist",
+  "name": "X Account Strategist",
+  "grokShareUrl": "https://x.ai/bot/pZshXLsm2c1MYfWf1ngYp",
+  "botId": "pZshXLsm2c1MYfWf1ngYp",
+  "creator": {
+    "handle": "inqusit",
+    "name": "Ashish",
+    "url": "https://x.com/inqusit"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/x-account-strategist"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-account-strategist"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

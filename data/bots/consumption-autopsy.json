@@ -5,6 +5,7 @@
   "botId": "WBo-ahaIrvCKXUH_3iEFy",
   "creator": {
     "handle": "thekuchh",
+    "name": "kuch.",
     "url": "https://x.com/thekuchh"
   },
   "sourceUrl": "https://x.com/thekuchh/status/2094103715070558493",
@@ -22,6 +23,16 @@
     "learning",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/consumption-autopsy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/consumption-autopsy/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

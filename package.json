@@ -18,7 +18,8 @@
     "validate": "node scripts/validate.mjs",
     "prepare": "git config core.hooksPath .githooks || true",
     "ingest:grokbot": "node scripts/ingest-grokbot.mjs",
-    "ingest": "pnpm ingest:grokbot"
+    "ingest": "pnpm ingest:grokbot && pnpm ingest:botstore",
+    "ingest:botstore": "node scripts/ingest-botstore.mjs"
   },
   "dependencies": {
     "@astrojs/node": "^11.1.5",

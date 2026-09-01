@@ -5,6 +5,7 @@
   "botId": "tII28kVM4dxPvzSLjwqko",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383136621060285",
@@ -23,6 +24,16 @@
     "productivity",
     "email",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bodyguard"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bodyguard/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

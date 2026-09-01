@@ -5,6 +5,7 @@
   "botId": "sAxCT93K8i7gwctmtAroD",
   "creator": {
     "handle": "zachmllr",
+    "name": "Zach Miller",
     "url": "https://x.com/zachmllr"
   },
   "sourceUrl": "https://x.com/zachmllr/status/2094258800492429614",
@@ -21,6 +22,16 @@
     "family",
     "learning",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/keach"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/keach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

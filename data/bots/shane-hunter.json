@@ -5,6 +5,7 @@
   "botId": "o0yoY_AhWPpIySJR5TaM-",
   "creator": {
     "handle": "rightish19",
+    "name": "Rightish",
     "url": "https://x.com/rightish19"
   },
   "sourceUrl": "https://x.com/rightish19/status/2093761406545834296",
@@ -22,6 +23,16 @@
     "automation",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shane-hunter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shane-hunter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

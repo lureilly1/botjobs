@@ -5,6 +5,7 @@
   "botId": "FfGFlZLAQDyxhJwg2ZJlL",
   "creator": {
     "handle": "CardCaptain",
+    "name": "Joe",
     "url": "https://x.com/CardCaptain"
   },
   "sourceUrl": "https://x.com/CardCaptain/status/2093493396510068900",
@@ -21,6 +22,16 @@
     "shopping",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pika-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pika-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

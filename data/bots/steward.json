@@ -5,6 +5,7 @@
   "botId": "VMwfgQlHkYfFkbPYDWzAA",
   "creator": {
     "handle": "cjblev",
+    "name": "💯dadProTech💯",
     "url": "https://x.com/cjblev"
   },
   "sourceUrl": "https://x.com/cjblev/status/2094100993923252291",
@@ -24,6 +25,16 @@
     "saving-money",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/steward"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/steward/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "9UZp5k0Fp0LYmkyos5swQ",
   "creator": {
     "handle": "old_pgmrs_will",
+    "name": "いにしえ@高信頼AIニュース\"NeuralWire.org\"運営｜Will Oldgram",
     "url": "https://x.com/old_pgmrs_will"
   },
   "sourceUrl": "https://x.com/old_pgmrs_will/status/2094360885884322286",
@@ -23,6 +24,16 @@
     "monitoring",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grok-vm-maintenance"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-vm-maintenance/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

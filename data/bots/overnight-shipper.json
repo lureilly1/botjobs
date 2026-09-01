@@ -5,6 +5,7 @@
   "botId": "aaqCOb-3SE48_7qAEAzAf",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093582410638311676",
@@ -22,6 +23,16 @@
     "automation",
     "productivity",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/overnight-shipper"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/overnight-shipper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

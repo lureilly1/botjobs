@@ -5,6 +5,7 @@
   "botId": "_qeZe0Y7621Wr8y6d7KBU",
   "creator": {
     "handle": "CryptoVonDoom",
+    "name": "VonDoom ☕️",
     "url": "https://x.com/CryptoVonDoom"
   },
   "sourceUrl": "https://x.com/CryptoVonDoom/status/2093528067650281687",
@@ -19,6 +20,16 @@
   "tags": [
     "personal",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/keywire-would-you-rather-collector"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/keywire-would-you-rather-collector/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

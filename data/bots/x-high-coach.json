@@ -5,6 +5,7 @@
   "botId": "xSfBSprfKv5h909uzrv7W",
   "creator": {
     "handle": "Hightv",
+    "name": "High",
     "url": "https://x.com/Hightv"
   },
   "sourceUrl": "https://x.com/Hightv/status/2093611453010084257",
@@ -23,6 +24,16 @@
     "analytics",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-high-coach-xsfbsp"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-high-coach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

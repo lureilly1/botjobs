@@ -5,6 +5,7 @@
   "botId": "HC7kphHSxDzb639YlmI6O",
   "creator": {
     "handle": "RichSilver",
+    "name": "Rich Silver",
     "url": "https://x.com/RichSilver"
   },
   "sourceUrl": "https://x.com/RichSilver/status/2094267086591680962",
@@ -22,6 +23,16 @@
     "monitoring",
     "life-hacks",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/flora"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/flora/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

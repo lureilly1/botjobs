@@ -5,6 +5,7 @@
   "botId": "uvX1KHZ67D_AZQogYxR8-",
   "creator": {
     "handle": "kinopee_ai",
+    "name": "Kinopee",
     "url": "https://x.com/kinopee_ai"
   },
   "sourceUrl": "https://x.com/kinopee_ai/status/2093618570253222126",
@@ -22,6 +23,16 @@
     "decision-support",
     "saving-money",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-uvx1kh"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/japanese-travel-booking-agent/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

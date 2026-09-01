@@ -5,6 +5,7 @@
   "botId": "Xg8tws0lVEouCHOVMcnLg",
   "creator": {
     "handle": "dannybuck",
+    "name": "Danny Buck",
     "url": "https://x.com/dannybuck"
   },
   "sourceUrl": "https://x.com/dannybuck/status/2093732626544628001",
@@ -23,6 +24,16 @@
     "calendar",
     "events",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/love"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/love/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "gCWYD009F66A3XDEYdZgf",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383127162925558",
@@ -24,6 +25,16 @@
     "finance",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bounty-hunter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bounty-hunter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

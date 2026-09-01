@@ -5,6 +5,7 @@
   "botId": "VWAXuVB5VI6ScHdO97Bh0",
   "creator": {
     "handle": "notswizz",
+    "name": "swizz",
     "url": "https://x.com/notswizz"
   },
   "sourceUrl": "https://x.com/notswizz/status/2093605993372381379",
@@ -21,6 +22,16 @@
     "decision-support",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fantasy-football"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

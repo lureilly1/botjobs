@@ -5,6 +5,7 @@
   "botId": "uhGYPStIOzvxNm8oWh3sG",
   "creator": {
     "handle": "lamorim_net",
+    "name": "luiz amorim",
     "url": "https://x.com/lamorim_net"
   },
   "sourceUrl": "https://x.com/lamorim_net/status/2094079296705090017",
@@ -21,6 +22,16 @@
     "shopping",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grokart"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grokart/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

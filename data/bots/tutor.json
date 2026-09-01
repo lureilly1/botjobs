@@ -5,6 +5,7 @@
   "botId": "Rj9uN1lhqYP-kLpRVShG0",
   "creator": {
     "handle": "anandVragav",
+    "name": "Anand",
     "url": "https://x.com/anandVragav"
   },
   "sourceUrl": "https://x.com/anandVragav/status/2093622965053059198",
@@ -21,6 +22,16 @@
     "student",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/tutor"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tutor/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

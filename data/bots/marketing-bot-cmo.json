@@ -5,6 +5,7 @@
   "botId": "37ZOM10GzlSOQpMjRp7KB",
   "creator": {
     "handle": "tymarsha",
+    "name": "Ihor",
     "url": "https://x.com/tymarsha"
   },
   "sourceUrl": "https://x.com/tymarsha/status/2093448136396095754",
@@ -23,6 +24,16 @@
     "growth",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/marketing-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/marketing-bot-cmo/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "KmR5kmGnalq1b2nhCRXyo",
   "creator": {
     "handle": "brandon_galang",
+    "name": "brandon_galang",
     "url": "https://x.com/brandon_galang"
   },
   "sourceUrl": "https://x.com/brandon_galang/status/2093402021789593873",
@@ -23,6 +24,16 @@
     "life-hacks",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/local-deals"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/local-deals/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

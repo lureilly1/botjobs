@@ -5,6 +5,7 @@
   "botId": "-BdTEtBnZEq9K1ef-bn6W",
   "creator": {
     "handle": "angelesp",
+    "name": "Angel 🇵🇪",
     "url": "https://x.com/angelesp"
   },
   "sourceUrl": "https://x.com/angelesp/status/2093826046231511549",
@@ -23,6 +24,16 @@
     "research",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/linkedin-leads"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-leads/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

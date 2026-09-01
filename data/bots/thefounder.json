@@ -5,6 +5,7 @@
   "botId": "Bt48h63v32_q_shWVlEBb",
   "creator": {
     "handle": "DaniAcostaAI",
+    "name": "Daniel",
     "url": "https://x.com/DaniAcostaAI"
   },
   "sourceUrl": "https://x.com/DaniAcostaAI/status/2093628837867241883",
@@ -25,6 +26,16 @@
     "on-demand",
     "scheduled",
     "automation"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/thefounder"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/thefounder/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

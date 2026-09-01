@@ -5,6 +5,7 @@
   "botId": "JjO20_oGKrE_Ys5Uz4efj",
   "creator": {
     "handle": "2onism",
+    "name": "Aman",
     "url": "https://x.com/2onism"
   },
   "sourceUrl": "https://x.com/2onism/status/2093723713279803515",
@@ -23,6 +24,16 @@
     "automation",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/alchemist"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alchemist/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "4E6m-7mPfUHzLt_aIJ_5D",
   "creator": {
     "handle": "princess414141",
+    "name": "Lucy",
     "url": "https://x.com/princess414141"
   },
   "sourceUrl": "https://x.com/princess414141/status/2093428767947456999",
@@ -22,6 +23,16 @@
     "content",
     "wellbeing",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lucy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lucy-creative-companion/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

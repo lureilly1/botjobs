@@ -5,6 +5,7 @@
   "botId": "PuAEE57P58Df5zskFY3pg",
   "creator": {
     "handle": "jxckvibe",
+    "name": "JackBuilds",
     "url": "https://x.com/jxckvibe"
   },
   "sourceUrl": "https://x.com/jxckvibe/status/2093828719374705066",
@@ -23,6 +24,16 @@
     "email",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/watchdog"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/watchdog/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

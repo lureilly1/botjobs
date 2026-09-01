@@ -5,6 +5,7 @@
   "botId": "LqFDQ8zlNLQqlFP_vvzs_",
   "creator": {
     "handle": "poteto",
+    "name": "lauren",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093516772255396203",
@@ -21,6 +22,16 @@
     "business",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/jobs"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jobs/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

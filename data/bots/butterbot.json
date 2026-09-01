@@ -1,0 +1,31 @@
+{
+  "slug": "butterbot",
+  "name": "ButterBot",
+  "grokShareUrl": "https://x.ai/bot/h1tW8jfXzQIraT-_jNDjJ",
+  "botId": "h1tW8jfXzQIraT-_jNDjJ",
+  "creator": {
+    "handle": "GabrieleMonni",
+    "name": "Zer0",
+    "url": "https://x.com/GabrieleMonni"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/butterbot"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/butterbot"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

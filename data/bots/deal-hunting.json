@@ -5,6 +5,7 @@
   "botId": "MGiEdMz0TNxBkvMgUZAbf",
   "creator": {
     "handle": "scheemunai",
+    "name": "Shimecki",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093399328836440571",
@@ -23,6 +24,16 @@
     "life-hacks",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/deal-hunting"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deal-hunting/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

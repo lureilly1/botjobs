@@ -5,6 +5,7 @@
   "botId": "W4Z5pvEm6UgCml48Ig4dT",
   "creator": {
     "handle": "RichSilver",
+    "name": "Rich Silver",
     "url": "https://x.com/RichSilver"
   },
   "sourceUrl": "https://x.com/RichSilver/status/2093409239246971049",
@@ -24,6 +25,16 @@
     "data",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/thoth"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/thoth-researcher-archivist/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

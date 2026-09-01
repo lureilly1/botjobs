@@ -5,6 +5,7 @@
   "botId": "rt9m-FTkJoGsZzAjsKLPM",
   "creator": {
     "handle": "mamuso",
+    "name": "Manuel Muñoz Solera",
     "url": "https://x.com/mamuso"
   },
   "sourceUrl": "https://x.com/mamuso/status/2093549356364501338",
@@ -22,6 +23,16 @@
     "design",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/critiquito"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/critiquito/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

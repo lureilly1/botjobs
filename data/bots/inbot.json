@@ -5,6 +5,7 @@
   "botId": "yH2UttxbMwMugweZrigHT",
   "creator": {
     "handle": "matt_silberman",
+    "name": "matt_silberman",
     "url": "https://x.com/matt_silberman"
   },
   "sourceUrl": "https://x.com/matt_silberman/status/2093378871403933751",
@@ -25,6 +26,16 @@
     "automation",
     "back-office",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/inbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

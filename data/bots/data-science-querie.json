@@ -5,6 +5,7 @@
   "botId": "Bu2sEQqu0hEjpbzN_07D3",
   "creator": {
     "handle": "egavrilenko11",
+    "name": "egavrilenko11",
     "url": "https://x.com/egavrilenko11"
   },
   "sourceUrl": "https://x.com/egavrilenko11/status/2093409119302791170",
@@ -25,6 +26,16 @@
     "back-office",
     "on-demand",
     "analytics"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/data-science-querie"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/data-science-querie/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

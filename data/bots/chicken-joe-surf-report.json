@@ -5,6 +5,7 @@
   "botId": "7f5AjmpjZkmTIsSybedYS",
   "creator": {
     "handle": "parker__conrad",
+    "name": "parker__conrad",
     "url": "https://x.com/parker__conrad"
   },
   "sourceUrl": "https://x.com/parker__conrad/status/2093408518816899425",
@@ -22,6 +23,16 @@
     "monitoring",
     "travel",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chicken-joe"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chicken-joe-surf-report/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

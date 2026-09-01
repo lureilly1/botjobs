@@ -5,6 +5,7 @@
   "botId": "GHLPyes3hiP9A6kES7UHg",
   "creator": {
     "handle": "inqusit",
+    "name": "Ashish",
     "url": "https://x.com/inqusit"
   },
   "sourceUrl": "https://x.com/inqusit/status/2093510161524810062",
@@ -21,6 +22,16 @@
     "ops",
     "decision-support",
     "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ceo"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ceo/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

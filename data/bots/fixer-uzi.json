@@ -5,6 +5,7 @@
   "botId": "jiF_km66YLNm5LBVJ5_Ho",
   "creator": {
     "handle": "UziObi",
+    "name": "Uzi Obi",
     "url": "https://x.com/UziObi"
   },
   "sourceUrl": "https://x.com/UziObi/status/2093401597048975758",
@@ -24,6 +25,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fixer"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fixer-uzi/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

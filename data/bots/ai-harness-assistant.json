@@ -5,6 +5,7 @@
   "botId": "oq-mYZXM23ShlY7UbJWeB",
   "creator": {
     "handle": "gheeunit",
+    "name": "mantequilla",
     "url": "https://x.com/gheeunit"
   },
   "sourceUrl": "https://x.com/gheeunit/status/2093427364973695253",
@@ -22,6 +23,16 @@
     "automation",
     "back-office",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ai-harness-assistant"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-harness-assistant/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

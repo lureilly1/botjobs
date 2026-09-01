@@ -5,6 +5,7 @@
   "botId": "5PKSzU0ruN_DQbNXc7m0N",
   "creator": {
     "handle": "scheemunai",
+    "name": "Shimecki",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093398377056678001",
@@ -24,6 +25,16 @@
     "research",
     "data",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/competitor-watching"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/competitor-watching/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

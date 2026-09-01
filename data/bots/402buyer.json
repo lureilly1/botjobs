@@ -1,0 +1,31 @@
+{
+  "slug": "402buyer",
+  "name": "402buyer",
+  "grokShareUrl": "https://x.ai/bot/wygP8wogrg509aSev5RMF",
+  "botId": "wygP8wogrg509aSev5RMF",
+  "creator": {
+    "handle": "rrrkren",
+    "name": "Eric Ren",
+    "url": "https://x.com/rrrkren"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/402buyer"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/402buyer"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -5,6 +5,7 @@
   "botId": "k8sSgsXHhRTEZi9Sqt_J-",
   "creator": {
     "handle": "PetrusJvR",
+    "name": "Petrus Janse van Rensburg",
     "url": "https://x.com/PetrusJvR"
   },
   "sourceUrl": "https://x.com/PetrusJvR/status/2094114763982701049",
@@ -21,6 +22,16 @@
     "productivity",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/whatsapp-digest"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/whatsapp-digest/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

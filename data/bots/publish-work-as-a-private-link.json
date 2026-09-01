@@ -5,6 +5,7 @@
   "botId": "n9zq64kTeEEc5NwrkAOi8",
   "creator": {
     "handle": "stevy_smith",
+    "name": "stevy_smith",
     "url": "https://x.com/stevy_smith"
   },
   "sourceUrl": "https://x.com/stevy_smith/status/2093464213268127932",
@@ -23,6 +24,16 @@
     "automation",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/publish-work-as-a-private-link"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/publish-work-as-a-private-link/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -1,0 +1,31 @@
+{
+  "slug": "dan-patrick",
+  "name": "Dan Patrick",
+  "grokShareUrl": "https://x.ai/bot/hlQhxsU-pqQEkimm0it4V",
+  "botId": "hlQhxsU-pqQEkimm0it4V",
+  "creator": {
+    "handle": "marcusramsey",
+    "name": "Marcus Ramsey",
+    "url": "https://x.com/marcusramsey"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/dan-patrick"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dan-patrick"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

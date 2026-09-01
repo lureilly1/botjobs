@@ -5,6 +5,7 @@
   "botId": "lkkCqhC1jBFp6ouZOQd9m",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093382733019939198",
@@ -22,6 +23,16 @@
     "sales",
     "saving-money",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/harvey-specter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/harvey-specter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

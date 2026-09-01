@@ -5,6 +5,7 @@
   "botId": "4Gc1tZsJu7C8YH-EnTfaN",
   "creator": {
     "handle": "scottxmetcalf",
+    "name": "Scott Metcalf",
     "url": "https://x.com/scottxmetcalf"
   },
   "sourceUrl": "https://x.com/scottxmetcalf/status/2093727476405170365",
@@ -23,6 +24,16 @@
     "back-office",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/adm-account-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/adm-account-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

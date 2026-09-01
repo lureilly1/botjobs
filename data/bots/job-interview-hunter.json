@@ -5,6 +5,7 @@
   "botId": "B_8a8ApckqZFiJwWRBf5u",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093585412384244060",
@@ -22,6 +23,16 @@
     "productivity",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/job-interview-hunter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/job-interview-hunter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

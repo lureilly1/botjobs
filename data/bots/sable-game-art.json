@@ -5,6 +5,7 @@
   "botId": "oSvAMKX_ahD56ZmgwtRys",
   "creator": {
     "handle": "DannyLimanseta",
+    "name": "Danny Limanseta",
     "url": "https://x.com/DannyLimanseta"
   },
   "sourceUrl": "https://x.com/DannyLimanseta/status/2093381938484810054",
@@ -23,6 +24,16 @@
     "content",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sable-game-art"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sable-game-art/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -1,0 +1,31 @@
+{
+  "slug": "template-generator",
+  "name": "template generator",
+  "grokShareUrl": "https://x.ai/bot/9oKJDID_EKLacIXpKfFAq",
+  "botId": "9oKJDID_EKLacIXpKfFAq",
+  "creator": {
+    "handle": "STACCoverflow",
+    "name": "stacc robinhood",
+    "url": "https://x.com/STACCoverflow"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/template-generator"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/template-generator"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -5,6 +5,7 @@
   "botId": "0y-dcpVFqFkjibKs2M48D",
   "creator": {
     "handle": "buuxbt",
+    "name": "buuxbt",
     "url": "https://x.com/buuxbt"
   },
   "sourceUrl": "https://x.com/buuxbt/status/2093483175729361069",
@@ -23,6 +24,16 @@
     "news",
     "content",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/yc-podcast-notes"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yc-podcast-notes/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

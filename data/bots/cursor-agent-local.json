@@ -5,6 +5,7 @@
   "botId": "z4r7D8iILsTQDf7r7DwKR",
   "creator": {
     "handle": "ryanthawks",
+    "name": "RyanTHawks",
     "url": "https://x.com/ryanthawks"
   },
   "sourceUrl": "https://x.com/ryanthawks/status/2093425622282375169",
@@ -21,6 +22,16 @@
     "ops",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cursor-agent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cursor-agent-local/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "HU7XArfGhUgLnzVcr7neB",
   "creator": {
     "handle": "AdamLowisz",
+    "name": "AdamLowisz",
     "url": "https://x.com/AdamLowisz"
   },
   "sourceUrl": "https://x.com/AdamLowisz/status/2093386801692201110",
@@ -23,6 +24,16 @@
     "growth",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-top-100-fans-weekly"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-top-100-fans-weekly/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

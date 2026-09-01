@@ -5,6 +5,7 @@
   "botId": "_A_AZayMmSNuN_-sdq_M1",
   "creator": {
     "handle": "dannymacias",
+    "name": "danny",
     "url": "https://x.com/dannymacias"
   },
   "sourceUrl": "https://x.com/dannymacias/status/2093409778265694256",
@@ -23,6 +24,16 @@
     "life-hacks",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lease-finder"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lease-finder/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

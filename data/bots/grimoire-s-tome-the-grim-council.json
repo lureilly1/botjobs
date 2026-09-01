@@ -5,6 +5,7 @@
   "botId": "luPJeAxuAjhqO97wU3wm0",
   "creator": {
     "handle": "NickADobos",
+    "name": "Nick Dobos",
     "url": "https://x.com/NickADobos"
   },
   "sourceUrl": "https://x.com/NickADobos/status/2093400318063284581",
@@ -24,6 +25,16 @@
     "productivity",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grimoire"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grimoire-s-tome-the-grim-council/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "FI36ngq3zTUOFQrYc-XQX",
   "creator": {
     "handle": "liam_fallen",
+    "name": "Liam",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093635771559194908",
@@ -22,6 +23,16 @@
     "decision-support",
     "home",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/quote-collector"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quote-collector/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

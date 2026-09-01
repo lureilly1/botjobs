@@ -5,6 +5,7 @@
   "botId": "Ja9NzNTRz2ozzQLNfrJwI",
   "creator": {
     "handle": "MaiYangAI",
+    "name": "Mai Yang",
     "url": "https://x.com/MaiYangAI"
   },
   "sourceUrl": "https://x.com/MaiYangAI/status/2094305288266666452",
@@ -22,6 +23,16 @@
     "content",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grok-deck"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-deck/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

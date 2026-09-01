@@ -5,6 +5,7 @@
   "botId": "7ySyCp6OurH0hlcKMAm_b",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093583573915963624",
@@ -22,6 +23,16 @@
     "support",
     "knowledge-base",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/family-wordpress-helpdesk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/family-wordpress-helpdesk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

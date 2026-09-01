@@ -5,6 +5,7 @@
   "botId": "JrnQAM0z-7SNI9UtIO3-Z",
   "creator": {
     "handle": "HandsomeHenry6",
+    "name": "Pucolos",
     "url": "https://x.com/HandsomeHenry6"
   },
   "sourceUrl": "https://x.com/HandsomeHenry6/status/2093905948637114427",
@@ -22,6 +23,16 @@
     "automation",
     "social-media",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/rentals"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rentals/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

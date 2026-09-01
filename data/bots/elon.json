@@ -1,0 +1,31 @@
+{
+  "slug": "elon",
+  "name": "Elon",
+  "grokShareUrl": "https://x.ai/bot/U-qq-Q-CiWdwRFWk5hmgY",
+  "botId": "U-qq-Q-CiWdwRFWk5hmgY",
+  "creator": {
+    "handle": "0nijin",
+    "name": "Al",
+    "url": "https://x.com/0nijin"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/elon"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/elon"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

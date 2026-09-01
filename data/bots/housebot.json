@@ -5,6 +5,7 @@
   "botId": "3ufXSXC-Z8OadVsV9yMLL",
   "creator": {
     "handle": "shubgaur",
+    "name": "shub",
     "url": "https://x.com/shubgaur"
   },
   "sourceUrl": "https://x.com/shubgaur/status/2093389744650818036",
@@ -23,6 +24,16 @@
     "saving-money",
     "life-hacks",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/housebot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/housebot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

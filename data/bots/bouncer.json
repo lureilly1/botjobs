@@ -5,6 +5,7 @@
   "botId": "cGcG0msqfz7o7J3QMLhbE",
   "creator": {
     "handle": "bradshannon",
+    "name": "bradshannon",
     "url": "https://x.com/bradshannon"
   },
   "sourceUrl": "https://x.com/bradshannon/status/2094260531305578886",
@@ -22,6 +23,16 @@
     "decision-support",
     "on-demand",
     "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bouncer"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bouncer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

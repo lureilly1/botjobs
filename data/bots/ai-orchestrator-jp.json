@@ -5,6 +5,7 @@
   "botId": "-kSMWtBCorQFkgUhm0DLk",
   "creator": {
     "handle": "mei_999_",
+    "name": "めい / 桜草メイ",
     "url": "https://x.com/mei_999_"
   },
   "sourceUrl": "https://x.com/mei_999_/status/2093423565676954067",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ai"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-orchestrator-jp/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

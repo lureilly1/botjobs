@@ -5,6 +5,7 @@
   "botId": "bjsbaj_a2ds2pQY1YiXqE",
   "creator": {
     "handle": "ashen_one",
+    "name": "ashen",
     "url": "https://x.com/ashen_one"
   },
   "sourceUrl": "https://x.com/ashen_one/status/2093416120371835232",
@@ -25,6 +26,16 @@
     "monitoring",
     "research",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/socials"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/socials-short-form-scout/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

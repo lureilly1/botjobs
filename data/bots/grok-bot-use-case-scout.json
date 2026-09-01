@@ -5,6 +5,7 @@
   "botId": "DTNL6V2HxpUHj3MkI-bSj",
   "creator": {
     "handle": "scheemunai",
+    "name": "Shimecki",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093397994263515578",
@@ -23,6 +24,16 @@
     "research",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grokbot-awesome-use-cases"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-use-case-scout/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

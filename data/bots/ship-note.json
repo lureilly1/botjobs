@@ -5,6 +5,7 @@
   "botId": "xMCiRCmOCYLeRzW8nS6EL",
   "creator": {
     "handle": "sol_wright7",
+    "name": "Sol Wright",
     "url": "https://x.com/sol_wright7"
   },
   "sourceUrl": "https://x.com/sol_wright7/status/2093809370958098813",
@@ -23,6 +24,16 @@
     "email",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ship-note"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ship-note/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

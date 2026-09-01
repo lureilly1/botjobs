@@ -5,6 +5,7 @@
   "botId": "Uytjr0oAalw0OuzCLdWPd",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093579076623876386",
@@ -22,6 +23,16 @@
     "back-office",
     "automation",
     "finance"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/construction-office-manager"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/construction-office-manager/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

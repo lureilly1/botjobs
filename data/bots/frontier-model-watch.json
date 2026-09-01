@@ -5,6 +5,7 @@
   "botId": "YHqn0iTQuvI-8LC01IP6S",
   "creator": {
     "handle": "GuleidAmina",
+    "name": "GuleidAmina",
     "url": "https://x.com/GuleidAmina"
   },
   "sourceUrl": "https://x.com/GuleidAmina/status/2093400067617309106",
@@ -23,6 +24,16 @@
     "monitoring",
     "learning",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/frontier-model-watch"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/frontier-model-watch/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

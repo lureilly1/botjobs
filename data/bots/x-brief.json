@@ -5,6 +5,7 @@
   "botId": "GkX6X536UK2MlbkfGLQnb",
   "creator": {
     "handle": "daniel_mac8",
+    "name": "Daniel",
     "url": "https://x.com/daniel_mac8"
   },
   "sourceUrl": "https://x.com/daniel_mac8/status/2093401980987425103",
@@ -24,6 +25,16 @@
     "monitoring",
     "research",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/x-brief"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-brief/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

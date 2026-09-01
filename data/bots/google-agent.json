@@ -5,6 +5,7 @@
   "botId": "tttQVA2UtlNwCzITNCIr0",
   "creator": {
     "handle": "ryanthawks",
+    "name": "RyanTHawks",
     "url": "https://x.com/ryanthawks"
   },
   "sourceUrl": "https://x.com/ryanthawks/status/2093431148860817626",
@@ -23,6 +24,16 @@
     "calendar",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/google-agent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/google-agent/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

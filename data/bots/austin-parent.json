@@ -5,6 +5,7 @@
   "botId": "7yCzCeGQTMD6oNKSPcFqj",
   "creator": {
     "handle": "ChadWittman",
+    "name": "Chad Wittman",
     "url": "https://x.com/ChadWittman"
   },
   "sourceUrl": "https://x.com/ChadWittman/status/2094168314842935637",
@@ -23,6 +24,16 @@
     "calendar",
     "events",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/austin-parent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/austin-parent/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

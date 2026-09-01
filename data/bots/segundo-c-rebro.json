@@ -5,6 +5,7 @@
   "botId": "OaRwBX_QPos9EDlhLEV1J",
   "creator": {
     "handle": "liderzio",
+    "name": "Allan Liderzio",
     "url": "https://x.com/liderzio"
   },
   "sourceUrl": "https://x.com/liderzio/status/2093672211844337867",
@@ -21,6 +22,16 @@
     "productivity",
     "knowledge-base",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/segundo-c-rebro"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/segundo-c-rebro/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "9WPtKWMppOYW9wwGPwOaE",
   "creator": {
     "handle": "thekuchh",
+    "name": "kuch.",
     "url": "https://x.com/thekuchh"
   },
   "sourceUrl": "https://x.com/thekuchh/status/2094103726764273916",
@@ -23,6 +24,16 @@
     "productivity",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/doing-gap"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/doing-gap/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

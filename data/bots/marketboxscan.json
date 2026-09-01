@@ -5,6 +5,7 @@
   "botId": "-LYLlgknV3IgZcFEmhcLs",
   "creator": {
     "handle": "techAU",
+    "name": "techAU",
     "url": "https://x.com/techAU"
   },
   "sourceUrl": "https://x.com/techAU/status/2093498668297101491",
@@ -23,6 +24,16 @@
     "monitoring",
     "productivity",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/marketboxscan"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/marketboxscan/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

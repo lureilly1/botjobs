@@ -5,6 +5,7 @@
   "botId": "d8OshqLZvtcKDcNluPuyo",
   "creator": {
     "handle": "Av1dlive",
+    "name": "Avid",
     "url": "https://x.com/Av1dlive"
   },
   "sourceUrl": "https://x.com/Av1dlive/status/2093389300490752106",
@@ -22,6 +23,16 @@
     "ops",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/one-brain-chief-of-staff"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-avid/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

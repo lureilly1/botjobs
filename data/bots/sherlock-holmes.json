@@ -5,6 +5,7 @@
   "botId": "fXHgGtuPfTcHBTVKSCZ1d",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383124948324505",
@@ -23,6 +24,16 @@
     "research",
     "data",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sherlock-holmes"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sherlock-holmes/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

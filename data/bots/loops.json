@@ -5,6 +5,7 @@
   "botId": "Ub3T7usX-c6yRQibQq83P",
   "creator": {
     "handle": "mattyp",
+    "name": "mattyp",
     "url": "https://x.com/mattyp"
   },
   "sourceUrl": "https://x.com/mattyp/status/2093380201128595966",
@@ -21,6 +22,16 @@
     "productivity",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/loops"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/loops/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

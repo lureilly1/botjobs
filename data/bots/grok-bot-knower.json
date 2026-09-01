@@ -5,6 +5,7 @@
   "botId": "v13QjVZ83GcaitG_3j4su",
   "creator": {
     "handle": "ngundotra",
+    "name": "noah gundotra",
     "url": "https://x.com/ngundotra"
   },
   "sourceUrl": "https://x.com/ngundotra/status/2094085203685785840",
@@ -22,6 +23,16 @@
     "research",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grok-bot-knower"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-knower/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

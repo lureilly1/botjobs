@@ -5,6 +5,7 @@
   "botId": "FBSTEPfTxj7ekvSml-nUJ",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093586339086352806",
@@ -22,6 +23,16 @@
     "research",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/website-agency-lead-scout"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/website-agency-lead-scout/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "qod4CrNQBlDIMm5wFYVQp",
   "creator": {
     "handle": "limeunfiltered",
+    "name": "Logan",
     "url": "https://x.com/limeunfiltered"
   },
   "sourceUrl": "https://x.com/limeunfiltered/status/2093899797967278545",
@@ -24,6 +25,16 @@
     "back-office",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/receipt-scanner-expense-tracking"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/receipt-scanner-expense-tracking/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

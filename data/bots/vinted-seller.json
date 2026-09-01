@@ -5,6 +5,7 @@
   "botId": "nqMcywYF0Bg35egak7dSh",
   "creator": {
     "handle": "trytocatchme98",
+    "name": "Valerio",
     "url": "https://x.com/trytocatchme98"
   },
   "sourceUrl": "https://x.com/trytocatchme98/status/2093760516875333635",
@@ -22,6 +23,16 @@
     "automation",
     "support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/vinted-seller"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vinted-seller/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

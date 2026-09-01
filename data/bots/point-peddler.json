@@ -5,6 +5,7 @@
   "botId": "PFD95widaEeqjkYLLUZmD",
   "creator": {
     "handle": "poteto",
+    "name": "poteto",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093483181588779415",
@@ -23,6 +24,16 @@
     "saving-money",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/point-peddler"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/point-peddler/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

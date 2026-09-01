@@ -5,6 +5,7 @@
   "botId": "xF12c5y4LVe7nf7IFguWI",
   "creator": {
     "handle": "itspriyaptl",
+    "name": "itspriyaptl",
     "url": "https://x.com/itspriyaptl"
   },
   "sourceUrl": "https://x.com/itspriyaptl/status/2093389586864988661",
@@ -24,6 +25,16 @@
     "back-office",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/post-call-assistant"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/post-call-assistant/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

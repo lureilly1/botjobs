@@ -5,6 +5,7 @@
   "botId": "OfZitBsJprif-DfsQKBUY",
   "creator": {
     "handle": "tpgoebel",
+    "name": "Tobias Goebel (Unsupervised)",
     "url": "https://x.com/tpgoebel"
   },
   "sourceUrl": "https://x.com/tpgoebel/status/2093738394899599806",
@@ -23,6 +24,16 @@
     "decision-support",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/onboarding-coach"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/onboarding-coach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

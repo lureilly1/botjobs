@@ -5,6 +5,7 @@
   "botId": "7ZTQWd31OnZYDVJRzxzrU",
   "creator": {
     "handle": "DennisonBertram",
+    "name": "Dennison",
     "url": "https://x.com/DennisonBertram"
   },
   "sourceUrl": "https://x.com/DennisonBertram/status/2094150768550945000",
@@ -22,6 +23,16 @@
     "shopping",
     "food",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/wholefoods"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wholefoods/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

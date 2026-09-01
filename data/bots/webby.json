@@ -5,6 +5,7 @@
   "botId": "Q2shbC8RRmoRleIyr5J33",
   "creator": {
     "handle": "farzyness",
+    "name": "Farzad",
     "url": "https://x.com/farzyness"
   },
   "sourceUrl": "https://x.com/farzyness/status/2093485215150744014",
@@ -23,6 +24,16 @@
     "automation",
     "back-office",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/webby"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/webby/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

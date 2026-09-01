@@ -5,6 +5,7 @@
   "botId": "PZQY6T6sKxrzhuYsclwap",
   "creator": {
     "handle": "gabe_onchain",
+    "name": "Gabe",
     "url": "https://x.com/gabe_onchain"
   },
   "sourceUrl": "https://x.com/gabe_onchain/status/2094082997750284769",
@@ -22,6 +23,16 @@
     "content",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lina"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lina/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

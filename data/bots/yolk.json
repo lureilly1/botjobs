@@ -5,6 +5,7 @@
   "botId": "Rk8tYkT8dM9QbhsAci5lh",
   "creator": {
     "handle": "jp_costa",
+    "name": "JP Costa",
     "url": "https://x.com/jp_costa"
   },
   "sourceUrl": "https://x.com/jp_costa/status/2093508536718500211",
@@ -21,6 +22,16 @@
     "food",
     "life-hacks",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/yolk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yolk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -103,8 +103,11 @@ export function validateBot(bot, filenameSlug) {
   if (!derivedId) e.push('grokShareUrl: must be https://x.ai/bot/<id>');
   else if (bot.botId !== derivedId) e.push(`botId: "${bot.botId}" does not match the id in grokShareUrl ("${derivedId}")`);
 
+  // A maker without a public X handle is legitimate — bot.store lists plenty
+  // by display name only — so either identifier satisfies attribution.
   if (!isPlainObject(bot.creator)) e.push('creator: required object');
-  else if (!isNonEmptyString(bot.creator.handle)) e.push('creator.handle: required');
+  else if (!isNonEmptyString(bot.creator.handle) && !isNonEmptyString(bot.creator.name))
+    e.push('creator: needs a handle or a name (attribution is not optional)');
 
   // Attribution is not optional. Every record names where we found it.
   if (!isPlainObject(bot.discoveredVia)) e.push('discoveredVia: required object (attribution)');

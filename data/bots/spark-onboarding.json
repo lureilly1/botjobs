@@ -5,6 +5,7 @@
   "botId": "_2vi1lOY4oiBaJDA3S8l1",
   "creator": {
     "handle": "vincentzhu",
+    "name": "vincentzhu",
     "url": "https://x.com/vincentzhu"
   },
   "sourceUrl": "https://x.com/vincentzhu/status/2093382794630377806",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/spark"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/spark-onboarding/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

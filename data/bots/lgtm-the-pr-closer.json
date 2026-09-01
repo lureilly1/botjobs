@@ -5,6 +5,7 @@
   "botId": "vGk7yV-vF92ZegpNF3NPo",
   "creator": {
     "handle": "clairevo",
+    "name": "claire vo 🖤",
     "url": "https://x.com/clairevo"
   },
   "sourceUrl": "https://x.com/clairevo/status/2093496605488083203",
@@ -22,6 +23,16 @@
     "productivity",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lgtm-the-pr-closer"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lgtm-the-pr-closer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "kP7i2Po6_T_Rj9h9VVlk5",
   "creator": {
     "handle": "AdemVessell",
+    "name": "Adem Vessell",
     "url": "https://x.com/AdemVessell"
   },
   "sourceUrl": "https://x.com/AdemVessell/status/2093869927753224689",
@@ -22,6 +23,16 @@
     "content",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/funhouse"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/funhouse/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

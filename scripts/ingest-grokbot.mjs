@@ -66,6 +66,7 @@ function toRecord(item, seenAt) {
     },
     sourceUrl: item.source?.url ?? null,
     discoveredVia: { name: SOURCE.name, url: SOURCE.page(item.slug) },
+    listings: [{ name: SOURCE.name, url: SOURCE.page(item.slug) }],
     categories: [],
     integrations: Array.isArray(item.integrations) ? item.integrations : [],
     tags,

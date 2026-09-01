@@ -5,6 +5,7 @@
   "botId": "IAEp851k9orM1LguTm2F8",
   "creator": {
     "handle": "ironted21",
+    "name": "Mark Frantz",
     "url": "https://x.com/ironted21"
   },
   "sourceUrl": "https://x.com/ironted21/status/2093771512331252046",
@@ -22,6 +23,16 @@
     "calendar",
     "scheduled",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/time-keeper"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/time-keeper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

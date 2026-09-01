@@ -5,6 +5,7 @@
   "botId": "tSUFdzcg2WDFLFsFLHzIb",
   "creator": {
     "handle": "AdemVessell",
+    "name": "Adem Vessell",
     "url": "https://x.com/AdemVessell"
   },
   "sourceUrl": "https://x.com/AdemVessell/status/2093511313158983798",
@@ -22,6 +23,16 @@
     "content",
     "engineering",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/off-balance-atlas"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/off-balance-atlas/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

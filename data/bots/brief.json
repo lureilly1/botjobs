@@ -5,6 +5,7 @@
   "botId": "Z7mWuQwWmnR-im3F7Hyh1",
   "creator": {
     "handle": "anandVragav",
+    "name": "Anand",
     "url": "https://x.com/anandVragav"
   },
   "sourceUrl": "https://x.com/anandVragav/status/2093613851048661141",
@@ -21,6 +22,16 @@
     "learning",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/brief"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/brief/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

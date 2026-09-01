@@ -5,6 +5,7 @@
   "botId": "tQuoQ94ErUfXNJu4xPqZi",
   "creator": {
     "handle": "SEO",
+    "name": "AJ Ghergich",
     "url": "https://x.com/SEO"
   },
   "sourceUrl": "https://x.com/SEO/status/2093418792546181548",
@@ -24,6 +25,16 @@
     "productivity",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/linkedin-desk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-desk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

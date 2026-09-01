@@ -5,6 +5,7 @@
   "botId": "Yf3pOvZQ0B_9DDcCzuhDG",
   "creator": {
     "handle": "raily",
+    "name": "Raily",
     "url": "https://x.com/raily"
   },
   "sourceUrl": "https://x.com/raily/status/2093903845436895454",
@@ -22,6 +23,16 @@
     "decision-support",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/raily"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/raily/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

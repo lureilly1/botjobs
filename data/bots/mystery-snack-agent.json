@@ -5,6 +5,7 @@
   "botId": "jEv8xhxlnSNp2KnQ9ciyP",
   "creator": {
     "handle": "nayli_ai",
+    "name": "nayli_ai",
     "url": "https://x.com/nayli_ai"
   },
   "sourceUrl": "https://x.com/nayli_ai/status/2093474108457537959",
@@ -22,6 +23,16 @@
     "shopping",
     "scheduled",
     "food"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mystery-snack-agent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mystery-snack-agent/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

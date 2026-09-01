@@ -5,6 +5,7 @@
   "botId": "QIfSY8pPwjqBSIdal-5CI",
   "creator": {
     "handle": "jxckvibe",
+    "name": "JackBuilds",
     "url": "https://x.com/jxckvibe"
   },
   "sourceUrl": "https://x.com/jxckvibe/status/2093821098315882620",
@@ -24,6 +25,16 @@
     "email",
     "calendar",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-qifsy8"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

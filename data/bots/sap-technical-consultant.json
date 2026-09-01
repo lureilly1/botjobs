@@ -5,6 +5,7 @@
   "botId": "O08yUdBz6vFFqYITvWPPi",
   "creator": {
     "handle": "beinglalit21",
+    "name": "Sisyphus",
     "url": "https://x.com/beinglalit21"
   },
   "sourceUrl": "https://x.com/beinglalit21/status/2093783196488061076",
@@ -23,6 +24,16 @@
     "data",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sap-technical-consultant"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sap-technical-consultant/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

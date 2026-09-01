@@ -5,6 +5,7 @@
   "botId": "USVlMLTxHCex8XgcUQGfv",
   "creator": {
     "handle": "Toy_Maestro",
+    "name": "The Qubits Guy",
     "url": "https://x.com/Toy_Maestro"
   },
   "sourceUrl": "https://x.com/Toy_Maestro/status/2093752472472887476",
@@ -22,6 +23,16 @@
     "design",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/qubits-toy-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/qubits-toy-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

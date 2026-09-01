@@ -5,6 +5,7 @@
   "botId": "we_JMJA8IuOvy1eUX6EQz",
   "creator": {
     "handle": "iamigorekk",
+    "name": "iamigorekk",
     "url": "https://x.com/iamigorekk"
   },
   "sourceUrl": "https://x.com/iamigorekk/status/2093546304081162412",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-of-staff"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-igor/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

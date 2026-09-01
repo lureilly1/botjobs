@@ -5,6 +5,7 @@
   "botId": "l_MfrDAGFed5t2A9Wrzqz",
   "creator": {
     "handle": "monomyth",
+    "name": "monomyth",
     "url": "https://x.com/monomyth"
   },
   "sourceUrl": "https://x.com/monomyth/status/2093485744405065866",
@@ -22,6 +23,16 @@
     "knowledge-base",
     "health",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/neuroscience"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/neuroscience/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

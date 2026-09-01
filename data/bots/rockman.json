@@ -5,6 +5,7 @@
   "botId": "g3NyqeycJ7qhTlcBNV8Mo",
   "creator": {
     "handle": "0xJONZE",
+    "name": "𝙅𖣠𝙉𝒁̴𝙀",
     "url": "https://x.com/0xJONZE"
   },
   "sourceUrl": "https://x.com/0xJONZE/status/2093745950858625095",
@@ -23,6 +24,16 @@
     "saving-money",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/rockman"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rockman/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

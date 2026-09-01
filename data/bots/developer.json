@@ -5,6 +5,7 @@
   "botId": "0fYZ_kKkiXNbLn_KBD3f3",
   "creator": {
     "handle": "m_check1B",
+    "name": "m-check1B",
     "url": "https://x.com/m_check1B"
   },
   "sourceUrl": "https://x.com/m_check1B/status/2094337521123508268",
@@ -24,6 +25,16 @@
     "monitoring",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/developer"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/developer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

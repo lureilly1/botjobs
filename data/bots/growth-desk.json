@@ -5,6 +5,7 @@
   "botId": "YYCOE-YeGxnGLb4Mbv7dO",
   "creator": {
     "handle": "Av1dlive",
+    "name": "Avid",
     "url": "https://x.com/Av1dlive"
   },
   "sourceUrl": "https://x.com/Av1dlive/status/2093537873823957415",
@@ -22,6 +23,16 @@
     "growth",
     "social-media",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/growth-desk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/growth-desk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

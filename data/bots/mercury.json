@@ -5,6 +5,7 @@
   "botId": "lk1yHfim5Ayra0Q0QlN3L",
   "creator": {
     "handle": "chiefjeeb",
+    "name": "Mujeeb",
     "url": "https://x.com/chiefjeeb"
   },
   "sourceUrl": "https://x.com/chiefjeeb/status/2094223658151502326",
@@ -22,6 +23,16 @@
     "agent-team",
     "decision-support",
     "productivity"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mercury"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mercury/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

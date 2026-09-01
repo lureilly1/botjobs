@@ -1,0 +1,31 @@
+{
+  "slug": "x-high-coach-ee8sm1",
+  "name": "X High Coach · @Hightv",
+  "grokShareUrl": "https://x.ai/bot/EE8sm1OWmn3sZyaj3st_F",
+  "botId": "EE8sm1OWmn3sZyaj3st_F",
+  "creator": {
+    "handle": "Hightv",
+    "name": "High",
+    "url": "https://x.com/Hightv"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/x-high-coach"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-high-coach"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

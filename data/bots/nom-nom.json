@@ -1,0 +1,31 @@
+{
+  "slug": "nom-nom",
+  "name": "Nom Nom",
+  "grokShareUrl": "https://x.ai/bot/bdcSxv_pSQEH0E571N_fC",
+  "botId": "bdcSxv_pSQEH0E571N_fC",
+  "creator": {
+    "handle": "nikolafyi",
+    "name": "Nikola Babic",
+    "url": "https://x.com/nikolafyi"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nom-nom"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nom-nom"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

@@ -5,6 +5,7 @@
   "botId": "9wmmsO_xoeLPeGEqjWLzE",
   "creator": {
     "handle": "scottxmetcalf",
+    "name": "Scott Metcalf",
     "url": "https://x.com/scottxmetcalf"
   },
   "sourceUrl": "https://x.com/scottxmetcalf/status/2094066260376166500",
@@ -22,6 +23,16 @@
     "meetings",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/se-call-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/se-call-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

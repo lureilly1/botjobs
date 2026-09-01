@@ -5,6 +5,7 @@
   "botId": "rBXWgythSa09pIp14rnV4",
   "creator": {
     "handle": "shubgaur",
+    "name": "shub",
     "url": "https://x.com/shubgaur"
   },
   "sourceUrl": "https://x.com/shubgaur/status/2093429398829736195",
@@ -24,6 +25,16 @@
     "finance",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shopbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shopbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

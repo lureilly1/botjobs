@@ -5,6 +5,7 @@
   "botId": "zY0fbKG9UqTMWIu1NcudB",
   "creator": {
     "handle": "brandon_ai",
+    "name": "Brandon Charleson",
     "url": "https://x.com/brandon_ai"
   },
   "sourceUrl": "https://x.com/brandon_ai/status/2093410540559470920",
@@ -21,6 +22,16 @@
     "ops",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/peekaboo-mac"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/peekaboo-mac/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

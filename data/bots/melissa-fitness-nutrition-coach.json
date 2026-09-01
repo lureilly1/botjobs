@@ -5,6 +5,7 @@
   "botId": "3foGoeh6ksDhD4jTxYjyE",
   "creator": {
     "handle": "tpgoebel",
+    "name": "Tobias Goebel",
     "url": "https://x.com/tpgoebel"
   },
   "sourceUrl": "https://x.com/tpgoebel/status/2093409295291310106",
@@ -22,6 +23,16 @@
     "learning",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/melissa"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/melissa-fitness-nutrition-coach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

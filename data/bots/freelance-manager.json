@@ -5,6 +5,7 @@
   "botId": "nVbIdGSLO4i-QU183t7Sg",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093580839833809285",
@@ -22,6 +23,16 @@
     "back-office",
     "finance",
     "automation"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/freelance-manager"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/freelance-manager/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

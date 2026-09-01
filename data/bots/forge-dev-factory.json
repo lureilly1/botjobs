@@ -28,6 +28,12 @@
     "productivity",
     "scheduled"
   ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/forge-dev-factory/"
+    }
+  ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-09-01",

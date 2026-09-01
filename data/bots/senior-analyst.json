@@ -5,6 +5,7 @@
   "botId": "Q2xW8BIDffTjbDVXZYZhV",
   "creator": {
     "handle": "tobias_pfuetze",
+    "name": "Tobias Pfütze",
     "url": "https://x.com/tobias_pfuetze"
   },
   "sourceUrl": "https://x.com/tobias_pfuetze/status/2094386098201911719",
@@ -25,6 +26,16 @@
     "automation",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/senior-analyst"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/senior-analyst/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

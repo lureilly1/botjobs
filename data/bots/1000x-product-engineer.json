@@ -5,6 +5,7 @@
   "botId": "sQDD87Gp6VLT0m99tFpzu",
   "creator": {
     "handle": "TomZarebczan",
+    "name": "TomZarebczan",
     "url": "https://x.com/TomZarebczan"
   },
   "sourceUrl": "https://x.com/TomZarebczan/status/2093387240479051938",
@@ -21,6 +22,16 @@
     "design",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ui-ux-designer-product-engineer-1000x"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/1000x-product-engineer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

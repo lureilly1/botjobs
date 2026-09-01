@@ -1,0 +1,31 @@
+{
+  "slug": "harry-dry",
+  "name": "Harry Dry",
+  "grokShareUrl": "https://x.ai/bot/tr-3hPrAG7_LeSzKZ5_vu",
+  "botId": "tr-3hPrAG7_LeSzKZ5_vu",
+  "creator": {
+    "handle": "ericzakariasson",
+    "name": "eric zakariasson",
+    "url": "https://x.com/ericzakariasson"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/harry-dry"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/harry-dry"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

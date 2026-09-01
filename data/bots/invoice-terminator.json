@@ -1,0 +1,29 @@
+{
+  "slug": "invoice-terminator",
+  "name": "Invoice Terminator",
+  "grokShareUrl": "https://x.ai/bot/oIcq3e3tuwYIaPIkmx0cF",
+  "botId": "oIcq3e3tuwYIaPIkmx0cF",
+  "creator": {
+    "name": "Kun"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/invoice-terminator"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/invoice-terminator"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

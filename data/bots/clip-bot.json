@@ -5,6 +5,7 @@
   "botId": "Vk0cnF2c364QxNv-Xip1M",
   "creator": {
     "handle": "ThisWeeknAI",
+    "name": "Lon",
     "url": "https://x.com/ThisWeeknAI"
   },
   "sourceUrl": "https://x.com/ThisWeeknAI/status/2093465404303720846",
@@ -23,6 +24,16 @@
     "content",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/clip-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clip-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

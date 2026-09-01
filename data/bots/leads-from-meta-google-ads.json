@@ -1,0 +1,31 @@
+{
+  "slug": "leads-from-meta-google-ads",
+  "name": "Leads from Meta/Google Ads",
+  "grokShareUrl": "https://x.ai/bot/nHDuTEJd3mC91rtLLPN0p",
+  "botId": "nHDuTEJd3mC91rtLLPN0p",
+  "creator": {
+    "handle": "aferrari",
+    "name": "Ale Ferrari",
+    "url": "https://x.com/aferrari"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/leads-from-meta-google-ads"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/leads-from-meta-google-ads"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

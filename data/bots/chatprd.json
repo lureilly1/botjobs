@@ -5,6 +5,7 @@
   "botId": "36vKs2HSysdaJDe6OLD4w",
   "creator": {
     "handle": "clairevo",
+    "name": "claire vo 🖤",
     "url": "https://x.com/clairevo"
   },
   "sourceUrl": "https://x.com/clairevo/status/2093496614099042450",
@@ -23,6 +24,16 @@
     "content",
     "meetings",
     "knowledge-base"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chatprd"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chatprd/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "iZvo8_lHfF0csZ-YmcZpv",
   "creator": {
     "handle": "poteto",
+    "name": "lauren",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093521385541005369",
@@ -21,6 +22,16 @@
     "back-office",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bond"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bond/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

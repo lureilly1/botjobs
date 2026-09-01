@@ -5,6 +5,7 @@
   "botId": "b986_CbfzB8jKLcU14LTi",
   "creator": {
     "handle": "r40_io",
+    "name": "R40",
     "url": "https://x.com/r40_io"
   },
   "sourceUrl": "https://x.com/r40_io/status/2094165107886395638",
@@ -22,6 +23,16 @@
     "youtube",
     "video",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/clipmaker"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clipmaker/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

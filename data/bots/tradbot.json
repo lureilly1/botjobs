@@ -5,6 +5,7 @@
   "botId": "uY_7s1TZILVzUeJ9lLOx9",
   "creator": {
     "handle": "clairevo",
+    "name": "clairevo",
     "url": "https://x.com/clairevo"
   },
   "sourceUrl": "https://x.com/clairevo/status/2093487955205923031",
@@ -24,6 +25,16 @@
     "productivity",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/tradbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tradbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "93gOz3op1UQdBdbekQFLK",
   "creator": {
     "handle": "poteto",
+    "name": "lauren",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093392701005946931",
@@ -22,6 +23,16 @@
     "productivity",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dr-eggbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dr-eggbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

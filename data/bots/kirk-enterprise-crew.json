@@ -5,6 +5,7 @@
   "botId": "FaRchqvTT6ZCRVPf0JABl",
   "creator": {
     "handle": "The_Mr_Wizard",
+    "name": "Mr Wizard",
     "url": "https://x.com/The_Mr_Wizard"
   },
   "sourceUrl": "https://x.com/The_Mr_Wizard/status/2093442495447191944",
@@ -21,6 +22,16 @@
     "creator",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/kirk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kirk-enterprise-crew/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "rBnJhXhks-_7n1zhZCN3E",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383146599301252",
@@ -23,6 +24,16 @@
     "research",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/examiner"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/examiner/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

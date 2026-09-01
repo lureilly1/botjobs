@@ -5,6 +5,7 @@
   "botId": "ig-dwKjUc7doBIDhiMi9Z",
   "creator": {
     "handle": "FantomBuildz",
+    "name": "Phantom Builds",
     "url": "https://x.com/FantomBuildz"
   },
   "sourceUrl": "https://x.com/FantomBuildz/status/2094396074542662068",
@@ -24,6 +25,16 @@
     "monitoring",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/brake"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/brake/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

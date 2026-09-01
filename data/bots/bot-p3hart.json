@@ -1,0 +1,31 @@
+{
+  "slug": "bot-p3hart",
+  "name": "小七",
+  "grokShareUrl": "https://x.ai/bot/P3hARt_iRCU1x7PKEdxwk",
+  "botId": "P3hARt_iRCU1x7PKEdxwk",
+  "creator": {
+    "handle": "McFeel",
+    "name": "McFeel",
+    "url": "https://x.com/McFeel"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-p3hart"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-p3hart"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

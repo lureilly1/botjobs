@@ -1,0 +1,31 @@
+{
+  "slug": "bot-p6eyp9",
+  "name": "赛博小晚",
+  "grokShareUrl": "https://x.ai/bot/p6eYp9BM2aFxQSOtzQX3S",
+  "botId": "p6eYp9BM2aFxQSOtzQX3S",
+  "creator": {
+    "handle": "cgnot996",
+    "name": "铁柱AGI",
+    "url": "https://x.com/cgnot996"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-p6eyp9"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-p6eyp9"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

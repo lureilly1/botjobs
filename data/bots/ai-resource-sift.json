@@ -5,6 +5,7 @@
   "botId": "3XvYxSCGJRY6x1woq-hdL",
   "creator": {
     "handle": "beamnxw",
+    "name": "beamnxw ./",
     "url": "https://x.com/beamnxw"
   },
   "sourceUrl": "https://x.com/beamnxw/status/2093456831481885041",
@@ -23,6 +24,16 @@
     "learning",
     "knowledge-base",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ai-resource-sift"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-resource-sift/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

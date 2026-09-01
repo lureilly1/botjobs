@@ -5,6 +5,7 @@
   "botId": "mqVPHm0oB3WPsnxbU1qB9",
   "creator": {
     "handle": "hnshah",
+    "name": "hnshah",
     "url": "https://x.com/hnshah"
   },
   "sourceUrl": "https://x.com/hnshah/status/2093478735718789453",
@@ -21,6 +22,16 @@
     "decision-support",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pitch-deck-coach"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pitch-deck-coach/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

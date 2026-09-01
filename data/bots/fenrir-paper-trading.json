@@ -5,6 +5,7 @@
   "botId": "FReKiR82_-lF359lhshpR",
   "creator": {
     "handle": "shantanugoel",
+    "name": "shantanugoel",
     "url": "https://x.com/shantanugoel"
   },
   "sourceUrl": "https://x.com/shantanugoel/status/2093399035529085059",
@@ -24,6 +25,16 @@
     "data",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fenrir"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fenrir-paper-trading/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

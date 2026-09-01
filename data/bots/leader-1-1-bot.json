@@ -5,6 +5,7 @@
   "botId": "eZhKhPkfxxFSml18TS2X8",
   "creator": {
     "handle": "scottxmetcalf",
+    "name": "Scott Metcalf",
     "url": "https://x.com/scottxmetcalf"
   },
   "sourceUrl": "https://x.com/scottxmetcalf/status/2093410582099808561",
@@ -23,6 +24,16 @@
     "productivity",
     "learning",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/leader-1-1-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/leader-1-1-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

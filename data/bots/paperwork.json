@@ -5,6 +5,7 @@
   "botId": "mNN576TxXnc_XZu9aCsfr",
   "creator": {
     "handle": "liam_fallen",
+    "name": "Liam",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093635779176051134",
@@ -23,6 +24,16 @@
     "back-office",
     "knowledge-base",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/paperwork"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paperwork/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

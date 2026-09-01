@@ -5,6 +5,7 @@
   "botId": "spIXb6rwPJq_iFlu1L-_l",
   "creator": {
     "handle": "NickRoman",
+    "name": "Nick Roman",
     "url": "https://x.com/NickRoman"
   },
   "sourceUrl": "https://x.com/NickRoman/status/2093426904950833178",
@@ -23,6 +24,16 @@
     "research",
     "data",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mappy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mappy-talent-map/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

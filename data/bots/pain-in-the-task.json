@@ -5,6 +5,7 @@
   "botId": "yztAMds3EQ2J5OjG_tBgw",
   "creator": {
     "handle": "gambrill",
+    "name": "Dave Gambrill",
     "url": "https://x.com/gambrill"
   },
   "sourceUrl": "https://x.com/gambrill/status/2093736661372817456",
@@ -24,6 +25,16 @@
     "decision-support",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pain-in-the-task"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pain-in-the-task/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

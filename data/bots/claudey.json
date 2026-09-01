@@ -5,6 +5,7 @@
   "botId": "OR72i4SNc0_F1IzbCfg-D",
   "creator": {
     "handle": "farzyness",
+    "name": "Farzad 🇺🇸 🇮🇷",
     "url": "https://x.com/farzyness"
   },
   "sourceUrl": "https://x.com/farzyness/status/2094240859243913669",
@@ -22,6 +23,16 @@
     "automation",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/claudey"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claudey/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

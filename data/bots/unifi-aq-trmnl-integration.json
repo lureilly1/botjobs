@@ -24,6 +24,12 @@
     "monitoring",
     "on-demand"
   ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/unifi-aq-trmnl-integration/"
+    }
+  ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",
   "firstSeenAt": "2026-09-01",

@@ -5,6 +5,7 @@
   "botId": "YlbxRlO-HM1TEC6l2YSM6",
   "creator": {
     "handle": "lapaksquare",
+    "name": "LapakSquare",
     "url": "https://x.com/lapaksquare"
   },
   "sourceUrl": "https://x.com/lapaksquare/status/2093614088526131246",
@@ -22,6 +23,16 @@
     "content",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ezra"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ezra/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

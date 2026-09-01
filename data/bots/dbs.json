@@ -5,6 +5,7 @@
   "botId": "l6H6WL7HF-CAwcvr1hBey",
   "creator": {
     "handle": "Leechael",
+    "name": "Leechael",
     "url": "https://x.com/Leechael"
   },
   "sourceUrl": "https://x.com/Leechael/status/2093655085935165706",
@@ -23,6 +24,16 @@
     "social-media",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dbs"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dbs/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

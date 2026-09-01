@@ -1,0 +1,31 @@
+{
+  "slug": "artifact-share",
+  "name": "Artifact Share",
+  "grokShareUrl": "https://x.ai/bot/u3jfM8xk_CixZJYKQ0S7u",
+  "botId": "u3jfM8xk_CixZJYKQ0S7u",
+  "creator": {
+    "handle": "HenryLeeBauta",
+    "name": "Henry Lee",
+    "url": "https://x.com/HenryLeeBauta"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/artifact-share"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/artifact-share"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

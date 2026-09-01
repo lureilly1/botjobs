@@ -5,6 +5,7 @@
   "botId": "9MGTLhR6dzLrr6AWd8U1f",
   "creator": {
     "handle": "memelord",
+    "name": "Memelord.com",
     "url": "https://x.com/memelord"
   },
   "sourceUrl": "https://x.com/memelord/status/2093490807600763217",
@@ -22,6 +23,16 @@
     "video",
     "social-media",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/jester"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jester/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

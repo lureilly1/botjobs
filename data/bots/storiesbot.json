@@ -5,6 +5,7 @@
   "botId": "cV7nGFO88pb2WXNN56h8A",
   "creator": {
     "handle": "viticci",
+    "name": "Federico Viticci",
     "url": "https://x.com/viticci"
   },
   "sourceUrl": "https://x.com/viticci/status/2093420134962540763",
@@ -24,6 +25,16 @@
     "content",
     "on-demand",
     "knowledge-base"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/storiesbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/storiesbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

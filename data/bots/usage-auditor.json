@@ -25,6 +25,12 @@
     "meta-bot",
     "scheduled"
   ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/usage-auditor/"
+    }
+  ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",
   "firstSeenAt": "2026-09-01",

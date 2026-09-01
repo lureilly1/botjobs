@@ -5,6 +5,7 @@
   "botId": "py5cXgcAKPdEYsYK_AmcM",
   "creator": {
     "handle": "thekuchh",
+    "name": "kuch.",
     "url": "https://x.com/thekuchh"
   },
   "sourceUrl": "https://x.com/thekuchh/status/2094103820687303057",
@@ -21,6 +22,16 @@
     "productivity",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/action-loop"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/action-loop/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

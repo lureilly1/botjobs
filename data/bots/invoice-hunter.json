@@ -5,6 +5,7 @@
   "botId": "-kO6HrXokJZANVwUOMZO9",
   "creator": {
     "handle": "scheemunai",
+    "name": "Shimecki",
     "url": "https://x.com/scheemunai"
   },
   "sourceUrl": "https://x.com/scheemunai/status/2093398873247031468",
@@ -24,6 +25,16 @@
     "email",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/invoice-hunter"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/invoice-hunter/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

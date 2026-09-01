@@ -5,6 +5,7 @@
   "botId": "vOipeiu0AZ7CuC5ynw5h0",
   "creator": {
     "handle": "TylerNishida",
+    "name": "Tyler Nishida",
     "url": "https://x.com/TylerNishida"
   },
   "sourceUrl": "https://x.com/TylerNishida/status/2093426221732532457",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/work"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/work-work-door/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

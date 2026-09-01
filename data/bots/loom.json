@@ -5,6 +5,7 @@
   "botId": "cElGnAaR55iPHK2DGdPdu",
   "creator": {
     "handle": "poteto",
+    "name": "lauren",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093520466032136644",
@@ -21,6 +22,16 @@
     "productivity",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/loom"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/loom/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "Ja29gpInav-alRhXhzyNL",
   "creator": {
     "handle": "madogiwacowork",
+    "name": "まどさん",
     "url": "https://x.com/madogiwacowork"
   },
   "sourceUrl": "https://x.com/madogiwacowork/status/2093685473411805533",
@@ -22,6 +23,16 @@
     "content",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/youtube"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/youtube/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

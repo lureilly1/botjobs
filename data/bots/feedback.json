@@ -5,6 +5,7 @@
   "botId": "_-3KKbHbnSRzrS_8KFugU",
   "creator": {
     "handle": "nytemodeonly",
+    "name": "NYTEMODE",
     "url": "https://x.com/nytemodeonly"
   },
   "sourceUrl": "https://x.com/nytemodeonly/status/2094225527984820492",
@@ -23,6 +24,16 @@
     "productivity",
     "engineering",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/feedback"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/feedback/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

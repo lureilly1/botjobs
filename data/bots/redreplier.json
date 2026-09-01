@@ -5,6 +5,7 @@
   "botId": "8aU6ly_uunnMabpybs3hB",
   "creator": {
     "handle": "tarasshyn",
+    "name": "Mikadzyki🌙",
     "url": "https://x.com/tarasshyn"
   },
   "sourceUrl": "https://x.com/tarasshyn/status/2093730218145976437",
@@ -23,6 +24,16 @@
     "monitoring",
     "research",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/redreplier"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/redreplier/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

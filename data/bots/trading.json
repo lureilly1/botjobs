@@ -1,0 +1,31 @@
+{
+  "slug": "trading",
+  "name": "Trading",
+  "grokShareUrl": "https://x.ai/bot/XW2DibYh5BRunhH_f373u",
+  "botId": "XW2DibYh5BRunhH_f373u",
+  "creator": {
+    "handle": "TravisWeathers",
+    "name": "Travis Weathers",
+    "url": "https://x.com/TravisWeathers"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/trading"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/trading"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

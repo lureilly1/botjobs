@@ -5,6 +5,7 @@
   "botId": "uF_uodOFUz9mdv6XDWE70",
   "creator": {
     "handle": "rryssf",
+    "name": "God of Prompt",
     "url": "https://x.com/rryssf"
   },
   "sourceUrl": "https://x.com/rryssf/status/2093423943243747773",
@@ -23,6 +24,16 @@
     "automation",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/forge"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/forge-template-foundry/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

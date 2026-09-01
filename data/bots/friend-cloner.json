@@ -1,0 +1,31 @@
+{
+  "slug": "friend-cloner",
+  "name": "Friend Cloner",
+  "grokShareUrl": "https://x.ai/bot/y_D2m_51Lww_oWJwIEHSg",
+  "botId": "y_D2m_51Lww_oWJwIEHSg",
+  "creator": {
+    "handle": "spcxGOD",
+    "name": "Panke",
+    "url": "https://x.com/spcxGOD"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/friend-cloner"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/friend-cloner"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

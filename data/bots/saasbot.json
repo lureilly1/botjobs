@@ -5,6 +5,7 @@
   "botId": "X6RbSbeyLvQ_I5k3zU4IM",
   "creator": {
     "handle": "danielfoch",
+    "name": "Daniel Foch",
     "url": "https://x.com/danielfoch"
   },
   "sourceUrl": "https://x.com/danielfoch/status/2093697807542526325",
@@ -25,6 +26,16 @@
     "growth",
     "back-office",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/saasbot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/saasbot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

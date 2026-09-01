@@ -5,6 +5,7 @@
   "botId": "h5i1TCuYEL2mVtMbQtW98",
   "creator": {
     "handle": "zapnocode",
+    "name": "LD ⚡️",
     "url": "https://x.com/zapnocode"
   },
   "sourceUrl": "https://x.com/zapnocode/status/2093493728660865073",
@@ -22,6 +23,16 @@
     "productivity",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/inbox-zero"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-zero/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

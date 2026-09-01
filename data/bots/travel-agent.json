@@ -5,6 +5,7 @@
   "botId": "_yHS4eeajJMAXY1EHAdoO",
   "creator": {
     "handle": "jjeremycai",
+    "name": "Jeremy Cai",
     "url": "https://x.com/jjeremycai"
   },
   "sourceUrl": "https://x.com/jjeremycai/status/2093518862868426938",
@@ -22,6 +23,16 @@
     "productivity",
     "knowledge-base",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/travel-agent"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-agent/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -1,0 +1,31 @@
+{
+  "slug": "jason",
+  "name": "jason",
+  "grokShareUrl": "https://x.ai/bot/9X-V8im-kPPFgybviXkd6",
+  "botId": "9X-V8im-kPPFgybviXkd6",
+  "creator": {
+    "handle": "luishXYZ",
+    "name": "Luis Hauenstein",
+    "url": "https://x.com/luishXYZ"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/jason"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/jason"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

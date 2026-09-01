@@ -1,0 +1,31 @@
+{
+  "slug": "bot-creator",
+  "name": "Bot Creator",
+  "grokShareUrl": "https://x.ai/bot/nGEBqtXuN-klNcPPyoR3S",
+  "botId": "nGEBqtXuN-klNcPPyoR3S",
+  "creator": {
+    "handle": "alonsaria",
+    "name": "alonsaria",
+    "url": "https://x.com/alonsaria"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-creator"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-creator"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

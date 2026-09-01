@@ -24,6 +24,12 @@
     "meta-bot",
     "agent-team"
   ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gtm-chief-of-staff/"
+    }
+  ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",
   "firstSeenAt": "2026-09-01",

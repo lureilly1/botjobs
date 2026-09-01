@@ -5,6 +5,7 @@
   "botId": "rthl9MdskO2f-JCzmyINP",
   "creator": {
     "handle": "adamta",
+    "name": "adamta",
     "url": "https://x.com/adamta"
   },
   "sourceUrl": "https://x.com/adamta/status/2093388517044830237",
@@ -24,6 +25,16 @@
     "research",
     "data",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/scout"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scout-competitive-intelligence/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

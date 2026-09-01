@@ -125,6 +125,15 @@ const SOURCE_OWNED = new Set([
  */
 const SEED_ONLY = new Set(['name', 'categories']);
 
+const isEmpty = (v) =>
+  v === null || v === undefined || v === '' || (Array.isArray(v) && v.length === 0);
+
+/** Strip null/undefined/empty-string values so they cannot mask a better one. */
+function dropEmpty(obj) {
+  if (!obj) return {};
+  return Object.fromEntries(Object.entries(obj).filter(([, v]) => v !== null && v !== undefined && v !== ''));
+}
+
 /**
  * Merge a freshly-scraped record over an existing one.
  *
@@ -152,15 +161,53 @@ export function mergeBotRecord(existing, incoming) {
 
   for (const key of SOURCE_OWNED) {
     if (!(key in incoming)) continue;
+    if (key === 'creator') continue; // handled below
+
+    // A source that carries no value for a field has no opinion about it —
+    // absence of data is not data. Without this, bot.store (which has no
+    // originating post) nulls out the X post URLs grokbot.dev supplied, and
+    // every shared record ends up source-linked with nothing to link to.
+    if (isEmpty(incoming[key]) && !isEmpty(existing[key])) continue;
+
     if (JSON.stringify(existing[key]) !== JSON.stringify(incoming[key])) {
       merged[key] = incoming[key];
       if (key !== 'lastSeenAt') touched = true;
     }
   }
 
+  // Creator merges field-wise rather than wholesale. Catalogues carry different
+  // amounts: grokbot.dev has the X handle, bot.store often only a display name.
+  // A blanket overwrite would let the poorer record erase the better one.
+  if (incoming.creator) {
+    const best = { ...dropEmpty(incoming.creator), ...dropEmpty(existing.creator) };
+    // Fixed key order. Two adapters contributing different subsets would
+    // otherwise produce the same creator with different key order, which
+    // JSON.stringify reads as a change — leaving the nightly run churning a
+    // diff forever without anything actually differing.
+    const creator = {};
+    for (const k of ['handle', 'name', 'url']) if (best[k]) creator[k] = best[k];
+    for (const k of Object.keys(best)) if (!(k in creator)) creator[k] = best[k];
+
+    if (JSON.stringify(creator) !== JSON.stringify(existing.creator)) {
+      merged.creator = creator;
+      touched = true;
+    }
+  }
+
   // Discovery credit belongs to whoever surfaced it first and never moves.
   merged.discoveredVia = existing.discoveredVia ?? incoming.discoveredVia;
   merged.firstSeenAt = existing.firstSeenAt ?? incoming.lastSeenAt;
+
+  // Every catalogue carrying this bot. The union is the point of the site, so
+  // it is worth recording which sources agree a bot exists.
+  const listings = [...(existing.listings ?? [])];
+  for (const listing of incoming.listings ?? []) {
+    if (!listings.some((l) => l.name === listing.name)) {
+      listings.push(listing);
+      touched = true;
+    }
+  }
+  if (listings.length) merged.listings = listings;
 
   return { record: merged, change: touched ? 'updated' : 'unchanged' };
 }
@@ -169,7 +216,7 @@ export function mergeBotRecord(existing, incoming) {
 const KEY_ORDER = [
   'slug', 'name', 'grokShareUrl', 'botId', 'creator', 'sourceUrl', 'discoveredVia',
   'description', 'official', 'categories', 'integrations', 'tags',
-  'evidenceLevel', 'linkStatus', 'lastVerifiedAt', 'firstSeenAt', 'lastSeenAt',
+  'listings', 'evidenceLevel', 'linkStatus', 'lastVerifiedAt', 'firstSeenAt', 'lastSeenAt',
 ];
 
 export function serialiseBot(record) {
@@ -200,10 +247,17 @@ export function resolveSlug({ botId, preferredSlug, name }, byBotId, bySlug) {
 
   // Same slug, different bot: suffix with a short piece of the id rather than a
   // counter, so the name stays stable across runs.
+  //
+  // Bot ids are base64url, so they contain `-` and `_`. Those must be stripped
+  // before the suffix is pasted on, or a collision produces `shopper---x3ke`,
+  // which is not a valid slug.
   if (bySlug.has(slug) && bySlug.get(slug).botId !== botId) {
-    slug = `${slug}-${String(botId).slice(0, 6).toLowerCase()}`;
+    const suffix = String(botId).replace(/[^A-Za-z0-9]/g, '').slice(0, 6).toLowerCase();
+    slug = suffix ? `${slug}-${suffix}` : slug;
   }
-  return { slug, deduped: false };
+
+  // Final guard: never hand back something the validator would reject.
+  return SLUG_RE.test(slug) ? { slug, deduped: false } : { slug: null, deduped: false };
 }
 
 export { botIdFromShareUrl };

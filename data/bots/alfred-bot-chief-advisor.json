@@ -5,6 +5,7 @@
   "botId": "KZ9xav0Qad1U5QigEn7rh",
   "creator": {
     "handle": "heyrobinai",
+    "name": "Robin Delta",
     "url": "https://x.com/heyrobinai"
   },
   "sourceUrl": "https://x.com/heyrobinai/status/2093393717545648305",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/alfred"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alfred-bot-chief-advisor/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

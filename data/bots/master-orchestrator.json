@@ -5,6 +5,7 @@
   "botId": "j7B5LHnEIPTuPQZxxQwpx",
   "creator": {
     "handle": "farzyness",
+    "name": "Farzad",
     "url": "https://x.com/farzyness"
   },
   "sourceUrl": "https://x.com/farzyness/status/2093384064363377099",
@@ -24,6 +25,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/master"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/master-orchestrator/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

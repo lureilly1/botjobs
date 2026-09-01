@@ -5,6 +5,7 @@
   "botId": "JeFTvcDX-7QT2evKGIb52",
   "creator": {
     "handle": "hnshah",
+    "name": "Hiten Shah",
     "url": "https://x.com/hnshah"
   },
   "sourceUrl": "https://x.com/hnshah/status/2094100862247502019",
@@ -22,6 +23,16 @@
     "decision-support",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/product-idea-stress-test"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-idea-stress-test/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

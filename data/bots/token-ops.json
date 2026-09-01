@@ -26,6 +26,12 @@
     "meta-bot",
     "on-demand"
   ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/token-ops/"
+    }
+  ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",
   "firstSeenAt": "2026-09-01",

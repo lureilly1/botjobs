@@ -5,6 +5,7 @@
   "botId": "P1LmE76VG38Ui-XCmzAZE",
   "creator": {
     "handle": "clairevo",
+    "name": "claire vo 🖤",
     "url": "https://x.com/clairevo"
   },
   "sourceUrl": "https://x.com/clairevo/status/2093496609955021275",
@@ -22,6 +23,16 @@
     "monitoring",
     "automation",
     "back-office"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lockdown"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lockdown/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

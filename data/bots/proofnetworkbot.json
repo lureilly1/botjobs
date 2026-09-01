@@ -1,0 +1,31 @@
+{
+  "slug": "proofnetworkbot",
+  "name": "proofnetworkbot",
+  "grokShareUrl": "https://x.ai/bot/RqfNH_lezeW6Wab2yNoT6",
+  "botId": "RqfNH_lezeW6Wab2yNoT6",
+  "creator": {
+    "handle": "STACCoverflow",
+    "name": "stacc robinhood",
+    "url": "https://x.com/STACCoverflow"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/proofnetworkbot"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/proofnetworkbot"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

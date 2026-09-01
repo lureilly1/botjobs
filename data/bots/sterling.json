@@ -5,6 +5,7 @@
   "botId": "WNJl5y33yqdOp3CnhR4-k",
   "creator": {
     "handle": "jchybow",
+    "name": "FSD Pilot (Unsupervised) 🛩🇺🇸",
     "url": "https://x.com/jchybow"
   },
   "sourceUrl": "https://x.com/jchybow/status/2094256023498326357",
@@ -22,6 +23,16 @@
     "decision-support",
     "monitoring",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sterling"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sterling/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

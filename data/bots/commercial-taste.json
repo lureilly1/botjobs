@@ -5,6 +5,7 @@
   "botId": "vekulzIMXM8hDjkp-mDkX",
   "creator": {
     "handle": "thesmitpatel",
+    "name": "Smit Patel",
     "url": "https://x.com/thesmitpatel"
   },
   "sourceUrl": "https://x.com/thesmitpatel/status/2094100307340857707",
@@ -22,6 +23,16 @@
     "decision-support",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/commercial-taste"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/commercial-taste/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

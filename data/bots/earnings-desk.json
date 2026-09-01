@@ -1,0 +1,31 @@
+{
+  "slug": "earnings-desk",
+  "name": "Earnings Desk",
+  "grokShareUrl": "https://x.ai/bot/vEyqj8oJwHAb0NjdhWJSz",
+  "botId": "vEyqj8oJwHAb0NjdhWJSz",
+  "creator": {
+    "handle": "sachivm99",
+    "name": "Sachiv",
+    "url": "https://x.com/sachivm99"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/earnings-desk"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/earnings-desk"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

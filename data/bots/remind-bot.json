@@ -5,6 +5,7 @@
   "botId": "peJxDrQRS4t2DHuHfzhfW",
   "creator": {
     "handle": "damonchen",
+    "name": "Damon Chen",
     "url": "https://x.com/damonchen"
   },
   "sourceUrl": "https://x.com/damonchen/status/2093559687354671335",
@@ -22,6 +23,16 @@
     "life-hacks",
     "calendar",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/remind-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/remind-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

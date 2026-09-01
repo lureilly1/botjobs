@@ -5,6 +5,7 @@
   "botId": "m-qZ-OIA6Nt2LZeb2bKg5",
   "creator": {
     "handle": "joshkim",
+    "name": "Josh Kim",
     "url": "https://x.com/joshkim"
   },
   "sourceUrl": "https://x.com/joshkim/status/2093795274598817946",
@@ -24,6 +25,16 @@
     "back-office",
     "data",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/tally-desk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tally-desk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

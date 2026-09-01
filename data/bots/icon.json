@@ -5,6 +5,7 @@
   "botId": "inke26gsycrB-4N4Z3vVE",
   "creator": {
     "handle": "yriica",
+    "name": "平野太一 / Taichi Hirano",
     "url": "https://x.com/yriica"
   },
   "sourceUrl": "https://x.com/yriica/status/2093511043691810874",
@@ -21,6 +22,16 @@
     "design",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/icon"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/icon/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "wOvqAFpr3o8VB3g4Tmpxr",
   "creator": {
     "handle": "mathiasnoyez",
+    "name": "mathiasnoyez - SEO Benelux",
     "url": "https://x.com/mathiasnoyez"
   },
   "sourceUrl": "https://x.com/mathiasnoyez/status/2093445450388893813",
@@ -23,6 +24,16 @@
     "content",
     "growth",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/aio-specialist"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/aio-specialist-aeo-geo/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

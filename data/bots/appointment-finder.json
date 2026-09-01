@@ -5,6 +5,7 @@
   "botId": "75K-dB4m30goo_PamA9nM",
   "creator": {
     "handle": "liam_fallen",
+    "name": "Liam",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093635774079971693",
@@ -22,6 +23,16 @@
     "life-hacks",
     "calendar",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/appointment-finder"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/appointment-finder/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -1,0 +1,31 @@
+{
+  "slug": "bot",
+  "name": "Skill creator",
+  "grokShareUrl": "https://x.ai/bot/NMGAAcLcgqHjs9JwpgPyo",
+  "botId": "NMGAAcLcgqHjs9JwpgPyo",
+  "creator": {
+    "handle": "mei_999_",
+    "name": "めい",
+    "url": "https://x.com/mei_999_"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

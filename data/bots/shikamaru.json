@@ -5,6 +5,7 @@
   "botId": "rrvGu13S5uYCc09WP7A-9",
   "creator": {
     "handle": "WorldlyReviewer",
+    "name": "WorldlyReviewer",
     "url": "https://x.com/WorldlyReviewer"
   },
   "sourceUrl": "https://x.com/WorldlyReviewer/status/2093382383802151353",
@@ -23,6 +24,16 @@
     "agent-team",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shikamaru"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shikamaru/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

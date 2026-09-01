@@ -5,6 +5,7 @@
   "botId": "r5R9X50NdzRZBPcBQAnhP",
   "creator": {
     "handle": "congressdj",
+    "name": "DJ",
     "url": "https://x.com/congressdj"
   },
   "sourceUrl": "https://x.com/congressdj/status/2093539459719434306",
@@ -22,6 +23,16 @@
     "saving-money",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/travel-guru"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-guru/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

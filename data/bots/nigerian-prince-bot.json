@@ -1,0 +1,31 @@
+{
+  "slug": "nigerian-prince-bot",
+  "name": "Nigerian Prince Bot",
+  "grokShareUrl": "https://x.ai/bot/6R04SyIqh-omLtqYD7FCy",
+  "botId": "6R04SyIqh-omLtqYD7FCy",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "name": "Pitchfork & Torch ♞",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nigerian-prince-bot"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nigerian-prince-bot"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

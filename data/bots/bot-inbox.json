@@ -5,6 +5,7 @@
   "botId": "RHSd-aq6KC84xxUnvBXSl",
   "creator": {
     "handle": "waynesutton",
+    "name": "Wayne Sutton",
     "url": "https://x.com/waynesutton"
   },
   "sourceUrl": "https://x.com/waynesutton/status/2093835123498340611",
@@ -22,6 +23,16 @@
     "monitoring",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-inbox"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-inbox/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

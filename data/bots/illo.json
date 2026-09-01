@@ -5,6 +5,7 @@
   "botId": "y3uTGY5hkl6iTmE-ZAX02",
   "creator": {
     "handle": "trevin",
+    "name": "Trevin Chow",
     "url": "https://x.com/trevin"
   },
   "sourceUrl": "https://x.com/trevin/status/2093390512925610067",
@@ -23,6 +24,16 @@
     "content",
     "social-media",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/illo"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/illo/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

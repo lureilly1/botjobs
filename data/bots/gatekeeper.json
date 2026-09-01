@@ -5,6 +5,7 @@
   "botId": "T5FSfM91XA6gMgh2rX56K",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383132137279825",
@@ -22,6 +23,16 @@
     "ops",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gatekeeper"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gatekeeper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

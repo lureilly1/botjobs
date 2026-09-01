@@ -5,6 +5,7 @@
   "botId": "32fHIBw9Yz-s_o35KycGX",
   "creator": {
     "handle": "farzyness",
+    "name": "Farzad",
     "url": "https://x.com/farzyness"
   },
   "sourceUrl": "https://x.com/farzyness/status/2093485851606929592",
@@ -23,6 +24,16 @@
     "content",
     "automation",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shorty"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shorty/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

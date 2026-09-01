@@ -5,6 +5,7 @@
   "botId": "5mReUHPYTBA6nJ2aNvlqn",
   "creator": {
     "handle": "TheSurenk",
+    "name": "Suren",
     "url": "https://x.com/TheSurenk"
   },
   "sourceUrl": "https://x.com/TheSurenk/status/2093548918806122764",
@@ -23,6 +24,16 @@
     "automation",
     "learning",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/helidon-engineer"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/helidon-engineer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

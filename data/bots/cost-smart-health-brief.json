@@ -5,6 +5,7 @@
   "botId": "Rm6VqcE8cOWXwotPth9qM",
   "creator": {
     "handle": "GuleidAmina",
+    "name": "Amina Guleid",
     "url": "https://x.com/GuleidAmina"
   },
   "sourceUrl": "https://x.com/GuleidAmina/status/2093386135452152155",
@@ -22,6 +23,16 @@
     "saving-money",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cost-smart-health-brief"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cost-smart-health-brief/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

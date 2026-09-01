@@ -5,6 +5,7 @@
   "botId": "rfAHsaFrz6xHBMtUpxDi5",
   "creator": {
     "handle": "Vixlio",
+    "name": "Vixl",
     "url": "https://x.com/Vixlio"
   },
   "sourceUrl": "https://x.com/Vixlio/status/2093843651856081165",
@@ -22,6 +23,16 @@
     "monitoring",
     "email",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dewey"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dewey/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

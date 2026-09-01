@@ -5,6 +5,7 @@
   "botId": "q7GLbLhMZDpJXBGuuci1J",
   "creator": {
     "handle": "SuddenlyJon",
+    "name": "Pitchfork & Torch ♞",
     "url": "https://x.com/SuddenlyJon"
   },
   "sourceUrl": "https://x.com/SuddenlyJon/status/2093499564988703231",
@@ -23,6 +24,16 @@
     "research",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/box-inspector"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/box-inspector/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

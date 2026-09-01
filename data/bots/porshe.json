@@ -5,6 +5,7 @@
   "botId": "BXDRX1jaURkI4Tx70zLg6",
   "creator": {
     "handle": "poteto",
+    "name": "lauren",
     "url": "https://x.com/poteto"
   },
   "sourceUrl": "https://x.com/poteto/status/2093518231235686589",
@@ -21,6 +22,16 @@
     "finance",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/porshe"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/porshe/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

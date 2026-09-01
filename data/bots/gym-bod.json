@@ -5,6 +5,7 @@
   "botId": "3mtiwFoZcEMq59w-49DMS",
   "creator": {
     "handle": "DrPB",
+    "name": "Peter Robert",
     "url": "https://x.com/DrPB"
   },
   "sourceUrl": "https://x.com/DrPB/status/2093815967360991485",
@@ -23,6 +24,16 @@
     "wellbeing",
     "health",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gym-bod"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gym-bod/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

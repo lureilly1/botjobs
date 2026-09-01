@@ -5,6 +5,7 @@
   "botId": "h4suD8jA37Wsb7tS4giUO",
   "creator": {
     "handle": "altryne",
+    "name": "Alex Volkov",
     "url": "https://x.com/altryne"
   },
   "sourceUrl": "https://x.com/altryne/status/2093459037484622297",
@@ -22,6 +23,16 @@
     "video",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cold-open"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cold-open/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

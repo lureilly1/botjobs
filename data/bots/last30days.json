@@ -5,6 +5,7 @@
   "botId": "ANv3NrqPfRcS9PdXku7h8",
   "creator": {
     "handle": "mvanhorn",
+    "name": "mvanhorn",
     "url": "https://x.com/mvanhorn"
   },
   "sourceUrl": "https://x.com/mvanhorn/status/2093466618718245198",
@@ -23,6 +24,16 @@
     "analytics",
     "social-media",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/last30days"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/last30days/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

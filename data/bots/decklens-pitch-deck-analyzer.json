@@ -5,6 +5,7 @@
   "botId": "KlcxAG1I8cMQoqS_8Hrdn",
   "creator": {
     "handle": "BrianDEvans",
+    "name": "Brian D. Evans",
     "url": "https://x.com/BrianDEvans"
   },
   "sourceUrl": "https://x.com/BrianDEvans/status/2093386518375346484",
@@ -21,6 +22,16 @@
     "business",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/decklens"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/decklens-pitch-deck-analyzer/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

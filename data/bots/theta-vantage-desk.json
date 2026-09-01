@@ -5,6 +5,7 @@
   "botId": "YbX8HTAePBjwpwP05CVJS",
   "creator": {
     "handle": "ThetaVantage",
+    "name": "Theta Vantage",
     "url": "https://x.com/ThetaVantage"
   },
   "sourceUrl": "https://x.com/ThetaVantage/status/2094150193042386996",
@@ -23,6 +24,16 @@
     "decision-support",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/theta-vantage-desk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/theta-vantage-desk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

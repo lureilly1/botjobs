@@ -5,6 +5,7 @@
   "botId": "JcFj23aaufNWkuiiJTX0j",
   "creator": {
     "handle": "chiplay",
+    "name": "Chip Lay",
     "url": "https://x.com/chiplay"
   },
   "sourceUrl": "https://x.com/chiplay/status/2093502053037293650",
@@ -23,6 +24,16 @@
     "back-office",
     "meta-bot",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/agent-smith"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-smith/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

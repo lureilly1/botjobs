@@ -25,6 +25,12 @@
     "agent-team",
     "scheduled"
   ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cos/"
+    }
+  ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",
   "firstSeenAt": "2026-09-01",

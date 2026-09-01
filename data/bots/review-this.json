@@ -5,6 +5,7 @@
   "botId": "g4hvAEhebCPzqwsdPBGu4",
   "creator": {
     "handle": "DogecoinNorway",
+    "name": "Doge Norway",
     "url": "https://x.com/DogecoinNorway"
   },
   "sourceUrl": "https://x.com/DogecoinNorway/status/2094042874283471230",
@@ -22,6 +23,16 @@
     "decision-support",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/review-this"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/review-this/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

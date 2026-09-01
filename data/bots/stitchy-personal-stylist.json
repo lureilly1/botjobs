@@ -5,6 +5,7 @@
   "botId": "P-8iKYx3Eeq3pelx_UPHq",
   "creator": {
     "handle": "Mitch_Sweigart",
+    "name": "Mitchell Sweigart",
     "url": "https://x.com/Mitch_Sweigart"
   },
   "sourceUrl": "https://x.com/Mitch_Sweigart/status/2093398705298641323",
@@ -22,6 +23,16 @@
     "saving-money",
     "life-hacks",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/stitchy"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stitchy-personal-stylist/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

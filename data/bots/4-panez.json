@@ -5,6 +5,7 @@
   "botId": "91R37-rUOh9sS1tZkIF9d",
   "creator": {
     "handle": "SuddenlyJon",
+    "name": "Pitchfork & Torch ♞",
     "url": "https://x.com/SuddenlyJon"
   },
   "sourceUrl": "https://x.com/SuddenlyJon/status/2094179990782759104",
@@ -21,6 +22,16 @@
     "content",
     "design",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/4-panez"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/4-panez/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

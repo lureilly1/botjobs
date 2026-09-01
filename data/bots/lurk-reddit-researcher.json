@@ -5,6 +5,7 @@
   "botId": "12Gbp1lPVsfTVAHPXKd3B",
   "creator": {
     "handle": "tinkerersanky",
+    "name": "Sanket",
     "url": "https://x.com/tinkerersanky"
   },
   "sourceUrl": "https://x.com/tinkerersanky/status/2093398451958489561",
@@ -24,6 +25,16 @@
     "growth",
     "data",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lurk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lurk-reddit-researcher/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

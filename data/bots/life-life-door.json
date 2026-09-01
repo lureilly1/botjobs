@@ -5,6 +5,7 @@
   "botId": "6I-yjMRU1BmiYNfZgWXBK",
   "creator": {
     "handle": "TylerNishida",
+    "name": "Tyler Nishida",
     "url": "https://x.com/TylerNishida"
   },
   "sourceUrl": "https://x.com/TylerNishida/status/2093426221732532457",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/life"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/life-life-door/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

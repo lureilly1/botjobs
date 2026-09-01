@@ -5,6 +5,7 @@
   "botId": "izE8-5f78ykATd43I5ROC",
   "creator": {
     "handle": "matthopkins_",
+    "name": "Matt Hopkins",
     "url": "https://x.com/matthopkins_"
   },
   "sourceUrl": "https://x.com/matthopkins_/status/2093442356313833740",
@@ -22,6 +23,16 @@
     "events",
     "life-hacks",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/disney-ride-strategist"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/disney-ride-strategist/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

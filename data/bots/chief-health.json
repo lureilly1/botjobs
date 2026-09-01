@@ -5,6 +5,7 @@
   "botId": "6MHDA-LzErngNoRBaktLZ",
   "creator": {
     "handle": "AJA_Cortes",
+    "name": "AJAC",
     "url": "https://x.com/AJA_Cortes"
   },
   "sourceUrl": "https://x.com/AJA_Cortes/status/2094144047073907019",
@@ -23,6 +24,16 @@
     "monitoring",
     "decision-support",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-health"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-health/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

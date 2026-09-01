@@ -5,6 +5,7 @@
   "botId": "N0J32FbnVRuetJi1oJggh",
   "creator": {
     "handle": "Talsiach",
+    "name": "Tal Siach",
     "url": "https://x.com/Talsiach"
   },
   "sourceUrl": "https://x.com/Talsiach/status/2094408059657326944",
@@ -24,6 +25,16 @@
     "content",
     "design",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/blunt"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blunt/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -1,0 +1,29 @@
+{
+  "slug": "senior-jd",
+  "name": "Senior JD",
+  "grokShareUrl": "https://x.ai/bot/5_CLJlzTVfiV7VFEAfO2q",
+  "botId": "5_CLJlzTVfiV7VFEAfO2q",
+  "creator": {
+    "name": "Sol Wright"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/senior-jd"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/senior-jd"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

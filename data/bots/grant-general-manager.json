@@ -5,6 +5,7 @@
   "botId": "fkM4b8n4RqZTbrq5fw5L_",
   "creator": {
     "handle": "HouseHackerJon",
+    "name": "Jon ONeill",
     "url": "https://x.com/HouseHackerJon"
   },
   "sourceUrl": "https://x.com/HouseHackerJon/status/2093435306255220830",
@@ -23,6 +24,16 @@
     "automation",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grant-general-manager"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grant-general-manager/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

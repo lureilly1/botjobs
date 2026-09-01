@@ -5,6 +5,7 @@
   "botId": "4aTE8S1KT93GkqHYxWIo3",
   "creator": {
     "handle": "techdevnotes",
+    "name": "Tech Dev Notes",
     "url": "https://x.com/techdevnotes"
   },
   "sourceUrl": "https://x.com/techdevnotes/status/2093385170896216257",
@@ -23,6 +24,16 @@
     "learning",
     "research",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/interview-prep"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/interview-prep/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

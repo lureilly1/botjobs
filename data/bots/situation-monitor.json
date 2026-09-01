@@ -5,6 +5,7 @@
   "botId": "lkHayxdQjNzVVJIDh7qaF",
   "creator": {
     "handle": "ChaseMc67",
+    "name": "Chase",
     "url": "https://x.com/ChaseMc67"
   },
   "sourceUrl": "https://x.com/ChaseMc67/status/2093878821078573520",
@@ -22,6 +23,16 @@
     "social-media",
     "monitoring",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/situation-monitor"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/situation-monitor/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

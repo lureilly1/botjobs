@@ -5,6 +5,7 @@
   "botId": "YihRBqrXaDwRdjN79Uofl",
   "creator": {
     "handle": "daxperera",
+    "name": "daxperera",
     "url": "https://x.com/daxperera"
   },
   "sourceUrl": "https://x.com/daxperera/status/2093488563388330458",
@@ -22,6 +23,16 @@
     "calendar",
     "productivity",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/canvas"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/canvas/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

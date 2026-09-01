@@ -5,6 +5,7 @@
   "botId": "Do4CujP_kqnnc1KYnpOfI",
   "creator": {
     "handle": "XFreeze",
+    "name": "X Freeze",
     "url": "https://x.com/XFreeze"
   },
   "sourceUrl": "https://x.com/XFreeze/status/2093442263200235974",
@@ -22,6 +23,16 @@
     "content",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/best-video-editor"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/best-video-editor/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

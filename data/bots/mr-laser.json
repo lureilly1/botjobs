@@ -5,6 +5,7 @@
   "botId": "GU4KJSYtPZeiLf8ubPMXY",
   "creator": {
     "handle": "RichSilver",
+    "name": "Rich Silver",
     "url": "https://x.com/RichSilver"
   },
   "sourceUrl": "https://x.com/RichSilver/status/2093409240962506861",
@@ -23,6 +24,16 @@
     "design",
     "agent-team",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mr-laser"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mr-laser/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

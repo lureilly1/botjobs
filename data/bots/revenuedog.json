@@ -5,6 +5,7 @@
   "botId": "IDFtkYcsl7MpfdfTx09RT",
   "creator": {
     "handle": "lexrus",
+    "name": "Lex Tang",
     "url": "https://x.com/lexrus"
   },
   "sourceUrl": "https://x.com/lexrus/status/2094285817221111992",
@@ -24,6 +25,16 @@
     "data",
     "decision-support",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/revenuedog"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/revenuedog/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

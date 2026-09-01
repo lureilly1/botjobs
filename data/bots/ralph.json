@@ -5,6 +5,7 @@
   "botId": "NQQjXITgX9V7WjaDh9Vzb",
   "creator": {
     "handle": "HouseHackerJon",
+    "name": "Jon ONeill",
     "url": "https://x.com/HouseHackerJon"
   },
   "sourceUrl": "https://x.com/HouseHackerJon/status/2093832798528577920",
@@ -22,6 +23,16 @@
     "content",
     "design",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ralph"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ralph/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "Gd-cqXG8xG_RPmKGixa73",
   "creator": {
     "handle": "liam_fallen",
+    "name": "liam_fallen",
     "url": "https://x.com/liam_fallen"
   },
   "sourceUrl": "https://x.com/liam_fallen/status/2093383144334348374",
@@ -24,6 +25,16 @@
     "productivity",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/reaper"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reaper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

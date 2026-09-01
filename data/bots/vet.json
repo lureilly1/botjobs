@@ -5,6 +5,7 @@
   "botId": "9Vmfeck_zr6jo9dO-xEBT",
   "creator": {
     "handle": "GaurangKaria",
+    "name": "Gaurang Karia",
     "url": "https://x.com/GaurangKaria"
   },
   "sourceUrl": "https://x.com/GaurangKaria/status/2093779467554419008",
@@ -23,6 +24,16 @@
     "decision-support",
     "meta-bot",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/vet"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vet/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

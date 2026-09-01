@@ -5,6 +5,7 @@
   "botId": "ozEfaAFJMDGoB-ysym8_V",
   "creator": {
     "handle": "thesoragirls",
+    "name": "thesoragirls",
     "url": "https://x.com/thesoragirls"
   },
   "sourceUrl": "https://x.com/thesoragirls/status/2093420118487310516",
@@ -25,6 +26,16 @@
     "automation",
     "on-demand",
     "video"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/clipper"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clipper/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "CsyAhw5YQaVLeMSnMYwgA",
   "creator": {
     "handle": "theadvisorbtc",
+    "name": "The Advisor.btc 🟧",
     "url": "https://x.com/theadvisorbtc"
   },
   "sourceUrl": "https://x.com/theadvisorbtc/status/2094388925523775694",
@@ -25,6 +26,16 @@
     "content",
     "knowledge-base",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/podcast-summary-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/podcast-summary-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

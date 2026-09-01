@@ -5,6 +5,7 @@
   "botId": "uVBVr5NSR6VirgJrgikIl",
   "creator": {
     "handle": "clairevo",
+    "name": "claire vo 🖤",
     "url": "https://x.com/clairevo"
   },
   "sourceUrl": "https://x.com/clairevo/status/2093497798717260229",
@@ -21,6 +22,16 @@
     "shopping",
     "life-hacks",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sylvia-style"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sylvia-style/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

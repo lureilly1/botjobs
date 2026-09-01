@@ -5,6 +5,7 @@
   "botId": "9dtfHw4LHmwc5uBC-a9vj",
   "creator": {
     "handle": "nurijanian",
+    "name": "George from 🕹prodmgmt.world",
     "url": "https://x.com/nurijanian"
   },
   "sourceUrl": "https://x.com/nurijanian/status/2093716302884147646",
@@ -23,6 +24,16 @@
     "back-office",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ai-pm-os"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-pm-os/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

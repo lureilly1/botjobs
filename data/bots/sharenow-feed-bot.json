@@ -5,6 +5,7 @@
   "botId": "oMU6GmI59Z1jtPUooMLLJ",
   "creator": {
     "handle": "sharenow_today",
+    "name": "sharenow_today",
     "url": "https://x.com/sharenow_today"
   },
   "sourceUrl": "https://x.com/sharenow_today/status/2093472078741615000",
@@ -23,6 +24,16 @@
     "social-media",
     "content",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sharenow-feed-bot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sharenow-feed-bot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

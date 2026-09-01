@@ -5,6 +5,7 @@
   "botId": "ndO6BI7E2ur5X-bhWM_1R",
   "creator": {
     "handle": "noborderhuman",
+    "name": "Mahid",
     "url": "https://x.com/noborderhuman"
   },
   "sourceUrl": "https://x.com/noborderhuman/status/2093529993972432967",
@@ -22,6 +23,16 @@
     "email",
     "automation",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/openrobot"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/openrobot/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "Nmv2fCQEcQc3EHzVXJZKN",
   "creator": {
     "handle": "LoganARobison",
+    "name": "Logan Robison",
     "url": "https://x.com/LoganARobison"
   },
   "sourceUrl": "https://x.com/LoganARobison/status/2093380304891167113",
@@ -24,6 +25,16 @@
     "email",
     "back-office",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/jess"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jess-executive-assistant/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

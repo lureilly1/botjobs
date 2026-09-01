@@ -5,6 +5,7 @@
   "botId": "D9HYH2jAmGiKw7e499mrE",
   "creator": {
     "handle": "ios_1261142602",
+    "name": "sunshineLx",
     "url": "https://x.com/ios_1261142602"
   },
   "sourceUrl": "https://x.com/ios_1261142602/status/2094243852932776384",
@@ -23,6 +24,16 @@
     "engineering",
     "knowledge-base",
     "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/github"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/github-trending-scout/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "brwSBnhe7jg20IBJS0TVK",
   "creator": {
     "handle": "teslascope",
+    "name": "Teslascope",
     "url": "https://x.com/teslascope"
   },
   "sourceUrl": "https://x.com/teslascope/status/2093904429762433255",
@@ -22,6 +23,16 @@
     "analytics",
     "decision-support",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/teslascope"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/teslascope/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

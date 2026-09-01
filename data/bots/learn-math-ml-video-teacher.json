@@ -5,6 +5,7 @@
   "botId": "s5JszATSty0w-uDTw_NzK",
   "creator": {
     "handle": "JeffreyLind",
+    "name": "JeffreyLind",
     "url": "https://x.com/JeffreyLind"
   },
   "sourceUrl": "https://x.com/JeffreyLind/status/2093407660657775081",
@@ -23,6 +24,16 @@
     "learning",
     "content",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/learn"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/learn-math-ml-video-teacher/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

@@ -5,6 +5,7 @@
   "botId": "o4gWkNGmffEaVtOhaEsA7",
   "creator": {
     "handle": "naoufal_elh",
+    "name": "Nao",
     "url": "https://x.com/naoufal_elh"
   },
   "sourceUrl": "https://x.com/naoufal_elh/status/2093710581354135607",
@@ -25,6 +26,16 @@
     "meta-bot",
     "scheduled",
     "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/rutin"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rutin/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

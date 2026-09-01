@@ -1,0 +1,31 @@
+{
+  "slug": "nikita-bier",
+  "name": "Nikita Bier",
+  "grokShareUrl": "https://x.ai/bot/m0wqg4OfsKBO6aKi93vCV",
+  "botId": "m0wqg4OfsKBO6aKi93vCV",
+  "creator": {
+    "handle": "London_Vista",
+    "name": "Jacob",
+    "url": "https://x.com/London_Vista"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nikita-bier"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nikita-bier"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}

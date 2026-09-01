@@ -5,6 +5,7 @@
   "botId": "oH3eR4YWtsljcz0W4HUBp",
   "creator": {
     "handle": "tylerklose",
+    "name": "tylerklose",
     "url": "https://x.com/tylerklose"
   },
   "sourceUrl": "https://x.com/tylerklose/status/2093483701480866210",
@@ -22,6 +23,16 @@
     "automation",
     "back-office",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gardener"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gardener/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

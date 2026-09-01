@@ -5,6 +5,7 @@
   "botId": "sIoeE87fILU5CzptPF29K",
   "creator": {
     "handle": "clairevo",
+    "name": "claire vo 🖤",
     "url": "https://x.com/clairevo"
   },
   "sourceUrl": "https://x.com/clairevo/status/2093496607870423227",
@@ -22,6 +23,16 @@
     "email",
     "automation",
     "back-office"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/holly-helpdesk"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/holly-helpdesk/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

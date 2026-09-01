@@ -5,6 +5,7 @@
   "botId": "k4iwGejDGoy-oT7qohxXb",
   "creator": {
     "handle": "merket",
+    "name": "Ryan Merket",
     "url": "https://x.com/merket"
   },
   "sourceUrl": "https://x.com/merket/status/2093804393229410713",
@@ -23,6 +24,16 @@
     "monitoring",
     "news",
     "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/runtimewire-ai-startup-news"
+    },
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/runtimewire/"
+    }
   ],
   "evidenceLevel": "source-linked",
   "linkStatus": "unchecked",

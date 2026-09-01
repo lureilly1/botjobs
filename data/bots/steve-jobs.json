@@ -1,0 +1,31 @@
+{
+  "slug": "steve-jobs",
+  "name": "Steve Jobs",
+  "grokShareUrl": "https://x.ai/bot/62-P66Nu4KJH99n7fdMzH",
+  "botId": "62-P66Nu4KJH99n7fdMzH",
+  "creator": {
+    "handle": "Charlie01748449",
+    "name": "Charlie Grant",
+    "url": "https://x.com/Charlie01748449"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/steve-jobs"
+  },
+  "description": null,
+  "official": {},
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/steve-jobs"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "unchecked",
+  "firstSeenAt": "2026-09-01",
+  "lastSeenAt": "2026-09-01"
+}
