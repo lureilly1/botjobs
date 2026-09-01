@@ -1,14 +1,15 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
-@custom-variant dark (&:is(.dark *));
+/* Light mode only. No dark variant, no theme toggle, no flash-of-wrong-theme
+   script — a listings board should look like paper. */
 
 /* ==========================================================================
    RE-SKIN HERE
    --------------------------------------------------------------------------
    Everything a new site needs to change lives in this one block. Swap the
-   accent + the three evidence hues and the whole directory changes character
-   without touching a single component.
+   accent and the three evidence hues and the whole directory changes
+   character without touching a component.
 
    Colours are oklch(L C H): lightness 0-1, chroma 0-0.4, hue 0-360.
    To move the accent, change --brand-hue and leave the rest alone.
@@ -19,81 +20,44 @@
 
   --radius: 0.625rem;
 
-  /* Evidence tiers (see the plan, §3). Deliberately not a red/amber/green
-     ramp: `listed` is not a failure state, it is simply unverified. */
-  --evidence-listed: oklch(0.556 0 0); /* neutral   — in a catalogue, nothing checked */
-  --evidence-source-linked: oklch(0.62 0.14 258); /* accent  — creator + source post recorded */
-  --evidence-verified: oklch(0.63 0.15 155); /* green   — official x.ai page reconciled */
+  /* Evidence tiers. Deliberately not a red/amber/green ramp: `listed` is not a
+     failure state, it is simply a candidate whose references we haven't taken up. */
+  --evidence-listed: oklch(0.52 0.01 90); /* ink    — in a catalogue, nothing checked */
+  --evidence-source-linked: oklch(0.55 0.15 258); /* accent — creator and origin known */
+  --evidence-verified: oklch(0.52 0.13 155); /* green  — reconciled against x.ai */
 
-  /* An open job is a vacancy, not an error. Amber reads as "available". */
-  --open-job: oklch(0.68 0.15 65);
+  /* An unfilled job is a vacancy, not an error. Amber reads as "open". */
+  --open-job: oklch(0.58 0.14 62);
 }
 
 /* ==========================================================================
-   Base tokens (shadcn/ui, neutral). Derived from the brand block above where
-   it makes sense — you should rarely need to edit below this line.
+   Base tokens (shadcn/ui). Warm neutrals rather than pure greys — the page
+   should read as printed stock, not as a dashboard.
    ========================================================================== */
 :root {
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
+  --background: oklch(0.993 0.003 92);
+  --foreground: oklch(0.22 0.012 75);
   --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
+  --card-foreground: var(--foreground);
   --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
+  --popover-foreground: var(--foreground);
 
-  --primary: oklch(0.52 var(--brand-chroma) var(--brand-hue));
-  --primary-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.5 var(--brand-chroma) var(--brand-hue));
+  --primary-foreground: oklch(0.99 0 0);
 
-  --secondary: oklch(0.97 0 0);
-  --secondary-foreground: oklch(0.205 0 0);
-  --muted: oklch(0.97 0 0);
-  --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.965 0.005 92);
+  --secondary-foreground: oklch(0.28 0.012 75);
+  --muted: oklch(0.965 0.005 92);
+  --muted-foreground: oklch(0.5 0.012 80);
+  --accent: oklch(0.955 0.008 92);
+  --accent-foreground: oklch(0.28 0.012 75);
 
-  --destructive: oklch(0.577 0.245 27.325);
-  --destructive-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.55 0.22 27);
+  --destructive-foreground: oklch(0.99 0 0);
 
-  --border: oklch(0.922 0 0);
-  --input: oklch(0.922 0 0);
-  --ring: oklch(0.52 var(--brand-chroma) var(--brand-hue));
-
-  --chart-1: oklch(0.646 0.222 41.116);
-  --chart-2: oklch(0.6 0.118 184.704);
-  --chart-3: oklch(0.398 0.07 227.392);
-  --chart-4: oklch(0.828 0.189 84.429);
-  --chart-5: oklch(0.769 0.188 70.08);
-}
-
-.dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.205 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-
-  --primary: oklch(0.7 var(--brand-chroma) var(--brand-hue));
-  --primary-foreground: oklch(0.145 0 0);
-
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
-
-  --destructive: oklch(0.704 0.191 22.216);
-  --destructive-foreground: oklch(0.985 0 0);
-
-  --border: oklch(1 0 0 / 12%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.7 var(--brand-chroma) var(--brand-hue));
-
-  --evidence-listed: oklch(0.708 0 0);
-  --evidence-source-linked: oklch(0.72 0.13 258);
-  --evidence-verified: oklch(0.74 0.14 155);
-  --open-job: oklch(0.78 0.14 65);
+  --border: oklch(0.9 0.008 88);
+  --input: oklch(0.88 0.008 88);
+  --ring: oklch(0.5 var(--brand-chroma) var(--brand-hue));
 }
 
 @theme inline {
@@ -146,17 +110,6 @@
     text-rendering: optimizeLegibility;
   }
 
-  /* Editorial prose sits at a comfortable measure. Job intros are the product,
-     so they get real typographic care rather than whatever the grid gives them. */
-  .prose-editorial {
-    @apply text-[15px]/[1.7] text-muted-foreground max-w-[68ch];
-  }
-
-  .prose-editorial strong {
-    @apply text-foreground font-medium;
-  }
-
-  /* Visible focus for keyboard users, invisible for mouse users. */
   :focus-visible {
     @apply outline-ring outline-2 outline-offset-2;
   }
@@ -169,5 +122,28 @@
       transition-duration: 0.01ms !important;
       scroll-behavior: auto !important;
     }
+  }
+}
+
+@layer components {
+  /* Editorial prose sits at a comfortable measure. Job intros are the product,
+     so they get real typographic care rather than whatever the grid gives them. */
+  .prose-editorial {
+    @apply text-[15px]/[1.7] text-muted-foreground max-w-[68ch];
+  }
+
+  .prose-editorial strong {
+    @apply text-foreground font-medium;
+  }
+
+  /* Small mono label above a section heading. This is a listings board, and the
+     monospace metadata is most of what makes it read as one. */
+  .eyebrow {
+    @apply text-muted-foreground font-mono text-[11px] font-medium tracking-[0.14em] uppercase;
+  }
+
+  /* Ruled list, like a printed vacancies column. */
+  .rule-list > * + * {
+    @apply border-border/70 border-t;
   }
 }

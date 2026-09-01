@@ -1,0 +1,16 @@
+#!/bin/sh
+# Runs the same record validation CI runs, so a bad record is caught before it
+# is pushed rather than after. Enabled by `pnpm install` (see the prepare
+# script), or by hand with: git config core.hooksPath .githooks
+#
+# Skip a single commit with: git commit --no-verify
+
+# Only the data directory matters here; source changes are covered by CI.
+if git diff --cached --name-only | grep -q '^data/'; then
+  echo "→ validating records"
+  if ! node scripts/validate.mjs --quiet; then
+    echo
+    echo "Records did not validate. Fix them, or commit with --no-verify to skip."
+    exit 1
+  fi
+fi

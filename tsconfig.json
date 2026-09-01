@@ -5,6 +5,9 @@
   "compilerOptions": {
     "jsx": "react-jsx",
     "jsxImportSource": "react",
+    // src/lib/records.js is plain JS so the validator and pre-commit hook can
+    // import it with no build step, while the site imports the same module.
+    "allowJs": true,
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]

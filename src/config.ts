@@ -14,9 +14,26 @@ export const SITE = {
   name: 'Bot Jobs',
   domain: 'botjobs.dev',
   url: 'https://botjobs.dev',
-  tagline: 'Find the best AI Bot for the job.',
+  tagline: 'Find the right bot for the job.',
   description: 'The independent directory of things you can get Grok Bot to do.',
 } as const;
+
+/**
+ * VOICE — read this before writing any copy.
+ *
+ * This is a job board, and the bots are the candidates. Carry that metaphor
+ * everywhere: jobs are filled or open, bots are put forward, references get
+ * checked. Dry and understated, never zany — the joke is that we are taking a
+ * pile of chatbots as seriously as a recruitment desk takes applicants.
+ *
+ * The humour comes from being straight about limits, not from exclamation
+ * marks. "Nobody has applied" is funnier and more useful than "Oops, nothing
+ * here yet!" — and it is also true, which is the point.
+ *
+ * One hard exception: anything making a claim about evidence stays literal.
+ * A reader must never finish a sentence of ours believing we tested a bot we
+ * have not run.
+ */
 
 /** Every internal URL is built here. */
 export const urls = {
@@ -41,15 +58,17 @@ export const urls = {
 export const EVIDENCE = {
   listed: {
     label: 'Listed',
-    blurb: 'Appears in a source catalogue. Nothing verified.',
+    blurb: 'Turned up in a catalogue. We have not taken up its references.',
   },
   'source-linked': {
-    label: 'Source-linked',
-    blurb: 'Creator identified and the original post recorded.',
+    label: 'Sourced',
+    blurb: 'We know who built it and where it first appeared.',
   },
   'link-verified': {
-    label: 'Link verified',
-    blurb: 'Official x.ai page checked and reconciled. We have not run this bot.',
+    label: 'References checked',
+    // Deliberately spelled out. "References checked" is the voice; this
+    // sentence is the claim, and the claim stops at the paperwork.
+    blurb: "Its listing matches the official x.ai page. We have not watched it work.",
   },
 } as const;
 

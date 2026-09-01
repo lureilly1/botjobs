@@ -1,0 +1,35 @@
+name: validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# Most PRs here are data: a submitted bot, a new job, a corrected mapping. This
+# workflow is the publication gate — the same rules the site itself imports, so
+# an invalid record cannot reach main whether a human or the submit bot wrote it.
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # Records first: it is the check most PRs will fail on, and it needs no
+      # build, so contributors get the useful error in seconds.
+      - name: Validate records
+        run: pnpm validate
+
+      - name: Typecheck
+        run: pnpm check
+
+      - name: Build
+        run: pnpm build

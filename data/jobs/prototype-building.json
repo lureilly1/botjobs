@@ -1,0 +1,19 @@
+{
+  "slug": "prototype-building",
+  "title": "Prototype Building",
+  "category": "engineering",
+  "searchIntent": "grok bot to build a prototype",
+  "intro": "Prototype work is mostly unglamorous: turning a decision you have already made into something running, then leaving it somewhere a colleague can click on it. That shape suits a Bot better than open-ended engineering does, because the hard part has already been settled before the work starts. The bots below take a written brief and produce a working artefact from it. What separates them is how much they assume — some expect a specification tight enough to implement without asking, others will make product decisions on your behalf, which is usually the failure mode you want to avoid. Where a bot runs on a schedule rather than on demand, that is noted, since an unattended agent opening pull requests overnight needs a review step you actually honour.",
+  "introCurated": true,
+  "bots": [
+    {
+      "botSlug": "forge-dev-factory",
+      "fitScore": 88,
+      "fitReason": "Takes a spec already marked as settled and runs the full loop unattended — plan, implement, self-review, open a pull request. Strong fit where the brief is genuinely fixed; a poor one if you are still deciding what to build.",
+      "rank": 1
+    }
+  ],
+  "relatedJobs": ["security-questionnaires"],
+  "integrations": [],
+  "publish": true
+}

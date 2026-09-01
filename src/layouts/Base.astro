@@ -46,16 +46,8 @@ const ogImageUrl = ogImage ? new URL(ogImage, SITE.url).href : undefined;
     <meta name="twitter:card" content={ogImageUrl ? 'summary_large_image' : 'summary'} />
 
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-
-    <!-- Theme is resolved before first paint so a dark-mode visitor never sees a
-         white flash. Inline by necessity; it must run before the body renders. -->
-    <script is:inline>
-      (() => {
-        const stored = localStorage.getItem('theme');
-        const dark = stored ? stored === 'dark' : matchMedia('(prefers-color-scheme: dark)').matches;
-        document.documentElement.classList.toggle('dark', dark);
-      })();
-    </script>
+    <!-- Light mode only, so there is no theme script and no inline JS at all. -->
+    <meta name="color-scheme" content="light" />
   </head>
 
   <body class="flex min-h-full flex-col">

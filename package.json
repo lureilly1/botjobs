@@ -14,7 +14,8 @@
     "preview": "astro preview",
     "start": "node ./dist/server/entry.mjs",
     "check": "astro check",
-    "validate": "node scripts/validate.mjs"
+    "validate": "node scripts/validate.mjs",
+    "prepare": "git config core.hooksPath .githooks || true"
   },
   "dependencies": {
     "@astrojs/node": "^11.1.5",

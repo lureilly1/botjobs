@@ -1,0 +1,27 @@
+{
+  "slug": "forge-dev-factory",
+  "name": "Forge",
+  "grokShareUrl": "https://x.ai/bot/7GgZtqkhyLzKKMNUa7dhd",
+  "botId": "7GgZtqkhyLzKKMNUa7dhd",
+  "creator": {
+    "handle": "DanKillenberger",
+    "url": "https://x.com/DanKillenberger"
+  },
+  "sourceUrl": "https://x.com/DanKillenberger/status/2094819020193022397",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/forge-dev-factory/"
+  },
+  "description": "Picks up engineering work only once a spec has been marked settled, so nothing starts on a brief that is still under discussion. Runs unattended on a schedule rather than waiting to be asked, and leaves a pull request open for review by morning.",
+  "official": {
+    "title": "Forge by Daniel",
+    "description": "A factory manager for flow-next specs. The owner marks a spec ready; this bot keeps it moving through plan, work, review, and PR until it ships.",
+    "resolves": true,
+    "fetchedAt": "2026-09-01"
+  },
+  "categories": ["engineering"],
+  "integrations": [],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-01"
+}
