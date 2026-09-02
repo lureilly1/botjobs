@@ -1,0 +1,182 @@
+---
+import Base from '@/layouts/Base.astro';
+import BotCard from '@/components/BotCard.astro';
+import { Badge } from '@/components/ui/badge';
+import { buttonVariants } from '@/components/ui/button';
+import { PATH_SEGMENT, urls, issueUrl } from '@/config';
+import { getJob, getJobs, botsForJob } from '@/lib/data';
+import { CATEGORIES } from '@/lib/records.js';
+
+// The path segment is a constant, not a literal scattered through routes, so
+// a product rename costs a config change. A request on any other segment is
+// simply not this site.
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+const job = await getJob(Astro.params.slug!);
+if (!job) return new Response(null, { status: 404 });
+
+const bots = botsForJob(job);
+const allJobs = await getJobs();
+const related = job.relatedJobs
+  .map((slug) => allJobs.find((j) => j.slug === slug))
+  .filter((j): j is NonNullable<typeof j> => Boolean(j));
+
+const isOpen = job.status === 'open';
+const categoryLabel = CATEGORIES[job.category] ?? job.category;
+
+const title = isOpen ? `${job.title}: no bot does this yet` : `Best Grok Bots for ${job.title}`;
+const description = isOpen
+  ? `Nobody has built a good Grok Bot for ${job.title.toLowerCase()} yet. Here is what the job involves and what one would need to do.`
+  : `${bots.length} Grok ${bots.length === 1 ? 'Bot' : 'Bots'} for ${job.title.toLowerCase()}, with sources and evidence for each.`;
+---
+
+<Base title={title} description={description} canonical={urls.job(job.slug)}>
+  <article class="mx-auto max-w-3xl px-4 pt-10 pb-16 sm:px-6 sm:pt-14">
+    <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
+      <a href={urls.jobs()} class="hover:text-foreground">Jobs</a>
+      <span class="mx-1.5" aria-hidden="true">/</span>
+      <span class="text-foreground">{categoryLabel}</span>
+    </nav>
+
+    <div class="flex flex-wrap items-center gap-2.5">
+      <p class="eyebrow text-muted-foreground">{categoryLabel}</p>
+      {isOpen && <Badge variant="open">Open position</Badge>}
+    </div>
+
+    <h1 class="mt-3 text-[2rem] leading-[1.05] sm:text-[2.6rem]">
+      {isOpen ? job.title : <>Best Grok Bots for <span class="marker">{job.title}</span></>}
+    </h1>
+
+    <p class="text-muted-foreground mt-3 font-mono text-sm">{job.searchIntent}</p>
+
+    <div class="prose-editorial mt-6 max-w-none space-y-4">
+      {job.intro.split('\n\n').map((para) => <p>{para}</p>)}
+    </div>
+
+    {
+      !job.introCurated && (
+        /* Honesty about provenance is what separates this from the scaled-content
+           pattern. If a draft has not been through a human, the page says so. */
+        <p class="border-border text-muted-foreground mt-5 rounded-md border border-dashed px-3.5 py-2.5 text-xs">
+          This introduction was drafted automatically and has not been edited by a person yet.{' '}
+          <a href={issueUrl('job', `[job] improve intro: ${job.slug}`)} rel="noopener" class="underline underline-offset-2">
+            Improve it →
+          </a>
+        </p>
+      )
+    }
+
+    {
+      bots.length > 0 && (
+        <section class="mt-12">
+          <h2 class="text-2xl">
+            {bots.length} {bots.length === 1 ? 'candidate' : 'candidates'}
+          </h2>
+          <p class="text-muted-foreground mt-1 mb-6 text-sm">
+            Ranked by how well they fit this job, not by popularity.
+          </p>
+          <div class="space-y-4">
+            {bots.map((bot) => (
+              <BotCard bot={bot} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    {
+      isOpen && (
+        <section class="outlined bg-card mt-12 rounded-lg p-6 sm:p-7">
+          <h2 class="text-2xl">Nobody has applied yet</h2>
+          <p class="prose-editorial mt-2.5">
+            We have not found a Grok Bot that does this job well enough to recommend. Rather than
+            fill the slot with something that does not do the work, the position stays open — so
+            if you were looking for something to build, this is a job people want done.
+          </p>
+          <div class="mt-5 flex flex-wrap gap-2.5">
+            <a
+              href={issueUrl('bot', `[bot] fills ${job.slug}: `)}
+              rel="noopener"
+              class={buttonVariants({ variant: 'hivis', size: 'sm' })}
+            >
+              I know a bot that does this
+            </a>
+            <a href={urls.openJobs()} class={buttonVariants({ variant: 'secondary', size: 'sm' })}>
+              Other open jobs
+            </a>
+          </div>
+        </section>
+      )
+    }
+
+    {
+      !isOpen && (
+        <section class="border-border mt-12 rounded-lg border border-dashed p-5">
+          <h2 class="text-lg">Know a better bot for this?</h2>
+          <p class="prose-editorial mt-1.5 text-sm">
+            Candidates are put forward by people who have actually used them. If something is
+            missing, or a listing here is wrong, tell us and we will fix it.
+          </p>
+          <a
+            href={issueUrl('bot', `[bot] fits ${job.slug}: `)}
+            rel="noopener"
+            class={buttonVariants({ variant: 'secondary', size: 'sm', className: 'mt-4' })}
+          >
+            Put a bot forward
+          </a>
+        </section>
+      )
+    }
+
+    {
+      job.integrations.length > 0 && (
+        <section class="mt-10">
+          <h2 class="eyebrow text-muted-foreground">Usually needs</h2>
+          {/* Plain chips, not links: integration pages do not exist yet, and a
+              link to nothing is worse than no link. */}
+          <ul class="mt-2.5 flex flex-wrap gap-2">
+            {job.integrations.map((i) => (
+              <li class="border-border bg-secondary rounded-full border px-2.5 py-1 font-mono text-xs">
+                {i}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      related.length > 0 && (
+        <section class="mt-10">
+          <h2 class="eyebrow text-muted-foreground">Related jobs</h2>
+          <ul class="mt-2.5 flex flex-wrap gap-2">
+            {related.map((r) => (
+              <li>
+                <a
+                  href={urls.job(r.slug)}
+                  class="border-border bg-card hover:border-ink inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+                >
+                  {r.title}
+                  {r.status === 'open' && <span class="text-open-job"> · open</span>}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <section class="border-border text-muted-foreground mt-12 border-t pt-6 text-xs leading-relaxed">
+      <p>
+        Bots on this page are gathered from public catalogues and reconciled against the official
+        x.ai listing for each one. We write our own summaries and never republish a source
+        directory's description. Every listing credits where we found it and links to the creator.
+      </p>
+      <p class="mt-2">
+        <a href={urls.submitJob()} class="underline underline-offset-2">Post a job</a>
+        <span class="mx-1.5" aria-hidden="true">·</span>
+        <a href={urls.submitBot()} class="underline underline-offset-2">Submit a bot</a>
+      </p>
+    </section>
+  </article>
+</Base>

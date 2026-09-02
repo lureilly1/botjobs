@@ -1,6 +1,15 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
+/* Astro's dynamic routes live in bracketed directories — src/pages/[segment]/
+   jobs/[slug].astro. Tailwind's automatic content detection treats `[...]` in a
+   path as a glob character class, so it silently skips those files and never
+   generates the utilities they use. The symptom is a page that renders with
+   correct markup and no styling on exactly the routes that matter most.
+
+   Declaring the source explicitly makes the crawl traverse them. */
+@source "../**/*.{astro,ts,tsx,js,jsx}";
+
 /* Display + UI: Archivo is a sturdy grotesque that reads like site signage,
    which is the point — this is a works noticeboard, not a SaaS dashboard.
    Mono: JetBrains for the listings metadata. */

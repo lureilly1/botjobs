@@ -1,0 +1,78 @@
+---
+import Base from '@/layouts/Base.astro';
+import EvidenceBadge from '@/components/EvidenceBadge.astro';
+import { Badge } from '@/components/ui/badge';
+import { PATH_SEGMENT, urls } from '@/config';
+import { getJobs, bestEvidence } from '@/lib/data';
+import { CATEGORIES } from '@/lib/records.js';
+
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+const jobs = await getJobs();
+const openCount = jobs.filter((j) => j.status === 'open').length;
+
+// Grouped by category rather than one long list — a board is browsable by
+// department, and it keeps the topical clusters visible to a crawler too.
+const grouped = Object.keys(CATEGORIES)
+  .map((key) => ({
+    key,
+    label: CATEGORIES[key],
+    jobs: jobs.filter((j) => j.category === key).sort((a, b) => a.title.localeCompare(b.title)),
+  }))
+  .filter((g) => g.jobs.length > 0);
+---
+
+<Base
+  title="Every job"
+  description="Every job people want a Grok Bot to do, with the bots that can do it."
+  canonical={urls.jobs()}
+>
+  <section class="mx-auto max-w-6xl px-4 pt-12 pb-8 sm:px-6 sm:pt-16">
+    <p class="eyebrow text-muted-foreground">The board</p>
+    <h1 class="mt-3 text-[2.25rem] leading-[1.02] sm:text-5xl">
+      Every job on the <span class="marker">board</span>
+    </h1>
+    <p class="prose-editorial mt-4">
+      {jobs.length} jobs people want a Grok Bot to do. {openCount} of them have no bot worth
+      recommending yet — those stay listed as open positions rather than being quietly dropped.
+    </p>
+  </section>
+
+  <div class="mx-auto max-w-6xl space-y-10 px-4 pb-20 sm:px-6">
+    {
+      grouped.map((group) => (
+        <section>
+          <h2 class="mb-3 text-lg">{group.label}</h2>
+          <ul class="border-ink bg-card rule-list overflow-hidden rounded-lg border-[1.5px]">
+            {group.jobs.map((job) => (
+              <li>
+                <a
+                  href={urls.job(job.slug)}
+                  class="group hover:bg-hi-vis/15 flex items-center gap-4 p-4 transition-colors sm:px-5"
+                >
+                  <div class="min-w-0 flex-1">
+                    <h3 class="font-semibold">{job.title}</h3>
+                    <p class="text-muted-foreground mt-0.5 line-clamp-1 text-sm">
+                      {job.searchIntent}
+                    </p>
+                  </div>
+                  {job.status === 'open' ? (
+                    <Badge variant="open">Open</Badge>
+                  ) : (
+                    <>
+                      <span class="text-muted-foreground hidden font-mono text-xs sm:block">
+                        {job.bots.length}{' '}
+                        {job.bots.length === 1 ? 'candidate' : 'candidates'}
+                      </span>
+                      {bestEvidence(job) && <EvidenceBadge level={bestEvidence(job)!} />}
+                    </>
+                  )}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))
+    }
+  </div>
+</Base>

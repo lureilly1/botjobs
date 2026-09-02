@@ -1,0 +1,70 @@
+---
+import Base from '@/layouts/Base.astro';
+import { buttonVariants } from '@/components/ui/button';
+import { PATH_SEGMENT, urls, issueUrl } from '@/config';
+import { getJobs } from '@/lib/data';
+import { CATEGORIES } from '@/lib/records.js';
+
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+// The linkable asset. Every other directory publishes a census of what exists;
+// this is a list of what does not — which is the more useful document if you
+// are deciding what to build next.
+const open = (await getJobs())
+  .filter((j) => j.status === 'open')
+  .sort((a, b) => a.title.localeCompare(b.title));
+---
+
+<Base
+  title="Grok Bots that don't exist yet"
+  description="Jobs people want a Grok Bot to do that nobody has built one for. A build-this list, kept honest."
+  canonical={urls.openJobs()}
+>
+  <section class="mx-auto max-w-6xl px-4 pt-12 pb-10 sm:px-6 sm:pt-16">
+    <p class="eyebrow text-muted-foreground">{open.length} open positions</p>
+    <h1 class="mt-3 max-w-3xl text-[2.25rem] leading-[1.02] sm:text-5xl">
+      Grok Bots that <span class="marker">don't exist</span> yet
+    </h1>
+    <p class="prose-editorial mt-4">
+      These are jobs people want done where we could not find a bot worth recommending. Some are
+      unbuilt because nobody has got to them; others are genuinely hard, and we say which is which
+      on the page. Either way the vacancy stays open rather than being filled with something that
+      does not do the work.
+    </p>
+    <a
+      href={urls.submitBot()}
+      class={buttonVariants({ variant: 'hivis', size: 'sm', className: 'mt-6' })}
+    >
+      Built one? Put it forward
+    </a>
+  </section>
+
+  <div class="mx-auto grid max-w-6xl gap-4 px-4 pb-20 sm:grid-cols-2 sm:px-6">
+    {
+      open.map((job) => (
+        <article class="border-ink bg-card flex flex-col rounded-lg border-[1.5px] p-5">
+          <p class="eyebrow text-muted-foreground">{CATEGORIES[job.category] ?? job.category}</p>
+          <h2 class="mt-2 text-xl">
+            <a href={urls.job(job.slug)} class="hover:text-primary">
+              {job.title}
+            </a>
+          </h2>
+          <p class="text-muted-foreground mt-1 font-mono text-xs">{job.searchIntent}</p>
+          <p class="prose-editorial mt-3 line-clamp-4 flex-1 text-sm">{job.intro}</p>
+          <div class="mt-4 flex items-center gap-3">
+            <a href={urls.job(job.slug)} class="text-sm font-semibold underline underline-offset-4">
+              Read the brief →
+            </a>
+            <a
+              href={issueUrl('bot', `[bot] fills ${job.slug}: `)}
+              rel="noopener"
+              class="text-muted-foreground hover:text-foreground text-sm"
+            >
+              I know one
+            </a>
+          </div>
+        </article>
+      ))
+    }
+  </div>
+</Base>

@@ -1,0 +1,91 @@
+---
+import EvidenceBadge from '@/components/EvidenceBadge.astro';
+import { buttonVariants } from '@/components/ui/button';
+import type { Bot, BotMapping } from '@/lib/data';
+
+interface Props {
+  bot: Bot & { mapping: BotMapping };
+}
+
+const { bot } = Astro.props;
+const { mapping } = bot;
+---
+
+<article class="border-ink bg-card rounded-lg border-[1.5px] p-5 sm:p-6">
+  <div class="flex flex-wrap items-start justify-between gap-3">
+    <div class="min-w-0">
+      <h3 class="text-lg leading-tight">{bot.name}</h3>
+      <p class="text-muted-foreground mt-1 text-sm">
+        by{' '}
+        {
+          bot.creator.url ? (
+            <a href={bot.creator.url} rel="noopener nofollow" class="hover:text-foreground underline underline-offset-2">
+              {bot.creator.handle ? `@${bot.creator.handle}` : bot.creator.name}
+            </a>
+          ) : (
+            <span>{bot.creator.name}</span>
+          )
+        }
+      </p>
+    </div>
+    <EvidenceBadge level={bot.evidenceLevel} />
+  </div>
+
+  <!-- Our own summary. Never the source directory's copy — see records.js. -->
+  <p class="prose-editorial mt-4">{bot.description}</p>
+
+  <!-- Why it fits THIS job. The mapping is the editorial work; a candidate put
+       forward without a reason is an assertion with nothing behind it. -->
+  <div class="border-hi-vis mt-4 border-l-[3px] pl-3.5">
+    <p class="eyebrow text-muted-foreground">Why it fits</p>
+    <p class="mt-1 text-sm/relaxed">{mapping.fitReason}</p>
+  </div>
+
+  {
+    bot.official?.description && (
+      <details class="mt-4">
+        <summary class="text-muted-foreground hover:text-foreground cursor-pointer text-sm font-medium">
+          What the creator says
+        </summary>
+        {/* The creator's own words, quoted and attributed — distinct from ours. */}
+        <blockquote class="border-border text-muted-foreground mt-2.5 border-l-2 pl-3.5 text-sm/relaxed italic">
+          {bot.official.description}
+        </blockquote>
+        <p class="text-muted-foreground mt-2 text-xs">
+          From the official listing, checked {bot.official.fetchedAt}.
+        </p>
+      </details>
+    )
+  }
+
+  <div class="mt-5 flex flex-wrap items-center gap-2.5">
+    <a
+      href={bot.grokShareUrl}
+      rel="noopener"
+      class={buttonVariants({ variant: 'hivis', size: 'sm' })}
+      data-bot={bot.slug}
+    >
+      Add to Grok →
+    </a>
+    {
+      bot.sourceUrl && (
+        <a
+          href={bot.sourceUrl}
+          rel="noopener nofollow"
+          class="text-muted-foreground hover:text-foreground text-sm font-medium"
+        >
+          Original post
+        </a>
+      )
+    }
+  </div>
+
+  <!-- Attribution is not optional: every record names where we found it. -->
+  <p class="text-muted-foreground mt-4 text-xs">
+    Discovered via{' '}
+    <a href={bot.discoveredVia.url} rel="noopener nofollow" class="underline underline-offset-2">
+      {bot.discoveredVia.name}
+    </a>
+    {bot.lastVerifiedAt && <span> · link checked {bot.lastVerifiedAt}</span>}
+  </p>
+</article>
