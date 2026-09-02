@@ -25,6 +25,7 @@ export const GET: APIRoute = async () => {
     { path: urls.bots(), priority: '0.6' },
     { path: urls.submit(), priority: '0.5' },
     { path: '/methodology', priority: '0.8' },
+    { path: '/stats', priority: '0.4' },
   ];
 
   // Integration pages target queries the SERP shows are contested by vendor

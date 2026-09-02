@@ -1,6 +1,7 @@
 import { appendFile, mkdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { createHash } from 'node:crypto';
+import { SITE } from '@/config';
 
 /**
  * Server-side analytics. No client JavaScript, no cookies, no third-party
@@ -120,8 +121,18 @@ export async function record(
 
 /**
  * Optional PostHog forwarding, server-side. Absent a key this does nothing and
- * the JSONL log is the whole system, which is enough to answer every question
- * in the plan.
+ * the JSONL log is the whole system.
+ *
+ * Three details borrowed from canivibecodeit's implementation, all of which
+ * are easy to get wrong and expensive to get wrong quietly:
+ *
+ *  - `$pageview` rather than our own name, so PostHog's built-in dashboards
+ *    work instead of showing an empty trends chart next to a custom event.
+ *  - `$process_person_profile: false`, which keeps every event at the anonymous
+ *    billing rate. Person profiles are the expensive part of PostHog and we
+ *    have no use for them: we deliberately cannot identify anyone.
+ *  - `$host`, so events group by site if this deployment is ever one of
+ *    several under the same project.
  */
 async function forward(row: AnalyticsEvent): Promise<void> {
   const key = process.env.POSTHOG_KEY;
@@ -134,10 +145,13 @@ async function forward(row: AnalyticsEvent): Promise<void> {
       headers: { 'content-type': 'application/json' },
       body: JSON.stringify({
         api_key: key,
-        event: row.event,
+        event: row.event === 'page_view' ? '$pageview' : row.event,
         distinct_id: row.v,
         properties: {
           $current_url: row.path,
+          $host: new URL(SITE.url).host,
+          $lib: 'server',
+          $process_person_profile: false,
           slug: row.slug,
           job: row.job,
           query: row.query,

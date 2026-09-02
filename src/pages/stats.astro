@@ -1,0 +1,122 @@
+---
+import Base from '@/layouts/Base.astro';
+import { urls, REPO } from '@/config';
+import { readStats } from '@/lib/stats';
+import { getJobs, getBots } from '@/lib/data';
+
+/**
+ * Public stats, the way canivibecodeit does it — a site that shows its own
+ * numbers reads as alive, and it is the cheapest social proof there is.
+ *
+ * Read from our own events log rather than queried back out of PostHog, so it
+ * works with no third-party account and no API key. Absent any events the page
+ * says so plainly instead of rendering zeros that look like failure.
+ */
+const stats = await readStats(30);
+const [jobs, bots] = await Promise.all([getJobs(), getBots()]);
+const verified = bots.filter((b) => b.evidenceLevel === 'link-verified').length;
+
+const catalogue = [
+  { n: bots.length, label: 'bots on file' },
+  { n: verified, label: 'listings checked' },
+  { n: jobs.length, label: 'jobs on the board' },
+  { n: jobs.filter((j) => j.status === 'open').length, label: 'still unfilled' },
+];
+
+const traffic = stats && [
+  { n: stats.views, label: 'page views' },
+  { n: stats.visitors, label: 'visitors' },
+  { n: stats.installs, label: 'install clicks' },
+  { n: stats.searches, label: 'searches' },
+];
+---
+
+<Base
+  title="Stats"
+  description="What Bot Jobs holds and how it is being used. Updated continuously."
+  canonical="/stats"
+>
+  <section class="mx-auto max-w-3xl px-4 pt-12 pb-16 sm:px-6 sm:pt-16">
+    <p class="eyebrow text-muted-foreground">Out in the open</p>
+    <h1 class="mt-3 text-[2.25rem] leading-[1.02] sm:text-5xl">
+      The <span class="marker">numbers</span>
+    </h1>
+    <p class="prose-editorial mt-4">
+      What the directory holds, and what people do with it. No third-party tracker, no cookies —
+      these come from our own server logs, which is also why there is no bounce rate or time on
+      page here. Read the <a href="/methodology" class="underline underline-offset-2">methodology</a>
+      for how the catalogue itself is put together.
+    </p>
+
+    <h2 class="mt-12 text-2xl">The catalogue</h2>
+    <dl class="border-border mt-4 grid grid-cols-2 gap-px border-y sm:grid-cols-4">
+      {
+        catalogue.map(({ n, label }) => (
+          <div class="py-4">
+            <dt class="font-display text-3xl font-extrabold tracking-tight">{n}</dt>
+            <dd class="eyebrow text-muted-foreground mt-1">{label}</dd>
+          </div>
+        ))
+      }
+    </dl>
+
+    <h2 class="mt-12 text-2xl">Last 30 days</h2>
+    {
+      traffic ? (
+        <>
+          <dl class="border-border mt-4 grid grid-cols-2 gap-px border-y sm:grid-cols-4">
+            {traffic.map(({ n, label }) => (
+              <div class="py-4">
+                <dt class="font-display text-3xl font-extrabold tracking-tight">{n}</dt>
+                <dd class="eyebrow text-muted-foreground mt-1">{label}</dd>
+              </div>
+            ))}
+          </dl>
+
+          {stats!.topJobs.length > 0 && (
+            <div class="mt-10">
+              <h3 class="eyebrow text-muted-foreground">Most-read jobs</h3>
+              <ol class="rule-list border-border mt-2.5 rounded-lg border text-sm">
+                {stats!.topJobs.map(({ slug, title, n }) => (
+                  <li class="flex items-center justify-between gap-4 px-4 py-2.5">
+                    <a href={urls.job(slug)} class="hover:underline underline-offset-4">{title}</a>
+                    <span class="text-muted-foreground shrink-0 font-mono text-xs">{n}</span>
+                  </li>
+                ))}
+              </ol>
+            </div>
+          )}
+
+          {stats!.unmetSearches.length > 0 && (
+            <div class="mt-10">
+              <h3 class="eyebrow text-muted-foreground">Searched for, not on the board</h3>
+              <p class="text-muted-foreground mt-1.5 text-sm">
+                Things people looked for and we had nothing for. This is the queue for what gets
+                added next, and it is public for the same reason the open jobs are.
+              </p>
+              <ul class="mt-3 flex flex-wrap gap-2">
+                {stats!.unmetSearches.map((q) => (
+                  <li class="border-border bg-card rounded-full border px-3 py-1.5 font-mono text-[13px]">
+                    {q}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </>
+      ) : (
+        <p class="prose-editorial mt-4">
+          Nothing yet — the site has not served enough traffic to be worth reporting. This fills in
+          on its own.
+        </p>
+      )
+    }
+
+    <p class="text-muted-foreground border-border mt-12 border-t pt-6 text-xs leading-relaxed">
+      Counts exclude obvious crawlers. Visitors are a daily-rotating salted digest of address and
+      browser, which is enough to tell a visit from a refresh and not enough to follow anyone
+      between days. Every record behind these numbers is public:{' '}
+      <a href={REPO} rel="noopener" class="underline underline-offset-2">read the repository</a>.
+    </p>
+  </section>
+</Base>
