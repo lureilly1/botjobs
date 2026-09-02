@@ -20,7 +20,7 @@ import { BOTS_DIR, writeBotRecord } from './lib/ingest.mjs';
 import { similarity, MAX_DESCRIPTION_SIMILARITY } from '../src/lib/records.js';
 import {
   makeClient, parseJsonArray, textOf, parseArgs,
-  dim, green, yellow, red, reportUsage, tallyUsage, emptyTotals,
+  dim, green, yellow, red, reportUsage, tallyUsage, emptyTotals, explainAuthError,
 } from './lib/llm.mjs';
 
 const BATCH_SIZE = 8;
@@ -100,6 +100,8 @@ for (let i = 0; i < queue.length; i += BATCH_SIZE) {
       messages: [{ role: 'user', content: JSON.stringify(payload, null, 2) }],
     });
   } catch (err) {
+    const hint = explainAuthError(err);
+    if (hint) { console.error(hint); process.exit(1); }
     console.error(red(`  ! batch ${i / BATCH_SIZE + 1} failed: ${err.message}`));
     counts.failed += batch.length;
     continue;

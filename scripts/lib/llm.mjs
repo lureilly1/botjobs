@@ -18,7 +18,30 @@ export function makeClient() {
     );
     process.exit(1);
   }
-  return new Anthropic();
+
+  // Identity-linked keys must name the workspace the request acts in. The SDK
+  // has no option for it, so it goes on as a default header. Plain workspace
+  // API keys ignore it, so setting it is always safe.
+  const workspaceId = process.env.ANTHROPIC_WORKSPACE_ID?.trim();
+
+  return new Anthropic({
+    defaultHeaders: workspaceId ? { 'anthropic-workspace-id': workspaceId } : {},
+  });
+}
+
+/** Turn the workspace-id 400 into something actionable rather than cryptic. */
+export function explainAuthError(err) {
+  if (!/anthropic-workspace-id is required/i.test(err?.message ?? '')) return null;
+  return (
+    '\n\x1b[31mThis key is identity-linked, so it needs a workspace id.\x1b[0m\n' +
+    '  Two ways forward:\n\n' +
+    '  1. Add the workspace id to .env:\n' +
+    '       ANTHROPIC_WORKSPACE_ID=wrkspc_...\n' +
+    '     Find it in the Console under Settings > Workspaces — the id is in the\n' +
+    '     URL when you open one.\n\n' +
+    '  2. Or create a plain workspace API key instead, which needs no id:\n' +
+    '     Console > Settings > API keys > Create key, scoped to a workspace.\n'
+  );
 }
 
 /**

@@ -19,7 +19,7 @@ import { join } from 'node:path';
 import { BOTS_DIR, ROOT } from './lib/ingest.mjs';
 import {
   makeClient, parseJsonArray, textOf, parseArgs,
-  dim, green, yellow, red, reportUsage, tallyUsage, emptyTotals,
+  dim, green, yellow, red, reportUsage, tallyUsage, emptyTotals, explainAuthError,
 } from './lib/llm.mjs';
 
 const JOBS_DIR = join(ROOT, 'data', 'jobs');
@@ -131,6 +131,8 @@ Which candidates genuinely do this job? Rank them, reject the rest.`,
       ],
     });
   } catch (err) {
+    const hint = explainAuthError(err);
+    if (hint) { console.error(hint); process.exit(1); }
     console.error(red(`  ! ${job.slug}: ${err.message}`));
     continue;
   }
