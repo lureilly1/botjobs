@@ -1,0 +1,18 @@
+{
+  "slug": "content-writing",
+  "title": "Content Writing",
+  "category": "marketing",
+  "searchIntent": "grok bot to write posts",
+  "intro": "Writing bots are the easiest thing to build and the hardest to keep, which is why the catalogues carry many and people talk about few. The ones that survive are not general writing assistants but narrow ones: turning a call into a post, repurposing something long into something short, holding a calendar and drafting against it. The constraint that matters is voice, and it is the thing most templates handle worst. A bot given three examples produces something recognisably yours; a bot given a topic produces something recognisably nobody's. If a listing does not ask for samples of your existing writing, that tells you what the output will read like. Also worth noting: several bots in this category will publish directly. That is a much larger decision than drafting, and worth making deliberately rather than by accepting a default.",
+  "relatedJobs": [
+    "x-monitoring",
+    "seo-auditing"
+  ],
+  "integrations": [
+    "x",
+    "linkedin"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

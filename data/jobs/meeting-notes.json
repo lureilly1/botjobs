@@ -1,0 +1,19 @@
+{
+  "slug": "meeting-notes",
+  "title": "Meeting Notes",
+  "category": "business-operations",
+  "searchIntent": "grok bot for meeting notes",
+  "intro": "Turning a meeting into something useful afterwards is a well-worn job with a lot of dedicated software behind it, which is why the bot listings here are thinner than you would expect — the incumbents are good and already installed. Where a Grok Bot has an angle is after the transcript: taking notes that already exist and doing something with them, chasing the actions, updating the record, preparing you for the next one in the series. That is a different job from capture and a less crowded one. If you are choosing between a bot and a dedicated notetaker, the honest answer is usually the notetaker for capture and a bot for the follow-through. The listings that try to do both tend to be weakest exactly where the existing tools are strongest.",
+  "relatedJobs": [
+    "chief-of-staff",
+    "second-brain",
+    "crm-hygiene"
+  ],
+  "integrations": [
+    "zoom",
+    "notion"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

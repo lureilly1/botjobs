@@ -1,0 +1,18 @@
+{
+  "slug": "ai-news-monitoring",
+  "title": "AI News Monitoring",
+  "category": "research",
+  "searchIntent": "grok bot to track ai news",
+  "intro": "Keeping up with AI is a job people hand to a bot early, partly because the volume is genuinely unmanageable and partly because it is the first thing anyone thinks to try. The listings split between feed readers that summarise a fixed set of sources and bots that watch X for whatever is being discussed. The second is more current and considerably noisier, since engagement and importance are not the same signal. What makes one of these worth keeping is a threshold. A bot that reports every model release produces a newsletter you stop opening; a bot that reports only when something changes a decision you have already made is useful indefinitely. Few templates set that up for you, so expect to spend an evening telling it what you do not care about, which is the part that actually determines whether you keep it.",
+  "relatedJobs": [
+    "daily-briefing",
+    "x-monitoring",
+    "competitor-monitoring"
+  ],
+  "integrations": [
+    "x"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

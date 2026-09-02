@@ -1,0 +1,15 @@
+{
+  "slug": "seo-auditing",
+  "title": "SEO & AEO Auditing",
+  "category": "marketing",
+  "searchIntent": "grok bot for seo audit",
+  "intro": "Search auditing has attracted a cluster of bots, and lately as much attention on how models describe a brand as on how search engines rank it. The mechanical parts of the job suit an agent well: crawling a site, finding broken things, checking whether pages say what they claim, tracking positions over time. Those are checkable tasks with unambiguous answers. The interpretive part suits it much less. A bot can tell you a page is thin; whether that matters depends on what the page is for, and most listings will happily generate a hundred recommendations without ranking them. Treat the output as a list of findings rather than a plan. The more interesting recent listings check what an assistant says when asked about your product, which is a genuinely new job rather than an old one automated.",
+  "relatedJobs": [
+    "competitor-monitoring",
+    "content-writing"
+  ],
+  "integrations": [],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

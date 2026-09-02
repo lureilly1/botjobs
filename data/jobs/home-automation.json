@@ -1,0 +1,15 @@
+{
+  "slug": "home-automation",
+  "title": "Home Automation",
+  "category": "personal",
+  "searchIntent": "grok bot to run my smart home",
+  "intro": "This is the category people did not predict and it is larger than several of the business ones: bots that watch a house. Charging schedules against electricity rates, network health, deliveries, thermostats, the robot vacuum. What makes it work is that a home produces a steady stream of small numbers nobody is watching, which is exactly the gap an always-on agent fills. The listings are highly personal — most were built for one house and shared afterwards — so expect to rewrite the specifics rather than install and go. The interesting design question is how much the bot is allowed to actuate. A bot that reports the tumble dryer finished is uncontroversial. A bot that changes the thermostat because electricity got cheap is making a decision on behalf of everyone in the building, which is worth agreeing with them first.",
+  "relatedJobs": [
+    "daily-briefing",
+    "deal-hunting"
+  ],
+  "integrations": [],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "bug-reproduction",
+  "title": "Bug Reproduction",
+  "category": "engineering",
+  "searchIntent": "grok bot to reproduce a bug",
+  "intro": "Reproducing a reported bug is the least popular part of engineering and one of the better fits for an agent, because the work is mechanical: read the report, get the environment into the described state, confirm whether the thing happens, write down exactly what you did. The value is not cleverness, it is patience — a bot will try the fourteenth permutation without resenting it. What separates a useful bot here from a demo is whether it can actually drive the software, which usually means a browser session and real credentials. That is also the reason to be careful: a bot with a logged-in session against a production account can do more than reproduce a bug. Prefer ones that run against a staging environment, and read what access the template asks for before you install it.",
+  "relatedJobs": [
+    "code-review",
+    "customer-support"
+  ],
+  "integrations": [
+    "github"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

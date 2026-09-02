@@ -6,7 +6,10 @@
   "intro": "Every enterprise deal eventually produces a spreadsheet with three hundred rows asking whether you encrypt data at rest. The answers barely change between questionnaires, they live scattered across an old SOC 2 report, a policy document and somebody's memory, and the person best placed to answer is the one with the least time to do it. It is close to the ideal job for a Bot: repetitive, heavily templated, and grounded in documents you already have. Nobody has built a good one yet. The bots we found either answer from general knowledge rather than from your actual policies, which is worse than useless on a compliance document, or they need the answer bank assembled by hand first, at which point you have done the hard part yourself. We would rather leave this open than fill it with something that guesses. If you have built one, we would like to see it.",
   "introCurated": true,
   "bots": [],
-  "relatedJobs": ["prototype-building"],
+  "relatedJobs": [
+    "customer-support",
+    "account-research"
+  ],
   "integrations": [],
   "publish": true
 }

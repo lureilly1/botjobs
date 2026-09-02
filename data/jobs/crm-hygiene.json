@@ -1,0 +1,19 @@
+{
+  "slug": "crm-hygiene",
+  "title": "CRM Hygiene",
+  "category": "sales",
+  "searchIntent": "grok bot to keep my crm up to date",
+  "intro": "Nobody updates the CRM, which is why every sales team has a stale one and why this is such an obvious job to hand over. The work is mechanical and unloved: filling fields after a call, merging duplicates, flagging deals that have not moved, keeping the pipeline reflecting reality rather than optimism. A bot doing it badly is still better than the status quo of it not being done, which is a lower bar than most jobs on this site and worth saying plainly. Supply is limited so far — this is a job that needs a connection to whatever system you actually use, and the public templates skew towards the two or three most common ones. If yours is not among them, expect to do integration work rather than install a template, and weigh that against how much stale data is really costing you.",
+  "relatedJobs": [
+    "lead-generation",
+    "account-research",
+    "meeting-notes"
+  ],
+  "integrations": [
+    "salesforce",
+    "hubspot"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

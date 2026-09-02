@@ -1,0 +1,18 @@
+{
+  "slug": "account-research",
+  "title": "Account Research",
+  "category": "sales",
+  "searchIntent": "grok bot to research a company before a call",
+  "intro": "Before a call with a company you want to know who they are, what changed recently, who you are actually talking to and what they are likely to care about. It is a well-defined job with a clear finish line, it is done badly by almost everyone under time pressure, and it is exactly the shape of work an agent that can browse ought to be good at. Nobody has built a good one. Searching the public catalogues for account research turns up general web-research templates pointed at a company name — they produce a competent summary of the website you were about to read anyway, which is not the job. The job is noticing the funding round, the new VP, the changed pricing and the job listing that says what they are building next, then telling you which of those matters for this conversation. That needs a bot that knows what you sell. If you have built one, we would like to see it.",
+  "relatedJobs": [
+    "lead-generation",
+    "crm-hygiene",
+    "competitor-monitoring"
+  ],
+  "integrations": [
+    "linkedin"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "competitor-monitoring",
+  "title": "Competitor Monitoring",
+  "category": "marketing",
+  "searchIntent": "grok bot to monitor competitors",
+  "intro": "Watching competitors is a job that suits a scheduled bot almost perfectly: the sources are fixed, the work is dull, and the value is entirely in noticing a change you would otherwise have missed weeks later. A good one holds a list of companies, checks pricing pages, changelogs, job listings and announcements on a cadence, and tells you only what moved. Supply here is thinner than the demand suggests. There are fewer purpose-built competitor bots in the public catalogues than there are inbox bots, and several listings that mention competitors are really general web-research templates pointed at a company name. The distinguishing feature to look for is state: a bot that remembers what the pricing page said last week can report a diff, and a bot that re-reads it fresh every time can only summarise. Only the first is monitoring.",
+  "relatedJobs": [
+    "ai-news-monitoring",
+    "seo-auditing",
+    "lead-generation"
+  ],
+  "integrations": [
+    "x"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

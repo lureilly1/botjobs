@@ -1,0 +1,15 @@
+{
+  "slug": "study-help",
+  "title": "Study Help",
+  "category": "personal",
+  "searchIntent": "grok bot to help me study",
+  "intro": "Learning bots turn up in surprising numbers, covering course deadlines, flashcards, homework checking, language practice and reading through a syllabus you have not opened. The good ones exploit the thing that makes an always-on bot different from a chat window: continuity. A bot that remembers what you got wrong last week can space the repetition properly, which is the entire mechanism behind why flashcards work. A bot that answers questions well but starts fresh each session is a search engine with better manners. The category also contains the clearest misuse case on the site — several listings will simply do the assignment — and it is worth being honest with yourself about which one you are installing. The homework checkers that explain the error are a different product from the ones that produce the answer.",
+  "relatedJobs": [
+    "second-brain",
+    "ai-news-monitoring"
+  ],
+  "integrations": [],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

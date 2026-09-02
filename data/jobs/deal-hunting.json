@@ -1,0 +1,15 @@
+{
+  "slug": "deal-hunting",
+  "title": "Deal Hunting",
+  "category": "personal",
+  "searchIntent": "grok bot to find deals",
+  "intro": "Shopping bots are well supplied and easy to evaluate, because the claim is checkable: either the price dropped or it did not. The listings cover watching a specific item, hunting a category against a budget, tracking flights and points, and comparison across sites. The ones worth having share a trait — they wait. A bot that reports the current price every day is a subscription to information you already had; a bot that stays silent until something crosses the threshold you set is doing the job. Be deliberate about purchasing. Several templates in this category describe bidding or buying when a target is hit, and an agent authorised to spend money is a category of risk distinct from everything else on this site. Watching, comparing and alerting covers most of the value with none of that exposure.",
+  "relatedJobs": [
+    "travel-planning",
+    "home-automation"
+  ],
+  "integrations": [],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

@@ -1,0 +1,15 @@
+{
+  "slug": "market-tracking",
+  "title": "Market Tracking",
+  "category": "finance",
+  "searchIntent": "grok bot to track stocks",
+  "intro": "There are more trading and markets bots in the public catalogues than you might expect, ranging from earnings-calendar watchers to templates that will happily tell you whether to buy. They are worth separating carefully. Monitoring is a real job a bot does well: watching a watchlist, flagging earnings dates, summarising a filing, noticing an unusual move and saying so. Advice is a different thing, and several listings here will produce a confident recommendation from a public price feed and a prompt, which is worth exactly what it costs. Nothing on this site executes a trade, and templates that claim to place orders should be treated with more suspicion than interest. Read what a bot is actually connected to. A markets bot with no data subscription is summarising the same free sources you could read yourself, more fluently and no more reliably.",
+  "relatedJobs": [
+    "expense-management",
+    "ai-news-monitoring"
+  ],
+  "integrations": [],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "inbox-management",
+  "title": "Inbox Management",
+  "category": "business-operations",
+  "searchIntent": "grok bot to clean up my inbox",
+  "intro": "Email is the job people most want handed over, and it is the one with the most bots chasing it — triage, bulk unsubscribes, drafting replies, and the recurring sweep that stops the mess coming back. The useful split is between a one-off clear-out and a standing arrangement: clearing 40,000 unread is a single afternoon's work for a bot, whereas keeping the inbox at zero is a scheduled routine that runs weekly and reports what it did. Most listings here do one or the other, rarely both well. The thing to check before installing any of them is what the bot is allowed to do without asking. A bot that archives on its own judgement is genuinely useful; a bot that can send on your behalf is a different risk, because a malformed email is an instruction as far as an agent is concerned. Prefer the ones that propose and wait.",
+  "relatedJobs": [
+    "daily-briefing",
+    "chief-of-staff",
+    "second-brain"
+  ],
+  "integrations": [
+    "gmail"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

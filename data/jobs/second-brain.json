@@ -1,0 +1,18 @@
+{
+  "slug": "second-brain",
+  "title": "Second Brain",
+  "category": "personal",
+  "searchIntent": "grok bot for notes and memory",
+  "intro": "A second-brain bot is a place to put things and, more importantly, something that can find them again. The category exists because Grok Bots keep persistent memory and files, which makes them a plausible home for the accumulated notes, links and half-thoughts most people scatter across four apps. The listings here fall into two groups: ones that organise what you deliberately file, and ones that watch a source and file things for you. The second is more useful and much harder to get right, since an automatic filer with poor judgement produces an archive you trust less than the mess it replaced. Worth knowing before you commit: this is the job where switching costs are highest. A bot holding two years of your notes is one you are stuck with, so weigh whether you can get the contents back out.",
+  "relatedJobs": [
+    "inbox-management",
+    "study-help",
+    "meeting-notes"
+  ],
+  "integrations": [
+    "notion"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

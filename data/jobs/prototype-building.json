@@ -13,7 +13,10 @@
       "rank": 1
     }
   ],
-  "relatedJobs": ["security-questionnaires"],
+  "relatedJobs": [
+    "code-review",
+    "bug-reproduction"
+  ],
   "integrations": [],
   "publish": true
 }

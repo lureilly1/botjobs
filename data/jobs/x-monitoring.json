@@ -1,0 +1,18 @@
+{
+  "slug": "x-monitoring",
+  "title": "X Monitoring",
+  "category": "marketing",
+  "searchIntent": "grok bot to monitor x mentions",
+  "intro": "Grok Bot has first-party access to X, which makes this one of the few jobs where the platform advantage is real rather than incidental — these bots can search posts, read timelines and pull trends without a scraping arrangement that breaks. The listings cover mention tracking, reply triage, buying-signal detection and keeping an eye on specific accounts. The category divides on whether the bot writes. Watching is low-risk and works well. Replying on your behalf is where things go wrong, and not subtly: a bot that answers mentions is a bot that can be prompted by anyone who works out it exists. If you want one that posts, look for an approval step, and treat the absence of one as the main fact about that listing rather than a detail.",
+  "relatedJobs": [
+    "content-writing",
+    "ai-news-monitoring",
+    "competitor-monitoring"
+  ],
+  "integrations": [
+    "x"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

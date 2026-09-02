@@ -1,0 +1,18 @@
+{
+  "slug": "customer-support",
+  "title": "Customer Support",
+  "category": "business-operations",
+  "searchIntent": "grok bot for customer support",
+  "intro": "Support is the oldest use case in the automation business, so the bots here are more familiar than most: triaging incoming tickets, drafting responses from documentation, spotting the account that has gone quiet, routing the thing that needs a person. The mature pattern is triage rather than resolution. Sorting and drafting is reliable and reversible; answering customers directly is neither, and the failure is public. The listings worth attention are the ones that know when to stop — a bot that escalates on uncertainty is more valuable than one that answers everything, even though the second demos better. Note also that support bots read customer data by design, so what a template is connected to and what it retains are the first questions to ask, ahead of how good the drafts are.",
+  "relatedJobs": [
+    "inbox-management",
+    "bug-reproduction",
+    "crm-hygiene"
+  ],
+  "integrations": [
+    "slack"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

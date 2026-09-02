@@ -1,0 +1,17 @@
+{
+  "slug": "code-review",
+  "title": "Code Review",
+  "category": "engineering",
+  "searchIntent": "grok bot to review pull requests",
+  "intro": "Engineering bots cluster around the parts of the work that are legible and repetitive: reviewing a diff, reproducing a reported bug, triaging issues, keeping dependencies current. Review is the strongest of these because the input is bounded — a pull request is a finite thing with a clear question attached — and because a wrong answer is cheap, since a human is reading the comment anyway. That is a much better risk profile than a bot that writes and merges. The listings vary in how much they assume about your repository. Some want conventions declared up front and are useless without that; others review generically and produce the sort of comment that could apply to any codebase, which teams learn to scroll past. Judge them on whether the feedback is specific enough that ignoring it would be a decision.",
+  "relatedJobs": [
+    "prototype-building",
+    "bug-reproduction"
+  ],
+  "integrations": [
+    "github"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}

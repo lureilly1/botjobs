@@ -1,0 +1,19 @@
+{
+  "slug": "lead-generation",
+  "title": "Lead Generation",
+  "category": "sales",
+  "searchIntent": "grok bot to find leads",
+  "intro": "Prospecting bots are well represented here, which is unsurprising — the job is repetitive, the output is easy to measure, and someone is usually paying for the tool it replaces. The honest division is between finding and contacting. Finding is where a bot does real work: watching for the buying signals you have described, pulling public information about a company, keeping a list current. Contacting is where the category earns its reputation, and most of what makes outbound bad is the ease of sending. Bots that draft for your review are a different proposition from bots that send on a schedule. The other thing worth checking is where the data comes from. Several listings here are a thin wrapper over a search, and a lead list assembled from whatever ranked highly this morning is not research, however well formatted it arrives.",
+  "relatedJobs": [
+    "account-research",
+    "crm-hygiene",
+    "competitor-monitoring"
+  ],
+  "integrations": [
+    "linkedin",
+    "x"
+  ],
+  "introCurated": true,
+  "bots": [],
+  "publish": true
+}
