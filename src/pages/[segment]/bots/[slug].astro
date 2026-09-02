@@ -27,6 +27,7 @@ const alsoListedOn = (bot.listings ?? []).filter((l) => l.name !== bot.discovere
   description={bot.description.slice(0, 155)}
   canonical={urls.bot(bot.slug)}
   noindex={!isBotIndexable(bot)}
+  ogImage={isBotIndexable(bot) ? `/og/bot-${bot.slug}.png` : undefined}
 >
   {
     isBotIndexable(bot) && (

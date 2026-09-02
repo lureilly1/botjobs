@@ -32,7 +32,12 @@ const description = isOpen
   : `${bots.length} Grok ${bots.length === 1 ? 'Bot' : 'Bots'} for ${job.title.toLowerCase()}, with sources and evidence for each.`;
 ---
 
-<Base title={title} description={description} canonical={urls.job(job.slug)}>
+<Base
+  title={title}
+  description={description}
+  canonical={urls.job(job.slug)}
+  ogImage={`/og/job-${job.slug}.png`}
+>
   <JsonLd
     data={[
       jobPageNode(job, bots.length),

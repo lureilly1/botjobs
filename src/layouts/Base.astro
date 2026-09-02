@@ -19,12 +19,14 @@ const {
   description = SITE.description,
   canonical,
   noindex = false,
-  ogImage,
+  ogImage = '/og/default.png',
 } = Astro.props;
 
 const canonicalUrl = new URL(canonical ?? Astro.url.pathname, SITE.url).href;
 const fullTitle = title === SITE.name ? title : `${title} · ${SITE.name}`;
-const ogImageUrl = ogImage ? new URL(ogImage, SITE.url).href : undefined;
+// Every page gets a card. Jobs and placed bots have their own; everything else
+// falls back to the default, so a shared link is never a bare grey box.
+const ogImageUrl = new URL(ogImage, SITE.url).href;
 ---
 
 <!doctype html>
@@ -42,8 +44,10 @@ const ogImageUrl = ogImage ? new URL(ogImage, SITE.url).href : undefined;
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonicalUrl} />
-    {ogImageUrl && <meta property="og:image" content={ogImageUrl} />}
-    <meta name="twitter:card" content={ogImageUrl ? 'summary_large_image' : 'summary'} />
+    <meta property="og:image" content={ogImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <!-- Light mode only, so there is no theme script and no inline JS at all. -->
