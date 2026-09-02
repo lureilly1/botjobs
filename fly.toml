@@ -4,9 +4,9 @@
 #
 
 app = 'botjobs'
-# Must be the region the volume is in — a machine can only attach a volume in
-# its own region, so a mismatch fails the deploy. The volume was created in cdg.
-primary_region = 'cdg'
+# Must be the region the attached volume is in — a machine can only mount a
+# volume in its own region. The machine and its volume are both in lhr.
+primary_region = 'lhr'
 
 [build]
 [env]
