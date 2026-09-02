@@ -21,7 +21,11 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "youtube",
+    "x",
+    "spotify"
+  ],
   "tags": [
     "personal",
     "creator",

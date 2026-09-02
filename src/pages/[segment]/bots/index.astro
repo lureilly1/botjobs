@@ -2,7 +2,7 @@
 import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { PATH_SEGMENT, urls } from '@/config';
-import { getBots, jobsForBot } from '@/lib/data';
+import { getBots, jobsForBot, liveIntegrations } from '@/lib/data';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
@@ -13,6 +13,7 @@ const bots = (await getBots()).filter((b) => b.description);
 const placed = bots.filter((b) => jobsForBot(b.slug).length > 0);
 const unplaced = bots.filter((b) => jobsForBot(b.slug).length === 0);
 const verified = bots.filter((b) => b.evidenceLevel === 'link-verified').length;
+const integrations = liveIntegrations();
 ---
 
 <Base
@@ -33,6 +34,27 @@ const verified = bots.filter((b) => b.evidenceLevel === 'link-verified').length;
   </section>
 
   <div class="mx-auto max-w-6xl px-4 pb-20 sm:px-6">
+    {
+      integrations.length > 0 && (
+        <div class="mb-10">
+          <h2 class="eyebrow text-muted-foreground">By what they connect to</h2>
+          <ul class="mt-2.5 flex flex-wrap gap-2">
+            {integrations.map((i) => (
+              <li>
+                <a
+                  href={urls.integration(i.slug)}
+                  class="border-ink bg-card hover:bg-hi-vis/25 inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+                >
+                  {i.label}
+                  <span class="text-muted-foreground font-mono text-xs"> {i.count}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+
     <h2 class="mb-3 text-lg">Placed ({placed.length})</h2>
     <ul class="border-ink bg-card rule-list mb-12 overflow-hidden rounded-lg border-[1.5px]">
       {
@@ -58,21 +80,29 @@ const verified = bots.filter((b) => b.evidenceLevel === 'link-verified').length;
 
     <h2 class="mb-1 text-lg">On file ({unplaced.length})</h2>
     <p class="text-muted-foreground mb-3 text-sm">
-      Catalogued and link-checked, but not yet a good enough fit for any job on the board.
+      Catalogued and link-checked, but not yet a good enough fit for any job on the board. These
+      pages carry <code class="font-mono text-xs">noindex</code> until they are, so the list is
+      collapsed rather than firing {unplaced.length} links at pages we have asked not to index.
     </p>
-    <ul class="flex flex-wrap gap-2">
-      {
-        unplaced.map((bot) => (
-          <li>
-            <a
-              href={urls.bot(bot.slug)}
-              class="border-border bg-card text-muted-foreground hover:border-ink hover:text-foreground inline-block rounded-full border px-3 py-1.5 text-[13px] transition-colors"
-            >
-              {bot.name}
-            </a>
-          </li>
-        ))
-      }
-    </ul>
+    <details class="border-border rounded-lg border border-dashed p-4">
+      <summary class="cursor-pointer text-sm font-semibold">
+        Browse all {unplaced.length}
+      </summary>
+      <ul class="mt-4 flex flex-wrap gap-2">
+        {
+          unplaced.map((bot) => (
+            <li>
+              <a
+                href={urls.bot(bot.slug)}
+                rel="nofollow"
+                class="border-border bg-card text-muted-foreground hover:border-ink hover:text-foreground inline-block rounded-full border px-3 py-1.5 text-[13px] transition-colors"
+              >
+                {bot.name}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </details>
   </div>
 </Base>

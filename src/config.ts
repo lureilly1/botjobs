@@ -44,6 +44,7 @@ export const urls = {
   bots: () => `/${PATH_SEGMENT}/bots`,
   bot: (slug: string) => `/${PATH_SEGMENT}/bots/${slug}`,
   category: (slug: string) => `/${PATH_SEGMENT}/categories/${slug}`,
+  integration: (slug: string) => `/${PATH_SEGMENT}/integrations/${slug}`,
   guide: (slug: string) => `/${PATH_SEGMENT}/guides/${slug}`,
   search: (q?: string) => `/${PATH_SEGMENT}/search${q ? `?q=${encodeURIComponent(q)}` : ''}`,
   submit: () => '/submit',

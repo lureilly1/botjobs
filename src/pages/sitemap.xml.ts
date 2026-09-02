@@ -1,6 +1,6 @@
 import type { APIRoute } from 'astro';
 import { SITE, urls } from '@/config';
-import { getJobs, getBots, isBotIndexable } from '@/lib/data';
+import { getJobs, getBots, isBotIndexable, liveIntegrations } from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
 
 /**
@@ -24,7 +24,14 @@ export const GET: APIRoute = async () => {
     { path: urls.openJobs(), priority: '0.8' },
     { path: urls.bots(), priority: '0.6' },
     { path: urls.submit(), priority: '0.5' },
+    { path: '/methodology', priority: '0.8' },
   ];
+
+  // Integration pages target queries the SERP shows are contested by vendor
+  // articles rather than directories, and they only exist where supply allows.
+  for (const { slug } of liveIntegrations()) {
+    entries.push({ path: urls.integration(slug), priority: '0.8' });
+  }
 
   // Category pages are stable groupings with their own content, unlike search
   // results, so they index. Only those that actually have jobs.

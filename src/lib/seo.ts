@@ -47,6 +47,42 @@ export function jobPageNode(job: Job, botCount: number) {
   };
 }
 
+/**
+ * FAQPage from what a job page already answers.
+ *
+ * Only emitted where the page genuinely contains the answer — the intro is
+ * hand-written editorial about what the job involves and what to check, so the
+ * markup describes real content rather than inventing questions to qualify for
+ * a rich result.
+ */
+export function jobFaqNode(job: Job, botCount: number) {
+  const first = job.intro.split(/(?<=\.)\s+/).slice(0, 3).join(' ');
+  const qa: Array<[string, string]> = [
+    [`What does ${job.title.toLowerCase()} involve?`, first],
+  ];
+
+  if (botCount > 0) {
+    qa.push([
+      `Is there a Grok Bot for ${job.title.toLowerCase()}?`,
+      `Yes — we put ${botCount} forward for this job, each with the reasoning for why it fits and the caveat that comes with it. Every listing is checked against its official x.ai page.`,
+    ]);
+  } else {
+    qa.push([
+      `Is there a Grok Bot for ${job.title.toLowerCase()}?`,
+      `Not yet. We have not found one good enough to recommend, so this stays listed as an open job rather than being filled with something that does not do the work.`,
+    ]);
+  }
+
+  return {
+    '@type': 'FAQPage',
+    mainEntity: qa.map(([question, answer]) => ({
+      '@type': 'Question',
+      name: question,
+      acceptedAnswer: { '@type': 'Answer', text: answer },
+    })),
+  };
+}
+
 export function collectionNode(opts: {
   name: string;
   path: string;

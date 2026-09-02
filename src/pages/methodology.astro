@@ -1,0 +1,169 @@
+---
+import Base from '@/layouts/Base.astro';
+import JsonLd from '@/components/JsonLd.astro';
+import { Badge } from '@/components/ui/badge';
+import { buttonVariants } from '@/components/ui/button';
+import { SITE, urls, EVIDENCE, REPO } from '@/config';
+import { getJobs, getBots } from '@/lib/data';
+import { breadcrumbs } from '@/lib/seo';
+
+const [jobs, bots] = await Promise.all([getJobs(), getBots()]);
+const verified = bots.filter((b) => b.evidenceLevel === 'link-verified').length;
+const open = jobs.filter((j) => j.status === 'open').length;
+const bothCatalogues = bots.filter((b) => (b.listings ?? []).length > 1).length;
+const creators = new Set(bots.map((b) => b.creator.handle ?? b.creator.name)).size;
+
+const stats = [
+  { n: bots.length, label: 'bots on file' },
+  { n: verified, label: 'listings reconciled' },
+  { n: bothCatalogues, label: 'on both catalogues' },
+  { n: creators, label: 'creators credited' },
+];
+---
+
+<Base
+  title="Methodology — how listings are gathered, checked and ranked"
+  description="How Bot Jobs gathers Grok Bots from public catalogues, reconciles each listing against the official x.ai page, ranks candidates against a job, and what our evidence labels do and do not claim."
+  canonical="/methodology"
+>
+  <JsonLd data={breadcrumbs([{ name: 'Methodology', path: '/methodology' }])} />
+
+  <article class="mx-auto max-w-3xl px-4 pt-12 pb-20 sm:px-6 sm:pt-16">
+    <p class="eyebrow text-muted-foreground">How this works</p>
+    <h1 class="mt-3 text-[2.25rem] leading-[1.02] sm:text-5xl">
+      What we <span class="marker">check</span>, and what we don't
+    </h1>
+    <p class="prose-editorial mt-5">
+      Bot Jobs is a directory of things people get Grok Bot to do. This page explains where the
+      listings come from, what each evidence label means, how candidates are ranked, and — the
+      part most directories leave out — the limits of all of it.
+    </p>
+
+    <dl class="border-border mt-10 grid grid-cols-2 gap-px border-y sm:grid-cols-4">
+      {
+        stats.map(({ n, label }) => (
+          <div class="py-4">
+            <dt class="font-display text-3xl font-extrabold tracking-tight">{n}</dt>
+            <dd class="eyebrow text-muted-foreground mt-1">{label}</dd>
+          </div>
+        ))
+      }
+    </dl>
+
+    <h2 class="mt-12 text-2xl">Where listings come from</h2>
+    <div class="prose-editorial mt-3 space-y-4">
+      <p>
+        Bots are ingested from the public catalogues that publish machine-readable APIs —
+        currently <strong>grokbot.dev</strong> and <strong>bot.store</strong> — using their
+        documented endpoints rather than scraping. Every record names the catalogue it was found
+        in and links to it.
+      </p>
+      <p>
+        Both catalogues are read, which is unusual: none of the directories in this space index
+        each other. {bothCatalogues} of our records appear on both, and the rest exist on only one
+        — so the union is more complete than either source alone.
+      </p>
+      <p>
+        We take facts and nothing else: the official share URL, the creator, the originating post,
+        tags. We never take a catalogue's write-up. Descriptions on this site are ours, written
+        from the creator's own official listing, and a record cannot be published until somebody
+        has written one.
+      </p>
+    </div>
+
+    <h2 class="mt-10 text-2xl">What the evidence labels mean</h2>
+    <p class="prose-editorial mt-3">
+      Three levels. They answer different questions, and the top one is narrower than it sounds.
+    </p>
+    <dl class="rule-list border-ink mt-4 rounded-lg border-[1.5px]">
+      {
+        (Object.keys(EVIDENCE) as Array<keyof typeof EVIDENCE>).map((level) => (
+          <div class="p-4 sm:px-5">
+            <dt class="flex items-center gap-2.5">
+              <Badge variant={level}>
+                <span class="size-1.5 rounded-full bg-current" aria-hidden="true" />
+                {EVIDENCE[level].label}
+              </Badge>
+            </dt>
+            <dd class="text-muted-foreground mt-2 text-sm/relaxed">{EVIDENCE[level].blurb}</dd>
+          </div>
+        ))
+      }
+    </dl>
+
+    <div class="outlined bg-card mt-6 rounded-lg p-5">
+      <h3 class="text-lg">The limit, stated plainly</h3>
+      <p class="prose-editorial mt-2 text-sm">
+        <strong>“References checked” does not mean we ran the bot.</strong> It means we fetched
+        its official x.ai page, confirmed it resolves, and captured what xAI says about it. We
+        have not watched any of these bots work. If you repeat something from this site, repeat
+        that distinction with it — a checked listing is not a tested bot, and we would rather be
+        useful than impressive.
+      </p>
+    </div>
+
+    <h2 class="mt-10 text-2xl">Why reconciliation matters</h2>
+    <div class="prose-editorial mt-3 space-y-4">
+      <p>
+        Every listing is checked against the official x.ai page rather than trusted from the
+        catalogue. That is not a formality. Catalogues disagree with the source of truth: one bot
+        is listed elsewhere as “Forge (dev factory)” while xAI calls it “Forge by Daniel”, and
+        dozens more differ in the same way.
+      </p>
+      <p>
+        More usefully, it catches bots that no longer exist. <strong>We have found install links
+        that are dead while other directories still list them as live.</strong> A directory whose
+        whole promise is “here is a bot you can add” is worth nothing if the link 404s, so the
+        check runs weekly and a bot that fails three times in a row is unpublished.
+      </p>
+    </div>
+
+    <h2 class="mt-10 text-2xl">How candidates are ranked</h2>
+    <div class="prose-editorial mt-3 space-y-4">
+      <p>
+        A job page shows the bots we would actually put forward for that job, best fit first, each
+        with a stated reason and its honest caveat. Ranking is comparative — candidates are
+        assessed against each other for a specific job, not scored in isolation.
+      </p>
+      <p>
+        Fit scores are <strong>our editorial judgement</strong>. They are not user ratings, and
+        there are no ratings or reviews anywhere on this site, because we have no users to collect
+        them from. Inventing them would be the easiest way to look authoritative and the fastest
+        way to stop being trustworthy.
+      </p>
+      <p>
+        Rejection is the default. Most bots fit most jobs badly, and a directory that maps
+        everything to something has thrown away the only reason to read it. {open} jobs currently
+        have no candidate at all and are listed as <a href={urls.openJobs()} class="underline underline-offset-2">open</a>
+        rather than filled with something that does not do the work.
+      </p>
+    </div>
+
+    <h2 class="mt-10 text-2xl">What we will not do</h2>
+    <ul class="prose-editorial mt-3 space-y-2">
+      <li>— Reproduce template contents, prompt bodies or reconstructed configuration. The
+        official share link is the only install route and it belongs to the creator.</li>
+      <li>— Republish another directory's description as our own.</li>
+      <li>— Show star ratings or review counts we did not collect.</li>
+      <li>— Require a link back, or make inclusion conditional on anything.</li>
+      <li>— Argue about removals. Ask and it goes, within 48 hours.</li>
+    </ul>
+
+    <h2 class="mt-10 text-2xl">Check it yourself</h2>
+    <p class="prose-editorial mt-3">
+      Every record is a file in a public repository, so the data, its history and every correction
+      are readable without asking us. The datasets are also available as JSON.
+    </p>
+    <div class="mt-5 flex flex-wrap gap-2.5">
+      <a href={REPO} rel="noopener" class={buttonVariants({ size: 'sm' })}>Read the records</a>
+      <a href="/api/jobs.json" class={buttonVariants({ variant: 'secondary', size: 'sm' })}>jobs.json</a>
+      <a href="/api/bots.json" class={buttonVariants({ variant: 'secondary', size: 'sm' })}>bots.json</a>
+      <a href="/llms.txt" class={buttonVariants({ variant: 'secondary', size: 'sm' })}>llms.txt</a>
+    </div>
+
+    <p class="text-muted-foreground border-border mt-10 border-t pt-6 text-xs leading-relaxed">
+      Corrections and removals: <a href={urls.report('')} class="underline underline-offset-2">{SITE.domain}/report</a>.
+      Independent project, not affiliated with or endorsed by xAI.
+    </p>
+  </article>
+</Base>

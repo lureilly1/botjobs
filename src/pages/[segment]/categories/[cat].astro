@@ -5,7 +5,7 @@ import JsonLd from '@/components/JsonLd.astro';
 import { Badge } from '@/components/ui/badge';
 import { PATH_SEGMENT, urls } from '@/config';
 import { getJobs, bestEvidence } from '@/lib/data';
-import { CATEGORIES } from '@/lib/records.js';
+import { CATEGORIES, CATEGORY_INTROS } from '@/lib/records.js';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
@@ -54,9 +54,11 @@ const candidates = jobs.reduce((n, j) => n + j.bots.length, 0);
       <span class="marker">{label}</span>
     </h1>
     <p class="prose-editorial mt-4">
-      {jobs.length} job{jobs.length === 1 ? '' : 's'} in this area, with {candidates} candidate
-      {candidates === 1 ? '' : 's'} between them. Each page ranks the bots we would actually put
-      forward and says why.
+      {(CATEGORY_INTROS as Record<string, string>)[cat]}
+    </p>
+    <p class="text-muted-foreground mt-4 font-mono text-sm">
+      {jobs.length} job{jobs.length === 1 ? '' : 's'} · {candidates} candidate
+      {candidates === 1 ? '' : 's'} between them
     </p>
   </section>
 

@@ -16,7 +16,9 @@ Allow: /
 Disallow: /report
 
 Sitemap: ${new URL('/sitemap.xml', SITE.url).href}
+Llms-Txt: ${new URL('/llms.txt', SITE.url).href}
 
+# Machine-readable: /llms.txt, /api/jobs.json, /api/bots.json
 # Bot Jobs is an independent directory. Records are public files:
 # https://github.com/lureilly1/botjobs
 # Listings link to official x.ai share URLs and never reproduce template

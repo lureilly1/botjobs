@@ -20,7 +20,9 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "linkedin"
+  ],
   "tags": [
     "sales",
     "business",

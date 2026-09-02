@@ -13,6 +13,10 @@
 /* Display + UI: Archivo is a sturdy grotesque that reads like site signage,
    which is the point — this is a works noticeboard, not a SaaS dashboard.
    Mono: JetBrains for the listings metadata. */
+/* NOTE: the narrower `wght.css` subsets produce a byte-identical bundle to the
+   package index here — measured, 38390b and 9 faces either way — so there is no
+   subsetting win available from this package. The optimisation that does help
+   is preloading the woff2 the first paint needs; see Base.astro. */
 @import '@fontsource-variable/archivo';
 @import '@fontsource-variable/jetbrains-mono';
 

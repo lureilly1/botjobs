@@ -33,6 +33,58 @@ export const CATEGORIES = {
   personal: 'Personal, Home & Travel',
 };
 
+/**
+ * Editorial for each category page.
+ *
+ * A category page listing five links and nothing else is thinner than the bot
+ * pages it links to, and it was indexed — so it was a liability rather than an
+ * asset. These are hand-written for the same reason the job intros are.
+ */
+export const CATEGORY_INTROS = {
+  'business-operations': "Back-office work is where an always-on agent looks most obviously useful and disappoints most often. The jobs here are repetitive, rule-shaped and unloved — triaging mail, preparing for meetings, chasing the things nobody owns — which is exactly the shape a bot handles well. What separates the ones people keep from the ones they uninstall is restraint: a bot that reports everything gets skimmed and then ignored, and a bot that acts without asking eventually acts wrongly on something that mattered. Look for the ones that decide what not to tell you.",
+  sales: "Sales is the best-supplied category on this site, which follows from the work: it is repetitive, the output is measurable, and someone is usually already paying for a tool it might replace. The useful division is between finding and contacting. Finding — watching for buying signals, keeping a list current, working out who actually decides — is where a bot does real work. Contacting is where the category earns its reputation, and the ease of sending is most of what makes outbound bad. Bots that draft for review are a different proposition from bots that send on a schedule.",
+  marketing: "Marketing jobs split neatly into watching and making. Watching suits a scheduled bot almost perfectly — competitors, mentions, rankings and trends are fixed sources checked on a cadence, and the value is entirely in noticing a change you would otherwise have missed. Making is harder. Writing bots are the easiest thing to build and the hardest to keep, and the constraint is voice: a bot given examples of your writing produces something recognisably yours, while a bot given a topic produces something recognisably nobody's.",
+  finance: "Financial admin is monthly, rule-following and thoroughly unloved, which makes it a natural fit. The jobs here handle receipts, invoice matching, forgotten subscriptions and getting the month closed before the deadline — work where being finished on time matters more than being done cleverly. Two cautions apply throughout. This is financial data, so read carefully what a template asks for access to, and be precise about the difference between reading a statement and acting on an account. And expect to correct the categorisation for the first couple of months: the rules are personal.",
+  research: "Monitoring is the job an always-on agent is genuinely better at than a person, for one unglamorous reason: it is patient. Checking the same sources every morning, noticing the thing that changed, and staying quiet when nothing did is work humans do badly and briefly. The difference between a monitor worth keeping and one you mute is a threshold. A bot that reports every release produces a newsletter you stop opening; a bot that reports only what changes a decision you have already made stays useful indefinitely. Few templates set that up for you.",
+  engineering: "Engineering bots cluster around the parts of the work that are legible and bounded — reviewing a diff, reproducing a reported bug, triaging issues, keeping dependencies current. Review is the strongest of them because a pull request is a finite thing with a clear question attached and a wrong answer is cheap, since a human reads the comment anyway. That is a far better risk profile than a bot that writes and merges. Judge these on whether the output is specific enough that ignoring it would count as a decision.",
+  personal: "The consumer side of this ecosystem is larger than anyone predicted, and it is where the most genuinely novel bots live: houses that watch their own electricity rates, shopping that waits for a price, study that remembers what you got wrong last week. These templates are highly personal — most were built for one household and shared afterwards — so expect to rewrite the specifics rather than install and go. The recurring design question is how much the bot is allowed to actuate, and it is worth answering before rather than after.",
+};
+
+/**
+ * Integration pages exist only where the data supports one.
+ *
+ * The SERP for "grok bot for gmail" is contested by vendor content marketing
+ * rather than directories, which makes these worth targeting — but only where
+ * there are enough real candidates to say something. A page per integration
+ * regardless of supply is the thin-content pattern, so membership needs at
+ * least MIN_BOTS on file and MIN_PLACED actually put forward for a job.
+ */
+export const INTEGRATION_MIN_BOTS = 6;
+export const INTEGRATION_MIN_PLACED = 3;
+
+export const INTEGRATIONS = {
+  gmail: {
+    label: 'Gmail',
+    intro: "Email is the most contested job in this ecosystem and Gmail is where nearly all of it happens. The bots here divide on a line worth understanding before you install one: a single clear-out is an afternoon's work and a standing arrangement is a scheduled routine, and most templates do one or the other rather than both. The thing to check is what the bot may do unasked. Archiving on its own judgement is genuinely useful; sending on your behalf is a different risk, because a malformed email is an instruction as far as an agent is concerned.",
+  },
+  x: {
+    label: 'X',
+    intro: "X is the one integration where Grok Bot has a structural advantage rather than an incidental one — it reads posts, timelines, mentions and trends first-party, with no scraping arrangement to break. That makes watching genuinely reliable, and watching is most of what these bots are good for. Posting is where the category gets into trouble, and not subtly: a bot that answers mentions can be prompted by anyone who works out it exists. If you want one that writes, treat the absence of an approval step as the main fact about that listing.",
+  },
+  linkedin: {
+    label: 'LinkedIn',
+    intro: "Almost every LinkedIn bot here is doing sales research: working out who someone is, what they have posted recently, and what they are likely to care about before a conversation. That is the useful half. The other half is posting and connecting at volume, which LinkedIn itself is increasingly hostile to and which produces the kind of output everyone has learned to scroll past. Worth knowing that access here is less stable than the other integrations on this site — a bot that signs in on your behalf is one platform policy change away from stopping.",
+  },
+  github: {
+    label: 'GitHub',
+    intro: "Repository work suits an agent because the inputs are bounded and the failures are cheap: a pull request is a finite thing with a clear question attached, and a human reads the comment either way. The bots here review diffs, triage issues, chase dependencies and — at the ambitious end — open pull requests unattended overnight. The distinction that matters is between proposing and merging. A bot that leaves you something to read is a much smaller decision than one with write access to your default branch.",
+  },
+  notion: {
+    label: 'Notion',
+    intro: "Notion bots are mostly filing systems: taking what you already write down and putting it somewhere findable, or watching a source and filing on your behalf. The second is more useful and considerably harder to get right, since an automatic filer with poor judgement produces an archive you trust less than the mess it replaced. Worth thinking about before you commit, because this is the category where switching costs are highest — a bot holding two years of your notes is one you are stuck with.",
+  },
+};
+
 /** An intro shorter than this is not editorial, it is a placeholder. */
 const MIN_INTRO_CHARS = 250;
 

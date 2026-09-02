@@ -7,7 +7,7 @@ import { PATH_SEGMENT, urls, issueUrl } from '@/config';
 import { getJob, getJobs, botsForJob } from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
 import JsonLd from '@/components/JsonLd.astro';
-import { breadcrumbs, jobPageNode } from '@/lib/seo';
+import { breadcrumbs, jobPageNode, jobFaqNode } from '@/lib/seo';
 
 // The path segment is a constant, not a literal scattered through routes, so
 // a product rename costs a config change. A request on any other segment is
@@ -22,6 +22,16 @@ const allJobs = await getJobs();
 const related = job.relatedJobs
   .map((slug) => allJobs.find((j) => j.slug === slug))
   .filter((j): j is NonNullable<typeof j> => Boolean(j));
+
+// The spec wanted 3-8 related jobs per page and the hand-written relatedJobs
+// average 2-3. Topping up with siblings from the same category gets the
+// topical cluster the internal-link graph is supposed to form, and gives
+// category pages the inbound links they were missing.
+const siblings = allJobs
+  .filter((j) => j.category === job.category && j.slug !== job.slug)
+  .filter((j) => !job.relatedJobs.includes(j.slug))
+  .sort((a, b) => b.bots.length - a.bots.length)
+  .slice(0, Math.max(0, 6 - job.relatedJobs.length));
 
 const isOpen = job.status === 'open';
 const categoryLabel = CATEGORIES[job.category] ?? job.category;
@@ -41,6 +51,7 @@ const description = isOpen
   <JsonLd
     data={[
       jobPageNode(job, bots.length),
+      jobFaqNode(job, bots.length),
       breadcrumbs([
         { name: 'Jobs', path: urls.jobs() },
         { name: categoryLabel },
@@ -166,8 +177,9 @@ const description = isOpen
       related.length > 0 && (
         <section class="mt-10">
           <h2 class="eyebrow text-muted-foreground">Related jobs</h2>
+          <p class="sr-only">Other jobs in {categoryLabel}</p>
           <ul class="mt-2.5 flex flex-wrap gap-2">
-            {related.map((r) => (
+            {[...related, ...siblings].map((r) => (
               <li>
                 <a
                   href={urls.job(r.slug)}
@@ -182,6 +194,20 @@ const description = isOpen
         </section>
       )
     }
+
+    <section class="mt-10">
+      <h2 class="eyebrow text-muted-foreground">Browse</h2>
+      <ul class="mt-2.5 flex flex-wrap gap-2">
+        <li>
+          <a
+            href={urls.category(job.category)}
+            class="border-ink bg-hi-vis/25 hover:bg-hi-vis inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+          >
+            All {categoryLabel} jobs
+          </a>
+        </li>
+      </ul>
+    </section>
 
     <section class="border-border text-muted-foreground mt-12 border-t pt-6 text-xs leading-relaxed">
       <p>

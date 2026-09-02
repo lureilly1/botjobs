@@ -21,7 +21,10 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "gmail",
+    "google-drive"
+  ],
   "tags": [
     "personal",
     "monitoring",

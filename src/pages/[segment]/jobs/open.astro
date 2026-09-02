@@ -3,6 +3,8 @@ import Base from '@/layouts/Base.astro';
 import { buttonVariants } from '@/components/ui/button';
 import { PATH_SEGMENT, urls, issueUrl } from '@/config';
 import { getJobs } from '@/lib/data';
+import JsonLd from '@/components/JsonLd.astro';
+import { breadcrumbs, collectionNode } from '@/lib/seo';
 import { CATEGORIES } from '@/lib/records.js';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
@@ -13,6 +15,10 @@ if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 4
 const open = (await getJobs())
   .filter((j) => j.status === 'open')
   .sort((a, b) => a.title.localeCompare(b.title));
+
+// Dated so it can be cited as a snapshot rather than a moving index — a
+// newsletter can write "as of September 2026" and be accurate.
+const asOf = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
 ---
 
 <Base
@@ -21,7 +27,21 @@ const open = (await getJobs())
   canonical={urls.openJobs()}
 >
   <section class="mx-auto max-w-6xl px-4 pt-12 pb-10 sm:px-6 sm:pt-16">
-    <p class="eyebrow text-muted-foreground">{open.length} open positions</p>
+    <JsonLd
+      data={[
+        collectionNode({
+          name: `Grok Bots that don't exist yet — ${asOf}`,
+          path: urls.openJobs(),
+          description: `${open.length} jobs people want a Grok Bot for that nobody has built one for.`,
+          items: open.map((j) => ({ name: j.title, path: urls.job(j.slug) })),
+        }),
+        breadcrumbs([
+          { name: 'Jobs', path: urls.jobs() },
+          { name: 'Open jobs', path: urls.openJobs() },
+        ]),
+      ]}
+    />
+    <p class="eyebrow text-muted-foreground">{open.length} open positions · {asOf}</p>
     <h1 class="mt-3 max-w-3xl text-[2.25rem] leading-[1.02] sm:text-5xl">
       Grok Bots that <span class="marker">don't exist</span> yet
     </h1>
@@ -31,12 +51,18 @@ const open = (await getJobs())
       on the page. Either way the vacancy stays open rather than being filled with something that
       does not do the work.
     </p>
-    <a
-      href={urls.submitBot()}
-      class={buttonVariants({ variant: 'hivis', size: 'sm', className: 'mt-6' })}
-    >
-      Built one? Put it forward
-    </a>
+    <div class="mt-6 flex flex-wrap items-center gap-2.5">
+      <a href={urls.submitBot()} class={buttonVariants({ variant: 'hivis', size: 'sm' })}>
+        Built one? Put it forward
+      </a>
+      <a href="/methodology" class={buttonVariants({ variant: 'secondary', size: 'sm' })}>
+        How we decide
+      </a>
+    </div>
+    <p class="text-muted-foreground mt-4 text-xs">
+      A snapshot as of {asOf}, from {(await getJobs()).length} jobs on the board. Cite it with a
+      link and the date — the list shrinks as bots get built, which is the point.
+    </p>
   </section>
 
   <div class="mx-auto grid max-w-6xl gap-4 px-4 pb-20 sm:grid-cols-2 sm:px-6">

@@ -20,7 +20,11 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "x",
+    "linkedin",
+    "youtube"
+  ],
   "tags": [
     "creator",
     "marketer",

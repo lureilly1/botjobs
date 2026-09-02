@@ -21,7 +21,9 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "shopify"
+  ],
   "tags": [
     "personal",
     "shopping",

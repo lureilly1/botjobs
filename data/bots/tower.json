@@ -19,7 +19,9 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "tesla"
+  ],
   "tags": [],
   "listings": [
     {

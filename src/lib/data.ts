@@ -1,4 +1,10 @@
-import { jobStatus, EVIDENCE_LEVELS } from './records.js';
+import {
+  jobStatus,
+  EVIDENCE_LEVELS,
+  INTEGRATIONS,
+  INTEGRATION_MIN_BOTS,
+  INTEGRATION_MIN_PLACED,
+} from './records.js';
 import type { EvidenceLevel } from '@/config';
 
 /**
@@ -48,7 +54,7 @@ export interface Bot {
     fetchedAt?: string;
   };
   categories: string[];
-  integrations: string[];
+  integrations?: string[];
   evidenceLevel: EvidenceLevel;
   linkStatus: 'live' | 'redirected' | 'dead';
   lastVerifiedAt?: string;
@@ -141,6 +147,32 @@ export function jobsForBot(botSlug: string): Array<{ job: Job; mapping: BotMappi
  */
 export function isBotIndexable(bot: Bot): boolean {
   return bot.linkStatus !== 'dead' && Boolean(bot.description) && jobsForBot(bot.slug).length > 0;
+}
+
+/**
+ * Integration slugs that clear the supply bar and therefore have a page.
+ *
+ * Computed rather than listed, so a page cannot exist without the bots to fill
+ * it — and the sitemap, the links and the route all agree by construction.
+ */
+export function liveIntegrations(): Array<{ slug: string; label: string; count: number }> {
+  return Object.entries(INTEGRATIONS as Record<string, { label: string }>)
+    .map(([slug, meta]) => {
+      const matching = allBots.filter((b) => (b.integrations ?? []).includes(slug) && b.description);
+      const placed = matching.filter((b) => jobsForBot(b.slug).length > 0);
+      return { slug, label: meta.label, count: matching.length, placed: placed.length };
+    })
+    .filter((i) => i.count >= INTEGRATION_MIN_BOTS && i.placed >= INTEGRATION_MIN_PLACED)
+    .sort((a, b) => b.count - a.count)
+    .map(({ slug, label, count }) => ({ slug, label, count }));
+}
+
+/** Integration pages a given bot belongs to. Used for cross-linking. */
+export function integrationsForBot(bot: Bot): Array<{ slug: string; label: string }> {
+  const live = new Map(liveIntegrations().map((i) => [i.slug, i.label]));
+  return (bot.integrations ?? [])
+    .filter((s) => live.has(s))
+    .map((s) => ({ slug: s, label: live.get(s)! }));
 }
 
 /**

@@ -21,7 +21,9 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "google-calendar"
+  ],
   "tags": [
     "personal",
     "productivity",

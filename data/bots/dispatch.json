@@ -21,7 +21,11 @@
     "fetchedAt": "2026-09-01"
   },
   "categories": [],
-  "integrations": [],
+  "integrations": [
+    "slack",
+    "linkedin",
+    "x"
+  ],
   "tags": [
     "business",
     "sales",

@@ -4,7 +4,8 @@ import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
 import { PATH_SEGMENT, urls, EVIDENCE } from '@/config';
-import { getBot, jobsForBot, isBotIndexable } from '@/lib/data';
+import { getBot, jobsForBot, isBotIndexable, integrationsForBot } from '@/lib/data';
+import { CATEGORIES } from '@/lib/records.js';
 import JsonLd from '@/components/JsonLd.astro';
 import { breadcrumbs, botPageNode } from '@/lib/seo';
 
@@ -20,11 +21,32 @@ const creatorLabel = bot.creator.handle ? `@${bot.creator.handle}` : bot.creator
 
 // "Also" means in addition to the discovery source, so exclude it from the list.
 const alsoListedOn = (bot.listings ?? []).filter((l) => l.name !== bot.discoveredVia.name);
+
+// A bare product name is the weakest possible title — "Inbox Zero · Bot Jobs"
+// tells a searcher nothing and matches no query. Naming the job it was put
+// forward for makes the title answer the search that would reach this page.
+// Cross-links out of a bot page. Previously it linked only to the jobs it was
+// placed on, which left categories and integrations with almost no inbound
+// links from the 115 pages best placed to supply them.
+const botIntegrations = integrationsForBot(bot);
+const botCategories = [...new Set(jobs.map((j) => j.job.category))].map((c) => ({
+  slug: c,
+  label: (CATEGORIES as Record<string, string>)[c] ?? c,
+}));
+
+const topJob = jobs[0]?.job;
+const pageTitle = topJob
+  ? `${bot.name} — Grok Bot for ${topJob.title.toLowerCase()}`
+  : `${bot.name} — a Grok Bot`;
+
+const metaDescription = topJob
+  ? `${bot.name} put forward for ${topJob.title.toLowerCase()}. ${bot.description}`.slice(0, 158)
+  : bot.description.slice(0, 158);
 ---
 
 <Base
-  title={bot.name}
-  description={bot.description.slice(0, 155)}
+  title={pageTitle}
+  description={metaDescription}
   canonical={urls.bot(bot.slug)}
   noindex={!isBotIndexable(bot)}
   ogImage={isBotIndexable(bot) ? `/og/bot-${bot.slug}.png` : undefined}
@@ -134,6 +156,36 @@ const alsoListedOn = (bot.listings ?? []).filter((l) => l.name !== bot.discovere
                   </span>
                 </div>
                 <p class="text-muted-foreground mt-1.5 text-sm/relaxed">{mapping.fitReason}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      (botIntegrations.length > 0 || botCategories.length > 0) && (
+        <section class="mt-10">
+          <h2 class="eyebrow text-muted-foreground">Browse related</h2>
+          <ul class="mt-2.5 flex flex-wrap gap-2">
+            {botIntegrations.map((i) => (
+              <li>
+                <a
+                  href={urls.integration(i.slug)}
+                  class="border-border bg-card hover:border-ink inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+                >
+                  Bots for {i.label}
+                </a>
+              </li>
+            ))}
+            {botCategories.map((c) => (
+              <li>
+                <a
+                  href={urls.category(c.slug)}
+                  class="border-border bg-card hover:border-ink inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+                >
+                  {c.label}
+                </a>
               </li>
             ))}
           </ul>
