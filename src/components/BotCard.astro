@@ -85,12 +85,10 @@ const { mapping } = bot;
     }
   </div>
 
-  <!-- Attribution is not optional: every record names where we found it. -->
-  <p class="text-muted-foreground mt-4 text-xs">
-    Discovered via{' '}
-    <a href={bot.discoveredVia.url} rel="noopener nofollow" class="underline underline-offset-2">
-      {bot.discoveredVia.name}
-    </a>
-    {bot.lastVerifiedAt && <span> · link checked {bot.lastVerifiedAt}</span>}
-  </p>
+  <!--
+    Discovered-via credit and the last link check live on the bot's own page,
+    in the source-and-evidence table, rather than on every card. Attribution is
+    still carried by every record — it is just not repeated eight times down a
+    job page, where it crowded out the reasoning the card exists to show.
+  -->
 </article>
