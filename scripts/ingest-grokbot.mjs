@@ -114,10 +114,10 @@ for (const item of items) {
   if (deduped) counts.deduped += 1;
 
   incoming.slug = slug;
-  const { record, change } = mergeBotRecord(bySlug.get(slug), incoming);
+  const { record, change, write } = mergeBotRecord(bySlug.get(slug), incoming);
   counts[change] += 1;
 
-  if (!DRY_RUN) await writeBotRecord(slug, record);
+  if (!DRY_RUN && write) await writeBotRecord(slug, record);
   bySlug.set(slug, record);
   byBotId.set(record.botId, slug);
 }

@@ -135,9 +135,22 @@ function dropEmpty(obj) {
 }
 
 /**
+ * How stale `lastSeenAt` may get before it is worth rewriting a file purely to
+ * refresh it. The field exists so we can tell when a bot disappears from a
+ * catalogue, and week-old granularity answers that perfectly well.
+ */
+const STALE_SEEN_DAYS = 7;
+
+const daysBetween = (a, b) => Math.abs(new Date(a) - new Date(b)) / 864e5;
+
+/**
  * Merge a freshly-scraped record over an existing one.
  *
- * @returns {{record: object, change: 'created'|'updated'|'unchanged'}}
+ * `write` is separate from `change` on purpose. The first refresh rewrote 376
+ * of 398 files to bump a date and nothing else, which buries the twenty-two
+ * records that actually changed. A diff nobody can read is not an audit trail.
+ *
+ * @returns {{record: object, change: 'created'|'updated'|'unchanged', write: boolean}}
  */
 export function mergeBotRecord(existing, incoming) {
   if (!existing) {
@@ -153,6 +166,7 @@ export function mergeBotRecord(existing, incoming) {
         firstSeenAt: incoming.lastSeenAt,
       },
       change: 'created',
+      write: true,
     };
   }
 
@@ -209,7 +223,14 @@ export function mergeBotRecord(existing, incoming) {
   }
   if (listings.length) merged.listings = listings;
 
-  return { record: merged, change: touched ? 'updated' : 'unchanged' };
+  // Rewrite an otherwise-identical record only when its last-seen date has gone
+  // properly stale, so the weekly diff shows real movement.
+  const seenIsStale =
+    !existing.lastSeenAt || daysBetween(existing.lastSeenAt, incoming.lastSeenAt) >= STALE_SEEN_DAYS;
+
+  if (!touched && !seenIsStale) merged.lastSeenAt = existing.lastSeenAt;
+
+  return { record: merged, change: touched ? 'updated' : 'unchanged', write: touched || seenIsStale };
 }
 
 /** Stable key order, so a re-ingest produces a readable diff rather than noise. */
