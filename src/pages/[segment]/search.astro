@@ -7,14 +7,35 @@ import { PATH_SEGMENT, urls } from '@/config';
 import PostJobDialog from '@/components/PostJobDialog.astro';
 import SubmittedNotice from '@/components/SubmittedNotice.astro';
 import { search } from '@/lib/search';
+import { getJobs, getBots, jobsForBot, type Job, type Bot } from '@/lib/data';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const query = (Astro.url.searchParams.get('q') ?? '').slice(0, 120);
-const { jobs, bots } = query ? await search(query) : { jobs: [], bots: [] };
 
-const topJobs = jobs.slice(0, 12);
-const topBots = bots.slice(0, 20);
+// Submitting the box empty is a browse, not a failed search. It used to return
+// an empty result set and render a page with nothing under the form, which
+// reads as a broken site rather than an invitation.
+const browsing = !query;
+
+let jobs: Array<{ job: Job }>;
+let bots: Array<{ bot: Bot; jobCount: number }>;
+
+if (query) {
+  ({ jobs, bots } = await search(query));
+} else {
+  jobs = (await getJobs()).map((job) => ({ job }));
+  bots = (await getBots())
+    // A bot with no description of our own renders as a bare name. It stays in
+    // the data and out of the listings until somebody writes one.
+    .filter((b) => b.description)
+    .map((bot) => ({ bot, jobCount: jobsForBot(bot.slug).length }));
+}
+
+// The caps are a relevance device — past the twentieth ranked match, nothing is
+// worth reading. Browsing has no ranking to run out of, so it shows the lot.
+const topJobs = browsing ? jobs : jobs.slice(0, 12);
+const topBots = browsing ? bots : bots.slice(0, 20);
 const nothing = Boolean(query) && !topJobs.length && !topBots.length;
 ---
 
@@ -46,14 +67,11 @@ const nothing = Boolean(query) && !topJobs.length && !topBots.length;
       <button type="submit" class={buttonVariants({ size: 'lg', className: 'h-12' })}>Search</button>
     </form>
 
-    {
-      query && (
-        <p class="text-muted-foreground mt-4 font-mono text-xs">
-          {jobs.length} job{jobs.length === 1 ? '' : 's'} · {bots.length} bot
-          {bots.length === 1 ? '' : 's'} for “{query}”
-        </p>
-      )
-    }
+    <p class="text-muted-foreground mt-4 font-mono text-xs">
+      {jobs.length} job{jobs.length === 1 ? '' : 's'} · {bots.length} bot
+      {bots.length === 1 ? '' : 's'}
+      {query ? ` for “${query}”` : ' — everything on the board'}
+    </p>
   </section>
 
   {
