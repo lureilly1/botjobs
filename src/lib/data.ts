@@ -73,6 +73,13 @@ const allBots: Bot[] = Object.values(botModules);
 
 const botsBySlug = new Map(allBots.map((b) => [b.slug, b]));
 
+/**
+ * The official x.ai bot id is the dedupe key everywhere else in this codebase,
+ * so submissions must be checked against it too — not against a slug derived
+ * from it, which would never match anything.
+ */
+const botsByBotId = new Map(allBots.map((b) => [b.botId, b]));
+
 /** Published jobs only. Drafts never reach a page, a listing or the sitemap. */
 export async function getJobs(): Promise<Job[]> {
   return allJobs
@@ -94,6 +101,10 @@ export async function getBots(): Promise<Bot[]> {
 
 export function getBot(slug: string): Bot | null {
   return botsBySlug.get(slug) ?? null;
+}
+
+export function getBotByBotId(botId: string): Bot | null {
+  return botsByBotId.get(botId) ?? null;
 }
 
 /** The bots mapped to a job, in editorial rank order. */

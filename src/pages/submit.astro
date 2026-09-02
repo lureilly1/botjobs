@@ -3,10 +3,18 @@ import Base from '@/layouts/Base.astro';
 import { buttonVariants } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { issueUrl, urls } from '@/config';
+import SubmitForm from '@/components/SubmitForm';
+import { submitConfigured } from '@/lib/submit/github';
 
-// The drafting pipeline (form → AI draft → PR from a bot fork) is T15. Until
-// then the honest route is the one the repo already supports: an issue or a
-// direct PR. Better a working path today than a form that pretends to submit.
+// The drafting pipeline is env-gated. With no bot token configured the page
+// falls back to the GitHub issue route, which has worked since T9 — the form
+// is an upgrade to the path, never the only path.
+const formLive = submitConfigured();
+
+// Both routes always work. Where the drafting pipeline is configured the bot
+// form replaces the issue link for submissions; the issue route stays the
+// fallback for job posts, for people without JavaScript, and for anyone who
+// would simply rather write it themselves.
 const routes = [
   {
     id: 'bot',
@@ -72,9 +80,19 @@ const routes = [
             ))}
           </ul>
 
-          <a href={r.href} rel="noopener" class={buttonVariants({ variant: r.variant, className: 'mt-6' })}>
-            {r.cta}
-          </a>
+          {
+            r.id === 'bot' && formLive ? (
+              /* The only hydrated component on the site: drafting takes ~20s,
+                 so this has to poll rather than block. */
+              <div class="mt-6">
+                <SubmitForm client:load fallbackHref={r.href} />
+              </div>
+            ) : (
+              <a href={r.href} rel="noopener" class={buttonVariants({ variant: r.variant, className: 'mt-6' })}>
+                {r.cta}
+              </a>
+            )
+          }
         </div>
       ))
     }
