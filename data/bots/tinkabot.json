@@ -1,0 +1,42 @@
+{
+  "slug": "tinkabot",
+  "name": "tinkabot",
+  "grokShareUrl": "https://x.ai/bot/br5f3C4mc75QCMEHaszXd",
+  "botId": "br5f3C4mc75QCMEHaszXd",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2094886573711970614",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tinkabot/"
+  },
+  "description": null,
+  "official": {
+    "title": "tinkabot by Lauren",
+    "description": "Wraps an API into a Cursor/Agent Plugin (MCP + skills). Data shape first, smallest scaffold that works, prove locally, then ask once for affiliation and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "meta-bot",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tinkabot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

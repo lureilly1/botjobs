@@ -1,0 +1,43 @@
+{
+  "slug": "maskoff",
+  "name": "Maskoff",
+  "grokShareUrl": "https://x.ai/bot/39x_3B9P5HBl-MpK1xGzP",
+  "botId": "39x_3B9P5HBl-MpK1xGzP",
+  "creator": {
+    "handle": "RyanGBsystems",
+    "url": "https://x.com/RyanGBsystems"
+  },
+  "sourceUrl": "https://x.com/RyanGBsystems/status/2094897077335802276",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/maskoff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Maskoff by GreenbarSystems",
+    "description": "Defensive briefings on X accounts that DM you, or on a public follower or following list. You get a score, a verdict, and a tweet-length reply; a city...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "research",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/maskoff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

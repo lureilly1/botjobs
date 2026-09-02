@@ -1,0 +1,42 @@
+{
+  "slug": "code-red",
+  "name": "Code Red",
+  "grokShareUrl": "https://x.ai/bot/4y3jlvwxFNqcP76eJgpuD",
+  "botId": "4y3jlvwxFNqcP76eJgpuD",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2094970870871585096",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/code-red/"
+  },
+  "description": null,
+  "official": {
+    "title": "Code Red by Knock",
+    "description": "Kill-switch for your own stack. Six keywords. Dry-run the numbered list, then type CODE RED WORD N. Owner confirm only. Not a weapon against anyone...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/code-red/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

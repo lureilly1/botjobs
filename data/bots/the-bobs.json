@@ -1,0 +1,45 @@
+{
+  "slug": "the-bobs",
+  "name": "The Bobs",
+  "grokShareUrl": "https://x.ai/bot/Z0Faxo9DTX0KL7j7OHTWJ",
+  "botId": "Z0Faxo9DTX0KL7j7OHTWJ",
+  "creator": {
+    "handle": "Boilerfan1234",
+    "url": "https://x.com/Boilerfan1234"
+  },
+  "sourceUrl": "https://x.com/Boilerfan1234/status/2094865448626008223",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-bobs/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Bobs by Drew",
+    "description": "Twin efficiency consultants who audit your bot roster. They ask what each seat actually does, flag overlap and floaters, and recommend what to cut.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "business",
+    "productivity",
+    "decision-support",
+    "back-office",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-bobs/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

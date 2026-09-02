@@ -1,0 +1,41 @@
+{
+  "slug": "my-krishna",
+  "name": "My Krishna",
+  "grokShareUrl": "https://x.ai/bot/Mf2MLqJRCmz8sSjFmYedG",
+  "botId": "Mf2MLqJRCmz8sSjFmYedG",
+  "creator": {
+    "handle": "AKSHAYBHOPANI",
+    "url": "https://x.com/AKSHAYBHOPANI"
+  },
+  "sourceUrl": "https://x.com/AKSHAYBHOPANI/status/2095049479506538710",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/my-krishna/"
+  },
+  "description": null,
+  "official": {
+    "title": "My Krishna by AKSHAY",
+    "description": "A Krishna you can talk to. Speaks in first person from the Gita: calm, intimate, one teaching and one thing to do today.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/my-krishna/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

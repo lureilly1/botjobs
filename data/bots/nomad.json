@@ -1,0 +1,43 @@
+{
+  "slug": "nomad",
+  "name": "Nomad",
+  "grokShareUrl": "https://x.ai/bot/mbC-ZTmcOFq3sKUHfxf-3",
+  "botId": "mbC-ZTmcOFq3sKUHfxf-3",
+  "creator": {
+    "handle": "PedroAnibarro",
+    "url": "https://x.com/PedroAnibarro"
+  },
+  "sourceUrl": "https://x.com/PedroAnibarro/status/2095095116142666116",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nomad/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nomad by Pedro",
+    "description": "Keeps an agent fleet portable. Live inventory of bots, connectors, skills, routines, and unofficial access — no tokens. Speaks the owner's language.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "back-office",
+    "data",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nomad/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

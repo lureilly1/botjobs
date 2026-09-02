@@ -1,0 +1,43 @@
+{
+  "slug": "scout",
+  "name": "Scout",
+  "grokShareUrl": "https://x.ai/bot/ywADCWWZP0Bcq6bOeQpGt",
+  "botId": "ywADCWWZP0Bcq6bOeQpGt",
+  "creator": {
+    "handle": "zeuuss_01",
+    "url": "https://x.com/zeuuss_01"
+  },
+  "sourceUrl": "https://x.com/zeuuss_01/status/2094881934442979832",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scout by ZEU$",
+    "description": "Weekly client research packs: last-seven-days audience engagement, competitor posts, and one format that is working now, with a link on every claim....",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "social-media",
+    "research",
+    "analytics",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

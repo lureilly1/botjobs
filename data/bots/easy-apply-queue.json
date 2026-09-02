@@ -1,0 +1,42 @@
+{
+  "slug": "easy-apply-queue",
+  "name": "Easy Apply Queue",
+  "grokShareUrl": "https://x.ai/bot/5RXN9P3CxnIIwgcmvVWEp",
+  "botId": "5RXN9P3CxnIIwgcmvVWEp",
+  "creator": {
+    "handle": "HaseebMir91",
+    "url": "https://x.com/HaseebMir91"
+  },
+  "sourceUrl": "https://x.com/HaseebMir91/status/2094891095733710950",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/easy-apply-queue/"
+  },
+  "description": null,
+  "official": {
+    "title": "Easy Apply Queue by Haseeb",
+    "description": "Runs a one-hour Easy Apply window with a durable queue so the same posting is never fetched twice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/easy-apply-queue/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

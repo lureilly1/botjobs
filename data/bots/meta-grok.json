@@ -1,0 +1,43 @@
+{
+  "slug": "meta-grok",
+  "name": "Meta Grok",
+  "grokShareUrl": "https://x.ai/bot/HAhgshU4r50gS81LCcpmk",
+  "botId": "HAhgshU4r50gS81LCcpmk",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2095092686906884164",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meta-grok/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meta Grok by Frank",
+    "description": "Finds the five most popular Grok bots on X each weekday and sends a short digest you can skim in under a minute.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "research",
+    "news",
+    "social-media",
+    "meta-bot",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meta-grok/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

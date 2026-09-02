@@ -1,0 +1,37 @@
+{
+  "slug": "ai-visibility-autonomous-bot",
+  "name": "AI Visibility autonomous Bot",
+  "grokShareUrl": "https://x.ai/bot/beh0HMIMPwr5cenZVVAT-",
+  "botId": "beh0HMIMPwr5cenZVVAT-",
+  "creator": {
+    "handle": null,
+    "name": "Miguel Casteleiro 🔺",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/ai-visibility-autonomous-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Visibility | GEO Operator by Miguel",
+    "description": "An autonomous world-class GEO operator for your brand. It monitors how your brand appears in answers across major AI models, uncovers where competitors...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ai-visibility-autonomous-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

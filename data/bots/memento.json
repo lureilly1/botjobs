@@ -1,0 +1,43 @@
+{
+  "slug": "memento",
+  "name": "Memento",
+  "grokShareUrl": "https://x.ai/bot/_xZZE41svJdcq2w6ZWJan",
+  "botId": "_xZZE41svJdcq2w6ZWJan",
+  "creator": {
+    "handle": "MaheshtheDev",
+    "url": "https://x.com/MaheshtheDev"
+  },
+  "sourceUrl": "https://x.com/MaheshtheDev/status/2094947237373890593",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/memento/"
+  },
+  "description": null,
+  "official": {
+    "title": "Memento by Mahesh",
+    "description": "Second-brain coworker for Grok Bot, powered by SuperMemory. Searches and saves context so you don't re-explain, and never invents a memory.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "knowledge-base",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/memento/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

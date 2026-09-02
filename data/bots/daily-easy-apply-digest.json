@@ -1,0 +1,42 @@
+{
+  "slug": "daily-easy-apply-digest",
+  "name": "Daily Easy Apply Digest",
+  "grokShareUrl": "https://x.ai/bot/uVNOsoe-iWf4ZOUdfgo5R",
+  "botId": "uVNOsoe-iWf4ZOUdfgo5R",
+  "creator": {
+    "handle": "HaseebMir91",
+    "url": "https://x.com/HaseebMir91"
+  },
+  "sourceUrl": "https://x.com/HaseebMir91/status/2094891095733710950",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-easy-apply-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daily Easy Apply Digest by Haseeb",
+    "description": "Posts a short morning digest of mid-level backend Easy Apply jobs from LinkedIn and Indeed, scored against your resume.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "monitoring",
+    "scheduled",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-easy-apply-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

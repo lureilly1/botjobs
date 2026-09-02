@@ -1,0 +1,42 @@
+{
+  "slug": "dead-man-s-bot",
+  "name": "Dead Man’s Bot",
+  "grokShareUrl": "https://x.ai/bot/XCaz2bKzsJ4J1DmkaYyc4",
+  "botId": "XCaz2bKzsJ4J1DmkaYyc4",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2094981472566288703",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dead-man-s-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dead Man's Bot by Knock",
+    "description": "Dead-man's switch you load yourself. Pick a clock and a payload. Miss a ping, only that loadout fires. The bot explains how to ARM. It does not start a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "ops",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dead-man-s-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

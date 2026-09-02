@@ -1,0 +1,42 @@
+{
+  "slug": "poteto-style-chief-of-staff",
+  "name": "Poteto-style Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/Nk-vzuWqTvqSed-G8-Za5",
+  "botId": "Nk-vzuWqTvqSed-G8-Za5",
+  "creator": {
+    "handle": "HaseebMir91",
+    "url": "https://x.com/HaseebMir91"
+  },
+  "sourceUrl": "https://x.com/HaseebMir91/status/2094891095733710950",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/poteto-style-chief-of-staff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Poteto-style Chief of Staff by Haseeb",
+    "description": "Chief of staff that runs a small Grok Bot team the way @poteto recommends: few routine runs, repeating work on short bots, cloud agents for code.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "ops",
+    "productivity",
+    "meta-bot",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/poteto-style-chief-of-staff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

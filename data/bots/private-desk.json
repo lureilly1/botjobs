@@ -1,0 +1,42 @@
+{
+  "slug": "private-desk",
+  "name": "Private Desk",
+  "grokShareUrl": "https://x.ai/bot/Tgl3sxrTsuAYL7MN8S3UT",
+  "botId": "Tgl3sxrTsuAYL7MN8S3UT",
+  "creator": {
+    "handle": "useprismnetwork",
+    "url": "https://x.com/useprismnetwork"
+  },
+  "sourceUrl": "https://x.com/useprismnetwork/status/2094887291881734180",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/private-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Private Desk by Prism",
+    "description": "Runs sensitive analysis in Prism confidential GPU enclaves, with local encryption and hardware attestation before any answer is trusted. For work that...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "data",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/private-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

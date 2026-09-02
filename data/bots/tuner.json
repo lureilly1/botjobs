@@ -1,0 +1,42 @@
+{
+  "slug": "tuner",
+  "name": "Tuner",
+  "grokShareUrl": "https://x.ai/bot/3n26nkAkMjk5EZcKJlo9w",
+  "botId": "3n26nkAkMjk5EZcKJlo9w",
+  "creator": {
+    "handle": "humanmeteorite",
+    "url": "https://x.com/humanmeteorite"
+  },
+  "sourceUrl": "https://x.com/humanmeteorite/status/2094888371147424048",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tuner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tuner by Mert",
+    "description": "Editor of your other Grok Bots. Reviews recent outputs against each bot's stated job, then proposes instruction or routine patches. Applies nothing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "productivity",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tuner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

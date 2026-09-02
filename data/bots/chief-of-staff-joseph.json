@@ -1,0 +1,43 @@
+{
+  "slug": "chief-of-staff-joseph",
+  "name": "Chief of Staff (Joseph)",
+  "grokShareUrl": "https://x.ai/bot/5hqR_5PVUy7WMbNaXPJ8s",
+  "botId": "5hqR_5PVUy7WMbNaXPJ8s",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2094947816028381534",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-joseph/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Joseph",
+    "description": "One entry point for your agent team. It routes work, keeps the roster small, and never sends, spends, or deletes without your yes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-joseph/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

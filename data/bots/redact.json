@@ -1,0 +1,42 @@
+{
+  "slug": "redact",
+  "name": "Redact",
+  "grokShareUrl": "https://x.ai/bot/Abz5txK3unOkm5ZxCGGX-",
+  "botId": "Abz5txK3unOkm5ZxCGGX-",
+  "creator": {
+    "handle": "PyRo1121",
+    "url": "https://x.com/PyRo1121"
+  },
+  "sourceUrl": "https://x.com/PyRo1121/status/2094897839331549594",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/redact/"
+  },
+  "description": null,
+  "official": {
+    "title": "Redact by Olen",
+    "description": "Files official first-party people-search opt-out forms for one authorized person. Listing URL first, one form per broker family, captcha handoff only —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "saving-money",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/redact/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

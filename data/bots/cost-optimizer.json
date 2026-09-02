@@ -1,0 +1,44 @@
+{
+  "slug": "cost-optimizer",
+  "name": "Cost Optimizer",
+  "grokShareUrl": "https://x.ai/bot/-CjM4_uRs6sEGdfZfC5gv",
+  "botId": "-CjM4_uRs6sEGdfZfC5gv",
+  "creator": {
+    "handle": "MadeItHappenX",
+    "url": "https://x.com/MadeItHappenX"
+  },
+  "sourceUrl": "https://x.com/MadeItHappenX/status/2095072492700455159",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cost-optimizer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cost Optimizer by Stephen",
+    "description": "Finds and recommends the cheapest same-quality path across bots, routines, Cloud Agents, and Actions. Incremental spend $0. For operators who already...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "decision-support",
+    "analytics",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cost-optimizer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "token-accountant",
+  "name": "Token Accountant",
+  "grokShareUrl": "https://x.ai/bot/zdnVIfLkNmRwZqqogojuc",
+  "botId": "zdnVIfLkNmRwZqqogojuc",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2094877897399885905",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/token-accountant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Token Accountant by Knock",
+    "description": "Tracks Cursor Models, Other Models, and Grok Bot weekly usage from the Cursor spending dashboard. Warns at 25, 50, 75, and 90 percent. Each owner must...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "analytics",
+    "saving-money",
+    "finance",
+    "scheduled",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/token-accountant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

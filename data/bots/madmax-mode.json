@@ -1,0 +1,42 @@
+{
+  "slug": "madmax-mode",
+  "name": "MadMax Mode",
+  "grokShareUrl": "https://x.ai/bot/pTe8gpPc_5SuwKkEszn18",
+  "botId": "pTe8gpPc_5SuwKkEszn18",
+  "creator": {
+    "handle": "JoePro",
+    "url": "https://x.com/JoePro"
+  },
+  "sourceUrl": "https://x.com/JoePro/status/2094879004083765674",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/madmax-mode/"
+  },
+  "description": null,
+  "official": {
+    "title": "MadMax Mode by Joseph",
+    "description": "Grok Bot inventor for people who run a fleet of agents. Writes compact souls, files jobs into skills vs routines vs memory, and waits on side effects.",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/madmax-mode/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "engineering-qa",
+  "name": "Engineering QA",
+  "grokShareUrl": "https://x.ai/bot/b2tS8BNj8BhoQNDcB081S",
+  "botId": "b2tS8BNj8BhoQNDcB081S",
+  "creator": {
+    "handle": "andreleibovici",
+    "url": "https://x.com/andreleibovici"
+  },
+  "sourceUrl": "https://x.com/andreleibovici/status/2095035963978522719",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/engineering-qa/"
+  },
+  "description": null,
+  "official": {
+    "title": "Engineering QA by Andre",
+    "description": "Owns pull-request quality gates on the repos you assign: CI + Bugbot + review verdicts, with optional low-risk auto-merge. Reports to your ops lead;...",
+    "resolves": true,
+    "fetchedAt": "2026-09-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/engineering-qa/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-02",
+  "firstSeenAt": "2026-09-02",
+  "lastSeenAt": "2026-09-02"
+}
