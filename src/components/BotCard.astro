@@ -1,6 +1,7 @@
 ---
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { buttonVariants } from '@/components/ui/button';
+import { urls } from '@/config';
 import type { Bot, BotMapping } from '@/lib/data';
 
 interface Props {
@@ -14,7 +15,11 @@ const { mapping } = bot;
 <article class="border-ink bg-card rounded-lg border-[1.5px] p-5 sm:p-6">
   <div class="flex flex-wrap items-start justify-between gap-3">
     <div class="min-w-0">
-      <h3 class="text-lg leading-tight">{bot.name}</h3>
+      <h3 class="text-lg leading-tight">
+        <a href={urls.bot(bot.slug)} class="hover:decoration-hi-vis hover:underline hover:decoration-2 hover:underline-offset-4">
+          {bot.name}
+        </a>
+      </h3>
       <p class="text-muted-foreground mt-1 text-sm">
         by{' '}
         {

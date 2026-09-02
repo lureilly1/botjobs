@@ -1,0 +1,187 @@
+---
+import Base from '@/layouts/Base.astro';
+import EvidenceBadge from '@/components/EvidenceBadge.astro';
+import { Badge } from '@/components/ui/badge';
+import { buttonVariants } from '@/components/ui/button';
+import { PATH_SEGMENT, urls, EVIDENCE } from '@/config';
+import { getBot, jobsForBot, isBotIndexable } from '@/lib/data';
+
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+const bot = getBot(Astro.params.slug!);
+if (!bot || !bot.description) return new Response(null, { status: 404 });
+
+const jobs = jobsForBot(bot.slug);
+const dead = bot.linkStatus === 'dead';
+const evidence = EVIDENCE[bot.evidenceLevel];
+const creatorLabel = bot.creator.handle ? `@${bot.creator.handle}` : bot.creator.name;
+
+// "Also" means in addition to the discovery source, so exclude it from the list.
+const alsoListedOn = (bot.listings ?? []).filter((l) => l.name !== bot.discoveredVia.name);
+---
+
+<Base
+  title={bot.name}
+  description={bot.description.slice(0, 155)}
+  canonical={urls.bot(bot.slug)}
+  noindex={!isBotIndexable(bot)}
+>
+  <article class="mx-auto max-w-3xl px-4 pt-10 pb-16 sm:px-6 sm:pt-14">
+    <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
+      <a href={urls.bots()} class="hover:text-foreground">Bots</a>
+      <span class="mx-1.5" aria-hidden="true">/</span>
+      <span class="text-foreground">{bot.name}</span>
+    </nav>
+
+    <div class="flex flex-wrap items-center gap-2.5">
+      <EvidenceBadge level={bot.evidenceLevel} />
+      {dead && <Badge variant="outline">Install link is dead</Badge>}
+    </div>
+
+    <h1 class="mt-3 text-[2rem] leading-[1.05] sm:text-[2.6rem]">{bot.name}</h1>
+
+    <p class="text-muted-foreground mt-2 text-sm">
+      by{' '}
+      {
+        bot.creator.url ? (
+          <a href={bot.creator.url} rel="noopener nofollow" class="hover:text-foreground underline underline-offset-2">
+            {creatorLabel}
+          </a>
+        ) : (
+          <span>{creatorLabel}</span>
+        )
+      }
+    </p>
+
+    <p class="prose-editorial mt-6 text-base">{bot.description}</p>
+
+    {
+      dead && (
+        <p class="border-destructive/40 bg-destructive/5 text-foreground mt-6 rounded-md border px-4 py-3 text-sm">
+          The official share link for this bot no longer resolves, so it cannot be installed. We
+          keep the record because other directories still list it.
+        </p>
+      )
+    }
+
+    <div class="mt-7 flex flex-wrap items-center gap-2.5">
+      {
+        !dead && (
+          <a href={bot.grokShareUrl} rel="noopener" class={buttonVariants({ variant: 'hivis' })}>
+            Add to Grok →
+          </a>
+        )
+      }
+      {
+        bot.sourceUrl && (
+          <a
+            href={bot.sourceUrl}
+            rel="noopener nofollow"
+            class={buttonVariants({ variant: 'secondary', size: 'default' })}
+          >
+            Original post
+          </a>
+        )
+      }
+    </div>
+
+    {
+      bot.official?.description && (
+        <section class="mt-10">
+          <h2 class="eyebrow text-muted-foreground">What the creator says</h2>
+          {/* The creator's own words, quoted and attributed. Distinct from our
+              summary above, which is always ours — see src/lib/records.js. */}
+          <blockquote class="border-hi-vis text-muted-foreground mt-2.5 border-l-[3px] pl-4 text-sm/relaxed italic">
+            {bot.official.description}
+          </blockquote>
+          <p class="text-muted-foreground mt-2 text-xs">
+            From the official x.ai listing{bot.official.title && <> as “{bot.official.title}”</>},
+            checked {bot.official.fetchedAt}.
+          </p>
+        </section>
+      )
+    }
+
+    {
+      jobs.length > 0 && (
+        <section class="mt-10">
+          <h2 class="text-2xl">Put forward for</h2>
+          <ul class="mt-4 space-y-3">
+            {jobs.map(({ job, mapping }) => (
+              <li class="border-border bg-card rounded-lg border p-4">
+                <div class="flex items-baseline justify-between gap-3">
+                  <a href={urls.job(job.slug)} class="font-semibold hover:underline underline-offset-4">
+                    {job.title}
+                  </a>
+                  <span class="text-muted-foreground shrink-0 font-mono text-xs">
+                    fit {mapping.fitScore}
+                  </span>
+                </div>
+                <p class="text-muted-foreground mt-1.5 text-sm/relaxed">{mapping.fitReason}</p>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    <section class="mt-10">
+      <h2 class="eyebrow text-muted-foreground">Source and evidence</h2>
+      <dl class="rule-list border-border mt-2.5 rounded-lg border text-sm">
+        <div class="flex gap-4 px-4 py-2.5">
+          <dt class="text-muted-foreground w-32 shrink-0">Evidence</dt>
+          <dd>{evidence.label} — {evidence.blurb}</dd>
+        </div>
+        <div class="flex gap-4 px-4 py-2.5">
+          <dt class="text-muted-foreground w-32 shrink-0">Official link</dt>
+          <dd class="min-w-0 break-all">
+            <a href={bot.grokShareUrl} rel="noopener" class="font-mono text-xs underline underline-offset-2">
+              {bot.grokShareUrl}
+            </a>
+          </dd>
+        </div>
+        <div class="flex gap-4 px-4 py-2.5">
+          <dt class="text-muted-foreground w-32 shrink-0">Last checked</dt>
+          <dd>{bot.lastVerifiedAt ?? 'not yet'} · link {bot.linkStatus}</dd>
+        </div>
+        <div class="flex gap-4 px-4 py-2.5">
+          <dt class="text-muted-foreground w-32 shrink-0">Discovered via</dt>
+          <dd>
+            <a href={bot.discoveredVia.url} rel="noopener nofollow" class="underline underline-offset-2">
+              {bot.discoveredVia.name}
+            </a>
+          </dd>
+        </div>
+        {
+          alsoListedOn.length > 0 && (
+            <div class="flex gap-4 px-4 py-2.5">
+              <dt class="text-muted-foreground w-32 shrink-0">Also listed on</dt>
+              <dd class="flex flex-wrap gap-x-3">
+                {alsoListedOn.map((l) => (
+                  <a href={l.url} rel="noopener nofollow" class="underline underline-offset-2">
+                    {l.name}
+                  </a>
+                ))}
+              </dd>
+            </div>
+          )
+        }
+      </dl>
+    </section>
+
+    <section class="border-border text-muted-foreground mt-10 border-t pt-6 text-xs leading-relaxed">
+      <p>
+        We do not reproduce template contents, prompt bodies or configuration — the official link
+        above is the only install route, and it belongs to the creator. Our summary is our own
+        words; the creator's description is quoted separately and credited.
+      </p>
+      <p class="mt-2">
+        Are you the creator?{' '}
+        <a href={urls.report(bot.slug)} class="underline underline-offset-2">
+          Request a correction or removal
+        </a>{' '}
+        — we action removals within 48 hours, no argument.
+      </p>
+    </section>
+  </article>
+</Base>

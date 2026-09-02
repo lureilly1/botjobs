@@ -107,6 +107,31 @@ export function botsForJob(job: Job): Array<Bot & { mapping: BotMapping }> {
     });
 }
 
+/** Every published job this bot has been put forward for, best fit first. */
+export function jobsForBot(botSlug: string): Array<{ job: Job; mapping: BotMapping }> {
+  return allJobs
+    .filter((j) => j.publish)
+    .flatMap((job) => {
+      const mapping = job.bots.find((b) => b.botSlug === botSlug);
+      return mapping ? [{ job, mapping }] : [];
+    })
+    .sort((a, b) => b.mapping.fitScore - a.mapping.fitScore);
+}
+
+/**
+ * Whether a bot page belongs in the index.
+ *
+ * 408 pages of a hundred words each is precisely the scaled-content pattern
+ * this project exists to avoid, and Google is explicit that combining external
+ * content with little added value is spam regardless of intent. A bot we have
+ * put forward for a job carries real editorial — our summary plus a reasoned
+ * fit — so it earns a place. A bot sitting in the catalogue untouched does not,
+ * and it stays reachable and crawlable while being kept out of the index.
+ */
+export function isBotIndexable(bot: Bot): boolean {
+  return bot.linkStatus !== 'dead' && Boolean(bot.description) && jobsForBot(bot.slug).length > 0;
+}
+
 /**
  * The strongest evidence level among a job's bots — what the job card can
  * honestly advertise. A job is only as verified as its best candidate.
