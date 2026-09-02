@@ -23,12 +23,23 @@ export const GET: APIRoute = async ({ params, request, url }) => {
   // per-job conversion rate rather than one undifferentiated total.
   const job = url.searchParams.get('job')?.slice(0, 80) || undefined;
 
-  await record(request, 'bot_install_click', { slug: bot.slug, job });
+  // Two destinations, both taken from our own records: the install link and the
+  // creator's originating post. The spec counts source clicks separately —
+  // people reading the original thread is a different signal from people
+  // installing, and it is the one that says an attribution is worth having.
+  const wantsSource = url.searchParams.get('to') === 'source';
+  const destination = wantsSource ? bot.sourceUrl : bot.grokShareUrl;
+  if (!destination) return new Response(null, { status: 404 });
+
+  await record(request, wantsSource ? 'source_click' : 'bot_install_click', {
+    slug: bot.slug,
+    job,
+  });
 
   return new Response(null, {
     status: 302,
     headers: {
-      location: bot.grokShareUrl,
+      location: destination,
       'x-robots-tag': 'noindex, nofollow',
       'cache-control': 'no-store',
       'referrer-policy': 'no-referrer',

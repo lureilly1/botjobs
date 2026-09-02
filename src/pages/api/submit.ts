@@ -8,6 +8,7 @@ import {
   recentlySubmitted,
 } from '@/lib/submit/store';
 import { draftBotRecord } from '@/lib/submit/draft';
+import { record } from '@/lib/analytics';
 import { openRecordPr, submitConfigured } from '@/lib/submit/github';
 
 export const prerender = false;
@@ -71,6 +72,7 @@ export const POST: APIRoute = async ({ request }) => {
   if (limited) return json({ error: limited }, 429);
 
   const submission = await createSubmission({ url, note, submitter }, 'bot');
+  void record(request, 'submit_bot');
 
   // Fire-and-forget. Failures are recorded on the submission, never thrown into
   // a request nobody is listening to.

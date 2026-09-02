@@ -56,6 +56,8 @@ export const urls = {
   /** Outbound hop so install clicks are measurable without client JavaScript. */
   install: (botSlug: string, jobSlug?: string) =>
     `/go/${botSlug}${jobSlug ? `?job=${encodeURIComponent(jobSlug)}` : ''}`,
+  /** The creator's originating post, counted separately from installs. */
+  source: (botSlug: string) => `/go/${botSlug}?to=source`,
   report: (botSlug: string) => `/report?bot=${encodeURIComponent(botSlug)}`,
 } as const;
 
