@@ -50,6 +50,24 @@ fly deploy
 Optional secrets: `ANTHROPIC_API_KEY` to have submitted bots written up
 automatically, `POSTHOG_KEY` to mirror analytics off the box.
 
+### Deploys are automatic
+
+After that first manual deploy, every push to `main` deploys itself — but only
+from the far side of validate, typecheck, build and the SEO checks. Deploying
+from anywhere else would be a way of eventually publishing a record that could
+not pass them. Records are baked into the bundle at build time, so the weekly
+refresh committing new data is itself a redeploy, with nobody remembering to.
+
+One-time setup — generate a Fly deploy token and give it to GitHub:
+
+```sh
+fly tokens create deploy --name github-actions --expiry 8760h
+gh secret set FLY_API_TOKEN        # paste the token, including the FlyV1 prefix
+```
+
+Scoped to deploying this one app: it cannot read your other apps, touch billing,
+or create anything.
+
 ### The one setting not to remove
 
 `astro.config.mjs` sets `security: { checkOrigin: false }`. It looks like

@@ -1,4 +1,4 @@
-name: validate
+name: validate & deploy
 
 on:
   push:
@@ -8,6 +8,11 @@ on:
 # Most PRs here are data: a submitted bot, a new job, a corrected mapping. This
 # workflow is the publication gate — the same rules the site itself imports, so
 # an invalid record cannot reach main whether a human or the submit bot wrote it.
+#
+# And since it is the gate, it is also the only thing that should be allowed to
+# deploy. A record that fails validation must never reach the live site, which
+# means deploying from anywhere other than the far side of these checks is a
+# way of eventually publishing something that could not pass them.
 jobs:
   validate:
     runs-on: ubuntu-latest
@@ -38,3 +43,31 @@ jobs:
       # noindex, canonicals exist, and no page invents a review rating.
       - name: SEO invariants
         run: pnpm check:seo
+
+  # Only after the gate above, and only on main. Records are baked into the
+  # bundle at build time, so the weekly refresh pushing new data to main is
+  # itself a reason to redeploy — this picks that up without anyone remembering.
+  deploy:
+    needs: validate
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+
+    # Never let two deploys race. Not cancel-in-progress: a half-finished deploy
+    # is worse than a queued one.
+    concurrency:
+      group: deploy-production
+      cancel-in-progress: false
+
+    steps:
+      - uses: actions/checkout@v5
+
+      # Pinned to the commit behind v1.6 rather than @master. This step is
+      # handed a token that can deploy production, so it should not be whatever
+      # that branch happens to point at today.
+      - uses: superfly/flyctl-actions/setup-flyctl@ed8efb33836e8b2096c7fd3ba1c8afe303ebbff1
+
+      # --remote-only builds on Fly's builders, so the runner needs no Docker.
+      - name: Deploy
+        run: flyctl deploy --remote-only
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
