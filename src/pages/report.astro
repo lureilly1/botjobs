@@ -9,8 +9,13 @@ import { getBot } from '@/lib/data';
 const slug = Astro.url.searchParams.get('bot') ?? '';
 const bot = slug ? getBot(slug) : null;
 
+const error = Astro.url.searchParams.get('error');
 const posted = Astro.url.searchParams.get('posted') === '1';
-const tooShort = Astro.url.searchParams.get('error') === 'short';
+const tooShort = error === 'short';
+// The write failed, so we do not have their request. On the takedown route
+// that has to be said loudly and paired with the way in that does not depend
+// on our disk at all.
+const storageFailed = error === 'storage';
 
 const subject = bot ? `[removal] ${bot.slug}` : '[removal] ';
 const issueBody = [
@@ -39,6 +44,27 @@ const field =
             A removal is actioned within 48 hours and lands as a commit in the public repo, so you
             can check it happened without taking our word for it. If you left a contact we will
             confirm; if you did not, the commit is the confirmation.
+          </p>
+        </div>
+      )
+    }
+
+    {
+      storageFailed && (
+        <div class="border-ink mb-8 rounded-lg border-[1.5px] border-dashed p-5">
+          <p class="font-semibold">That did not save, and we do not have it.</p>
+          <p class="text-muted-foreground mt-1.5 text-sm/relaxed">
+            Something broke at our end. Rather than leave you assuming this is in hand when it is
+            not:{' '}
+            <a
+              href={issueUrl('removal', subject, issueBody)}
+              rel="noopener"
+              class="text-foreground underline underline-offset-2"
+            >
+              send it as a GitHub issue
+            </a>{' '}
+            — that route does not touch our storage, so it will get through. Or try the form again
+            in a few minutes.
           </p>
         </div>
       )

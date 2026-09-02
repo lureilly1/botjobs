@@ -67,14 +67,27 @@ export const POST: APIRoute = async ({ request }) => {
   }
   if (note.length > 500) return json({ error: 'Keep the note under 500 characters.' }, 400);
 
-  if (await recentlySubmitted(url)) {
-    return json({ error: 'That bot has already been submitted recently.' }, 409);
+  let submission;
+  try {
+    if (await recentlySubmitted(url)) {
+      return json({ error: 'That bot has already been submitted recently.' }, 409);
+    }
+
+    const limited = await checkRateLimit(clientIp(request));
+    if (limited) return json({ error: limited }, 429);
+
+    submission = await createSubmission({ url, note, submitter }, 'bot');
+  } catch (err) {
+    // The store writes to disk, and a read-only or full disk is the realistic
+    // failure. Say so rather than returning a stack trace to someone who has
+    // just done us a favour.
+    console.error('submit: could not store submission —', (err as Error).message);
+    return json(
+      { error: 'We could not save that just now — nothing was recorded. Try again shortly.' },
+      503
+    );
   }
 
-  const limited = await checkRateLimit(clientIp(request));
-  if (limited) return json({ error: limited }, 429);
-
-  const submission = await createSubmission({ url, note, submitter }, 'bot');
   void record(request, 'submit_bot');
 
   // Fire-and-forget. Failures are recorded on the submission, never thrown into
@@ -112,9 +125,14 @@ export const POST: APIRoute = async ({ request }) => {
       await updateSubmission(submission.id, { status: 'opened', prUrl });
     } catch (err) {
       console.error('submission failed', submission.id, err);
+      // Recording the failure is itself a write, so it can fail for the same
+      // reason the work did. Nothing is listening to this task, so an
+      // unhandled rejection here would take the process down on some runtimes.
       await updateSubmission(submission.id, {
         status: 'failed',
         message: 'Something broke on our side. Nothing was lost — try again shortly.',
+      }).catch(() => {
+        /* the disk is gone; the poller will time out and say so */
       });
     }
   })();

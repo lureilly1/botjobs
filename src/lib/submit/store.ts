@@ -66,23 +66,50 @@ let writing: Promise<void> = Promise.resolve();
 
 async function load(): Promise<StoreShape> {
   if (cache) return cache;
+
+  let raw: string;
   try {
-    cache = JSON.parse(await readFile(STORE, 'utf8'));
+    raw = await readFile(STORE, 'utf8');
   } catch {
+    // No file yet. The ordinary first-run case, and the only one worth
+    // treating as an empty store.
     cache = { submissions: {}, hits: {} };
+    return cache;
+  }
+
+  try {
+    cache = JSON.parse(raw);
+  } catch {
+    // The file is there and will not parse. Carrying on from empty would mean
+    // the next write replaces every stored submission with nothing, so refuse
+    // to start instead of quietly destroying the queue.
+    throw new Error(`Submissions store at ${STORE} exists but is unreadable.`);
   }
   return cache!;
 }
 
-/** Atomic write: a torn file would lose every pending submission at once. */
+/**
+ * Atomic write: a torn file would lose every pending submission at once.
+ *
+ * Throws when the write fails — a read-only or full disk, most likely. That is
+ * deliberate. The caller has to know the submission was not saved so it can say
+ * so, because the alternative is telling someone we have their removal request
+ * when we do not.
+ */
 async function persist(): Promise<void> {
-  writing = writing.then(async () => {
+  const attempt = writing.then(async () => {
     await mkdir(DATA_DIR, { recursive: true });
     const tmp = `${STORE}.${process.pid}.tmp`;
     await writeFile(tmp, JSON.stringify(cache), 'utf8');
     await rename(tmp, STORE);
   });
-  return writing;
+
+  // The queue continues from a settled promise, not a rejected one. Assigning
+  // `attempt` directly would leave every later write chained off a rejection
+  // and failing without trying, so one transient error would poison the store
+  // for the lifetime of the process.
+  writing = attempt.catch(() => {});
+  return attempt;
 }
 
 /** IPs are hashed. We need to count them, not know them. */

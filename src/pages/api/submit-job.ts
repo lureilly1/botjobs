@@ -47,23 +47,32 @@ export const POST: APIRoute = async ({ request }) => {
   const title = str('title', MAX.title);
   if (title.length < 8) return back(to, { error: 'short' });
 
-  const limited = await checkRateLimit(clientIp(request));
-  if (limited) return back(to, { error: 'rate' });
+  // Everything below writes to disk, and a read-only or full disk is the
+  // realistic failure. It must not reach the submitter as a stack trace: they
+  // typed something out and are entitled to know whether we kept it.
+  try {
+    const limited = await checkRateLimit(clientIp(request));
+    if (limited) return back(to, { error: 'rate' });
 
-  const submission = await createSubmission(
-    {
-      title,
-      outcome: str('outcome', MAX.outcome),
-      tried: str('tried', MAX.tried),
-      fromJob: str('fromJob', 80) || undefined,
-      submitter: str('submitter', MAX.submitter) || undefined,
-      note: '',
-    },
-    'job'
-  );
+    const submission = await createSubmission(
+      {
+        title,
+        outcome: str('outcome', MAX.outcome),
+        tried: str('tried', MAX.tried),
+        fromJob: str('fromJob', 80) || undefined,
+        submitter: str('submitter', MAX.submitter) || undefined,
+        note: '',
+      },
+      'job'
+    );
 
-  // No pipeline to wait on: it is stored, and that is the finished state.
-  await updateSubmission(submission.id, { status: 'received' });
+    // No pipeline to wait on: it is stored, and that is the finished state.
+    await updateSubmission(submission.id, { status: 'received' });
+  } catch (err) {
+    console.error('submit-job: could not store submission —', (err as Error).message);
+    return back(to, { error: 'storage' });
+  }
+
   void record(request, 'submit_bot', { slug: undefined, job: title.slice(0, 80) });
 
   return back(to, { posted: '1' });

@@ -41,24 +41,32 @@ export const POST: APIRoute = async ({ request }) => {
   const note = str('note', MAX.note);
   if (note.length < 4) return back({ error: 'short', bot: str('bot', MAX.bot) });
 
-  // Rate limited, but generously: this is the takedown route, so a shared
-  // office IP hitting the submission limit must not block a removal.
-  const limited = await checkRateLimit(clientIp(request));
+  try {
+    // Rate limited, but generously: this is the takedown route, so a shared
+    // office IP hitting the submission limit must not block a removal.
+    const limited = await checkRateLimit(clientIp(request));
 
-  const submission = await createSubmission(
-    {
-      bot: str('bot', MAX.bot) || undefined,
-      reason: form.get('reason') === 'removal' ? 'removal' : 'correction',
-      contact: str('contact', MAX.contact) || undefined,
-      note,
-      submitter: undefined,
-    },
-    'report'
-  );
-  await updateSubmission(submission.id, {
-    status: 'received',
-    message: limited ? 'Accepted over the rate limit — it is a report.' : undefined,
-  });
+    const submission = await createSubmission(
+      {
+        bot: str('bot', MAX.bot) || undefined,
+        reason: form.get('reason') === 'removal' ? 'removal' : 'correction',
+        contact: str('contact', MAX.contact) || undefined,
+        note,
+        submitter: undefined,
+      },
+      'report'
+    );
+    await updateSubmission(submission.id, {
+      status: 'received',
+      message: limited ? 'Accepted over the rate limit — it is a report.' : undefined,
+    });
+  } catch (err) {
+    // Of everything on this site, this is the request we least want to drop on
+    // the floor. Say plainly that it did not save and point at the route that
+    // does not depend on our disk.
+    console.error('report: could not store request —', (err as Error).message);
+    return back({ error: 'storage', bot: str('bot', MAX.bot) });
+  }
 
   return back({ posted: '1' });
 };

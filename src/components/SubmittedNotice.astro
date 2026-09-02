@@ -10,13 +10,18 @@ const params = Astro.url.searchParams;
 const posted = params.get('posted') === '1';
 const error = params.get('error');
 
+// `storage` means the write failed, so we have nothing. Saying "try again" is
+// not a platitude here — it is the difference between the submitter resending
+// and them believing we have something we do not.
 const message = posted
   ? null
   : error === 'short'
     ? 'That was too short to act on — give us a sentence.'
     : error === 'rate'
       ? 'That is a few submissions in quick succession. Try again shortly.'
-      : null;
+      : error === 'storage'
+        ? 'Something broke at our end and that was not saved — please do send it again, because we have not got it. Sorry.'
+        : null;
 ---
 
 {
