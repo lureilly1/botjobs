@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/keywire-would-you-rather-collector/"
   },
-  "description": null,
+  "description": "Runs collector-themed either/or prompts through tappable choice widgets rather than open text, with multi-select when several answers apply. A light interactive format for comics and collecting chat; not a research or valuation tool.",
   "official": {
     "title": "KeyWire: Would You Rather: Collector by VonDoom",
     "description": "From KeyWire.io:\nTap-first UX: yes/no and short choice sets MUST use question widgets (multiSelect when any mix applies; allowCustom only for a real...",

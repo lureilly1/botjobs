@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/latch/"
   },
-  "description": null,
+  "description": "Takes someone new to Grok Bots through a short interview about their job and software, wires up the relevant connectors, then completes an actual task before the conversation ends. Aimed squarely at the first hour of use; returning later to add more connections is part of the design rather than a fix.",
   "official": {
     "title": "Latch by Oliver",
     "description": "Walks a new Grok Bot user from their role and the tools they use to live connectors, then does a first real job in the same chat. Come back to connect...",

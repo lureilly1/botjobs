@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/blunt/"
   },
-  "description": null,
+  "description": "Takes a page URL and returns a written critique in the register of a senior product marketer: what works, what doesn't, and the single change worth making first. Useful when you want an outside read on positioning and copy, less so if you need implementation or ongoing iteration.",
   "official": {
     "title": "Blunt by Tal",
     "description": "Blunt is the review a senior product marketer would email after sitting with your page. Send a URL and get THE MEMO: the good, the bad, the one thing to...",

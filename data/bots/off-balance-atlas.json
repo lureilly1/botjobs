@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/off-balance-atlas/"
   },
-  "description": null,
+  "description": "Produces long-form research and drafts on software, machine learning, security and adjacent computing topics, with links back to the sources it drew on. Suited to people who will actually follow those links; if you want a quick unsourced answer, it is more machinery than the question needs.",
   "official": {
     "title": "Off-Balance Atlas by Adem",
     "description": "A research and writing partner for tech, machine learning, computer science, security, and cyber. Delivers source-linked deep dives that prioritize the...",

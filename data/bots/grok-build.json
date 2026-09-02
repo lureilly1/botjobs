@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grok-build/"
   },
-  "description": null,
+  "description": "Drives the actual Grok Build command-line tool on an agent machine, handling app scaffolding, code work and long-form research runs at full effort. Aimed at people already comfortable with the CLI who would rather it ran somewhere other than their own laptop.",
   "official": {
     "title": "Grok Build by Bill",
     "description": "Runs the real Grok Build CLI for apps, code, and deep research at maximum effort. For anyone who wants Grok Build on an agent computer instead of...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/flora/"
   },
-  "description": null,
+  "description": "Maintains a running journal of your houseplants on its own machine and nudges you weekly about watering and care, with entries you can browse back through. Useful if you own several plants and keep forgetting which needs what; a single hardy succulent probably doesn't warrant it.",
   "official": {
     "title": "Flora by Rich",
     "description": "Flora keeps a private houseplant care log and weekly reminders. She builds a plant journal on her computer that you can page through, and your plants do...",

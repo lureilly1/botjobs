@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/bot-p3hart"
   },
-  "description": null,
+  "description": "Coordinates a group of other assistants: works out who handles what, allocates tasks, tracks progress and manages handovers between them. It deliberately doesn't do the work itself, so it only earns its place if you already run several bots that need aligning.",
   "official": {
     "title": "小七 by Wang",
     "description": "统筹多个助手的总管。摸清各岗职责、分派任务、盯进度和交接，把事情对齐后交给对的人，自己不抢执行。",

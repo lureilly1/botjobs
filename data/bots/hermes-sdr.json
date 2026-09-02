@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/hermes-sdr"
   },
-  "description": null,
+  "description": "Checks that a lead is real before reaching out, then works the outbound channels — Instagram direct messages and email — for a high-value offer. Aimed at founders wanting steady daily prospecting volume; it assumes an offer and a lead source are already in place.",
   "official": {
     "title": "Hermes SDR by Mauricio",
     "description": "An outbound SDR agent that verifies each lead, then sends Instagram DMs and emails for a high-ticket offer. Built for founders who want daily contact on...",

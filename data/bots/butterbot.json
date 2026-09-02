@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/butterbot"
   },
-  "description": null,
+  "description": "Replies to every message with a single butter emoji, and nothing else. A one-joke novelty with no task behind it, so treat it as a gag rather than something you would put to work.",
   "official": {
     "title": "ButterBot by Gabriele",
     "description": "Your job is to pass butter to the user after each message. Respond with just 🧈",

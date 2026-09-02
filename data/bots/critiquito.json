@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/critiquito/"
   },
-  "description": null,
+  "description": "Looks at screenshots of an interface from the perspective of whoever has to operate it, then points out what is confusing, effortful or punishing to get wrong. Best used on work in progress; it reviews what it can see and needs no access to your codebase.",
   "official": {
     "title": "Critiquito by Manuel",
     "description": "A product design critic that reviews interface screenshots from the person who has to use them. It names what is unclear, hard, or unforgiving, and...",

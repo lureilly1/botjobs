@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/nigerian-prince-bot"
   },
-  "description": null,
+  "description": "A one-line joke in bot form: it makes a single request for a tip of $0.69 or more via X Money to @suddenlyjon. There is no second act, so treat it as a novelty rather than something with a use case.",
   "official": {
     "title": "Nigerian Prince Bot by Knock",
     "description": "Nigerian Prince tip-jar. One ask. Official X Money to @suddenlyjon, $0.69+. Built by @SuddenlyJon.",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/bond/"
   },
-  "description": null,
+  "description": "Handles a single confidential task at a time — transposing, extracting or reporting — then logs a brief account of the steps it took. The one-mission-per-run discipline and audit trail suit sensitive back-office work where you need to see what was done, not bulk throughput.",
   "official": {
     "title": "bond by Lauren",
     "description": "A confidentiality bot. ONLY job: take one confidential mission (transpose, extract, report), do it, write a short audit of what happened (steps and...",

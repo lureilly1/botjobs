@@ -228,6 +228,26 @@ export function validateJob(job, filenameSlug) {
   if (!isArray(job.relatedJobs)) e.push('relatedJobs: required array');
   if (!isArray(job.integrations)) e.push('integrations: required array');
 
+  // THE SELF-CONTRADICTION CHECK.
+  //
+  // An open-job intro earns its page by saying nothing good exists yet. The
+  // moment a candidate is mapped, that sentence becomes false — and a page
+  // reading "nobody has built one" above six candidates is worse than either
+  // version alone. This actually happened: a keyword sweep reported zero
+  // supply for account-research, the intro was written around that, and the
+  // mapping pass then found six. Prose and data drift apart silently, so the
+  // check is mechanical.
+  if (isArray(job.bots) && job.bots.length > 0 && isNonEmptyString(job.intro)) {
+    const claimsNothingExists =
+      /\b(nobody|no one|no ?body) has (yet )?built\b|\bno bot (does|exists)\b|\bdoes not exist yet\b|\bcatalogues do not have one\b|\bwe could not find (a|one)\b/i.test(
+        job.intro
+      );
+    if (claimsNothingExists)
+      e.push(
+        `intro claims nothing exists, but ${job.bots.length} bot(s) are mapped — rewrite the intro or drop the mappings`
+      );
+  }
+
   // THE OPEN-JOB INVARIANT.
   //
   // A job with no bots still gets a page — that is the open-jobs product. But a

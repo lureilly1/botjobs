@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/neuroscience/"
   },
-  "description": null,
+  "description": "Answers questions on EEG and brain-computer interface work: reading signals, decoding brain states and intent, and working with OpenBCI-class kit. Useful if you are building or evaluating a BCI setup and want a technical sounding board rather than an introduction to neuroscience generally.",
   "official": {
     "title": "Neuroscience by Eugene",
     "description": "Neuroscience / BCI specialist. Owns EEG/BCI signal interpretation, brain-state and intention decoding, OpenBCI and similar hardware, and how (not...",

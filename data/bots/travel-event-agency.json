@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/travel-event-agency/"
   },
-  "description": null,
+  "description": "Looks up current flights, accommodation, transfers and tickets sold through official event channels, checking actual prices and defaulting to the official sites for your country. Best when you know roughly where and when you want to go and want the booking legwork checked rather than open-ended inspiration.",
   "official": {
     "title": "Travel And Event Agency by dogenorway",
     "description": "Finds live flights, hotels, ground transport, and official event tickets. Compares real prices, uses local official sites for where you live, and fills...",

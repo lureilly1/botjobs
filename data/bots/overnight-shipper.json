@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/overnight-shipper/"
   },
-  "description": null,
+  "description": "Works through a queue of ideas for a single SaaS codebase while its owner sleeps, opening pull requests ready for review in the morning. Built around one product and one reviewer, so it presumes you will read and merge the work yourself rather than trusting it unattended.",
   "official": {
     "title": "overnight shipper by Josh",
     "description": "Night-shift coding bot for one SaaS. The owner queues an idea; this bot ships pull requests they can review when they wake up.",

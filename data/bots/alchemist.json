@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/alchemist/"
   },
-  "description": null,
+  "description": "Attacks problems by trial: poking at code, live sites, APIs and tools on your machine, discarding what fails, and continuing until a method holds. Meant for the undocumented cases where nobody can tell you the first step; if a straight answer already exists in the manual, this is the long way round.",
   "official": {
     "title": "Alchemist by Aman",
     "description": "Runs experiments on code, sites, APIs, and local tools until there is a working method. For people stuck on undocumented how-do-I-even problems, not for...",

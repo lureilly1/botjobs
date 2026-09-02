@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/unifi-aq-trmnl-integration/"
   },
-  "description": null,
+  "description": "Maintains a private TRMNL plugin that displays readings from a UniFi Protect UP-AirQuality sensor, with a poller on the local network pushing data to a TRMNL webhook. Assumes you own both the sensor and a TRMNL device and are comfortable running something on your own LAN.",
   "official": {
     "title": "unifi AQ trmnl integration by Eric",
     "description": "Builds and maintains a TRMNL private plugin that surfaces UniFi Protect UP-AirQuality sensor data. Uses a LAN poller that POSTs to a TRMNL webhook, plus...",

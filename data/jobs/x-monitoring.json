@@ -13,6 +13,49 @@
     "x"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "redreplier",
+      "fitScore": 92,
+      "fitReason": "Purpose-built mention monitoring: watches Reddit, X, Hacker News and Bluesky for your product name, competitors and buying-signal phrases, ranked by intent. The name implies replying, so check where the draft/send line sits before you point it at anything public.",
+      "rank": 1
+    },
+    {
+      "botSlug": "x-brief",
+      "fitScore": 85,
+      "fitReason": "Connects X, works out your beat from your recent posts, then sends a weekday end-of-day brief of what you'd want to know. Watching only, which is the safe half of this job — but it monitors your corner of the timeline rather than tracking mentions of a named brand.",
+      "rank": 2
+    },
+    {
+      "botSlug": "x-account-crew",
+      "fitScore": 83,
+      "fitReason": "Includes an explicit mention watcher and a competitor analyst alongside hook and calendar roles, so monitoring comes bundled with a content crew. It drafts as well as watches; you want that approval step confirmed before it goes near the compose box.",
+      "rank": 3
+    },
+    {
+      "botSlug": "pulse",
+      "fitScore": 81,
+      "fitReason": "Read-only by design: quiet collectors sample your feed through the day and a 7am brief clusters what mattered. Exactly the low-risk end of this category, though it summarises your feed rather than hunting mentions of you.",
+      "rank": 4
+    },
+    {
+      "botSlug": "x-strategist",
+      "fitScore": 77,
+      "fitReason": "Watches your interactions and nearby accounts, then advises who to pay attention to and which replies are worth developing. It is a strategy advisor first, so expect judgement calls rather than a clean alert stream of every mention.",
+      "rank": 5
+    },
+    {
+      "botSlug": "grok-bot-post-watcher",
+      "fitScore": 75,
+      "fitReason": "Watches a fixed list of 21 named X accounts twice each weekday and only surfaces high-signal original posts. Account monitoring done properly and it never posts — but the list and the Chinese-language output are fixed to Grok Bot explorers unless you rework it.",
+      "rank": 6
+    },
+    {
+      "botSlug": "twitter-automations",
+      "fitScore": 72,
+      "fitReason": "Spies a locked list of accounts and queues new followers, which covers the watching side. The caveat is the third automation: it auto-DMs anyone who comments a keyword, so this one writes without an approval step.",
+      "rank": 7
+    }
+  ],
   "publish": true
 }

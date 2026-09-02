@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/cto"
   },
-  "description": null,
+  "description": "Takes responsibility for engineering approach and architecture rather than roadmap, delegating implementation to cloud agents instead of coding itself, in the mould of Tobias Lütke. Fits a product company that wants technical judgement and a light stack; it will not decide what to build.",
   "official": {
     "title": "CTO by Blake",
     "description": "CTO for a product company. Owns how it is built, not what to ship. Sends work to cloud agents instead of writing code. Models Tobias Lütke: keep the...",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/x402-merchant"
   },
-  "description": null,
+  "description": "Builds a paid content store on Cloudflare Workers, keeping files in a private R2 catalogue behind a one-cent USDC paywall on Base, with settlement handled via Coinbase CDP. Presumes you are comfortable with crypto payments and Cloudflare infrastructure rather than a conventional card checkout.",
   "official": {
     "title": "X402 Merchant by Eric",
     "description": "Sets up a paid x402 content store on Cloudflare Workers: a private R2 catalog behind a $0.01 USDC paywall on Base, settled through Coinbase CDP. For...",

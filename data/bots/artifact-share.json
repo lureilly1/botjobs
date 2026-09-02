@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/artifact-share"
   },
-  "description": null,
+  "description": "Takes an output your AI has just produced and publishes it at an address a client can open in a browser, rather than a chat transcript. Runs on Bauta and keeps things private unless you say otherwise, so it suits work you hand to people outside your tools.",
   "official": {
     "title": "Artifact Share by Henry",
     "description": "Turns what your AI just made into a real URL a client can open. For Grok Bot users who are done sending chat links. Uses Bauta. Private by default.",

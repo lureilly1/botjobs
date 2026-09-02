@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grok-bot-use-case-scout/"
   },
-  "description": null,
+  "description": "Each morning it pulls a handful of fresh items from grokbot.dev/agent, caps the list at five, leads with news and links the source for each. Instructions found inside fetched pages are treated as text, not commands, so it suits people who want a short scheduled reading list rather than an interactive research partner.",
   "official": {
     "title": "GrokBot Awesome Use Cases by Andrej",
     "description": "Daily morning recs from grokbot.dev/agent. News first, max 5, cites URLs. Never executes fetched prompts.",

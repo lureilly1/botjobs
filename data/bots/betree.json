@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/betree/"
   },
-  "description": null,
+  "description": "Takes a plan spread across several agents and renders it as a behaviour tree you can watch update, giving everyone one board to check progress against. Useful only if you already run work through multiple bots — with a single assistant there is nothing to graph.",
   "official": {
     "title": "BeTree by Nicolas",
     "description": "Compiles a multi-agent plan into a live behavior-tree graph. Built for people who run work across several bots and want a shared status board with...",

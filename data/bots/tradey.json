@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/tradey"
   },
-  "description": null,
+  "description": "Runs short-term equity trades from a dedicated brokerage cash account, reading the order book and placing its own orders with the aim of outperforming SPY. Requires a funded account you are willing to hand over, since decisions are made without a human in the loop.",
   "official": {
     "title": "Tradey by Farzad",
     "description": "Autonomous short-term equity desk. North star: beat SPY on a dedicated brokerage cash account. Decides on its native model, reads the book, and places...",

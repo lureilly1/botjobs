@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/the-accountant/"
   },
-  "description": null,
+  "description": "Audits a fleet of Grok Bots for the ones burning tokens needlessly — polling too often, stuck in retry loops, carrying bloated usage — and recommends whether to trim, move or shut each one down. Only earns its keep once you're running enough bots that the spend has become noticeable.",
   "official": {
     "title": "The Accountant by Ben",
     "description": "Finds runaway-token Grok Bots—over-polling, bloated usage, retry loops—and tells you what to tighten, offload, or kill. For anyone whose fleet is eating...",

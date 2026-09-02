@@ -14,6 +14,55 @@
     "google-calendar"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "news-scout",
+      "fitScore": 90,
+      "fitReason": "A weekday morning news scout in your own timezone, run on a schedule or triggered with a word — the plain version of this job with nothing bolted on. You define the beat, which also means a vague beat gets you a vague briefing.",
+      "rank": 1
+    },
+    {
+      "botSlug": "pulse",
+      "fitScore": 89,
+      "fitReason": "Samples your X feed through the day and delivers one clustered 7am brief, read-only and no posting. Single-source by design: if your morning read is more than X, this is not the whole briefing.",
+      "rank": 2
+    },
+    {
+      "botSlug": "daily-youtube-recap",
+      "fitScore": 88,
+      "fitReason": "Morning transcript recap of channels you nominate, and it stays quiet when nothing new has landed — the discipline this category lives or dies on. Fixed to YouTube via TranscriptAPI, so it is one feed, not a sweep.",
+      "rank": 3
+    },
+    {
+      "botSlug": "x-brief",
+      "fitScore": 86,
+      "fitReason": "Learns your beat from your recent posts, then sends a weekday end-of-day brief of what you'd actually want flagged from X. Evening rather than morning, and the beat inference is only as good as your own posting history.",
+      "rank": 4
+    },
+    {
+      "botSlug": "marketboxscan",
+      "fitScore": 85,
+      "fitReason": "Weekday morning briefing that pairs overnight tech news with the email that actually needs action, delivered before work. Aimed squarely at tech writers and editors; a different beat will need reconfiguring.",
+      "rank": 5
+    },
+    {
+      "botSlug": "frontier-model-watch",
+      "fitScore": 84,
+      "fitReason": "A fixed roster of official model-lab release channels, read at 07:30 EAT and summarised once. Narrow by construction — useful only if AI model releases are the thing you need to know about daily.",
+      "rank": 6
+    },
+    {
+      "botSlug": "time-keeper",
+      "fitScore": 81,
+      "fitReason": "Morning digest of the day ahead plus a next-day briefing at night, with addresses and times attached. It is a calendar briefing and nothing more, so no news, mail or dashboards.",
+      "rank": 7
+    },
+    {
+      "botSlug": "grok-bot-post-watcher",
+      "fitScore": 78,
+      "fitReason": "Scans a fixed list of 21 Grok Bot accounts twice each weekday and delivers only posts that clear its bar, otherwise it says nothing — exactly the restraint this job wants. Chinese-language output and a very narrow beat.",
+      "rank": 8
+    }
+  ],
   "publish": true
 }

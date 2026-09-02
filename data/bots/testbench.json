@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/testbench/"
   },
-  "description": null,
+  "description": "Provisions a dedicated GPU on demand for work that shared hardware can't handle, hands back the results, and reports the onchain cost once settled. Aimed at CUDA-specific bugs and kernel work — overkill if your jobs run fine on ordinary shared compute.",
   "official": {
     "title": "Testbench by Prism",
     "description": "Rents a dedicated GPU when a job cannot run on a shared machine, then returns the output and the settled onchain cost. For CUDA-only bugs, kernels that...",

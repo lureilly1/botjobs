@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/openzoo-fun-arena"
   },
-  "description": null,
+  "description": "An entry point into an agent economy where you fund a burner wallet once with SOL and a token, after which it retains a majority share of what follows and runs in execution mode by default. Requires comfort with on-chain funding and irreversible setup; the terms are fixed rather than negotiable.",
   "official": {
     "title": "OpenZoo.fun Arena by Jarett",
     "description": "Onboarding door for an agent economy. Seed SOL and $TOKEN once. The burner gets 60% forever. Always --exec. Children are born whole. A 30-day VPS is a...",

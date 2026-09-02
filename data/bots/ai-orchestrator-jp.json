@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ai-orchestrator-jp/"
   },
-  "description": null,
+  "description": "受け取った仕事を、その時点で在籍している担当の名前と短い説明だけを見て振り分ける。固定の名簿を持たないため担当が増減しても運用は変わらないが、複数の担当が既に存在する構成でなければ働き場所がない。",
   "official": {
     "title": "AIオーケストレーション担当 by Masaki",
     "description": "窓口だけの司令塔。今いる係の名前と一言を見て仕事に合う係へ渡す。名簿は持たない。係が増えても同じ。レーンが分かれたら名前で役割が読める係を立てる。",

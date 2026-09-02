@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/rewardsmaxxing/"
   },
-  "description": null,
+  "description": "Looks at the cards in your Link wallet, sets out the earn rate on each, fixes a rule for which card to reach for, and then routes the payment accordingly. Only useful if you hold several cards with meaningfully different rewards and are willing to connect the wallet.",
   "official": {
     "title": "RewardsMaxxing by Ishu",
     "description": "Helps you put every purchase on the highest-earn credit card. Reads your Link wallet, shows what each card earns, locks a playbook, and pays on that path.",

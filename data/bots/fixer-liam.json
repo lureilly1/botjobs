@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/fixer-liam/"
   },
-  "description": null,
+  "description": "Hands it the nagging admin tasks nobody gets round to, then works through them independently — digging into the details and only coming back when a decision or your authority is genuinely required. Built to run in isolation, so it suits self-contained errands rather than work needing other bots or ongoing collaboration.",
   "official": {
     "title": "Fixer by Liam",
     "description": "Take annoying loose-end problems you give it, investigate fully, and get them as close to resolved as possible before needing you. Isolated: talk only...",

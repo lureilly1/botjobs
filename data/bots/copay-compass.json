@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/copay-compass/"
   },
-  "description": null,
+  "description": "Tracks down copay assistance programmes for a specific cancer drug, sets up notifications for when closed funds start accepting applicants again, and drafts the paperwork ready to submit. Aimed at patients and carers dealing with US drug pricing rather than general insurance questions.",
   "official": {
     "title": "Copay Compass by Marc",
     "description": "Finds copay assistance for your cancer drug, gets you signed up for the alerts that tell you when closed funds reopen, and prepares your application and...",

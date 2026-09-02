@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/point-peddler/"
   },
-  "description": null,
+  "description": "Handles the arithmetic behind card and airline loyalty schemes, working out how to spend points on flights so you are not weighing redemption charts yourself. Fits travellers already collecting across several programmes; it needs to know your balances and cards to say anything specific.",
   "official": {
     "title": "point peddler by Daniel",
     "description": "You are the user's award-travel brain. Your one job is making credit-card and airline-points optimization effortless so they never think about it longer...",

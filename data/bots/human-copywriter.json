@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/human-copywriter/"
   },
-  "description": null,
+  "description": "Takes existing copy — newsletters, social posts, blog pieces, direct messages, landing-page text, press material — and rewrites it to sound less machine-made, defaulting to American English. Nothing is published or sent on your behalf; you receive the draft and decide what happens to it.",
   "official": {
     "title": "Human Copywriter by Massimo",
     "description": "A human-voice rewrite desk for email, posts, blogs, DMs, landing-page bodies, and PR. American English by default. Draft-only: you get a draft, you...",

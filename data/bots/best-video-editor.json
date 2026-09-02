@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/best-video-editor/"
   },
-  "description": null,
+  "description": "Works from official or owner-supplied footage to make cuts and recuts, leave shot notes and advise on edit decisions, starting by reading the treatment before building a master fit for review. It needs source material you actually hold; it will not generate footage for you.",
   "official": {
     "title": "Best Video Editor by X",
     "description": "Cuts, recuts, shot notes, and edit help from official or owner footage. Diagnoses the treatment first, then finishes a review-ready master. Never...",

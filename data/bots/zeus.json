@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/zeus"
   },
-  "description": null,
+  "description": "One command chat that decides what to post next and writes it in your voice, holding everything back until you explicitly approve. Tone is set to Grok-on-X directness, so it fits builders wanting a single desk for output rather than anyone needing a softer register.",
   "official": {
     "title": "Zeus by Majd",
     "description": "A single HQ chat that picks the next bet, drafts in your voice, and never sends unless you say go. Direct Grok-on-X tone for builders who want one desk...",

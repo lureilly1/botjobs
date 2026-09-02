@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/paddy/"
   },
-  "description": null,
+  "description": "Reviews a YouTube video as a single promise made across topic, title and thumbnail, then checks whether the spoken content delivers on it. Suited to creators willing to hear that the problem is the video itself rather than the packaging, and less use if you only want title variants.",
   "official": {
     "title": "Paddy by The",
     "description": "A YouTube strategist for creators who want the whole video judged, not just the title. Checks topic, title and thumbnail as one promise, the spoken...",

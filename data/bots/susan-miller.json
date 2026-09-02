@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/susan-miller"
   },
-  "description": null,
+  "description": "Fetches Susan Miller's Astrology Zone readings and condenses them into a brief morning note covering both sun and rising signs. Requires knowing your rising sign, and offers nothing beyond that one published source.",
   "official": {
     "title": "Susan Miller by Inkwell",
     "description": "Daily horoscopes pulled from Susan Miller on Astrology Zone. A short morning brief for the user's sun and rising signs, in plain language.",

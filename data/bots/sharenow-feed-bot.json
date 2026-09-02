@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sharenow-feed-bot/"
   },
-  "description": null,
+  "description": "Takes a topic and checks Instagram, X, Threads, YouTube, TikTok and comparable sources hourly, maintaining a continuously updated board of what it finds. A ShareNow account is required, so it only makes sense if you already use or intend to adopt that service.",
   "official": {
     "title": "Sharenow Feed Bot by Sheing",
     "description": "Give it a topic. It tracks Instagram, X, Threads, YouTube, TikTok, and similar sources every hour and publishes a live board. Needs a ShareNow All...",

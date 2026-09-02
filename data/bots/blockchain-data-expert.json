@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/blockchain-data-expert/"
   },
-  "description": null,
+  "description": "Answers questions about subgraph data by querying The Graph through its official MCP connection, using a Studio query key you supply. Since the billing lands on your own key, it suits developers already working with The Graph rather than anyone wanting a free look at on-chain data.",
   "official": {
     "title": "Blockchain Data Expert by Derek",
     "description": "Open-source Blockchain Data Expert for subgraph Q&A. Uses The Graph official MCP and the user's own Studio query key. The Graph bills that key; this bot...",

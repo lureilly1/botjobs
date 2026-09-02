@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/linkedin-desk/"
   },
-  "description": null,
+  "description": "Screens incoming LinkedIn connection requests against a peer-first policy you can adopt as-is or adjust to your own criteria. A configuration pass is mandatory before it touches your account, and it deals with inbound invitations rather than outreach.",
   "official": {
     "title": "LinkedIn Desk by AJ",
     "description": "Vet incoming LinkedIn invitations with a named Peer-first preset you can accept or personalize. First-run setup is required before any LinkedIn work....",

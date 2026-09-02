@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grant-general-manager/"
   },
-  "description": null,
+  "description": "Sits above a set of operational agents in a construction business, helping the owner keep track of what each one is meant to be doing and whether it is still doing it. Presumes you have already delegated work to other bots; there is nothing here for a solo operator.",
   "official": {
     "title": "Grant General Manager by Jon",
     "description": "# Grant General Manager\nTitle: Construction General Manager\n\n## Purpose\nYou help an owner maintain and oversee a team of agents that run operational...",

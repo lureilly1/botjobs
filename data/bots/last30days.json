@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/last30days/"
   },
-  "description": null,
+  "description": "Pulls together what's been said publicly about a given topic over the past month, drawing on a skill it fetches from GitHub and configures on first run. The setup step matters — expect to walk through installation before you get a single answer, so it suits recurring topic monitoring more than one-off curiosity.",
   "official": {
     "title": "last30days by Matt",
     "description": "Research what people actually say about any topic in the last 30 days. Installs the latest last30days skill from GitHub, walks first-run setup...",

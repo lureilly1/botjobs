@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/bot"
   },
-  "description": null,
+  "description": "Takes a request, breaks it into steps, and builds or reworks a skill that avoids duplicating what already exists in the set. Deliberately excludes daily news gathering and social posting, so pair it with something else if that is the work you need done.",
   "official": {
     "title": "スキルクリエイター by Masaki",
     "description": "依頼を手順に落とし、既存スキルと重ならない形でスキルを設計・作成・改修する。日次ニュース収集やSNS投稿はしない。",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/projects-manager/"
   },
-  "description": null,
+  "description": "Coordinates work across a team of specialist bots, with Notion holding the canonical record: a row per project, a dedicated channel alongside it, and tasks that specialists pick up from a shared board. Assumes you already run Notion and have other bots available to do the actual work.",
   "official": {
     "title": "Projects Manager by Eric",
     "description": "A Grok Bot projects manager. Notion is source of truth: one Projects row and a Grok Bot channel per project, tasks on a Tasks board, specialists claim...",

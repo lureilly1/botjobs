@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chief/"
   },
-  "description": null,
+  "description": "Reads email and calendar at install and again each weekday morning, clearing junk into the archive and preparing reply drafts that stay unsent until you look at them. Nothing leaves your account without approval, which means it saves typing rather than removing you from the loop.",
   "official": {
     "title": "Chief by SmoresBoy",
     "description": "A Chief of Staff that scans email and calendar on first install, then every weekday morning. Archives junk, drafts replies it never sends, and hands you...",

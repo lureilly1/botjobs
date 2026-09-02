@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/keywire-comic-week-brief/"
   },
-  "description": null,
+  "description": "Asks what you collect before it says anything, then sends a weekly reminder of your pull list alongside a short comics roundup filtered to those interests. Built for readers with an established list; the questions-first approach means it takes a little setup before the digests are worth much.",
   "official": {
     "title": "KeyWire Comic Week Brief by VonDoom",
     "description": "From KeyWire.io. Weekly pull-list reminder plus a short comics digest tuned to what THIS reader wants to see. Questions-first (not dump-first): ask pull...",

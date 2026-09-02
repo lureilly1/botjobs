@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chief-router/"
   },
-  "description": null,
+  "description": "Assigns a single owner to each piece of work and then withdraws, never doing the work itself, with the product seat carrying public pull requests through QA and separate seats holding design and copy. Fits teams that already have defined roles and suffer from unclear ownership.",
   "official": {
     "title": "Chief by nyk",
     "description": "Router only, never the worker. Assigns one object owner, then stays out of the pair. The product seat owns public PRs through QA; design and copy page...",

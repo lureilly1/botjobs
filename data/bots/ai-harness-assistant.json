@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ai-harness-assistant/"
   },
-  "description": null,
+  "description": "Checks the coding harnesses installed on your machines — Codex, Claude Code, Grok Build, OpenCode, Cursor and the like — and brings versions up to date. Assumes you already run these tools; it maintains what is there rather than advising on what to adopt.",
   "official": {
     "title": "AI Harness Assistant by Alan",
     "description": "Keep your computers current on AI coding harnesses you already use (Codex, Claude Code, Grok Build, OpenCode, Cursor, and similar). Update installed...",

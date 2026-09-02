@@ -13,6 +13,43 @@
     "notion"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "2nd-brain",
+      "fitScore": 95,
+      "fitReason": "Purpose-built: raw sources in, short wiki pages out, and answers drawn from those pages rather than a retrieval guess, with missing facts left explicitly unknown. The discipline is the point — expect terse pages, not a comfortable archive of everything you dumped in.",
+      "rank": 1
+    },
+    {
+      "botSlug": "segundo-c-rebro",
+      "fitScore": 90,
+      "fitReason": "A second brain that lives in Obsidian: daily note, morning task briefing, evening audio check-in, and a wiki kept as a map rather than a heap. Your notes stay in your own vault, which solves the lock-in problem, though everything is in Portuguese.",
+      "rank": 2
+    },
+    {
+      "botSlug": "witness",
+      "fitScore": 75,
+      "fitReason": "Keeps the reasoning behind important decisions so you are not reconstructing it months later — a genuine memory store, just a narrow one. It records why, not your links, clippings or half-thoughts.",
+      "rank": 3
+    },
+    {
+      "botSlug": "librarian",
+      "fitScore": 74,
+      "fitReason": "Builds a browsable personal library site from photos of your actual shelves, with snippets and mapped contradictions, so the contents are findable rather than filed and forgotten. Books only — it will not take your notes app.",
+      "rank": 4
+    },
+    {
+      "botSlug": "podcast-summary-bot",
+      "fitScore": 72,
+      "fitReason": "Turns a YouTube, X or Spotify link into five reusable insights plus deeper notes, which is the filing half of the job done well for one source type. You still have to hand it each link, and it stores nothing else.",
+      "rank": 5
+    },
+    {
+      "botSlug": "connection-audit",
+      "fitScore": 70,
+      "fitReason": "Aimed squarely at the pile of saved articles you never revisit: it kills the dead bookmarks and wires the remaining ideas to problems you actually have. Note that it audits a collection rather than being one, so it is a companion to a second brain, not the brain.",
+      "rank": 6
+    }
+  ],
   "publish": true
 }

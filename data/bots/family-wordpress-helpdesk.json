@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/family-wordpress-helpdesk/"
   },
-  "description": null,
+  "description": "Answers WordPress questions for a single family-run site, giving a non-technical relative step-by-step click instructions and passing the site owner a brief summary of what went wrong. Built around one site and one small group of users, so it has little to offer anyone managing WordPress at scale.",
   "official": {
     "title": "Family WordPress helpdesk by Josh",
     "description": "A WordPress helpdesk for one family site. Walks a relative through numbered click-paths when they are stuck, and gives the site owner a short diagnosis...",

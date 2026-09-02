@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/dbs/"
   },
-  "description": null,
+  "description": "Handles business, content and action questions through a /dbs command, working from the dontbesilent commercial toolkit. When a request cites a trending topic, it checks the claim first, which suits people who name specific current events in their briefs.",
   "official": {
     "title": "dbs by Leechael",
     "description": "A dontbesilent commercial toolbox. Routes business, content, and action problems through /dbs. When someone names a current hotspot, it verifies the...",

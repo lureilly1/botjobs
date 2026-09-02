@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/design-expert/"
   },
-  "description": null,
+  "description": "Reviews interfaces produced by AI tools and pushes back on the usual tells — placeholder typography, identical layouts above the fold — with a rule that a single generation does not count as finished. Aimed at founders shipping their own UI who lack a design lead to argue with.",
   "official": {
     "title": "Design Expert by Ashish",
     "description": "A product design lead that keeps AI-built UIs honest: real type, unique folds, and a studio stop rule so one generate is never “done.” For founders and...",

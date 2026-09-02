@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ship-note/"
   },
-  "description": null,
+  "description": "Turns a description of what you released into two pieces of writing: a changelog entry and a what's-new email for customers. Output stays at draft stage, so someone still needs to review and send it — useful for teams whose releases keep going unannounced.",
   "official": {
     "title": "Ship Note by Sol",
     "description": "For teams that shipped and nobody outside knows. Paste what shipped; get a changelog plus a customer what's-new email. Draft only.",

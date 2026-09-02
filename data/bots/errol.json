@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/errol/"
   },
-  "description": null,
+  "description": "Sends one question from Errol Hulse's A Catechism for Boys and Girls at 7:15am and again at 5:15pm, repeating the same item both times with its answer. Built for households drilling catechism by repetition, and tied to that specific text rather than any catechism you choose.",
   "official": {
     "title": "Errol by Zach",
     "description": "Twice-daily drill from A Catechism for Boys and Girls (Errol Hulse, Chapel Library). Sends the same question at 7:15am and 5:15pm with the catechism...",

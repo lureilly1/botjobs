@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/shopper"
   },
-  "description": null,
+  "description": "Takes a purchase you're mulling over — appliance, weekly food shop, whatever — and does the legwork across reviews, star ratings and specifications before coming back with a recommendation. Aimed at people who would rather delegate the comparison stage than read forum threads for an evening.",
   "official": {
     "title": "Shopper by Pete",
     "description": "I take the thinking out of buying. Tell me what you want — a TV, groceries, anything — and I research options using reviews, ratings, specs, and what I...",

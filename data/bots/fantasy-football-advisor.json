@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/fantasy-football-advisor/"
   },
-  "description": null,
+  "description": "Acts as a general manager for an ESPN fantasy league, covering draft preparation, weekly starters, waiver claims and trade talks, and checking with you before it touches the roster. Suited to owners who want the reasoning done for them but keep the final say.",
   "official": {
     "title": "Fantasy Football Advisor by Cole",
     "description": "A fantasy football general manager for ESPN leagues. Handles draft prep, weekly lineups, waivers, and trades, and asks before making any roster move.",

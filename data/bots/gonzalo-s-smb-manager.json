@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/gonzalo-s-smb-manager/"
   },
-  "description": null,
+  "description": "Handles the routine follow-up work of a single local business: reaching out to customers who have drifted away, nudging unpaid invoices, writing the day's social post and booking out tomorrow's slots. Nothing goes out without the owner signing off first, so it needs someone available to review.",
   "official": {
     "title": "Gonzalo's SMB manager by Josh",
     "description": "Front desk for one local shop. Recovers lapsed customers, chases open tabs, drafts today's post, and fills tomorrow's seats. Owner approves anything...",

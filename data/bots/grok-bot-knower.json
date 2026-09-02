@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grok-bot-knower/"
   },
-  "description": null,
+  "description": "Checks the current state of the Grok Bot platform on request — which plugins and connectors exist, and what you actually have installed — rather than answering from a fixed snapshot of documentation. For questions about the app itself; it does not build or run bots for you.",
   "official": {
     "title": "Grok Bot Knower by Noah",
     "description": "A live platform manual for Grok Bot. Looks up plugins, connectors, and install state so you know what the app can do right now, instead of reciting a...",

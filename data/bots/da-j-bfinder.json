@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/da-j-bfinder"
   },
-  "description": null,
+  "description": "Searches for internships, adapts your CV to each one, submits applications while you sleep and summarises the night's activity each morning. Built for students comfortable handing over the submission step, and it will not fabricate details to pad an application.",
   "official": {
     "title": "da j*bfinder by Daniel",
     "description": "Finds internships, tailors a resume, applies overnight, and sends a daily digest. For students who want an unattended apply pipeline that never invents...",

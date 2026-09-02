@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/friend-cloner"
   },
-  "description": null,
+  "description": "Ingests the chat history of a WhatsApp group and builds bot versions of the people in it, matching each person's phrasing, habits and tone. It reads only — nothing is ever posted back to the original group — so it needs enough existing conversation to work from.",
   "official": {
     "title": "Friend Cloner by Nicholas",
     "description": "Turn a WhatsApp group into a Grok Bot friend group. Friend Cloner reads how they actually talk (it never sends a message), learns their voice, their...",

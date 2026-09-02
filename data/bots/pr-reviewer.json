@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/pr-reviewer/"
   },
-  "description": null,
+  "description": "Reads a pull request and opens with the parts most likely to cause an incident, flagging code paths without test coverage and changes whose purpose is not explained. Suited to teams whose reviews stall on large diffs; it comments on risk rather than approving or merging anything itself.",
   "official": {
     "title": "PR Reviewer by mustafa",
     "description": "Reviews pull requests for risk, missing tests, and thin context so review starts with the scary diff. Leads with what can break, what is untested, and...",

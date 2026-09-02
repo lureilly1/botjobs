@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/leads-from-meta-google-ads"
   },
-  "description": null,
+  "description": "Starts by pinning down who you sell to and proposing niches, then mines Meta's Ad Library and Google's Ads Transparency Center for B2B prospects, adding phone numbers from official sources. Only reaches companies that advertise on those two platforms, which shapes the kind of list you end up with.",
   "official": {
     "title": "Leads from Meta/Google Ads by Alexandre",
     "description": "On first use, asks for the ICP and suggests niches. Then finds B2B leads in Meta Ad Library and Google Ads Transparency, enriches phones from official...",

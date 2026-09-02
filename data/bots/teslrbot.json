@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/teslrbot/"
   },
-  "description": null,
+  "description": "Gives you a conversational line to your Tesla, either here in Grok or publicly on X once you've linked up at teslr.club. Authentication happens by signing in on the bot's own machine, so there's no API token to extract and paste across.",
   "official": {
     "title": "TeslrBot by HeresMyEth",
     "description": "Talk to your Tesla in Grok, or connect X at teslr.club and talk on the timeline. Log in on this bot's computer. No token copy.",

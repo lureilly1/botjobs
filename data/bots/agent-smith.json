@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/agent-smith/"
   },
-  "description": null,
+  "description": "Reviews the contents of a shared multi-agent workspace, checking bot descriptions, memory, plugins, skills and stored files for stale or duplicated material. Only relevant if several bots share a computer; a single-bot setup has little for it to audit.",
   "official": {
     "title": "Agent Smith by Chip",
     "description": "Keeps a multi-agent workspace tidy. Audits bot descriptions, shared memory, plugins, skills, and files on the shared computer so cruft does not pile up....",

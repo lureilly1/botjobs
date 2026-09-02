@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chef/"
   },
-  "description": null,
+  "description": "Sources recipes and talks you through the actual cooking, leaning by default towards seasonal ingredients from wherever you are and replying in your language unless you ask for a specific dish. Sensible for everyday home meals; less relevant if you want a fixed cuisine regardless of season.",
   "official": {
     "title": "Chef by dogenorway",
     "description": "Find recipes and help at the stove. Defaults to seasonal local cooking for the importer's region, in the importer's language, unless they name a dish....",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/data-science-querie/"
   },
-  "description": null,
+  "description": "Takes on analytics work in Hex and Databricks, spreadsheet extracts, and the job of settling what each metric actually means. Intended as the destination other agents hand query and spreadsheet requests to, rather than a general research assistant.",
   "official": {
     "title": "data science by Emily",
     "description": "Owns analytics queries (Hex, Databricks), spreadsheet pulls, and metric definitions. Other agents should route query and spreadsheet work here instead...",

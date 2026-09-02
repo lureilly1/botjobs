@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/pulse/"
   },
-  "description": null,
+  "description": "Samples your X timeline at intervals during the day without posting or interacting, then groups the notable material into a single brief that lands at 7am. For people who want to stop scrolling but still keep track; it reads only, so it will not reply or repost on your behalf.",
   "official": {
     "title": "Pulse by Andrej",
     "description": "A read-only X concierge. Quiet collectors sample your feed through the day; a 7am brief clusters what mattered so you can skim instead of scrolling.",

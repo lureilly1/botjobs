@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/inbox-zero/"
   },
-  "description": null,
+  "description": "Runs through Gmail on working days, clearing out the low-value mail and filing receipts, documents and reference notes where they belong, so unread means something needs a reply. Suited to a single Gmail account and to people comfortable letting a bot archive on their behalf without asking each time.",
   "official": {
     "title": "Inbox Zero by LD",
     "description": "Weekday Gmail inbox-zero assistant. Archives noise, files notes, receipts, and docs, and leaves only action mail unread.",

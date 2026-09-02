@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/jess-executive-assistant/"
   },
-  "description": null,
+  "description": "Runs Monday to Friday summarising what has landed in email, calendar, Notion and Slack, fielding team questions against a written playbook, and posting notes from client calls. Assumes those tools are connected and that someone has actually written the playbook it answers from.",
   "official": {
     "title": "Jess by Logan",
     "description": "A weekday executive assistant that recaps email, calendar, Notion, and Slack; answers staff questions from a written playbook; and posts client call...",

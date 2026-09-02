@@ -14,6 +14,55 @@
     "x"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "prospecting-sheet-builder",
+      "fitScore": 88,
+      "fitReason": "Builds overnight B2B prospecting sheets with verified buyer contacts, account events and email plus LinkedIn drafts in the seller's voice — and stops at drafts rather than sending. You still do the sending, which is the point.",
+      "rank": 1
+    },
+    {
+      "botSlug": "linkedin-leads",
+      "fitScore": 86,
+      "fitReason": "Pulls leads from LinkedIn posts and comments against keywords you supply, with include/exclude filters. Output quality is entirely a function of your keyword list, and the bot speaks Spanish.",
+      "rank": 2
+    },
+    {
+      "botSlug": "leads-from-meta-google-ads",
+      "fitScore": 85,
+      "fitReason": "Mines Meta Ad Library and Google Ads Transparency for B2B leads and enriches phone numbers from official sources — advertisers are a genuine buying signal, not a search-results scrape. Naturally blind to prospects who don't run ads.",
+      "rank": 3
+    },
+    {
+      "botSlug": "website-agency-lead-scout",
+      "fitScore": 83,
+      "fitReason": "Delivers a weekday morning board of up to five verified businesses that visibly need a website, each with a reason. Deliberately narrow: one agency, one niche, small volume.",
+      "rank": 4
+    },
+    {
+      "botSlug": "pg-prospecting",
+      "fitScore": 80,
+      "fitReason": "Researches named accounts and digs recent podcasts and webinars for personal hooks, optionally signing into X or LinkedIn to find people. Better at depth on an account than at building a list from nothing.",
+      "rank": 5
+    },
+    {
+      "botSlug": "redreplier",
+      "fitScore": 78,
+      "fitReason": "Watches Reddit, X, Hacker News and Bluesky for product, competitor and buying-signal phrases, ranked by intent. That is inbound signal rather than a prospect list — useful for catching people already complaining out loud.",
+      "rank": 6
+    },
+    {
+      "botSlug": "hermes-sdr",
+      "fitScore": 74,
+      "fitReason": "Verifies each lead then actually sends Instagram DMs and emails for a high-ticket offer, daily. Squarely the sending end of the category, so install it only if you want outbound going out unattended.",
+      "rank": 7
+    },
+    {
+      "botSlug": "peekaboo-mac",
+      "fitScore": 72,
+      "fitReason": "Runs list building, email, LinkedIn and replies through the outbound CLIs you already use. Real coverage of the job, but it assumes an existing stack (Instantly and similar) and is more plumbing than research.",
+      "rank": 8
+    }
+  ],
   "publish": true
 }

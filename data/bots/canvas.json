@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/canvas/"
   },
-  "description": null,
+  "description": "Logs into a university Canvas account through the browser to pull out enrolled units, due dates and coursework, then assists with the assignments themselves. Requires working portal credentials and only covers institutions running Canvas, so students on other systems get nothing from it.",
   "official": {
     "title": "Canvas by Dakkshin",
     "description": "Signs into your university Canvas portal in the browser, lists your units and deadlines, and helps with assignments.",

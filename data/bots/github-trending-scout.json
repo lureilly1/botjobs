@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/github-trending-scout/"
   },
-  "description": null,
+  "description": "Each morning it looks at what is climbing on GitHub, selects a small number of repositories and writes up the case for each one in Chinese. Useful if you read Chinese and want a short daily read; the selection is trend-driven rather than tailored to your stack.",
   "official": {
     "title": "github 优秀仓库 by umiastuti8329",
     "description": "A daily GitHub trending scout. Every morning it picks a handful of hot repositories and explains, in Chinese, why each is worth a look.",

@@ -13,6 +13,37 @@
     "x"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "competitor-watching",
+      "fitScore": 95,
+      "fitReason": "Purpose-built: holds a snapshot of you against 3–8 named rivals across pricing, changelog, features, jobs and messaging, then reports weekly diffs and stays quiet unless something material moved. The state-and-diff model this job actually needs.",
+      "rank": 1
+    },
+    {
+      "botSlug": "scout-competitive-intelligence",
+      "fitScore": 88,
+      "fitReason": "Scheduled watch on rival sites, search rankings and AI-answer visibility, built to surface real moves rather than noise. Skewed towards organic growth and SEO signals, so pricing pages and job listings are not its centre of gravity.",
+      "rank": 2
+    },
+    {
+      "botSlug": "redreplier",
+      "fitScore": 75,
+      "fitReason": "Monitors Reddit, X, Hacker News and Bluesky for mentions of your competitors alongside your own product, ranked by intent, on a schedule. That is chatter monitoring, not pricing-page or changelog diffing — it will not tell you a rival changed their tiers.",
+      "rank": 3
+    },
+    {
+      "botSlug": "frontier-model-watch",
+      "fitScore": 71,
+      "fitReason": "A daily 07:30 watch on official releases from a fixed roster of AI labs, which is competitor monitoring if those labs happen to be your competitors. No use to anyone else, and it tracks announcements rather than pricing or hiring.",
+      "rank": 4
+    },
+    {
+      "botSlug": "ethan",
+      "fitScore": 70,
+      "fitReason": "Lists competitor intelligence and trend monitoring among its research remits and will turn a company into a sourced brief. It is a research desk rather than a stateful watcher, so expect fresh summaries rather than week-on-week diffs.",
+      "rank": 5
+    }
+  ],
   "publish": true
 }

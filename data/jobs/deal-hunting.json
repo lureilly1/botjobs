@@ -10,6 +10,55 @@
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "deal-hunting",
+      "fitScore": 95,
+      "fitReason": "Purpose-built for this: landed-cost comparison across preferred retailers with shipping and tax included, an optional watchlist, and an explicit rule not to buy unless asked. Exactly the watch-and-alert shape this job rewards.",
+      "rank": 1
+    },
+    {
+      "botSlug": "local-deals",
+      "fitScore": 88,
+      "fitReason": "A local-marketplace deal desk that starts with no assumptions about city, budget or taste and monitors on a schedule. Confined to local classifieds, so no use for retail price tracking.",
+      "rank": 2
+    },
+    {
+      "botSlug": "blair-personal-shopper",
+      "fitScore": 85,
+      "fitReason": "Hunts specific wanted items, particularly used and secondhand designer pieces, which is where the price variance actually lives. Narrow remit — do not expect it to track flights or electronics.",
+      "rank": 3
+    },
+    {
+      "botSlug": "lease-finder",
+      "fitScore": 84,
+      "fitReason": "Pulls current car lease deals against MSRP from Edmunds, KBB, CarGurus and Cars.com. One category only, but the discount claim is checkable, which is the point.",
+      "rank": 4
+    },
+    {
+      "botSlug": "shopper",
+      "fitScore": 79,
+      "fitReason": "Searches official stores and marketplaces, avoids knockoffs and compares prices and features before a purchase. It also walks the cart through checkout, so decide up front how far you want it to go.",
+      "rank": 5
+    },
+    {
+      "botSlug": "shopbot",
+      "fitScore": 78,
+      "fitReason": "Compares Shopify catalogue products and hunts coupons, which is real comparison work. It also pays with Link or Shop Pay — spending authority you may not want in a deal watcher.",
+      "rank": 6
+    },
+    {
+      "botSlug": "shop",
+      "fitScore": 75,
+      "fitReason": "Shortlists a handful of Shopify options with checkout links and asks before spending. Comparison is shallow and limited to Shopify merchants, so it is a shortlisting tool rather than a price watcher.",
+      "rank": 7
+    },
+    {
+      "botSlug": "alexis-grail-scout",
+      "fitScore": 73,
+      "fitReason": "Genuinely waits: monitors Heritage, eBay and Goldin for matching sealed retro-game lots and alerts on hits. It is also authorised to bid, and it is scoped to one collector's slab niche.",
+      "rank": 8
+    }
+  ],
   "publish": true
 }

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chatprd/"
   },
-  "description": null,
+  "description": "Handles product management with ChatPRD as the home for specs, discovery and early thinking, drawing on existing documents, meeting notes and the issue tracker before writing anything new. Depends on a populated corpus, so a team starting from an empty workspace gains less.",
   "official": {
     "title": "ChatPRD by Claire",
     "description": "A ChatPRD-first product manager. Specs, brainstorms, and discovery live in ChatPRD. Ground every doc in the existing corpus, meeting notes, the issue...",

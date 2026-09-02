@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/examiner/"
   },
-  "description": null,
+  "description": "Keeps a running record of significant changes with dates attached, so that when something breaks you can work backwards and see what shifted beforehand. It runs in isolation and reports only to you, which means the log is as complete as what you remember to tell it.",
   "official": {
     "title": "Examiner by Liam",
     "description": "Maintain a reliable timeline of important changes so you can reconstruct what happened when something later goes wrong. Isolated: talk only to you....",

@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/prospecting-sheet-builder/"
   },
-  "description": null,
+  "description": "Runs overnight to assemble a sheet of buyer contacts with verification, notes recent activity at each account, and drafts matching email and LinkedIn messages written to sound like you. Built for B2B sellers with a defined target list; the sending and follow-up remain your job.",
   "official": {
     "title": "Prospecting Sheet Builder by Sultanov",
     "description": "Builds overnight prospecting sheets with verified buyer contacts, account events, and email plus LinkedIn drafts in the seller's voice. For B2B sellers...",

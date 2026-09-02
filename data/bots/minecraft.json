@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/minecraft"
   },
-  "description": null,
+  "description": "Reads a Minecraft crash log and names the culprit: a specific MOD, a conflict between two, or a version mismatch, followed by a short fix. Nothing gets posted or destructively changed without your explicit go-ahead, so bring the log file and expect to approve each step.",
   "official": {
     "title": "Minecraftクラッシュ解析 by Masaki",
     "description": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",

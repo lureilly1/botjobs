@@ -10,6 +10,49 @@
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "tutor",
+      "fitScore": 91,
+      "fitReason": "Teaches any subject in short lessons built around one everyday analogy followed by a check, which is the actual shape of tutoring rather than answer-dispensing. Nothing in its description promises it tracks what you got wrong across sessions, so expect the spacing to be your job.",
+      "rank": 1
+    },
+    {
+      "botSlug": "retrieval-exam",
+      "fitScore": 88,
+      "fitReason": "A closed-book examiner that makes you reconstruct a chapter from memory instead of nodding along to a summary — the one mechanism that reliably converts reading into recall. Narrow by design: it tests, it does not teach.",
+      "rank": 2
+    },
+    {
+      "botSlug": "struggle-gate",
+      "fitScore": 85,
+      "fitReason": "Puts a ten-minute struggle gate between you and the answer, so it is structurally incapable of being the bot that just does your homework. Irritating if you actually needed a quick fact, which is rather the point.",
+      "rank": 3
+    },
+    {
+      "botSlug": "canvas",
+      "fitScore": 81,
+      "fitReason": "Signs into your university Canvas portal, pulls your units and deadlines, and works from the real coursework rather than a vague description of it. It also offers to help with assignments, so where that line sits is on you.",
+      "rank": 4
+    },
+    {
+      "botSlug": "interview-prep",
+      "fitScore": 77,
+      "fitReason": "Picks a topic and level and works up through examples, running code and quizzes until you can answer under pressure — genuine drilling, not summarising. Framed for interviews, so coursework revision is a slight stretch of the intent.",
+      "rank": 5
+    },
+    {
+      "botSlug": "learn-math-ml-video-teacher",
+      "fitScore": 76,
+      "fitReason": "Builds first-principles lessons and short teaching films for maths, ML and technical subjects, which suits people who need a concept rebuilt from the ground rather than a definition. Subject range is narrow and there is no assessment of whether it stuck.",
+      "rank": 6
+    },
+    {
+      "botSlug": "homework-checker",
+      "fitScore": 72,
+      "fitReason": "Weekday after-school sweep of missing work and grades, with a topic summary when a Classroom score slips — useful continuity on what is actually going wrong. It is aimed at the parent watching, not the student revising.",
+      "rank": 7
+    }
+  ],
   "publish": true
 }

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/theta-vantage-desk/"
   },
-  "description": null,
+  "description": "Takes a ticker and an expiration, then reports on dealer gamma positioning, order flow, implied volatility and the levels that matter for that chain. Built for people who already trade options and know what to do with a gamma read, rather than for equity beginners.",
   "official": {
     "title": "Theta Vantage Desk by Joe",
     "description": "Front-door options desk for traders. Reads live dealer gamma, options flow, implied volatility, and key levels for a ticker and expiration, then reports...",

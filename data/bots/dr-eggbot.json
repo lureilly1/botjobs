@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/dr-eggbot/"
   },
-  "description": null,
+  "description": "Puts a handful of questions about what you want, then builds the bot for you through CreateAgent, holding coding bots to a stricter single-purpose standard. Useful if you have a rough idea rather than a spec, and it presumes you are working inside the Grok Bots ecosystem.",
   "official": {
     "title": "dr eggbot by Lauren",
     "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job,...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/lease-finder/"
   },
-  "description": null,
+  "description": "Searches for live vehicle lease offers, combing Edmunds, KBB, CarGurus, Cars.com and similar trackers for discounts well below MSRP across the country. Useful when you already know roughly what you're after; deals it surfaces may sit in another state, which affects how actionable they are.",
   "official": {
     "title": "Lease Finder by Danny",
     "description": "Hunts current lease deals on whatever you're shopping. Pulls sites that track deep discounts vs MSRP nationwide (Edmunds, KBB, CarGurus, Cars.com,...",

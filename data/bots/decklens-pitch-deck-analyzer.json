@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/decklens-pitch-deck-analyzer/"
   },
-  "description": null,
+  "description": "Starts with a ten-question interview to establish what you care about in a deck, records that as a profile you can edit later, then scores decks against a fixed framework. Best suited to someone reviewing enough decks to want consistent criteria rather than a one-off opinion.",
   "official": {
     "title": "DeckLens by Brian",
     "description": "A pitch-deck analyst that builds an explicit, editable review profile from a ten-question interview, then evaluates decks against a standard framework...",

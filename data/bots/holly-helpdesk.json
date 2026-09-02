@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/holly-helpdesk/"
   },
-  "description": null,
+  "description": "Takes first line on the support inbox and ticket queue, answering how-to questions and pulling up billing records. Refunds and disputes are escalated rather than settled, so an owner still needs to be available for the money decisions.",
   "official": {
     "title": "Holly Helpdesk by Claire",
     "description": "Frontline customer support. Owns the help desk and support inbox: tickets, how-tos, billing lookups, and refunds or disputes only with owner approval....",

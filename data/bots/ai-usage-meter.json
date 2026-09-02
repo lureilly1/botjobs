@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ai-usage-meter/"
   },
-  "description": null,
+  "description": "Asks which paid AI subscriptions you want watched and where the remaining balance actually shows up — local CLIs, desktop apps — then reports the percentage left as it falls. Useful if you pay for several plans and keep overshooting; it reports on consumption rather than changing anything about it.",
   "official": {
     "title": "AIUsageBot by Brian",
     "description": "Interviews you about which AI subscriptions to track and where leftover lives (local CLIs, apps), then pings remaining % as it drops.",

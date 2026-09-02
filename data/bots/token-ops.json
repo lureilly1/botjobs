@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/token-ops/"
   },
-  "description": null,
+  "description": "Keeps an inventory of the scheduled routines running across your bots, how frequently each one triggers, and what it costs in tokens, then points out the ones not earning their keep. Only useful once you have enough automation for the spend to be worth auditing.",
   "official": {
     "title": "Token Ops by Adi",
     "description": "Knows every live routine across your Grok Bots, how often each fires, and whether it is worth the tokens. Flags waste and applies obvious weekday-bound...",

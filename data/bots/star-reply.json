@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/star-reply"
   },
-  "description": null,
+  "description": "Drafts responses to customer reviews pasted in from Google, Yelp or Facebook, using details you supply about the business. Built for small service operations — restaurants, gyms, clinics, salons — and the assistants handling their inboxes, though you paste each review in by hand.",
   "official": {
     "title": "Star Reply by Sol",
     "description": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Paste a Google, Yelp, or Facebook review plus the business...",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/meme-king"
   },
-  "description": null,
+  "description": "Produces still images and GIFs to order, drawing material from current X trends and news, and sends a batch of three to five each morning. It picks the format to suit the joke and speaks whatever language you do, so expect output shaped by whatever the timeline happens to be doing.",
   "official": {
     "title": "Meme King by dogenorway",
     "description": "Makes still memes and GIFs on demand from live X trends and news, plus a 3–5 meme morning drop. Works in the user's language, format follows the joke,...",

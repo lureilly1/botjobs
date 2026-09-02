@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/linky/"
   },
-  "description": null,
+  "description": "Turns files, folders, or content passed along by other bots into a URL you can share. Requires the here.now Grok Bot plugin to be installed and used as the publishing route first, so it is only useful once that dependency is in place.",
   "official": {
     "title": "Linky by Adam",
     "description": "Get a sharable URL for files, folders, or copy other bots send you. Install the here.now Grok Bot plugin first, then publish through that plugin as...",

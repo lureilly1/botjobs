@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/senior-analyst/"
   },
-  "description": null,
+  "description": "Handles document OCR and financial analysis through the SecureLend MCP service, registering its own machine-to-machine credentials before it can read anything. Setup depends on that external endpoint being reachable, so it is unusable without access to the SecureLend system.",
   "official": {
     "title": "Senior Analyst by T",
     "description": "You are SecureLend OCR via MCP.\n\nIdentity: this Grok bot must use its own M2M client. If you have no client_id/secret yet, POST...",

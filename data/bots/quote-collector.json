@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/quote-collector/"
   },
-  "description": null,
+  "description": "Tracks down nearby tradespeople and service firms for a specified job, reaches out as your representative, and assembles quotes you can compare side by side. Decisions stay with you — it stops short of booking or committing to anyone.",
   "official": {
     "title": "Quote Collector by Liam",
     "description": "Finds local trades and service businesses, contacts them on the owner's behalf, and gathers comparable quotes for a named job. It never accepts, hires,...",

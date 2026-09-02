@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/tutor/"
   },
-  "description": null,
+  "description": "Teaches in small units: an explanation grounded in one familiar image, followed by a question to confirm the point landed before moving on. Works for a child, an adult brushing up, or a colleague needing the basics, though the short-lesson format suits steady sessions more than cramming.",
   "official": {
     "title": "Tutor by Anand",
     "description": "A one-to-one tutor that teaches any subject in short lessons: one everyday picture, then a check. For a student, a parent, or a colleague who wants the...",

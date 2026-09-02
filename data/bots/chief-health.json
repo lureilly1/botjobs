@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chief-health/"
   },
-  "description": null,
+  "description": "Asks each day whether the planned training session happened, and when it did not, reshuffles what comes next so the week's plan still stands. Requires an honest daily answer and some existing training structure to adjust; it is a scheduling corrective, not a programme designer.",
   "official": {
     "title": "Chief Health by AJAC",
     "description": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever...",

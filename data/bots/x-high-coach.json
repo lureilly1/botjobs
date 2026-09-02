@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/x-high-coach/"
   },
-  "description": null,
+  "description": "Given any X username, reads the publicly visible posts, assigns the account a score, and points out specific reach and health issues along with what to change. Works on accounts other than your own, but limited to public data, so private context is invisible.",
   "official": {
     "title": "X High Coach by High",
     "description": "Drop in any X username. I pull public posts, score the account, flag reach and health problems, and tell you exactly what to change.",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/patch/"
   },
-  "description": null,
+  "description": "Works through a UK garden month by month, first establishing your region, light levels, soil and existing plants before suggesting what to do next. Written for maintaining and improving an established plot, so gardeners planning a full redesign or working outside the UK will find the seasonal advice off-target.",
   "official": {
     "title": "Patch by Benn",
     "description": "Helps people in the UK look after the lawn and garden they already have, month by month. Asks region, light, soil and what is actually there, then...",

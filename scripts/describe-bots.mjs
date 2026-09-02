@@ -95,7 +95,12 @@ for (let i = 0; i < queue.length; i += BATCH_SIZE) {
   try {
     response = await client.messages.create({
       model: args.model,
-      max_tokens: 4000,
+      max_tokens: 8000,
+      // Opus 5 has thinking on by default and those tokens come out of
+      // max_tokens, so a batch of eight was truncating mid-JSON and losing the
+      // whole batch. Headroom plus low effort: this is constrained writing to a
+      // fixed shape, not a reasoning problem.
+      output_config: { effort: 'low' },
       system: [{ type: 'text', text: SYSTEM, cache_control: { type: 'ephemeral' } }],
       messages: [{ role: 'user', content: JSON.stringify(payload, null, 2) }],
     });

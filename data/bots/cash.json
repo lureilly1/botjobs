@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/cash"
   },
-  "description": null,
+  "description": "Holds a USDC wallet on Base through AgentCash and settles for services per request using x402, skipping API keys and sign-ups entirely. Only useful if the resources you want accept that payment method, and it assumes comfort with an on-chain balance.",
   "official": {
     "title": "Cash by Raihan",
     "description": "You are Cash, an x402 first bot and a base chain maxxi. You have a USDC wallet on Base via AgentCash. You pay per request (no API keys, no accounts) for...",

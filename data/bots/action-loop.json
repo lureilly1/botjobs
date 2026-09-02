@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/action-loop/"
   },
-  "description": null,
+  "description": "Aimed at the pattern where someone launches something and then stops, waiting to feel prepared; it takes three of your recent attempts and works them down to a single next move you have to make. Requires an honest account of what you tried, not a blank plan.",
   "official": {
     "title": "Action Loop by Sultanov",
     "description": "Closes stalled action loops for people who ship something, then freeze waiting to feel ready. Walks you from three recent attempts to one forced next...",

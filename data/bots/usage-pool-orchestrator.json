@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/usage-pool-orchestrator/"
   },
-  "description": null,
+  "description": "Acts as a dispatcher: rather than doing the work itself, it routes demanding tasks out to Cursor, with Grok Build, Claude Code or Codex available as alternative destinations, so the cost lands on those subscriptions. Only useful if you already hold the relevant coding-tool accounts.",
   "official": {
     "title": "Usage-pool orchestrator by Jordan",
     "description": "A thin Grok Bot that hands heavy work to Cursor by default, and optionally Grok Build, Claude Code, or Codex, so those usage pools do the work instead...",

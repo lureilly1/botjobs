@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/homeroom/"
   },
-  "description": null,
+  "description": "Reads a family's Schoology account, updates a shared homework page, and keeps an eye on school activity as it changes. Built around fixed check-ins through the school week rather than ad-hoc questions, and useless without a Schoology login to draw from.",
   "official": {
     "title": "Homeroom by Andy",
     "description": "A parent helper that pulls Schoology, keeps a family homework site current, and watches school activities. For parents who want weekday morning, noon,...",

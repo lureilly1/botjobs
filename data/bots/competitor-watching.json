@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/competitor-watching/"
   },
-  "description": null,
+  "description": "Tracks three to eight rivals across pricing pages, changelogs, feature sets, hiring and messaging, then reports weekly on what shifted. Silence is the default — nothing arrives unless a change looks material, so it suits people who want signal rather than a standing report.",
   "official": {
     "title": "Competitor Watching by Andrej",
     "description": "Snapshots you vs 3–8 competitors (pricing, changelog, features, jobs, messaging). Weekly diffs. Alert only on material changes.",

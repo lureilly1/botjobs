@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/funhouse/"
   },
-  "description": null,
+  "description": "Alters how Grok Bot itself looks, applying themes, overlays and animated pets to the interface as a series of visual experiments. Aimed at people who enjoy fiddling with appearance; it changes nothing about what the underlying bots can do.",
   "official": {
     "title": "Funhouse by Adem",
     "description": "A customization lab for Grok Bot. Reskins the chrome, stamps living pets and overlays, and turns the app into themes, toys, and visual experiments. For...",

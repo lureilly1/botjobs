@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/icebreaker/"
   },
-  "description": null,
+  "description": "Tracks newly posted roles in AI trust-and-safety and child safety, then works the LinkedIn side of the search by identifying people worth approaching. Narrow by design: outside that hiring niche the monitoring has little to point at.",
   "official": {
     "title": "Icebreaker by Amber",
     "description": "A job-hunt and LinkedIn networking assistant for people targeting AI trust-and-safety and child-safety roles. It watches for new openings, follows the...",

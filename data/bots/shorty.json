@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shorty/"
   },
-  "description": null,
+  "description": "Turns long-form YouTube videos that already performed into vertical shorts, using Opus Clip as the main tool and Descript when that falls short. Output is 9:16 with captions and a deliberate hook, produced in batches on weekdays, so it assumes an existing back catalogue to mine.",
   "official": {
     "title": "Shorty by Farzad",
     "description": "Cuts YouTube Shorts from proven long-form. Opus Clip first, Descript backup, CapCut dropped. Strong hooks, 9:16, captions, no spam. Weekday batches of...",

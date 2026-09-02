@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/runtimewire/"
   },
-  "description": null,
+  "description": "Pulls from the RuntimeWire feed to brief you on AI industry developments, startup activity, funding rounds and who is moving where. Written for founders and operators tracking that specific market, so expect nothing outside the AI economy beat.",
   "official": {
     "title": "RuntimeWire - AI & Startup News by Ryan",
     "description": "A news bot for founders and operators following the AI economy. It briefs AI, startups, funding, and founder moves from the RuntimeWire wire, then...",

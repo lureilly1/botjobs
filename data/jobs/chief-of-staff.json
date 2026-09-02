@@ -14,6 +14,55 @@
     "google-calendar"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "chief-of-staff-aryaman",
+      "fitScore": 92,
+      "fitReason": "The canonical version of this job: desk, Slack, email, calendar and purchasing in one place, routing engineering work out, and surfacing only results, failures and decisions you must make. Judged on silence, which is the right bar — but it wants a lot of connectors before it earns its keep.",
+      "rank": 1
+    },
+    {
+      "botSlug": "chief-of-staff-avid",
+      "fitScore": 90,
+      "fitReason": "Runs both the person's day and the company from one desk, and locks down who you are and what matters in a first-run interview before it operates. That interview is the setup cost made explicit rather than hidden.",
+      "rank": 2
+    },
+    {
+      "botSlug": "chief",
+      "fitScore": 88,
+      "fitReason": "The calendar-and-inbox design done plainly: first-install scan, then weekday mornings, archiving junk and drafting replies it never sends. No orchestration of other bots, so if you wanted a router this is not it.",
+      "rank": 3
+    },
+    {
+      "botSlug": "cos",
+      "fitScore": 87,
+      "fitReason": "Built for people already running a bench of specialists — coordinates calendar, projects and inbound mail with weekday routines rather than doing the work itself. Inherits every downstream failure, as orchestrators do, and is thin if you have no other bots.",
+      "rank": 4
+    },
+    {
+      "botSlug": "chieeeeefy-chief-of-staff",
+      "fitScore": 85,
+      "fitReason": "Calendar and work Gmail first, timezone conversion, and an explicit brief to protect attention rather than relay everything. Written for a field engineer's shape of week, so expect to re-point it if that is not you.",
+      "rank": 5
+    },
+    {
+      "botSlug": "lebron",
+      "fitScore": 84,
+      "fitReason": "A founder-facing COO that holds email, calendar, GitHub and a small fleet of agents, so it covers both the time-protection layer and the routing layer. Assumes a founder's workload; less use to anyone whose week is not code plus meetings.",
+      "rank": 6
+    },
+    {
+      "botSlug": "thefounder",
+      "fitScore": 82,
+      "fitReason": "Chief of staff as router: routes to specialists, only picks up work no teammate owns, and explicitly refuses to recap its own activity. Genuinely useless until you have staffed the specialists it delegates to.",
+      "rank": 7
+    },
+    {
+      "botSlug": "jess-executive-assistant",
+      "fitScore": 80,
+      "fitReason": "Weekday recaps across email, calendar, Notion and Slack, plus answering staff questions from a written playbook. Billed as an executive assistant rather than a chief of staff — the prep-and-protect half of the job, none of the orchestration.",
+      "rank": 8
+    }
+  ],
   "publish": true
 }

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/adm-account-bot/"
   },
-  "description": null,
+  "description": "Produces a weekly working plan for the accounts you already hold, covering where to expand, what makes the relationship harder to leave, how to roll changes out, and which customer stories to reuse. Assumes an existing book of business and a habit of reviewing it on schedule.",
   "official": {
     "title": "ADM account bot by Scott",
     "description": "Grow and retain accounts — weekly plan, expansion, stickiness, rollout, stories.",

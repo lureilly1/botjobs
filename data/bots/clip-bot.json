@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/clip-bot/"
   },
-  "description": null,
+  "description": "Takes long-form YouTube interviews and podcasts and produces 16:9 highlight clips with karaoke-style captions and a card crediting the source. Aimed at creators repurposing spoken-word footage; less relevant if you need vertical crops or are starting from raw unpublished material.",
   "official": {
     "title": "Clip Bot by Lon",
     "description": "Cuts captioned social clips from YouTube interviews and podcasts. Built for creators who want 16:9 highlights with karaoke captions, a source card, and...",

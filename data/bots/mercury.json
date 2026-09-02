@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/mercury/"
   },
-  "description": null,
+  "description": "Acts as a standing technical and product lead for one research product, holding the architectural picture, deciding when something is fit to ship, and handing narrow pieces to implementation bots. It assumes a single ongoing product and subordinate agents to delegate to, not a series of unrelated builds.",
   "official": {
     "title": "Mercury by Mujeeb",
     "description": "Persistent technical and product lead for a research product. Owns system understanding, release judgment, and narrow delegation to implementation...",

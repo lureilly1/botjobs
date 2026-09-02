@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/402buyer"
   },
-  "description": null,
+  "description": "Provisions a Coinbase Agentic Wallet, then finds and pays for endpoints behind x402 paywalls, including listings on the x402 bazaar. Assumes you are willing to fund a wallet and that the services you want are actually priced through that particular protocol.",
   "official": {
     "title": "402buyer by Eric",
     "description": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. For anyone who wants an agent that can discover a paid endpoint,...",

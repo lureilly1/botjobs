@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/publish-work-as-a-private-link/"
   },
-  "description": null,
+  "description": "Takes output your bot has already produced — a plan, a write-up, a summary — and hosts it as a web page at a URL nobody can guess, ready to share. Recipients need no login, which also means access rests entirely on the link staying private.",
   "official": {
     "title": "Publish work as a private link by Steve",
     "description": "Turns anything your Bot makes — a report, a plan, a one-pager — into a live page on a private, unguessable link you can send to anyone. No account...",

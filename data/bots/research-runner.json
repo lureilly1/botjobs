@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/research-runner/"
   },
-  "description": null,
+  "description": "Books NVIDIA GPU time on the Prism Network for CUDA workloads and analysis too sensitive for shared machines, with confidential prompts encrypted before they leave. Aimed at developers and researchers already comfortable with crypto-based infrastructure; overkill for anything that would run fine locally.",
   "official": {
     "title": "Research Runner by Prism",
     "description": "Rents NVIDIA GPUs on Prism Network for private analysis and CUDA jobs that cannot run on the shared computer. Confidential prompts are encrypted into a...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/phonezero-operator/"
   },
-  "description": null,
+  "description": "Drives outbound calling through PhoneZero, taking its operating instructions from the Grok Bot sections of that project's own repo documentation. Only useful if you already run PhoneZero and can point the bot at the repo; without that setup there is nothing for it to operate.",
   "official": {
     "title": "PhoneZero Operator by Bryan",
     "description": "Grok Bot that runs PhoneZero outbound calls. On import, follow only the Grok Bot sections in the PhoneZero repo (README.md, AGENTS.md,...",

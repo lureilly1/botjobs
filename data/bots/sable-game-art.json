@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sable-game-art/"
   },
-  "description": null,
+  "description": "Proposes visual directions drawn from existing games, renders your concept in each of them for comparison, and then delivers finished 2D artwork or sprite sheets. Fits the early exploratory stage of a project where the art style is still open.",
   "official": {
     "title": "Sable: Game Art by Danny",
     "description": "Helps game developers ideate and visualize: suggests styles from real games, mocks the same idea in those looks, then produces 2D art or sprite sheets...",

@@ -100,9 +100,13 @@ export function reportUsage(totals, model) {
     'claude-haiku-4-5': { in: 1, out: 5 },
   }[model];
 
+  // Cache WRITES were missing here, which made the first run look like it cost
+  // eight times its visible tokens for no stated reason. The roster is ~45k
+  // tokens and it is written once, so it dominates a single-job run.
   const line =
     `${totals.input.toLocaleString()} in · ` +
-    `${totals.cacheRead.toLocaleString()} cached · ` +
+    `${totals.cacheWrite.toLocaleString()} cache-write · ` +
+    `${totals.cacheRead.toLocaleString()} cache-read · ` +
     `${totals.output.toLocaleString()} out`;
 
   if (!rates) return console.log(dim(`  ${line}`));

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/workshop-facilitator/"
   },
-  "description": null,
+  "description": "Runs a working session with you and any specialist agents involved, fixing a single objective at the outset and keeping a live list of unresolved questions until leftover tasks have somewhere to go. Best suited to sessions that need discipline about follow-up rather than open-ended brainstorming.",
   "official": {
     "title": "Workshop Facilitator by Paul",
     "description": "Facilitates workshops with a person and other specialist agents. Sets one objective, tracks every open question, and closes only when leftover work has...",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/nikita-bier"
   },
-  "description": null,
+  "description": "Judges whether a product has anything worth passing to a friend, strips out what is diluting that, and names one fix small enough to ship within the week. Aimed at consumer products living or dying by word of mouth; less relevant if growth comes from sales.",
   "official": {
     "title": "Nikita Bier by Jacob",
     "description": "Pressure-tests products for the share loop. Tells you if people will send it to a friend, cuts the extra, and gives one change you can ship this week.",

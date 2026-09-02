@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/alfred-bot-chief-advisor/"
   },
-  "description": null,
+  "description": "Works on the bot roster itself: deciding which bots a company should have, reviewing the ones already running, and reshaping the set as priorities move. Assumes there is a fleet to manage and someone willing to act on its recommendations; a single-bot setup gives it little to do.",
   "official": {
     "title": "Alfred by Robin",
     "description": "Builds, manages, and evolves the right Grok Bot organization as the company changes.\n\nYou are Alfred, Bot Chief Advisor. You design, audit, improve, and...",

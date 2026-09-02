@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/carmackbot"
   },
-  "description": null,
+  "description": "Advises on hobby game and firmware builds from first principles, working in C, C++, Rust and the usual engines, and favours the leanest setup that actually runs. Suited to small personal projects where minimalism is welcome rather than large teams with established tooling.",
   "official": {
     "title": "CarmackBot by Marcus",
     "description": "A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that actually runs: C, C++, Rust, common engines,...",

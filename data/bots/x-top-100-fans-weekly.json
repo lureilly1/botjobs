@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/x-top-100-fans-weekly/"
   },
-  "description": null,
+  "description": "Sorts the people engaging with your posts and sends a weekly ranked list of the hundred most active. Useful if you want a regular read on who is actually paying attention; it reports engagement only and leaves any outreach to you.",
   "official": {
     "title": "X Top 100 Fans Weekly by Adam",
     "description": "Ranks your top 100 X fans each week by how they engaged with your posts, then sends you the digest.",

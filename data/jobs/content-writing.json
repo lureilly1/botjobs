@@ -13,6 +13,55 @@
     "linkedin"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "human-copywriter",
+      "fitScore": 88,
+      "fitReason": "A dedicated rewrite desk for posts, emails, blogs and DMs that aims at human-sounding voice, and it stays draft-only so nothing gets published behind your back. Rewrites what you give it rather than generating from a cold topic, so you need a first pass of your own.",
+      "rank": 1
+    },
+    {
+      "botSlug": "bot-wwhdzf",
+      "fitScore": 86,
+      "fitReason": "Diagnoses one X account and writes the next post in that account's voice, plus the lines to cut. Narrow by design: it edits and drafts for a single account, not a general content pipeline.",
+      "rank": 2
+    },
+    {
+      "botSlug": "growth-desk",
+      "fitScore": 85,
+      "fitReason": "Draft-only X desk for one named account: it writes posts and never publishes them, which is the right default. It deliberately does not research the feed, so the ideas have to come from you.",
+      "rank": 3
+    },
+    {
+      "botSlug": "x-account-crew",
+      "fitScore": 82,
+      "fitReason": "Five roles — idea scout, hook writer, calendar planner, competitor analyst, mention watcher — so drafting happens against a calendar rather than at random. More machinery than a solo poster needs, and voice depends on what you feed the hook writer.",
+      "rank": 4
+    },
+    {
+      "botSlug": "situation-monitor",
+      "fitScore": 81,
+      "fitReason": "Turns what you save on X into a weekly thread drafted in your voice — repurposing from your own material, which is the format that actually holds voice. Only does the Saturday roundup; no daily posting.",
+      "rank": 5
+    },
+    {
+      "botSlug": "dadprotech-brand-manager",
+      "fitScore": 79,
+      "fitReason": "Learns voice from the owner's existing X profile and recommends one tweet plus replies each weekday, which is a real calendar habit rather than a topic generator. Single brand, single platform, recommendations only.",
+      "rank": 6
+    },
+    {
+      "botSlug": "zeus",
+      "fitScore": 78,
+      "fitReason": "One HQ chat that picks the angle and drafts in your voice, sending nothing without a go. Tuned to a builder's Grok-on-X tone, so if that is not your register you will be fighting it.",
+      "rank": 7
+    },
+    {
+      "botSlug": "copywriter",
+      "fitScore": 75,
+      "fitReason": "Writes Instagram carousel copy slide by slide plus the caption, then hands a brief to a companion art bot. Portuguese-language and Instagram-only, and it assumes the rest of that content chain exists.",
+      "rank": 8
+    }
+  ],
   "publish": true
 }

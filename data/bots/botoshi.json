@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/botoshi"
   },
-  "description": null,
+  "description": "Walks new miners through getting started on a BOTCOIN mining rig with no ETH required upfront. Assumes you already have some interest in BOTCOIN specifically; there is little here for anyone outside that ecosystem.",
   "official": {
     "title": "BOTOSHI by BOTCOIN",
     "description": "Zero ETH BOTCOIN mining rig onboarding miner.",

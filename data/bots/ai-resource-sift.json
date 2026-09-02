@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ai-resource-sift/"
   },
-  "description": null,
+  "description": "Given one AI topic, it trawls papers, repositories, lectures, courses, Reddit threads and lab documentation, then filters the haul into a sizeable reading stack with a brief card summarising it in chat. Suits early groundwork on an unfamiliar area; less use for a narrow factual question.",
   "official": {
     "title": "AI Resource Sift by Alen",
     "description": "For one AI topic, sweep papers, code, lectures, courses, Reddit, and official lab docs, then keep a large filtered stack. Short card in chat, full stack...",

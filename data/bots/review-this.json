@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/review-this/"
   },
-  "description": null,
+  "description": "You name a specific product; it gathers lab testing, retailer star ratings and owner forum chatter, sets that against the price and whether it suits your country and household, then gives a verdict. Best for one considered purchase at a time rather than browsing a category from scratch.",
   "official": {
     "title": "Review This by dogenorway",
     "description": "Reviews the exact product you name. Weighs lab tests, retailer ratings, and owner forums against price and fit in your home market, then says buy, skip,...",

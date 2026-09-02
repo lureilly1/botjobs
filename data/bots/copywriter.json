@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/copywriter/"
   },
-  "description": null,
+  "description": "Takes high-performing Instagram carousels and posts, rewrites them as slide-by-slide copy with a caption, then hands the brief to an audiovisual specialist to produce the visuals. Written in Portuguese and built around a second bot doing the artwork, so it assumes that pairing exists.",
   "official": {
     "title": "Copywriter by Gabriel",
     "description": "Repagina carrosséis e posts de Instagram ranqueados em copy por slide mais a legenda, e envia o briefing para um engenheiro audiovisual gerar as artes....",

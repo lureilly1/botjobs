@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/outbid-mania/"
   },
-  "description": null,
+  "description": "Follows outbid.lol along with the copycat sites that have sprung up around it, tracking revenue figures and reporting daily on whether the bidding-site fad is actually growing. Narrow by design, so it earns its place only if that particular corner of the market matters to you.",
   "official": {
     "title": "OutBid Mania by Dragos",
     "description": "Tracks outbid.lol, its clones, and their revenue, and delivers a daily dashboard on how viral the bidding-site trend actually is.",

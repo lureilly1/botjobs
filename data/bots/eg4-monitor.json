@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/eg4-monitor/"
   },
-  "description": null,
+  "description": "Reads production, battery and grid figures from the EG4 Monitor Center for a domestic hybrid setup, keeps the charts on file, and raises faults as they appear. Only relevant to EG4 hardware owners with monitoring-account access; other inverter brands are out of scope.",
   "official": {
     "title": "EG4 Monitor by Terry",
     "description": "Watches a home EG4 hybrid solar and battery system. Pulls production, storage, and grid data from EG4 Monitor Center, archives charts, and flags faults...",

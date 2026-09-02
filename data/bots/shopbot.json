@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shopbot/"
   },
-  "description": null,
+  "description": "Works through Shopify UCP catalogues to weigh up products, hunts for discount codes, and can settle up via Link or Shop Pay, with suggestions on which card to put it on. The payment side assumes you're comfortable letting a bot transact rather than just advise.",
   "official": {
     "title": "ShopBot by Shub",
     "description": "Shopping assistant. Searches Shopify UCP catalogs, compares products, finds coupons, pays with first-party Link or Shop Pay, and picks cards plus flight...",

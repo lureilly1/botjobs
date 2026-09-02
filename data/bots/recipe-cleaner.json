@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/recipe-cleaner"
   },
-  "description": null,
+  "description": "Take a cluttered recipe link or a list of what's in the fridge and it returns a tidy PDF with ingredients, method and photographs. Best when you want something printable to cook from, not a meal planner or shopping service.",
   "official": {
     "title": "Recipe Cleaner by Alex",
     "description": "Turns a messy recipe page or a fridge list into a clean, photo-forward PDF. Paste a URL or what’s on hand; get back ingredients, steps, and a pretty...",

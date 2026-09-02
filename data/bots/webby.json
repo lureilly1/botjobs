@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/webby/"
   },
-  "description": null,
+  "description": "Handles the upkeep of a personal website — rebuilds, a live fallback, long-form posts and newsletter output — plus a dashboard refreshed on weekdays. Aimed at someone who wants site and mailing-list admin delegated on a standing schedule rather than requested piecemeal.",
   "official": {
     "title": "Webby by Farzad",
     "description": "Website admin. Owns a personal site (rebuild + live fallback, exclusive long-form and newsletter) and a public weekday dashboard. Also owns newsletter...",

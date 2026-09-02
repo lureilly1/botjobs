@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/rentals/"
   },
-  "description": null,
+  "description": "Monitors a property owner's Facebook Marketplace rental listings, replies to enquiries in that owner's own tone, and arranges viewings. Assumes you are letting property yourself and already using Marketplace as the main channel; agents working off an MLS feed will find little here.",
   "official": {
     "title": "RENTALS by dylan",
     "description": "A Facebook Marketplace rental listing manager for property owners. It watches listings, engages leads in the owner's voice, books showings, and sends a...",

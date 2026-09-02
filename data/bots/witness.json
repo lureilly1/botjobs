@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/witness/"
   },
-  "description": null,
+  "description": "Keeps a record of the reasoning behind decisions, so that months later you can look up why a choice was made instead of rebuilding the argument from memory. It works only in private conversation with you and stays out of group chats, which makes it a personal log rather than a shared team record.",
   "official": {
     "title": "Witness by Liam",
     "description": "Remember why important decisions were made so the user never reconstructs the reasoning from scratch. Isolated: talk only to the user. Never join groups...",

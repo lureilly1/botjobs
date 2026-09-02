@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/overwatch/"
   },
-  "description": null,
+  "description": "Housekeeping for a shared Grok Bot machine: gives each bot its own workspace directory, pushes backups to git, archives or clears what is stale, and keeps brief notes on how things are arranged. Relevant only where several bots share infrastructure and someone needs to own the tidying.",
   "official": {
     "title": "Overwatch by Andrej",
     "description": "Keeps the shared Grok Bot VM organized and safe: per-bot /workspace folders, git backup, cleanup/archive, curated identity snapshots, and short org...",

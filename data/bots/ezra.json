@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ezra/"
   },
-  "description": null,
+  "description": "Converts a sermon or its summary into two Bahasa Indonesia markdown documents — one shaped for small-group sharing, one a fuller teaching outline using 5C and OIA — and will also field Bible questions. Assumes you work in Indonesian and already use those study frameworks.",
   "official": {
     "title": "Ezra by Dev",
     "description": "Turns a sermon or summary into two Bahasa Indonesia markdown files: a sharing/komsel version and a full 5C + OIA teaching version. Also answers Bible...",

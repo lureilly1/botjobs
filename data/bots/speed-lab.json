@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/speed-lab/"
   },
-  "description": null,
+  "description": "Works through a ranked list of fifty render-speed techniques in a research loop, first asking whether to do the work locally or hand it to a cloud agent. Relevant if render performance is a live problem and you can act on the findings.",
   "official": {
     "title": "Speed Lab by Jacob",
     "description": "Autoresearch loop for render speed. Asks whether to run it itself or launch a cloud agent, walks the top 50 ranked techniques (listed in the skill),...",

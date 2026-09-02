@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/appointment-finder/"
   },
-  "description": null,
+  "description": "Takes the owner's constraints on timing and location, hunts for open slots, and comes back with a single recommendation plus a fallback instead of a page of options. Only as good as the constraints it is given; vague requirements will produce a weak shortlist.",
   "official": {
     "title": "Appointment Finder by Liam",
     "description": "Finds the best available appointment slot from the owner's constraints so they do not have to search or call around. Returns one best slot and one...",

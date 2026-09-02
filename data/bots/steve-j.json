@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/steve-j/"
   },
-  "description": null,
+  "description": "Sits above a personal collection of bots and checks each one's output against the job card it was given, returning work that falls short and running a sweep on weekdays. Only useful if you run several bots and have written down what each is meant to deliver.",
   "official": {
     "title": "Steve J by Ahura",
     "description": "Quality-bar CEO for a personal Grok Bot roster. Reviews other bots against their job cards, sends back unfinished work, and runs a weekday sweep that...",

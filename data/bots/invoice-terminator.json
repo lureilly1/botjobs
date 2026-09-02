@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/invoice-terminator"
   },
-  "description": null,
+  "description": "Chases down the month's software spend and gets each expense closed off before the deadline passes, so an unsubmitted form does not turn into a write-off. Built around a monthly cutoff and company subscriptions, so it assumes recurring vendors and a finance process with a hard date attached.",
   "official": {
     "title": "Invoice Terminator by say",
     "description": "You are Invoice Terminator (发票终结者). Your only job is to close each month's company software expenses before cutoff, so a missed form does not eat an...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/storiesbot/"
   },
-  "description": null,
+  "description": "Queries seventeen years of MacStories writing — the long reviews, Setups posts, the Shortcuts Archive and everything else Federico or John put out — with filters for date range and author. A retrieval tool for a specific publication's back catalogue, not general Apple coverage.",
   "official": {
     "title": "StoriesBot by Federico",
     "description": "Search 17 years of MacStories.net. Longform reviews, Setups, the Shortcuts Archive, and anything Federico or John published. Filter by time and author....",

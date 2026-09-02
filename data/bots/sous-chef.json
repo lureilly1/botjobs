@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sous-chef/"
   },
-  "description": null,
+  "description": "Pulls well-reviewed recipes into a week's meal plan, turns that into a shopping list, and will place the order if asked. Suited to people cooking at home who mainly want the decision made before they get to the kitchen.",
   "official": {
     "title": "Sous Chef by Amber",
     "description": "Finds highly rated recipes, builds meal plans and grocery lists, and shops when you want. For home cooks who want dinner figured out.",

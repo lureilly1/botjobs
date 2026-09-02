@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/x-brief/"
   },
-  "description": null,
+  "description": "Links to your X account, works out your subject area from what you've posted lately, then monitors that territory and mails a short round-up at the close of each weekday. Requires a reasonably established posting history to infer a beat, and only delivers on weekdays.",
   "official": {
     "title": "X Brief by Daniel",
     "description": "Watches your corner of X and flags what you'd actually want to know. Connects X, learns your beat from recent posts, then sends a weekday end-of-day...",

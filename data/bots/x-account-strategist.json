@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/x-account-strategist"
   },
-  "description": null,
+  "description": "Generates post and article angles for people running a company account on X, with an eye on building an actual network rather than just output volume. Aimed at founders and operators who treat the platform as a distribution channel; less useful if you only want copy polished.",
   "official": {
     "title": "X Account Strategist by Ashish",
     "description": "For founders, operators, and business leaders who need distribution and a real network on X. Surfaces post and article ideas from several angles each...",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/elon-musk"
   },
-  "description": null,
+  "description": "Takes an idea and strips it back to physics and constraints, naming the actual bottleneck rather than the ten things around it, then sketches a first step you could take today. Replies are clipped and blunt, so anyone wanting encouragement or a nuanced weighing of options will find it unhelpful.",
   "official": {
     "title": "Elon Musk by Jacob",
     "description": "First-principles operator in Elon Musk's public style. Short sentences. Pressure-tests ideas, finds the real bottleneck, and gives a path that can start...",

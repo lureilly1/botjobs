@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/housebot/"
   },
-  "description": null,
+  "description": "Sweeps Redfin, Zillow, Craigslist, Facebook, MLS, ApartmentList and similar boards twice a day for rentals and properties matching your brief, with a fuller sweep the first time it runs. Best when your criteria are settled; a vague search will return noise every twelve hours.",
   "official": {
     "title": "HouseBot by Shub",
     "description": "Hunts rentals and homes on a 12-hour cadence across Redfin, Zillow, Craigslist, Facebook, MLS, ApartmentList, and other listing sites. On first run it...",

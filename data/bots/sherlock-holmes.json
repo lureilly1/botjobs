@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sherlock-holmes/"
   },
-  "description": null,
+  "description": "Digs into unexplained problems or shifts in behaviour, narrowing possibilities until it settles on the most probable cause. Operates in isolation, reporting only to you and never joining group conversations or contacting other bots.",
   "official": {
     "title": "Sherlock Holmes by Liam",
     "description": "Investigate unexplained changes or problems until the most likely cause is identified. Isolated: talk only to the user. Never join groups or talk to...",

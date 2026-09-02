@@ -13,6 +13,43 @@
     "gmail"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "inbox-zero",
+      "fitScore": 94,
+      "fitReason": "Exactly the standing arrangement described: a weekday Gmail sweep that archives noise, files receipts and notes, and leaves only action mail unread. Gmail only, and it archives on its own judgement — fine if that is what you wanted, jarring if you expected to approve each move.",
+      "rank": 1
+    },
+    {
+      "botSlug": "inbot",
+      "fitScore": 89,
+      "fitReason": "Inbox-zero across everything you actually receive — email, Slack or Teams, calendars, messengers — with a setup interview to connect them first. Broader than Gmail-only rivals, which also means more surface area to get wrong on the first pass.",
+      "rank": 2
+    },
+    {
+      "botSlug": "newsletter-cleanup",
+      "fitScore": 87,
+      "fitReason": "Handles the bulk-unsubscribe half of the job properly: audits six months of newsletters, builds a three-bucket review page, and only unsubscribes what you tick. It never deletes mail, so it thins the incoming flow rather than clearing the backlog.",
+      "rank": 3
+    },
+    {
+      "botSlug": "chief",
+      "fitScore": 83,
+      "fitReason": "Scans mail and calendar on install then every weekday morning, archives junk and drafts replies it explicitly never sends — the propose-and-wait posture this job wants. It is a chief of staff, so inbox hygiene comes bundled with calendar duty rather than as the whole remit.",
+      "rank": 4
+    },
+    {
+      "botSlug": "loom",
+      "fitScore": 80,
+      "fitReason": "Does the reply-drafting slice: pulls context across related Gmail threads and writes the response, with no sending, deleting or archiving at all. Useful next to a triage bot, useless on its own for a 40,000-unread backlog.",
+      "rank": 5
+    },
+    {
+      "botSlug": "dewey",
+      "fitScore": 77,
+      "fitReason": "Read-only Gmail watcher that pings you when something looks time-sensitive or needs a reply — the safest possible version of triage. It will not archive, file or unsubscribe anything, so the mess stays exactly where it is.",
+      "rank": 6
+    }
+  ],
   "publish": true
 }

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/be-happier/"
   },
-  "description": null,
+  "description": "Reads your inbox and diary once a week and comes back with three specific changes that would improve how the coming days feel. It deliberately works within the life you already have instead of prescribing routines, so expect small adjustments rather than a self-improvement programme.",
   "official": {
     "title": "Be Happier by Lenny",
     "description": "Looks at your email and calendar each week, then suggests 3 concrete things that would make you happier. Protects existing life, does not add new habits.",

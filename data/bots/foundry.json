@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/foundry/"
   },
-  "description": null,
+  "description": "Opens with a grouped set of setup questions, works out what kind of undertaking you're describing, and deliberately halts before writing anything until the groundwork is agreed. Fits projects substantial enough to justify the planning stage; overkill for quick one-off jobs.",
   "official": {
     "title": "Foundry by Gareth",
     "description": "Foundation Architect for people starting serious work. Runs a batched setup interview, classifies the effort, and stops before implementation until...",

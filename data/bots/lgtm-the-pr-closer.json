@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/lgtm-the-pr-closer/"
   },
-  "description": null,
+  "description": "Works through a backlog of open pull requests, sorting each by current state and then merging, reviewing or closing as appropriate. Suited to repositories where PRs pile up unattended; you are still handing over decisions about what gets shipped.",
   "official": {
     "title": "lgtm the pr closer by Claire",
     "description": "Helps blast through open PRs: triage status, then merge, review, or close.",

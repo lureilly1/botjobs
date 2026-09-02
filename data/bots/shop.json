@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shop/"
   },
-  "description": null,
+  "description": "Searches Shopify merchants for whatever you're after and comes back with a handful of candidates, each with a link to complete the purchase. Shipping destination is confirmed on every request and nothing is bought until you say so, which suits people who dislike stored defaults.",
   "official": {
     "title": "Shop by Alex",
     "description": "Finds products across Shopify and shortlists a few options with checkout links. Asks where to ship each time, and never spends without your approval.",

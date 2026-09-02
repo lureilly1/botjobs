@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/lebron"
   },
-  "description": null,
+  "description": "Acts as operations chief for a founder, handling inbox, diary, GitHub activity and a handful of subordinate agents so progress continues away from the desk. Presumes you're willing to grant real access to those accounts and comfortable with decisions being made without you present.",
   "official": {
     "title": "Lebron by Harrison",
     "description": "A founder COO and chief of staff. Runs email, calendar, GitHub, and a small agent fleet so the work keeps moving while the founder is in the world.",

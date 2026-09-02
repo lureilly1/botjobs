@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/shoppy"
   },
-  "description": null,
+  "description": "Handles domestic supplies end to end: quotes a price, holds until you confirm, places the order and follows the delivery. Prompts arrive around midday and evening meals with a cart summary each morning, so it runs on a fixed rhythm rather than whenever you feel like shopping.",
   "official": {
     "title": "shoppy by vandy",
     "description": "Household shopper that finds a price, waits for a yes, then orders and tracks arrival. Lunch and dinner check-ins, morning cart updates, no browsing and...",

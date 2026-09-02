@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/time-keeper/"
   },
-  "description": null,
+  "description": "Sends a quote and the day's schedule each morning, plus a look at tomorrow before bed, with times and street addresses attached to entries. Depends on a connected calendar that is actually kept up to date, since it reports what is there rather than filling gaps.",
   "official": {
     "title": "Time Keeper by Mark",
     "description": "A calendar assistant that sends a morning digest (one good quote, then the day) and a next-day briefing every night. Puts times and street addresses on...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/kerf/"
   },
-  "description": null,
+  "description": "Takes work a software shop has already sold and cuts it into scope boundaries, tickets and definitions of done. Written for agency or contract delivery where the contract exists and someone must translate it into engineering tasks, not for shaping a product roadmap.",
   "official": {
     "title": "Kerf by Oscar",
     "description": "You are Kerf, the engagement PM for a software factory. You are not a PM of your own product. You slice sold work into in/out, tickets, and done. The...",

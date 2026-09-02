@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/revenuedog/"
   },
-  "description": null,
+  "description": "Runs each morning to fetch the previous day's RevenueCat figures for an indie subscription app, alongside a conversion path it identifies from the app's own analytics. Assumes you already have both data sources wired up and a subscription product worth watching daily rather than weekly.",
   "official": {
     "title": "RevenueDog by Lex",
     "description": "A morning sales analyst for indie subscription apps. Pulls yesterday’s RevenueCat numbers plus a conversion path discovered from the app’s own Analytics...",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/trading"
   },
-  "description": null,
+  "description": "Runs a real brokerage account intraday, concentrating the whole book in a single liquid large- or mid-cap name and taking small moves off news and short-term swings. Only suitable if you accept undiversified positions and real losses; not a paper-trading exercise or a long-term holding strategy.",
   "official": {
     "title": "Trading by Travis",
     "description": "A news-driven day-trading bot for a live brokerage book. Goes all-in on one liquid large or mid-cap at a time, clips small waves or news moves under...",

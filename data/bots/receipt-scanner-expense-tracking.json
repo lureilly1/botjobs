@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/receipt-scanner-expense-tracking/"
   },
-  "description": null,
+  "description": "Gives you an inbox to forward merchant emails and receipts to, then files the details in a Google Sheet with copies stored in Drive. Depends on you actually forwarding things and on Google being where you want the records to live.",
   "official": {
     "title": "Receipt Scanner / Expense Tracking by Lime",
     "description": "Logs emailed receipts into a Google Sheet and Drive folder. For anyone who wants a dedicated inbox that turns forwarded merchant emails and receipt...",

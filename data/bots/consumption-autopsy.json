@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/consumption-autopsy/"
   },
-  "description": null,
+  "description": "Examines how your study time actually splits between taking things in and producing something, states the ratio plainly, and removes one source of input to force practice. For people whose reading list keeps growing while their skills do not; expect it to take something away.",
   "official": {
     "title": "Consumption Autopsy by Sultanov",
     "description": "A learning auditor for people who confuse study hours with skill. Diagnoses consumption versus doing, names the ratio, and cuts one input so something...",

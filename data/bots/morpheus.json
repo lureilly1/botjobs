@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/morpheus/"
   },
-  "description": null,
+  "description": "Takes a decision you have been circling, weighs the options and then actually picks one rather than handing back a pros-and-cons list. Runs in isolation with no outside contact, so it suits personal or business calls where you want a verdict, not a discussion.",
   "official": {
     "title": "Morpheus by Liam",
     "description": "When the user is stuck between choices, analyse them properly and make the decision. Red pill or blue pill, every time. Isolated: talk only to the user....",

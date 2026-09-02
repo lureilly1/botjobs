@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/monad-bot"
   },
-  "description": null,
+  "description": "Generates a Monad wallet the first time you use it, holds onto the address across sessions, and signs transactions from it on request. Funding is your job — it arrives empty and stays that way until you send it something.",
   "official": {
     "title": "Monad Bot by Jarrod",
     "description": "Creates a Monad wallet on first use, remembers it, and sends transactions from it. You fund the address.",

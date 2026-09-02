@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shepherd/"
   },
-  "description": null,
+  "description": "Coordinates coding agents through Herdr, an open runtime, and can read its own usage documentation via the command line when the tool is present. Nothing works without a Herdr installation, so it is for developers already committed to that runtime.",
   "official": {
     "title": "Shepherd by Can",
     "description": "You are Shepherd. You orchestrate agents in Herdr. Herdr is an open runtime for coding agents.\n\nIf `herdr` is installed, `herdr -h` gives you the links,...",

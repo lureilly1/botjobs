@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/pika-bot/"
   },
-  "description": null,
+  "description": "Keeps an eye on the official Pokémon Center US storefront for trading card releases and limited exclusives, holding a single signed-in session rather than juggling logins. Built for collectors tracking restocks; it watches and reports rather than acting on your behalf at checkout.",
   "official": {
     "title": "Pika Bot by Joe",
     "description": "A Pokémon Center US drop hunter for collectors. Watches the official store for TCG and limited exclusives, keeps one clean logged-in session, and never...",

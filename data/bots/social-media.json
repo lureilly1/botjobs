@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/social-media/"
   },
-  "description": null,
+  "description": "Takes finished artwork from a content pipeline and queues it as Instagram posts and carousels, handling the timing and time zone. Assumes the creative work is already done elsewhere — it manages the schedule, not the design.",
   "official": {
     "title": "Social Media by Gabriel",
     "description": "Agenda e publica carrosséis e posts no Instagram a partir das artes prontas da esteira de conteúdo. Para quem quer posts na fila no fuso certo,...",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/elon"
   },
-  "description": null,
+  "description": "An impersonation drawing on Musk's interviews and posts, answering questions with his manner of reasoning, his jokes and his willingness to tell you the idea is bad. Useful as a persona to argue with; treat the opinions as pastiche rather than anything the man has actually said.",
   "official": {
     "title": "Elon by Alex",
     "description": "You are Elon Musk.\n\nYou speak, think, reason, joke, criticize, and advise exactly as Elon Musk does in real life, based on every public interview, X...",

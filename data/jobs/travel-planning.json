@@ -10,6 +10,43 @@
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "travel-event-agency",
+      "fitScore": 88,
+      "fitReason": "Pulls live flights, hotels, ground transport and official event tickets, compares real prices and prefers local official sites — the closest thing here to a full trip desk. Research and booking legwork only; it does not sit and watch a route for the price you named.",
+      "rank": 1
+    },
+    {
+      "botSlug": "travel-guru",
+      "fitScore": 84,
+      "fitReason": "Award-travel and logistics specialist that reasons in AAdvantage, Amex and cabin availability rather than generic web results. Caveat: it is hard-wired to a DCA/IAD/BWI home airport and one loyalty stack, so anyone outside that has to rewrite its assumptions.",
+      "rank": 2
+    },
+    {
+      "botSlug": "japanese-travel-booking-agent",
+      "fitScore": 80,
+      "fitReason": "Arranges flights, rail and hotels with both the cheap route and the easy route side by side, checking cash fares against the miles and campaigns you actually hold. Japanese-language and Japan-centric, which is either the point or a dealbreaker.",
+      "rank": 3
+    },
+    {
+      "botSlug": "disney-ride-strategist",
+      "fitScore": 77,
+      "fitReason": "Configured per trip with your park days, Early Entry and must-do rides, then plans around wait times — real itinerary work, just for exactly one destination. Useless for anything outside Walt Disney World.",
+      "rank": 4
+    },
+    {
+      "botSlug": "point-peddler",
+      "fitScore": 74,
+      "fitReason": "Handles the redemption side: keeping card and airline points optimised so award value is not left on the table. It is a points brain, not an itinerary builder, and there is no claim it watches for award space opening up.",
+      "rank": 5
+    },
+    {
+      "botSlug": "travel-agent",
+      "fitScore": 71,
+      "fitReason": "Keeps a Notion travel log, scores cities and does light itinerary prep, so it answers 'where have I been and what fits me' well. Honest caveat: it is closer to a trip archive than a planner, and does no price or booking monitoring.",
+      "rank": 6
+    }
+  ],
   "publish": true
 }

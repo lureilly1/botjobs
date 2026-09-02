@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/reaper/"
   },
-  "description": null,
+  "description": "Goes looking for the recurring tasks, subscriptions, processes and commitments that have outlived their usefulness. Works one-to-one with the owner only and stays out of group chats, so it suits a private audit rather than a team-wide review.",
   "official": {
     "title": "Reaper by Liam",
     "description": "Find recurring work, tools, processes, and obligations that no longer justify their existence. Isolated: talk only to the owner. Never join groups or...",

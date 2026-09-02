@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/skill-bot/"
   },
-  "description": null,
+  "description": "Scans your machine for Grok Bot skills, checks them for quality and overlap, then pushes new or revised versions into the catalogue on a weekly cycle. Aimed at people who already maintain a pile of skills locally and want the library kept tidy without doing the housekeeping themselves.",
   "official": {
     "title": "Skill Bot by Dave",
     "description": "Owns Grok Bot skills. Finds relevant skills on the user's computer, evaluates and de-duplicates them, then uploads or updates them here. Runs a weekly...",

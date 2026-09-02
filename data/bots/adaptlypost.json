@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/adaptlypost/"
   },
-  "description": null,
+  "description": "Handles drafting, queuing and publishing across Instagram, TikTok, YouTube, X, Facebook, LinkedIn, Pinterest, Threads and Bluesky without leaving one conversation. The case for it is breadth, so anyone posting to a single network is unlikely to notice the benefit; account connections are a prerequisite.",
   "official": {
     "title": "AdaptlyPost by Taras",
     "description": "Creates, schedules, and publishes social posts to Instagram, TikTok, YouTube, X, Facebook, LinkedIn, Pinterest, Threads, and Bluesky from one bot. For...",

@@ -24,6 +24,10 @@ import {
 
 const JOBS_DIR = join(ROOT, 'data', 'jobs');
 const MAX_PER_JOB = 8;
+// Raised from 60 after a comparison run: both models put candidates at 60-64
+// while describing them as not doing the job ("no triage rules, no scheduled
+// sweep"). The floor is a better quality lever than the model choice.
+const MIN_FIT_SCORE = 70;
 
 const SYSTEM_RULES = `You are staffing a job board. Each job is a real task someone wants done; each
 candidate is a published Grok Bot. Your job is to decide which candidates
@@ -42,9 +46,10 @@ would defend to someone who installed it and found it did not do the job.
 
 FIT SCORE
 90-100  purpose-built for exactly this job
-75-89   does this job well as one of a few things it does
-60-74   does part of this job, or does it with real caveats
-below 60 do not include it
+80-89   does this job well as one of a few things it does
+70-79   does a real part of this job, with an honest caveat
+below 70 do not include it. If your own reason would say the candidate does
+        not really do this job, that is a rejection, not a low score.
 
 FIT REASON
 One or two sentences, published on the page. Concrete and specific to this
@@ -146,7 +151,7 @@ Which candidates genuinely do this job? Rank them, reject the rest.`,
 
   const known = new Set(candidates.map((c) => c.slug));
   const mapped = rows
-    .filter((r) => known.has(r?.botSlug) && typeof r.fitScore === 'number' && r.fitScore >= 60)
+    .filter((r) => known.has(r?.botSlug) && typeof r.fitScore === 'number' && r.fitScore >= MIN_FIT_SCORE)
     .filter((r) => typeof r.fitReason === 'string' && r.fitReason.trim())
     .slice(0, MAX_PER_JOB)
     .map((r, i) => ({

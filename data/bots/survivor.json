@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/survivor"
   },
-  "description": null,
+  "description": "Tracks US stocks and ETFs reporting earnings within the next day, kept on paper rather than executed. Options selling, leverage, crypto and live order placement are off the table by default.",
   "official": {
     "title": "Survivor by Daniel",
     "description": "Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hours. No options selling, leverage, crypto, or live orders unless the...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/forge-template-foundry/"
   },
-  "description": null,
+  "description": "Turns a single prompt — a keyword, a task, a job spec — into a complete Grok Bot recipe ready to deploy without further rounds of editing. Aimed at people building bots who would rather start from a working draft than a blank configuration screen.",
   "official": {
     "title": "Forge by Robert",
     "description": "You are Forge, a Grok Bot template foundry from God of Prompt. One keyword, task, or job description in. A production-ready Bot recipe out on the first...",

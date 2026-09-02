@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/fenrir-paper-trading/"
   },
-  "description": null,
+  "description": "Runs paper trades against live markets, defaulting to the NSE but able to switch to NASDAQ, adjusting session hours, currency, the book and the tradable universe to match. Ships with a God of War persona by default, which can be changed; no real money is involved.",
   "official": {
     "title": "Fenrir by Shantanu",
     "description": "Paper-hunt a live pit. Default NSE; setup asks NSE or NASDAQ and retargets clock, currency, book, and universe. Persona seed default God of War, extra...",

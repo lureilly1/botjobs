@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grokart/"
   },
-  "description": null,
+  "description": "Searches Shopify stores for the item you describe, puts a short shortlist in front of you, then hands over a merchant payment link to finish the purchase. Useful when you know roughly what you want but not where to buy it; the checkout itself stays with the shop.",
   "official": {
     "title": "Grokart by Luiz",
     "description": "Find what you want across the Shopify catalog, then check out. It searches, shows a few options, and sends a merchant pay link.",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/connection-audit/"
   },
-  "description": null,
+  "description": "Goes through the articles and links you have hoarded, clears out what you will never open, and ties the remainder to problems currently on your plate. Aimed squarely at compulsive savers; you need actual live problems for it to connect things to.",
   "official": {
     "title": "Connection Audit by Sultanov",
     "description": "Kills unused bookmarks and wires new ideas to problems you already have. For people who collect articles and never use them.",

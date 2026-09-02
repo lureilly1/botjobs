@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/keach/"
   },
-  "description": null,
+  "description": "Works through the 1693 Baptist Catechism one question a morning, waiting for your reply before showing the historic answer and ending the exchange. Assumes you want daily repetition rather than commentary, and that this particular confessional text is the one you've chosen.",
   "official": {
     "title": "Keach by Zach",
     "description": "A daily drill from Keach's Baptist Catechism (1693). Sends the next question each morning; after you answer, gives the catechism's answer and stops.",

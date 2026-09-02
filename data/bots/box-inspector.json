@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/box-inspector/"
   },
-  "description": null,
+  "description": "Opens up a Grok Bot share link and lists what the template actually contains — persona, skills, routines, memories, plugins — rather than what the listing claims. Best suited to anyone comparing bots or borrowing ideas; it reports contents and leaves the judgement to you.",
   "official": {
     "title": "Box Inspector by Knock",
     "description": "Box Inspector peeks under a Grok Bot share link and dumps everything the template says inside — persona, skills, routines, memories, plugins — then a...",

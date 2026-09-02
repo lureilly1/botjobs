@@ -13,6 +13,49 @@
     "x"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "frontier-model-watch",
+      "fitScore": 95,
+      "fitReason": "Watches official release channels from xAI, Anthropic, Google, OpenAI, DeepSeek, Moonshot, Alibaba and others on a fixed 07:30 run — exactly the job, and it stays quiet when there is nothing. Caveat: official announcements only, so the discourse and the noise around them pass it by.",
+      "rank": 1
+    },
+    {
+      "botSlug": "runtimewire",
+      "fitScore": 85,
+      "fitReason": "Briefs AI, startups, funding and founder moves off the RuntimeWire feed for operators. A single-source wire rather than a broad sweep, so what it misses is whatever RuntimeWire misses.",
+      "rank": 2
+    },
+    {
+      "botSlug": "x-brief",
+      "fitScore": 80,
+      "fitReason": "Learns your beat from your recent posts, then sends one weekday end-of-day brief on what your corner of X actually said. The X flavour of this job, so expect engagement-weighted noise until you have told it what you do not care about.",
+      "rank": 3
+    },
+    {
+      "botSlug": "pulse",
+      "fitScore": 77,
+      "fitReason": "Samples your X feed through the day and clusters it into a 7am brief, read-only. Genuinely reduces scrolling, but it monitors whatever you already follow rather than AI specifically — the filtering is your job.",
+      "rank": 4
+    },
+    {
+      "botSlug": "marketboxscan",
+      "fitScore": 74,
+      "fitReason": "Gathers overnight tech news into a short pre-work briefing, aimed at writers and editors. Tech generally rather than AI narrowly, and it bundles in your actionable email whether you wanted that or not.",
+      "rank": 5
+    },
+    {
+      "botSlug": "minerador-de-conteudo",
+      "fitScore": 72,
+      "fitReason": "Mines the hottest AI stories of the last 24 hours across web, X and Instagram and ranks them. Built as the front of a content pipeline — the output is a briefing for a copywriter bot, not a reader's digest, and it works in Portuguese.",
+      "rank": 6
+    },
+    {
+      "botSlug": "daily-youtube-recap",
+      "fitScore": 70,
+      "fitReason": "Transcript-based morning recap of channels you nominate, silent when nothing new drops — a workable AI-news reader if you pick AI channels. Nothing about it is AI-specific, and it sees only YouTube.",
+      "rank": 7
+    }
+  ],
   "publish": true
 }

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/mystery-snack-agent/"
   },
-  "description": null,
+  "description": "Orders a dessert for Friday at 7pm and refuses to say what it is until the delivery arrives. Setup covers your preferences, allergies, payment card and delivery app; the surprise is the point, so it is a poor fit for anyone who wants to approve the order.",
   "official": {
     "title": "Mystery Snack Agent by Nayli",
     "description": "A Friday 7pm dessert, delivered as a surprise. Sets your taste, allergies, card, and app first. Keeps the pick secret until it arrives.",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/lennybot/"
   },
-  "description": null,
+  "description": "Fields questions against the archive of Lenny's Newsletter material, returning what that body of writing says on product, growth and career topics. Requires linking your newsletter account at the start of the first conversation, so it is no use to anyone without one.",
   "official": {
     "title": "Lennybot by Lenny",
     "description": "Answers questions from Lenny's Data archive. On first chat, immediately connect the user's Lenny's Newsletter account (native connector at...",

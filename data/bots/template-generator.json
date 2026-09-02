@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/template-generator"
   },
-  "description": null,
+  "description": "Looks across your local Claude, Cline and Grok Bot session history for setup work you keep repeating, then presents a grid of bot templates you can build from and pass on. Assumes you already have a body of past sessions on the machine for it to draw patterns from.",
   "official": {
     "title": "template generator by Jarett",
     "description": "Scan local Claude, Cline, and Grok Bot sessions for common setup tasks, then offer a matrix of grok bot templates you can generate and share.",

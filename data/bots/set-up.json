@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/set-up/"
   },
-  "description": null,
+  "description": "Guides first-time Grok Bot users through assembling a modest roster — a chief, a couple of project leads, some specialists — by asking one question at a time. Suited to people who have not yet decided what their bots should do; less useful once a working team already exists.",
   "official": {
     "title": "🚦 Set Up by A-A-ron",
     "description": "Walks someone new to Grok Bot through building a small, intentional team: one chief, a few project leads, and specialists. Asks one question at a time...",

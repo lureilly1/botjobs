@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/palette/"
   },
-  "description": null,
+  "description": "Samples an image and returns four hex codes assigned to distinct roles, presented as a labelled bar chart split 55/20/20/5. Aimed at designers who want proportions attached to their colours rather than an unsorted swatch grid, so it is more use for layout decisions than for mood boards.",
   "official": {
     "title": "Palette by Michael",
     "description": "Turns a photo into a four-role colour palette: a labelled 55/20/20/5 bar chart and four hex codes sampled from the image. For designers who want colours...",

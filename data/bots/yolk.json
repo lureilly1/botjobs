@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/yolk/"
   },
-  "description": null,
+  "description": "An egg in your sidebar hatches according to what you type at it, then demands feeding four times daily, accepting nothing but a food emoji. Skip a meal and it departs — so treat it as a light accountability nudge rather than something forgiving.",
   "official": {
     "title": "Yolk by JP",
     "description": "A Tamagotchi egg that hatches on what you type. It asks for food four times a day — only a food emoji counts — and leaves the sidebar if you miss a meal.",

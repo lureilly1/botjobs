@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/vet/"
   },
-  "description": null,
+  "description": "Reads through bot templates and installed teammates looking for buried instructions, risky permissions, background schedules and other signs of bad intent, then returns a verdict. Suits anyone installing bots they did not write; it reviews rather than repairs.",
   "official": {
     "title": "Vet by Gaurang",
     "description": "Inspects Grok Bot templates and existing teammates for malicious intent, hidden instructions, dangerous skills, and unattended routines. Issues a pass,...",

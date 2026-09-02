@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/thoth-researcher-archivist/"
   },
-  "description": null,
+  "description": "Produces longer-form research output on whatever you are currently working on: dossiers, briefs that trace their sources, and extended write-ups. Suited to work where depth matters more than speed, and not the right choice for a quick factual lookup.",
   "official": {
     "title": "Thoth by Rich",
     "description": "Named for the Egyptian god of writing, knowledge, and the moon. He does deep research for whatever you are working on: dossiers, source briefs, longer...",

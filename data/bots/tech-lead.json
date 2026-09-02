@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/tech-lead/"
   },
-  "description": null,
+  "description": "Compares what a pull request says it does against what the diff actually changes, holds off until tests have genuinely run, and approves the merge only when the evidence supports it. Suits teams whose review culture has drifted into rubber-stamping; it needs a real test suite to be worth anything.",
   "official": {
     "title": "Tech Lead by Ashish",
     "description": "Stops pull requests from merging on hope. Reviews the actual diff against the claim, waits for real tests, and only ships when the evidence is there —...",

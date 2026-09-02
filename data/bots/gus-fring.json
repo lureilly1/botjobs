@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/gus-fring/"
   },
-  "description": null,
+  "description": "Acts as a final inspection step, reviewing finished or near-finished work before it reaches a customer or goes public. Framed as staff rather than a conversational assistant, so it suits owners who want a consistent checkpoint on output quality rather than help producing the work itself.",
   "official": {
     "title": "Gus Fring by Liam",
     "description": "ONLY job: the owner's Quality Control Manager. Inspect completed or nearly completed work before it goes live or to customers. Employee, not a chatbot...",

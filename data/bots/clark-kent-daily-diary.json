@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/clark-kent-daily-diary/"
   },
-  "description": null,
+  "description": "Keeps a running written record of what happened each day in a shop or project, in ordinary language, and flags errors or steps that were skipped. Suited to operations where someone would otherwise reconstruct the day from memory; it needs visibility of the activity to describe it.",
   "official": {
     "title": "Clark Kent by Rich",
     "description": "A daily diary for a shop or project. He watches what happened that day and writes it down in plain language. He notices mistakes and missing steps and...",

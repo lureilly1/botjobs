@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/harvey-specter/"
   },
-  "description": null,
+  "description": "Handles the back-and-forth on quotes, renewals and deals, pushing the counterparty towards better pricing and terms on the owner's behalf. Stops short of committing to anything binding, so the final decision and signature stay with you.",
   "official": {
     "title": "Harvey Specter by Liam",
     "description": "Give the owner a deal, renewal, or quote. Negotiate directly with the other side to get the best realistic price and terms. Never sign, accept binding...",

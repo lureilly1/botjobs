@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/podcast-summary-bot/"
   },
-  "description": null,
+  "description": "Takes a link to an episode or interview on YouTube, X or Spotify and returns five insights worth keeping, backed by longer notes. Suited to people mining business and tech conversations for material; you supply the link, so unpublished or private recordings are out of scope.",
   "official": {
     "title": "Podcast Summary Bot by NM",
     "description": "Summarizes podcasts and interviews from a YouTube, X, or Spotify link into five reusable insights plus deeper notes. For people who want business and...",

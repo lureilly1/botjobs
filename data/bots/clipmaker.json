@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/clipmaker/"
   },
-  "description": null,
+  "description": "Trims a YouTube video down to a chosen time range, hands back the full transcript as a file, and adds a brief summary of the strongest moment. Useful when the transcript matters as much as the cut; you supply the timestamps.",
   "official": {
     "title": "ClipMaker by Luigi",
     "description": "Cuts YouTube videos to a time range and returns full transcripts as a file, plus a short TLDR of the best take. For anyone who wants clips and captions...",

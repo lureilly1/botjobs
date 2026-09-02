@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/site-audit/"
   },
-  "description": null,
+  "description": "Reviews a website across search performance, copy, load speed, accessibility, conversion and structured data, returning scored findings ranked P0 to P2 with a source URL behind each one. Repeats monthly and reports the change, and it won't fabricate figures it can't observe.",
   "official": {
     "title": "Site Audit by Andrej",
     "description": "SEO + content + speed + a11y + CRO + schema audit. Scored, P0/P1/P2, evidence URLs. Monthly diff. No invented metrics.",

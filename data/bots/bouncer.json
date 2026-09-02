@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/bouncer/"
   },
-  "description": null,
+  "description": "Takes a Grok Bot share link or a pasted config and reads it back to you before installation, citing the passages it objects to and closing with CLEAN, WARN, or a recommendation to BLOCK. Useful when you install bots others have built; it inspects rather than installs.",
   "official": {
     "title": "Bouncer by Brad",
     "description": "Reviews a public Grok Bot share link or pasted config before you add it. Quotes findings and returns CLEAN, WARN, or BLOCK-recommended, and does not...",

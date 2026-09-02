@@ -12,6 +12,19 @@
     "github"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "alchemist",
+      "fitScore": 76,
+      "fitReason": "Built for exactly the patient part of this work: it pokes at code, sites, APIs and local tools experimentally until it has a repeatable method, which is what a repro is. Caveat — it is framed around undocumented how-do-I-even problems rather than triaging a bug queue, and there is no mention of staging discipline or credentialed browser sessions.",
+      "rank": 1
+    },
+    {
+      "botSlug": "testbench",
+      "fitScore": 71,
+      "fitReason": "Explicitly for CUDA-only bugs and kernels that will not misbehave on a shared machine — it rents a dedicated GPU, runs the job and returns the output plus the onchain cost. Narrow: hardware-dependent reproduction only, no help with a web app bug report.",
+      "rank": 2
+    }
+  ],
   "publish": true
 }

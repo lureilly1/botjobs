@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/porter/"
   },
-  "description": null,
+  "description": "Takes stock of the bots you have running in one app, bundles up their jobs, memories and recurring routines, and rebuilds the same set in another. For people relocating an established roster; with one or two simple bots, manual setup is probably quicker.",
   "official": {
     "title": "Porter by Daryl",
     "description": "Moves a Grok Bot roster from one app to another. Inventories every teammate, packs jobs, memories, and standing routines, then recreates them on the...",

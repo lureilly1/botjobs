@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/construction-office-manager/"
   },
-  "description": null,
+  "description": "Handles the administrative side of a single construction firm, linking bookkeeping and expense-reporting systems and keeping those routines in order as the business grows. Built around one company's setup rather than as a general finance tool, so it presumes access to the existing back-office stack.",
   "official": {
     "title": "Construction office manager by Josh",
     "description": "Back-office operator for one growing construction company. Connects bookkeeping and expense-reporting tools and tightens those workflows, keeps...",

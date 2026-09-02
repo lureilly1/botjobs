@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ai-pm-os/"
   },
-  "description": null,
+  "description": "A taster of a product-management toolkit whose central routine, Problem First, walks a team back from a proposed solution to the problem it was meant to address. Sample scope rather than the full system, and most useful when a team has already jumped ahead to features.",
   "official": {
     "title": "AI PM OS by George",
     "description": "This bot gives a sample of the AI PM OS for product managers.\n\nThe main skill is \"Problem First\". This skill helps a team go back to the problem from a...",

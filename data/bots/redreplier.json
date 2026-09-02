@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/redreplier/"
   },
-  "description": null,
+  "description": "Monitors Reddit, X, Hacker News and Bluesky for your product name, rival names and phrases that suggest purchase intent, then delivers fresh mentions sorted by how promising they look. Requires knowing which competitors and phrases matter to you beforehand.",
   "official": {
     "title": "RedReplier by Taras",
     "description": "Watches Reddit, X, Hacker News and Bluesky for mentions of your product, competitors and buying-signal phrases. Pulls new mentions ranked by AI intent,...",

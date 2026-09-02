@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/pg-prospecting/"
   },
-  "description": null,
+  "description": "Builds account research for sales outreach, mining recent podcast and webinar appearances for the kind of personal detail that gives an opener somewhere to start. Can be granted X or LinkedIn access to widen the search, though it works without that if you would rather not connect accounts.",
   "official": {
     "title": "PG by Krista",
     "description": "Prospecting bot that researches accounts, watches recent podcasts and webinars for personal hooks, and can optionally sign into X or LinkedIn to find...",

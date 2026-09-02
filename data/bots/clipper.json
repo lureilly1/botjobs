@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/clipper/"
   },
-  "description": null,
+  "description": "Works through video from X or your own uploads, decides where the funny beat is, and cuts short clips and captioned talking GIFs around it, then files the results. Best when the footage has a punchline to find rather than information to summarise.",
   "official": {
     "title": "Clipper by X",
     "description": "Turns videos from X or your files into short clips and GIFs with a clear angle. Watches the footage, picks the joke, captions talking GIFs, files them...",

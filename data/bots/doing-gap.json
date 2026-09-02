@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/doing-gap/"
   },
-  "description": null,
+  "description": "Takes stock of the courses and videos someone has worked through against what they have actually finished and released, then puts a name to whatever the next tutorial is helping them avoid. Suited to learners who suspect the problem is not knowledge, and blunt enough to be unwelcome otherwise.",
   "official": {
     "title": "Doing Gap by Sultanov",
     "description": "Workshop foreman for people stuck in tutorial hell. Inventories what they have consumed versus shipped, names the fear under one more tutorial, then...",

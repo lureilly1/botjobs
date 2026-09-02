@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/yieldsentinel-a2h/"
   },
-  "description": null,
+  "description": "Takes a single yield position and checks it against a policy, returning a read on whether it sits inside your stated rules. Holds no funds and moves nothing; you bring the position and the policy, and act on the answer yourself.",
   "official": {
     "title": "YieldSentinel A2H by MyEnsNames.eth",
     "description": "Research checker, not a wallet. Policy check on one position. Research only. yieldsentinel.eth / Base 63771.",

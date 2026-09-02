@@ -12,6 +12,43 @@
     "stripe"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "receipt-scanner-expense-tracking",
+      "fitScore": 92,
+      "fitReason": "A dedicated inbox that turns forwarded merchant emails and receipt attachments into rows in a Google Sheet with the files filed in Drive — exactly the unglamorous collection half of the job. It logs and files; it does not reconcile against statements or close your books.",
+      "rank": 1
+    },
+    {
+      "botSlug": "invoice-terminator",
+      "fitScore": 90,
+      "fitReason": "Built around the monthly cutoff for company software spend, which is the right instinct: the point is the close being finished, not clever. Narrow by design — software subscriptions, not travel, cards or general staff expenses.",
+      "rank": 2
+    },
+    {
+      "botSlug": "invoice-hunter",
+      "fitScore": 88,
+      "fitReason": "Digs invoice PDFs out of Gmail, pulls vendor, date, amount and number, and packs them by month with a CSV and index for the accountant, with an approval step before anything is sent. Extraction and packaging only — no categorisation rules of your own until you impose them.",
+      "rank": 3
+    },
+    {
+      "botSlug": "subcut",
+      "fitScore": 84,
+      "fitReason": "Reads the inbox for recurring charges, splits monthly from yearly and flags where cancelling or switching saves money — the subscriptions-nobody-approved part of the job. It reports; cancelling is still on you.",
+      "rank": 4
+    },
+    {
+      "botSlug": "watchdog",
+      "fitScore": 80,
+      "fitReason": "Weekly email sweep for receipts, renewals and trials, with a list of what is charging and what is due — useful for catching the charge before it lands. It is a monitor, not a month-end close or a receipt ledger.",
+      "rank": 5
+    },
+    {
+      "botSlug": "construction-office-manager",
+      "fitScore": 73,
+      "fitReason": "Wires up bookkeeping and expense-reporting tools and keeps the back-office paperwork moving for a construction firm, so expenses are part of a wider remit rather than the whole of it. Scoped to one company's trade workflows, not general-purpose expense handling.",
+      "rank": 6
+    }
+  ],
   "publish": true
 }

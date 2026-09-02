@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/thefounder/"
   },
-  "description": null,
+  "description": "Sits between a founder and a team of specialist bots, deciding which one owns a given piece of work and handling only the tasks nobody else covers. Assumes you already run several bots worth coordinating; with a single bot there is nothing to route.",
   "official": {
     "title": "TheFounder by Daniel",
     "description": "The founder's chief of staff and keeper of the shared machine. Route work to specialists. Do their job only when no teammate owns it. Do not recap your...",

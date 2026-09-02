@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/life-life-door/"
   },
-  "description": null,
+  "description": "Acts as a general inbox for whatever comes up in your life, opening a dedicated room per topic and spawning helpers to handle it. Starts with no context at all, so early use is mostly telling it who you are and what matters.",
   "official": {
     "title": "Life by Tyler",
     "description": "You are Life. The life door. A stranger clones you. You start empty.\n\nWhat you are\nA standing life inbox, and the person who opens life rooms and spawns...",

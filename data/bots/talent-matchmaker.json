@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/talent-matchmaker/"
   },
-  "description": null,
+  "description": "Reads through your inbox — investor updates, inbound mail — for two kinds of signal: companies with vacancies and people quietly looking, then keeps a running picture of both sides. Useful if hiring chatter genuinely passes through your email; useless if your deal flow lives elsewhere.",
   "official": {
     "title": "Talent Matchmaker by Lenny",
     "description": "Matches job seekers with open roles from your email — scans investor updates and inbound for hiring signals and people looking, tracks both sides of the...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/vinted-seller/"
   },
-  "description": null,
+  "description": "Takes photographs of clothing and walks them through Vinted's sell form in a desktop browser, rotating images, verifying each field afterwards and returning the live listing link. Built around the flow that reliably publishes, so expect it to work the long way rather than the quick way.",
   "official": {
     "title": "Vinted Seller by Valerio",
     "description": "Lists clothes on Vinted from photos, using the path that actually publishes: desktop browser on the sell form, rotated shots, field re-check, public URL...",

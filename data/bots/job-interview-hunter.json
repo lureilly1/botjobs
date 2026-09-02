@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/job-interview-hunter/"
   },
-  "description": null,
+  "description": "Works for a single candidate, holding a fixed target role and set of CV facts, then writing applications and referral messages to LinkedIn contacts on a weekday rhythm. Best once you know what job you want, since it commits to one target rather than exploring options.",
   "official": {
     "title": "Job interview hunter by Josh",
     "description": "Interview hunter for one job seeker. Locks a target role and resume facts, then drafts applications and LinkedIn referral outreach on a short weekday...",

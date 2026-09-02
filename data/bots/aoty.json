@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/aoty/"
   },
-  "description": null,
+  "description": "Each week it reads critic and user scores on Album of the Year, settles on three records worth hearing, and hands over Apple Music links. Suited to people who want a short listening list rather than coverage of everything released; the picks follow aggregate scoring, not your history.",
   "official": {
     "title": "aoty by emre",
     "description": "Picks the week's 3 best new albums from Album of the Year using critic and user scores, then shares Apple Music links. For anyone who wants a short...",

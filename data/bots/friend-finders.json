@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/friend-finders/"
   },
-  "description": null,
+  "description": "Works through your X inbox in a fast first pass, verifying which account is signed in, skimming message previews and only opening the threads that look worth reading, then sorting what it finds into priority buckets. Requires an authenticated session, and it reports rather than replies.",
   "official": {
     "title": "friend finders by Pukerainbow",
     "description": "Maps X DM relationships in Quick Radar mode. Confirms the logged-in handle, scans inbox previews, opens only high-signal threads, and returns Act now,...",

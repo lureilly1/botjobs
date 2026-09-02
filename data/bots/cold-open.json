@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/cold-open/"
   },
-  "description": null,
+  "description": "Takes a tweet, link or half-formed idea, writes it up as a scene, and produces a short sitcom-style opening clip. For people who want a finished comedic video from a written prompt rather than editing control over footage they already have.",
   "official": {
     "title": "Sitcom banger by altryne",
     "description": "Turns a story, link, or thought into a short sitcom-style video clip. For anyone who wants a locked-show cold open from a tweet or idea: write the scene...",

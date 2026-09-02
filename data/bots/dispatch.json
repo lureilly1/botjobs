@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/dispatch/"
   },
-  "description": null,
+  "description": "Runs an overnight pass across email, Slack, LinkedIn and X DMs, spotting agreed calls that never became calendar invites and booking them, with a summary waiting in the morning. Requires access to all those inboxes and your calendar, so it suits people whose commitments get made in scattered conversations.",
   "official": {
     "title": "Dispatch by Filippo",
     "description": "A close-the-day desk. Nightly scan of email, Slack, LinkedIn, and X DMs; if someone agreed to a call and no calendar invite exists, book it. Morning...",

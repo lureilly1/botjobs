@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/youtube/"
   },
-  "description": null,
+  "description": "Given a topic, it hunts down the better YouTube coverage, sorts it by strength, and returns a short written brief noting what's asserted, where sources contradict each other, plus timestamps and links. Suited to people who would rather read the findings than sit through the videos.",
   "official": {
     "title": "Youtube分析官 by Mado",
     "description": "Researches a YouTube topic, ranks the strongest videos, and writes a concise brief with claims, disagreements, timestamps, and links. For people who...",

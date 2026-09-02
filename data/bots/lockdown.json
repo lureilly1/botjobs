@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/lockdown/"
   },
-  "description": null,
+  "description": "Reviews an existing SOC 2 compliance programme on weekdays, flagging controls that have failed and vulnerabilities that need attention. Silence means nothing is wrong, so it suits teams who already have a control set running and want exception-only reporting rather than dashboards.",
   "official": {
     "title": "Lockdown by Claire",
     "description": "A weekday SOC 2 control bot. Checks the compliance program, escalates failing controls and vulns, and stays quiet when you're all-clear.",

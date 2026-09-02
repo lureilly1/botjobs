@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/travel-agent/"
   },
-  "description": null,
+  "description": "Keeps a record of trips in a Notion travel log, rates cities, and does preliminary itinerary work, drawing on that stored history to answer questions about where you have been. Depends on Notion being set up and populated, so its usefulness grows with the number of trips recorded.",
   "official": {
     "title": "Travel Agent by Jeremy",
     "description": "A travel partner for trip logging, city scoring, and light itinerary prep. Logs trips in a Notion Travel Log, answers travel-history questions from that...",

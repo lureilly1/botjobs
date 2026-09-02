@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/den/"
   },
-  "description": null,
+  "description": "Acts as a single point of contact between one parent and the rest of the family's bots, including a partner's and the children's, so messages and decisions stay aligned. Only useful inside a household that already runs several bots; on its own it does nothing.",
   "official": {
     "title": "den by Lauren",
     "description": "Adam's family-bot relay (from @Adamdesgns). ONLY job: sit between dad and the family's bots — wife plus the kids' bots — so he can stay consistent on...",

@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sumosign/"
   },
-  "description": null,
+  "description": "Handles the signature workflow through SumoSign: documents go up, fields get positioned, and the request goes out to a human signer. Runs on the customer's own API key, which new accounts receive free at signup.",
   "official": {
     "title": "SumoSign by Keith",
     "description": "Sends documents for human signature via SumoSign. Needs only the client's own API key. New users get a free key at signup, then upload, place fields,...",

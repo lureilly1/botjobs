@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/usage-auditor/"
   },
-  "description": null,
+  "description": "Once a week, lists the routines a Grok Bot team is running, ranks them by relative expense, and produces a usage guide, a table of routines and a report on what is being wasted. Aimed at teams large enough to have lost track of what their bots are doing.",
   "official": {
     "title": "Usage Auditor by Max",
     "description": "A weekly usage auditor for Grok Bot teams. It inventories routines, scores relative cost, and writes a usage guide, a routines table, and a waste report...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chief-of-staff-igor/"
   },
-  "description": null,
+  "description": "Coordinates a trading desk by distributing tasks across six agents, verifying that handoffs between them completed, and interrupting the desk owner only when a decision is required. Explicitly does not place trades, so it sits above execution rather than replacing it.",
   "official": {
     "title": "Chief of Staff by Игорь",
     "description": "Runs the trading floor: routes work to six agents, checks handoffs, wakes the desk owner only for decisions. Does not trade.",

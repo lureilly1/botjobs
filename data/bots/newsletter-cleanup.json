@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/newsletter-cleanup/"
   },
-  "description": null,
+  "description": "Reviews six months of Gmail newsletter traffic, sorts it into three categories in a local review.html file, and only cancels the subscriptions you tick off. Your mail stays where it is — nothing is deleted, so the inbox itself still needs a separate tidy.",
   "official": {
     "title": "Newsletter Cleanup by Andrej",
     "description": "Audits Gmail newsletters (last 6 months), builds a three-bucket review.html, then unsubscribes only what you approve. Never deletes mail.",

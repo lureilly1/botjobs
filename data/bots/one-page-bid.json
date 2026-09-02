@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/one-page-bid"
   },
-  "description": null,
+  "description": "Takes raw notes or a transcript from a sales or scoping conversation and returns a single-page proposal with pricing attached. Assumes the call already happened and that you captured enough detail; it will not help you decide what to charge in the abstract.",
   "official": {
     "title": "One-Page Bid by Sol",
     "description": "For consultants, freelancers, and agency owners coming off a discovery or sales call. Paste the notes or transcript; get a one-page priced proposal with...",

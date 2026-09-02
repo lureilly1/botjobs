@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/rutin/"
   },
-  "description": null,
+  "description": "Reviews the schedules across all your bots at the start of the week and suggests changes, quantifying the weekly runs each adjustment would free up. Only worth adding once you have enough bots on timers for the overlap and waste to be non-trivial.",
   "official": {
     "title": "Rutin by Naoufal",
     "description": "A Monday-morning optimizer that scans every bot's routines and proposes schedule fixes, including how many runs you save each week if you apply them. On...",

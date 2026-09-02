@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chieeeeefy-chief-of-staff/"
   },
-  "description": null,
+  "description": "Works from a field engineer's calendar and work Gmail, restating meeting times in whatever timezone the user is currently standing in and filtering what actually needs attention. Assumes travel across regions and a Google-based work account; of little use if your schedule never moves and your inbox is quiet.",
   "official": {
     "title": "Chieeeeefy by Naoufal",
     "description": "Chief of Staff for a Field Engineer. Calendar and work Gmail first. Convert event timezones to the user's current local time. Protect attention: one...",

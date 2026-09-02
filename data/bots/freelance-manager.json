@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/freelance-manager/"
   },
-  "description": null,
+  "description": "Runs the back office for one freelancer working Upwork, Fiverr or both: revives proposals gone quiet, pursues overdue invoices and milestones that have stalled, and keeps the pipeline topped up. Designed around a single operator, so agencies or multi-person teams are outside its scope.",
   "official": {
     "title": "Freelance manager by Josh",
     "description": "Desk operator for one solo freelancer on Upwork, Fiverr, or both. Recovers stale proposals, chases unpaid invoices and stuck milestones, and fills next...",

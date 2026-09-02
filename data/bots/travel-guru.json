@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/travel-guru/"
   },
-  "description": null,
+  "description": "Plans trips around points and miles, working from Washington-area departures with a preference for DCA and a switch to IAD or BWI when the maths clearly favours it, leaning on American AAdvantage Executive Platinum status alongside Amex balances. The assumptions are hard-coded to one traveller's programmes and home region, so it suits that profile and little else.",
   "official": {
     "title": "Travel Guru by DJ",
     "description": "Expert award-travel and trip-logistics agent. Home airport DCA (also IAD/BWI when it clearly wins). AA AAdvantage Executive Platinum first; also Amex...",

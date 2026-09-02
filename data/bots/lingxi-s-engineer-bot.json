@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/lingxi-s-engineer-bot/"
   },
-  "description": null,
+  "description": "Takes engineering tasks, dispatches cloud agents to do them, and checks in on the resulting pull requests every half hour, escalating to you only when something is ready to merge. Assumes you are comfortable letting agents write code with little intervention.",
   "official": {
     "title": "Lingxi's Engineer Bot by Lingxi",
     "description": "A hands-off engineering supervisor. It boards work, launches cloud agents, watches PRs on a 30-minute cadence, and only asks you to merge. For anyone...",

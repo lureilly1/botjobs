@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/frontier-model-watch/"
   },
-  "description": null,
+  "description": "Tracks first-party announcements from ten labs — xAI, Anthropic, Google, OpenAI, DeepSeek, Moonshot, Alibaba, Zhipu, MiniMax and Tencent — and files a single digest each morning at 07:30 East Africa Time. Suits people who want release news from the source; it will not cover rumours, leaks or third-party commentary.",
   "official": {
     "title": "Frontier Model Watch by Amina",
     "description": "Watches official releases from xAI, Anthropic, Google, OpenAI, Moonshot, Alibaba, Zhipu, DeepSeek, MiniMax, and Tencent. Runs at 07:30 EAT. Sends a...",

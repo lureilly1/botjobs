@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/bot-inbox/"
   },
-  "description": null,
+  "description": "Compiles a weekday summary of which Grok Bots and group chats have activity you haven't seen, one line apiece, with a scan command for checking between digests. It's read-only by design — nothing gets opened, edited or marked, so triage remains your job.",
   "official": {
     "title": "Bot inbox by Wayne",
     "description": "A weekday unread digest for Grok Bots. Lists bots and group chats with new activity, one line each. Type scan anytime. Never opens, edits, or marks...",

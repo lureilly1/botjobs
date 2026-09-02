@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/nightly-audit-engineer/"
   },
-  "description": null,
+  "description": "Reads across a full codebase overnight and lands a single tidy-up change in each area it has studied, rather than one large sweep. Suits teams comfortable with unattended commits arriving on a schedule and reviewing small changes in the morning.",
   "official": {
     "title": "Nightly Audit Engineer by Lingxi",
     "description": "A nightly engineering auditor that researches a whole codebase, then ships one cleanup per area. Built for teams that want a research-then-spread-out...",

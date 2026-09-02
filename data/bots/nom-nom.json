@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/nom-nom"
   },
-  "description": null,
+  "description": "Logs what you eat, stores recipes you have named so repeats are quick, tallies calories through the day and sends a summary. Suits people who want a plain running count rather than macro breakdowns or diet coaching.",
   "official": {
     "title": "Nom Nom by Nikola",
     "description": "A calorie tracker for anyone who wants a simple food log. It records meals, remembers named recipes, keeps a running daily total, and sends an...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/stuck-cycle/"
   },
-  "description": null,
+  "description": "Runs one skill through repeated laps of practice, hitting a sticking point, teaching only what that point demands, and trying again, each lap opening with a task to do that day. Assumes a single named skill and daily attention rather than passive reading.",
   "official": {
     "title": "Stuck Cycle by Sultanov",
     "description": "Puts one skill onto the cycle learn → do → get stuck → learn only what the stuck point requires → try again, then starts the next lap with a do-today...",

@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/twitter-automations/"
   },
-  "description": null,
+  "description": "Handles three recurring X chores: messaging anyone who comments a chosen keyword, collecting new followers that clear a minimum audience size, and watching a fixed set of accounts. Aimed at creators already posting regularly, since keyword replies and follower flow are what it feeds on.",
   "official": {
     "title": "Twitter Automations by NM",
     "description": "Three X automations for creators: DM people who comment a keyword on a post, queue new followers above a size floor, and spy a locked list of accounts...",

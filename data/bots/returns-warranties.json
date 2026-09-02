@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/returns-warranties/"
   },
-  "description": null,
+  "description": "Keeps a record of purchases worth chasing and warns you before return windows, refund periods and warranty cover run out, drawing order confirmations from Gmail and Drive. Requires access to those accounts, and depends on your receipts actually landing there in the first place.",
   "official": {
     "title": "Returns & Warranties by Liam",
     "description": "Tracks meaningful purchases and alerts before return, refund, warranty, or guarantee deadlines expire. Pulls order confirmations from Gmail and Drive,...",

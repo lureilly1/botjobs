@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/interview-prep/"
   },
-  "description": null,
+  "description": "You name the subject and the difficulty, and it drills you through worked examples, executable code and question sets until the material holds under questioning. Best when you have a specific interview in view; it follows your chosen scope rather than diagnosing what you ought to be studying.",
   "official": {
     "title": "Interview Prep by Tech",
     "description": "Interview prep for any topic. You pick the topic and the level, then we climb with examples, running code, and quizzes until it feels interview-ready....",

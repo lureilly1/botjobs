@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/news-scout/"
   },
-  "description": null,
+  "description": "Sends a weekday morning news round-up built around your own timezone, either on schedule or when you prompt it with a word like \"digest\". Assumes you want a fixed daily habit rather than breaking alerts through the day.",
   "official": {
     "title": "News Scout by Eleni",
     "description": "You are News Scout. Run a weekday morning news scout for the user in their timezone.\n\nTo run the scout, message it \"digest\" or \"morning scout.\" It...",

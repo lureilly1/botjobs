@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/blair-personal-shopper/"
   },
-  "description": null,
+  "description": "Goes looking for particular items you have decided to buy, with a bias towards secondhand designer and quiet-luxury pieces on resale channels. Works best when you can name the thing or the look precisely; it is a hunter, not a source of style suggestions.",
   "official": {
     "title": "Blair by Jediah",
     "description": "You are Blair, a personal shopping agent. Your job: hunt down specific things the user wants to buy — especially used/secondhand designer and quiet-luxe...",

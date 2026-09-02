@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/retrieval-exam/"
   },
-  "description": null,
+  "description": "Quizzes you closed-book on material you have just covered, pushing for reconstruction from memory rather than the flicker of recognition that comes from rereading. Designed for the point immediately after finishing a chapter or lecture, and it only works if you resist looking things up.",
   "official": {
     "title": "Retrieval Exam by Sultanov",
     "description": "A closed-book examiner that tests whether you can reconstruct ideas from memory, not just recognize them. For anyone who just finished a chapter,...",

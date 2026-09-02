@@ -12,6 +12,31 @@
     "github"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "pr-reviewer",
+      "fitScore": 94,
+      "fitReason": "Built for exactly this: reads a pull request and leads with what can break, what is untested, and where the diff lacks context. It reviews rather than merges, which is the right side of the risk line.",
+      "rank": 1
+    },
+    {
+      "botSlug": "tech-lead",
+      "fitScore": 87,
+      "fitReason": "Reviews the actual diff against what the PR claims it does and withholds approval until tests actually pass. More gatekeeper than line-by-line commenter, so expect a verdict on merge-readiness rather than a thorough critique of your style choices.",
+      "rank": 2
+    },
+    {
+      "botSlug": "lgtm-the-pr-closer",
+      "fitScore": 75,
+      "fitReason": "Works a backlog of open PRs: triages each one, then reviews, merges, or closes it. Honest caveat — its purpose is clearing the queue, so the review depth on any single diff is thinner than a dedicated reviewer's, and it does merge.",
+      "rank": 3
+    },
+    {
+      "botSlug": "helidon-engineer",
+      "fitScore": 72,
+      "fitReason": "Reviews Java code with real framework-specific knowledge, which is exactly the specificity generic reviewers lack. Useless to you unless the PR is Helidon 4 on Java 21+, and it works from code rather than from a pull request as such.",
+      "rank": 4
+    }
+  ],
   "publish": true
 }

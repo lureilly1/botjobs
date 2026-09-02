@@ -10,6 +10,31 @@
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "tower",
+      "fitScore": 91,
+      "fitReason": "Purpose-built house mission control: Tesla charging against electricity rates, Starlink/ISP health, home devices, surfaced in priority order. Written for one specific house, in Chinese, so expect to rewrite every device and tariff before it means anything to yours.",
+      "rank": 1
+    },
+    {
+      "botSlug": "home-robots",
+      "fitScore": 88,
+      "fitReason": "Actually actuates: connect a Navimow mower, a Matic vacuum or Matter robots once, then command them from chat. Only covers robots — no thermostats, energy or network — and you are handing a bot the keys to machines that move around your garden.",
+      "rank": 2
+    },
+    {
+      "botSlug": "eg4-monitor",
+      "fitScore": 86,
+      "fitReason": "Watches a home EG4 hybrid solar and battery setup, pulls production, storage and grid figures, archives charts and flags faults — exactly the stream of small numbers nobody checks. Read-only and useless unless you own EG4 kit.",
+      "rank": 3
+    },
+    {
+      "botSlug": "unifi-aq-trmnl-integration",
+      "fitScore": 74,
+      "fitReason": "Builds and maintains a TRMNL plugin that puts UniFi Protect air-quality sensor readings on a screen, via a LAN poller and webhook. A genuine piece of home telemetry plumbing, but it is one sensor on one dashboard, not a house-wide agent.",
+      "rank": 4
+    }
+  ],
   "publish": true
 }

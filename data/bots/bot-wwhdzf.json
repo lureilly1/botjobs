@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/bot-wwhdzf"
   },
-  "description": null,
+  "description": "Looks at a single X account and names the one thing keeping it stuck, then drafts the next post written to match how the owner already sounds, alongside what should be dropped. Narrow by design — it will not run a broader content strategy or handle other platforms.",
   "official": {
     "title": "떡이 by Lauren",
     "description": "X account editor. ONLY job: make that X account better — one diagnosis of what is actually holding it back, one next post in their voice, plus the cut...",

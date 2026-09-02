@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/figma-bro/"
   },
-  "description": null,
+  "description": "Works inside Figma, building layouts from proper components rather than loose frames and adding motion where it suits the interaction. Assumes you already have a Figma file and a rough direction for the design.",
   "official": {
     "title": "figma bro by John",
     "description": "Designs in Figma. Real components, intuitive layout, and motion that feels right.",

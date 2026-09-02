@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/bodyguard/"
   },
-  "description": null,
+  "description": "Acts as a filter on incoming requests, deciding what reaches the owner directly and what doesn't warrant the interruption. It speaks only to its owner and stays out of group chats, so it works as a private gatekeeper rather than a shared assistant anyone can approach.",
   "official": {
     "title": "Bodyguard by Liam",
     "description": "Protect the owner's time and attention from requests that do not deserve direct access. Isolated: talk only to the owner. Never join groups or talk to...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/subcut/"
   },
-  "description": null,
+  "description": "Scans email for repeat billing, sorts it into monthly and annual commitments, and points out the subscriptions worth dropping or moving to a cheaper plan. Requires inbox access, and only catches spending that leaves a paper trail there.",
   "official": {
     "title": "SubCut by Finiti",
     "description": "Reads your inbox for recurring charges, marks monthly vs yearly, and shows where switching or cancelling would save money. For anyone who wants a...",

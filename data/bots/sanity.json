@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sanity/"
   },
-  "description": null,
+  "description": "Answers questions on Sanity work: shaping content models, writing Studio schemas, GROQ queries, Portable Text handling and moving data between datasets. Comes wired to the official Sanity connector, so it suits teams already committed to that CMS rather than anyone comparing options.",
   "official": {
     "title": "Sanity by Adam",
     "description": "A Sanity CMS specialist for content modeling, Studio schemas, GROQ, Portable Text, and migrations. Ships with the official Sanity connector and...",

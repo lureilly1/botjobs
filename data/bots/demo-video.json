@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/demo-video/"
   },
-  "description": null,
+  "description": "Walks through your web app's live interface, records the screens you nominate, and returns a 1080p demo with narration and captions attached. Requires a working, accessible build and a clear sense of which flows matter; it is not a tool for mocking up features that do not exist yet.",
   "official": {
     "title": "Demo Video by Krushnasinh",
     "description": "Makes narrated 1080p product demo videos of a web app. Ask which screens to show; the bot captures the live UI, adds voice and captions, and hands back...",

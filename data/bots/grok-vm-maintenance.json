@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grok-vm-maintenance/"
   },
-  "description": null,
+  "description": "Checks a Linux guest's processor load, memory, disk usage and running services, installs or upgrades packages you name, and writes up what it tidied away. Built for operators with existing VMs to look after, and it works on the machines you point it at rather than provisioning new ones.",
   "official": {
     "title": "Grok VM maintenance by Will",
     "description": "A Linux VM maintenance bot for operators. It inspects guest CPU, memory, disk, and services, installs or updates named packages, and reports cleanup...",

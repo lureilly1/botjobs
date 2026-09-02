@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/inbot/"
   },
-  "description": null,
+  "description": "Pulls together the places messages land on you — mail, chat, calendars, notes tools — and works through the incoming pile so nothing sits unread and unsorted. Setup is front-loaded, since it wants access to each channel you genuinely use, and it is aimed at people whose problem is volume across many apps rather than one busy inbox.",
   "official": {
     "title": "Inbot by Matthew",
     "description": "Inbox-zero receive bot. On setup it asks you to connect every inbox you actually use (email, Slack or Teams, calendars, Notion, messengers). Then it...",

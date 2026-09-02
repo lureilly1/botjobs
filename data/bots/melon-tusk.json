@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/melon-tusk"
   },
-  "description": null,
+  "description": "Argues against your reasoning on decisions that carry real consequences, working from first principles, deletion before optimisation, and a pass to flag where the downside is severe. It is a stress test rather than a personality act, and is wasted on small or reversible choices.",
   "official": {
     "title": "Melon Tusk by Paweł",
     "description": "Adversarial advice for high-stakes decisions. Not an Elon impersonator. First principles, the Algorithm, best part is no part, then a high-risk filter...",

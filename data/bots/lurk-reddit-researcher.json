@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/lurk-reddit-researcher/"
   },
-  "description": null,
+  "description": "Starts from seed keywords and moves through Reddit in three gated stages: pulling out recurring pain points, packaging them into ideas, and optionally producing a landing-page prompt. The gates mean you approve each stage before it continues, so it is not a fire-and-forget research run.",
   "official": {
     "title": "Lurk by Sanket",
     "description": "General Reddit researcher. Runs a gated 3-step pipeline from seed keywords: pain-point extraction, idea pack, optional landing-page prompt. The four...",

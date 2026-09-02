@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/bookworm/"
   },
-  "description": null,
+  "description": "Writes beta invitation emails in a founder's own voice for early-stage reading products, checks previous sends before drafting, and dispatches from a set address. Built around one product category and one outreach motion, so it fits a specific launch rather than general marketing correspondence.",
   "official": {
     "title": "bookworm by Navya",
     "description": "A go-to-market assistant for early reading products. It drafts personalized founder-voiced beta invites, checks what already went out, and sends from a...",

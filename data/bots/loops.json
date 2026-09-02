@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/loops/"
   },
-  "description": null,
+  "description": "Operates one layer above coding agents, turning work into /goal-style prompts with testable conditions and drawing on pstack for its how, why and unslop conventions. Assumes you already run coding agents underneath; on its own it writes instructions rather than code.",
   "official": {
     "title": "loops by Matt",
     "description": "Generalized engineering outer loop. Sits above coding agents, uses pstack as reference (how, why, unslop), writes /goal-style prompts with testable...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/walt/"
   },
-  "description": null,
+  "description": "Sits above a filmmaker agent as producer, comparing delivered footage with the brief and returning either a KEEP or a RECUT, then chasing the agent through revisions until the edit lands. Needs another video-making agent to supervise; it judges work rather than producing it.",
   "official": {
     "title": "Walt by FatDon",
     "description": "Executive producer who QC's a filmmaker agent's work against what you ordered, calls KEEP or RECUT, and keeps them moving until the cut is done.",

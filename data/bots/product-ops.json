@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/product-ops/"
   },
-  "description": null,
+  "description": "Takes a list of what is on hold and produces a weekly checklist covering the week's shipping targets, frozen items, current blockers and outstanding demo or documentation work. Runs on a schedule, so it suits teams already working in weekly cycles with a maintained freeze list.",
   "official": {
     "title": "Product Ops by Ashish",
     "description": "Turns freeze lists into weekly ship checklists for product teams. Owns cadence: what ships this week, what is frozen, blockers, and demo, README, or...",

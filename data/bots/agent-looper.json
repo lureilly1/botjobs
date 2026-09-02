@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/agent-looper/"
   },
-  "description": null,
+  "description": "Takes a build task plus a definition of done, then cycles a coding agent on your machine until the stated check passes. Requires a test or condition that can actually be evaluated — vague goals give it nothing to loop against.",
   "official": {
     "title": "Agent Looper by dancingteeth",
     "description": "You say what to build and how to know it's done. It keeps a coding agent working on your computer until that check passes.",

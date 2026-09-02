@@ -7,10 +7,46 @@
   "introCurated": true,
   "bots": [
     {
-      "botSlug": "forge-dev-factory",
-      "fitScore": 88,
-      "fitReason": "Takes a spec already marked as settled and runs the full loop unattended — plan, implement, self-review, open a pull request. Strong fit where the brief is genuinely fixed; a poor one if you are still deciding what to build.",
+      "botSlug": "apps",
+      "fitScore": 94,
+      "fitReason": "Purpose-built one-shot prototyping: hand it a brief for a chat app, directory, todo or game and it ships Vite + React + TypeScript on a Convex backend. Scope is fixed to that stack, so it is no use if the prototype has to live in your existing codebase.",
       "rank": 1
+    },
+    {
+      "botSlug": "1000x-product-engineer",
+      "fitScore": 89,
+      "fitReason": "Takes a product brief to a working Convex + TanStack + React build with UI that does not look like a wireframe, which is what a clickable prototype needs. It will exercise design judgement on your behalf, so come with the decisions already made if you want them respected.",
+      "rank": 2
+    },
+    {
+      "botSlug": "agent-looper",
+      "fitScore": 84,
+      "fitReason": "You state what to build and the check that proves it done, and it keeps a coding agent grinding on your machine until that check passes. Only as good as your definition of done — a vague brief here produces a loop, not a prototype.",
+      "rank": 3
+    },
+    {
+      "botSlug": "grok-build",
+      "fitScore": 79,
+      "fitReason": "Runs the actual Grok Build CLI on an agent computer for app and code work at maximum effort, so the prototype gets built off your laptop. It is a harness rather than a product thinker: it implements the spec you give it and nothing more.",
+      "rank": 4
+    },
+    {
+      "botSlug": "claudey",
+      "fitScore": 76,
+      "fitReason": "Drives Claude Code on Opus for frontend, UI and architecture work and reports a PR when the CLI exits. Geared to PR-shaped work in a repo rather than standing up a throwaway demo from nothing, and you still have to review and merge.",
+      "rank": 5
+    },
+    {
+      "botSlug": "cursor-agent-local",
+      "fitScore": 74,
+      "fitReason": "Local-only cursor-agent runner explicitly framed for experiments and scratch builds, which is the right posture for a prototype. Deliberately does not touch GitHub PRs, so there is no cloud artefact to hand a colleague unless you deploy it yourself.",
+      "rank": 6
+    },
+    {
+      "botSlug": "claude-code",
+      "fitScore": 72,
+      "fitReason": "A plain wrapper that routes all software work through the Claude Code CLI, which will build a prototype from a tight brief. No prototyping opinion of its own — it is a pipe to Anthropic's agent, so the quality of the spec is the whole game.",
+      "rank": 7
     }
   ],
   "relatedJobs": [

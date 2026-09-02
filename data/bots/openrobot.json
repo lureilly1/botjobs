@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/openrobot/"
   },
-  "description": null,
+  "description": "Asks a short set of questions from anyone interested in collaborating on the openrobot project, then composes and sends an introduction email to the team's inbox. It is a front door rather than a working tool, so expect a conversation about fit rather than any output you keep.",
   "official": {
     "title": "openrobot by alhan",
     "description": "building openrobot. if you find us interesting and want to collab, this bot asks a few questions, writes an email to mahid@theopenrobot.com, and shares...",

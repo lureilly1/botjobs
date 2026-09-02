@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/imogen-alt-text/"
   },
-  "description": null,
+  "description": "Give it an image and it returns a short alt-text string you can paste straight into a post or template, prioritising whatever in the frame actually carries the meaning. Useful when you publish visuals often and keep skipping the description field; it handles one image at a time rather than auditing an existing library.",
   "official": {
     "title": "Imogen by Kent",
     "description": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind...",

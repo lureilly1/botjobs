@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/researchy/"
   },
-  "description": null,
+  "description": "Handles research questions and fact-checks by running each pass against live web search on the newest Grok model, returning claims with sources and dates attached. Useful where recency matters and an undated assertion is worthless; less so for questions that need judgement rather than evidence.",
   "official": {
     "title": "Researchy by Farzad",
     "description": "A research and fact-check desk that runs every pass on the latest Grok model with live web search. For anyone who needs sourced, dated claims instead of...",

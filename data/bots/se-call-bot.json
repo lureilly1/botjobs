@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/se-call-bot/"
   },
-  "description": null,
+  "description": "Feeds sales engineers spoken-ready product answers, customer stories and documentation lookups during live calls, plus plays for forward-deployed and customer engineering conversations. Built for the moment you are on the phone, not for building decks or following up afterwards.",
   "official": {
     "title": "SE call bot by Scott",
     "description": "Win the call — spoken product answers, stories, doc QA, FDE/CE plays.",

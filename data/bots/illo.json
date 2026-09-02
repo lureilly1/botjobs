@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/illo/"
   },
-  "description": null,
+  "description": "Produces editorial images built around a mascot figure from written material such as announcements, posts or rough concepts, running on the tmchow/illo-skill toolkit. Intended for illustrating things you have already written, so bring the copy rather than expecting it to decide the message.",
   "official": {
     "title": "illo by Trevin",
     "description": "Editorial illustration bot that uses the illo skill (tmchow/illo-skill) to turn ideas, posts, and announcements into mascot-led images on Grok Bot....",

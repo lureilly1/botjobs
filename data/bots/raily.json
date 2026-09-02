@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/raily/"
   },
-  "description": null,
+  "description": "Walks through friend matches, introductions and the state of an account, answering questions without touching anything. Strictly look-don't-touch, so useful for checking where things stand but no help if you want changes made.",
   "official": {
     "title": "Raily by Ntty",
     "description": "A read-only personal friends discovery assistant. Helps review matches, intros, and account status without changing any data.",

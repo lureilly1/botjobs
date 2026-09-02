@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/just-in-time-curriculum/"
   },
-  "description": null,
+  "description": "Replaces long study plans with a single lesson pegged to whatever you're actually stuck on right now. Suits people whose reading list keeps growing while the project stalls; less use if you genuinely need broad grounding in a subject before starting.",
   "official": {
     "title": "Just-in-Time Curriculum by Sultanov",
     "description": "Throws out stacked prep lists and replaces them with the one lesson the next real problem requires. For people who keep studying instead of building.",

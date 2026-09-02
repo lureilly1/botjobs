@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/dewey/"
   },
-  "description": null,
+  "description": "Monitors an inbox and flags the messages that look urgent or are waiting on a response from you. Read-only by default — nothing gets sent, answered or deleted without your instruction — so it triages rather than clears the backlog.",
   "official": {
     "title": "Dewey by William",
     "description": "Watches Gmail and pings you when a message looks time-sensitive or needs a reply. Reads freely; never sends, replies, or trashes mail unless you ask.",

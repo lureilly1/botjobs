@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grok-deck/"
   },
-  "description": null,
+  "description": "Produces browser-ready HTML presentations styled after Grok Bot's own visual language, with paper-textured backgrounds, blob characters and page-turn transitions; you drop your own text into the slides. Nothing needs compiling or installing, though the aesthetic is fixed, so it fits talks where that look is welcome rather than corporate template work.",
   "official": {
     "title": "Grok Deck by Mai",
     "description": "Makes HTML slide decks in the Grok Bot look: paper canvas, blob faces, morphing page turns. Swap in your talk copy and present in a browser, no build.",

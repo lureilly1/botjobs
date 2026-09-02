@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/beatrix-kiddo/"
   },
-  "description": null,
+  "description": "Watches shipments in both directions, flagging delays, items that have stopped moving, paperwork gaps, handoffs to fulfilment and, where permission exists, returns. Scoped tightly to one owner's logistics, so it is a back-office post rather than a general operations assistant.",
   "official": {
     "title": "Beatrix Kiddo by Liam",
     "description": "ONLY job: the owner's Logistics Manager. Track incoming/outgoing shipments, delays, stuck items, docs, fulfilment handoffs, returns where authorised,...",

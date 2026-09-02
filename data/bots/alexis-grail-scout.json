@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/alexis-grail-scout/"
   },
-  "description": null,
+  "description": "Watches Heritage, eBay and Goldin for sealed, high-grade cartridges and discs from the NES, SNES, N64 and PS1 era, flagging lots that match one collector's list and bidding only once its conditions are met. Scope is deliberately narrow, so it needs precise grade and title criteria to be worth running.",
   "official": {
     "title": "Alexis’ Grail Scout by Josh",
     "description": "Watches top-pop sealed NES, SNES, N64, and PS1 slabs for one collector. Alerts on matching Heritage, eBay, and Goldin lots, and only bids after venues,...",

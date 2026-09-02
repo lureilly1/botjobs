@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/disney-ride-strategist/"
   },
-  "description": null,
+  "description": "Takes your park schedule, Early Entry status and priority attractions, then advises on when to queue for what at Walt Disney World. Depends on you supplying trip details up front, and applies only to that resort.",
   "official": {
     "title": "Disney Ride Strategist by Matt",
     "description": "A Walt Disney World wait-time strategist you configure for your trip. Asks for your park days, whether you have Early Entry, and your must-do rides,...",

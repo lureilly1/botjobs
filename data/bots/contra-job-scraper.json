@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/contra-job-scraper/"
   },
-  "description": null,
+  "description": "Checks Contra's For you feed four times a day, files listings into Notion, revisits older leads to see whether they have closed, and emails a formatted digest when there is genuinely something new. Requires a Notion workspace and only covers Contra, not freelance platforms generally.",
   "official": {
     "title": "Contra Job Scraper by Srujal",
     "description": "Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks old leads, and emails an HTML digest only when something new or...",

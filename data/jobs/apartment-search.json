@@ -3,13 +3,20 @@
   "title": "Apartment Search",
   "category": "personal",
   "searchIntent": "grok bot to find an apartment",
-  "intro": "Flat hunting is the job people describe first when asked what they would want an agent for, and it is easy to see why: the listings move fast, the good ones go in hours, and the work is refreshing the same four sites at the same four times a day. A bot that watched continuously and told you the moment something matched your actual criteria would be worth real money. The public catalogues do not have one. What is there are general browsing templates you could point at a property site, which will happily summarise listings you already found but will not sit and watch. The reason is probably not lack of interest — the property portals are hostile to automated access, and a bot that gets blocked on day two is worse than useless. That makes this an unusually hard open job rather than a neglected one, but it is open all the same.",
+  "intro": "Flat hunting is the job people describe first when asked what they would want an agent for, and it is easy to see why: listings move fast, the good ones go in hours, and the work is refreshing the same four sites at the same four times a day. Unusually for this site, the strongest candidate here is purpose-built rather than a general browsing template pointed at a property site — it takes your criteria once and sweeps the major portals on a schedule. The constraint is the one every tool in this category runs into. Property portals are hostile to automated access, so a bot that sweeps twice a day is making a trade against getting blocked, and twice a day is not the continuous watch that the competitive listings actually demand. Treat it as a wider net rather than a faster one, and keep your own alerts running alongside it.",
   "relatedJobs": [
     "deal-hunting",
     "travel-planning"
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "housebot",
+      "fitScore": 92,
+      "fitReason": "The only candidate actually built for this: a 12-hour sweep of Redfin, Zillow, Craigslist, Facebook, MLS and ApartmentList against criteria it takes on first run. Twice-daily is not the continuous watch the good listings demand, and portal blocking remains its problem as much as anyone's.",
+      "rank": 1
+    }
+  ],
   "publish": true
 }

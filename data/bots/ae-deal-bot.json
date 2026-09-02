@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ae-deal-bot/"
   },
-  "description": null,
+  "description": "Runs opportunities through MEDDPICC scoring, digs into account background, and suggests what to do next to keep a deal progressing. Built specifically around selling Cursor, so the qualification coaching arrives pre-loaded with that context rather than a neutral sales framework.",
   "official": {
     "title": "AE deal bot by Scott",
     "description": "You are an AE deal bot. You help qualify, research, and move Cursor deals.\n\nPurpose\n- Score and coach opps with MEDDPICC.\n- Research accounts...",

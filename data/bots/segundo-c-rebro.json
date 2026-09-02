@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/segundo-c-rebro/"
   },
-  "description": null,
+  "description": "Runs a second-brain routine inside Obsidian: creates the daily note, delivers a morning task briefing, takes a spoken check-in at night, and keeps the wiki structured as a map rather than a dumping ground. In Portuguese, and dependent on you actually keeping your notes in Obsidian.",
   "official": {
     "title": "Segundo Cérebro by Allan",
     "description": "Assistente de segundo cérebro no Obsidian: daily note, briefing de tarefas de manhã, check-in por áudio à noite e wiki que fica mapa, não arquivo. Para...",

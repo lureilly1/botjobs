@@ -3,7 +3,7 @@
   "title": "Account Research",
   "category": "sales",
   "searchIntent": "grok bot to research a company before a call",
-  "intro": "Before a call with a company you want to know who they are, what changed recently, who you are actually talking to and what they are likely to care about. It is a well-defined job with a clear finish line, it is done badly by almost everyone under time pressure, and it is exactly the shape of work an agent that can browse ought to be good at. Nobody has built a good one. Searching the public catalogues for account research turns up general web-research templates pointed at a company name — they produce a competent summary of the website you were about to read anyway, which is not the job. The job is noticing the funding round, the new VP, the changed pricing and the job listing that says what they are building next, then telling you which of those matters for this conversation. That needs a bot that knows what you sell. If you have built one, we would like to see it.",
+  "intro": "Before a call you want to know who the company is, what changed recently, who you are actually speaking to and what they are likely to care about. It is well defined, it has a clear finish line, and almost everyone does it badly under time pressure — which makes it a good fit for an agent that can browse. The interesting thing about the bots that do it is that almost none of them call it account research. They are filed as prospecting tools, deal bots and talent maps, and they arrive built around somebody else's sales process, so expect to repoint one at your own product before it is useful. The other split worth knowing: most are built to open a cold conversation rather than to brief you before a booked meeting. Those are different jobs that look alike, and a bot tuned for the first will hand you hooks when what you wanted was what changed last quarter.",
   "relatedJobs": [
     "lead-generation",
     "crm-hygiene",
@@ -13,6 +13,43 @@
     "linkedin"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "ae-deal-bot",
+      "fitScore": 85,
+      "fitReason": "Actually built for the sales side of this: researches accounts, scores the opportunity with MEDDPICC and coaches the next conversation, so it knows what you sell rather than just summarising the website. Caveat: the seller context is wired to Cursor deals, so you will need to repoint it at your own product.",
+      "rank": 1
+    },
+    {
+      "botSlug": "pg-prospecting",
+      "fitScore": 83,
+      "fitReason": "Researches the account and then hunts personal hooks — recent podcast and webinar appearances, X and LinkedIn activity — which is closer to the 'what will this person care about' half of the job than a website recap. Aimed at cold prospecting, so pre-call briefs for existing opportunities are adjacent rather than its stated purpose.",
+      "rank": 2
+    },
+    {
+      "botSlug": "prospecting-sheet-builder",
+      "fitScore": 79,
+      "fitReason": "Pulls verified buyer contacts plus account events and drafts outreach in your voice, so it does notice the funding round and the new VP. Built as an overnight batch sheet for outbound volume, not a single deep brief for tomorrow's 10am.",
+      "rank": 3
+    },
+    {
+      "botSlug": "gtm-chief-of-staff",
+      "fitScore": 75,
+      "fitReason": "Owns meeting prep for enterprise sales as one of its jobs, which is exactly this work, and coordinates specialists for the rest. It is a chief-of-staff first, so expect inbox and post-call drafting to take up as much of its attention as the account digging.",
+      "rank": 4
+    },
+    {
+      "botSlug": "mappy-talent-map",
+      "fitScore": 72,
+      "fitReason": "Gives you a proper census of who works at the target company by function, seniority and location — genuinely useful for working out who is in the room and who they report to. It does not touch funding, pricing or product changes, so it is one slice of the brief only.",
+      "rank": 5
+    },
+    {
+      "botSlug": "john-wick",
+      "fitScore": 71,
+      "fitReason": "Researches a target company to find the person who can actually move the decision, which covers the 'who am I really talking to' question. It is built to open a door rather than brief you before a booked call, and it says nothing about recent changes at the account.",
+      "rank": 6
+    }
+  ],
   "publish": true
 }

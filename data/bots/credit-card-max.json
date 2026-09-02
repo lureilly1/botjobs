@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/credit-card-max/"
   },
-  "description": null,
+  "description": "Tells you which card in your wallet to reach for on a particular purchase, and keeps an eye on perks you have not claimed and subscriptions billing to the wrong card. Requires you to share your actual card lineup before the advice means anything.",
   "official": {
     "title": "Credit Card Max by Trevin",
     "description": "Advises which credit card to use for a given purchase to maximize points, cash back, and perks. Tracks cards, unused benefits, and misrouted recurring...",

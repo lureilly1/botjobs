@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/watchdog/"
   },
-  "description": null,
+  "description": "Reads Gmail once at setup and weekly thereafter, pulling out receipts, subscription renewals and expiring trials, then reporting what is currently billing you and what falls due next. Assumes the paper trail is in email; charges that never generate a message stay invisible.",
   "official": {
     "title": "Watchdog by SmoresBoy",
     "description": "On first install, scans email once as soon as Gmail is ready, then weekly for receipts, renewals, and trials. Lists what is charging and what is due in...",

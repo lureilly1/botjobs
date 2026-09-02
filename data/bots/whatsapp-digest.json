@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/whatsapp-digest/"
   },
-  "description": null,
+  "description": "Reads your WhatsApp group chats and sends one short daily summary of the parts worth knowing about, after first showing you which groups it can see. It only reads and never posts, so it suits people drowning in busy groups rather than anyone wanting replies drafted.",
   "official": {
     "title": "WhatsApp Digest by Petrus",
     "description": "A read-only WhatsApp assistant that scans your group chats and gives a short daily update of what actually matters. After import it lists your groups,...",

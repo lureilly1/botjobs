@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/flowsery/"
   },
-  "description": null,
+  "description": "Surfaces problems that Flowsery's analysis has already spotted in visitor session recordings — broken journeys, bugs, interface friction — ordered by how many people hit them. Requires an existing Flowsery account with recordings in place, so it reports on data rather than gathering it.",
   "official": {
     "title": "Flowsery by Taras",
     "description": "Session-level analytics for site owners. Pulls the issues Flowsery’s AI found in session recordings (bugs, broken flows, UX problems ranked by how many...",

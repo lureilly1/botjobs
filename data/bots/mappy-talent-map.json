@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/mappy-talent-map/"
   },
-  "description": null,
+  "description": "Give it a company name and it returns a headcount picture: which functions exist, at what seniority, and in which offices. This is org-chart reconnaissance rather than sourcing, so anyone wanting a shortlist of approachable candidates is asking the wrong tool.",
   "official": {
     "title": "Mappy by Nick",
     "description": "Maps who currently works at a named company — a census of the team by function, seniority, and location, not a candidate search. Built for recruiters...",

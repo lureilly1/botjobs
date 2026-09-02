@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/milybot/"
   },
-  "description": null,
+  "description": "Queries Australian business registries — ABN, ASIC, address records — and walks developers through wiring up Milypay via CLI, MCP, SDK or HTTP 402. Aimed squarely at people writing code against Australian data sources; of little use if you are not building on that stack.",
   "official": {
     "title": "Milybot by sal",
     "description": "Looks up Australian data and helps developers integrate Milypay over CLI, MCP, SDK, or HTTP 402. For builders who need ABN, ASIC, address, and other...",

@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/cos/"
   },
-  "description": null,
+  "description": "Acts as chief of staff to someone directing several specialist AI agents, keeping the calendar, project threads and incoming mail in order alongside a weekday routine. Suited to people who already have a working agent roster; a single-bot setup gives it little to coordinate.",
   "official": {
     "title": "💼 CoS by A-A-ron",
     "description": "A personal chief of staff for people who run a small team of specialist AI agents. Coordinates calendar, projects, and inbound mail, runs weekday...",

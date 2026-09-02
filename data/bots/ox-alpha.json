@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/ox-alpha"
   },
-  "description": null,
+  "description": "Give it an A-share ticker and it pulls live quotes, then returns one of three calls — chase, hold, or cut — along with the price level that would invalidate that call. It refuses to place orders, guess at prices, or produce macroeconomic commentary, so treat it as a momentum second opinion rather than a research desk.",
   "official": {
     "title": "Ox-Alpha🤠 by say",
     "description": "A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着、或砍，外加那个会让他改口的数。不编价，不代下单，不写宏观作文。",

@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/lauren"
   },
-  "description": null,
+  "description": "Hands programming jobs to cloud agents, spinning up a separate one per task and refusing to close anything out without evidence it worked. The insistence on proof means slower turnaround than a bot that simply reports success, which is the trade being offered.",
   "official": {
     "title": "Lauren by Emilio",
     "description": "A coding coordinator for builders. Cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof.",

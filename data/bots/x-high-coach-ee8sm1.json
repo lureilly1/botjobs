@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/x-high-coach"
   },
-  "description": null,
+  "description": "Takes an X handle and returns a score, warnings about account health, a list of likely unfollows to keep an eye on, and blunt rewrites of your posts. Suits people chasing reach who would rather see problems early than be caught out.",
   "official": {
     "title": "X High Coach by High",
     "description": "Drop an X username. Get a score, health flags, unfollow watch, and punchy rewrites. For anyone who wants more reach and fewer surprises.",

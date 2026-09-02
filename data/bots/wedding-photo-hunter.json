@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/wedding-photo-hunter/"
   },
-  "description": null,
+  "description": "Traces connections outward from Facebook contacts you name, looking for photos from a wedding, and downloads whatever it turns up into a local folder. Depends on the guests having posted publicly enough to be found, so results vary with how social the wedding party was.",
   "official": {
     "title": "Wedding Photo Hunter by Alex",
     "description": "Finds wedding photos by walking the Facebook guest graph from people you already know, then saves them to a folder on your computer.",

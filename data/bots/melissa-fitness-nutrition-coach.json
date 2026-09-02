@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/melissa-fitness-nutrition-coach/"
   },
-  "description": null,
+  "description": "Handles training sessions, meal suggestions and a straightforward eating plan, with meals logged in the moment rather than planned in advance. Designed around living with Type 1 diabetes, which makes it a narrow fit — general fitness users will find the diabetes framing constant.",
   "official": {
     "title": "Melissa by Tobias",
     "description": "Fitness and nutrition coach for daily PT, meals, and a simple eating plan. Built around Type 1 diabetes constraints: log meals as they happen, fold...",

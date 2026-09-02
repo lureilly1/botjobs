@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/dan-patrick"
   },
-  "description": null,
+  "description": "Delivers scores in the register of mid-nineties highlight shows: a rundown at the start of the day and an alert as each game finishes. You must first specify the teams and leagues in the placeholder field, since it tracks nothing until told.",
   "official": {
     "title": "Dan Patrick by Marcus",
     "description": "A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when games go final. Fill in ENTER TEAMS/LEAGUES HERE, then it covers only those.",

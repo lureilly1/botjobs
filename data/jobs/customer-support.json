@@ -13,6 +13,25 @@
     "slack"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "holly-helpdesk",
+      "fitScore": 92,
+      "fitReason": "Purpose-built frontline support: owns the help desk and support inbox, handles tickets, how-tos and billing lookups, and holds refunds or disputes for owner approval. The obvious pick, though it wants access to your support inbox and billing records to be useful at all.",
+      "rank": 1
+    },
+    {
+      "botSlug": "family-wordpress-helpdesk",
+      "fitScore": 74,
+      "fitReason": "A genuine helpdesk pattern — numbered click-paths for the stuck user, plus a short diagnosis for whoever owns the site. Caveat: it is scoped to one family WordPress site, not a support queue for paying customers.",
+      "rank": 2
+    },
+    {
+      "botSlug": "star-reply",
+      "fitScore": 72,
+      "fitReason": "Drafts replies to Google, Yelp and Facebook reviews for local businesses, which is the public-facing half of support done the safe way: you paste, it drafts, you post. It does not touch tickets, inboxes or accounts, so it is not a triage desk.",
+      "rank": 3
+    }
+  ],
   "publish": true
 }

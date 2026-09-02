@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/home-front/"
   },
-  "description": null,
+  "description": "Keeps tabs on a veteran's VA appointments, claim progress and benefit status, and surfaces verified-military discounts the household is actually eligible for. Requires access to VA.gov to be useful, and is built around one household's circumstances rather than general benefits advice.",
   "official": {
     "title": "Home Front by Diego",
     "description": "Tracks a veteran's VA.gov appointments, claims, and benefits, and flags ID.me-style deals the household actually qualifies for. Runs alone: reads VA.gov...",

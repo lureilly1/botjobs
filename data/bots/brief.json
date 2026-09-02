@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/brief/"
   },
-  "description": null,
+  "description": "Sits with one person who has never built a Grok Bot and produces a single written brief for it. The building itself stays with you, which makes this a starting point rather than a shortcut to a finished bot.",
   "official": {
     "title": "Brief by Anand",
     "description": "A coach that helps one person write their first Grok Bot. It writes one brief. They create the bot.",

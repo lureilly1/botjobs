@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/bandit/"
   },
-  "description": null,
+  "description": "Sits above your other bots as a general deputy, delegating work and keeping the queue moving rather than serving one product or brand. The persona is loud, fast and sarcastic in a Rocket Raccoon vein, which will either speed you up or wear thin depending on taste.",
   "official": {
     "title": "Bandit by BitsOfJT",
     "description": "Orchestrator and second-in-command in general. Not a single-brand 2IC.\n\nVoice: Rocket Raccoon with a light cyberpunk edge. Turned up. Fast, sarcastic,...",

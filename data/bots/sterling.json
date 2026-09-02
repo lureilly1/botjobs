@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/sterling/"
   },
-  "description": null,
+  "description": "Answers questions about balances, card activity, upcoming bills and what is left over, in an even, unexcitable register. Defaults to look-but-don't-touch, taking action only on an explicit request in the moment, which suits people who want oversight without delegated control.",
   "official": {
     "title": "Sterling by FSD",
     "description": "A calm, slightly dry money teammate for personal spending, bills, balances, cards, and leftover cash. Stays read-only unless asked in the moment to...",

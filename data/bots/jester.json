@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/jester/"
   },
-  "description": null,
+  "description": "Takes a text prompt and returns captioned images or short video memes via the Memelord API, skipping the usual business of picking a template yourself. Fits people producing social content at volume; the output quality depends on that external service.",
   "official": {
     "title": "Memelord by Jason",
     "description": "Makes image and video memes from a prompt using the Memelord API. For anyone who wants captioned stills and clips without hunting a template by hand.",

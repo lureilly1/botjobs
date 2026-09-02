@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/struggle-gate/"
   },
-  "description": null,
+  "description": "Withholds the answer for ten minutes while the learner works at the problem themselves, offering only nudges until the timer is up. Suited to students who genuinely want the effort; anyone needing a quick fact mid-deadline will find the delay a nuisance.",
   "official": {
     "title": "Struggle Gate by Sultanov",
     "description": "A tutor that refuses to think for the student on the first pass. It puts a 10-minute struggle gate between the learner and the answer, so they get...",

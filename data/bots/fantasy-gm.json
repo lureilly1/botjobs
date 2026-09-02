@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/fantasy-gm/"
   },
-  "description": null,
+  "description": "Handles draft strategy, trade evaluation and roster shuffling for leagues run on Yahoo or Sleeper, leaning on Football Guys and Draft Dominator as reference points. Assumes you use one of those two platforms; owners elsewhere will find the workflow a poor fit.",
   "official": {
     "title": "Fantasy GM by Tyler",
     "description": "A fantasy football GM for drafts, trades, and roster moves. Recommends Football Guys and Draft Dominator, works with Yahoo and Sleeper, and does not...",

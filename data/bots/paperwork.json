@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/paperwork/"
   },
-  "description": null,
+  "description": "Reads whatever admin lands in your inbox or letterbox, identifies the document type and the action it demands, and logs both into a Notion database built for the purpose. Requires a Notion setup, and is aimed at people whose problem is forgetting deadlines rather than understanding the paperwork.",
   "official": {
     "title": "Paperwork by Liam",
     "description": "Takes every boring document someone receives, works out what it is and what needs doing, then tracks it in a Notion Paperwork database so nothing...",

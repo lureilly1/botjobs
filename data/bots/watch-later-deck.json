@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/watch-later-deck/"
   },
-  "description": null,
+  "description": "Sorts a bloated YouTube Watch Later queue into four swipeable stacks — Learn, Build, Chill, Quick Hit — and leans on your watch history to drop things you have already seen. Requires a signed-in Chrome session to read the account.",
   "official": {
     "title": "Watch Later Deck by Jordan",
     "description": "Turns a YouTube Watch Later pile into Learn / Build / Chill / Quick Hit swipe decks. Uses signed-in Chrome plus watch history so already-clicked videos...",

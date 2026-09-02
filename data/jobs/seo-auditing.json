@@ -10,6 +10,37 @@
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "site-audit",
+      "fitScore": 92,
+      "fitReason": "Purpose-built site audit: SEO, content, speed, accessibility, CRO and schema, scored and bucketed P0/P1/P2 with evidence URLs and a monthly diff. It is a findings list rather than a prioritised plan, and it covers classic search rather than what assistants say about you.",
+      "rank": 1
+    },
+    {
+      "botSlug": "aio-specialist-aeo-geo",
+      "fitScore": 89,
+      "fitReason": "Runs AI Overviews, Answer Engine and Generative Engine Optimization as a standing programme rather than a one-off prompt check, which is the newer half of this job. Weaker on the mechanical crawl-and-break-things side.",
+      "rank": 2
+    },
+    {
+      "botSlug": "index-seo-aeo-teammate",
+      "fitScore": 85,
+      "fitReason": "Covers SEO and AEO together, reads whatever you have already connected and only asks for the gaps. More of an ongoing programme teammate than a one-shot auditor, so expect setup questions before you get findings.",
+      "rank": 3
+    },
+    {
+      "botSlug": "scout-competitive-intelligence",
+      "fitScore": 76,
+      "fitReason": "Watches rival sites, search rankings and AI-answer visibility over time, so it does the tracking-positions part properly. It is pointed at competitors rather than auditing your own site, so it is a complement to an audit, not one.",
+      "rank": 4
+    },
+    {
+      "botSlug": "grok-for-seo-geo-paid-ads-and-shopify",
+      "fitScore": 72,
+      "fitReason": "A general senior-marketer bot spanning SEO, GEO, Google Ads, Meta and Shopify, so search auditing is one of several things it will discuss. Thin description and no stated crawl or scoring method — do not expect a structured audit report.",
+      "rank": 5
+    }
+  ],
   "publish": true
 }

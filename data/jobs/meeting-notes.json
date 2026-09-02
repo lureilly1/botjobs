@@ -14,6 +14,49 @@
     "notion"
   ],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "post-call-assistant",
+      "fitScore": 91,
+      "fitReason": "Purpose-built for the after-the-meeting half: pulls your todos out of a finished meeting and drafts the follow-up, asking on first run which notes, calendar and email to read. Draft-only — it never sends, so you still press the button.",
+      "rank": 1
+    },
+    {
+      "botSlug": "echo",
+      "fitScore": 84,
+      "fitReason": "Takes a customer call and turns it into a what-we-heard/next-steps deck in Figma or Google Slides, which is the one post-meeting artefact most notetakers won't build. Scoped to customer calls, not your internal stand-ups.",
+      "rank": 2
+    },
+    {
+      "botSlug": "gtm-chief-of-staff",
+      "fitScore": 80,
+      "fitReason": "Owns meeting prep and post-call drafts as part of an enterprise sales desk, so the notes actually feed the next conversation in the series. It is a whole chief-of-staff, not a tidy notes bot, and it also wants your inbox.",
+      "rank": 3
+    },
+    {
+      "botSlug": "chatprd",
+      "fitScore": 75,
+      "fitReason": "Grounds product specs and discovery docs in existing meeting notes and the issue tracker, so a call turns into a written artefact rather than a transcript nobody reopens. Only useful if your follow-through happens to be a PRD, and it lives inside ChatPRD.",
+      "rank": 4
+    },
+    {
+      "botSlug": "one-page-bid",
+      "fitScore": 73,
+      "fitReason": "Paste the discovery-call notes or transcript and it returns a priced one-page proposal — a genuinely useful thing to do with notes after the fact. Narrow: consultants and agencies chasing a single deal, no action tracking beyond that.",
+      "rank": 5
+    },
+    {
+      "botSlug": "leader-1-1-bot",
+      "fitScore": 71,
+      "fitReason": "Preps the weekly 1:1 and drafts the feedback, which is the recurring-meeting-in-a-series part of this job. It coaches the prep rather than processing what was actually said, so you are still supplying the record.",
+      "rank": 6
+    },
+    {
+      "botSlug": "workshop-facilitator",
+      "fitScore": 70,
+      "fitReason": "Tracks every open question through a workshop and refuses to close until leftover work has an owner, which is the action-chasing part done properly. It runs the session rather than reading notes from one you already held.",
+      "rank": 7
+    }
+  ],
   "publish": true
 }

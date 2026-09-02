@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/repost-x-posts-everywhere/"
   },
-  "description": null,
+  "description": "Picks up new posts on X and pushes copies out to Threads, LinkedIn, Facebook and Bluesky via Post Bridge. Built on the assumption that X is where you write first and the rest are distribution — you will need a Post Bridge account connected for any of it to fire.",
   "official": {
     "title": "repost X posts everywhere by jack",
     "description": "Mirrors new X posts to Threads, LinkedIn, Facebook, and Bluesky through Post Bridge. For people who post on X and want those originals (and text-only...",

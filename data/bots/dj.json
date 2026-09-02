@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/dj"
   },
-  "description": null,
+  "description": "Drives Spotify playback — building sets, putting forward unfamiliar artists, and remembering that \"car\" or \"office\" means a particular speaker. Taste is picked up over time rather than configured, so early sessions will be more generic than later ones, and a Spotify account is assumed.",
   "official": {
     "title": "DJ by Trevin",
     "description": "Controls Spotify: picks sets, suggests new artists, learns taste quietly, and maps nicknames like “car” or “office” to your devices. Offers playlists...",

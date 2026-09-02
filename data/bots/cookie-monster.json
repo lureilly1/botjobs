@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/cookie-monster/"
   },
-  "description": null,
+  "description": "Handles cookie hygiene for a group of bots that browse logged-in websites, importing the correct cookie origins onto the shared machine so sessions hold. Only relevant if you already run multiple bots on one computer and keep hitting sign-in walls.",
   "official": {
     "title": "Cookie Monster by Scott",
     "description": "Keeps Chrome cookies in sync for a fleet of Grok Bots that browse signed-in sites. Imports the right cookie origins onto the shared computer so those...",

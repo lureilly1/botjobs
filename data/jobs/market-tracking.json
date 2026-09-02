@@ -10,6 +10,25 @@
   ],
   "integrations": [],
   "introCurated": true,
-  "bots": [],
+  "bots": [
+    {
+      "botSlug": "earnings-desk",
+      "fitScore": 90,
+      "fitReason": "Keeps a ticker watch list and produces a numbered earnings tearsheet when a watched name prints — monitoring and summarising, not calling buys. The output is a Word writeup, so expect documents rather than a live dashboard.",
+      "rank": 1
+    },
+    {
+      "botSlug": "survivor",
+      "fitScore": 83,
+      "fitReason": "A US earnings blotter that surfaces stocks and ETFs printing in the next 24 hours, and explicitly stays paper-first with no leverage, options selling or live orders. Narrow by design: it is an earnings calendar watcher, not a general watchlist tracker.",
+      "rank": 2
+    },
+    {
+      "botSlug": "theta-vantage-desk",
+      "fitScore": 76,
+      "fitReason": "Reads dealer gamma, options flow, implied volatility and key levels for a named ticker and expiration, then reports what it sees. Useful if you already speak options; it is a per-ticker read rather than a standing watchlist, and the quality depends entirely on the data it can actually reach.",
+      "rank": 3
+    }
+  ],
   "publish": true
 }

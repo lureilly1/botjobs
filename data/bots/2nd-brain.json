@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/2nd-brain/"
   },
-  "description": null,
+  "description": "You hand it raw material; it condenses that into brief interlinked wiki pages using a Karpathy Lattice structure, then answers questions strictly from what those pages contain. Anything absent is reported as unknown rather than filled in, so it rewards people who would rather see gaps than guesses.",
   "official": {
     "title": "2nd Brain by Thierry",
     "description": "Compiles a Karpathy Lattice wiki: raw sources in, short pages out. Answers from the pages, not RAG. Missing facts stay unknown.",

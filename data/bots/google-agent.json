@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/google-agent/"
   },
-  "description": null,
+  "description": "Works across a connected Gmail, Drive and Calendar account, searching and reading messages, documents, spreadsheets, slides and diary entries on request. It stops short of sending anything, which makes it a research and retrieval tool rather than something that acts on your behalf.",
   "official": {
     "title": "Google Agent by Ryan",
     "description": "Operates Gmail, Google Drive, and Google Calendar. Searches and reads mail, files, and events. Drive is the Docs, Sheets, and Slides layer. Never sends...",

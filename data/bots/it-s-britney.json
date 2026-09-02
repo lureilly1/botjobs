@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/it-s-britney"
   },
-  "description": null,
+  "description": "Drops Britney Spears dance clips scraped from the wider internet into your sidebar, firing on notable hours rather than on request. Suited to people who want their day punctuated by early-2000s pop chaos, and useless if you need it to stay quiet during meetings.",
   "official": {
     "title": "It's Britney by Hiten",
     "description": "Sends random Britney Spears internet dance clips, timed to significant hours of the day. For anyone who wants a chaotic Y2K dance cannon in the sidebar.",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/invoice-hunter/"
   },
-  "description": null,
+  "description": "Digs invoice PDFs out of Gmail, reads off the supplier, date, number and total, and assembles them into monthly bundles with a CSV and an index. Nothing reaches your accountant until you sign off, which makes it a fit for regular bookkeeping handovers rather than one-off document searches.",
   "official": {
     "title": "Invoice Hunter by Andrej",
     "description": "Hunts invoice PDFs in Gmail, extracts vendor/date/amount/number, packs YYYY-MM with CSV+index. Approve before accountant send.",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/linkedin-leads/"
   },
-  "description": null,
+  "description": "Trawls LinkedIn posts and their comment threads for prospects matching keywords you supply, with optional include and exclude terms to tighten the results. Output quality rests on how well-chosen your keywords are; broad ones will return a lot of noise.",
   "official": {
     "title": "Linkedin Leads by Angel",
     "description": "Busca leads en LinkedIn en publicaciones y comentarios a partir de las palabras clave que le des, con filtros de incluir/excluir opcionales.",

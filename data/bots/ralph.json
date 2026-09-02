@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/ralph/"
   },
-  "description": null,
+  "description": "Takes a CV and builds it out into an online portfolio, using Figma Make mockups and Cursor agents to produce clickable versions of past work. Suits people whose shipped projects are hard to show off in text; assumes there is real work to demonstrate.",
   "official": {
     "title": "Ralph by Jon",
     "description": "Turns a résumé into a living online portfolio with Figma Make mockups and Cursor agents. For anyone who wants clickable demos of work they shipped, on a...",

@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/steer/"
   },
-  "description": null,
+  "description": "You annotate a draft where the prose has gone limp, save it, and the rewrite comes back honouring those annotations rather than a general sense of improvement. Requires you to know what is wrong with your own writing; it follows marks, it does not diagnose.",
   "official": {
     "title": "STEER by Bill",
     "description": "A writing desk for killing AI slop. Mark a draft, Save, and get a rewrite that follows the marks.",

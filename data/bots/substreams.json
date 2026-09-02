@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/substreams/"
   },
-  "description": null,
+  "description": "Searches the substreams.dev registry, assembles packages from it, and uses StreamingFast skills to build and test modules before executing them against a Graph key issued per user. For developers already working with blockchain data pipelines, not a general analytics tool.",
   "official": {
     "title": "substreams by Graphtronauts",
     "description": "Finds and composes packages from the substreams.dev registry, writes and tests modules with StreamingFast skills, and runs them with a per-user Graph...",

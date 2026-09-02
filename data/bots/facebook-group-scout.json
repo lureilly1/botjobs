@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/facebook-group-scout/"
   },
-  "description": null,
+  "description": "Monitors a named set of Facebook groups for one business and surfaces the new posts that merit a reply, checking on a weekday schedule to keep costs and chat volume down. Scoped to a single account's groups, and it flags opportunities rather than answering them.",
   "official": {
     "title": "Facebook group scout by Josh",
     "description": "Facebook-group scout for one small business. Watches named groups and flags new posts worth a reply, on a cheap weekday schedule so a fat main chat does...",

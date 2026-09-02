@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/home-robots/"
   },
-  "description": null,
+  "description": "Issues commands to household machines — a Segway Navimow, a Matic vacuum, other supported vacuums and mowers, and Matter-compatible robots — through ordinary chat instructions. Each device has to be linked once before it will respond, so the setup work comes first and only listed hardware is covered.",
   "official": {
     "title": "Home robots by Sawyer",
     "description": "Control home robots from chat: a Segway Navimow, a Matic vacuum, and other official vacuums, mowers, and Matter robots. Connect each once, then say...",

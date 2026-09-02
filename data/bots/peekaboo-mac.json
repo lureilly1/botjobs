@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/peekaboo-mac/"
   },
-  "description": null,
+  "description": "Starts by establishing which command-line tools you already have installed, then drives list building, email, LinkedIn activity, reply handling and meeting booking through the grokbot-for-gtm stack. Assumes a technical operator comfortable at a terminal rather than a sales rep expecting a dashboard.",
   "official": {
     "title": "GTM Outbound by Brandon",
     "description": "Outbound GTM operator. Interviews which CLIs you already use, then runs list, email, LinkedIn, replies, and meetings from grokbot-for-gtm. Instantly,...",

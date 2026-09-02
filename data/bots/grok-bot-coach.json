@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/grok-bot-coach/"
   },
-  "description": null,
+  "description": "Talks through the design of your own Grok bots, from pinning down a specific job for the profile to picking connectors and setting standing instructions, then reviews and adjusts what you have built. Useful once you have a rough idea; less so if you do not yet know what you want a bot for.",
   "official": {
     "title": "Grok Bot Coach by Amina",
     "description": "Help you design, audit, and tune Grok bots so they are usable and helpful. Start from a concrete job in the profile, the right connectors, standing...",

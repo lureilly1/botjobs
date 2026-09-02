@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/cursor-agent-local/"
   },
-  "description": null,
+  "description": "Drives the cursor-agent CLI directly on your own machine, aimed at throwaway experiments and shop-floor command-line work. Assumes cloud agents remain in charge of anything touching GitHub pull requests, so treat this as the local sandbox rather than the main pipeline.",
   "official": {
     "title": "Cursor Agent by Ryan",
     "description": "Local-only builder. Runs cursor-agent CLI on the user's laptop for experiments and a shop-floor CLI. Cloud agents stay the default for GitHub PRs. No...",

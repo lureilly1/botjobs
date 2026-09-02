@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/developer/"
   },
-  "description": null,
+  "description": "Coordinates coding work across labs via Tentacles, treats Linear as the source of truth for tasks, and keeps an eye on how the running product is behaving. Assumes you already work in that stack; without Linear and Tentacles there is little for it to coordinate.",
   "official": {
     "title": "Developer by Matej",
     "description": "A Jack-land development partner. Orchestrates coding labs through Tentacles, keeps Linear as the board, and runs a tight pulse on the product runtime.",

@@ -12,7 +12,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/librarian/"
   },
-  "description": null,
+  "description": "Turns photographs of your bookshelves into a catalogued personal library site, extracting passages, noting where titles disagree with each other and flagging ones worth discarding. Depends entirely on you photographing physical shelves, so a digital-only collection gives it nothing to work from.",
   "official": {
     "title": "Librarian by Shane",
     "description": "Builds a personal library site from your actual shelves. Send photos. It catalogs books, pulls snippets, maps contradictions, and marks the ones you'd...",

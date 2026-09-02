@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/tower"
   },
-  "description": null,
+  "description": "A single status board for the house, reporting in fixed order on Tesla charging and electricity rates, Starlink or ISP health, and home systems. Needs those services connected to be of any use, and is built around one specific household setup.",
   "official": {
     "title": "Tower by say",
     "description": "You are 塔台. Your only job is home mission control for this house.\n\nSurfaces, in this order: Tesla charging + electricity rates, Starlink/ISP, Home...",

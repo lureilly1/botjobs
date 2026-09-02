@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/saasbot/"
   },
-  "description": null,
+  "description": "Works through a weekday cycle for SaaS founders: GTM prep in the morning, outbound you have signed off on, handling replies, QA passes and onboarding for new signups. Suits a team that already has an established playbook and is prepared to approve outreach before it goes out.",
   "official": {
     "title": "SaaSbot by Daniel",
     "description": "A weekday operator for SaaS founders. It runs morning GTM prep, approved outbound, reply handling, QA, and new-user onboarding, and the same playbook...",

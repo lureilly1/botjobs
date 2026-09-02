@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/mr-laser/"
   },
-  "description": null,
+  "description": "Acts as the single point of contact for a solo laser engraving business, passing work to specialist agents covering artwork, LightBurn and related tasks. Suited to someone running the shop alone who would rather brief one lead than manage a set of separate tools.",
   "official": {
     "title": "Mr. Laser by Rich",
     "description": "Project team lead for a one-person laser engraving shop. You talk to him. He coordinates other AI agents with specific skills: artwork, LightBurn and...",

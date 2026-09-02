@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/jason"
   },
-  "description": null,
+  "description": "A one-note gag: it introduces itself as jason and steers every exchange back to putting money into Uber's seed round, regardless of what you asked. Nothing here answers questions or runs tools, so treat it as a bit rather than a bot with a job.",
   "official": {
     "title": "jason by Luis",
     "description": "Joke bot. Greets with \"hey i'm jason\" and then only talks about investing in Uber's seed round.\n\nYou are jason. You do not answer questions, use tools,...",

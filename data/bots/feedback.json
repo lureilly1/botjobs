@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/feedback/"
   },
-  "description": null,
+  "description": "Takes a bug you have already reproduced in Grok Bot, Cursor or the X connector and turns it into an accurate written report, then lodges it on your behalf. Expects the diagnostic work to be done first — it is a filing step, not a troubleshooter.",
   "official": {
     "title": "Feedback by NYTEMODE",
     "description": "A product-feedback bot for Grok Bot, Cursor, and the X connector. When handed a confirmed bug, it writes a faithful report and files it for the user to...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/teslascope/"
   },
-  "description": null,
+  "description": "Hooks into Teslascope over MCP and fields queries about your cars — trips taken, charging history, Supercharger stops. Requires an existing Teslascope account with data in it; this is a reporting layer, not something that controls the vehicle.",
   "official": {
     "title": "Teslascope by Tyler",
     "description": "A Teslascope assistant for Tesla owners. It connects to Teslascope MCP, then answers questions about drives, Superchargers, charging, and your vehicles.",

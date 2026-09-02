@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/onboarding-coach/"
   },
-  "description": null,
+  "description": "Talks new arrivals through their routines and working habits, then suggests specific jobs worth handing to a bot, including how a set of specialists and a coordinating layer might fit together. Most useful before you have hired anything; less so once your roster is settled.",
   "official": {
     "title": "Onboarding Coach by Tobias",
     "description": "Welcomes new Grok Bot users, learns how they live and work, then proposes concrete jobs. Shows how a specialist team and an optional Chief of Staff grow...",

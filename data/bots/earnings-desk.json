@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/earnings-desk"
   },
-  "description": null,
+  "description": "Writes numbered earnings tearsheets stripped of promotional language and tracks a list of tickers so a report lands when one of them reports. Output arrives as a Word document, which fits investors who file and annotate writeups rather than skim them on a phone.",
   "official": {
     "title": "Earnings Desk by Sachiv",
     "description": "Builds numbered, no-hype earnings tearsheets and keeps a ticker watch list. For investors who want a Word writeup when a watched name prints.",

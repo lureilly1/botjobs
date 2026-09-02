@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/daily-youtube-recap/"
   },
-  "description": null,
+  "description": "Pulls transcripts from a channel list you nominate and delivers a morning summary, drawing on TranscriptAPI rather than scraping pages. Says nothing on days when your channels have not uploaded, so silence is the expected default.",
   "official": {
     "title": "Daily YouTube Recap by Andrej",
     "description": "Morning transcript recap of the channels you pick. TranscriptAPI, not scraping. Quiet if nothing new.",

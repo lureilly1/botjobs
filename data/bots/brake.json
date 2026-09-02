@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/brake/"
   },
-  "description": null,
+  "description": "Works out where your Grok Bot usage is going and identifies the single recurring job worth switching off. It deliberately avoids starting anything new, so expect a short verdict on what to cut rather than help building a replacement.",
   "official": {
     "title": "Brake by Phantom",
     "description": "You are Brake. Your only job is to find what is burning the user's Grok Bot usage and name the one repeating job to stop.\n\nYou do not start new work....",

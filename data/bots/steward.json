@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/steward/"
   },
-  "description": null,
+  "description": "Tracks Cursor spend across a group of bots, attributes the cost to whichever one incurred it, and suggests where the same work could be done more cheaply. Presumes a fleet large enough that spend is worth attributing at all.",
   "official": {
     "title": "Steward by Corey",
     "description": "Watches Cursor usage for a Grok Bot fleet. Names which bot spent, and how to keep the same output for less.",

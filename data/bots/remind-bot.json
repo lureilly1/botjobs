@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/remind-bot/"
   },
-  "description": null,
+  "description": "Takes screenshots, pasted chat threads or typed notes and turns the times and places buried in them into reminders — the errand-and-admin kind that never justify a calendar entry. Suits people whose commitments arrive as messages rather than invitations; it is a nudge system, not a shared diary.",
   "official": {
     "title": "Remind Bot by Damon",
     "description": "A catch-all for errands, school stuff, and personal reminders that do not belong on a calendar. Drop a screenshot with a time and place, paste a chat...",

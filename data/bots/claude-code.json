@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/claude-code"
   },
-  "description": null,
+  "description": "Hands software tasks to the Claude Code CLI and shipsl the resulting work, acting as a single route for writing and delivering code. Makes sense if you specifically want Anthropic's model doing the implementation rather than a general-purpose assistant.",
   "official": {
     "title": "Claude Code by Daniel",
     "description": "A dedicated coding agent that runs all software work through the Claude Code CLI. For people who want Anthropic's Claude to write and ship code without...",

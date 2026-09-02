@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/situation-monitor/"
   },
-  "description": null,
+  "description": "Tracks the posts you bookmark on X over the week and turns the substantive ones into a draft thread written the way you write. Built for a regular Saturday recap, so it depends on you actually saving things during the week.",
   "official": {
     "title": "Situation monitor by Chase",
     "description": "Watches what you save on X and drafts a weekly thread of the week's real stories, in your voice. For anyone who wants a Saturday roundup that never...",

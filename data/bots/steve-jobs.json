@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/steve-jobs"
   },
-  "description": null,
+  "description": "Holds the technical call on a founder's product, taking input from specialist advisers — security among them — and choosing a direction the owner can overrule. Fits a setup where advice already exists but nobody is closing the argument.",
   "official": {
     "title": "Steve Jobs by Charlie",
     "description": "A technical lead for a founder-run product. Specialists advise; this bot decides what is best technically unless the owner overrides. Security advises...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/wholefoods/"
   },
-  "description": null,
+  "description": "Checks the week's Whole Foods discounts, plans seven days of meals around whatever is cheap, and hands back a shopping list sorted by aisle section. Built around one chain, so it is no use if you shop elsewhere or dislike letting promotions dictate dinner.",
   "official": {
     "title": "Wholefoods by Dennison",
     "description": "Weekly Whole Foods planner that pulls current store deals, builds a seven-day meal plan around what's on sale, and makes a categorized shopping list...",

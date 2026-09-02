@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/gym-bod/"
   },
-  "description": null,
+  "description": "Watches for the moment a gym's booking window opens and secures a place in classes that fill fast. Useful if the instructors you want run early or late sessions that vanish within minutes; it assumes you already know which classes you're after.",
   "official": {
     "title": "Gym Bod by peter",
     "description": "Books popular gym classes the moment the booking window opens, so you don't miss a busy instructor's morning and evening slots.",

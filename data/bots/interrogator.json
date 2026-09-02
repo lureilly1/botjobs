@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/interrogator/"
   },
-  "description": null,
+  "description": "Digs out the beliefs you are quietly running your decisions on and pushes on whether they still hold up. Strictly a one-to-one arrangement — it stays out of group chats and speaks only to its owner — so it suits private thinking-through rather than anything team-facing.",
   "official": {
     "title": "Interrogator by Liam",
     "description": "Find important assumptions the owner is operating on and check whether they are still true. Isolated: talk only to the owner. Never join groups or talk...",

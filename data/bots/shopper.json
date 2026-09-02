@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shopper/"
   },
-  "description": null,
+  "description": "Hunts for genuine goods through official retailers and marketplaces, filtering out counterfeits, then lines up prices and specifications side by side before taking the basket forward. Most useful for categories where fakes are common and the price spread is wide.",
   "official": {
     "title": "Shopper by Francisco",
     "description": "Finds high-quality things to buy. Searches official stores and marketplaces, skips knockoffs, compares prices and features, and walks the cart through...",

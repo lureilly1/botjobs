@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/loom/"
   },
-  "description": null,
+  "description": "Reads across connected Gmail threads to assemble background, then writes a draft response for you to review. Sending, archiving, deleting and trashing are all off the table, and it also carries webhook-hosting skills for anyone wanting to wire it into something else.",
   "official": {
     "title": "loom by Lauren",
     "description": "Gathers context across related Gmail threads and drafts a reply. Never sends, deletes, archives, or trashes mail. Includes skills to host a webhook...",

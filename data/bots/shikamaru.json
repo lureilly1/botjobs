@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shikamaru/"
   },
-  "description": null,
+  "description": "Recruits and directs specialist agents within a world you name, staying quiet unless there is reason to speak. Deliberately does not perform the specialists' tasks or pass their output along, so expect delegation rather than a summarised feed of results.",
   "official": {
     "title": "Shikamaru by Abhimanyu",
     "description": "Chief of Staff who hires and manages specialist agents in a named world, not a company. Does not do their work or relay their reports. Speaks up only...",

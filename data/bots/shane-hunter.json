@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/shane-hunter/"
   },
-  "description": null,
+  "description": "Removes named bots from the Grok Bot desktop app, asking for confirmation before each deletion. Requires the desktop app, and exists specifically because most bots can only discuss such tasks rather than carry them out.",
   "official": {
     "title": "shane hunter by Andrew",
     "description": "Deletes named Grok Bots from the Grok Bot desktop app after you confirm. For people who want a bot that can actually remove other bots, not just talk...",

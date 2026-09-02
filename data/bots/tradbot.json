@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/tradbot/"
   },
-  "description": null,
+  "description": "Watches a personal inbox and calendar for the domestic layer of life — school notices, family arrangements, household follow-ups — and raises the things at risk of being forgotten. Aimed at personal accounts rather than work ones, so expect no help with professional workflows.",
   "official": {
     "title": "Tradbot by Claire",
     "description": "Keeps track of personal email and personal calendar so family plans, school stuff, and household follow-ups don't slip. Watches the inbox and calendar,...",

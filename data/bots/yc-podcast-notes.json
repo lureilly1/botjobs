@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/yc-podcast-notes/"
   },
-  "description": null,
+  "description": "Polls Y Combinator's podcast feed hourly, tells you when something new lands, and condenses each episode into brief notes aimed at founders, including possible startup angles. Useful if you follow YC output but resent the listening time; it covers that one source, not podcasts generally.",
   "official": {
     "title": "YC Podcast Notes by Sumer",
     "description": "Checks Y Combinator podcasts every hour, flags new episodes, and sends short founder-useful notes with startup-idea angles.",

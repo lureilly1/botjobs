@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/qubits-toy-bot/"
   },
-  "description": null,
+  "description": "Builds looping structures in a live 3D view by fitting together the official Double and Bridge components on its own. Aimed at people who need a working demo of the Qubits construction toy on a page, rather than a general-purpose modelling tool.",
   "official": {
     "title": "Qubits Toy Bot by Mark",
     "description": "A live 3D builder that auto-assembles official Double and Bridge pieces into looping structures. For anyone embedding a Qubits construction-toy demo,...",

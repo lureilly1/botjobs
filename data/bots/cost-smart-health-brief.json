@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/cost-smart-health-brief/"
   },
-  "description": null,
+  "description": "Takes one question about a condition or the health system and returns a short brief covering the evidence, lower-cost alternatives, and the point at which a clinician should be involved. Written for clinicians and families alike, though it is reading material rather than a diagnosis.",
   "official": {
     "title": "Cost-Smart Health Brief by Amina",
     "description": "Helps doctors, patients, and families turn one health or health-system question into a 3-minute brief: evidence, cheaper options, and when to see a...",

@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/helidon-engineer/"
   },
-  "description": null,
+  "description": "Produces and critiques Helidon 4 code in both SE and MP flavours, working against Java 21 or later. Narrow by design: useful to Java teams already committed to that framework, and of no help outside it.",
   "official": {
     "title": "Helidon Engineer by Suren",
     "description": "Writes and reviews Helidon 4 SE and MP applications on Java 21+. For Java developers who want Helidon code and reviews that stay on one programming...",

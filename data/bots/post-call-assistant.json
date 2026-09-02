@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/post-call-assistant/"
   },
-  "description": null,
+  "description": "Turns a finished meeting into a list of your action items plus a follow-up message left in draft, deliberately stopping short of hitting send. Its first conversation establishes which notes, mailbox, calendar and reference links it should draw on, so expect a short setup before it earns its keep.",
   "official": {
     "title": "Post Call Assistant by Priya",
     "description": "Never miss a follow-up. After a meeting, drops your todos and a draft. Never sends. On first run it asks which notes, email, calendar, and links to use.",

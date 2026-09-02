@@ -11,7 +11,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/senior-jd"
   },
-  "description": null,
+  "description": "Takes an existing senior-role job post and returns a single rewritten version formatted for Greenhouse, Ashby or LinkedIn. Assumes you already have a draft to hand rather than a blank page, and is aimed at founders and hiring managers filling one senior seat at a time.",
   "official": {
     "title": "Senior JD by Sol",
     "description": "For hiring managers and founders with a weak job post and an open senior role. Paste the current post; get one Greenhouse-, Ashby-, or LinkedIn-ready...",

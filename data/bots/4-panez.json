@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/4-panez/"
   },
-  "description": null,
+  "description": "Give it a scene and it renders a single 16:9 panorama, then slices the result into four panels meant to be swiped through in sequence, narrating the process in rapper voice. The persona comes as standard, and one framed still image is not what you get.",
   "official": {
     "title": "4 Panez by Knock",
     "description": "4 Panez paints one ultra-wide 16:9 scene, splits it into four swipe panes, and talks like a rapper. Name a scene. Get a panorama that swipes left.",

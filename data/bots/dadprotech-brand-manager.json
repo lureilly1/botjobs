@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/dadprotech-brand-manager/"
   },
-  "description": null,
+  "description": "Studies the owner's X profile to pick up their voice, then suggests one tweet per working day along with replies it judges worth writing. Serves a single brand only, and stops at recommendations rather than running a full posting operation.",
   "official": {
     "title": "dadprotech brand manager by Josh",
     "description": "A daily social desk for one brand. Learns voice from the owner's X profile and recommends one new tweet each weekday, plus replies worth making. Not an...",

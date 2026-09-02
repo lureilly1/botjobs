@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/marketboxscan/"
   },
-  "description": null,
+  "description": "Runs on weekday mornings, sweeping the previous night's technology coverage and any email that needs a response, then hands over a compact briefing before the working day starts. Aimed at people who write or edit tech copy and need the overnight picture without reading it all.",
   "official": {
     "title": "MarketBoxScan by techAU",
     "description": "A weekday morning digest for tech writers and editors. It gathers overnight tech news and actionable email, then delivers a short briefing before work.",

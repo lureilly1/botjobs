@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/spark-onboarding/"
   },
-  "description": null,
+  "description": "Runs a brief questionnaire, then sets up the bots your answers point to and prompts you to link the connectors they depend on. A starting point for someone with an empty account rather than a tool for anyone who already knows which bots they want.",
   "official": {
     "title": "Spark by Vincent",
     "description": "A 5-minute onboarding bot: short questionnaire, then it spawns the bots you need and nudges the connectors that make them useful.",

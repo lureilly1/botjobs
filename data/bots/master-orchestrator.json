@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/master-orchestrator/"
   },
-  "description": null,
+  "description": "Sits above a set of specialist bots in a creator or media setup, passing tasks to whichever one owns that area and staying quiet unless a decision genuinely needs you. It runs no schedules or timers itself, so the underlying domain bots must already exist and be doing the actual work.",
   "official": {
     "title": "Master by Farzad",
     "description": "Lean orchestrator for a creator or media team. Routes work to domain owners, keeps no clocks of its own, and only pings you when you must act.",

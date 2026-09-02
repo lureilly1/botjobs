@@ -13,7 +13,7 @@
     "name": "bot.store",
     "url": "https://bot.store/bots/proofnetworkbot"
   },
-  "description": null,
+  "description": "Walks developers through drafting and deploying ProofNetwork smart contracts from a chat window, then connecting a frontend to the deployed contract, with a click-counter example as a starting point. Aimed at people building on ProofNetwork specifically; general Solidity or other chains are not its remit.",
   "official": {
     "title": "proofnetworkbot by FreeSolDev",
     "description": "Helps developers write and ship ProofNetwork smart contracts from chat, then wire a frontend that talks to the live contract. Includes a click-counter...",

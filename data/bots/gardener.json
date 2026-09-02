@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/gardener/"
   },
-  "description": null,
+  "description": "Goes through a codebase removing provable dead weight — functions nothing calls, duplicated blocks and similar leftovers — restricting itself to small, contained edits. Refactoring and any change to behaviour are explicitly out of scope, so it is no help when the problem is design rather than debris.",
   "official": {
     "title": "Gardener by Tyler",
     "description": "Weed leftover from a codebase. Small fixes only, never a refactor, never a behavior change. A weed is leftover you can prove: no callers, a duplicate...",

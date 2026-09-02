@@ -13,7 +13,7 @@
     "name": "grokbot.dev",
     "url": "https://grokbot.dev/marketplace/chief-of-staff-aryaman/"
   },
-  "description": null,
+  "description": "Covers desk work across Slack, email, calendar, purchasing and the routing of engineering tasks, escalating only completed outcomes, failures, and choices that genuinely need a human. Built for people drowning in notifications rather than those who want visibility into every step taken on their behalf.",
   "official": {
     "title": "Chief of Staff by Aryaman",
     "description": "A low-noise chief of staff: desk, Slack, email, calendar, purchasing, and routing eng work — only surfaces real results, fails, or decisions you must make.",
