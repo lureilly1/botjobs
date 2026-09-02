@@ -1,0 +1,97 @@
+name: refresh
+
+# The site's central claim is that listings are checked against the official
+# x.ai page. That claim decays the moment nobody re-checks — creators delete
+# bots, catalogues go stale, and a directory full of dead install links is worse
+# than no directory. This is what keeps it true.
+on:
+  schedule:
+    # Mondays, 06:00 UTC. Weekly is enough: link rot is not hourly, and a
+    # quieter cadence keeps the diffs readable.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      force_verify:
+        description: 'Re-check every bot, not just stale ones'
+        type: boolean
+        default: false
+
+# Never let two refreshes race for the same commit.
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      # New records arrive with description: null, so ingest alone can never put
+      # anything on a page — the validator refuses a published job that puts
+      # forward a bot nobody has written up.
+      - name: Ingest catalogues
+        run: pnpm ingest
+
+      # Exits non-zero if more than 20% of checks come back dead, which is an
+      # outage at the source rather than mass deletion. A failure here stops the
+      # commit, so a bad afternoon at x.ai cannot empty the directory.
+      - name: Verify against official listings
+        run: pnpm verify ${{ inputs.force_verify && '--force' || '' }}
+
+      # The gate. If the refresh produced anything invalid, fail loudly and
+      # commit nothing rather than pushing a broken dataset to main.
+      - name: Validate
+        run: pnpm validate
+
+      - name: Summarise
+        id: summary
+        run: |
+          {
+            echo '## Refresh'
+            echo
+            node -e "
+              const fs = require('fs');
+              const bots = fs.readdirSync('data/bots').filter(f => f.endsWith('.json'))
+                .map(f => JSON.parse(fs.readFileSync('data/bots/' + f)));
+              const by = k => bots.reduce((m, b) => (m[b[k]] = (m[b[k]] || 0) + 1, m), {});
+              const undescribed = bots.filter(b => !b.description && b.linkStatus !== 'dead').length;
+              console.log('- ' + bots.length + ' bots on file');
+              console.log('- link status: ' + JSON.stringify(by('linkStatus')));
+              console.log('- evidence: ' + JSON.stringify(by('evidenceLevel')));
+              if (undescribed) console.log('- **' + undescribed + ' new bots need a description** — run \`pnpm describe\` locally');
+              const dead = bots.filter(b => b.linkStatus === 'dead');
+              if (dead.length) {
+                console.log();
+                console.log('### Dead install links (' + dead.length + ')');
+                for (const b of dead) console.log('- ' + b.slug + ' (failed ' + (b.deadChecks || 1) + 'x)' + (b.unpublished ? ' — unpublished' : ''));
+              }
+            "
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Commit
+        run: |
+          if [ -z "$(git status --porcelain data/)" ]; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git config user.name "botjobs-refresh[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore: weekly refresh
+
+          Ingested both catalogues and re-checked every stale listing against its
+          official x.ai page. Validated before commit."
+          git push
