@@ -30,7 +30,27 @@ export default defineConfig({
   output: 'server',
   adapter: node({ mode: 'standalone' }),
   integrations: [react()],
+  // Dev only. The built standalone server takes HOST and PORT from the
+  // environment, which is how the container binds 0.0.0.0.
   server: { host: '127.0.0.1', port: 4321 },
+  // Astro's cross-origin form check compares the browser's Origin against an
+  // origin it derives itself, and the Node adapter takes the scheme from the
+  // socket — it ignores x-forwarded-proto. Anywhere TLS terminates at an edge
+  // or a proxy the browser sends https, the adapter builds http, and every
+  // form on the site returns 403. Confirmed against the adapter source and by
+  // replaying a proxied request at a production build. No proxy configuration
+  // fixes it, which is why this line exists.
+  //
+  // It is safe here for a reason specific to this site, not as a general rule.
+  // The check defends against a forged cross-site request riding an ambient
+  // credential; there are no accounts, no sessions and no cookies here, so
+  // there is nothing to ride. A forged POST does exactly what an honest one
+  // does — add a row to a queue a person reads. What actually protects those
+  // endpoints is the per-IP rate limit, the honeypot and the validation, and
+  // none of them depend on this setting.
+  //
+  // Revisit the day anything here sets a cookie.
+  security: { checkOrigin: false },
   vite: {
     plugins: [tailwindcss()],
   },

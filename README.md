@@ -50,26 +50,26 @@ fly deploy
 Optional secrets: `ANTHROPIC_API_KEY` to have submitted bots written up
 automatically, `POSTHOG_KEY` to mirror analytics off the box.
 
-### One setting this will not work without
+### The one setting not to remove
+
+`astro.config.mjs` sets `security: { checkOrigin: false }`. It looks like
+something to tidy up. It is not.
 
 Astro's cross-origin form check compares the browser's `Origin` against an
 origin it derives itself — and the Node adapter reads the scheme off the
-socket, ignoring `x-forwarded-proto`. Anywhere TLS terminates at an edge or
+socket, ignoring `x-forwarded-proto`. Anywhere TLS terminates at an edge or a
 proxy, the browser sends `https` and the adapter builds `http`, so **every form
-returns 403**. No proxy configuration fixes it. Add to `astro.config.mjs`:
+on the site returns 403**. No proxy configuration fixes it.
 
-```js
-security: { checkOrigin: false },
-```
+Turning it off is safe here for a reason specific to this site rather than as a
+general rule: the check defends against a forged request riding an ambient
+credential, and there are no accounts, no sessions and no cookies here. Nothing
+to ride — a forged POST does exactly what an honest one does, which is add a row
+to a queue a person reads. The per-IP rate limit, the honeypot and the
+validation are what actually protect those endpoints, and none of them involve
+this setting. **Revisit it the day anything here sets a cookie.**
 
-Safe here for a specific reason: the check defends against a forged request
-riding an ambient credential, and this site has no accounts, no sessions and no
-cookies. There is nothing to ride — a forged POST does exactly what an honest
-one does, which is add a row to a queue a person reads. The IP rate limit, the
-honeypot and the validation are what actually protect those endpoints, and none
-of them involve this setting. **Revisit it the day anything here sets a cookie.**
-
-After deploying, submit a job on the live site. A 403 means this.
+After deploying, submit a job on the live site. A 403 means somebody removed it.
 
 ### Reading the inbox
 
