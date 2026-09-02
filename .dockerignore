@@ -1,0 +1,15 @@
+node_modules
+dist
+.astro
+.git
+.github
+.claude
+
+# Submissions and analytics live on the mounted volume, never in the image.
+data/private
+
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store

@@ -30,6 +30,57 @@ pnpm build && pnpm start
 
 No environment variables are required for local development.
 
+## Deploy
+
+This is a Node server, not a static bundle. Job pages render per request, and
+`/submit` and `/report` write to disk — so it needs a host with a **filesystem
+that survives a restart**. The serverless free tiers do not have one, and on
+those every submission and every analytics event is lost on each deploy,
+silently. A `Dockerfile` and `fly.toml` are included for that reason.
+
+```sh
+fly launch --copy-config --no-deploy   # reuses fly.toml; pick your own app name
+fly volumes create botjobs_data --size 1
+fly secrets set IP_SALT="$(openssl rand -hex 16)"
+fly deploy
+```
+
+`fly deploy` builds remotely, so Docker does not need to be running locally.
+
+Optional secrets: `ANTHROPIC_API_KEY` to have submitted bots written up
+automatically, `POSTHOG_KEY` to mirror analytics off the box.
+
+### One setting this will not work without
+
+Astro's cross-origin form check compares the browser's `Origin` against an
+origin it derives itself — and the Node adapter reads the scheme off the
+socket, ignoring `x-forwarded-proto`. Anywhere TLS terminates at an edge or
+proxy, the browser sends `https` and the adapter builds `http`, so **every form
+returns 403**. No proxy configuration fixes it. Add to `astro.config.mjs`:
+
+```js
+security: { checkOrigin: false },
+```
+
+Safe here for a specific reason: the check defends against a forged request
+riding an ambient credential, and this site has no accounts, no sessions and no
+cookies. There is nothing to ride — a forged POST does exactly what an honest
+one does, which is add a row to a queue a person reads. The IP rate limit, the
+honeypot and the validation are what actually protect those endpoints, and none
+of them involve this setting. **Revisit it the day anything here sets a cookie.**
+
+After deploying, submit a job on the live site. A 403 means this.
+
+### Reading the inbox
+
+Submissions live on the volume, not in the repo:
+
+```sh
+fly ssh console -C "node /app/scripts/queue.mjs"
+```
+
+Removals sort to the top, in red, with the file path to delete.
+
 ## Re-skinning
 
 Everything a new site needs to change lives in one block at the top of

@@ -1,0 +1,33 @@
+# Fly holds a persistent volume, which the serverless free tiers do not. Without
+# one, every submission and every analytics event is lost on each deploy — and
+# submissions are the whole point of the /submit and /report forms.
+
+app = "botjobs"
+primary_region = "lhr"
+
+[build]
+
+[env]
+  HOST = "0.0.0.0"
+  PORT = "8080"
+  DATA_DIR = "/data"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  # Scale to zero when idle and suspend rather than stop, so a cold request
+  # resumes the machine instead of booting it. A directory gets long quiet
+  # stretches; paying for them is pointless.
+  auto_stop_machines = "suspend"
+  auto_start_machines = true
+  min_machines_running = 0
+
+# One machine, because the volume attaches to one machine. That is the right
+# trade at this size: a single writer means the JSON store needs no locking.
+[mounts]
+  source = "botjobs_data"
+  destination = "/data"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"
