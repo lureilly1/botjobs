@@ -1,0 +1,13 @@
+# The forms on the site need no GitHub account and reach the same person, so
+# they go first. Issues stay open for anyone who would rather use GitHub.
+blank_issues_enabled: true
+contact_links:
+  - name: Submit a bot (no account needed)
+    url: https://botjobs.dev/submit#bot
+    about: Paste an official x.ai share link. We check it and write the listing.
+  - name: Post a job (no account needed)
+    url: https://botjobs.dev/submit#job
+    about: Something you want a bot to do. It gets listed even if nothing does it yet.
+  - name: Correction or removal (no account needed)
+    url: https://botjobs.dev/report
+    about: Removals are actioned within 48 hours, without argument.

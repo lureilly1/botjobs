@@ -1,0 +1,33 @@
+name: Submit a bot
+description: Put a Grok Bot forward as a candidate for a job.
+labels: [bot-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The form at [botjobs.dev/submit](https://botjobs.dev/submit#bot) does this
+        without a GitHub account and checks the link while you wait. This is here
+        for people who would rather use GitHub.
+  - type: input
+    id: url
+    attributes:
+      label: Official share link
+      description: Open the bot in Grok and copy its share link.
+      placeholder: https://x.ai/bot/...
+    validations:
+      required: true
+  - type: textarea
+    id: does
+    attributes:
+      label: What does it actually do?
+      description: >
+        In your own words, concretely. We write the listing ourselves rather than
+        reusing a catalogue's description, so this is a starting point, not copy.
+      placeholder: Sweeps my Gmail every weekday and only leaves things that need a reply.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Who made it, if not you?
+      placeholder: "@handle, or a link to where it first appeared"

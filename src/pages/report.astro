@@ -5,11 +5,24 @@ import { urls, issueUrl } from '@/config';
 import { getBot } from '@/lib/data';
 
 // Required on every bot page. A creator who wants their bot gone should not
-// have to work out who to ask.
+// have to work out who to ask — or open a GitHub account to do the asking.
 const slug = Astro.url.searchParams.get('bot') ?? '';
 const bot = slug ? getBot(slug) : null;
 
+const posted = Astro.url.searchParams.get('posted') === '1';
+const tooShort = Astro.url.searchParams.get('error') === 'short';
+
 const subject = bot ? `[removal] ${bot.slug}` : '[removal] ';
+const issueBody = [
+  bot ? `Listing: ${urls.bot(bot.slug)}` : 'Listing: ',
+  '',
+  'Removal or correction? ',
+  '',
+  'What is wrong (or say "I made this and want it gone" — that is enough): ',
+].join('\n');
+
+const field =
+  'border-ink bg-background focus-visible:ring-ink mt-1.5 w-full rounded-md border-[1.5px] px-3 text-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none';
 ---
 
 <Base
@@ -18,6 +31,19 @@ const subject = bot ? `[removal] ${bot.slug}` : '[removal] ';
   noindex
 >
   <section class="mx-auto max-w-2xl px-4 pt-12 pb-20 sm:px-6 sm:pt-16">
+    {
+      posted && (
+        <div class="border-ink bg-hi-vis/20 mb-8 rounded-lg border-[1.5px] p-5">
+          <p class="font-semibold">Received. Nothing else is needed from you.</p>
+          <p class="text-muted-foreground mt-1.5 text-sm/relaxed">
+            A removal is actioned within 48 hours and lands as a commit in the public repo, so you
+            can check it happened without taking our word for it. If you left a contact we will
+            confirm; if you did not, the commit is the confirmation.
+          </p>
+        </div>
+      )
+    }
+
     <p class="eyebrow text-muted-foreground">No argument</p>
     <h1 class="mt-3 text-[2rem] leading-[1.05] sm:text-[2.6rem]">
       Correct or <span class="marker">remove</span> a listing
@@ -26,7 +52,10 @@ const subject = bot ? `[removal] ${bot.slug}` : '[removal] ';
     {
       bot && (
         <p class="border-border bg-card mt-6 rounded-lg border px-4 py-3 text-sm">
-          About <a href={urls.bot(bot.slug)} class="font-semibold underline underline-offset-2">{bot.name}</a>
+          About{' '}
+          <a href={urls.bot(bot.slug)} class="font-semibold underline underline-offset-2">
+            {bot.name}
+          </a>
           {bot.creator.handle && <span class="text-muted-foreground"> by @{bot.creator.handle}</span>}
         </p>
       )
@@ -49,13 +78,83 @@ const subject = bot ? `[removal] ${bot.slug}` : '[removal] ';
       </p>
     </div>
 
-    <a href={issueUrl('bot', subject)} rel="noopener" class={buttonVariants({ className: 'mt-7' })}>
-      Open a removal request
-    </a>
+    <form method="POST" action="/api/report" class="outlined bg-card mt-8 rounded-lg p-6">
+      <input type="hidden" name="bot" value={bot?.slug ?? slug} />
 
-    <p class="text-muted-foreground mt-4 text-xs">
-      This opens a GitHub issue. If you would rather not use GitHub, contact the maintainer through
-      the profile on the repository instead — either route reaches the same person.
+      <fieldset>
+        <legend class="text-sm font-medium">What are you asking for?</legend>
+        <div class="mt-2.5 flex flex-wrap gap-5 text-sm">
+          <label class="flex items-center gap-2">
+            <input type="radio" name="reason" value="removal" checked class="accent-ink size-4" />
+            Take the listing down
+          </label>
+          <label class="flex items-center gap-2">
+            <input type="radio" name="reason" value="correction" class="accent-ink size-4" />
+            Fix something that is wrong
+          </label>
+        </div>
+      </fieldset>
+
+      <label for="note" class="mt-5 block text-sm font-medium">
+        Which listing, and what is wrong?
+      </label>
+      <textarea
+        id="note"
+        name="note"
+        rows="4"
+        required
+        maxlength="1000"
+        class={`${field} py-2`}
+        placeholder={
+          bot
+            ? 'I made this one and I would rather it was not listed.'
+            : 'Paste the page address, and one line on what needs to change.'
+        }></textarea>
+      {
+        tooShort && (
+          <p class="mt-2 text-sm font-medium">
+            That was too short to act on — a single sentence is plenty.
+          </p>
+        )
+      }
+
+      <label for="contact" class="mt-4 block text-sm font-medium">
+        How to reach you <span class="text-muted-foreground font-normal">(optional)</span>
+      </label>
+      <input
+        id="contact"
+        name="contact"
+        maxlength="120"
+        class={`${field} h-11`}
+        placeholder="@you, or an email"
+      />
+      <p class="text-muted-foreground mt-1.5 text-xs">
+        Only used to confirm the outcome. Leave it blank and we will still action it.
+      </p>
+
+      <div class="absolute left-[-9999px]" aria-hidden="true">
+        <label for="website">Website</label>
+        <input id="website" name="website" type="text" tabindex="-1" autocomplete="off" />
+      </div>
+
+      <button type="submit" class={buttonVariants({ variant: 'hivis', className: 'mt-6' })}>
+        Send the request
+      </button>
+      <p class="text-muted-foreground mt-3 text-xs">
+        No account needed. Goes to a person, not a queue that nobody reads.
+      </p>
+    </form>
+
+    <p class="text-muted-foreground mt-5 text-xs leading-relaxed">
+      Would rather use GitHub?{' '}
+      <a
+        href={issueUrl('removal', subject, issueBody)}
+        rel="noopener"
+        class="underline underline-offset-2"
+      >
+        Open an issue instead
+      </a>{' '}
+      — it arrives filled in, and it reaches the same person.
     </p>
 
     <section class="border-border text-muted-foreground mt-10 border-t pt-6 text-xs leading-relaxed">

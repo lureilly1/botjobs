@@ -1,0 +1,32 @@
+name: Post a job
+description: Something you want a Grok Bot to do, whether or not one exists.
+labels: [job-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The form at [botjobs.dev/submit](https://botjobs.dev/submit#job) does this
+        without a GitHub account. This is here for people who would rather use GitHub.
+
+        If nobody has built it, the job still gets listed as **open** — which is how
+        creators find out somebody wants it.
+  - type: input
+    id: job
+    attributes:
+      label: The job
+      description: In the words you would actually search for.
+      placeholder: Watch my competitors' pricing pages and tell me when one changes
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What would a good result look like?
+      placeholder: A message only when something actually changed, not a daily digest.
+    validations:
+      required: true
+  - type: textarea
+    id: tried
+    attributes:
+      label: Tried anything already?
+      placeholder: A general browsing bot, but it summarised the page instead of noticing the diff.

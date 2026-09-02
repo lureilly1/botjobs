@@ -61,10 +61,23 @@ export const urls = {
   report: (botSlug: string) => `/report?bot=${encodeURIComponent(botSlug)}`,
 } as const;
 
-/** Interim submission route until the drafting pipeline lands (plan T15). */
 export const REPO = 'https://github.com/lureilly1/botjobs';
-export const issueUrl = (template: 'bot' | 'job', title: string) =>
-  `${REPO}/issues/new?labels=${template}-submission&title=${encodeURIComponent(title)}`;
+
+/**
+ * A GitHub issue, for people who would rather use GitHub than a form on the
+ * site. Every route this appears on has a form beside it that does not need an
+ * account — this is the alternative, never the only way through.
+ *
+ * The title and body are filled in. An empty issue box asks a stranger to
+ * work out what we need from them, and most of them will simply close the tab.
+ */
+export const issueUrl = (kind: 'bot' | 'job' | 'removal', title: string, body = '') =>
+  `${REPO}/issues/new?` +
+  new URLSearchParams({
+    labels: kind === 'removal' ? 'removal' : `${kind}-submission`,
+    title,
+    ...(body ? { body } : {}),
+  });
 
 /**
  * Evidence tiers. The labels are load-bearing: `link-verified` must never read

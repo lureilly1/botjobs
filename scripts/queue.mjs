@@ -22,6 +22,7 @@ const write = process.argv.includes('--write');
 const dim = (s) => `\x1b[2m${s}\x1b[0m`;
 const bold = (s) => `\x1b[1m${s}\x1b[0m`;
 const green = (s) => `\x1b[32m${s}\x1b[0m`;
+const red = (s) => `\x1b[1;31m${s}\x1b[0m`;
 
 let store;
 try {
@@ -31,9 +32,14 @@ try {
   process.exit(0);
 }
 
+// Reports first, always. A removal has a 48-hour promise attached to it and a
+// bot submission does not, so date order is the wrong order for this list.
 const pending = Object.values(store.submissions ?? {})
   .filter((s) => s.status === 'received' || s.status === 'queued')
-  .sort((a, b) => b.createdAt - a.createdAt);
+  .sort(
+    (a, b) =>
+      (b.kind === 'report') - (a.kind === 'report') || b.createdAt - a.createdAt
+  );
 
 if (!pending.length) {
   console.log('\nQueue is empty.\n');
@@ -45,7 +51,10 @@ console.log(`\n${bold(`${pending.length} waiting`)}\n`);
 let written = 0;
 for (const s of pending) {
   const when = new Date(s.createdAt).toISOString().slice(0, 16).replace('T', ' ');
-  console.log(`${bold(s.kind.toUpperCase())}  ${dim(when)}  ${s.input.submitter ?? dim('anonymous')}`);
+  const label = s.kind === 'report' ? red(s.input.reason === 'removal' ? 'REMOVAL' : 'CORRECTION') : bold(s.kind.toUpperCase());
+  const who = s.input.submitter ?? s.input.contact ?? dim('anonymous');
+  console.log(`${label}  ${dim(when)}  ${who}`);
+  if (s.input.bot) console.log(`  data/bots/${s.input.bot}.json`);
   if (s.input.title) console.log(`  ${s.input.title}`);
   if (s.input.url) console.log(`  ${s.input.url}`);
   if (s.input.outcome) console.log(dim(`  wants:  ${s.input.outcome}`));

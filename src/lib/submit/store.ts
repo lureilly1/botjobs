@@ -26,7 +26,7 @@ export type SubmissionStatus =
 export interface Submission {
   id: string;
   status: SubmissionStatus;
-  kind: 'bot' | 'job';
+  kind: 'bot' | 'job' | 'report';
   input: {
     url?: string;
     /** Job submissions: what they want done, and the context around it. */
@@ -35,6 +35,11 @@ export interface Submission {
     tried?: string;
     /** The job page it was sent from, when it came from one. */
     fromJob?: string;
+    /** Reports: the listing complained about, and which of the two it is. */
+    bot?: string;
+    reason?: 'removal' | 'correction';
+    /** Optional, and only for reports — how to reach them about the outcome. */
+    contact?: string;
     note: string;
     submitter?: string;
   };
