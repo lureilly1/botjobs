@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { SITE, urls } from '@/config';
 import { getJobs, getBots, isBotIndexable } from '@/lib/data';
+import { CATEGORIES } from '@/lib/records.js';
 
 /**
  * The sitemap is a claim about what is worth indexing, so it only carries pages
@@ -24,6 +25,14 @@ export const GET: APIRoute = async () => {
     { path: urls.bots(), priority: '0.6' },
     { path: urls.submit(), priority: '0.5' },
   ];
+
+  // Category pages are stable groupings with their own content, unlike search
+  // results, so they index. Only those that actually have jobs.
+  for (const cat of Object.keys(CATEGORIES)) {
+    if (jobs.some((j) => j.category === cat)) {
+      entries.push({ path: urls.category(cat), priority: '0.7' });
+    }
+  }
 
   for (const job of jobs) {
     entries.push({ path: urls.job(job.slug), priority: job.bots.length ? '0.9' : '0.7' });

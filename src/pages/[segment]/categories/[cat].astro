@@ -1,0 +1,92 @@
+---
+import Base from '@/layouts/Base.astro';
+import EvidenceBadge from '@/components/EvidenceBadge.astro';
+import JsonLd from '@/components/JsonLd.astro';
+import { Badge } from '@/components/ui/badge';
+import { PATH_SEGMENT, urls } from '@/config';
+import { getJobs, bestEvidence } from '@/lib/data';
+import { CATEGORIES } from '@/lib/records.js';
+import { breadcrumbs, collectionNode } from '@/lib/seo';
+
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+const cat = Astro.params.cat!;
+const label = (CATEGORIES as Record<string, string>)[cat];
+if (!label) return new Response(null, { status: 404 });
+
+const jobs = (await getJobs())
+  .filter((j) => j.category === cat)
+  .sort((a, b) => b.bots.length - a.bots.length || a.title.localeCompare(b.title));
+
+// Unlike a search result, a category is a stable grouping with its own set of
+// jobs, so it is a real document and belongs in the index.
+const candidates = jobs.reduce((n, j) => n + j.bots.length, 0);
+---
+
+<Base
+  title={`${label} jobs`}
+  description={`Grok Bots for ${label.toLowerCase()} work — ${jobs.length} jobs, ${candidates} candidates.`}
+  canonical={urls.category(cat)}
+>
+  <JsonLd
+    data={[
+      collectionNode({
+        name: `${label} jobs`,
+        path: urls.category(cat),
+        description: `Jobs in ${label.toLowerCase()} that people want a Grok Bot to do.`,
+        items: jobs.map((j) => ({ name: j.title, path: urls.job(j.slug) })),
+      }),
+      breadcrumbs([
+        { name: 'Jobs', path: urls.jobs() },
+        { name: label, path: urls.category(cat) },
+      ]),
+    ]}
+  />
+
+  <section class="mx-auto max-w-4xl px-4 pt-12 pb-8 sm:px-6 sm:pt-16">
+    <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
+      <a href={urls.jobs()} class="hover:text-foreground">Jobs</a>
+      <span class="mx-1.5" aria-hidden="true">/</span>
+      <span class="text-foreground">{label}</span>
+    </nav>
+
+    <h1 class="text-[2.25rem] leading-[1.02] sm:text-5xl">
+      <span class="marker">{label}</span>
+    </h1>
+    <p class="prose-editorial mt-4">
+      {jobs.length} job{jobs.length === 1 ? '' : 's'} in this area, with {candidates} candidate
+      {candidates === 1 ? '' : 's'} between them. Each page ranks the bots we would actually put
+      forward and says why.
+    </p>
+  </section>
+
+  <div class="mx-auto max-w-4xl px-4 pb-20 sm:px-6">
+    <ul class="border-ink bg-card rule-list overflow-hidden rounded-lg border-[1.5px]">
+      {
+        jobs.map((job) => (
+          <li>
+            <a
+              href={urls.job(job.slug)}
+              class="group hover:bg-hi-vis/15 flex items-center gap-4 p-4 transition-colors sm:px-5"
+            >
+              <div class="min-w-0 flex-1">
+                <h2 class="font-semibold">{job.title}</h2>
+                <p class="text-muted-foreground mt-0.5 line-clamp-1 text-sm">{job.searchIntent}</p>
+              </div>
+              {job.status === 'open' ? (
+                <Badge variant="open">Open</Badge>
+              ) : (
+                <>
+                  <span class="text-muted-foreground hidden font-mono text-xs sm:block">
+                    {job.bots.length} candidate{job.bots.length === 1 ? '' : 's'}
+                  </span>
+                  {bestEvidence(job) && <EvidenceBadge level={bestEvidence(job)!} />}
+                </>
+              )}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</Base>

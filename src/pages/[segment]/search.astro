@@ -1,0 +1,139 @@
+---
+import Base from '@/layouts/Base.astro';
+import EvidenceBadge from '@/components/EvidenceBadge.astro';
+import { Badge } from '@/components/ui/badge';
+import { buttonVariants } from '@/components/ui/button';
+import { PATH_SEGMENT, urls, issueUrl } from '@/config';
+import { search } from '@/lib/search';
+
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+const query = (Astro.url.searchParams.get('q') ?? '').slice(0, 120);
+const { jobs, bots } = query ? await search(query) : { jobs: [], bots: [] };
+
+const topJobs = jobs.slice(0, 12);
+const topBots = bots.slice(0, 20);
+const nothing = Boolean(query) && !topJobs.length && !topBots.length;
+---
+
+<!-- noindex, follow: a results page is a facet, not a document. It stays
+     crawlable so links out of it are followed, and out of the index and the
+     sitemap so it never competes with the job pages it points at. -->
+<Base
+  title={query ? `Search: ${query}` : 'Search'}
+  description="Search jobs and Grok Bots."
+  noindex
+>
+  <section class="mx-auto max-w-3xl px-4 pt-12 pb-10 sm:px-6 sm:pt-16">
+    <h1 class="text-[2rem] leading-[1.05] sm:text-[2.5rem]">
+      What do you want <span class="marker">done</span>?
+    </h1>
+
+    <form action={urls.search()} method="get" class="mt-6 flex gap-2.5">
+      <label for="q" class="sr-only">Search</label>
+      <input
+        id="q"
+        name="q"
+        type="search"
+        value={query}
+        autocomplete="off"
+        placeholder="monitor my competitors"
+        class="border-ink bg-card placeholder:text-muted-foreground focus-visible:ring-ink h-12 flex-1 rounded-md border-[1.5px] px-4 text-[15px] font-medium focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+      />
+      <button type="submit" class={buttonVariants({ size: 'lg', className: 'h-12' })}>Search</button>
+    </form>
+
+    {
+      query && (
+        <p class="text-muted-foreground mt-4 font-mono text-xs">
+          {jobs.length} job{jobs.length === 1 ? '' : 's'} · {bots.length} bot
+          {bots.length === 1 ? '' : 's'} for “{query}”
+        </p>
+      )
+    }
+  </section>
+
+  {
+    nothing && (
+      <section class="mx-auto max-w-3xl px-4 pb-20 sm:px-6">
+        <div class="outlined bg-card rounded-lg p-6">
+          <h2 class="text-xl">Nothing on the board for that</h2>
+          <p class="prose-editorial mt-2.5">
+            No job and no bot matched. If it is a thing you genuinely want a Grok Bot to do, post
+            it as a job — an unfilled vacancy is still worth listing, and it is how creators find
+            out somebody wants it.
+          </p>
+          <a
+            href={issueUrl('job', `[job] ${query}`)}
+            rel="noopener"
+            class={buttonVariants({ variant: 'hivis', size: 'sm', className: 'mt-5' })}
+          >
+            Post “{query}” as a job
+          </a>
+        </div>
+      </section>
+    )
+  }
+
+  {
+    topJobs.length > 0 && (
+      <section class="mx-auto max-w-3xl px-4 pb-12 sm:px-6">
+        <h2 class="mb-1 text-2xl">Jobs</h2>
+        <p class="text-muted-foreground mb-4 text-sm">
+          Start here — a job page compares every candidate we would put forward.
+        </p>
+        <ul class="border-ink bg-card rule-list overflow-hidden rounded-lg border-[1.5px]">
+          {topJobs.map(({ job }) => (
+            <li>
+              <a
+                href={urls.job(job.slug)}
+                class="group hover:bg-hi-vis/15 flex items-center gap-4 p-4 transition-colors sm:px-5"
+              >
+                <div class="min-w-0 flex-1">
+                  <h3 class="font-semibold">{job.title}</h3>
+                  <p class="text-muted-foreground mt-0.5 line-clamp-1 text-sm">{job.searchIntent}</p>
+                </div>
+                {job.status === 'open' ? (
+                  <Badge variant="open">Open</Badge>
+                ) : (
+                  <span class="text-muted-foreground shrink-0 font-mono text-xs">
+                    {job.bots.length} candidate{job.bots.length === 1 ? '' : 's'}
+                  </span>
+                )}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    topBots.length > 0 && (
+      <section class="mx-auto max-w-3xl px-4 pb-20 sm:px-6">
+        <h2 class="mb-4 text-2xl">Bots</h2>
+        <ul class="border-border bg-card rule-list overflow-hidden rounded-lg border">
+          {topBots.map(({ bot, jobCount }) => (
+            <li>
+              <a
+                href={urls.bot(bot.slug)}
+                class="group hover:bg-hi-vis/15 flex items-center gap-4 p-4 transition-colors sm:px-5"
+              >
+                <div class="min-w-0 flex-1">
+                  <h3 class="font-semibold">{bot.name}</h3>
+                  <p class="text-muted-foreground mt-0.5 line-clamp-1 text-sm">{bot.description}</p>
+                </div>
+                {jobCount > 0 && (
+                  <span class="text-muted-foreground hidden shrink-0 font-mono text-xs sm:block">
+                    {jobCount} job{jobCount === 1 ? '' : 's'}
+                  </span>
+                )}
+                <EvidenceBadge level={bot.evidenceLevel} />
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+</Base>

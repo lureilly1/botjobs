@@ -55,7 +55,11 @@ const grouped = Object.keys(CATEGORIES)
     {
       grouped.map((group) => (
         <section>
-          <h2 class="mb-3 text-lg">{group.label}</h2>
+          <h2 class="mb-3 text-lg">
+            <a href={urls.category(group.key)} class="hover:decoration-hi-vis hover:underline hover:decoration-2 hover:underline-offset-4">
+              {group.label}
+            </a>
+          </h2>
           <ul class="border-ink bg-card rule-list overflow-hidden rounded-lg border-[1.5px]">
             {group.jobs.map((job) => (
               <li>
