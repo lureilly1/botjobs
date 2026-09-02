@@ -4,7 +4,7 @@ import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import JsonLd from '@/components/JsonLd.astro';
 import { Badge } from '@/components/ui/badge';
 import { PATH_SEGMENT, urls } from '@/config';
-import { getJobs, bestEvidence } from '@/lib/data';
+import { getJobs, bestEvidence, isCategoryIndexable } from '@/lib/data';
 import { CATEGORIES, CATEGORY_INTROS } from '@/lib/records.js';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
 
@@ -27,6 +27,7 @@ const candidates = jobs.reduce((n, j) => n + j.bots.length, 0);
   title={`${label} jobs`}
   description={`Grok Bots for ${label.toLowerCase()} work — ${jobs.length} jobs, ${candidates} candidates.`}
   canonical={urls.category(cat)}
+  noindex={!isCategoryIndexable()}
 >
   <JsonLd
     data={[

@@ -1,6 +1,12 @@
 import type { APIRoute } from 'astro';
 import { SITE, urls } from '@/config';
-import { getJobs, getBots, isBotIndexable, liveIntegrations } from '@/lib/data';
+import {
+  getJobs,
+  getBots,
+  isBotIndexable,
+  isCategoryIndexable,
+  liveIntegrations,
+} from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
 
 /**
@@ -34,11 +40,13 @@ export const GET: APIRoute = async () => {
     entries.push({ path: urls.integration(slug), priority: '0.8' });
   }
 
-  // Category pages are stable groupings with their own content, unlike search
-  // results, so they index. Only those that actually have jobs.
-  for (const cat of Object.keys(CATEGORIES)) {
-    if (jobs.some((j) => j.category === cat)) {
-      entries.push({ path: urls.category(cat), priority: '0.7' });
+  // Category pages are navigation, not destinations — see the indexing policy
+  // in data.ts. They stay crawlable and out of the sitemap.
+  if (isCategoryIndexable()) {
+    for (const cat of Object.keys(CATEGORIES)) {
+      if (jobs.some((j) => j.category === cat)) {
+        entries.push({ path: urls.category(cat), priority: '0.7' });
+      }
     }
   }
 

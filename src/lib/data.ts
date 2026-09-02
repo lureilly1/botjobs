@@ -135,18 +135,45 @@ export function jobsForBot(botSlug: string): Array<{ job: Job; mapping: BotMappi
     .sort((a, b) => b.mapping.fitScore - a.mapping.fitScore);
 }
 
-/**
- * Whether a bot page belongs in the index.
- *
- * 408 pages of a hundred words each is precisely the scaled-content pattern
- * this project exists to avoid, and Google is explicit that combining external
- * content with little added value is spam regardless of intent. A bot we have
- * put forward for a job carries real editorial — our summary plus a reasoned
- * fit — so it earns a place. A bot sitting in the catalogue untouched does not,
- * and it stays reachable and crawlable while being kept out of the index.
- */
+/* ===========================================================================
+   INDEXING POLICY — start narrow, widen as pages earn it
+   ---------------------------------------------------------------------------
+   Measured body content, excluding nav and footer:
+
+     job pages          1104 words median, 12 in-body links
+     integration pages   653 words median, 14 in-body links
+     bot pages           246 words median,  4 in-body links
+     category pages      142 words median,  4 in-body links
+
+   Bot pages were 72% of the index at 246 words each, most of which restates a
+   section of the job page that already ranks. That is the scaled-content shape
+   this project exists to avoid, and it does not become acceptable because the
+   words are ours.
+
+   So: index what is genuinely a destination, and let the rest be navigation.
+   Bot and category pages stay crawlable and keep passing link equity to the job
+   pages — they simply do not compete with them for a slot.
+
+   To widen later, lower MIN_JOBS_FOR_BOT_INDEX. A bot on three jobs carries
+   three fit reasons, so it is the closest thing to a naturally deeper page. Do
+   it when pages have more to say, not to grow the number.
+   =========================================================================== */
+
+/** Set above the maximum (3) so no bot page indexes yet. Lower to widen. */
+const MIN_JOBS_FOR_BOT_INDEX = 99;
+
 export function isBotIndexable(bot: Bot): boolean {
-  return bot.linkStatus !== 'dead' && Boolean(bot.description) && jobsForBot(bot.slug).length > 0;
+  if (bot.linkStatus === 'dead' || !bot.description) return false;
+  return jobsForBot(bot.slug).length >= MIN_JOBS_FOR_BOT_INDEX;
+}
+
+/**
+ * Category pages are 142 words: an intro and a list of links to pages that say
+ * it better. They are useful navigation and a poor search result, so they are
+ * crawled and not indexed until they carry something of their own.
+ */
+export function isCategoryIndexable(): boolean {
+  return false;
 }
 
 /**
