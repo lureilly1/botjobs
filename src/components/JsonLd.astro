@@ -1,0 +1,26 @@
+---
+/**
+ * Structured data.
+ *
+ * Deliberately NOT emitted: AggregateRating and Review. Google requires review
+ * snippets to come from actual users, and we have none — an internal fit score
+ * dressed as a rating would be read as a user rating by both people and
+ * crawlers. The spec forbids it, `scripts/check-seo.mjs` enforces it, and the
+ * evidence badge is a text label for the same reason.
+ */
+interface Props {
+  data: Record<string, unknown> | Record<string, unknown>[];
+}
+const { data } = Astro.props;
+const graph = Array.isArray(data) ? data : [data];
+---
+
+{
+  graph.map((node) => (
+    <script
+      type="application/ld+json"
+      is:inline
+      set:html={JSON.stringify({ '@context': 'https://schema.org', ...node })}
+    />
+  ))
+}

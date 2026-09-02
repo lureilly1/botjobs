@@ -5,6 +5,8 @@ import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
 import { PATH_SEGMENT, urls, EVIDENCE } from '@/config';
 import { getBot, jobsForBot, isBotIndexable } from '@/lib/data';
+import JsonLd from '@/components/JsonLd.astro';
+import { breadcrumbs, botPageNode } from '@/lib/seo';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
@@ -26,6 +28,19 @@ const alsoListedOn = (bot.listings ?? []).filter((l) => l.name !== bot.discovere
   canonical={urls.bot(bot.slug)}
   noindex={!isBotIndexable(bot)}
 >
+  {
+    isBotIndexable(bot) && (
+      <JsonLd
+        data={[
+          botPageNode(bot),
+          breadcrumbs([
+            { name: 'Bots', path: urls.bots() },
+            { name: bot.name, path: urls.bot(bot.slug) },
+          ]),
+        ]}
+      />
+    )
+  }
   <article class="mx-auto max-w-3xl px-4 pt-10 pb-16 sm:px-6 sm:pt-14">
     <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
       <a href={urls.bots()} class="hover:text-foreground">Bots</a>

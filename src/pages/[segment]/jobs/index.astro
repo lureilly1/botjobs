@@ -5,6 +5,8 @@ import { Badge } from '@/components/ui/badge';
 import { PATH_SEGMENT, urls } from '@/config';
 import { getJobs, bestEvidence } from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
+import JsonLd from '@/components/JsonLd.astro';
+import { breadcrumbs, collectionNode } from '@/lib/seo';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
@@ -27,6 +29,17 @@ const grouped = Object.keys(CATEGORIES)
   description="Every job people want a Grok Bot to do, with the bots that can do it."
   canonical={urls.jobs()}
 >
+  <JsonLd
+    data={[
+      collectionNode({
+        name: 'Every job',
+        path: urls.jobs(),
+        description: 'Every job people want a Grok Bot to do.',
+        items: jobs.map((j) => ({ name: j.title, path: urls.job(j.slug) })),
+      }),
+      breadcrumbs([{ name: 'Jobs', path: urls.jobs() }]),
+    ]}
+  />
   <section class="mx-auto max-w-6xl px-4 pt-12 pb-8 sm:px-6 sm:pt-16">
     <p class="eyebrow text-muted-foreground">The board</p>
     <h1 class="mt-3 text-[2.25rem] leading-[1.02] sm:text-5xl">

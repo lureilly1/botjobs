@@ -22,7 +22,8 @@
     "ingest:botstore": "node scripts/ingest-botstore.mjs",
     "verify": "node scripts/verify-official.mjs",
     "describe": "node --env-file-if-exists=.env scripts/describe-bots.mjs",
-    "map": "node --env-file-if-exists=.env scripts/map-jobs.mjs"
+    "map": "node --env-file-if-exists=.env scripts/map-jobs.mjs",
+    "check:seo": "node scripts/check-seo.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.123.0",

@@ -33,3 +33,8 @@ jobs:
 
       - name: Build
         run: pnpm build
+
+      # Runs against the built server: sitemap entries resolve and are not
+      # noindex, canonicals exist, and no page invents a review rating.
+      - name: SEO invariants
+        run: pnpm check:seo

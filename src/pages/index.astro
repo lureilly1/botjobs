@@ -5,6 +5,8 @@ import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
 import { SITE, urls } from '@/config';
 import { getJobs, getBots, bestEvidence } from '@/lib/data';
+import JsonLd from '@/components/JsonLd.astro';
+import { websiteNode } from '@/lib/seo';
 
 const jobs = await getJobs();
 const bots = await getBots();
@@ -25,6 +27,7 @@ const suggestions = [
 ---
 
 <Base title={SITE.name} description={SITE.description}>
+  <JsonLd data={websiteNode()} />
   <section class="mx-auto max-w-6xl px-4 pt-14 pb-12 sm:px-6 sm:pt-20">
     <div class="grid items-center gap-10 lg:grid-cols-[minmax(0,1fr)_auto]">
       <div class="max-w-3xl">
