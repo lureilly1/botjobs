@@ -20,7 +20,9 @@
     "ingest:grokbot": "node scripts/ingest-grokbot.mjs",
     "ingest": "pnpm ingest:grokbot && pnpm ingest:botstore",
     "ingest:botstore": "node scripts/ingest-botstore.mjs",
-    "verify": "node scripts/verify-official.mjs"
+    "verify": "node scripts/verify-official.mjs",
+    "describe": "node --env-file-if-exists=.env scripts/describe-bots.mjs",
+    "map": "node --env-file-if-exists=.env scripts/map-jobs.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.123.0",
