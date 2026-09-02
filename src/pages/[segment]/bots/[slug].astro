@@ -105,7 +105,11 @@ const metaDescription = topJob
     <div class="mt-7 flex flex-wrap items-center gap-2.5">
       {
         !dead && (
-          <a href={bot.grokShareUrl} rel="noopener" class={buttonVariants({ variant: 'hivis' })}>
+          <a
+            href={urls.install(bot.slug)}
+            rel="noopener nofollow"
+            class={buttonVariants({ variant: 'hivis' })}
+          >
             Add to Grok →
           </a>
         )

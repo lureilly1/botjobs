@@ -15,6 +15,9 @@ Allow: /
 # Removal requests carry personal context and have no search value.
 Disallow: /report
 
+# Outbound hop for install links. The official x.ai URL is on every bot page.
+Disallow: /go/
+
 Sitemap: ${new URL('/sitemap.xml', SITE.url).href}
 Llms-Txt: ${new URL('/llms.txt', SITE.url).href}
 

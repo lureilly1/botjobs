@@ -25,7 +25,8 @@
     "map": "node --env-file-if-exists=.env scripts/map-jobs.mjs",
     "check:seo": "node scripts/check-seo.mjs",
     "og": "node scripts/generate-og.mjs",
-    "integrations": "node --env-file-if-exists=.env scripts/detect-integrations.mjs"
+    "integrations": "node --env-file-if-exists=.env scripts/detect-integrations.mjs",
+    "stats": "node scripts/stats.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.123.0",

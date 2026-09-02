@@ -6,9 +6,11 @@ import type { Bot, BotMapping } from '@/lib/data';
 
 interface Props {
   bot: Bot & { mapping: BotMapping };
+  /** Which job page this card is on, so the click is attributable. */
+  jobSlug?: string;
 }
 
-const { bot } = Astro.props;
+const { bot, jobSlug } = Astro.props;
 const { mapping } = bot;
 ---
 
@@ -65,10 +67,9 @@ const { mapping } = bot;
 
   <div class="mt-5 flex flex-wrap items-center gap-2.5">
     <a
-      href={bot.grokShareUrl}
-      rel="noopener"
+      href={urls.install(bot.slug, jobSlug)}
+      rel="noopener nofollow"
       class={buttonVariants({ variant: 'hivis', size: 'sm' })}
-      data-bot={bot.slug}
     >
       Add to Grok →
     </a>

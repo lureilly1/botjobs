@@ -53,6 +53,9 @@ export const urls = {
   // without a second page to maintain.
   submitBot: () => '/submit#bot',
   submitJob: () => '/submit#job',
+  /** Outbound hop so install clicks are measurable without client JavaScript. */
+  install: (botSlug: string, jobSlug?: string) =>
+    `/go/${botSlug}${jobSlug ? `?job=${encodeURIComponent(jobSlug)}` : ''}`,
   report: (botSlug: string) => `/report?bot=${encodeURIComponent(botSlug)}`,
 } as const;
 
