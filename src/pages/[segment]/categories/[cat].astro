@@ -4,15 +4,15 @@ import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import JsonLd from '@/components/JsonLd.astro';
 import { Badge } from '@/components/ui/badge';
 import { PATH_SEGMENT, urls } from '@/config';
-import { getJobs, bestEvidence, isCategoryIndexable } from '@/lib/data';
+import { getJobs, bestEvidence, isCategoryIndexable, categoryLabel } from '@/lib/data';
 import { CATEGORIES, CATEGORY_INTROS } from '@/lib/records.js';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const cat = Astro.params.cat!;
-const label = (CATEGORIES as Record<string, string>)[cat];
-if (!label) return new Response(null, { status: 404 });
+if (!Object.hasOwn(CATEGORIES, cat)) return new Response(null, { status: 404 });
+const label = categoryLabel(cat);
 
 const jobs = (await getJobs())
   .filter((j) => j.category === cat)
@@ -21,6 +21,11 @@ const jobs = (await getJobs())
 // Unlike a search result, a category is a stable grouping with its own set of
 // jobs, so it is a real document and belongs in the index.
 const candidates = jobs.reduce((n, j) => n + j.bots.length, 0);
+
+// records.js is plain JS, so the index has to be widened somewhere. Doing it
+// here rather than in the template keeps type syntax out of the markup, which
+// Astro's template parser reads as JSX.
+const intro = (CATEGORY_INTROS as Record<string, string>)[cat];
 ---
 
 <Base
@@ -55,7 +60,7 @@ const candidates = jobs.reduce((n, j) => n + j.bots.length, 0);
       <span class="marker">{label}</span>
     </h1>
     <p class="prose-editorial mt-4">
-      {(CATEGORY_INTROS as Record<string, string>)[cat]}
+      {intro}
     </p>
     <p class="text-muted-foreground mt-4 font-mono text-sm">
       {jobs.length} job{jobs.length === 1 ? '' : 's'} · {candidates} candidate

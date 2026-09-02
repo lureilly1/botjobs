@@ -1,0 +1,40 @@
+---
+/**
+ * Confirmation after a plain form POST.
+ *
+ * The form redirects back with ?posted=1 rather than rendering a result page,
+ * so there is no resubmit-on-refresh and no JavaScript needed to show the
+ * outcome. Errors come back the same way.
+ */
+const params = Astro.url.searchParams;
+const posted = params.get('posted') === '1';
+const error = params.get('error');
+
+const message = posted
+  ? null
+  : error === 'short'
+    ? 'That was too short to act on — give us a sentence.'
+    : error === 'rate'
+      ? 'That is a few submissions in quick succession. Try again shortly.'
+      : null;
+---
+
+{
+  posted && (
+    <div class="border-ink bg-hi-vis/20 mb-6 rounded-lg border-[1.5px] p-4">
+      <p class="font-semibold">Got it — that is on the list.</p>
+      <p class="text-muted-foreground mt-1 text-sm/relaxed">
+        A person reads every one. If it is a job people want and nothing does it, it goes up as an
+        open position, which is how creators find out somebody wants it.
+      </p>
+    </div>
+  )
+}
+
+{
+  message && (
+    <div class="border-border mb-6 rounded-lg border border-dashed p-4">
+      <p class="text-sm">{message}</p>
+    </div>
+  )
+}

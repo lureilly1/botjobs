@@ -1,5 +1,6 @@
 import {
   jobStatus,
+  CATEGORIES,
   EVIDENCE_LEVELS,
   INTEGRATIONS,
   INTEGRATION_MIN_BOTS,
@@ -43,9 +44,18 @@ export interface Bot {
   name: string;
   grokShareUrl: string;
   botId: string;
-  creator: { handle: string; url?: string };
+  /**
+   * A creator has a handle or a display name — the validator requires one of
+   * the two, not both. 358 of 430 records carry a name, so leaving it off this
+   * interface made every `creator.name` read look like a mistake.
+   */
+  creator: { handle: string; name?: string; url?: string };
   sourceUrl?: string;
   discoveredVia: { name: string; url: string };
+  /** Every catalogue found carrying this bot. Overlap is the interesting part. */
+  listings?: Array<{ name: string; url: string }>;
+  /** Keywords from the source catalogue. Weighted lightly in search. */
+  tags?: string[];
   description: string;
   official: {
     title?: string;
@@ -85,6 +95,18 @@ const botsBySlug = new Map(allBots.map((b) => [b.slug, b]));
  * from it, which would never match anything.
  */
 const botsByBotId = new Map(allBots.map((b) => [b.botId, b]));
+
+/**
+ * The display label for a category slug.
+ *
+ * CATEGORIES lives in plain JS so the validator, the git hook and the site can
+ * share it, which means TypeScript infers it as a closed literal and every
+ * `CATEGORIES[someString]` is an error. One typed accessor beats a cast at each
+ * of the four call sites.
+ */
+export function categoryLabel(slug: string): string {
+  return (CATEGORIES as Record<string, string>)[slug] ?? slug;
+}
 
 /** Published jobs only. Drafts never reach a page, a listing or the sitemap. */
 export async function getJobs(): Promise<Job[]> {

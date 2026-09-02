@@ -1,0 +1,73 @@
+---
+import Base from '@/layouts/Base.astro';
+import { buttonVariants } from '@/components/ui/button';
+import { urls } from '@/config';
+import { getJobs } from '@/lib/data';
+
+/**
+ * A 404 is a visitor who wanted something specific. Sending them to the home
+ * page throws that away, so this offers the search box and the jobs with the
+ * most candidates — the two things most likely to be what they were after.
+ *
+ * noindex because a 404 that gets indexed is a soft-404, which Search Console
+ * counts against the whole site.
+ */
+const popular = (await getJobs()).slice(0, 6);
+---
+
+<Base
+  title="Not found"
+  description="That page does not exist. Search the directory or browse the jobs."
+  noindex
+>
+  <section class="mx-auto max-w-3xl px-4 pt-20 pb-16 sm:px-6">
+    <p class="eyebrow text-muted-foreground">404</p>
+    <h1 class="mt-3 text-[2.25rem] leading-[1.02] sm:text-5xl">
+      No such <span class="marker">vacancy</span>.
+    </h1>
+    <p class="prose-editorial mt-4">
+      That page is not here. It may have been a job we merged into another one, a bot we removed
+      after its link died, or simply a typo.
+    </p>
+
+    <form action={urls.search()} method="get" class="mt-8 flex flex-wrap gap-2.5">
+      <label for="q" class="sr-only">Search jobs and bots</label>
+      <input
+        id="q"
+        name="q"
+        type="search"
+        placeholder="What do you want a bot to do?"
+        class="border-ink bg-background focus-visible:ring-ink h-11 min-w-0 flex-1 rounded-md border-[1.5px] px-3.5 text-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+      />
+      <button type="submit" class={buttonVariants({ variant: 'hivis' })}>Search</button>
+    </form>
+
+    <h2 class="eyebrow text-muted-foreground mt-12">Jobs with the most candidates</h2>
+    <ul class="rule-list border-ink mt-3 rounded-lg border-[1.5px]">
+      {
+        popular.map((job) => (
+          <li class="p-4 sm:px-5">
+            <a href={urls.job(job.slug)} class="font-semibold hover:underline underline-offset-4">
+              {job.title}
+            </a>
+            <span class="text-muted-foreground ml-2 font-mono text-xs">
+              {job.bots.length} {job.bots.length === 1 ? 'candidate' : 'candidates'}
+            </span>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="mt-8 flex flex-wrap gap-2.5">
+      <a href={urls.jobs()} class={buttonVariants({ variant: 'secondary', size: 'sm' })}>
+        All jobs
+      </a>
+      <a href={urls.openJobs()} class={buttonVariants({ variant: 'secondary', size: 'sm' })}>
+        Open jobs
+      </a>
+      <a href={urls.submit()} class={buttonVariants({ variant: 'ghost', size: 'sm' })}>
+        Submit something
+      </a>
+    </div>
+  </section>
+</Base>

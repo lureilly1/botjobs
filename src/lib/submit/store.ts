@@ -14,15 +14,37 @@ import { randomUUID, createHash } from 'node:crypto';
 const DATA_DIR = process.env.DATA_DIR ?? 'data/private';
 const STORE = join(DATA_DIR, 'submissions.json');
 
-export type SubmissionStatus = 'queued' | 'drafting' | 'opened' | 'rejected' | 'failed';
+export type SubmissionStatus =
+  | 'queued'
+  | 'drafting'
+  /** Stored and waiting for a human. The normal end state without GitHub. */
+  | 'received'
+  | 'opened'
+  | 'rejected'
+  | 'failed';
 
 export interface Submission {
   id: string;
   status: SubmissionStatus;
   kind: 'bot' | 'job';
-  input: { url?: string; title?: string; note: string; submitter?: string };
+  input: {
+    url?: string;
+    /** Job submissions: what they want done, and the context around it. */
+    title?: string;
+    outcome?: string;
+    tried?: string;
+    /** The job page it was sent from, when it came from one. */
+    fromJob?: string;
+    note: string;
+    submitter?: string;
+  };
   /** Set once a pull request exists. */
   prUrl?: string;
+  /**
+   * A validated record we drafted but had nowhere to push. `pnpm queue --write`
+   * turns it into a file — the no-GitHub equivalent of opening a pull request.
+   */
+  draft?: { slug: string; record: Record<string, unknown> };
   /** Human-readable reason, shown to the submitter. Never a stack trace. */
   message?: string;
   createdAt: number;
@@ -134,6 +156,14 @@ export async function updateSubmission(
 export async function getSubmission(id: string): Promise<Submission | null> {
   const store = await load();
   return store.submissions[id] ?? null;
+}
+
+/** Everything waiting on a human, newest first. Read by `pnpm queue`. */
+export async function pendingSubmissions(): Promise<Submission[]> {
+  const store = await load();
+  return Object.values(store.submissions)
+    .filter((s) => s.status === 'received' || s.status === 'queued')
+    .sort((a, b) => b.createdAt - a.createdAt);
 }
 
 /** Has this share URL already been submitted recently, or already listed? */

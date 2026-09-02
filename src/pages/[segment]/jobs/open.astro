@@ -1,11 +1,12 @@
 ---
 import Base from '@/layouts/Base.astro';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls, issueUrl } from '@/config';
-import { getJobs } from '@/lib/data';
+import { PATH_SEGMENT, urls } from '@/config';
+import PostJobDialog from '@/components/PostJobDialog.astro';
+import SubmittedNotice from '@/components/SubmittedNotice.astro';
+import { getJobs, categoryLabel } from '@/lib/data';
 import JsonLd from '@/components/JsonLd.astro';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
-import { CATEGORIES } from '@/lib/records.js';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
@@ -41,6 +42,7 @@ const asOf = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'nume
         ]),
       ]}
     />
+    <SubmittedNotice />
     <p class="eyebrow text-muted-foreground">{open.length} open positions · {asOf}</p>
     <h1 class="mt-3 max-w-3xl text-[2.25rem] leading-[1.02] sm:text-5xl">
       Grok Bots that <span class="marker">don't exist</span> yet
@@ -55,6 +57,7 @@ const asOf = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'nume
       <a href={urls.submitBot()} class={buttonVariants({ variant: 'hivis', size: 'sm' })}>
         Built one? Put it forward
       </a>
+      <PostJobDialog label="Post a job we're missing" variant="secondary" />
       <a href="/methodology" class={buttonVariants({ variant: 'secondary', size: 'sm' })}>
         How we decide
       </a>
@@ -69,7 +72,7 @@ const asOf = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'nume
     {
       open.map((job) => (
         <article class="border-ink bg-card flex flex-col rounded-lg border-[1.5px] p-5">
-          <p class="eyebrow text-muted-foreground">{CATEGORIES[job.category] ?? job.category}</p>
+          <p class="eyebrow text-muted-foreground">{categoryLabel(job.category)}</p>
           <h2 class="mt-2 text-xl">
             <a href={urls.job(job.slug)} class="hover:text-primary">
               {job.title}
@@ -82,8 +85,7 @@ const asOf = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'nume
               Read the brief →
             </a>
             <a
-              href={issueUrl('bot', `[bot] fills ${job.slug}: `)}
-              rel="noopener"
+              href={`${urls.submitBot()}&job=${encodeURIComponent(job.slug)}`}
               class="text-muted-foreground hover:text-foreground text-sm"
             >
               I know one

@@ -46,9 +46,18 @@ contains the string `grok-bot`, so a product rename costs a constant and a redir
 
 ## Contributing
 
-Bots and jobs are JSON files in `data/`, added by PR. The
-[submit form](https://botjobs.dev/submit) drafts the entry and opens the PR for you — you
-never need to touch JSON. Direct PRs are always welcome too.
+Bots and jobs are JSON files in `data/`. **Submitting one needs no GitHub account and
+opens no pull request** — [the submit form](https://botjobs.dev/submit) takes a share link
+or a sentence, checks it, and queues it for a person. Direct PRs are welcome too, from
+anyone who would rather write the JSON themselves.
+
+Running the inbox:
+
+```sh
+pnpm queue           # everything waiting on a human
+pnpm queue --write   # turn drafted bot records into files in data/bots/
+pnpm validate        # then read the diff before committing
+```
 
 ## Conventions
 

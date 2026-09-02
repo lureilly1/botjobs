@@ -32,12 +32,15 @@ const clientIp = (request: Request) =>
  * Drafting takes ten to twenty seconds, which is far too long to hold a
  * request open, so the work runs after the response and the page polls GET
  * for the outcome.
+ *
+ * Nothing here requires a GitHub account from the submitter, and nothing
+ * requires GitHub credentials from us either. A pull request is the best
+ * ending, not the only one: with no token configured the submission is stored,
+ * a person reads it, and the submitter is told so honestly. Turning a missing
+ * environment variable into "submissions are closed" loses the submission and
+ * teaches the visitor not to come back.
  */
 export const POST: APIRoute = async ({ request }) => {
-  if (!submitConfigured()) {
-    return json({ error: 'Submissions are not enabled on this deployment.' }, 503);
-  }
-
   const raw = await request.text();
   if (raw.length > MAX_BODY) return json({ error: 'That is too long.' }, 413);
 
@@ -81,8 +84,22 @@ export const POST: APIRoute = async ({ request }) => {
       await updateSubmission(submission.id, { status: 'drafting' });
 
       const draft = await draftBotRecord(url, note);
-      if (!draft.ok) {
+
+      // A dead link, a non-bot, or one we already list. That is the submitter's
+      // to fix, so tell them. `needsWriting` is ours to fix, so we do not.
+      if (!draft.ok && !draft.needsWriting) {
         await updateSubmission(submission.id, { status: 'rejected', message: draft.reason });
+        return;
+      }
+
+      // The link checked out. With no fork token there is no pull request to
+      // open, so a stored submission is the finished state — and the draft, if
+      // we managed to write one, rides along for `pnpm queue --write`.
+      if (!submitConfigured()) {
+        await updateSubmission(submission.id, {
+          status: 'received',
+          draft: draft.ok ? { slug: draft.slug!, record: draft.record! } : undefined,
+        });
         return;
       }
 

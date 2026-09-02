@@ -3,7 +3,7 @@ import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
 import { PATH_SEGMENT, urls } from '@/config';
-import { getJobs, bestEvidence } from '@/lib/data';
+import { getJobs, bestEvidence, categoryLabel } from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
 import JsonLd from '@/components/JsonLd.astro';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
@@ -18,7 +18,7 @@ const openCount = jobs.filter((j) => j.status === 'open').length;
 const grouped = Object.keys(CATEGORIES)
   .map((key) => ({
     key,
-    label: CATEGORIES[key],
+    label: categoryLabel(key),
     jobs: jobs.filter((j) => j.category === key).sort((a, b) => a.title.localeCompare(b.title)),
   }))
   .filter((g) => g.jobs.length > 0);

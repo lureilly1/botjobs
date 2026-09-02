@@ -3,10 +3,11 @@ import Base from '@/layouts/Base.astro';
 import BotCard from '@/components/BotCard.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls, issueUrl } from '@/config';
-import { getJob, getJobs, botsForJob } from '@/lib/data';
-import { CATEGORIES } from '@/lib/records.js';
+import { PATH_SEGMENT, urls, REPO } from '@/config';
+import { getJob, getJobs, botsForJob, categoryLabel } from '@/lib/data';
 import JsonLd from '@/components/JsonLd.astro';
+import PostJobDialog from '@/components/PostJobDialog.astro';
+import SubmittedNotice from '@/components/SubmittedNotice.astro';
 import { breadcrumbs, jobPageNode, jobFaqNode } from '@/lib/seo';
 
 // The path segment is a constant, not a literal scattered through routes, so
@@ -34,7 +35,7 @@ const siblings = allJobs
   .slice(0, Math.max(0, 6 - job.relatedJobs.length));
 
 const isOpen = job.status === 'open';
-const categoryLabel = CATEGORIES[job.category] ?? job.category;
+const label = categoryLabel(job.category);
 
 const title = isOpen ? `${job.title}: no bot does this yet` : `Best Grok Bots for ${job.title}`;
 const description = isOpen
@@ -54,20 +55,24 @@ const description = isOpen
       jobFaqNode(job, bots.length),
       breadcrumbs([
         { name: 'Jobs', path: urls.jobs() },
-        { name: categoryLabel },
+        { name: label },
         { name: job.title, path: urls.job(job.slug) },
       ]),
     ]}
   />
   <article class="mx-auto max-w-3xl px-4 pt-10 pb-16 sm:px-6 sm:pt-14">
+    {/* Posting a job from this page redirects back to it, so the confirmation
+        has to live here too — otherwise the submission looks like it vanished. */}
+    <SubmittedNotice />
+
     <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
       <a href={urls.jobs()} class="hover:text-foreground">Jobs</a>
       <span class="mx-1.5" aria-hidden="true">/</span>
-      <span class="text-foreground">{categoryLabel}</span>
+      <span class="text-foreground">{label}</span>
     </nav>
 
     <div class="flex flex-wrap items-center gap-2.5">
-      <p class="eyebrow text-muted-foreground">{categoryLabel}</p>
+      <p class="eyebrow text-muted-foreground">{label}</p>
       {isOpen && <Badge variant="open">Open position</Badge>}
     </div>
 
@@ -87,7 +92,7 @@ const description = isOpen
            pattern. If a draft has not been through a human, the page says so. */
         <p class="border-border text-muted-foreground mt-5 rounded-md border border-dashed px-3.5 py-2.5 text-xs">
           This introduction was drafted automatically and has not been edited by a person yet.{' '}
-          <a href={issueUrl('job', `[job] improve intro: ${job.slug}`)} rel="noopener" class="underline underline-offset-2">
+          <a href={`${REPO}/edit/main/data/jobs/${job.slug}.json`} rel="noopener" class="underline underline-offset-2">
             Improve it →
           </a>
         </p>
@@ -123,8 +128,7 @@ const description = isOpen
           </p>
           <div class="mt-5 flex flex-wrap gap-2.5">
             <a
-              href={issueUrl('bot', `[bot] fills ${job.slug}: `)}
-              rel="noopener"
+              href={`${urls.submitBot()}&job=${encodeURIComponent(job.slug)}`}
               class={buttonVariants({ variant: 'hivis', size: 'sm' })}
             >
               I know a bot that does this
@@ -145,13 +149,19 @@ const description = isOpen
             Candidates are put forward by people who have actually used them. If something is
             missing, or a listing here is wrong, tell us and we will fix it.
           </p>
-          <a
-            href={issueUrl('bot', `[bot] fits ${job.slug}: `)}
-            rel="noopener"
-            class={buttonVariants({ variant: 'secondary', size: 'sm', className: 'mt-4' })}
-          >
-            Put a bot forward
-          </a>
+          <div class="mt-4 flex flex-wrap gap-2.5">
+            <a
+              href={`${urls.submitBot()}&job=${encodeURIComponent(job.slug)}`}
+              class={buttonVariants({ variant: 'secondary', size: 'sm' })}
+            >
+              Put a bot forward
+            </a>
+            <PostJobDialog
+              label="Post a different job"
+              variant="ghost"
+              fromJob={job.slug}
+            />
+          </div>
         </section>
       )
     }
@@ -177,7 +187,7 @@ const description = isOpen
       related.length > 0 && (
         <section class="mt-10">
           <h2 class="eyebrow text-muted-foreground">Related jobs</h2>
-          <p class="sr-only">Other jobs in {categoryLabel}</p>
+          <p class="sr-only">Other jobs in {label}</p>
           <ul class="mt-2.5 flex flex-wrap gap-2">
             {[...related, ...siblings].map((r) => (
               <li>
@@ -203,7 +213,7 @@ const description = isOpen
             href={urls.category(job.category)}
             class="border-ink bg-hi-vis/25 hover:bg-hi-vis inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
           >
-            All {categoryLabel} jobs
+            All {label} jobs
           </a>
         </li>
       </ul>

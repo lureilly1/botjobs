@@ -53,7 +53,6 @@ export async function openRecordPr(opts: {
 }): Promise<string> {
   const fork = process.env.SUBMIT_FORK!;
   const upstream = process.env.SUBMIT_UPSTREAM!;
-  const [upstreamOwner] = upstream.split('/');
 
   // Branch from upstream's current main so the PR is a clean single-file add.
   const base = await gh<{ object: { sha: string } }>(`/repos/${upstream}/git/ref/heads/main`);

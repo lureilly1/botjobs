@@ -3,7 +3,9 @@ import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls, issueUrl } from '@/config';
+import { PATH_SEGMENT, urls } from '@/config';
+import PostJobDialog from '@/components/PostJobDialog.astro';
+import SubmittedNotice from '@/components/SubmittedNotice.astro';
 import { search } from '@/lib/search';
 
 if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
@@ -25,6 +27,7 @@ const nothing = Boolean(query) && !topJobs.length && !topBots.length;
   noindex
 >
   <section class="mx-auto max-w-3xl px-4 pt-12 pb-10 sm:px-6 sm:pt-16">
+    <SubmittedNotice />
     <h1 class="text-[2rem] leading-[1.05] sm:text-[2.5rem]">
       What do you want <span class="marker">done</span>?
     </h1>
@@ -63,13 +66,9 @@ const nothing = Boolean(query) && !topJobs.length && !topBots.length;
             it as a job — an unfilled vacancy is still worth listing, and it is how creators find
             out somebody wants it.
           </p>
-          <a
-            href={issueUrl('job', `[job] ${query}`)}
-            rel="noopener"
-            class={buttonVariants({ variant: 'hivis', size: 'sm', className: 'mt-5' })}
-          >
-            Post “{query}” as a job
-          </a>
+          <div class="mt-5">
+            <PostJobDialog label={`Post “${query}” as a job`} variant="hivis" suggested={query} />
+          </div>
         </div>
       </section>
     )

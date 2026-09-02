@@ -11,8 +11,19 @@ import { Input } from '@/components/ui/input';
  * `fallbackHref` is the GitHub issue route. If this island fails to hydrate —
  * or JavaScript is off entirely — the surrounding markup still offers a working
  * way in, so nobody is stranded.
+ *
+ * Two happy endings: `opened` when a pull request exists, `received` when the
+ * link checked out but the deployment has no fork token. Both are a success as
+ * far as the submitter is concerned, and neither asks them for a GitHub account.
  */
-type Status = 'idle' | 'sending' | 'working' | 'opened' | 'rejected' | 'failed';
+type Status =
+  | 'idle'
+  | 'sending'
+  | 'working'
+  | 'opened'
+  | 'received'
+  | 'rejected'
+  | 'failed';
 
 interface Props {
   fallbackHref: string;
@@ -33,6 +44,10 @@ export default function SubmitForm({ fallbackHref }: Props) {
         if (data.status === 'opened') {
           setPrUrl(data.prUrl);
           setStatus('opened');
+          return;
+        }
+        if (data.status === 'received') {
+          setStatus('received');
           return;
         }
         if (data.status === 'rejected' || data.status === 'failed') {
@@ -93,6 +108,19 @@ export default function SubmitForm({ fallbackHref }: Props) {
             See the pull request
           </a>
         )}
+      </div>
+    );
+  }
+
+  if (status === 'received') {
+    return (
+      <div className="border-ink bg-hi-vis/15 rounded-lg border-[1.5px] p-5">
+        <h3 className="text-lg font-bold">Got it — the link checks out</h3>
+        <p className="text-muted-foreground mt-2 text-sm/relaxed">
+          We opened the official listing, confirmed it is a real bot and that we are not already
+          carrying it. A person writes it up and it goes live from there — usually the same day. No
+          account needed, and nothing for you to chase.
+        </p>
       </div>
     );
   }

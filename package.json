@@ -26,7 +26,8 @@
     "check:seo": "node scripts/check-seo.mjs",
     "og": "node scripts/generate-og.mjs",
     "integrations": "node --env-file-if-exists=.env scripts/detect-integrations.mjs",
-    "stats": "node scripts/stats.mjs"
+    "stats": "node scripts/stats.mjs",
+    "queue": "node scripts/queue.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.123.0",
@@ -45,9 +46,11 @@
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
+    "@astrojs/check": "^0.9.10",
     "@fontsource/archivo": "^5.3.0",
     "@fontsource/jetbrains-mono": "^5.3.0",
     "@resvg/resvg-js": "^2.6.2",
+    "@types/node": "^26.4.1",
     "@types/react": "^19.2.2",
     "@types/react-dom": "^19.2.1",
     "satori": "^0.33.4",

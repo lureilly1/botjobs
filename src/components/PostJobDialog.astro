@@ -1,0 +1,147 @@
+---
+import { buttonVariants } from '@/components/ui/button';
+
+interface Props {
+  /** Prefills the field, so a job page CTA arrives with context. */
+  suggested?: string;
+  /** The job page this was opened from, recorded with the submission. */
+  fromJob?: string;
+  label?: string;
+  variant?: 'hivis' | 'secondary' | 'default' | 'ghost' | 'outline';
+}
+
+const {
+  suggested = '',
+  fromJob = '',
+  label = 'Post a job',
+  variant = 'secondary',
+} = Astro.props;
+
+const id = `post-job-${Math.random().toString(36).slice(2, 8)}`;
+---
+
+<!--
+  A native <dialog> and a plain form POST.
+
+  A React modal would cost ~40KB of framework on the job pages — the pages that
+  actually need to rank — to collect four text fields. This costs the twenty
+  lines below, submits without JavaScript running at all if the browser opens
+  the dialog, and degrades to a link to /submit if <dialog> is unsupported.
+-->
+<button
+  type="button"
+  data-open={id}
+  class={buttonVariants({ variant, size: 'sm' })}
+  hidden
+>
+  {label}
+</button>
+
+<!-- Shown when the script has not run, so the action is never a dead end. -->
+<a href={`/submit?job=${encodeURIComponent(suggested)}#job`} data-fallback={id} class={buttonVariants({ variant, size: 'sm' })}>
+  {label}
+</a>
+
+<!--
+  m-auto is load-bearing: the browser centres a modal dialog with `margin: auto`,
+  and Tailwind's preflight resets margin to 0 on every element. Without it the
+  dialog pins itself to the top-left corner.
+-->
+<dialog
+  id={id}
+  class="text-foreground m-auto max-h-[calc(100dvh-2rem)] w-[min(34rem,calc(100vw-2rem))] overflow-y-auto rounded-lg border-[1.5px] border-ink bg-card p-0 backdrop:bg-ink/40"
+>
+  <form method="POST" action="/api/submit-job" class="p-6">
+    <input type="hidden" name="return" value={Astro.url.pathname} />
+    <input type="hidden" name="fromJob" value={fromJob} />
+
+    <p class="eyebrow text-muted-foreground">Post a vacancy</p>
+    <h2 class="mt-2 text-2xl">What do you want a bot to do?</h2>
+    <p class="prose-editorial mt-2 text-sm">
+      If nobody has built it, the job still gets listed as open — which is how creators find out
+      somebody wants it.
+    </p>
+
+    <label for={`${id}-title`} class="mt-5 block text-sm font-medium">The job</label>
+    <input
+      id={`${id}-title`}
+      name="title"
+      required
+      minlength="8"
+      maxlength="120"
+      value={suggested}
+      placeholder="Watch my competitors' pricing pages and tell me when one changes"
+      class="border-ink bg-background focus-visible:ring-ink mt-1.5 h-11 w-full rounded-md border-[1.5px] px-3 text-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+    />
+
+    <label for={`${id}-outcome`} class="mt-4 block text-sm font-medium">
+      What would a good result look like?
+    </label>
+    <textarea
+      id={`${id}-outcome`}
+      name="outcome"
+      rows="2"
+      maxlength="500"
+      placeholder="A message only when something actually changed, not a daily digest."
+      class="border-ink bg-background focus-visible:ring-ink mt-1.5 w-full rounded-md border-[1.5px] px-3 py-2 text-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+    ></textarea>
+
+    <label for={`${id}-tried`} class="mt-4 block text-sm font-medium">
+      Tried anything already? <span class="text-muted-foreground font-normal">(optional)</span>
+    </label>
+    <textarea
+      id={`${id}-tried`}
+      name="tried"
+      rows="2"
+      maxlength="500"
+      placeholder="A general browsing bot, but it summarised the page instead of noticing the diff."
+      class="border-ink bg-background focus-visible:ring-ink mt-1.5 w-full rounded-md border-[1.5px] px-3 py-2 text-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+    ></textarea>
+
+    <label for={`${id}-submitter`} class="mt-4 block text-sm font-medium">
+      Your handle <span class="text-muted-foreground font-normal">(optional)</span>
+    </label>
+    <input
+      id={`${id}-submitter`}
+      name="submitter"
+      maxlength="60"
+      placeholder="@you"
+      class="border-ink bg-background focus-visible:ring-ink mt-1.5 h-11 w-full rounded-md border-[1.5px] px-3 text-sm focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+    />
+
+    <div class="absolute left-[-9999px]" aria-hidden="true">
+      <label for={`${id}-website`}>Website</label>
+      <input id={`${id}-website`} name="website" type="text" tabindex="-1" autocomplete="off" />
+    </div>
+
+    <div class="mt-6 flex items-center gap-2.5">
+      <button type="submit" class={buttonVariants({ variant: 'hivis' })}>Post the job</button>
+      <button type="button" data-close={id} class={buttonVariants({ variant: 'ghost', size: 'sm' })}>
+        Cancel
+      </button>
+    </div>
+    <p class="text-muted-foreground mt-3 text-xs">
+      No account needed. Goes to a person, not a queue that nobody reads.
+    </p>
+  </form>
+</dialog>
+
+<script is:inline define:vars={{ id }}>
+  (() => {
+    const dialog = document.getElementById(id);
+    if (!dialog || typeof dialog.showModal !== 'function') return;
+
+    // The browser supports <dialog>, so swap the fallback link for the button.
+    const open = document.querySelector(`[data-open="${id}"]`);
+    const fallback = document.querySelector(`[data-fallback="${id}"]`);
+    if (open) open.hidden = false;
+    if (fallback) fallback.remove();
+
+    open?.addEventListener('click', () => dialog.showModal());
+    dialog.querySelector(`[data-close="${id}"]`)?.addEventListener('click', () => dialog.close());
+    // Clicking the backdrop closes it; clicking the form must not.
+    dialog.addEventListener('click', (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+  })();
+</script>

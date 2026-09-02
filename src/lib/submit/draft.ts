@@ -49,6 +49,13 @@ export interface DraftResult {
   record?: Record<string, unknown>;
   slug?: string;
   reason?: string;
+  /**
+   * The link resolved, is a real bot, and is not already listed — everything a
+   * submission actually needs — but no API key is configured to write the
+   * listing. That is a gap in the deployment, not a bad submission, so the
+   * caller keeps it rather than telling the submitter they got it wrong.
+   */
+  needsWriting?: boolean;
 }
 
 function slugify(value: string): string {
@@ -116,7 +123,11 @@ export async function draftBotRecord(shareUrl: string, note: string): Promise<Dr
   /* ----------------------------------------------------------- draft with AI */
 
   if (!process.env.ANTHROPIC_API_KEY) {
-    return { ok: false, reason: 'Drafting is not configured on this deployment.' };
+    return {
+      ok: false,
+      needsWriting: true,
+      reason: 'Drafting is not configured on this deployment.',
+    };
   }
 
   const client = new Anthropic({
