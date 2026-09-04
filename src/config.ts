@@ -53,10 +53,16 @@ export const SITE = {
  * is a *section within* a job page, and /grok-bot/ is a page in its own right
  * rather than a prefix that everything else hangs off.
  *
- * The line to hold when adding something new: if the query it targets contains
- * a framework name, it belongs under the hub. If it does not, it lives at the
- * root. Integration pages target "grok bot for gmail" and so are the one
- * current inhabitant of the first case.
+ * The line to hold when adding something new: a page belongs under the hub only
+ * if it stops making sense once the framework does. If the question it answers
+ * survives a change of product, it lives at the root.
+ *
+ * Nothing currently sits under the hub but the hub. Integration pages looked
+ * like they belonged there — they target "grok bot for gmail" — but the query
+ * naming the product is not the test, because "bots that connect to Gmail" is
+ * a facet of the candidate pool and stays a real question whoever builds them.
+ * Be suspicious of the next page that seems to qualify: an empty category is
+ * the expected state here, not a gap to fill.
  *
  * The reason is platform risk, and it is the whole architecture in one
  * sentence: xAI shipping an official bot directory would end a Grok-only site
