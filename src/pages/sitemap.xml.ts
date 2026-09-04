@@ -27,6 +27,10 @@ export const GET: APIRoute = async () => {
   const entries: Array<{ path: string; lastmod?: string; priority: string }> = [
     { path: urls.home(), priority: '1.0' },
     { path: urls.jobs(), priority: '0.9' },
+    // The framework hub. Self-canonical and indexed — it is a page targeting
+    // its own terms, not the prefix it used to be. Old framework-first URLs are
+    // 301s and deliberately absent: a sitemap carries destinations only.
+    { path: urls.framework(), priority: '0.8' },
     { path: urls.openJobs(), priority: '0.8' },
     { path: urls.bots(), priority: '0.6' },
     { path: urls.submit(), priority: '0.5' },

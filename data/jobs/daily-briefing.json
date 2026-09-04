@@ -5,7 +5,7 @@
   "searchIntent": "grok bot daily briefing",
   "intro": "A briefing bot runs on a schedule, gathers from a fixed set of sources, and puts one thing in front of you at a set time. It is the most reliable category on this site because the job is narrow and the failure mode is obvious — if the briefing is wrong or late you notice immediately, which is not true of most agent work. The listings differ mainly in what they read: some pull only your own calendar and inbox, others sweep news, X, repositories and dashboards. More sources is not better. The briefings people keep are the ones that leave things out, and a bot that summarises fourteen feeds every morning gets skimmed and then ignored within a fortnight. Look for one where you can set what counts as worth reporting, and check whether it stays quiet on a slow day — the good ones do.",
   "relatedJobs": [
-    "chief-of-staff",
+    "ai-chief-of-staff",
     "ai-news-monitoring",
     "inbox-management"
   ],

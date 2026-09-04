@@ -7,6 +7,12 @@ The primary object is **the job, not the bot**. You arrive with an intent — *m
 competitors* — and the site answers which Grok Bots do that, what they need, and where
 they came from. A job nobody has built a bot for yet stays up as an **open job**.
 
+That is the URL structure too. Jobs are the spine and live at `/jobs/<role-noun>` with no
+framework in the path; `/grok-bot` is a page — the framework slice of the same board —
+rather than a prefix everything hangs off. Moving any URL means adding a 301 to
+[`src/lib/redirects.ts`](src/lib/redirects.ts) in the same change; the rules that map has
+to satisfy are written at the top of it.
+
 Not affiliated with or endorsed by xAI. Grok and Grok Bot are trademarks of xAI.
 
 ## Stack
@@ -111,7 +117,8 @@ directory changes character without touching a component:
 ```
 
 Route naming is centralised in [`src/config.ts`](src/config.ts). Nothing outside that file
-contains the string `grok-bot`, so a product rename costs a constant and a redirect map.
+and [`src/lib/redirects.ts`](src/lib/redirects.ts) contains the string `grok-bot`, so a
+product rename costs a constant and a redirect map.
 
 ## Contributing
 

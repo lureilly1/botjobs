@@ -3,13 +3,12 @@ import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls } from '@/config';
+import { urls } from '@/config';
 import PostJobDialog from '@/components/PostJobDialog.astro';
 import SubmittedNotice from '@/components/SubmittedNotice.astro';
 import { search } from '@/lib/search';
 import { getJobs, getBots, jobsForBot, type Job, type Bot } from '@/lib/data';
 
-if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const query = (Astro.url.searchParams.get('q') ?? '').slice(0, 120);
 

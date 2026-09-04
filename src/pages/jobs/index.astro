@@ -2,13 +2,12 @@
 import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
-import { PATH_SEGMENT, urls } from '@/config';
+import { urls } from '@/config';
 import { getJobs, bestEvidence, categoryLabel } from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
 import JsonLd from '@/components/JsonLd.astro';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
 
-if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const jobs = await getJobs();
 const openCount = jobs.filter((j) => j.status === 'open').length;
@@ -26,7 +25,7 @@ const grouped = Object.keys(CATEGORIES)
 
 <Base
   title="Every job"
-  description="Every job people want a Grok Bot to do, with the bots that can do it."
+  description="Every job people want an agent to do, with the candidates worth putting forward for each — and the ones nobody has built for yet."
   canonical={urls.jobs()}
 >
   <JsonLd
@@ -34,7 +33,7 @@ const grouped = Object.keys(CATEGORIES)
       collectionNode({
         name: 'Every job',
         path: urls.jobs(),
-        description: 'Every job people want a Grok Bot to do.',
+        description: 'Every job people want an agent to do.',
         items: jobs.map((j) => ({ name: j.title, path: urls.job(j.slug) })),
       }),
       breadcrumbs([{ name: 'Jobs', path: urls.jobs() }]),

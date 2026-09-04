@@ -6,7 +6,7 @@
   "intro": "Expenses are a good fit for a bot for an unglamorous reason: the work is monthly, it is entirely rule-following, and nobody wants to do it. The listings here handle receipt collection, matching charges against invoices, chasing the subscriptions nobody remembers approving, and getting the month closed before the deadline. Several are explicitly built around a cutoff date, which is the right instinct — the value is in the thing being finished on time rather than done cleverly. Two cautions. This is financial data, so read what a template is asking for access to and be specific about the difference between reading a statement and acting on an account. And expect to correct it for the first couple of months: categorisation rules are personal, and a bot that guesses well on the common cases will still get your particular oddities wrong until told.",
   "relatedJobs": [
     "market-tracking",
-    "chief-of-staff"
+    "ai-chief-of-staff"
   ],
   "integrations": [
     "stripe"

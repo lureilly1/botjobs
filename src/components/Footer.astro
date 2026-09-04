@@ -1,5 +1,5 @@
 ---
-import { SITE, urls, REPO } from '@/config';
+import { SITE, FRAMEWORK, urls, REPO } from '@/config';
 
 const year = new Date().getFullYear();
 ---
@@ -20,6 +20,9 @@ const year = new Date().getFullYear();
           <li><a href={urls.jobs()} class="hover:text-foreground">All jobs</a></li>
           <li><a href={urls.openJobs()} class="hover:text-foreground">Open jobs</a></li>
           <li><a href={urls.bots()} class="hover:text-foreground">All bots</a></li>
+          {/* The hub is in the sitemap, so it needs an internal link that is not
+              the sitemap. A page nothing points at is a page nothing crawls. */}
+          <li><a href={urls.framework()} class="hover:text-foreground">{FRAMEWORK}</a></li>
         </ul>
         <ul class="space-y-2">
           <li><a href={urls.submitBot()} class="hover:text-foreground">Submit a bot</a></li>
