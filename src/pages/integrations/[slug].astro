@@ -3,12 +3,10 @@ import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import JsonLd from '@/components/JsonLd.astro';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, FRAMEWORK, urls } from '@/config';
+import { urls } from '@/config';
 import { getBots, jobsForBot } from '@/lib/data';
 import { INTEGRATIONS, INTEGRATION_MIN_BOTS, INTEGRATION_MIN_PLACED } from '@/lib/records.js';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
-
-if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const slug = Astro.params.slug!;
 const meta = (INTEGRATIONS as Record<string, { label: string; intro: string }>)[slug];
@@ -51,9 +49,11 @@ const ordered = [...placed, ...matching.filter((b) => !placed.includes(b))];
         items: ordered.map((b) => ({ name: b.name, path: urls.bot(b.slug) })),
       }),
       breadcrumbs([
-        // Under the framework hub, because that is what these pages are: the
-        // query they target names the product, so the trail should too.
-        { name: FRAMEWORK, path: urls.framework() },
+        // Under Bots, matching the visible trail above and the URL. These pages
+        // are a facet of the candidate pool — "bots that connect to Gmail" — and
+        // that is true whoever builds the bots, which is why they no longer sit
+        // under the framework hub.
+        { name: 'Bots', path: urls.bots() },
         { name: meta.label, path: urls.integration(slug) },
       ]),
     ]}

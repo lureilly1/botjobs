@@ -16,14 +16,14 @@ const integrations = liveIntegrations();
 ---
 
 <Base
-  title="Every bot"
-  description="Every Grok Bot we have on file, reconciled against the official x.ai listing."
+  title="Every Grok Bot on file"
+  description={`All ${bots.length} Grok Bots on file, each reconciled against its official x.ai listing. ${placed.length} are put forward for a job; the rest are on file but not yet placed.`}
   canonical={urls.bots()}
 >
   <section class="mx-auto max-w-6xl px-4 pt-12 pb-8 sm:px-6 sm:pt-16">
     <p class="eyebrow text-muted-foreground">The candidate pool</p>
     <h1 class="mt-3 text-[2.25rem] leading-[1.02] sm:text-5xl">
-      Every bot on <span class="marker">file</span>
+      Every Grok Bot on <span class="marker">file</span>
     </h1>
     <p class="prose-editorial mt-4">
       {bots.length} Grok Bots gathered from the public catalogues and reconciled against the

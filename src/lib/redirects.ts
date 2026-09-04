@@ -52,6 +52,7 @@ const MOVED_SECTIONS: Array<[string, string]> = [
   ['/grok-bot/jobs', '/jobs'],
   ['/grok-bot/bots', '/bots'],
   ['/grok-bot/categories', '/categories'],
+  ['/grok-bot/integrations', '/integrations'],
   ['/grok-bot/search', '/search'],
 ];
 

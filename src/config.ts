@@ -76,8 +76,13 @@ export const urls = {
   category: (slug: string) => `/categories/${slug}`,
   /** The framework hub. A page, not a prefix — it targets its own terms. */
   framework: () => `/${PATH_SEGMENT}`,
-  integration: (slug: string) => `/${PATH_SEGMENT}/integrations/${slug}`,
-  guide: (slug: string) => `/${PATH_SEGMENT}/guides/${slug}`,
+  /**
+   * A facet of the candidate pool, not of the framework. "Bots that connect to
+   * Gmail" stays a real question whoever builds the bots, so it lives at the
+   * root for the same reason /jobs and /categories do.
+   */
+  integration: (slug: string) => `/integrations/${slug}`,
+  guide: (slug: string) => `/guides/${slug}`,
   search: (q?: string) => `/search${q ? `?q=${encodeURIComponent(q)}` : ''}`,
   submit: () => '/submit',
   // Two sides of the same board: bots are the candidates, jobs are the

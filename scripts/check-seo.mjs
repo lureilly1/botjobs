@@ -120,6 +120,7 @@ try {
     ['/grok-bot/bots/inbox-zero', '/bots/inbox-zero'],
     ['/grok-bot/bots', '/bots'],
     ['/grok-bot/categories/sales', '/categories/sales'],
+    ['/grok-bot/integrations/gmail', '/integrations/gmail'],
     // The rename reached on its own, for a link written between the two states.
     ['/jobs/chief-of-staff', '/jobs/ai-chief-of-staff'],
   ];
@@ -156,9 +157,12 @@ try {
     fail('/grok-bot does not canonicalise to itself');
   }
 
-  // Old and new both serving 200 splits whatever signal exists.
-  if (paths.some((p) => p.startsWith('/grok-bot/jobs') || p.startsWith('/grok-bot/bots'))) {
-    fail('sitemap still lists a framework-first job or bot URL');
+  // Old and new both serving 200 splits whatever signal exists. The bare hub is
+  // the only thing left under the segment, so anything with a path beneath it is
+  // a section that failed to move.
+  const stale = paths.filter((p) => p.startsWith('/grok-bot/'));
+  if (stale.length > 0) {
+    fail(`sitemap still lists framework-first URLs: ${stale.join(', ')}`);
   }
 
   /* ---------------------------------------------------------------- robots */
