@@ -6,9 +6,17 @@
  * progress and reporting suggests brand consolidation), so a rename must cost
  * a config change and a redirect map — not 200 hand-edited routes.
  *
- * Nothing outside this file should ever contain the string 'grok-bot'.
+ * Nothing outside this file and src/lib/redirects.ts should ever contain the
+ * string 'grok-bot'. The redirect map is the one exception: it has to name the
+ * old paths literally, because their whole job is to keep serving after the
+ * constant changes.
+ *
+ * It is no longer a path prefix. See below.
  */
 export const PATH_SEGMENT = 'grok-bot';
+
+/** Display name for the framework. Used wherever the hub speaks about itself. */
+export const FRAMEWORK = 'Grok Bot';
 
 export const SITE = {
   name: 'Bot Jobs',
@@ -35,18 +43,42 @@ export const SITE = {
  * have not run.
  */
 
-/** Every internal URL is built here. */
+/**
+ * Every internal URL is built here.
+ *
+ * JOB FIRST — read this before adding a route.
+ *
+ * The job is the primary object, so the canonical URL for one carries no
+ * framework name: /jobs/ai-chief-of-staff, never /grok-bot/jobs/…. A framework
+ * is a *section within* a job page, and /grok-bot/ is a page in its own right
+ * rather than a prefix that everything else hangs off.
+ *
+ * The line to hold when adding something new: if the query it targets contains
+ * a framework name, it belongs under the hub. If it does not, it lives at the
+ * root. Integration pages target "grok bot for gmail" and so are the one
+ * current inhabitant of the first case.
+ *
+ * The reason is platform risk, and it is the whole architecture in one
+ * sentence: xAI shipping an official bot directory would end a Grok-only site
+ * overnight and barely dent a job-first one, because a vendor will never
+ * catalogue its competitors' agents.
+ *
+ * Moving anything here means adding a 301 to src/lib/redirects.ts in the same
+ * change. Old URLs are never deleted and never 404.
+ */
 export const urls = {
   home: () => '/',
-  jobs: () => `/${PATH_SEGMENT}/jobs`,
-  job: (slug: string) => `/${PATH_SEGMENT}/jobs/${slug}`,
-  openJobs: () => `/${PATH_SEGMENT}/jobs/open`,
-  bots: () => `/${PATH_SEGMENT}/bots`,
-  bot: (slug: string) => `/${PATH_SEGMENT}/bots/${slug}`,
-  category: (slug: string) => `/${PATH_SEGMENT}/categories/${slug}`,
+  jobs: () => '/jobs',
+  job: (slug: string) => `/jobs/${slug}`,
+  openJobs: () => '/jobs/open',
+  bots: () => '/bots',
+  bot: (slug: string) => `/bots/${slug}`,
+  category: (slug: string) => `/categories/${slug}`,
+  /** The framework hub. A page, not a prefix — it targets its own terms. */
+  framework: () => `/${PATH_SEGMENT}`,
   integration: (slug: string) => `/${PATH_SEGMENT}/integrations/${slug}`,
   guide: (slug: string) => `/${PATH_SEGMENT}/guides/${slug}`,
-  search: (q?: string) => `/${PATH_SEGMENT}/search${q ? `?q=${encodeURIComponent(q)}` : ''}`,
+  search: (q?: string) => `/search${q ? `?q=${encodeURIComponent(q)}` : ''}`,
   submit: () => '/submit',
   // Two sides of the same board: bots are the candidates, jobs are the
   // vacancies. Both land on /submit; the anchors keep them as distinct CTAs

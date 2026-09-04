@@ -26,7 +26,19 @@ export interface BotMapping {
 
 export interface Job {
   slug: string;
+  /**
+   * The role noun. This is what the page is titled and what it ranks for —
+   * "AI chief of staff", not "Daily Briefing". Role nouns get searched and task
+   * descriptions do not: people look for the job a human holds, not the
+   * workflow.
+   */
   title: string;
+  /**
+   * The task phrasing the job used to be titled with, kept as an H2 on the page
+   * so a rename covers both forms rather than trading one for the other.
+   * Absent on jobs that have not been renamed yet.
+   */
+  taskTitle?: string;
   category: string;
   searchIntent: string;
   intro: string;

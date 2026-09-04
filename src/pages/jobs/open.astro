@@ -1,14 +1,13 @@
 ---
 import Base from '@/layouts/Base.astro';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls } from '@/config';
+import { urls } from '@/config';
 import PostJobDialog from '@/components/PostJobDialog.astro';
 import SubmittedNotice from '@/components/SubmittedNotice.astro';
 import { getJobs, categoryLabel } from '@/lib/data';
 import JsonLd from '@/components/JsonLd.astro';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
 
-if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 // The linkable asset. Every other directory publishes a census of what exists;
 // this is a list of what does not — which is the more useful document if you

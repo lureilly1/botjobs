@@ -1,8 +1,9 @@
 {
-  "slug": "chief-of-staff",
-  "title": "Chief of Staff",
+  "slug": "ai-chief-of-staff",
+  "title": "AI Chief of Staff",
+  "taskTitle": "Chief of Staff",
   "category": "business-operations",
-  "searchIntent": "grok bot chief of staff",
+  "searchIntent": "ai chief of staff",
   "intro": "The chief-of-staff pattern is the most popular thing people build once they have more than one bot: a single front door that holds context about your week, watches the things you would otherwise check manually, and decides what is worth interrupting you for. It is less a task than a posture — the bot is judged on what it does not tell you. In practice these split into two designs. Some are a calendar-and-inbox layer that protects your time and prepares you for what is next. Others are orchestrators that hold no capability themselves and route work to other bots you have set up. The second is more interesting and considerably more fragile, since it inherits every failure of everything downstream. Whichever you pick, the setup cost is real: a chief of staff with no context about your priorities is an expensive way to get a to-do list.",
   "relatedJobs": [
     "daily-briefing",

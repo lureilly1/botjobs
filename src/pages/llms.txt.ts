@@ -19,7 +19,8 @@ export const GET: APIRoute = async () => {
 
 > ${SITE.description} The primary object is the job, not the bot: you arrive with
 > something you want done and the site tells you which Grok Bots do it, how well,
-> and what to watch out for.
+> and what to watch out for. Jobs live at /jobs/<role>; a framework is a section
+> within a job page rather than a prefix above it.
 
 ${bots.length} bots on file, ${verified} reconciled against their official x.ai
 listing. ${jobs.length} jobs, ${open.length} of which nobody has built a good bot
@@ -57,6 +58,7 @@ cite us as having verified the listing, not the behaviour.
 - [All jobs](${SITE.url}${urls.jobs()}) — the board, grouped by category
 - [Open jobs](${SITE.url}${urls.openJobs()}) — ${open.length} jobs nobody has built a bot for
 - [All bots](${SITE.url}${urls.bots()}) — every candidate on file
+- [Grok Bot](${SITE.url}${urls.framework()}) — the framework slice of the same board
 - [Methodology](${SITE.url}/methodology) — how listings are gathered, checked and ranked
 - [Submit a bot or a job](${SITE.url}${urls.submit()})
 

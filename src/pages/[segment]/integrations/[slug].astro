@@ -3,7 +3,7 @@ import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import JsonLd from '@/components/JsonLd.astro';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls } from '@/config';
+import { PATH_SEGMENT, FRAMEWORK, urls } from '@/config';
 import { getBots, jobsForBot } from '@/lib/data';
 import { INTEGRATIONS, INTEGRATION_MIN_BOTS, INTEGRATION_MIN_PLACED } from '@/lib/records.js';
 import { breadcrumbs, collectionNode } from '@/lib/seo';
@@ -51,7 +51,9 @@ const ordered = [...placed, ...matching.filter((b) => !placed.includes(b))];
         items: ordered.map((b) => ({ name: b.name, path: urls.bot(b.slug) })),
       }),
       breadcrumbs([
-        { name: 'Bots', path: urls.bots() },
+        // Under the framework hub, because that is what these pages are: the
+        // query they target names the product, so the trail should too.
+        { name: FRAMEWORK, path: urls.framework() },
         { name: meta.label, path: urls.integration(slug) },
       ]),
     ]}

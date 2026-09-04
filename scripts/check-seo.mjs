@@ -79,10 +79,12 @@ try {
   // an internal fit score rendered as a rating would be an invented one.
   const sampled = [
     '/',
-    '/grok-bot/jobs',
-    '/grok-bot/jobs/inbox-management',
-    '/grok-bot/bots',
-    '/grok-bot/bots/inbox-zero',
+    '/jobs',
+    '/jobs/inbox-management',
+    '/jobs/ai-chief-of-staff',
+    '/grok-bot',
+    '/bots',
+    '/bots/inbox-zero',
     '/submit',
   ];
   for (const path of sampled) {
@@ -97,12 +99,67 @@ try {
 
   /* ------------------------------------------------ facets stay unindexed */
 
-  const facet = await get('/grok-bot/search?q=inbox');
+  const facet = await get('/search?q=inbox');
   if (facet.status === 200 && !/name=["']robots["'][^>]*noindex/i.test(facet.body)) {
     fail('search results are indexable — faceted URLs must be noindex, follow');
   }
   if (paths.some((p) => p.includes('/search'))) fail('sitemap contains a search URL');
   if (paths.some((p) => p.startsWith('/report'))) fail('sitemap contains /report');
+
+  /* ------------------------------------------------ the job-first migration */
+
+  // The four rules from the plan, as assertions. Prose rules decay and a
+  // migration is exactly where that costs you the crawl history you were trying
+  // to keep. See src/lib/redirects.ts.
+  const moves = [
+    // [old path, the ONE hop it must make]
+    ['/grok-bot/jobs/chief-of-staff', '/jobs/ai-chief-of-staff'],
+    ['/grok-bot/jobs/inbox-management', '/jobs/inbox-management'],
+    ['/grok-bot/jobs/open', '/jobs/open'],
+    ['/grok-bot/jobs', '/jobs'],
+    ['/grok-bot/bots/inbox-zero', '/bots/inbox-zero'],
+    ['/grok-bot/bots', '/bots'],
+    ['/grok-bot/categories/sales', '/categories/sales'],
+    // The rename reached on its own, for a link written between the two states.
+    ['/jobs/chief-of-staff', '/jobs/ai-chief-of-staff'],
+  ];
+
+  for (const [from, to] of moves) {
+    const res = await fetch(`${BASE}${from}`, { redirect: 'manual' });
+    if (res.status !== 301) {
+      fail(`${from} returns ${res.status} — a moved URL must be a permanent redirect`);
+      continue;
+    }
+    const location = res.headers.get('location');
+    if (location !== to) {
+      // Catches both "redirected to the homepage" (read as a soft 404) and a
+      // chain, since the second hop would show up as the wrong destination.
+      fail(`${from} redirects to ${location}, expected ${to}`);
+      continue;
+    }
+    const landed = await get(to);
+    if (landed.status !== 200) fail(`${from} redirects to ${to}, which returns ${landed.status}`);
+  }
+  console.log(dim(`  checked ${moves.length} redirects for 301, destination and no chaining`));
+
+  // A query string survives the hop, or a shared search result lands on nothing.
+  const withQuery = await fetch(`${BASE}/grok-bot/search?q=inbox`, { redirect: 'manual' });
+  if (withQuery.headers.get('location') !== '/search?q=inbox') {
+    fail(`redirected search dropped its query: got ${withQuery.headers.get('location')}`);
+  }
+
+  // The hub is not part of the move. It stopped being a prefix and became a
+  // page, so it must still serve 200 and canonicalise to itself.
+  const hub = await get('/grok-bot');
+  if (hub.status !== 200) fail(`/grok-bot returns ${hub.status} — the framework hub is a page now`);
+  else if (!hub.body.includes('rel="canonical" href="https://botjobs.dev/grok-bot"')) {
+    fail('/grok-bot does not canonicalise to itself');
+  }
+
+  // Old and new both serving 200 splits whatever signal exists.
+  if (paths.some((p) => p.startsWith('/grok-bot/jobs') || p.startsWith('/grok-bot/bots'))) {
+    fail('sitemap still lists a framework-first job or bot URL');
+  }
 
   /* ---------------------------------------------------------------- robots */
 

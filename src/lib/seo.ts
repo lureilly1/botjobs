@@ -1,4 +1,4 @@
-import { SITE, urls } from '@/config';
+import { SITE, FRAMEWORK, urls } from '@/config';
 import type { Job, Bot } from '@/lib/data';
 
 const abs = (path: string) => new URL(path, SITE.url).href;
@@ -40,7 +40,7 @@ export function jobPageNode(job: Job, botCount: number) {
     primaryImageOfPage: undefined,
     mainEntity: {
       '@type': 'ItemList',
-      name: `Grok Bots for ${job.title}`,
+      name: `${FRAMEWORK} candidates for ${job.title}`,
       numberOfItems: botCount,
     },
     isPartOf: { '@type': 'WebSite', name: SITE.name, url: SITE.url },
@@ -57,18 +57,24 @@ export function jobPageNode(job: Job, botCount: number) {
  */
 export function jobFaqNode(job: Job, botCount: number) {
   const first = job.intro.split(/(?<=\.)\s+/).slice(0, 3).join(' ');
+
+  // The task phrasing where a job has been renamed to a role noun, so the
+  // question reads the way somebody would actually ask it: "what does the chief
+  // of staff job involve", not "what does ai chief of staff involve".
+  const task = (job.taskTitle ?? job.title).toLowerCase();
+
   const qa: Array<[string, string]> = [
-    [`What does ${job.title.toLowerCase()} involve?`, first],
+    [`What does the ${task} job involve?`, first],
   ];
 
   if (botCount > 0) {
     qa.push([
-      `Is there a Grok Bot for ${job.title.toLowerCase()}?`,
+      `Is there a ${FRAMEWORK} for ${task}?`,
       `Yes — we put ${botCount} forward for this job, each with the reasoning for why it fits and the caveat that comes with it. Every listing is checked against its official x.ai page.`,
     ]);
   } else {
     qa.push([
-      `Is there a Grok Bot for ${job.title.toLowerCase()}?`,
+      `Is there a ${FRAMEWORK} for ${task}?`,
       `Not yet. We have not found one good enough to recommend, so this stays listed as an open job rather than being filled with something that does not do the work.`,
     ]);
   }

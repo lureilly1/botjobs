@@ -1,5 +1,25 @@
-import { defineMiddleware } from 'astro:middleware';
+import { defineMiddleware, sequence } from 'astro:middleware';
 import { record } from '@/lib/analytics';
+import { resolveRedirect } from '@/lib/redirects';
+
+/**
+ * The job-first restructure's 301s, served before anything else runs.
+ *
+ * Middleware rather than `redirects` in astro.config: the map has to fold the
+ * role-noun rename into the path move so an old URL reaches its new one in a
+ * single hop, and config redirects cannot do a lookup. See src/lib/redirects.ts
+ * for why each rule is the way it is.
+ *
+ * The query string is carried across. A redirect that drops ?q= turns someone's
+ * shared search result into an empty page.
+ *
+ * Redirects are not recorded as page views — they render nothing.
+ */
+const redirects = defineMiddleware((context, next) => {
+  const target = resolveRedirect(context.url.pathname);
+  if (!target) return next();
+  return context.redirect(target + context.url.search, 301);
+});
 
 /**
  * Page views, recorded where the request already is.
@@ -8,7 +28,7 @@ import { record } from '@/lib/analytics';
  * a page view is how analytics starts lying to you. Recording happens after the
  * response is produced and is never awaited into the critical path.
  */
-export const onRequest = defineMiddleware(async (context, next) => {
+const analytics = defineMiddleware(async (context, next) => {
   const response = await next();
 
   const path = context.url.pathname;
@@ -28,3 +48,7 @@ export const onRequest = defineMiddleware(async (context, next) => {
 
   return response;
 });
+
+// Redirects first: an old URL should never reach a page, and a 301 is not a
+// page view.
+export const onRequest = sequence(redirects, analytics);

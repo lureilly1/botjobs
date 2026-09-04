@@ -1,0 +1,227 @@
+---
+import Base from '@/layouts/Base.astro';
+import EvidenceBadge from '@/components/EvidenceBadge.astro';
+import JsonLd from '@/components/JsonLd.astro';
+import { Badge } from '@/components/ui/badge';
+import { buttonVariants } from '@/components/ui/button';
+import { PATH_SEGMENT, FRAMEWORK, urls } from '@/config';
+import { getJobs, getBots, bestEvidence, liveIntegrations, categoryLabel } from '@/lib/data';
+import { breadcrumbs, collectionNode } from '@/lib/seo';
+
+/*
+ * THE FRAMEWORK HUB.
+ *
+ * /grok-bot/ used to be a path prefix that every job and bot page hung off. It
+ * is now a page — the one surface on this site that is deliberately
+ * framework-specific, and the only one that targets framework-shaped queries
+ * ("grok bot use cases", "best grok bots").
+ *
+ * Everything else is job-first and carries no framework name, which is what
+ * makes this page survivable: x.ai already ranks #1 for "grok bot use cases"
+ * with their own page, and if xAI ships an official directory this page is what
+ * dies. The job pages do not, because a vendor will never catalogue its
+ * competitors' agents.
+ *
+ * So it is a filtered view over the job board rather than a second board. Every
+ * link out of here goes to a canonical /jobs/ URL. Nothing lives only here.
+ */
+
+if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
+
+const [jobs, bots] = await Promise.all([getJobs(), getBots()]);
+const filled = jobs.filter((j) => j.status === 'filled');
+const open = jobs.filter((j) => j.status === 'open');
+const verified = bots.filter((b) => b.evidenceLevel === 'link-verified').length;
+const creators = new Set(bots.map((b) => b.creator.handle)).size;
+const integrations = liveIntegrations();
+
+// The jobs that actually have a Grok Bot behind them, best-supplied first. This
+// ordering is the answer to "what is Grok Bot good for" — supply is the honest
+// proxy for what people have found worth building.
+const bySupply = filled.slice().sort((a, b) => b.bots.length - a.bots.length);
+
+const asOf = new Date().toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+---
+
+<Base
+  title={`${FRAMEWORK}: what people actually use it for`}
+  description={`${bots.length} ${FRAMEWORK}s on file across ${filled.length} jobs, each checked against its official x.ai listing — and ${open.length} jobs nobody has built one for yet.`}
+  canonical={urls.framework()}
+>
+  <JsonLd
+    data={[
+      collectionNode({
+        name: `${FRAMEWORK} use cases — ${asOf}`,
+        path: urls.framework(),
+        description: `The jobs ${bots.length} ${FRAMEWORK}s are put forward for, ranked by how many candidates each has.`,
+        items: bySupply.map((j) => ({ name: j.title, path: urls.job(j.slug) })),
+      }),
+      breadcrumbs([{ name: FRAMEWORK, path: urls.framework() }]),
+    ]}
+  />
+
+  <section class="mx-auto max-w-6xl px-4 pt-12 pb-10 sm:px-6 sm:pt-16">
+    <p class="eyebrow text-muted-foreground">Framework hub · {asOf}</p>
+    <h1 class="mt-3 max-w-3xl text-[2.25rem] leading-[1.02] sm:text-5xl">
+      What people actually use <span class="marker">{FRAMEWORK}</span> for
+    </h1>
+    <p class="prose-editorial mt-4">
+      This board is organised by job rather than by framework, because the thing you want
+      done outlives whichever product does it. This page is the {FRAMEWORK} slice of it:
+      every job where at least one {FRAMEWORK} is worth putting forward, and — further down —
+      the ones where none is.
+    </p>
+
+    <dl class="border-border mt-10 grid max-w-3xl grid-cols-2 gap-px overflow-hidden border-y sm:grid-cols-4">
+      {
+        [
+          // Not "references checked": every live listing on file is currently
+          // checked, so the tile would print the same number twice and read as
+          // a bug. The claim is made precisely in the prose block below, where
+          // it can carry the caveat it needs. Supply and gap are the pair that
+          // actually says something here.
+          { n: bots.length, label: `${FRAMEWORK}s on file` },
+          { n: creators, label: 'creators credited' },
+          { n: filled.length, label: 'jobs with a candidate' },
+          { n: open.length, label: 'jobs with none' },
+        ].map(({ n, label }) => (
+          <div class="py-4">
+            <dt class="font-display text-3xl font-extrabold tracking-tight">{n}</dt>
+            <dd class="eyebrow text-muted-foreground mt-1">{label}</dd>
+          </div>
+        ))
+      }
+    </dl>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 pb-14 sm:px-6">
+    <h2 class="text-2xl">Jobs a {FRAMEWORK} can do</h2>
+    <p class="text-muted-foreground mt-1 mb-5 text-sm">
+      Ranked by how many candidates we found, not by how well any of them work. Every job
+      page ranks its own.
+    </p>
+
+    <ul class="border-ink bg-card rule-list overflow-hidden rounded-lg border-[1.5px]">
+      {
+        bySupply.map((job) => {
+          const evidence = bestEvidence(job);
+          return (
+            <li>
+              <a
+                href={urls.job(job.slug)}
+                class="group hover:bg-hi-vis/15 flex items-center gap-4 p-4 transition-colors sm:px-5"
+              >
+                <div class="min-w-0 flex-1">
+                  <h3 class="text-[17px] font-bold">{job.title}</h3>
+                  <p class="text-muted-foreground mt-0.5 line-clamp-1 text-sm">
+                    {job.searchIntent}
+                  </p>
+                </div>
+                <div class="hidden shrink-0 items-center gap-2.5 sm:flex">
+                  {evidence && <EvidenceBadge level={evidence} />}
+                  <span class="text-muted-foreground font-mono text-xs">
+                    {job.bots.length} {job.bots.length === 1 ? 'candidate' : 'candidates'}
+                  </span>
+                </div>
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+  </section>
+
+  {
+    open.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 pb-14 sm:px-6">
+        {/* The half of the picture a vendor will never publish. It is also the
+            most linkable thing on the site, so it gets a real section here
+            rather than a footnote. */}
+        <h2 class="text-2xl">Jobs no {FRAMEWORK} does yet</h2>
+        <p class="text-muted-foreground mt-1 mb-5 text-sm">
+          People want these done and we could not find a {FRAMEWORK} worth recommending.
+        </p>
+        <ul class="flex flex-wrap gap-2">
+          {open.map((job) => (
+            <li>
+              <a
+                href={urls.job(job.slug)}
+                class="border-border bg-card hover:border-ink inline-flex items-center gap-2 rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+              >
+                {job.title}
+                <Badge variant="open">open</Badge>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <a
+          href={urls.openJobs()}
+          class={buttonVariants({ variant: 'secondary', size: 'sm', className: 'mt-5' })}
+        >
+          The full open-jobs list →
+        </a>
+      </section>
+    )
+  }
+
+  {
+    integrations.length > 0 && (
+      <section class="mx-auto max-w-6xl px-4 pb-14 sm:px-6">
+        <h2 class="text-2xl">By what it connects to</h2>
+        <p class="text-muted-foreground mt-1 mb-5 text-sm">
+          Most of the setup cost is here rather than in the template. These pages are
+          {' '}{FRAMEWORK}-specific, which is why they sit under this hub rather than at the root.
+        </p>
+        <ul class="flex flex-wrap gap-2">
+          {integrations.map((i) => (
+            <li>
+              <a
+                href={urls.integration(i.slug)}
+                class="border-border bg-card hover:border-ink inline-block rounded-full border px-3 py-1.5 text-[13px] font-medium transition-colors"
+              >
+                {i.label}
+                <span class="text-muted-foreground font-mono text-xs"> · {i.count}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  <section class="mx-auto max-w-6xl px-4 pb-16 sm:px-6">
+    <div class="outlined bg-card rounded-lg p-6 sm:p-7">
+      <h2 class="text-2xl">What "checked" means here</h2>
+      <p class="prose-editorial mt-2.5">
+        {verified} of the {bots.length} listings on file have been reconciled against their
+        official x.ai page: the page resolves, and its title and description came from there
+        rather than from another directory. That is a claim about the paperwork and nothing
+        more — <strong>we have not run these bots</strong>, and no page here will suggest we
+        have. Fit scores rank candidates within a job and are our editorial judgement, not
+        user ratings; there are none of those anywhere on this site.
+      </p>
+      <div class="mt-5 flex flex-wrap gap-2.5">
+        <a href="/methodology" class={buttonVariants({ variant: 'secondary', size: 'sm' })}>
+          How listings are checked
+        </a>
+        <a href={urls.jobs()} class={buttonVariants({ variant: 'ghost', size: 'sm' })}>
+          Browse every job →
+        </a>
+      </div>
+    </div>
+
+    <p class="text-muted-foreground mt-8 text-sm">
+      Categories:{' '}
+      {
+        [...new Set(jobs.map((j) => j.category))].map((cat, i) => (
+          <>
+            {i > 0 && <span aria-hidden="true"> · </span>}
+            <a href={urls.category(cat)} class="hover:text-foreground underline underline-offset-2">
+              {categoryLabel(cat)}
+            </a>
+          </>
+        ))
+      }
+    </p>
+  </section>
+</Base>

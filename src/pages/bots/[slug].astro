@@ -3,13 +3,12 @@ import Base from '@/layouts/Base.astro';
 import EvidenceBadge from '@/components/EvidenceBadge.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls, EVIDENCE } from '@/config';
+import { urls, EVIDENCE } from '@/config';
 import { getBot, jobsForBot, isBotIndexable, integrationsForBot } from '@/lib/data';
 import { CATEGORIES } from '@/lib/records.js';
 import JsonLd from '@/components/JsonLd.astro';
 import { breadcrumbs, botPageNode } from '@/lib/seo';
 
-if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const bot = getBot(Astro.params.slug!);
 if (!bot || !bot.description) return new Response(null, { status: 404 });

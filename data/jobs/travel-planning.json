@@ -6,7 +6,7 @@
   "intro": "Trip planning splits into two jobs that look similar and are not. Research — where to go, what is worth doing, building an itinerary that survives contact with real opening hours — is genuinely helped by an agent that can browse and hold the whole trip in context. Monitoring is the other one: watching a route for a price you named, tracking a booked flight for changes, noticing when a points redemption becomes available. The second is where a bot beats a person, because it is patient in a way you are not. Most listings here do research; fewer do monitoring well, and monitoring is the one you would actually keep past a single trip. As with any bot given a booking site, read carefully before granting anything that can confirm a reservation on your behalf.",
   "relatedJobs": [
     "deal-hunting",
-    "chief-of-staff"
+    "ai-chief-of-staff"
   ],
   "integrations": [],
   "introCurated": true,

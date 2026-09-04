@@ -250,6 +250,13 @@ export function validateJob(job, filenameSlug) {
   else if (job.slug !== filenameSlug) e.push(`slug: "${job.slug}" does not match filename "${filenameSlug}"`);
 
   if (!isNonEmptyString(job.title)) e.push('title: required');
+  // Optional, and only meaningful when it differs: a taskTitle equal to the
+  // title renders a second heading that says the same thing twice.
+  if (job.taskTitle !== undefined) {
+    if (!isNonEmptyString(job.taskTitle)) e.push('taskTitle: must be a non-empty string if present');
+    else if (normalise(job.taskTitle) === normalise(job.title ?? ''))
+      e.push('taskTitle: same as title — drop it rather than repeat the heading');
+  }
   if (!(job.category in CATEGORIES)) e.push(`category: must be one of ${Object.keys(CATEGORIES).join(', ')}`);
   if (!isNonEmptyString(job.searchIntent)) e.push('searchIntent: required');
 

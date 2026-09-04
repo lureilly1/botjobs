@@ -3,17 +3,13 @@ import Base from '@/layouts/Base.astro';
 import BotCard from '@/components/BotCard.astro';
 import { Badge } from '@/components/ui/badge';
 import { buttonVariants } from '@/components/ui/button';
-import { PATH_SEGMENT, urls, REPO } from '@/config';
+import { FRAMEWORK, urls, REPO } from '@/config';
 import { getJob, getJobs, botsForJob, categoryLabel } from '@/lib/data';
 import JsonLd from '@/components/JsonLd.astro';
 import PostJobDialog from '@/components/PostJobDialog.astro';
 import SubmittedNotice from '@/components/SubmittedNotice.astro';
 import { breadcrumbs, jobPageNode, jobFaqNode } from '@/lib/seo';
 
-// The path segment is a constant, not a literal scattered through routes, so
-// a product rename costs a config change. A request on any other segment is
-// simply not this site.
-if (Astro.params.segment !== PATH_SEGMENT) return new Response(null, { status: 404 });
 
 const job = await getJob(Astro.params.slug!);
 if (!job) return new Response(null, { status: 404 });
@@ -37,10 +33,22 @@ const siblings = allJobs
 const isOpen = job.status === 'open';
 const label = categoryLabel(job.category);
 
-const title = isOpen ? `${job.title}: no bot does this yet` : `Best Grok Bots for ${job.title}`;
+/*
+ * TITLED AS A ROLE, NOT AS A FRAMEWORK.
+ *
+ * The job is the primary object and the framework is a section within it, so
+ * the H1 and the title tag carry the role noun and nothing else. "Best AI chief
+ * of staff bots" — not "Best Grok Bots for …", which was competing for a term
+ * the vendor owns and which no measurement on this domain can currently see.
+ *
+ * The framework does still appear on the page: the candidates section below is
+ * headed as Grok Bot candidates, which is exactly where a second framework
+ * would slot in later without any of this needing to change.
+ */
+const title = isOpen ? `${job.title}: no bot does this yet` : `Best ${job.title} bots`;
 const description = isOpen
-  ? `Nobody has built a good Grok Bot for ${job.title.toLowerCase()} yet. Here is what the job involves and what one would need to do.`
-  : `${bots.length} Grok ${bots.length === 1 ? 'Bot' : 'Bots'} for ${job.title.toLowerCase()}, with sources and evidence for each.`;
+  ? `Nobody has built a bot for ${job.title.toLowerCase()} worth recommending yet. Here is what the job involves and what one would need to do.`
+  : `${bots.length} ${bots.length === 1 ? 'candidate' : 'candidates'} for ${job.title.toLowerCase()}, ranked, with the sources and evidence behind each.`;
 ---
 
 <Base
@@ -77,10 +85,19 @@ const description = isOpen
     </div>
 
     <h1 class="mt-3 text-[2rem] leading-[1.05] sm:text-[2.6rem]">
-      {isOpen ? job.title : <>Best Grok Bots for <span class="marker">{job.title}</span></>}
+      {isOpen ? job.title : <>Best <span class="marker">{job.title}</span> bots</>}
     </h1>
 
     <p class="text-muted-foreground mt-3 font-mono text-sm">{job.searchIntent}</p>
+
+    {/* The task phrasing, kept as a heading on a page now titled as a role. A
+        rename should cover both forms — people who search the workflow and
+        people who search the job a human holds are looking for one page. */}
+    {
+      job.taskTitle && (
+        <h2 class="mt-8 text-xl">What the {job.taskTitle.toLowerCase()} job involves</h2>
+      )
+    }
 
     <div class="prose-editorial mt-6 max-w-none space-y-4">
       {job.intro.split('\n\n').map((para) => <p>{para}</p>)}
@@ -99,11 +116,14 @@ const description = isOpen
       )
     }
 
+    {/* THE FRAMEWORK SECTION. The page is about the job; this is the part of it
+        that is about a particular product. A second framework lands as a
+        sibling section here, not as a second site. */}
     {
       bots.length > 0 && (
         <section class="mt-12">
           <h2 class="text-2xl">
-            {bots.length} {bots.length === 1 ? 'candidate' : 'candidates'}
+            {bots.length} {FRAMEWORK} {bots.length === 1 ? 'candidate' : 'candidates'}
           </h2>
           <p class="text-muted-foreground mt-1 mb-6 text-sm">
             Ranked by how well they fit this job, not by popularity.
@@ -122,7 +142,7 @@ const description = isOpen
         <section class="outlined bg-card mt-12 rounded-lg p-6 sm:p-7">
           <h2 class="text-2xl">Nobody has applied yet</h2>
           <p class="prose-editorial mt-2.5">
-            We have not found a Grok Bot that does this job well enough to recommend. Rather than
+            We have not found a {FRAMEWORK} that does this job well enough to recommend. Rather than
             fill the slot with something that does not do the work, the position stays open — so
             if you were looking for something to build, this is a job people want done.
           </p>

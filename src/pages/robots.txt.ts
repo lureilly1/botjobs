@@ -26,7 +26,8 @@ Llms-Txt: ${new URL('/llms.txt', SITE.url).href}
 # https://github.com/lureilly1/botjobs
 # Listings link to official x.ai share URLs and never reproduce template
 # contents. Corrections and removals: ${new URL('/report', SITE.url).href}
-# Job pages live under /${PATH_SEGMENT}/jobs/
+# Jobs are the spine: /jobs/<role>. The ${PATH_SEGMENT} hub at /${PATH_SEGMENT} is
+# the framework-specific slice of the same board. Framework-first URLs 301.
 `,
     { headers: { 'content-type': 'text/plain; charset=utf-8' } }
   );
