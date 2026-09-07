@@ -44,6 +44,14 @@ export interface Job {
   intro: string;
   introCurated: boolean;
   bots: BotMapping[];
+  /**
+   * Open jobs only — see the open-job invariant in records.js. `openReason`
+   * says whether nothing exists because nobody has got to it or because the
+   * job is genuinely hard; `wouldNeed` is the bar a candidate has to clear.
+   * Together they are what stops a gap list being a list.
+   */
+  openReason?: 'unbuilt' | 'hard';
+  wouldNeed?: string[];
   relatedJobs: string[];
   integrations: string[];
   publish: boolean;

@@ -31,6 +31,45 @@ const get = async (path) => {
   return { status: res.status, body: await res.text() };
 };
 
+/**
+ * Every BreadcrumbList entry must carry `item`.
+ *
+ * Search Console reported "Missing field item (in itemListElement)" as a
+ * critical error across the job pages, because the category crumb was passed as
+ * a bare label. A crumb without a URL is invalid to Google and the page loses
+ * the breadcrumb rich result — so it is checked on every sitemap page rather
+ * than a sample, which is what would have caught it the day it shipped.
+ *
+ * Parsed rather than pattern-matched: a regex over the serialised JSON would
+ * pass on markup that is malformed in a way the parser rejects outright.
+ */
+function breadcrumbFailures(path, body) {
+  const problems = [];
+  const blocks = [...body.matchAll(/<script type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g)];
+
+  for (const [, raw] of blocks) {
+    let node;
+    try {
+      node = JSON.parse(raw);
+    } catch {
+      problems.push(`${path} has JSON-LD that does not parse`);
+      continue;
+    }
+    if (node['@type'] !== 'BreadcrumbList') continue;
+
+    const items = node.itemListElement ?? [];
+    if (items.length === 0) problems.push(`${path} has an empty BreadcrumbList`);
+
+    items.forEach((entry, i) => {
+      if (!entry.item) {
+        problems.push(`${path} breadcrumb ${i + 1} ("${entry.name}") is missing "item"`);
+      }
+      if (!entry.name) problems.push(`${path} breadcrumb ${i + 1} is missing "name"`);
+    });
+  }
+  return problems;
+}
+
 try {
   // Wait for the server rather than guessing at a sleep duration.
   for (let i = 0; i < 40; i += 1) {
@@ -69,9 +108,12 @@ try {
     if (!/<link rel=["']canonical["']/i.test(page.body)) {
       fail(`${path} has no canonical link`);
     }
+    breadcrumbFailures(path, page.body).forEach(fail);
     checked += 1;
   }
-  console.log(dim(`  checked ${checked} sitemap pages for noindex + canonical`));
+  console.log(
+    dim(`  checked ${checked} sitemap pages for noindex + canonical + breadcrumb items`)
+  );
 
   /* ------------------------------------------- no invented review ratings */
 

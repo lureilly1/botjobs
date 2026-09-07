@@ -63,7 +63,10 @@ const description = isOpen
       jobFaqNode(job, bots.length),
       breadcrumbs([
         { name: 'Jobs', path: urls.jobs() },
-        { name: label },
+        // The category carries its real URL rather than being a bare label.
+        // See breadcrumbs() — a crumb with no URL is the markup error Search
+        // Console flagged here, and the category page exists to be pointed at.
+        { name: label, path: urls.category(job.category) },
         { name: job.title, path: urls.job(job.slug) },
       ]),
     ]}
@@ -76,7 +79,10 @@ const description = isOpen
     <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
       <a href={urls.jobs()} class="hover:text-foreground">Jobs</a>
       <span class="mx-1.5" aria-hidden="true">/</span>
-      <span class="text-foreground">{label}</span>
+      {/* A link, not a label, so the visible trail matches the BreadcrumbList
+          it is described by — Google expects the two to agree. It also gives
+          category pages the inbound links they were short of. */}
+      <a href={urls.category(job.category)} class="hover:text-foreground">{label}</a>
     </nav>
 
     <div class="flex flex-wrap items-center gap-2.5">
@@ -146,7 +152,46 @@ const description = isOpen
             fill the slot with something that does not do the work, the position stays open — so
             if you were looking for something to build, this is a job people want done.
           </p>
-          <div class="mt-5 flex flex-wrap gap-2.5">
+
+          {/* Which of the two kinds of empty this is. "Nobody has built one" is
+              a fact; why nobody has is a finding, and findings are the half of
+              a gap list worth citing. */}
+          {job.openReason === 'unbuilt' && (
+            <p class="prose-editorial mt-3">
+              This one reads as unbuilt rather than difficult. The pieces are all available and
+              nobody has put them together yet, which makes it a good afternoon's work for
+              somebody and a genuine gap until they do.
+            </p>
+          )}
+          {job.openReason === 'hard' && (
+            <p class="prose-editorial mt-3">
+              This one is not unbuilt — it has been attempted, and the attempts are the problem.
+              Read the requirements below as a warning as much as a brief: the obvious approach
+              has been tried, and what it produces is worse than leaving the job undone.
+            </p>
+          )}
+          {/* The build brief — the half of an open-job page somebody deciding
+              what to make next is actually here for, and the reason these pages
+              are worth a slot rather than being a vacancy notice. */}
+          {job.wouldNeed && job.wouldNeed.length > 0 && (
+            <>
+              <h3 class="mt-7 text-lg">What a good one would have to do</h3>
+              <ul class="mt-3 space-y-2.5">
+                {job.wouldNeed.map((requirement) => (
+                  <li class="prose-editorial flex gap-3 text-[15px]">
+                    <span class="text-open-job mt-[0.15rem] shrink-0" aria-hidden="true">—</span>
+                    <span>{requirement}</span>
+                  </li>
+                ))}
+              </ul>
+              <p class="text-muted-foreground mt-4 text-sm">
+                Written from what the job needs, not from any bot we have run. If something
+                already clears this bar, we have not found it.
+              </p>
+            </>
+          )}
+
+          <div class="mt-6 flex flex-wrap gap-2.5">
             <a
               href={`${urls.submitBot()}&job=${encodeURIComponent(job.slug)}`}
               class={buttonVariants({ variant: 'hivis', size: 'sm' })}

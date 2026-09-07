@@ -30,12 +30,28 @@ primary_region = 'lhr'
   # PORT says. Leave them disagreeing and every request is a 502.
   internal_port = 8080
   force_https = true
-  # Scale to zero when idle and suspend rather than stop, so a cold request
-  # resumes the machine instead of booting it. A directory gets long quiet
-  # stretches and paying for them is pointless.
+  # Suspend rather than stop, so a request that arrives cold resumes the machine
+  # instead of booting it.
   auto_stop_machines = 'suspend'
   auto_start_machines = true
-  min_machines_running = 0
+
+  # One machine stays up. This was 0, and scaling to zero is the wrong trade
+  # while the site is trying to get indexed.
+  #
+  # Google's own explanation of "Discovered - currently not indexed" names
+  # server responsiveness: it wanted to crawl the URL, expected that to overload
+  # the site, and rescheduled the crawl. A directory this quiet is suspended
+  # almost every time Googlebot arrives, so nearly every crawl pays a resume —
+  # on the first request, which is the one being measured.
+  #
+  # This is not the main reason 37 of 38 pages sit undiscovered; a site weeks
+  # old with no referring domains has a demand problem no config fixes. It is
+  # the part that is ours, it is a plausible contributor, and it is one line.
+  #
+  # It costs money: one shared-cpu-1x/512mb running continuously rather than
+  # only when someone visits. Revert to 0 if that is not worth it — the site
+  # behaves identically either way, just slower on the first hit.
+  min_machines_running = 1
 
 [[vm]]
   size = 'shared-cpu-1x'

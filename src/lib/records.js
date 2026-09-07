@@ -88,6 +88,24 @@ export const INTEGRATIONS = {
 /** An intro shorter than this is not editorial, it is a placeholder. */
 const MIN_INTRO_CHARS = 250;
 
+/**
+ * Why an open job is open. The site promises to say which, so it is a field
+ * rather than a tone of voice.
+ *
+ *   unbuilt — the pieces exist and nobody has assembled them. A build brief.
+ *   hard    — people have tried and the attempts are the problem. A warning.
+ *
+ * The distinction is the interesting part of a gap list: "nobody has built one"
+ * is a fact, and "here is why nobody has" is a finding.
+ */
+export const OPEN_REASONS = ['unbuilt', 'hard'];
+
+/** Fewer than this is a gesture at a brief rather than a brief. */
+const MIN_WOULD_NEED = 3;
+
+/** A requirement shorter than this cannot be specific enough to build against. */
+const MIN_WOULD_NEED_CHARS = 40;
+
 /* ------------------------------------------------------------------ helpers */
 
 const isPlainObject = (v) => typeof v === 'object' && v !== null && !Array.isArray(v);
@@ -318,6 +336,45 @@ export function validateJob(job, filenameSlug) {
     e.push(
       'open job (no bots mapped) must have introCurated: true — an open job earns its page with a hand-written intro, or it stays unpublished'
     );
+  }
+
+  // ...AND THE REST OF WHAT AN OPEN JOB OWES ITS PAGE.
+  //
+  // A filled job carries its candidates: fit reasons, evidence, sources, and a
+  // thousand words of them. An open job has none of that, so an intro alone
+  // leaves it the thinnest thing in the sitemap — measured at ~300 words
+  // against ~1,170 for a filled one. That gap does not matter at two open jobs
+  // and matters a great deal at twenty, which is where this list is going.
+  //
+  // So the two questions a reader actually has get answered on the record
+  // rather than left to the template:
+  //
+  //   openReason  is it unbuilt, or is it hard? The site promises to say which,
+  //               and "nobody has built one" is a fact while "here is why" is a
+  //               finding — findings are what get cited.
+  //   wouldNeed   the bar a candidate has to clear. This is the build brief,
+  //               and it is the half of the page somebody deciding what to
+  //               build next is actually here for.
+  //
+  // Both are hand-written, and neither can be generated from the other records.
+  // That is the point: it is the work that stops a gap list being a list.
+  if (job.publish === true && jobStatus(job) === 'open') {
+    if (!OPEN_REASONS.includes(job.openReason))
+      e.push(`openReason: open job must declare one of ${OPEN_REASONS.join(', ')}`);
+
+    if (!isArray(job.wouldNeed) || job.wouldNeed.length < MIN_WOULD_NEED) {
+      e.push(
+        `wouldNeed: open job needs at least ${MIN_WOULD_NEED} things a candidate would have to do — this is the build brief, and it is what the page is for`
+      );
+    } else {
+      job.wouldNeed.forEach((item, i) => {
+        if (!isNonEmptyString(item)) e.push(`wouldNeed[${i}]: must be a non-empty string`);
+        else if (item.trim().length < MIN_WOULD_NEED_CHARS)
+          e.push(
+            `wouldNeed[${i}]: ${item.trim().length} chars, needs at least ${MIN_WOULD_NEED_CHARS} — a requirement too short to be specific is a bullet, not a brief`
+          );
+      });
+    }
   }
 
   return e;

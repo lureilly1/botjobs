@@ -4,6 +4,14 @@
   "category": "business-operations",
   "searchIntent": "grok bot to fill in security questionnaires",
   "intro": "Every enterprise deal eventually produces a spreadsheet with three hundred rows asking whether you encrypt data at rest. The answers barely change between questionnaires, they live scattered across an old SOC 2 report, a policy document and somebody's memory, and the person best placed to answer is the one with the least time to do it. It is close to the ideal job for a Bot: repetitive, heavily templated, and grounded in documents you already have. Nobody has built a good one yet. The bots we found either answer from general knowledge rather than from your actual policies, which is worse than useless on a compliance document, or they need the answer bank assembled by hand first, at which point you have done the hard part yourself. We would rather leave this open than fill it with something that guesses. If you have built one, we would like to see it.",
+  "openReason": "hard",
+  "wouldNeed": [
+    "Answer from your own policies and evidence, never from general knowledge about how companies usually work.",
+    "Say it does not know when the answer bank has nothing, instead of producing the answer a reviewer expects to see.",
+    "Cite the document and section behind every answer, so the person signing it off can check the ones that matter.",
+    "Assemble the answer bank from what you already have — the SOC 2 report, the policies, last quarter's questionnaire — rather than asking you to build it first.",
+    "Cope with the format these actually arrive in: a spreadsheet of three hundred rows, merged cells and a tab nobody mentioned."
+  ],
   "introCurated": true,
   "bots": [],
   "relatedJobs": [

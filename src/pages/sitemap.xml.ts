@@ -33,10 +33,28 @@ export const GET: APIRoute = async () => {
     { path: urls.framework(), priority: '0.8' },
     { path: urls.openJobs(), priority: '0.8' },
     { path: urls.bots(), priority: '0.6' },
-    { path: urls.submit(), priority: '0.5' },
     { path: '/methodology', priority: '0.8' },
-    { path: '/stats', priority: '0.4' },
   ];
+
+  /* --------------------------------------------------------------------------
+     NOT HERE: /submit and /stats.
+     --------------------------------------------------------------------------
+     Both stay live, crawlable and linked from the footer. They are simply not
+     claimed as worth an index slot, which is the same treatment bot and
+     category pages already get for the same reason.
+
+     Measured body content, excluding nav and footer:
+
+       job pages     1173 words median, 35 in-body links
+       /stats         159 words
+       /submit        369 words,  3 in-body links
+
+     /stats is the thinnest thing on the site and /submit is a form — neither is
+     a destination from search, and a sitemap that lists them is making a claim
+     about them it cannot support. /stats comes back the moment it becomes the
+     dated, citable page with a methodology note that it is meant to be; that is
+     the bar, and it is a low one.
+     ----------------------------------------------------------------------- */
 
   // Integration pages target queries the SERP shows are contested by vendor
   // articles rather than directories, and they only exist where supply allows.
