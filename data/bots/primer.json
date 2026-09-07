@@ -1,0 +1,42 @@
+{
+  "slug": "primer",
+  "name": "Primer",
+  "grokShareUrl": "https://x.ai/bot/GTStkB5wsoSlGx9jtdaPe",
+  "botId": "GTStkB5wsoSlGx9jtdaPe",
+  "creator": {
+    "handle": "ambientstudio24",
+    "url": "https://x.com/ambientstudio24"
+  },
+  "sourceUrl": "https://x.com/ambientstudio24/status/2095367857416585575",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/primer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Primer by Arthur",
+    "description": "On-demand expert on Grok Bot and the stack around it. Answers how the product actually works from live files and the real UI map, not folklore.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "learning",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/primer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

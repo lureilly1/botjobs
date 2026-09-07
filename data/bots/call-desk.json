@@ -1,0 +1,42 @@
+{
+  "slug": "call-desk",
+  "name": "Call Desk",
+  "grokShareUrl": "https://x.ai/bot/zqWxv4Mn6DqmMZkD16_zl",
+  "botId": "zqWxv4Mn6DqmMZkD16_zl",
+  "creator": {
+    "handle": "dave_dlt",
+    "url": "https://x.com/dave_dlt"
+  },
+  "sourceUrl": "https://x.com/dave_dlt/status/2096518852909600839",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/call-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Call Desk by Dr",
+    "description": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio....",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "productivity",
+    "support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/call-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

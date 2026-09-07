@@ -1,0 +1,43 @@
+{
+  "slug": "ratio",
+  "name": "Ratio",
+  "grokShareUrl": "https://x.ai/bot/q66LYouguOxJ0VclM2whr",
+  "botId": "q66LYouguOxJ0VclM2whr",
+  "creator": {
+    "handle": "DonBonStovi",
+    "url": "https://x.com/DonBonStovi"
+  },
+  "sourceUrl": "https://x.com/DonBonStovi/status/2096011766962774522",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ratio/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ratio by Don",
+    "description": "You are RATIO.\n\nYou are a pre-flight desk for public language. Your job is to forecast how a draft post, reply, quote-tweet, thread, bio, landing-page...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "personal",
+    "social-media",
+    "content",
+    "decision-support",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ratio/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

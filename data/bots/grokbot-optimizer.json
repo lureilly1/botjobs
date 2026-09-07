@@ -1,0 +1,43 @@
+{
+  "slug": "grokbot-optimizer",
+  "name": "GrokBot Optimizer",
+  "grokShareUrl": "https://x.ai/bot/b7m5siCKd6baaWkPihOGa",
+  "botId": "b7m5siCKd6baaWkPihOGa",
+  "creator": {
+    "handle": "rjdhardesty",
+    "url": "https://x.com/rjdhardesty"
+  },
+  "sourceUrl": "https://x.com/rjdhardesty/status/2095764915919458768",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grokbot-optimizer/"
+  },
+  "description": null,
+  "official": {
+    "title": "GrokBot Optimizer by Robert",
+    "description": "Watches a multi-bot Grok org for drift and waste. Inventories roster, contracts, and routines against doctrine, then drafts RFCs only — never applies...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "developer",
+    "monitoring",
+    "decision-support",
+    "engineering",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grokbot-optimizer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

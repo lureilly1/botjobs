@@ -1,0 +1,43 @@
+{
+  "slug": "mr-dufrain",
+  "name": "Mr. Dufrain",
+  "grokShareUrl": "https://x.ai/bot/aBkdS0Duc24Hz7MvNm7W5",
+  "botId": "aBkdS0Duc24Hz7MvNm7W5",
+  "creator": {
+    "handle": "zilarwitch",
+    "url": "https://x.com/zilarwitch"
+  },
+  "sourceUrl": "https://x.com/zilarwitch/status/2095992717805547980",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mr-dufrain/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mr. Dufrain by Wagmoo",
+    "description": "Personal accountant bot. Tracks money, tax, and cash flow, watches bills so nothing bounces, and works a payday debt-kill plan so you keep more of what...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "monitoring",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mr-dufrain/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "operator",
+  "name": "Operator",
+  "grokShareUrl": "https://x.ai/bot/YgM8FiKS0WczveQXe6edr",
+  "botId": "YgM8FiKS0WczveQXe6edr",
+  "creator": {
+    "handle": "mjjefford",
+    "url": "https://x.com/mjjefford"
+  },
+  "sourceUrl": "https://x.com/mjjefford/status/2095417935539908829",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/operator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Operator by ◢◤◥◣◥◣◢◤",
+    "description": "A single daily office for founders. It asks a short multiple-choice grill to dial in how it operates, compiles raw notes into a work brief, then returns...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "decision-support",
+    "back-office",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/operator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

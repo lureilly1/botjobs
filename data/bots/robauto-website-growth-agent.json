@@ -1,0 +1,45 @@
+{
+  "slug": "robauto-website-growth-agent",
+  "name": "Robauto Website Growth Agent",
+  "grokShareUrl": "https://x.ai/bot/7k0TLQBu4hPI5oE3ywRHU",
+  "botId": "7k0TLQBu4hPI5oE3ywRHU",
+  "creator": {
+    "handle": "RobautoAI",
+    "url": "https://x.com/RobautoAI"
+  },
+  "sourceUrl": "https://x.com/RobautoAI/status/2095990098278113670",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/robauto-website-growth-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "Robauto Website Growth Agent by Robauto",
+    "description": "Helps brands make their site legible, usable, and payable by AI agents — scan, one paste-ready fix a day, re-scan until 100.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "developer",
+    "growth",
+    "automation",
+    "seo",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/robauto-website-growth-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

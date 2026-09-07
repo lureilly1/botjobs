@@ -1,0 +1,41 @@
+{
+  "slug": "online-identity-bot",
+  "name": "Online Identity Bot",
+  "grokShareUrl": "https://x.ai/bot/4VEl6mp1QrsvvjTFR-qE_",
+  "botId": "4VEl6mp1QrsvvjTFR-qE_",
+  "creator": {
+    "handle": "gkamstra",
+    "url": "https://x.com/gkamstra"
+  },
+  "sourceUrl": "https://x.com/gkamstra/status/2095837272687964512",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/online-identity-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Online Identity Bot by Greg",
+    "description": "Daily search-and-log bot for personal online presence. Finds new public listings across search engines, categorizes them, and reports counts to a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/online-identity-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

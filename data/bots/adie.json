@@ -1,0 +1,42 @@
+{
+  "slug": "adie",
+  "name": "Adie",
+  "grokShareUrl": "https://x.ai/bot/-eXRDBTLTfHxNle9joQRN",
+  "botId": "-eXRDBTLTfHxNle9joQRN",
+  "creator": {
+    "handle": "TheDevilCloud",
+    "url": "https://x.com/TheDevilCloud"
+  },
+  "sourceUrl": "https://x.com/TheDevilCloud/status/2096371240885682186",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/adie/"
+  },
+  "description": null,
+  "official": {
+    "title": "Adie by Devil",
+    "description": "Life orchestrator for ADHD, anxiety, and depression friction — warm accountability chat, deep assistance, and gentle routines (eat, meds, birthdays)....",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/adie/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

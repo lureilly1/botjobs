@@ -1,0 +1,42 @@
+{
+  "slug": "ai-video-expert",
+  "name": "AI 视频专家",
+  "grokShareUrl": "https://x.ai/bot/ES3LVns98INeXAoYwef_f",
+  "botId": "ES3LVns98INeXAoYwef_f",
+  "creator": {
+    "handle": "KinGao476942",
+    "url": "https://x.com/KinGao476942"
+  },
+  "sourceUrl": "https://x.com/KinGao476942/status/2095507795818991826",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-video-expert/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI 视频专家 by kin",
+    "description": "Turn a still photo into a short cinematic clip with motivated camera moves and emotion. Shot notes first, then generate; review before any social post.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-video-expert/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

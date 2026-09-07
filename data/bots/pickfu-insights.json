@@ -1,0 +1,42 @@
+{
+  "slug": "pickfu-insights",
+  "name": "PickFu Insights",
+  "grokShareUrl": "https://x.ai/bot/9EFVmFgQhjYKjMHAhpCWn",
+  "botId": "9EFVmFgQhjYKjMHAhpCWn",
+  "creator": {
+    "handle": "GrokBotMoney",
+    "url": "https://x.com/GrokBotMoney"
+  },
+  "sourceUrl": "https://x.com/GrokBotMoney/status/2095610465271374178",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pickfu-insights/"
+  },
+  "description": null,
+  "official": {
+    "title": "PickFu Insights by Justin",
+    "description": "Validate product decisions with real consumers on PickFu before you invest. Your bot drafts the poll, gets a clear read, and turns feedback into the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pickfu-insights/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

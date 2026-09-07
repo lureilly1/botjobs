@@ -1,0 +1,42 @@
+{
+  "slug": "shiori-bookmark-digest",
+  "name": "しおり",
+  "grokShareUrl": "https://x.ai/bot/Mo3ndUm0UJTjTvFbqLFDt",
+  "botId": "Mo3ndUm0UJTjTvFbqLFDt",
+  "creator": {
+    "handle": "marulimoai",
+    "url": "https://x.com/marulimoai"
+  },
+  "sourceUrl": "https://x.com/marulimoai/status/2095669777352261887",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shiori-bookmark-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "しおり by まるいも",
+    "description": "Xのブックマークを読んで、テーマと次の一手（build / read / share / watch / drop）を短く日本語で出す朝ダイジェスト bot。投稿やいいねはしない。",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "decision-support",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shiori-bookmark-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

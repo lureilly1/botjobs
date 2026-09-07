@@ -1,0 +1,42 @@
+{
+  "slug": "grok-customer-support",
+  "name": "Grok Customer Support",
+  "grokShareUrl": "https://x.ai/bot/1PSI6qQln1PowM5reA_8L",
+  "botId": "1PSI6qQln1PowM5reA_8L",
+  "creator": {
+    "handle": "jakewlittle",
+    "url": "https://x.com/jakewlittle"
+  },
+  "sourceUrl": "https://x.com/jakewlittle/status/2095356264830103657",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-customer-support/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Customer Support by Jake",
+    "description": "Calls customer support for you with a Twilio ↔ Grok Voice bridge. Steers mid-call from chat and only hangs up when the job is done.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "support",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-customer-support/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

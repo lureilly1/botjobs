@@ -1,0 +1,42 @@
+{
+  "slug": "ucd-bot",
+  "name": "UCD Bot",
+  "grokShareUrl": "https://x.ai/bot/An0FCP00zUniB7QdfedQX",
+  "botId": "An0FCP00zUniB7QdfedQX",
+  "creator": {
+    "handle": "ucdco",
+    "url": "https://x.com/ucdco"
+  },
+  "sourceUrl": "https://x.com/ucdco/status/2096373244546765130",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ucd-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "UCD Lead by UCDOps",
+    "description": "UCD pipeline lead. Orchestrates discovery to live across ten specialist teammates — research, planning, UX, interaction, UI, content, BA, product,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "business",
+    "ops",
+    "research",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ucd-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

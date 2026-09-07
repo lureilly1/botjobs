@@ -1,0 +1,42 @@
+{
+  "slug": "hire-bot",
+  "name": "hire-bot",
+  "grokShareUrl": "https://x.ai/bot/Q9Vbc3gbldDnJBmUfcip-",
+  "botId": "Q9Vbc3gbldDnJBmUfcip-",
+  "creator": {
+    "handle": "xsubwayratx",
+    "url": "https://x.com/xsubwayratx"
+  },
+  "sourceUrl": "https://x.com/xsubwayratx/status/2096346151452626945",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hire-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "hire-bot by stephoshi",
+    "description": "Hiring assistant for ATS, LinkedIn, and offer letters. Pulls candidate context from threads and email, drafts contractor agreements or offers, and never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "recruiting",
+    "business",
+    "automation",
+    "back-office",
+    "email"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hire-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

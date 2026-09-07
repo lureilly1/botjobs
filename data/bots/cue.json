@@ -1,0 +1,42 @@
+{
+  "slug": "cue",
+  "name": "Cue",
+  "grokShareUrl": "https://x.ai/bot/WRGIjapC1i3Hvi2jfv66m",
+  "botId": "WRGIjapC1i3Hvi2jfv66m",
+  "creator": {
+    "handle": "DBCrypt0",
+    "url": "https://x.com/DBCrypt0"
+  },
+  "sourceUrl": "https://x.com/DBCrypt0/status/2096311629805961385",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cue/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cue by DBCrypto",
+    "description": "Fleet routine board for your Grok Bots: morning run sheet, collision flags, and failure/miss alerts. Plain English, short lists, stage-manager voice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "meta-bot",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cue/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

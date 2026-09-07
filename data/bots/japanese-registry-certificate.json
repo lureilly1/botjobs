@@ -1,0 +1,42 @@
+{
+  "slug": "japanese-registry-certificate",
+  "name": "登記とりよせ",
+  "grokShareUrl": "https://x.ai/bot/WAQAF0bSQTRrrTb1q-J9Y",
+  "botId": "WAQAF0bSQTRrrTb1q-J9Y",
+  "creator": {
+    "handle": "sat0xshi",
+    "url": "https://x.com/sat0xshi"
+  },
+  "sourceUrl": "https://x.com/sat0xshi/status/2096207930043629670",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/japanese-registry-certificate/"
+  },
+  "description": null,
+  "official": {
+    "title": "登記とりよせ by sat0xshi",
+    "description": "かんたん登記で履歴事項全部証明書を申請〜支払い〜郵送待ちまで、日本語で案内する。日本の会社・個人向け。",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "personal",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/japanese-registry-certificate/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

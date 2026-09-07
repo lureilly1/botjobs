@@ -1,0 +1,42 @@
+{
+  "slug": "lyric-guard",
+  "name": "Lyric Guard",
+  "grokShareUrl": "https://x.ai/bot/NCOULqxHrobWGWgAbQ-Er",
+  "botId": "NCOULqxHrobWGWgAbQ-Er",
+  "creator": {
+    "handle": "soundecclesia",
+    "url": "https://x.com/soundecclesia"
+  },
+  "sourceUrl": "https://x.com/soundecclesia/status/2096322253382451684",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lyric-guard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lyric Guard by Jerrod",
+    "description": "Rates any song 1–10 for whether its lyrics are spiritually safe for a Christian — Scripture lens, evidence quoted, no invented lyrics.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "content",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lyric-guard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

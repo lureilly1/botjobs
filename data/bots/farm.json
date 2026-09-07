@@ -1,0 +1,44 @@
+{
+  "slug": "farm",
+  "name": "Farm",
+  "grokShareUrl": "https://x.ai/bot/x3Iv-2J4mfxJY6JFlgwNa",
+  "botId": "x3Iv-2J4mfxJY6JFlgwNa",
+  "creator": {
+    "handle": "mpieras",
+    "url": "https://x.com/mpieras"
+  },
+  "sourceUrl": "https://x.com/mpieras/status/2095120187389263968",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/farm/"
+  },
+  "description": null,
+  "official": {
+    "title": "Farm by Miguel",
+    "description": "Sets up isolated Claude Code and optional Codex seats on this bot’s computer and routes fat jobs so the chat only sees compact results. For anyone who...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "saving-money",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/farm/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

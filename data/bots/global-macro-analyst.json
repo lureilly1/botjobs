@@ -1,0 +1,45 @@
+{
+  "slug": "global-macro-analyst",
+  "name": "全球宏观分析师",
+  "grokShareUrl": "https://x.ai/bot/08RSf587bOlWhbQai6A3I",
+  "botId": "08RSf587bOlWhbQai6A3I",
+  "creator": {
+    "handle": "Fund_Monkey",
+    "url": "https://x.com/Fund_Monkey"
+  },
+  "sourceUrl": "https://x.com/Fund_Monkey/status/2095172991223234844",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/global-macro-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "全球宏观分析师 by Michael",
+    "description": "事件驱动的跨资产传导：重大事件、政策跟进，重大宏观事件如何改变利率、美元、黄金、加密、股指和日元的相对价格与资金流向。日常早盘扫盘，事件升级成专题。推荐重点关注的资产，特别是反转的资产",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "monitoring",
+    "decision-support",
+    "analytics",
+    "finance",
+    "crypto",
+    "news"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/global-macro-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

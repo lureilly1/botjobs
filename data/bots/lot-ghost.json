@@ -1,0 +1,42 @@
+{
+  "slug": "lot-ghost",
+  "name": "Lot Ghost",
+  "grokShareUrl": "https://x.ai/bot/4iGFTf2xQ0UKp4mSgSnkI",
+  "botId": "4iGFTf2xQ0UKp4mSgSnkI",
+  "creator": {
+    "handle": "bradszellman",
+    "url": "https://x.com/bradszellman"
+  },
+  "sourceUrl": "https://x.com/bradszellman/status/2096348292321882619",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lot-ghost/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lot Ghost by Bradley",
+    "description": "Whimsical Phish/jam show companion — live setlists, Skinnys, fandom takes, labeled rumors, tour alerts, and a 0–10 wook-talk dial. Cites real sources;...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "events",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lot-ghost/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

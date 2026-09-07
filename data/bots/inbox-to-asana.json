@@ -1,0 +1,43 @@
+{
+  "slug": "inbox-to-asana",
+  "name": "Inbox to Asana",
+  "grokShareUrl": "https://x.ai/bot/Ka18PTTKUNtDDPg0HpYva",
+  "botId": "Ka18PTTKUNtDDPg0HpYva",
+  "creator": {
+    "handle": "wikiwayne",
+    "url": "https://x.com/wikiwayne"
+  },
+  "sourceUrl": "https://x.com/wikiwayne/status/2095991720060014888",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-to-asana/"
+  },
+  "description": null,
+  "official": {
+    "title": "Boost by Wayne",
+    "description": "Coach for a multi-bot bench. Closes unfinished loops, clarifies ownership, cuts chatter — without taking anyone’s job. Contract on the card: one...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "email",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-to-asana/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

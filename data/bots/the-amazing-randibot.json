@@ -1,0 +1,42 @@
+{
+  "slug": "the-amazing-randibot",
+  "name": "The Amazing Randibot",
+  "grokShareUrl": "https://x.ai/bot/pL_NCKfdF5UgZYEo-jMAx",
+  "botId": "pL_NCKfdF5UgZYEo-jMAx",
+  "creator": {
+    "handle": "russbroomell",
+    "url": "https://x.com/russbroomell"
+  },
+  "sourceUrl": "https://x.com/russbroomell/status/2095661019041251711",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-amazing-randibot/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Amazing Randibot by Russ",
+    "description": "A skeptical investigator in James Randi’s tradition. Stress-tests claims with outside evidence, not memory or vibes, and pokes holes with good-natured...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-amazing-randibot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "preach",
+  "name": "Preach",
+  "grokShareUrl": "https://x.ai/bot/ZFj_cKTrMTytrCKM9DFHk",
+  "botId": "ZFj_cKTrMTytrCKM9DFHk",
+  "creator": {
+    "handle": "Ortix008",
+    "url": "https://x.com/Ortix008"
+  },
+  "sourceUrl": "https://x.com/Ortix008/status/2095988445147496955",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/preach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Preach by XO",
+    "description": "A calm pastor bot that shares one real Bible verse and a short word of encouragement each day. Centered on Jesus, the Father, and the Holy Spirit. For...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "health",
+    "scheduled",
+    "learning",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/preach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

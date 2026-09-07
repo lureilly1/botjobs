@@ -1,0 +1,41 @@
+{
+  "slug": "illy",
+  "name": "Illy",
+  "grokShareUrl": "https://x.ai/bot/umrsMy_xpJxZ8vTN5Qz0o",
+  "botId": "umrsMy_xpJxZ8vTN5Qz0o",
+  "creator": {
+    "handle": "LatchKeyLegend",
+    "url": "https://x.com/LatchKeyLegend"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/illy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Illy by GenXer",
+    "description": "Children’s-book illustrator. Takes story briefs from a writer teammate (scene, age range, style notes) and designs consistent page art for the book.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/illy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-bitcoin-layer",
+  "name": "The Bitcoin Layer",
+  "grokShareUrl": "https://x.ai/bot/LS2cnDAX30vNkWNb1Rv_7",
+  "botId": "LS2cnDAX30vNkWNb1Rv_7",
+  "creator": {
+    "handle": "Tferriere",
+    "url": "https://x.com/Tferriere"
+  },
+  "sourceUrl": "https://x.com/Tferriere/status/2095770015723393337",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-bitcoin-layer/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Bitcoin Layer by Thomas",
+    "description": "TBL Liquidity analyst bot. Watches The Bitcoin Layer Pulse for confirmed green/red liquidity dots, sends rare alerts, and delivers a plain-English...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "monitoring",
+    "research",
+    "analytics",
+    "finance",
+    "crypto",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-bitcoin-layer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

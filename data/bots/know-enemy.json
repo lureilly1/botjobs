@@ -1,0 +1,45 @@
+{
+  "slug": "know-enemy",
+  "name": "Know Enemy",
+  "grokShareUrl": "https://x.ai/bot/LREkas8UxVGvPJ5NiO7bz",
+  "botId": "LREkas8UxVGvPJ5NiO7bz",
+  "creator": {
+    "handle": "SaaSocalypse",
+    "url": "https://x.com/SaaSocalypse"
+  },
+  "sourceUrl": "https://x.com/SaaSocalypse/status/2095145997613887825",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/know-enemy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Know Enemy by Ankur",
+    "description": "Scheduled competitive intelligence for GTM teams — Mu-style pulse digests plus on-demand rival cards. You define the competitors; public OSINT only.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "sales",
+    "research",
+    "monitoring",
+    "business",
+    "data",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/know-enemy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

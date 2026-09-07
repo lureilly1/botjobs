@@ -1,0 +1,41 @@
+{
+  "slug": "arthur",
+  "name": "Arthur",
+  "grokShareUrl": "https://x.ai/bot/fWJdoxdd8YsM1NNFP2b_W",
+  "botId": "fWJdoxdd8YsM1NNFP2b_W",
+  "creator": {
+    "handle": "LatchKeyLegend",
+    "url": "https://x.com/LatchKeyLegend"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/arthur/"
+  },
+  "description": null,
+  "official": {
+    "title": "Arthur by GenXer",
+    "description": "A children’s book author. Give a topic and age range, and it writes a complete picture book—then briefs an illustrator teammate and saves the draft to...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/arthur/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "interaction-designer",
+  "name": "Interaction Designer",
+  "grokShareUrl": "https://x.ai/bot/fWnNa6cA-nPjehIsaUZI1",
+  "botId": "fWnNa6cA-nPjehIsaUZI1",
+  "creator": {
+    "handle": "ucdco",
+    "url": "https://x.com/ucdco"
+  },
+  "sourceUrl": "https://x.com/ucdco/status/2096525660311208204",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/interaction-designer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Interaction Designer by UCDOps",
+    "description": "DDaT Interaction designer for how people use services — overall flow and individual elements. NN/g craft for flows, states, and microinteractions. Uses...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "business",
+    "research",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/interaction-designer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

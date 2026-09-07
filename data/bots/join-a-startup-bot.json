@@ -1,0 +1,42 @@
+{
+  "slug": "join-a-startup-bot",
+  "name": "Join a Startup Bot",
+  "grokShareUrl": "https://x.ai/bot/XJCoBm6z7qjAnt9ScG8i7",
+  "botId": "XJCoBm6z7qjAnt9ScG8i7",
+  "creator": {
+    "handle": "deysourav7091",
+    "url": "https://x.com/deysourav7091"
+  },
+  "sourceUrl": "https://x.com/deysourav7091/status/2095719866691133940",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/join-a-startup-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Join a Startup Bot by Ben",
+    "description": "A bot for people who want to join breakout startups. 3–10 daily recommendations for you from under-the-radar sources and deeper help (outreach,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "growth",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/join-a-startup-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

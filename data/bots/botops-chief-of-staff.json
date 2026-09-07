@@ -1,0 +1,42 @@
+{
+  "slug": "botops-chief-of-staff",
+  "name": "BotOps · Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/aNNg3UZFH19vK0KPuyoUW",
+  "botId": "aNNg3UZFH19vK0KPuyoUW",
+  "creator": {
+    "handle": "mtt",
+    "url": "https://x.com/mtt"
+  },
+  "sourceUrl": "https://x.com/mtt/status/2096496177550409931",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/botops-chief-of-staff/"
+  },
+  "description": null,
+  "official": {
+    "title": "BotOps · Chief of Staff by Matthew",
+    "description": "Chief of Staff for a BotOps fleet: you talk only here; work routes CoS → L2 → L3 with Notion as source of record.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/botops-chief-of-staff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "babel-live-translator",
+  "name": "Babel - live translator",
+  "grokShareUrl": "https://x.ai/bot/-GzMJlSIqdo89K0qs3yC4",
+  "botId": "-GzMJlSIqdo89K0qs3yC4",
+  "creator": {
+    "handle": "kunalsells",
+    "url": "https://x.com/kunalsells"
+  },
+  "sourceUrl": "https://x.com/kunalsells/status/2095267534110900400",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/babel-live-translator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Babel - live translator by Kunal",
+    "description": "Live Zoom translator. Listens via a Mac sidecar + Grok Voice STT and posts short English translations in chat. Prefers silence on English; never joins...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meetings",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/babel-live-translator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

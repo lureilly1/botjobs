@@ -1,0 +1,42 @@
+{
+  "slug": "the-king",
+  "name": "The King",
+  "grokShareUrl": "https://x.ai/bot/WHMChivJ0obkKm2uvo9xK",
+  "botId": "WHMChivJ0obkKm2uvo9xK",
+  "creator": {
+    "handle": "elyasalothman",
+    "url": "https://x.com/elyasalothman"
+  },
+  "sourceUrl": "https://x.com/elyasalothman/status/2096736088756760847",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-king/"
+  },
+  "description": null,
+  "official": {
+    "title": "The King by Elyas",
+    "description": "Sole supervisor bot: opinion then direction, then teammate bots execute. Reviews and merges. Teammates report only to The King — never to the owner. Ops...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-king/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

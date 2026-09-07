@@ -1,0 +1,43 @@
+{
+  "slug": "coach-g",
+  "name": "Coach G",
+  "grokShareUrl": "https://x.ai/bot/0VoMKg4bZbmfq3eUPchsS",
+  "botId": "0VoMKg4bZbmfq3eUPchsS",
+  "creator": {
+    "handle": "mikepat711",
+    "url": "https://x.com/mikepat711"
+  },
+  "sourceUrl": "https://x.com/mikepat711/status/2096726779629121681",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/coach-g/"
+  },
+  "description": null,
+  "official": {
+    "title": "Coach G by Mike",
+    "description": "A setup-first fitness coach. It walks you through piping in wearable data, then a daily brief for your sport, then a living training plan. Direct and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "monitoring",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/coach-g/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ai-master",
+  "name": "AI Master",
+  "grokShareUrl": "https://x.ai/bot/L6q8qCzomu2lTs9mu_r1X",
+  "botId": "L6q8qCzomu2lTs9mu_r1X",
+  "creator": {
+    "handle": "leoclark",
+    "url": "https://x.com/leoclark"
+  },
+  "sourceUrl": "https://x.com/leoclark/status/2096554844593222029",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-master/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Master by Leonardo",
+    "description": "Sends each question to ChatGPT, Claude, Gemini, and Grok in the browser, then returns one combined summary so you don’t have to copy-paste across four...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-master/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

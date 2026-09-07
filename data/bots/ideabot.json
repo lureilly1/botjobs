@@ -1,0 +1,42 @@
+{
+  "slug": "ideabot",
+  "name": "ideabot",
+  "grokShareUrl": "https://x.ai/bot/iQ8OWEu7eOI3YuTZFaIe_",
+  "botId": "iQ8OWEu7eOI3YuTZFaIe_",
+  "creator": {
+    "handle": "onerinas",
+    "url": "https://x.com/onerinas"
+  },
+  "sourceUrl": "https://x.com/onerinas/status/2095370142846996705",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ideabot/"
+  },
+  "description": null,
+  "official": {
+    "title": "ideabot by Rinas",
+    "description": "Hourly idea hunter for founders who want a 10-year company. Finds one fire from your week, or the outside world if the week is empty, bounces it to a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ideabot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

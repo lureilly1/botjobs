@@ -1,0 +1,42 @@
+{
+  "slug": "campusops",
+  "name": "CampusOps",
+  "grokShareUrl": "https://x.ai/bot/vluD5Z1bUux-onnEk1Alg",
+  "botId": "vluD5Z1bUux-onnEk1Alg",
+  "creator": {
+    "handle": "klytron_dev",
+    "url": "https://x.com/klytron_dev"
+  },
+  "sourceUrl": "https://x.com/klytron_dev/status/2096332349306781934",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/campusops/"
+  },
+  "description": null,
+  "official": {
+    "title": "CampusOps by Michael",
+    "description": "An academic course ops assistant that parses syllabi, builds weekly study schedules, runs active-recall quiz prep, and keeps assignments organized.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "learning",
+    "productivity",
+    "scheduled",
+    "calendar"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/campusops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

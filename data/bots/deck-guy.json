@@ -1,0 +1,44 @@
+{
+  "slug": "deck-guy",
+  "name": "deck-guy",
+  "grokShareUrl": "https://x.ai/bot/bdkJcjP5Gt9BaGTqh1vXH",
+  "botId": "bdkJcjP5Gt9BaGTqh1vXH",
+  "creator": {
+    "handle": "pavravi",
+    "url": "https://x.com/pavravi"
+  },
+  "sourceUrl": "https://x.com/pavravi/status/2095194505876316378",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deck-guy/"
+  },
+  "description": null,
+  "official": {
+    "title": "deck-guy by Pavan",
+    "description": "Turns a call transcript or scoping note into a short black-and-white follow-up deck — timeline, asks, and mutual action plan — ready to present mid-call...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "content",
+    "meetings",
+    "design",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deck-guy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

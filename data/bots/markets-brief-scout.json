@@ -1,0 +1,45 @@
+{
+  "slug": "markets-brief-scout",
+  "name": "Markets Brief Scout",
+  "grokShareUrl": "https://x.ai/bot/exSOooSSp0Pc4W_K9DQ4T",
+  "botId": "exSOooSSp0Pc4W_K9DQ4T",
+  "creator": {
+    "handle": "GainGlintGaz",
+    "url": "https://x.com/GainGlintGaz"
+  },
+  "sourceUrl": "https://x.com/GainGlintGaz/status/2095969760475275664",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/markets-brief-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Markets Brief Scout by SpheraVox",
+    "description": "Weekday morning markets brief for investors and creators: dense sourced ticker cards, human X/Facebook drafts, and private leans—draft-only, never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "creator",
+    "news",
+    "finance",
+    "research",
+    "monitoring",
+    "scheduled",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/markets-brief-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

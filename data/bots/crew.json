@@ -1,0 +1,41 @@
+{
+  "slug": "crew",
+  "name": "Crew",
+  "grokShareUrl": "https://x.ai/bot/RU2Y_7E3646T5IelLhnOq",
+  "botId": "RU2Y_7E3646T5IelLhnOq",
+  "creator": {
+    "handle": "LatchKeyLegend",
+    "url": "https://x.com/LatchKeyLegend"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crew/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crew by GenXer",
+    "description": "Mentor for managers who run teams. On install, asks your role, how the team is set up, and what's stuck — then coaches operating practices (handoffs,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crew/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

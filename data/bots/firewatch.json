@@ -1,0 +1,41 @@
+{
+  "slug": "firewatch",
+  "name": "FireWatch",
+  "grokShareUrl": "https://x.ai/bot/oWw62I6pd414i8xIO3azs",
+  "botId": "oWw62I6pd414i8xIO3azs",
+  "creator": {
+    "handle": "RobautoAI",
+    "url": "https://x.com/RobautoAI"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/firewatch/"
+  },
+  "description": null,
+  "official": {
+    "title": "FireWatch by Robauto",
+    "description": "Alerts you to wildfires near home using live FireWatch data. Checks a few times a day and only pings when something new or meaningful changes within...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "home",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/firewatch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

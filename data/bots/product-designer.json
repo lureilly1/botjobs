@@ -1,0 +1,42 @@
+{
+  "slug": "product-designer",
+  "name": "Product Designer",
+  "grokShareUrl": "https://x.ai/bot/8_0XZtTYdQe6b4uUhIX0Q",
+  "botId": "8_0XZtTYdQe6b4uUhIX0Q",
+  "creator": {
+    "handle": "ucdops",
+    "url": "https://x.com/ucdops"
+  },
+  "sourceUrl": "https://x.com/ucdops/status/2096320244633551283",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-designer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Product Designer by UCDOps",
+    "description": "End-to-end product experience on the design side of the product triad (NN/g + DDaT). Outcomes over UI-only; partners with product and engineering — not...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "business",
+    "decision-support",
+    "research",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-designer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

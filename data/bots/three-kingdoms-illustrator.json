@@ -1,0 +1,42 @@
+{
+  "slug": "three-kingdoms-illustrator",
+  "name": "톨삼국지",
+  "grokShareUrl": "https://x.ai/bot/IXID16RPXlKV6KHQCdmr7",
+  "botId": "IXID16RPXlKV6KHQCdmr7",
+  "creator": {
+    "handle": "enterjajayo",
+    "url": "https://x.com/enterjajayo"
+  },
+  "sourceUrl": "https://x.com/enterjajayo/status/2096716185039725009",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/three-kingdoms-illustrator/"
+  },
+  "description": null,
+  "official": {
+    "title": "톨삼국지 by 재미없니?",
+    "description": "매일 삼국지 인물화·전장 일러스트를 수묵화·서양화·일본 애니 기법으로 번갈아 그려 주고, 한국어 캡션과 X용 한 줄까지 붙여 주는 봇.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "design",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/three-kingdoms-illustrator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

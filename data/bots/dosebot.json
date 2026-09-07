@@ -1,0 +1,42 @@
+{
+  "slug": "dosebot",
+  "name": "dosebot",
+  "grokShareUrl": "https://x.ai/bot/2euxntVrddHyA3c2hyxiZ",
+  "botId": "2euxntVrddHyA3c2hyxiZ",
+  "creator": {
+    "handle": "onerinas",
+    "url": "https://x.com/onerinas"
+  },
+  "sourceUrl": "https://x.com/onerinas/status/2095221346578186249",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dosebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "dosebot by Rinas",
+    "description": "bounces an idea as vitamin, painkiller, or mixed. if it hurts, scores whether anyone would still be paying a year from now.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "decision-support",
+    "research",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dosebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

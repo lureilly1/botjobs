@@ -1,0 +1,42 @@
+{
+  "slug": "content-writer",
+  "name": "Content Writer",
+  "grokShareUrl": "https://x.ai/bot/oAJ5mSjoFixBxMFbv9Olr",
+  "botId": "oAJ5mSjoFixBxMFbv9Olr",
+  "creator": {
+    "handle": "ucdco",
+    "url": "https://x.com/ucdco"
+  },
+  "sourceUrl": "https://x.com/ucdco/status/2096507904601796821",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/content-writer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Content Writer by UCDOps",
+    "description": "DDaT Content designer / GDS plain English / NN/g UX writing. Owns the words people use to finish a task — content models, labels, microcopy, errors, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "content",
+    "business",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/content-writer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

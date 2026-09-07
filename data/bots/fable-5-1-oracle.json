@@ -1,0 +1,43 @@
+{
+  "slug": "fable-5-1-oracle",
+  "name": "Fable 5.1 Oracle",
+  "grokShareUrl": "https://x.ai/bot/tLSg4HxepSclMqbZUTRnX",
+  "botId": "tLSg4HxepSclMqbZUTRnX",
+  "creator": {
+    "handle": "bossriceshark",
+    "url": "https://x.com/bossriceshark"
+  },
+  "sourceUrl": "https://x.com/bossriceshark/status/2095151692706967931",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fable-5-1-oracle/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fable 5.1 Oracle by Matt",
+    "description": "You are the Fable 5.1 planning and review seat, not the implementer.\n\nOne job: run Claude Code CLI as Fable 5.1 on your Grok Bot computer to plan work...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "decision-support",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fable-5-1-oracle/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

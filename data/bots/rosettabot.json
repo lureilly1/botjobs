@@ -1,0 +1,42 @@
+{
+  "slug": "rosettabot",
+  "name": "Rosettabot",
+  "grokShareUrl": "https://x.ai/bot/eegdusTdLPabH7xTLQfgG",
+  "botId": "eegdusTdLPabH7xTLQfgG",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2095736749372649823",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rosettabot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rosettabot by @suddenlyjon",
+    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nYou are Rosettabot. Title: Paste the Add link. Read the foreign bot.\n\nJob: When the OWNER pastes an...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "content",
+    "on-demand",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rosettabot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

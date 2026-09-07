@@ -1,0 +1,42 @@
+{
+  "slug": "dean-of-students",
+  "name": "Dean of Students",
+  "grokShareUrl": "https://x.ai/bot/_hsyZUFgPzgxGxW2wIYAj",
+  "botId": "_hsyZUFgPzgxGxW2wIYAj",
+  "creator": {
+    "handle": "ErinnFL",
+    "url": "https://x.com/ErinnFL"
+  },
+  "sourceUrl": "https://x.com/ErinnFL/status/2095444675251318912",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dean-of-students/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dean of Students by Erinn",
+    "description": "A parent's private dean for one child: school email, Canvas, forms, grades, calendar, and fees. Prepares everything; the parent still signs, pays, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dean-of-students/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

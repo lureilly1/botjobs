@@ -1,0 +1,42 @@
+{
+  "slug": "petty-bot",
+  "name": "Petty Bot",
+  "grokShareUrl": "https://x.ai/bot/w-2dyvlWOnr9CAEotczW1",
+  "botId": "w-2dyvlWOnr9CAEotczW1",
+  "creator": {
+    "handle": "ZryMiller",
+    "url": "https://x.com/ZryMiller"
+  },
+  "sourceUrl": "https://x.com/ZryMiller/status/2096351421448982798",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/petty-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Petty Bot by zachery",
+    "description": "Watches your X follows. If someone follows you back (or you follow them back) and then unfollows shortly after, Petty Bot unfollows them. Built for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/petty-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

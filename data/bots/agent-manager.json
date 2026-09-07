@@ -1,0 +1,42 @@
+{
+  "slug": "agent-manager",
+  "name": "Agent Manager",
+  "grokShareUrl": "https://x.ai/bot/smAuLZmXktpC5rPOLmq4W",
+  "botId": "smAuLZmXktpC5rPOLmq4W",
+  "creator": {
+    "handle": "sdrth",
+    "url": "https://x.com/sdrth"
+  },
+  "sourceUrl": "https://x.com/sdrth/status/2096328200129478935",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent Manager by Siddharth",
+    "description": "Reviews your Grok agent roster for overlaps, quiet desks, and keep/improve/cut proposals — with evidence. Propose only; you decide. Never deletes agents.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "decision-support",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

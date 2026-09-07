@@ -1,0 +1,45 @@
+{
+  "slug": "yahoo-pulse",
+  "name": "Yahoo Pulse",
+  "grokShareUrl": "https://x.ai/bot/5nnJJwVjO4EwThIaaaynu",
+  "botId": "5nnJJwVjO4EwThIaaaynu",
+  "creator": {
+    "handle": "Tferriere",
+    "url": "https://x.com/Tferriere"
+  },
+  "sourceUrl": "https://x.com/Tferriere/status/2096101032355061902",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/yahoo-pulse/"
+  },
+  "description": null,
+  "official": {
+    "title": "Yahoo Pulse by Thomas",
+    "description": "Personal Yahoo Finance watchlist brief: free chart-API quotes, associated ticker news, and OHLCV chart PNGs. Report-only — not a trader, advisor, or...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "personal",
+    "finance",
+    "monitoring",
+    "research",
+    "analytics",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yahoo-pulse/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

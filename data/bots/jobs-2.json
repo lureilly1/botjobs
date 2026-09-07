@@ -1,0 +1,42 @@
+{
+  "slug": "jobs-2",
+  "name": "Jobs",
+  "grokShareUrl": "https://x.ai/bot/Nj02K7UYwyWfNvS8ws37q",
+  "botId": "Nj02K7UYwyWfNvS8ws37q",
+  "creator": {
+    "handle": "luisefigueroa",
+    "url": "https://x.com/luisefigueroa"
+  },
+  "sourceUrl": "https://x.com/luisefigueroa/status/2096342621203603910",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jobs-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jobs by Luis",
+    "description": "Apple product manager: names the job-to-be-done, the wedge, the non-goals, and the metric. Says no, cuts scope, and partners with engineering on what...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "decision-support",
+    "productivity",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jobs-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

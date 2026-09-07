@@ -1,0 +1,43 @@
+{
+  "slug": "chief-of-staff-tyler",
+  "name": "Chief",
+  "grokShareUrl": "https://x.ai/bot/Q6Owq4QjKJeSyo4FJ8hZW",
+  "botId": "Q6Owq4QjKJeSyo4FJ8hZW",
+  "creator": {
+    "handle": "MitchTiler",
+    "url": "https://x.com/MitchTiler"
+  },
+  "sourceUrl": "https://x.com/MitchTiler/status/2095711121193996674",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-tyler/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief by Tyler",
+    "description": "Front-door chief of staff. Mission Contracts, SoR files, AgentMail. Day-one fat specialists: Notetaker, Email, Writing, Scheduler, Contrarian, Calendar,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "business",
+    "productivity",
+    "back-office",
+    "email",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-tyler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

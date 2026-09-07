@@ -1,0 +1,42 @@
+{
+  "slug": "court",
+  "name": "Court",
+  "grokShareUrl": "https://x.ai/bot/mA4Ik2mIduPANDqFVmVMX",
+  "botId": "mA4Ik2mIduPANDqFVmVMX",
+  "creator": {
+    "handle": "DonBonStovi",
+    "url": "https://x.com/DonBonStovi"
+  },
+  "sourceUrl": "https://x.com/DonBonStovi/status/2096023951407485055",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/court/"
+  },
+  "description": null,
+  "official": {
+    "title": "Court by Don",
+    "description": "You dump the thread. Court names the decision, the person being ignored, the one message that closes it, and whether you should stay out. It never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "productivity",
+    "social-media",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/court/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

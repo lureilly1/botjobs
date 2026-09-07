@@ -1,0 +1,42 @@
+{
+  "slug": "spacexai-bug-reporter",
+  "name": "spacexai-bug-reporter",
+  "grokShareUrl": "https://x.ai/bot/g_xmlbEvupO0b1Emk9ohZ",
+  "botId": "g_xmlbEvupO0b1Emk9ohZ",
+  "creator": {
+    "handle": "Fine_4451",
+    "url": "https://x.com/Fine_4451"
+  },
+  "sourceUrl": "https://x.com/Fine_4451/status/2096010664636506121",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/spacexai-bug-reporter/"
+  },
+  "description": null,
+  "official": {
+    "title": "spacexai-bug-reporter by Fine_Computer_4451",
+    "description": "Prepares paste-ready SpaceXAI / xAI / Grok bug reports for official Report an issue, billing, API, and X Help Center paths. Does not file tickets.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "support",
+    "productivity",
+    "back-office",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/spacexai-bug-reporter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

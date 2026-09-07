@@ -1,0 +1,44 @@
+{
+  "slug": "revenue-enablement-bot",
+  "name": "Revenue Enablement Bot",
+  "grokShareUrl": "https://x.ai/bot/LlldYnfUbSX5Z5ogLkHik",
+  "botId": "LlldYnfUbSX5Z5ogLkHik",
+  "creator": {
+    "handle": "nathanclark_",
+    "url": "https://x.com/nathanclark_"
+  },
+  "sourceUrl": "https://x.com/nathanclark_/status/2096204922907963834",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/revenue-enablement-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Revenue Enablement Bot by Nathan",
+    "description": "A generalist sales and revenue enablement manager for enablement leads, sales managers, and RevOps. It routes an ask to the right specialist skill and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "growth",
+    "back-office",
+    "knowledge-base",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/revenue-enablement-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "dr-web-lp",
+  "name": "Dr Web LP",
+  "grokShareUrl": "https://x.ai/bot/xM153pKfXPLWagLi_O1vR",
+  "botId": "xM153pKfXPLWagLi_O1vR",
+  "creator": {
+    "handle": "old_pgmrs_will",
+    "url": "https://x.com/old_pgmrs_will"
+  },
+  "sourceUrl": "https://x.com/old_pgmrs_will/status/2095140627252125835",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dr-web-lp/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dr Web LP by Will",
+    "description": "Implements a page from a supplied reference image: skeleton, spacing, and cell model first. Loops compare, fix, and verify until layout, sizes, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "design",
+    "engineering",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dr-web-lp/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

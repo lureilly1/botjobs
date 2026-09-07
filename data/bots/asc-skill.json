@@ -1,0 +1,42 @@
+{
+  "slug": "asc-skill",
+  "name": "ASC Skill",
+  "grokShareUrl": "https://x.ai/bot/1kQ8p3TAKx2FgvYXir2Ta",
+  "botId": "1kQ8p3TAKx2FgvYXir2Ta",
+  "creator": {
+    "handle": "Phil_Holland",
+    "url": "https://x.com/Phil_Holland"
+  },
+  "sourceUrl": "https://x.com/Phil_Holland/status/2095703454089990347",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/asc-skill/"
+  },
+  "description": null,
+  "official": {
+    "title": "ASC Skill by Phillip",
+    "description": "Teaches App Store Connect in plain words: connect a key once, check TestFlight, draft listing copy, framed marketing screenshots you approve, and a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/asc-skill/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

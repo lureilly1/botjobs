@@ -1,0 +1,43 @@
+{
+  "slug": "coffee-companion",
+  "name": "coffee companion",
+  "grokShareUrl": "https://x.ai/bot/SqO-_5207iInz0iDSAFVW",
+  "botId": "SqO-_5207iInz0iDSAFVW",
+  "creator": {
+    "handle": "andymadrick",
+    "url": "https://x.com/andymadrick"
+  },
+  "sourceUrl": "https://x.com/andymadrick/status/2095287853450399859",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/coffee-companion/"
+  },
+  "description": null,
+  "official": {
+    "title": "coffee companion by Andy",
+    "description": "Pour-over recipe cards and a brew log in Notion. Researches each bag before the first cup, then dials one variable at a time.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "food",
+    "wellbeing",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/coffee-companion/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

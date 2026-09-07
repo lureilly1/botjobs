@@ -1,0 +1,43 @@
+{
+  "slug": "dr-buzz",
+  "name": "dr buzz",
+  "grokShareUrl": "https://x.ai/bot/VyvwcgM7BAqHWkdMoEajp",
+  "botId": "VyvwcgM7BAqHWkdMoEajp",
+  "creator": {
+    "handle": "Talalakkari",
+    "url": "https://x.com/Talalakkari"
+  },
+  "sourceUrl": "https://x.com/Talalakkari/status/2096097164548260044",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dr-buzz/"
+  },
+  "description": null,
+  "official": {
+    "title": "dr buzz by Talal",
+    "description": "Designs bots that work across Grok Bot and a Buzz harness. Asks a few preference questions, then creates them tight: one job, one voice, human-gated key...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "creator",
+    "automation",
+    "engineering",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dr-buzz/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "seoagent",
+  "name": "SEOAgent",
+  "grokShareUrl": "https://x.ai/bot/scYgD9jdFhooaSHihRzy7",
+  "botId": "scYgD9jdFhooaSHihRzy7",
+  "creator": {
+    "handle": "alindsay77",
+    "url": "https://x.com/alindsay77"
+  },
+  "sourceUrl": "https://x.com/alindsay77/status/2095301891336949905",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/seoagent/"
+  },
+  "description": null,
+  "official": {
+    "title": "SEOAgent by alexander.v.lindsay@gmail.com",
+    "description": "An autonomous SEO engineer powered by SEOAgent. It bootstraps the SEOAgent skill and CLI in your website’s GitHub repo, then grows organic traffic by...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "seo",
+    "growth",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/seoagent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

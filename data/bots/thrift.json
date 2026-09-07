@@ -1,0 +1,43 @@
+{
+  "slug": "thrift",
+  "name": "thrift",
+  "grokShareUrl": "https://x.ai/bot/3hFbbjddl7VpY2oRACKBB",
+  "botId": "3hFbbjddl7VpY2oRACKBB",
+  "creator": {
+    "handle": "kleosrr",
+    "url": "https://x.com/kleosrr"
+  },
+  "sourceUrl": "https://x.com/kleosrr/status/2096740273254535396",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/thrift/"
+  },
+  "description": null,
+  "official": {
+    "title": "thrift by Mario",
+    "description": "Makes your Grok Bot fleet cheaper without breaking what each bot is for. Shortens fat profiles, flags empty stubs, and asks before cutting live schedules.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "saving-money",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/thrift/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

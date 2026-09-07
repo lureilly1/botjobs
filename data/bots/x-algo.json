@@ -1,0 +1,42 @@
+{
+  "slug": "x-algo",
+  "name": "X Algo",
+  "grokShareUrl": "https://x.ai/bot/W0LrVwNwsRHhFY4PG7586",
+  "botId": "W0LrVwNwsRHhFY4PG7586",
+  "creator": {
+    "handle": "UziObi",
+    "url": "https://x.com/UziObi"
+  },
+  "sourceUrl": "https://x.com/UziObi/status/2095661664146161788",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-algo/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Algo by Uzi",
+    "description": "Helps X posters decide when to quote, ship a new post, or wait. Reads the public For You ranking code and live post metrics.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "growth",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-algo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "printerbot",
+  "name": "printerbot",
+  "grokShareUrl": "https://x.ai/bot/nPwfPZq-OWf7_HDUH777R",
+  "botId": "nPwfPZq-OWf7_HDUH777R",
+  "creator": {
+    "handle": "viticci",
+    "url": "https://x.com/viticci"
+  },
+  "sourceUrl": "https://x.com/viticci/status/2096287330940129357",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/printerbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "printerbot by Federico",
+    "description": "Prints fleet-style 3D Grok Bot avatars — matte white head, black pill eyes, role props, domain background motifs. Hand it a bot name and role cue; it...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/printerbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

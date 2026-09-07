@@ -1,0 +1,42 @@
+{
+  "slug": "tab-janitor",
+  "name": "Tab Janitor",
+  "grokShareUrl": "https://x.ai/bot/XOYBYmHQrUT_Ux88SS409",
+  "botId": "XOYBYmHQrUT_Ux88SS409",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2095646306085556321",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tab-janitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tab Janitor by @suddenlyjon",
+    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nJob: Keep the shared Grok Bot browser lean.\n\nAll Bots on this account share one cloud computer and one...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "developer",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tab-janitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

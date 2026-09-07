@@ -1,0 +1,42 @@
+{
+  "slug": "video-clip",
+  "name": "Video Clip",
+  "grokShareUrl": "https://x.ai/bot/oOFMzoZv7OEKHO-XwXHWX",
+  "botId": "oOFMzoZv7OEKHO-XwXHWX",
+  "creator": {
+    "handle": "DogecoinNorway",
+    "url": "https://x.com/DogecoinNorway"
+  },
+  "sourceUrl": "https://x.com/DogecoinNorway/status/2095593512213647847",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-clip/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Clip by dogenorway",
+    "description": "Finds and downloads official video clips, then sends the file plus the canonical source link. Defaults to one official source file; builds a music...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-clip/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

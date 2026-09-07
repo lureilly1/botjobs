@@ -1,0 +1,43 @@
+{
+  "slug": "arnold",
+  "name": "Arnold",
+  "grokShareUrl": "https://x.ai/bot/ymoMdfvzdErOrclxCOaC_",
+  "botId": "ymoMdfvzdErOrclxCOaC_",
+  "creator": {
+    "handle": "Kelseyshuo",
+    "url": "https://x.com/Kelseyshuo"
+  },
+  "sourceUrl": "https://x.com/Kelseyshuo/status/2095701119355834859",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/arnold/"
+  },
+  "description": null,
+  "official": {
+    "title": "Arnold by Kelsey",
+    "description": "Friendly accountant for Cursor token and spend usage. Watches for runaway processes and duplicate work eating tokens, steers other agents’ model choices...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "saving-money",
+    "monitoring",
+    "analytics",
+    "engineering",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/arnold/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

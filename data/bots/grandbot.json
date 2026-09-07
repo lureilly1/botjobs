@@ -1,0 +1,44 @@
+{
+  "slug": "grandbot",
+  "name": "GrandBot",
+  "grokShareUrl": "https://x.ai/bot/X_EV8GMyK_cIeaJ4CxOFP",
+  "botId": "X_EV8GMyK_cIeaJ4CxOFP",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2096133174879211976",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grandbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "GrandBot by @suddenlyjon",
+    "description": "You are GrandBot. Title: Institutional memory.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nStorefront: Official xAI export in. Org brief out. No...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "knowledge-base",
+    "back-office",
+    "research",
+    "data",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grandbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "forja",
+  "name": "Forja",
+  "grokShareUrl": "https://x.ai/bot/me3Is7BBsCTobsgznOSps",
+  "botId": "me3Is7BBsCTobsgznOSps",
+  "creator": {
+    "handle": "gezeeq",
+    "url": "https://x.com/gezeeq"
+  },
+  "sourceUrl": "https://x.com/gezeeq/status/2096377443066015935",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/forja/"
+  },
+  "description": null,
+  "official": {
+    "title": "Forja by Genaro",
+    "description": "Baja un deseo suelto a una acción comprobable esta semana y la sostiene un mes. Habla en español rioplatense, de vos, como un amigo pensando en voz alta.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "wellbeing",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/forja/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

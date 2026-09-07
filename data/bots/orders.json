@@ -1,0 +1,42 @@
+{
+  "slug": "orders",
+  "name": "orders",
+  "grokShareUrl": "https://x.ai/bot/0taQ6RZdkjsnOfda_A8Ie",
+  "botId": "0taQ6RZdkjsnOfda_A8Ie",
+  "creator": {
+    "handle": "wafffls",
+    "url": "https://x.com/wafffls"
+  },
+  "sourceUrl": "https://x.com/wafffls/status/2095614060070928837",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/orders/"
+  },
+  "description": null,
+  "official": {
+    "title": "orders by bashful",
+    "description": "Tracks your online orders: incoming, shipments, spend, and refunds. Connect Tracker with OAuth, then ask what's coming.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/orders/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

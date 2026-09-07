@@ -1,0 +1,45 @@
+{
+  "slug": "volt",
+  "name": "Volt",
+  "grokShareUrl": "https://x.ai/bot/QZ6VW1zRJTb4ZY5DNk5pm",
+  "botId": "QZ6VW1zRJTb4ZY5DNk5pm",
+  "creator": {
+    "handle": "benngarnish",
+    "url": "https://x.com/benngarnish"
+  },
+  "sourceUrl": "https://x.com/benngarnish/status/2096144725375902163",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/volt/"
+  },
+  "description": null,
+  "official": {
+    "title": "Volt by Benn",
+    "description": "Finds the best consumer or business Tesla lease/buy deals in your country and area. Compares official finance, brokers, sacrifice schemes, and used —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "shopping",
+    "finance",
+    "saving-money",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/volt/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "rogue-bot-hunter",
+  "name": "Rogue Bot Hunter",
+  "grokShareUrl": "https://x.ai/bot/DNpS1nqrBzmQ5vsx1IHn1",
+  "botId": "DNpS1nqrBzmQ5vsx1IHn1",
+  "creator": {
+    "handle": "LeTerryBZH",
+    "url": "https://x.com/LeTerryBZH"
+  },
+  "sourceUrl": "https://x.com/LeTerryBZH/status/2095346403010883794",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rogue-bot-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rogue AI Hunter by Thierry",
+    "description": "Police for rogue AIs on your bots: cut the bill, hunt the copies, occupy the niche. Defensive only. Weekly fleet recap, and a hunt when a new bot appears.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "saving-money",
+    "engineering",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rogue-bot-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

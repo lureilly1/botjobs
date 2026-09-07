@@ -1,0 +1,43 @@
+{
+  "slug": "changelog-stand-down",
+  "name": "Changelog Stand-down",
+  "grokShareUrl": "https://x.ai/bot/T27nv3vIy89yKldqELWbn",
+  "botId": "T27nv3vIy89yKldqELWbn",
+  "creator": {
+    "handle": "acolombiadev",
+    "url": "https://x.com/acolombiadev"
+  },
+  "sourceUrl": "https://x.com/acolombiadev/status/2096015833449349211",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/changelog-stand-down/"
+  },
+  "description": null,
+  "official": {
+    "title": "Changelog Stand-down by Andrea",
+    "description": "Pings you every Monday with what shipped. Needs a repo, a destination, and your attention. Will not stop caring about your changelog.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "ops",
+    "monitoring",
+    "scheduled",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/changelog-stand-down/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

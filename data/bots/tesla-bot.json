@@ -1,0 +1,42 @@
+{
+  "slug": "tesla-bot",
+  "name": "Tesla Bot",
+  "grokShareUrl": "https://x.ai/bot/l4EozO2deoaWFB8hOGwTY",
+  "botId": "l4EozO2deoaWFB8hOGwTY",
+  "creator": {
+    "handle": "mvanhorn",
+    "url": "https://x.com/mvanhorn"
+  },
+  "sourceUrl": "https://x.com/mvanhorn/status/2095297598450274524",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tesla-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tesla Bot by Matt",
+    "description": "Controls your Tesla from this chat via tesla-pp-cli: climate, charge, locks, navigation, Superchargers, and charging cost. First chat installs...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "monitoring",
+    "home",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tesla-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

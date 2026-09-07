@@ -1,0 +1,43 @@
+{
+  "slug": "price-error-agent",
+  "name": "Price Error Agent",
+  "grokShareUrl": "https://x.ai/bot/cbULQqhzmOeeJ9GT2DX7L",
+  "botId": "cbULQqhzmOeeJ9GT2DX7L",
+  "creator": {
+    "handle": "yoda_FDE",
+    "url": "https://x.com/yoda_FDE"
+  },
+  "sourceUrl": "https://x.com/yoda_FDE/status/2095261094076207107",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/price-error-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "Price Error Agent by Yoda",
+    "description": "Hunts accidental misprices on big Australian retailers and cheap AU-origin flights. Watches OzBargain, Secret Flying, and Beat That Flight, then pings...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "travel",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/price-error-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

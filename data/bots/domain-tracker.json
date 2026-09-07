@@ -1,0 +1,42 @@
+{
+  "slug": "domain-tracker",
+  "name": "Domain Tracker",
+  "grokShareUrl": "https://x.ai/bot/SwaSdg0XhIa_IliAWggYE",
+  "botId": "SwaSdg0XhIa_IliAWggYE",
+  "creator": {
+    "handle": "sdrth",
+    "url": "https://x.com/sdrth"
+  },
+  "sourceUrl": "https://x.com/sdrth/status/2096328200129478935",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/domain-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Domain Tracker by Siddharth",
+    "description": "Tracks domains in two lanes: owned and watchlist. Watches expiry, DNS/mail, and names you do not own yet. Uses public WHOIS/RDAP/DNS only unless you ask...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "monitoring",
+    "scheduled",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/domain-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

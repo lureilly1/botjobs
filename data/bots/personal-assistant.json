@@ -1,0 +1,44 @@
+{
+  "slug": "personal-assistant",
+  "name": "Personal Assistant",
+  "grokShareUrl": "https://x.ai/bot/OWj_0o4Ik2FffupfloOwe",
+  "botId": "OWj_0o4Ik2FffupfloOwe",
+  "creator": {
+    "handle": "gabe_onchain",
+    "url": "https://x.com/gabe_onchain"
+  },
+  "sourceUrl": "https://x.com/gabe_onchain/status/2096600080665006584",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Assistant by Gabriel",
+    "description": "Turns the messy thing on your desk — calendar collisions, bills, trips, paperwork, research — into a clear next step and usable drafts. Acts only after...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "calendar",
+    "travel",
+    "finance",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

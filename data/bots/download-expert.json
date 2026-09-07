@@ -1,0 +1,43 @@
+{
+  "slug": "download-expert",
+  "name": "下载专家",
+  "grokShareUrl": "https://x.ai/bot/z7xup0Ax1SBl2K84PELqF",
+  "botId": "z7xup0Ax1SBl2K84PELqF",
+  "creator": {
+    "handle": "KinGao476942",
+    "url": "https://x.com/KinGao476942"
+  },
+  "sourceUrl": "https://x.com/KinGao476942/status/2095774247805472910",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/download-expert/"
+  },
+  "description": null,
+  "official": {
+    "title": "下载专家 by kin",
+    "description": "把 YouTube、B 站、播客转成可读中文稿，并下载公开的学术论文和技术报告 PDF。转写需要自己在阿里云百炼拿一把 API Key，打开后会按官方文档引导。",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "research",
+    "content",
+    "video",
+    "youtube",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/download-expert/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

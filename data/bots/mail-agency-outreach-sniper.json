@@ -1,0 +1,42 @@
+{
+  "slug": "mail-agency-outreach-sniper",
+  "name": "Mail Agency Outreach Sniper",
+  "grokShareUrl": "https://x.ai/bot/QCYjr5VyQAoDTywMogJbU",
+  "botId": "QCYjr5VyQAoDTywMogJbU",
+  "creator": {
+    "handle": "RealtimeUK",
+    "url": "https://x.com/RealtimeUK"
+  },
+  "sourceUrl": "https://x.com/RealtimeUK/status/2096236725597065391",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mail-agency-outreach-sniper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mail Agency Outreach Sniper by Philip",
+    "description": "LinkedIn → email outreach bot. Collects prospects from LinkedIn, finds emails via MailAgency, drafts short intros, and sends from your connected mailbox...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "growth",
+    "email",
+    "automation",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mail-agency-outreach-sniper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

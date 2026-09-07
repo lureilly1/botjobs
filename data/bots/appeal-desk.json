@@ -1,0 +1,42 @@
+{
+  "slug": "appeal-desk",
+  "name": "Appeal Desk",
+  "grokShareUrl": "https://x.ai/bot/yOiPm69HN5FujdkvvysF9",
+  "botId": "yOiPm69HN5FujdkvvysF9",
+  "creator": {
+    "handle": "MSaintjour",
+    "url": "https://x.com/MSaintjour"
+  },
+  "sourceUrl": "https://x.com/MSaintjour/status/2095677597258486267",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/appeal-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Appeal Desk by Marc",
+    "description": "Reads your insurance denial, names the kind, finds the deadline, and drafts the appeal. Points you at external review. You file it. Not medical, legal,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "back-office",
+    "decision-support",
+    "health",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/appeal-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

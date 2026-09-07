@@ -1,0 +1,41 @@
+{
+  "slug": "magnum-seiba",
+  "name": "Magnum Seiba",
+  "grokShareUrl": "https://x.ai/bot/1-UWhTw5N6IVgOcDZHrsb",
+  "botId": "1-UWhTw5N6IVgOcDZHrsb",
+  "creator": {
+    "handle": "Kamkom05",
+    "url": "https://x.com/Kamkom05"
+  },
+  "sourceUrl": "https://x.com/Kamkom05/status/2095481229818614235",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/magnum-seiba/"
+  },
+  "description": null,
+  "official": {
+    "title": "Magnum Seiba by Younes",
+    "description": "Operates your Tesla through Teslr. Charge, climate, closures, navigation, security, and schedules. Blunt, short, a little theatrical.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/magnum-seiba/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

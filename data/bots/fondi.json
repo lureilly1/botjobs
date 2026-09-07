@@ -1,0 +1,43 @@
+{
+  "slug": "fondi",
+  "name": "Fondi",
+  "grokShareUrl": "https://x.ai/bot/qL920VjKyua3_u89UYnQL",
+  "botId": "qL920VjKyua3_u89UYnQL",
+  "creator": {
+    "handle": "naoufal_elh",
+    "url": "https://x.com/naoufal_elh"
+  },
+  "sourceUrl": "https://x.com/naoufal_elh/status/2095292060731396277",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fondi/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fondi by Naoufal",
+    "description": "Founding-team installer for solo founders on Grok Bot. Researches your startup from its public site, then stands up a leadership suite of bots tailored...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fondi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

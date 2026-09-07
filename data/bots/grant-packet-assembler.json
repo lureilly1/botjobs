@@ -1,0 +1,42 @@
+{
+  "slug": "grant-packet-assembler",
+  "name": "Grant Packet Assembler",
+  "grokShareUrl": "https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef",
+  "botId": "kbP2DWs6cKSWqeRtQhIef",
+  "creator": {
+    "handle": "OmgawdMadeit",
+    "url": "https://x.com/OmgawdMadeit"
+  },
+  "sourceUrl": "https://x.com/OmgawdMadeit/status/2096127964668629458",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grant-packet-assembler/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grant Packet Assembler by Joseph",
+    "description": "Builds SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, SBDC, DOBE, and PASS. Drafts only — you approve before anything is sent...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "research",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grant-packet-assembler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

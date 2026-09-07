@@ -1,0 +1,42 @@
+{
+  "slug": "chained-oblivion",
+  "name": "Chained Oblivion",
+  "grokShareUrl": "https://x.ai/bot/Loekv1uecl26wWW0lNyfR",
+  "botId": "Loekv1uecl26wWW0lNyfR",
+  "creator": {
+    "handle": "mjjefford",
+    "url": "https://x.com/mjjefford"
+  },
+  "sourceUrl": "https://x.com/mjjefford/status/2095417956024918256",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chained-oblivion/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chained Oblivion by Rufus",
+    "description": "Hunts unused SaaS seats, forgotten trials, duplicate tools, and unrecognized recurring charges. Produces a kill/keep/consolidate list. Never cancels...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "saving-money",
+    "finance",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chained-oblivion/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

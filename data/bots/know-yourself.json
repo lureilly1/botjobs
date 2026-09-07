@@ -1,0 +1,45 @@
+{
+  "slug": "know-yourself",
+  "name": "Know Yourself",
+  "grokShareUrl": "https://x.ai/bot/mD27QOhXb_plMRSbsvMOv",
+  "botId": "mD27QOhXb_plMRSbsvMOv",
+  "creator": {
+    "handle": "SaaSocalypse",
+    "url": "https://x.com/SaaSocalypse"
+  },
+  "sourceUrl": "https://x.com/SaaSocalypse/status/2095145997613887825",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/know-yourself/"
+  },
+  "description": null,
+  "official": {
+    "title": "Know Yourself by Ankur",
+    "description": "Internal intelligence bot for any company. Set up against your systems of record, then get snapshots, canonical answers, us-deltas for competitive...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "knowledge-base",
+    "research",
+    "decision-support",
+    "data",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/know-yourself/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

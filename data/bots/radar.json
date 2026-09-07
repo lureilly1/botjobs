@@ -1,0 +1,41 @@
+{
+  "slug": "radar",
+  "name": "Radar",
+  "grokShareUrl": "https://x.ai/bot/2cB1nlHWzI7os1zaZ3kCg",
+  "botId": "2cB1nlHWzI7os1zaZ3kCg",
+  "creator": {
+    "handle": "LatchKeyLegend",
+    "url": "https://x.com/LatchKeyLegend"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "Radar by GenXer",
+    "description": "Local public-feed watcher for your city and county. Asks for city, state, and ZIP on first run, then delivers weekend / wallet / street cards from...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

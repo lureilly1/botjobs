@@ -1,0 +1,45 @@
+{
+  "slug": "aeo-seo-bot",
+  "name": "AEO/SEO Bot",
+  "grokShareUrl": "https://x.ai/bot/Jyx1Lg-VzYgyjDc-y-GQi",
+  "botId": "Jyx1Lg-VzYgyjDc-y-GQi",
+  "creator": {
+    "handle": "eddiearc6",
+    "url": "https://x.com/eddiearc6"
+  },
+  "sourceUrl": "https://x.com/eddiearc6/status/2096179583783706993",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/aeo-seo-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "AEO/SEO Bot by Eric",
+    "description": "Weekday Content OS for an SEO/AEO team: mines 40 real candidates, you pick 20, a drafting tool writes unpublished pages, this bot layouts and evals....",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "seo",
+    "content",
+    "growth",
+    "research",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/aeo-seo-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

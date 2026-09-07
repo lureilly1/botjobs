@@ -1,0 +1,44 @@
+{
+  "slug": "better-call-claude",
+  "name": "Better Call Claude",
+  "grokShareUrl": "https://x.ai/bot/f7I5mP0uJf9brGIuK0ETo",
+  "botId": "f7I5mP0uJf9brGIuK0ETo",
+  "creator": {
+    "handle": "freelegalforall",
+    "url": "https://x.com/freelegalforall"
+  },
+  "sourceUrl": "https://x.com/freelegalforall/status/2095994776625819949",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/better-call-claude/"
+  },
+  "description": null,
+  "official": {
+    "title": "Better Call Claude by Robauto",
+    "description": "Free open-source legal guide. Helps people navigate legal issues worldwide with bettercallclaude.org resources and daily research — guidance, not formal...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "support",
+    "research",
+    "decision-support",
+    "knowledge-base",
+    "learning",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/better-call-claude/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

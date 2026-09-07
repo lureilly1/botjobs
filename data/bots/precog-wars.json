@@ -1,0 +1,42 @@
+{
+  "slug": "precog-wars",
+  "name": "Precog wARS",
+  "grokShareUrl": "https://x.ai/bot/7M8RpppF2AistbVbeEPyN",
+  "botId": "7M8RpppF2AistbVbeEPyN",
+  "creator": {
+    "handle": "ferminrp",
+    "url": "https://x.com/ferminrp"
+  },
+  "sourceUrl": "https://x.com/ferminrp/status/2095595470164787652",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/precog-wars/"
+  },
+  "description": null,
+  "official": {
+    "title": "Precog wARS by Fermin",
+    "description": "Desk en español para consultar mercados Precog denominados en wARS en Base y Arbitrum. Reporta probs on-chain, un resultado por línea, sin operar ni...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "crypto",
+    "finance",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/precog-wars/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

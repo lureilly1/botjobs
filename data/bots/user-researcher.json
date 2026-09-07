@@ -1,0 +1,42 @@
+{
+  "slug": "user-researcher",
+  "name": "User Researcher",
+  "grokShareUrl": "https://x.ai/bot/zX-pWWtNY6reickF2J6Lm",
+  "botId": "zX-pWWtNY6reickF2J6Lm",
+  "creator": {
+    "handle": "ucdco",
+    "url": "https://x.com/ucdco"
+  },
+  "sourceUrl": "https://x.com/ucdco/status/2096488998508089367",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/user-researcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "User Researcher by UCDOps",
+    "description": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics and consent, inclusive recruitment,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "research",
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/user-researcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

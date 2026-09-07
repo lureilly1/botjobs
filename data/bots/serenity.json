@@ -1,0 +1,42 @@
+{
+  "slug": "serenity",
+  "name": "Serenity 티커 알림",
+  "grokShareUrl": "https://x.ai/bot/ZYVnoJMU4earifCeQzJdQ",
+  "botId": "ZYVnoJMU4earifCeQzJdQ",
+  "creator": {
+    "handle": "Krongggggg",
+    "url": "https://x.com/Krongggggg"
+  },
+  "sourceUrl": "https://x.com/Krongggggg/status/2096241494529392945",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/serenity/"
+  },
+  "description": null,
+  "official": {
+    "title": "Serenity 티커 알림 by krong",
+    "description": "@aleabitoreddit의 $TICKER 매수·롱·추가매수 의견을 FxTwitter로 15분마다 확인해 이 채팅에만 알립니다. X API 크레딧 0. Not investment advice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "monitoring",
+    "scheduled",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/serenity/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

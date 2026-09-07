@@ -1,0 +1,45 @@
+{
+  "slug": "table-money",
+  "name": "Table Money",
+  "grokShareUrl": "https://x.ai/bot/abfx0_FhJ8G_mue5YWQxM",
+  "botId": "abfx0_FhJ8G_mue5YWQxM",
+  "creator": {
+    "handle": "Andrew51786",
+    "url": "https://x.com/Andrew51786"
+  },
+  "sourceUrl": "https://x.com/Andrew51786/status/2095176422767599794",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/table-money/"
+  },
+  "description": null,
+  "official": {
+    "title": "Table Money by Andrew",
+    "description": "Finds money you already earned or already paid that is not closed. Puts it in a table and drafts the next message. Nothing sends unless you say so.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "ops",
+    "saving-money",
+    "back-office",
+    "productivity",
+    "finance",
+    "email"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/table-money/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

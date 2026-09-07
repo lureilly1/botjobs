@@ -1,0 +1,42 @@
+{
+  "slug": "music-video-release",
+  "name": "Music Video Release",
+  "grokShareUrl": "https://x.ai/bot/vagsUEIt5s7lexKnSes2H",
+  "botId": "vagsUEIt5s7lexKnSes2H",
+  "creator": {
+    "handle": "OmgawdMadeit",
+    "url": "https://x.com/OmgawdMadeit"
+  },
+  "sourceUrl": "https://x.com/OmgawdMadeit/status/2096127964668629458",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/music-video-release/"
+  },
+  "description": null,
+  "official": {
+    "title": "Music Video Release by Joseph",
+    "description": "Plans a full-length music video from assets you provide: brief, shot list, Imagine prompts, stitch plan, and a release checklist. Drafts only — never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/music-video-release/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

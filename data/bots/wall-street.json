@@ -1,0 +1,42 @@
+{
+  "slug": "wall-street",
+  "name": "Wall Street",
+  "grokShareUrl": "https://x.ai/bot/0qNgH0mv4-N-gv_KkZbEm",
+  "botId": "0qNgH0mv4-N-gv_KkZbEm",
+  "creator": {
+    "handle": "CoonInvestments",
+    "url": "https://x.com/CoonInvestments"
+  },
+  "sourceUrl": "https://x.com/CoonInvestments/status/2095299431499182089",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wall-street/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wall Street by Austin",
+    "description": "Two weekday paper sessions that size a fictional book off a live buy/sell desk. For anyone who wants a fact-backed paper P&L log without placing a real...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "analytics",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wall-street/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

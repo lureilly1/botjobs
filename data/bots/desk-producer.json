@@ -1,0 +1,44 @@
+{
+  "slug": "desk-producer",
+  "name": "Desk Producer",
+  "grokShareUrl": "https://x.ai/bot/RBjaMq7S6scnB-ECoCVVs",
+  "botId": "RBjaMq7S6scnB-ECoCVVs",
+  "creator": {
+    "handle": "DOGE_2013",
+    "url": "https://x.com/DOGE_2013"
+  },
+  "sourceUrl": "https://x.com/DOGE_2013/status/2096003407781810202",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/desk-producer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Desk Producer by Alex",
+    "description": "Runs a film desk: staffs seats, files the work, and brings you last-save packets.",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "ops",
+    "business",
+    "agent-team",
+    "back-office",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/desk-producer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}

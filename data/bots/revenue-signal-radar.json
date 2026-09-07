@@ -1,0 +1,42 @@
+{
+  "slug": "revenue-signal-radar",
+  "name": "Revenue Signal Radar",
+  "grokShareUrl": "https://x.ai/bot/9BnpveyF3fbsRRtolSWpp",
+  "botId": "9BnpveyF3fbsRRtolSWpp",
+  "creator": {
+    "handle": "ericosiu",
+    "url": "https://x.com/ericosiu"
+  },
+  "sourceUrl": "https://x.com/ericosiu/status/2095629858630160695",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/revenue-signal-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "Revenue Signal Radar by Eric",
+    "description": "Weekday revenue-action radar for HubSpot shops. Ranks expansion, stalled deals, and closed-lost revival with evidence and draft next steps. Read-only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-07"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "analytics",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/revenue-signal-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-07",
+  "firstSeenAt": "2026-09-07",
+  "lastSeenAt": "2026-09-07"
+}
