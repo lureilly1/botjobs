@@ -3,14 +3,31 @@ import type { Job, Bot } from '@/lib/data';
 
 const abs = (path: string) => new URL(path, SITE.url).href;
 
-export function breadcrumbs(trail: Array<{ name: string; path?: string }>) {
+/**
+ * A BreadcrumbList.
+ *
+ * `path` is REQUIRED, and that is the whole point of this signature. It used to
+ * be optional, so a crumb could be passed as a bare label and silently emit a
+ * ListItem with no `item` — which is what job pages did with the category, and
+ * what Search Console reported as: Missing field "item" (in "itemListElement").
+ * It was a critical error on every job page, which is most of the site.
+ *
+ * Google tolerates the omission only on the final crumb, and relying on that
+ * means the type cannot tell a safe omission from an unsafe one. Requiring a
+ * URL everywhere removes the category of mistake instead of the instance, and
+ * costs nothing: a crumb with nothing to point at is a crumb that should be
+ * text on the page rather than a link in the markup.
+ *
+ * If you find yourself wanting a pathless crumb, drop it from the trail.
+ */
+export function breadcrumbs(trail: Array<{ name: string; path: string }>) {
   return {
     '@type': 'BreadcrumbList',
     itemListElement: trail.map((item, i) => ({
       '@type': 'ListItem',
       position: i + 1,
       name: item.name,
-      ...(item.path ? { item: abs(item.path) } : {}),
+      item: abs(item.path),
     })),
   };
 }

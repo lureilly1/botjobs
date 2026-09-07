@@ -63,7 +63,10 @@ const description = isOpen
       jobFaqNode(job, bots.length),
       breadcrumbs([
         { name: 'Jobs', path: urls.jobs() },
-        { name: label },
+        // The category carries its real URL rather than being a bare label.
+        // See breadcrumbs() — a crumb with no URL is the markup error Search
+        // Console flagged here, and the category page exists to be pointed at.
+        { name: label, path: urls.category(job.category) },
         { name: job.title, path: urls.job(job.slug) },
       ]),
     ]}
@@ -76,7 +79,10 @@ const description = isOpen
     <nav class="text-muted-foreground mb-6 text-sm" aria-label="Breadcrumb">
       <a href={urls.jobs()} class="hover:text-foreground">Jobs</a>
       <span class="mx-1.5" aria-hidden="true">/</span>
-      <span class="text-foreground">{label}</span>
+      {/* A link, not a label, so the visible trail matches the BreadcrumbList
+          it is described by — Google expects the two to agree. It also gives
+          category pages the inbound links they were short of. */}
+      <a href={urls.category(job.category)} class="hover:text-foreground">{label}</a>
     </nav>
 
     <div class="flex flex-wrap items-center gap-2.5">
