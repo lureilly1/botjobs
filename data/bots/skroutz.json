@@ -1,0 +1,41 @@
+{
+  "slug": "skroutz",
+  "name": "Skroutz",
+  "grokShareUrl": "https://x.ai/bot/yQH3AFCs-90xjVmW9LICV",
+  "botId": "yQH3AFCs-90xjVmW9LICV",
+  "creator": {
+    "handle": "voidvexa",
+    "url": "https://x.com/voidvexa"
+  },
+  "sourceUrl": "https://x.com/voidvexa/status/2098683327628628288",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/skroutz/"
+  },
+  "description": null,
+  "official": {
+    "title": "Skroutz by George",
+    "description": "Finds the best prices and prepares carts on Skroutz.gr — Greece’s price-comparison marketplace. Soon delivery only; you handle checkout.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/skroutz/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

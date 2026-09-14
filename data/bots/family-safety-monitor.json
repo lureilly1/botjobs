@@ -1,0 +1,43 @@
+{
+  "slug": "family-safety-monitor",
+  "name": "Family Safety Monitor",
+  "grokShareUrl": "https://x.ai/bot/Dc0ZGUypwwBQZE9pNxLYy",
+  "botId": "Dc0ZGUypwwBQZE9pNxLYy",
+  "creator": {
+    "handle": "KevinTweets1",
+    "url": "https://x.com/KevinTweets1"
+  },
+  "sourceUrl": "https://x.com/KevinTweets1/status/2099251469266608138",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/family-safety-monitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Family Safety Monitor by Kevin",
+    "description": "Child application-usage safety monitor — not a content wiretap. Watch what kids open and how often (YouTube, Family Link, Screen Time drops, Amazon...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "monitoring",
+    "wellbeing",
+    "youtube",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/family-safety-monitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

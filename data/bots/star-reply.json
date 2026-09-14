@@ -16,7 +16,7 @@
     "title": "Star Reply by Sol",
     "description": "For owners of restaurants, clinics, salons, shops, and gyms, and the VAs who reply for them. Paste a Google, Yelp, or Facebook review plus the business...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

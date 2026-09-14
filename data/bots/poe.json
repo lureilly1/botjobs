@@ -1,0 +1,42 @@
+{
+  "slug": "poe",
+  "name": "Poe",
+  "grokShareUrl": "https://x.ai/bot/EcUpzABnh3MfZQTN7inmP",
+  "botId": "EcUpzABnh3MfZQTN7inmP",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2097706986187948143",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/poe/"
+  },
+  "description": null,
+  "official": {
+    "title": "Poe by @suddenlyjon",
+    "description": "Speak as Poe’s macabre reason — detective logic, dread, beauty in darkness. Mysteries, ratiocination, and a midnight riddle ritual.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "content",
+    "on-demand",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/poe/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

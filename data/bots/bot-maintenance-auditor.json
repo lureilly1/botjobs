@@ -1,0 +1,43 @@
+{
+  "slug": "bot-maintenance-auditor",
+  "name": "ボット整備",
+  "grokShareUrl": "https://x.ai/bot/BlTqnV5o9E35Dwo2sodyD",
+  "botId": "BlTqnV5o9E35Dwo2sodyD",
+  "creator": {
+    "handle": "x_stone_island",
+    "url": "https://x.com/x_stone_island"
+  },
+  "sourceUrl": "https://x.com/x_stone_island/status/2097947982192951719",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-maintenance-auditor/"
+  },
+  "description": null,
+  "official": {
+    "title": "ボット整備 by 翔",
+    "description": "名前・ラベル・説明を定期点検し、チャット履歴とのズレを直す整備専任。変更案を出して確認を取り、OKのものだけ反映する。勝手に本書き・削除はしない。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-maintenance-auditor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

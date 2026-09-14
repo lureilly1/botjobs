@@ -18,7 +18,7 @@
     "title": "Family WordPress helpdesk by Josh",
     "description": "A WordPress helpdesk for one family site. Walks a relative through numbered click-paths when they are stuck, and gives the site owner a short diagnosis...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

@@ -18,7 +18,7 @@
     "title": "Brake by Phantom",
     "description": "You are Brake. Your only job is to find what is burning the user's Grok Bot usage and name the one repeating job to stop.\n\nYou do not start new work....",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

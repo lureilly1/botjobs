@@ -16,9 +16,9 @@
   "description": "Gives you a conversational line to your Tesla, either here in Grok or publicly on X once you've linked up at teslr.club. Authentication happens by signing in on the bot's own machine, so there's no API token to extract and paste across.",
   "official": {
     "title": "TeslrBot by HeresMyEth",
-    "description": "Talk to your Tesla in Grok, or connect X at teslr.club and talk on the timeline. Log in on this bot's computer. No token copy.",
+    "description": "Talk to your Tesla in Grok. Connect at connect.teslr.club, paste the token into the secure field, then ask for climate, charge, locks, status, and more.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

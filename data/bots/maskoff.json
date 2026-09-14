@@ -17,7 +17,7 @@
     "title": "Maskoff by GreenbarSystems",
     "description": "Defensive briefings on X accounts that DM you, or on a public follower or following list. You get a score, a verdict, and a tweet-length reply; a city...",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

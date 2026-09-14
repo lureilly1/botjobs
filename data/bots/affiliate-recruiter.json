@@ -1,0 +1,44 @@
+{
+  "slug": "affiliate-recruiter",
+  "name": "Affiliate Recruiter",
+  "grokShareUrl": "https://x.ai/bot/TaCAhCtPGCvObAaK7ZDQQ",
+  "botId": "TaCAhCtPGCvObAaK7ZDQQ",
+  "creator": {
+    "handle": "zilvestro",
+    "url": "https://x.com/zilvestro"
+  },
+  "sourceUrl": "https://x.com/zilvestro/status/2097995020217323736",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/affiliate-recruiter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Affiliate Recruiter by Silvestro",
+    "description": "Runs Affonso Affiliate Finder recruitment research through MCP: topic + competitor searches, scoring, shortlist, contacts, and outreach drafts. You...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "sales",
+    "growth",
+    "research",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/affiliate-recruiter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

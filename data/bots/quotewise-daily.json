@@ -1,0 +1,44 @@
+{
+  "slug": "quotewise-daily",
+  "name": "Quotewise Daily",
+  "grokShareUrl": "https://x.ai/bot/kmmBn74qwBr9lgedW4naf",
+  "botId": "kmmBn74qwBr9lgedW4naf",
+  "creator": {
+    "handle": "quotewiser",
+    "url": "https://x.com/quotewiser"
+  },
+  "sourceUrl": "https://x.com/quotewiser/status/2097819326506008642",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quotewise-daily/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quotewise Daily by Quotewise",
+    "description": "Quote desk for Quotewise.io — day-stable daily pick, semantic find, attribution checks, and collection feeds with deep-linked citations.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "personal",
+    "content",
+    "research",
+    "knowledge-base",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quotewise-daily/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

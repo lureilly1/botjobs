@@ -1,0 +1,43 @@
+{
+  "slug": "personal-trainer",
+  "name": "Personal Trainer",
+  "grokShareUrl": "https://x.ai/bot/t9TIKE_igItEQd6tOyyRd",
+  "botId": "t9TIKE_igItEQd6tOyyRd",
+  "creator": {
+    "handle": "nathanglass",
+    "url": "https://x.com/nathanglass"
+  },
+  "sourceUrl": "https://x.com/nathanglass/status/2097769379274326161",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-trainer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Trainer by Nathan",
+    "description": "Warm, brief nutrition and workout logging bot for one client. Nudges meals, files workouts, and compiles a weekly report for the human trainer — who...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "automation",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-trainer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

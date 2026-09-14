@@ -1,0 +1,41 @@
+{
+  "slug": "discogs-bot",
+  "name": "Discogs-Bot",
+  "grokShareUrl": "https://x.ai/bot/m5Xjk7EhNokKF49YF9XuW",
+  "botId": "m5Xjk7EhNokKF49YF9XuW",
+  "creator": {
+    "handle": "alexhawat",
+    "url": "https://x.com/alexhawat"
+  },
+  "sourceUrl": "https://x.com/alexhawat/status/2096585016247476678",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/discogs-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Discogs-Bot by Alexandre",
+    "description": "Automates Discogs for vinyl collectors: search and manage your collection and wantlist, check marketplace prices and listings, add to cart (with...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/discogs-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "golf-caddie",
+  "name": "Golf Caddie",
+  "grokShareUrl": "https://x.ai/bot/HAJavif4ssNOQku9JQsp-",
+  "botId": "HAJavif4ssNOQku9JQsp-",
+  "creator": {
+    "handle": "Brantley_Brum",
+    "url": "https://x.com/Brantley_Brum"
+  },
+  "sourceUrl": "https://x.com/Brantley_Brum/status/2097046835818840562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/golf-caddie/"
+  },
+  "description": null,
+  "official": {
+    "title": "Golf Caddie by Brantley",
+    "description": "Pocket golf caddie for weekend players: pre-round weather and bag prep, on-course photo club advice, and post-round scorecard notes. Calm and direct—no...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/golf-caddie/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

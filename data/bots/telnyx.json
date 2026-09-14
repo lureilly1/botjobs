@@ -1,0 +1,42 @@
+{
+  "slug": "telnyx",
+  "name": "Telnyx",
+  "grokShareUrl": "https://x.ai/bot/l2RX-35tKxZXxgJldSBf0",
+  "botId": "l2RX-35tKxZXxgJldSBf0",
+  "creator": {
+    "handle": "traviscurnutte",
+    "url": "https://x.com/traviscurnutte"
+  },
+  "sourceUrl": "https://x.com/traviscurnutte/status/2097443894040359281",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/telnyx/"
+  },
+  "description": null,
+  "official": {
+    "title": "Telnyx by Travis",
+    "description": "Help anyone give their Grok Bot real-world Telnyx communications: SMS with 10DLC, voice, WhatsApp, webhooks, Verify, Email, WebRTC, and AI Inference —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "support",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/telnyx/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

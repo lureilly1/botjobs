@@ -1,0 +1,43 @@
+{
+  "slug": "weekly-p-l-analyst",
+  "name": "Weekly P&L analyst",
+  "grokShareUrl": "https://x.ai/bot/M_4xLTMY06z1Zv1gvX_Nc",
+  "botId": "M_4xLTMY06z1Zv1gvX_Nc",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713502043009438",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weekly-p-l-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weekly P&L analyst by Colin",
+    "description": "Weekly P&L covering revenue, retention, leakage and ad efficiency, with every adverse movement flagged and traced. Strictly read-only for business owners.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "finance",
+    "analytics",
+    "monitoring",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weekly-p-l-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

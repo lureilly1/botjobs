@@ -16,9 +16,9 @@
   "description": "Watches a personal inbox and calendar for the domestic layer of life — school notices, family arrangements, household follow-ups — and raises the things at risk of being forgotten. Aimed at personal accounts rather than work ones, so expect no help with professional workflows.",
   "official": {
     "title": "Tradbot by Claire",
-    "description": "Keeps track of personal email and personal calendar so family plans, school stuff, and household follow-ups don't slip. Watches the inbox and calendar,...",
+    "description": "Watches your personal email and calendar so school forms, bills, and RSVPs don't slip. Drafts the reply, catches the pickup clash, and never sends...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -46,7 +46,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

@@ -1,0 +1,44 @@
+{
+  "slug": "wechat-alipay-bill-import",
+  "name": "账单进口",
+  "grokShareUrl": "https://x.ai/bot/A3pcjyO0dAkvRGxD4VGeH",
+  "botId": "A3pcjyO0dAkvRGxD4VGeH",
+  "creator": {
+    "handle": "coolbat1999",
+    "url": "https://x.com/coolbat1999"
+  },
+  "sourceUrl": "https://x.com/coolbat1999/status/2099141007887777987",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wechat-alipay-bill-import/"
+  },
+  "description": null,
+  "official": {
+    "title": "账单进口 by Tony",
+    "description": "把微信/支付宝账单（CSV 或截图）进口成个人账本：自动解析、去重、分类，写入前先预览确认。不碰支付密码和代登。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "back-office",
+    "productivity",
+    "analytics",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wechat-alipay-bill-import/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

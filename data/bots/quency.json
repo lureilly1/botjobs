@@ -1,0 +1,42 @@
+{
+  "slug": "quency",
+  "name": "Quency",
+  "grokShareUrl": "https://x.ai/bot/JQu6e3mIfy588elZm7BTo",
+  "botId": "JQu6e3mIfy588elZm7BTo",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2098139288160420168",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quency/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quency by Jaime",
+    "description": "QC officer for public ships. Owns fitness for use, consistency, and ship/no-ship. Not a fact-checker and not the look owner. Last say goes to your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "decision-support",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quency/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

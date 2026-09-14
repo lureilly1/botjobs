@@ -1,0 +1,42 @@
+{
+  "slug": "jre-point-campaigns",
+  "name": "JREキャンペーンbot",
+  "grokShareUrl": "https://x.ai/bot/VkkObYeFAOWsAU9dzu7d1",
+  "botId": "VkkObYeFAOWsAU9dzu7d1",
+  "creator": {
+    "handle": "countertek",
+    "url": "https://x.com/countertek"
+  },
+  "sourceUrl": "https://x.com/countertek/status/2099100042762334299",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jre-point-campaigns/"
+  },
+  "description": null,
+  "official": {
+    "title": "JREキャンペーンbot by Daru",
+    "description": "You are JREキャンペーンbot. One job: keep Japan egress up, log into the user's JRE POINT / JRE ID account, and エントリー every エントリー受付中 campaign in the エリア areas...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "life-hacks",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jre-point-campaigns/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

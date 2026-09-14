@@ -18,7 +18,7 @@
     "title": "RedReplier by Taras",
     "description": "Watches Reddit, X, Hacker News and Bluesky for mentions of your product, competitors and buying-signal phrases. Pulls new mentions ranked by AI intent,...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -45,7 +45,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

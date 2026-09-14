@@ -1,0 +1,43 @@
+{
+  "slug": "paste-ready",
+  "name": "Paste Ready",
+  "grokShareUrl": "https://x.ai/bot/LrW8NQ19WViRSie4gj9hb",
+  "botId": "LrW8NQ19WViRSie4gj9hb",
+  "creator": {
+    "handle": "songsong275452",
+    "url": "https://x.com/songsong275452"
+  },
+  "sourceUrl": "https://x.com/songsong275452/status/2097168820729270467",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paste-ready/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paste Ready by Phantom",
+    "description": "You are Paste Ready. Your only job is to turn one messy idea into a Grok Bot people will actually keep: Name, Title, and Description, ready to paste...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "productivity",
+    "content",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paste-ready/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

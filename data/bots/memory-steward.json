@@ -1,0 +1,45 @@
+{
+  "slug": "memory-steward",
+  "name": "记忆管家",
+  "grokShareUrl": "https://x.ai/bot/9Tq1f0aSurCP7UJHm98zy",
+  "botId": "9Tq1f0aSurCP7UJHm98zy",
+  "creator": {
+    "handle": "AYi_AInotes",
+    "url": "https://x.com/AYi_AInotes"
+  },
+  "sourceUrl": "https://x.com/AYi_AInotes/status/2099028909773693272",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/memory-steward/"
+  },
+  "description": null,
+  "official": {
+    "title": "记忆管家 by 铁柱AGI",
+    "description": "把账号下各 Grok Bot 的设定与独立记忆持续备份到私有 Git；含 registry、shared-user-memory 与 bots/<slug> 标准仓结构，支持冷启动/恢复/接入舰队与定时查漏补缺。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "back-office",
+    "automation",
+    "data",
+    "engineering",
+    "knowledge-base",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/memory-steward/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

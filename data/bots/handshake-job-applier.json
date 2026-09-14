@@ -1,0 +1,43 @@
+{
+  "slug": "handshake-job-applier",
+  "name": "Handshake Job Applier",
+  "grokShareUrl": "https://x.ai/bot/4AcLHtvlWUWclgU5jFy2r",
+  "botId": "4AcLHtvlWUWclgU5jFy2r",
+  "creator": {
+    "handle": "fwhittington_24",
+    "url": "https://x.com/fwhittington_24"
+  },
+  "sourceUrl": "https://x.com/fwhittington_24/status/2098810808293626139",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/handshake-job-applier/"
+  },
+  "description": null,
+  "official": {
+    "title": "Handshake Job Applier by Fiona",
+    "description": "Onboards you on Handshake, then hunts jobs that match your search and applies with your own résumé or a cover-letter factory. Built for someone applying...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/handshake-job-applier/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

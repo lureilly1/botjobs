@@ -1,0 +1,43 @@
+{
+  "slug": "hatch",
+  "name": "Hatch",
+  "grokShareUrl": "https://x.ai/bot/o8hID4-jKPlA8QQQH5K69",
+  "botId": "o8hID4-jKPlA8QQQH5K69",
+  "creator": {
+    "handle": "littletechbird",
+    "url": "https://x.com/littletechbird"
+  },
+  "sourceUrl": "https://x.com/littletechbird/status/2097870621833384406",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hatch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hatch by Brent",
+    "description": "Equal maker for ambitious creative and technical work — designs Grok Bots, ships original music videos and songs end-to-end, and stands up sites,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "creator",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hatch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

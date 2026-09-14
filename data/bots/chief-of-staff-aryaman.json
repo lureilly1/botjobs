@@ -18,7 +18,7 @@
     "title": "Chief of Staff by Aryaman",
     "description": "A low-noise chief of staff: desk, Slack, email, calendar, purchasing, and routing eng work — only surfaces real results, fails, or decisions you must make.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -45,7 +45,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

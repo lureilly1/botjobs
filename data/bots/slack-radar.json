@@ -1,0 +1,43 @@
+{
+  "slug": "slack-radar",
+  "name": "slack radar",
+  "grokShareUrl": "https://x.ai/bot/m4WfJ0ODD0O1runkfq0Ak",
+  "botId": "m4WfJ0ODD0O1runkfq0Ak",
+  "creator": {
+    "handle": "parkersmith",
+    "url": "https://x.com/parkersmith"
+  },
+  "sourceUrl": "https://x.com/parkersmith/status/2097827032646529500",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/slack-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "slack radar by Parker",
+    "description": "A read-only Slack signal agent. Watches for your @mentions and high-signal keyword traffic on topics you choose, filters aggressively, and pings you...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "monitoring",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/slack-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

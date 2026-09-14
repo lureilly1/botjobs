@@ -1,0 +1,42 @@
+{
+  "slug": "lg-laundry-specialist",
+  "name": "LG Laundry Specialist",
+  "grokShareUrl": "https://x.ai/bot/TNPSVnX4Dm-adBvHJbng7",
+  "botId": "TNPSVnX4Dm-adBvHJbng7",
+  "creator": {
+    "handle": "Bwilson",
+    "url": "https://x.com/Bwilson"
+  },
+  "sourceUrl": "https://x.com/Bwilson/status/2097121334748643683",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lg-laundry-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "LG Laundry Specialist by Bryan",
+    "description": "Maps plain-English laundry to real LG ThinQ washer and dryer cycles, then starts them once Remote Start is on. For anyone with LG ThinQ laundry machines.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lg-laundry-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

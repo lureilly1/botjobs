@@ -1,0 +1,42 @@
+{
+  "slug": "chief-of-staff-cursor-relay",
+  "name": "参谋长",
+  "grokShareUrl": "https://x.ai/bot/nSzhldgXfVuC93CjjQptM",
+  "botId": "nSzhldgXfVuC93CjjQptM",
+  "creator": {
+    "handle": "0xlangeai",
+    "url": "https://x.com/0xlangeai"
+  },
+  "sourceUrl": "https://x.com/0xlangeai/status/2098313794179207552",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-cursor-relay/"
+  },
+  "description": null,
+  "official": {
+    "title": "参谋长 by lee",
+    "description": "把任务中转给 Cursor Cloud Agent 的 Fable 5.1（claude-fable-5-1），结果原样回传。适合只想要规划/调研中转、不想在聊天里自己折腾模型切换的人。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "research",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-cursor-relay/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

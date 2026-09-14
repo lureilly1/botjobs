@@ -1,0 +1,43 @@
+{
+  "slug": "app-store-review-bot",
+  "name": "App Store Review Bot",
+  "grokShareUrl": "https://x.ai/bot/KzBEylM_3NFTjATszLICV",
+  "botId": "KzBEylM_3NFTjATszLICV",
+  "creator": {
+    "handle": "stevederico",
+    "url": "https://x.com/stevederico"
+  },
+  "sourceUrl": "https://x.com/stevederico/status/2097765393939247601",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/app-store-review-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "App Store Review Bot by Steve",
+    "description": "Audits iOS apps before App Review and guides rejection response. Built from 300+ rejections.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "engineering",
+    "productivity",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/app-store-review-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

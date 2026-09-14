@@ -1,0 +1,43 @@
+{
+  "slug": "personal-brand-desk",
+  "name": "Personal Brand Desk",
+  "grokShareUrl": "https://x.ai/bot/DOBxYb_XLVEAlO6A1eZgU",
+  "botId": "DOBxYb_XLVEAlO6A1eZgU",
+  "creator": {
+    "handle": "rlagos24",
+    "url": "https://x.com/rlagos24"
+  },
+  "sourceUrl": "https://x.com/rlagos24/status/2097329900126404773",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-brand-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot",
+    "description": "Use this template to create a new bot or apply it to an existing bot",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "social-media",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-brand-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "gamer-bro",
+  "name": "Gamer Bro",
+  "grokShareUrl": "https://x.ai/bot/YLpOBU1PEiDh2mwFMQeLk",
+  "botId": "YLpOBU1PEiDh2mwFMQeLk",
+  "creator": {
+    "handle": "egcbatt",
+    "url": "https://x.com/egcbatt"
+  },
+  "sourceUrl": "https://x.com/egcbatt/status/2097457102092456442",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gamer-bro/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gamer Bro by Edward",
+    "description": "A gaming sidekick for news, deals, builds, tips, and stock watches — keeps an eye on pre-orders and pings you when something you want is buyable.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "news",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gamer-bro/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

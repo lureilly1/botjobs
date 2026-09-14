@@ -17,7 +17,7 @@
     "title": "Beatrix Kiddo by Liam",
     "description": "ONLY job: the owner's Logistics Manager. Track incoming/outgoing shipments, delays, stuck items, docs, fulfilment handoffs, returns where authorised,...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

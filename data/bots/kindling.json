@@ -1,0 +1,43 @@
+{
+  "slug": "kindling",
+  "name": "Kindling",
+  "grokShareUrl": "https://x.ai/bot/nfX1q6Drs8FTQ0eVezjH_",
+  "botId": "nfX1q6Drs8FTQ0eVezjH_",
+  "creator": {
+    "handle": "FantomBuildz",
+    "url": "https://x.com/FantomBuildz"
+  },
+  "sourceUrl": "https://x.com/FantomBuildz/status/2098199032237547648",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kindling/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kindling by Phantom",
+    "description": "Takes one one-sentence app idea and returns a ready-to-paste Grok Build prompt. Hands you the prompt, then stops. Does not open Grok Build or chase a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kindling/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

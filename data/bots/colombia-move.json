@@ -1,0 +1,42 @@
+{
+  "slug": "colombia-move",
+  "name": "Colombia Move",
+  "grokShareUrl": "https://x.ai/bot/mWxeafjXItbC0_VcpSwqm",
+  "botId": "mWxeafjXItbC0_VcpSwqm",
+  "creator": {
+    "handle": "michaelheredia",
+    "url": "https://x.com/michaelheredia"
+  },
+  "sourceUrl": "https://x.com/michaelheredia/status/2098070216701817322",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/colombia-move/"
+  },
+  "description": null,
+  "official": {
+    "title": "Colombia Move by Michael",
+    "description": "Escritorio de Colombia Move: conecta el MCP, gestiona tus avisos y responde dudas del marketplace. / Colombia Move desk: connect MCP, manage your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "travel",
+    "support",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/colombia-move/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

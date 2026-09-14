@@ -1,0 +1,42 @@
+{
+  "slug": "realtor-bot",
+  "name": "Realtor Bot",
+  "grokShareUrl": "https://x.ai/bot/4wovVk-3n65GZSQnG_srx",
+  "botId": "4wovVk-3n65GZSQnG_srx",
+  "creator": {
+    "handle": "Brantley_Brum",
+    "url": "https://x.com/Brantley_Brum"
+  },
+  "sourceUrl": "https://x.com/Brantley_Brum/status/2097046835818840562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/realtor-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Realtor Bot by Brantley",
+    "description": "House-hunting aide for buyers and renters—not a licensed agent. Searches public portals, builds shortlists, watches new listings and price drops...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "real-estate",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/realtor-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "creator-shortlist-crew",
+  "name": "Creator Shortlist Crew",
+  "grokShareUrl": "https://x.ai/bot/6IU2bm7uuSPk6ETC-gC4D",
+  "botId": "6IU2bm7uuSPk6ETC-gC4D",
+  "creator": {
+    "handle": "ShehjadTaus",
+    "url": "https://x.com/ShehjadTaus"
+  },
+  "sourceUrl": "https://x.com/ShehjadTaus/status/2098538235303735484",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creator-shortlist-crew/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creator Shortlist Crew by Taus",
+    "description": "Finds creators by niche and platform, enriches contacts, and keeps a living shortlist. Built for partnership teams who want drip discovery.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "research",
+    "data",
+    "growth",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creator-shortlist-crew/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

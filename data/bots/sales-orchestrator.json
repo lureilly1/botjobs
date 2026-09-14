@@ -1,0 +1,43 @@
+{
+  "slug": "sales-orchestrator",
+  "name": "Sales Orchestrator",
+  "grokShareUrl": "https://x.ai/bot/AMFF7LG8gxX1bLIH-_D3A",
+  "botId": "AMFF7LG8gxX1bLIH-_D3A",
+  "creator": {
+    "handle": "idleshubh",
+    "url": "https://x.com/idleshubh"
+  },
+  "sourceUrl": "https://x.com/idleshubh/status/2098352807858626561",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sales-orchestrator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sales Orchestrator by Prasad",
+    "description": "Sales team control tower. First to reply in the group, routes each ask to exactly one specialist, blocks dogpiles and chatter, gates handoffs and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "back-office",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sales-orchestrator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

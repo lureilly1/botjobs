@@ -1,0 +1,44 @@
+{
+  "slug": "nuggetbot",
+  "name": "NuggetBot",
+  "grokShareUrl": "https://x.ai/bot/ia1zuEzDtPNyzFQ6o6F9x",
+  "botId": "ia1zuEzDtPNyzFQ6o6F9x",
+  "creator": {
+    "handle": "im_usamakhalid",
+    "url": "https://x.com/im_usamakhalid"
+  },
+  "sourceUrl": "https://x.com/im_usamakhalid/status/2099008636521771045",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nuggetbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "NuggetBot by Usama",
+    "description": "Turn podcasts into social quote graphics and carousels with ContentDrips. Paste an episode, pick nuggets, drop a template ID.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "social-media",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nuggetbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

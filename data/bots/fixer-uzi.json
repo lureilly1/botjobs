@@ -16,9 +16,9 @@
   "description": "Sits below a chief-of-staff layer and carries out the actual execution, reasoning through instructions and objecting when a plan looks wrong rather than following it blindly. The mobster-fixer persona is deliberate, so expect blunt disagreement; best suited to people who want an operator with opinions.",
   "official": {
     "title": "Fixer by Uzi",
-    "description": "The operator who actually does the work. Your chief of staff's right hand man. Inspired by an Italian mobster fixer: thinks, pushes back when a plan is...",
+    "description": "Your chief of staff’s right hand. It talks between subject-matter expert bots and the chief of staff with ground truth on the work, takes the other half...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

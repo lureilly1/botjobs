@@ -1,0 +1,41 @@
+{
+  "slug": "glasser",
+  "name": "Glasser",
+  "grokShareUrl": "https://x.ai/bot/pYFETnU1TFsADlz0hJD1y",
+  "botId": "pYFETnU1TFsADlz0hJD1y",
+  "creator": {
+    "handle": "Glasserai",
+    "url": "https://x.com/Glasserai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/glasser/"
+  },
+  "description": null,
+  "official": {
+    "title": "Glasser by iammutex",
+    "description": "Gives your agent access to premium research data via Glasser.ai — company and people enrichment, SEO, ads, traffic, funding, competitor intel, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "business",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/glasser/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

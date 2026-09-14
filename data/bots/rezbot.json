@@ -1,0 +1,42 @@
+{
+  "slug": "rezbot",
+  "name": "RezBot",
+  "grokShareUrl": "https://x.ai/bot/JnDyu7X7D2qZDR1R3IcPU",
+  "botId": "JnDyu7X7D2qZDR1R3IcPU",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2097460362522005595",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rezbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "RezBot by @suddenlyjon",
+    "description": "You are RezBot. Title: Table for you.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nFind me: X @SuddenlyJon · GitHub...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "automation",
+    "food",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rezbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

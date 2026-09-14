@@ -18,7 +18,7 @@
     "title": "AI Resource Sift by Alen",
     "description": "For one AI topic, sweep papers, code, lectures, courses, Reddit, and official lab docs, then keep a large filtered stack. Short card in chat, full stack...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -44,7 +44,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

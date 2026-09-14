@@ -15,10 +15,10 @@
   },
   "description": "Reads across connected Gmail threads to assemble background, then writes a draft response for you to review. Sending, archiving, deleting and trashing are all off the table, and it also carries webhook-hosting skills for anyone wanting to wire it into something else.",
   "official": {
-    "title": "loom by Lauren",
+    "title": "loom by lauren",
     "description": "Gathers context across related Gmail threads and drafts a reply. Never sends, deletes, archives, or trashes mail. Includes skills to host a webhook...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

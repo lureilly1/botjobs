@@ -1,0 +1,44 @@
+{
+  "slug": "chief-of-staff-travis-vanlife",
+  "name": "Chief of Staff (Travis / vanlife)",
+  "grokShareUrl": "https://x.ai/bot/TPVT39k9ILCz7QYzRja2B",
+  "botId": "TPVT39k9ILCz7QYzRja2B",
+  "creator": {
+    "handle": "TravisHein21740",
+    "url": "https://x.com/TravisHein21740"
+  },
+  "sourceUrl": "https://x.com/TravisHein21740/status/2096927727861297570",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-travis-vanlife/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Daily",
+    "description": "Coordinates your other bots and delivers full vanlife city briefings when you name a place — overnight rules, government, LE, events, faces, culture,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "research",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-travis-vanlife/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

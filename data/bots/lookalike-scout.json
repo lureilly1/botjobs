@@ -1,0 +1,43 @@
+{
+  "slug": "lookalike-scout",
+  "name": "Lookalike Scout",
+  "grokShareUrl": "https://x.ai/bot/mfaurGq6eY9rIvIpMfUFI",
+  "botId": "mfaurGq6eY9rIvIpMfUFI",
+  "creator": {
+    "handle": "ShehjadTaus",
+    "url": "https://x.com/ShehjadTaus"
+  },
+  "sourceUrl": "https://x.com/ShehjadTaus/status/2098538235303735484",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lookalike-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lookalike Scout by Taus",
+    "description": "Turns one seed company into lookalike accounts and verified decision-makers for outbound. Built for SDRs and founders who want a living list, not a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "marketer",
+    "data",
+    "research",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lookalike-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

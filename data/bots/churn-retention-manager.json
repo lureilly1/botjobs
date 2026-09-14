@@ -1,0 +1,43 @@
+{
+  "slug": "churn-retention-manager",
+  "name": "Churn retention manager",
+  "grokShareUrl": "https://x.ai/bot/p0OIZUJK5sRFImh_DMujf",
+  "botId": "p0OIZUJK5sRFImh_DMujf",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713507046785199",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/churn-retention-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Churn retention manager by Colin",
+    "description": "Catches churn before it lands, offers a real alternative, and reports why people left. For businesses saving cancellations and failed payments.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "growth",
+    "monitoring",
+    "support",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/churn-retention-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -18,7 +18,7 @@
     "title": "Chicken Joe by Parker",
     "description": "NorCal surf desk. Every morning, scan reports and cams from Marin County through Santa Cruz (Bolinas, Stinson, Pacifica, Ocean Beach, Fort Point, Linda...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

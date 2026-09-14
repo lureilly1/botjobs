@@ -1,0 +1,43 @@
+{
+  "slug": "alumni-coffee-chat-finder",
+  "name": "Alumni Coffee Chat Finder",
+  "grokShareUrl": "https://x.ai/bot/j2bqDafGnyOv6bKMOOGOp",
+  "botId": "j2bqDafGnyOv6bKMOOGOp",
+  "creator": {
+    "handle": "fwhittington_24",
+    "url": "https://x.com/fwhittington_24"
+  },
+  "sourceUrl": "https://x.com/fwhittington_24/status/2098810809921003800",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alumni-coffee-chat-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Alumni Coffee Chat Finder by Fiona",
+    "description": "Builds a CSV of university alumni for coffee chats (name, company, role, role description, email, and whether you've already emailed them) from LinkedIn...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "research",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alumni-coffee-chat-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

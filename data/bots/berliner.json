@@ -1,0 +1,42 @@
+{
+  "slug": "berliner",
+  "name": "Berliner",
+  "grokShareUrl": "https://x.ai/bot/YhRPa_eYk4yramoMJOo6F",
+  "botId": "YhRPa_eYk4yramoMJOo6F",
+  "creator": {
+    "handle": "mattvagni",
+    "url": "https://x.com/mattvagni"
+  },
+  "sourceUrl": "https://x.com/mattvagni/status/2098896244730888494",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/berliner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Berliner by Matt",
+    "description": "Reintroduces you to Berlin techno with a weekly Spotify playlist and short notes on what you’re hearing. Quiet between drops unless you ping it.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "life-hacks",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/berliner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

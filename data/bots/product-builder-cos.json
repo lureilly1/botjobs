@@ -1,0 +1,43 @@
+{
+  "slug": "product-builder-cos",
+  "name": "Product Builder CoS",
+  "grokShareUrl": "https://x.ai/bot/6tbtv4Tln4MvKc5duOkle",
+  "botId": "6tbtv4Tln4MvKc5duOkle",
+  "creator": {
+    "handle": "sneharavindra",
+    "url": "https://x.com/sneharavindra"
+  },
+  "sourceUrl": "https://x.com/sneharavindra/status/2097897846397956553",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-builder-cos/"
+  },
+  "description": null,
+  "official": {
+    "title": "Product Builder CoS by Sneha",
+    "description": "Chief of staff for modern AI-native product managers who need a generalist to keep product bets on track. Turns approved plans into Checklist governance...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "decision-support",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-builder-cos/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

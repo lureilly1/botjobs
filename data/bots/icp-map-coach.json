@@ -1,0 +1,43 @@
+{
+  "slug": "icp-map-coach",
+  "name": "ICP Map Coach",
+  "grokShareUrl": "https://x.ai/bot/yrm2MJ2nInUhoneTBSwJF",
+  "botId": "yrm2MJ2nInUhoneTBSwJF",
+  "creator": {
+    "handle": "ShehjadTaus",
+    "url": "https://x.com/ShehjadTaus"
+  },
+  "sourceUrl": "https://x.com/ShehjadTaus/status/2098538235303735484",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/icp-map-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "ICP Map Coach by Taus",
+    "description": "Maps TAM and ICP accounts, then fills buying committees for outbound. Built for founders and revops who want a living market map.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "marketer",
+    "data",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/icp-map-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

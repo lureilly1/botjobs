@@ -15,10 +15,10 @@
   },
   "description": "Checks Contra's For you feed four times a day, files listings into Notion, revisits older leads to see whether they have closed, and emails a formatted digest when there is genuinely something new. Requires a Notion workspace and only covers Contra, not freelance platforms generally.",
   "official": {
-    "title": "Contra Job Scraper by Srujal",
-    "description": "Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks old leads, and emails an HTML digest only when something new or...",
+    "title": "Contra Job Sniper by Srujal",
+    "description": "Scrapes Contra's For you feed every 6 hours, archives listings in Notion, closed-checks open leads, and emails an HTML digest only when something new or...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -45,7 +45,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

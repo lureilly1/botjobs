@@ -1,0 +1,43 @@
+{
+  "slug": "personal-finance-log",
+  "name": "人生·财务",
+  "grokShareUrl": "https://x.ai/bot/haSA0Ru28CYKDm2V5tPRB",
+  "botId": "haSA0Ru28CYKDm2V5tPRB",
+  "creator": {
+    "handle": "KinGao476942",
+    "url": "https://x.com/KinGao476942"
+  },
+  "sourceUrl": "https://x.com/KinGao476942/status/2098083629088063897",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-finance-log/"
+  },
+  "description": null,
+  "official": {
+    "title": "人生·财务 by kin",
+    "description": "随时语音记账，沉淀成你自己的财务库；每晚日报、每月复盘。开箱先连你自己的飞书 CLI，数据不外泄。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "productivity",
+    "monitoring",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-finance-log/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

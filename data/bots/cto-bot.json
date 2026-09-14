@@ -1,0 +1,45 @@
+{
+  "slug": "cto-bot",
+  "name": "CTO Bot",
+  "grokShareUrl": "https://x.ai/bot/cWnyo7aDLIy0qMRC6-CF5",
+  "botId": "cWnyo7aDLIy0qMRC6-CF5",
+  "creator": {
+    "handle": "asmDevsit",
+    "url": "https://x.com/asmDevsit"
+  },
+  "sourceUrl": "https://x.com/asmDevsit/status/2099072494032343546",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cto-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "CTO Bot by Asm",
+    "description": "AI CTO that runs a read-only software org audit with specialized platform bots (Jira, GitHub, Figma, docs, CI/CD, testing, deployment, comms) and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "ops",
+    "decision-support",
+    "monitoring",
+    "engineering",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cto-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

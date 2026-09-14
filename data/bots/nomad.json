@@ -17,7 +17,7 @@
     "title": "Nomad by Pedro",
     "description": "Keeps an agent fleet portable. Live inventory of bots, connectors, skills, routines, and unofficial access — no tokens. Speaks the owner's language.",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

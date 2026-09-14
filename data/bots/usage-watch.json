@@ -1,0 +1,43 @@
+{
+  "slug": "usage-watch",
+  "name": "Usage Watch",
+  "grokShareUrl": "https://x.ai/bot/Q6-oQnCZVNLOwdzEw5i-j",
+  "botId": "Q6-oQnCZVNLOwdzEw5i-j",
+  "creator": {
+    "handle": "compileinstyle",
+    "url": "https://x.com/compileinstyle"
+  },
+  "sourceUrl": "https://x.com/compileinstyle/status/2098106082681888931",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/usage-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Usage Watch by Neessam",
+    "description": "Ops bot that meters Grok Bot and Cursor spend, enforces a daily budget, ranks top burners, and stays quiet unless spend is material. API-first, one...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "saving-money",
+    "analytics",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/usage-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

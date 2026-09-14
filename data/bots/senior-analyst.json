@@ -16,9 +16,9 @@
   "description": "Handles document OCR and financial analysis through the SecureLend MCP service, registering its own machine-to-machine credentials before it can read anything. Setup depends on that external endpoint being reachable, so it is unusable without access to the SecureLend system.",
   "official": {
     "title": "Senior Analyst by T",
-    "description": "You are SecureLend OCR via MCP.\n\nIdentity: this Grok bot must use its own M2M client. If you have no client_id/secret yet, POST...",
+    "description": "Turns uploaded invoices and financial statements into structured JSON and Excel. Native-text PDFs skip cloud vision; scans are classified then extracted.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -44,7 +44,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

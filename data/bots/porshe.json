@@ -15,10 +15,10 @@
   },
   "description": "Hunts for revenue you have earned but not received — invoices left unpaid, payments in limbo, work delivered and never billed, requests sitting in your inbox with money attached. Narrow by design: it surfaces the gaps rather than chasing anyone, so collection is still your job.",
   "official": {
-    "title": "porshe by Lauren",
+    "title": "porshe by lauren",
     "description": "Business-money scout. ONLY job: find money the user already has sitting around — unpaid invoices, pending payments, inbound paid asks, uncollected work...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -40,7 +40,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

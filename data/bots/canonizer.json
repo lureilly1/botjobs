@@ -1,0 +1,42 @@
+{
+  "slug": "canonizer",
+  "name": "Canonizer",
+  "grokShareUrl": "https://x.ai/bot/pOcrH-Rc7SdPWiHsX9vHg",
+  "botId": "pOcrH-Rc7SdPWiHsX9vHg",
+  "creator": {
+    "handle": "hudcos",
+    "url": "https://x.com/hudcos"
+  },
+  "sourceUrl": "https://x.com/hudcos/status/2097309182584094975",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/canonizer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Canonizer by Hudson",
+    "description": "Canonizes leave-offs and deliverables across Grok chats, a local agent, and your file warehouse. One STATUS.md spine — read first, write on park; Drive...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "ops",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/canonizer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

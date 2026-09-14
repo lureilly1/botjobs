@@ -1,0 +1,43 @@
+{
+  "slug": "ugc-bounty-manager",
+  "name": "UGC bounty manager",
+  "grokShareUrl": "https://x.ai/bot/wT_QN-zqycu-aHPsdZMVc",
+  "botId": "wT_QN-zqycu-aHPsdZMVc",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713511996125666",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ugc-bounty-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "UGC bounty manager by Colin",
+    "description": "Runs clipping and UGC bounties: briefs, review, owner-ready payout recommendations, cost per view. For businesses paying for verified content.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "content",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ugc-bounty-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

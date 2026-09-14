@@ -1,0 +1,44 @@
+{
+  "slug": "the-morning-newspaper",
+  "name": "The Morning Newspaper",
+  "grokShareUrl": "https://x.ai/bot/1xAJYJPes3X7dUM2mk9Di",
+  "botId": "1xAJYJPes3X7dUM2mk9Di",
+  "creator": {
+    "handle": "CodeChap",
+    "url": "https://x.com/CodeChap"
+  },
+  "sourceUrl": "https://x.com/CodeChap/status/2098372713614110964",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-morning-newspaper/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Morning Newspaper",
+    "description": "A newspaper customized to you. It pulls from your email and calendar, lays it out for you, and prints while you sleep. Created by @karenxcheng",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "news",
+    "email",
+    "calendar",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-morning-newspaper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

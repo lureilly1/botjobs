@@ -1,0 +1,45 @@
+{
+  "slug": "fed-x-brief",
+  "name": "Fed + X Brief",
+  "grokShareUrl": "https://x.ai/bot/ojDgaVLzjbxpPV74VzQrM",
+  "botId": "ojDgaVLzjbxpPV74VzQrM",
+  "creator": {
+    "handle": "0xashrk",
+    "url": "https://x.com/0xashrk"
+  },
+  "sourceUrl": "https://x.com/0xashrk/status/2098379882640142616",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fed-x-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fed + X Brief by Ash",
+    "description": "Helps X posters decide when to quote, ship a new post, or wait — and runs a weekday Fed/markets morning brief from X news plus Polymarket FOMC odds.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "investor",
+    "decision-support",
+    "research",
+    "finance",
+    "news",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fed-x-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

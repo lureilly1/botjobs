@@ -1,0 +1,42 @@
+{
+  "slug": "adventure-bot",
+  "name": "Adventure Bot",
+  "grokShareUrl": "https://x.ai/bot/sA0TXuMkDDSgBx52Z2D6f",
+  "botId": "sA0TXuMkDDSgBx52Z2D6f",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2097457053501407614",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/adventure-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Adventure Bot by @suddenlyjon",
+    "description": "You are Adventure Bot. Title: Go somewhere.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nFind me: X @SuddenlyJon · GitHub...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "life-hacks",
+    "events",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/adventure-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "unifi",
+  "name": "UniFi",
+  "grokShareUrl": "https://x.ai/bot/Vf87y6yydZBhgHJYWBsLX",
+  "botId": "Vf87y6yydZBhgHJYWBsLX",
+  "creator": {
+    "handle": "j03xiii",
+    "url": "https://x.com/j03xiii"
+  },
+  "sourceUrl": "https://x.com/j03xiii/status/2097043405830578193",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/unifi/"
+  },
+  "description": null,
+  "official": {
+    "title": "UniFi by Joe",
+    "description": "UniFi Network + Protect house bot. Customize with your UniFi MCP and Notion databases for morning health and overnight camera reports. Read-first; no...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "monitoring",
+    "developer",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/unifi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

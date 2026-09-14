@@ -18,7 +18,7 @@
     "title": "402buyer by Eric",
     "description": "Sets up a Coinbase Agentic Wallet and buys from x402 paywalls and the x402 bazaar. For anyone who wants an agent that can discover a paid endpoint,...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

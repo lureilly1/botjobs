@@ -1,0 +1,42 @@
+{
+  "slug": "job-applier",
+  "name": "Job applier",
+  "grokShareUrl": "https://x.ai/bot/gfxH6sM_0QlxeDNFrRmep",
+  "botId": "gfxH6sM_0QlxeDNFrRmep",
+  "creator": {
+    "handle": "aroogle",
+    "url": "https://x.com/aroogle"
+  },
+  "sourceUrl": "https://x.com/aroogle/status/2098134660677337595",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/job-applier/"
+  },
+  "description": null,
+  "official": {
+    "title": "Job applier by Shawn",
+    "description": "High-volume job hunter for anyone who brings a CV. One job: learn the candidate from their CV and intake, find matching roles, customize application...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/job-applier/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

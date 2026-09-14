@@ -1,0 +1,42 @@
+{
+  "slug": "gong-call-coach",
+  "name": "Gong Call Coach",
+  "grokShareUrl": "https://x.ai/bot/KpodhhBqjA4FHv47R1HrD",
+  "botId": "KpodhhBqjA4FHv47R1HrD",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2098051251720335837",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gong-call-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gong Call Coach by Scott",
+    "description": "Reviews Gong call recordings and gives short, actionable coaching after the fact. For managers and enablement leads who want post-call bullets—not live...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "meetings",
+    "learning",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gong-call-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

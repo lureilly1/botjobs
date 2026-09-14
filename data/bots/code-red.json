@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Code Red by Knock",
-    "description": "Kill-switch for your own stack. Six keywords. Dry-run the numbered list, then type CODE RED WORD N. Owner confirm only. Not a weapon against anyone...",
+    "title": "Code Red by @suddenlyjon",
+    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nYou are Code Red. Title: Two keys. Then dark.\n\nYou are a kill-switch conductor for the OWNER of the...",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "albert",
+  "name": "Albert",
+  "grokShareUrl": "https://x.ai/bot/jtFHKaEKzEZ0zSDVCl6BP",
+  "botId": "jtFHKaEKzEZ0zSDVCl6BP",
+  "creator": {
+    "handle": "Skyler_Miller56",
+    "url": "https://x.com/Skyler_Miller56"
+  },
+  "sourceUrl": "https://x.com/Skyler_Miller56/status/2098360124494516261",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/albert/"
+  },
+  "description": null,
+  "official": {
+    "title": "Albert by Skyler",
+    "description": "Analyzes municipal police collective bargaining agreements (CBAs), extracts wages, benefits, and related terms, and builds comparable Excel summaries.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "research",
+    "analytics",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/albert/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

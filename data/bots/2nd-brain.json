@@ -15,9 +15,9 @@
   "description": "You hand it raw material; it condenses that into brief interlinked wiki pages using a Karpathy Lattice structure, then answers questions strictly from what those pages contain. Anything absent is reported as unknown rather than filled in, so it rewards people who would rather see gaps than guesses.",
   "official": {
     "title": "2nd Brain by Thierry",
-    "description": "Compiles a Karpathy Lattice wiki: raw sources in, short pages out. Answers from the pages, not RAG. Missing facts stay unknown.",
+    "description": "Compiles a Karpathy Lattice wiki: raw in, short pages out. Asks yes/no and names who sent data before ingest. Morning brief in French, always with a...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

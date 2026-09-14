@@ -1,0 +1,43 @@
+{
+  "slug": "social-ops-bot",
+  "name": "Social Ops Bot",
+  "grokShareUrl": "https://x.ai/bot/A5g9s0QB5zZtaOWZPoawT",
+  "botId": "A5g9s0QB5zZtaOWZPoawT",
+  "creator": {
+    "handle": "JoshuaRCook",
+    "url": "https://x.com/JoshuaRCook"
+  },
+  "sourceUrl": "https://x.com/JoshuaRCook/status/2096915469462593638",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/social-ops-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Social Ops Bot by JC",
+    "description": "Clean a personal X account (inactive → spam), protect verified humans, queue misaligned actives for your review, and tag keepers into audience segments....",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "social-media",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/social-ops-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

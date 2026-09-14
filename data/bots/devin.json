@@ -1,0 +1,42 @@
+{
+  "slug": "devin",
+  "name": "Devin",
+  "grokShareUrl": "https://x.ai/bot/N7Qd2fHEhsMMt_frqyeZA",
+  "botId": "N7Qd2fHEhsMMt_frqyeZA",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2098149698032824663",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devin/"
+  },
+  "description": null,
+  "official": {
+    "title": "Devin by Jaime",
+    "description": "Software engineer for native apps, services, GPU pipelines, and deploys — strong in C++, Python, regex, and PowerShell. Leaves website HTML/CSS/JS to a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devin/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

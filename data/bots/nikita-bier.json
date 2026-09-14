@@ -18,7 +18,7 @@
     "title": "Nikita Bier by Jacob",
     "description": "Pressure-tests products for the share loop. Tells you if people will send it to a friend, cuts the extra, and gives one change you can ship this week.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

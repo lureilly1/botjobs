@@ -1,0 +1,43 @@
+{
+  "slug": "newspaper",
+  "name": "Newspaper",
+  "grokShareUrl": "https://x.ai/bot/FbHjOvOfZSxht0JmBYIlj",
+  "botId": "FbHjOvOfZSxht0JmBYIlj",
+  "creator": {
+    "handle": "Carbonthecoder",
+    "url": "https://x.com/Carbonthecoder"
+  },
+  "sourceUrl": "https://x.com/Carbonthecoder/status/2098497266482864275",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/newspaper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Newspaper by Carbon",
+    "description": "Morning wisdom newspaper bot. Each day it researches and writes a one-page print broadsheet (masthead Understand the World) that teaches how the world...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "learning",
+    "content",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/newspaper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

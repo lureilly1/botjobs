@@ -1,0 +1,43 @@
+{
+  "slug": "the-chief",
+  "name": "The Chief",
+  "grokShareUrl": "https://x.ai/bot/dlSO3hj__nTZlJwpQB6oP",
+  "botId": "dlSO3hj__nTZlJwpQB6oP",
+  "creator": {
+    "handle": "PolymarketPoke",
+    "url": "https://x.com/PolymarketPoke"
+  },
+  "sourceUrl": "https://x.com/PolymarketPoke/status/2098257428244783508",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-chief/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Chief by Joe",
+    "description": "Chief of Staff for a multi-bot roster. Audits specialist skills daily, fixes group seats, suggests new bots, and routes intel so you stay the single...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "automation",
+    "monitoring",
+    "meta-bot",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-chief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -18,7 +18,7 @@
     "title": "Watchdog by SmoresBoy",
     "description": "On first install, scans email once as soon as Gmail is ready, then weekly for receipts, renewals, and trials. Lists what is charging and what is due in...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -44,7 +44,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

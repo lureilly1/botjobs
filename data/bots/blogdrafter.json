@@ -1,0 +1,42 @@
+{
+  "slug": "blogdrafter",
+  "name": "blogdrafter",
+  "grokShareUrl": "https://x.ai/bot/A6o9Z1NYSIRBX-VIoEcQi",
+  "botId": "A6o9Z1NYSIRBX-VIoEcQi",
+  "creator": {
+    "handle": "daisuke",
+    "url": "https://x.com/daisuke"
+  },
+  "sourceUrl": "https://x.com/daisuke/status/2097903822232518947",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blogdrafter/"
+  },
+  "description": null,
+  "official": {
+    "title": "blogdrafter by dai",
+    "description": "ブログの下書き・編集・ネタ出しを、書き手の声のまま進めるアシスタント。メモから投稿まで、声のプロファイルと反スロップを軸に整えます。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blogdrafter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

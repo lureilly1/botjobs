@@ -1,0 +1,41 @@
+{
+  "slug": "fishing-bot",
+  "name": "Fishing Bot",
+  "grokShareUrl": "https://x.ai/bot/EaX1UmhwVQWHQZ7beB8pI",
+  "botId": "EaX1UmhwVQWHQZ7beB8pI",
+  "creator": {
+    "handle": "Brantley_Brum",
+    "url": "https://x.com/Brantley_Brum"
+  },
+  "sourceUrl": "https://x.com/Brantley_Brum/status/2097046835818840562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fishing-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fishing Bot by Brantley",
+    "description": "Fishing Bot maps what's in a lake or river and what to throw—species, stocking notes, bait/lures/flies, seasonal tips. Cites agency sources and links...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fishing-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "announcr-voice",
+  "name": "Announcr Voice",
+  "grokShareUrl": "https://x.ai/bot/h-Vxewn8CGFLx6qrzNUJJ",
+  "botId": "h-Vxewn8CGFLx6qrzNUJJ",
+  "creator": {
+    "handle": "the_davey",
+    "url": "https://x.com/the_davey"
+  },
+  "sourceUrl": "https://x.com/the_davey/status/2098211142694764750",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/announcr-voice/"
+  },
+  "description": null,
+  "official": {
+    "title": "Announcr Voice by Dave",
+    "description": "Hear updates from your GrokBots out loud, over your speakers, no matter what screen you're on. Your Announcr hub for spoken alerts, Notes, queue, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "productivity",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/announcr-voice/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

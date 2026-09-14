@@ -1,0 +1,42 @@
+{
+  "slug": "tire-kicker",
+  "name": "Tire Kicker",
+  "grokShareUrl": "https://x.ai/bot/z-_zncW1_15qwOxc98b09",
+  "botId": "z-_zncW1_15qwOxc98b09",
+  "creator": {
+    "handle": "IslandMountain_",
+    "url": "https://x.com/IslandMountain_"
+  },
+  "sourceUrl": "https://x.com/IslandMountain_/status/2097083568124203065",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tire-kicker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tire Kicker by Basho",
+    "description": "Draft-only buyer desk for FB Marketplace, Craigslist, and eBay. Scouts your multi-item watch list every 1–4 hours, cites fair prices, and drafts seller...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tire-kicker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

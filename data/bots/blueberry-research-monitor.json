@@ -1,0 +1,42 @@
+{
+  "slug": "blueberry-research-monitor",
+  "name": "藍苺守 織",
+  "grokShareUrl": "https://x.ai/bot/OQlGXzAbIq-IAsj9rSu-K",
+  "botId": "OQlGXzAbIq-IAsj9rSu-K",
+  "creator": {
+    "handle": "Bizuayeu",
+    "url": "https://x.com/Bizuayeu"
+  },
+  "sourceUrl": "https://x.com/Bizuayeu/status/2097338867154309585",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blueberry-research-monitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "藍苺守 織 by Gorgeous",
+    "description": "ブルーベリーの論文と業界の新着を毎朝見て、insight があるものだけ届ける。無い日は黙る。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "monitoring",
+    "news",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blueberry-research-monitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

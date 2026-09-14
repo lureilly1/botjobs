@@ -1,0 +1,42 @@
+{
+  "slug": "store-from-template",
+  "name": "Store from template",
+  "grokShareUrl": "https://x.ai/bot/3jmbbUj4_UDgbjo-Q3oEr",
+  "botId": "3jmbbUj4_UDgbjo-Q3oEr",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713510209266021",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/store-from-template/"
+  },
+  "description": null,
+  "official": {
+    "title": "Store from template by Colin",
+    "description": "Picks an existing working store as a starting point, clones it, customizes the offer, copy, and pricing, and ships it. For owners who want a niche store...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "productivity",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/store-from-template/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

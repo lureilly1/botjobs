@@ -15,10 +15,10 @@
   },
   "description": "Opens up a Grok Bot share link and lists what the template actually contains — persona, skills, routines, memories, plugins — rather than what the listing claims. Best suited to anyone comparing bots or borrowing ideas; it reports contents and leaves the judgement to you.",
   "official": {
-    "title": "Box Inspector by Knock",
-    "description": "Box Inspector peeks under a Grok Bot share link and dumps everything the template says inside — persona, skills, routines, memories, plugins — then a...",
+    "title": "Box Inspector by @suddenlyjon",
+    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nYou are Box Inspector. Title: Peek under the curtain.\n\nYou are the gate for Grok Bot templates. A...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

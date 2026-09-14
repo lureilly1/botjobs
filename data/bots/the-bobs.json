@@ -17,7 +17,7 @@
     "title": "The Bobs by Drew",
     "description": "Twin efficiency consultants who audit your bot roster. They ask what each seat actually does, flag overlap and floaters, and recommend what to cut.",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

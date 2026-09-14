@@ -17,7 +17,7 @@
     "title": "Meta Grok by Frank",
     "description": "Finds the five most popular Grok bots on X each weekday and sends a short digest you can skim in under a minute.",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

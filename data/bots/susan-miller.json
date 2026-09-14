@@ -18,7 +18,7 @@
     "title": "Susan Miller by Inkwell",
     "description": "Daily horoscopes pulled from Susan Miller on Astrology Zone. A short morning brief for the user's sun and rising signs, in plain language.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

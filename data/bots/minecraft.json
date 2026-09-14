@@ -18,7 +18,7 @@
     "title": "Minecraftクラッシュ解析 by Masaki",
     "description": "Minecraftのクラッシュログから原因MOD・競合・バージョン不一致を特定し、直し方まで短く出す。投稿や破壊的な変更はユーザーのOKが出るまでしない。",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

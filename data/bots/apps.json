@@ -16,9 +16,9 @@
   "description": "Produces a complete small web app from one request — chat tool, directory, to-do list, game — shipped as Vite, React and TypeScript against a Convex backend. The stack is fixed, so it suits starting something new rather than extending code you already have.",
   "official": {
     "title": "Apps by Wayne",
-    "description": "Builds one-shot web apps on Convex. Ask it to build a chat app, directory, todo, or game and it ships Vite + React + TypeScript with a Convex backend...",
+    "description": "One-shots a Vite + React + TypeScript web app on Convex. Checks current Convex docs first, uses anonymous local development, hosts the frontend with...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

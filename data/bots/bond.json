@@ -15,10 +15,10 @@
   },
   "description": "Handles a single confidential task at a time — transposing, extracting or reporting — then logs a brief account of the steps it took. The one-mission-per-run discipline and audit trail suit sensitive back-office work where you need to see what was done, not bulk throughput.",
   "official": {
-    "title": "bond by Lauren",
+    "title": "bond by lauren",
     "description": "A confidentiality bot. ONLY job: take one confidential mission (transpose, extract, report), do it, write a short audit of what happened (steps and...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -40,7 +40,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "text-cleanup",
+  "name": "Text-cleanup",
+  "grokShareUrl": "https://x.ai/bot/E3h6k-Sbq7hwF3PW1ZBI4",
+  "botId": "E3h6k-Sbq7hwF3PW1ZBI4",
+  "creator": {
+    "handle": "GrokBotGod",
+    "url": "https://x.com/GrokBotGod"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/text-cleanup/"
+  },
+  "description": null,
+  "official": {
+    "title": "Text-cleanup by Bill",
+    "description": "Text-cleanup turns messy pasted text into one clean rewrite ready to send. Sharp editor for drafts you already wrote — not a blank-page ghostwriter.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/text-cleanup/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

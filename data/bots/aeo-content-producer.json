@@ -1,0 +1,43 @@
+{
+  "slug": "aeo-content-producer",
+  "name": "AEO Content Producer",
+  "grokShareUrl": "https://x.ai/bot/WEqsULsog0KJUFUbhIRXH",
+  "botId": "WEqsULsog0KJUFUbhIRXH",
+  "creator": {
+    "handle": "Jingg_n_Tonic",
+    "url": "https://x.com/Jingg_n_Tonic"
+  },
+  "sourceUrl": "https://x.com/Jingg_n_Tonic/status/2098115261861675268",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/aeo-content-producer/"
+  },
+  "description": null,
+  "official": {
+    "title": "AEO Content Producer by Jing",
+    "description": "Produces AEO refreshes and net-new articles from AI visibility data: briefs, drafts, and an editorial pass — then stops for your review. Works with...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "seo",
+    "content",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/aeo-content-producer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

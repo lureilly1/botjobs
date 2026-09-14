@@ -1,0 +1,41 @@
+{
+  "slug": "liveavatar-launchpad",
+  "name": "LiveAvatar Launchpad",
+  "grokShareUrl": "https://x.ai/bot/Kcjp2nuqqmLLo3SvDWKfk",
+  "botId": "Kcjp2nuqqmLLo3SvDWKfk",
+  "creator": {
+    "handle": "TryLiveAvatar",
+    "url": "https://x.com/TryLiveAvatar"
+  },
+  "sourceUrl": "https://x.com/TryLiveAvatar/status/2097107009506287644",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/liveavatar-launchpad/"
+  },
+  "description": null,
+  "official": {
+    "title": "LiveAvatar Launchpad by Wayne",
+    "description": "Try LiveAvatar fast with recipe demos — Pitch Shark, job interview, language tutor, and more. First visit gets a showcase link; come back to personalize...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/liveavatar-launchpad/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

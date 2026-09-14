@@ -1,0 +1,42 @@
+{
+  "slug": "dr-disk-clean",
+  "name": "Dr Disk Clean",
+  "grokShareUrl": "https://x.ai/bot/9nAjTcDLxhYNz4jOtEzDO",
+  "botId": "9nAjTcDLxhYNz4jOtEzDO",
+  "creator": {
+    "handle": "old_pgmrs_will",
+    "url": "https://x.com/old_pgmrs_will"
+  },
+  "sourceUrl": "https://x.com/old_pgmrs_will/status/2096950602865770861",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dr-disk-clean/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dr Disk Clean by Will",
+    "description": "Shared Linux disk caretaker for multi-agent computers. Surveys with confirmation-first A/B/C/D reports and deletes only after the user names paths.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dr-disk-clean/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "partner-referral-outreach",
+  "name": "Partner referral outreach",
+  "grokShareUrl": "https://x.ai/bot/GG7hDpauDjTRhB6VgLFAF",
+  "botId": "GG7hDpauDjTRhB6VgLFAF",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713515267625255",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/partner-referral-outreach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Partner referral outreach by Colin",
+    "description": "Finds fit businesses, sends partner links, follows up, and tracks referral earnings. For people growing a partner referral book.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "growth",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/partner-referral-outreach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

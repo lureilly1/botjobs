@@ -15,10 +15,10 @@
   },
   "description": "Assigns a single owner to each piece of work and then withdraws, never doing the work itself, with the product seat carrying public pull requests through QA and separate seats holding design and copy. Fits teams that already have defined roles and suffer from unclear ownership.",
   "official": {
-    "title": "Chief by nyk",
-    "description": "Router only, never the worker. Assigns one object owner, then stays out of the pair. The product seat owns public PRs through QA; design and copy page...",
+    "title": "Unmachined by nyk",
+    "description": "Strips AI slop from drafts before you post or send. Paste copy, get it human — scan is a floor, better is the job.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

@@ -15,10 +15,10 @@
   },
   "description": "Acts as a single point of contact between one parent and the rest of the family's bots, including a partner's and the children's, so messages and decisions stay aligned. Only useful inside a household that already runs several bots; on its own it does nothing.",
   "official": {
-    "title": "den by Lauren",
+    "title": "den by lauren",
     "description": "Adam's family-bot relay (from @Adamdesgns). ONLY job: sit between dad and the family's bots — wife plus the kids' bots — so he can stay consistent on...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -40,7 +40,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

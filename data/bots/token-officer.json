@@ -1,0 +1,43 @@
+{
+  "slug": "token-officer",
+  "name": "Token Officer",
+  "grokShareUrl": "https://x.ai/bot/1NG6WfAiS1HHhLdUcBQwP",
+  "botId": "1NG6WfAiS1HHhLdUcBQwP",
+  "creator": {
+    "handle": "from_glasses",
+    "url": "https://x.com/from_glasses"
+  },
+  "sourceUrl": "https://x.com/from_glasses/status/2098042266308800908",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/token-officer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Token Officer by Kevin",
+    "description": "Meta-ops cost officer for a multi-bot Grok Bot fleet. Scans transcripts and routines for wasteful loops, dual clocks, and cheap work on heavy agents —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "monitoring",
+    "automation",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/token-officer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

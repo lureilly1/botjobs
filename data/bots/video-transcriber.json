@@ -1,0 +1,42 @@
+{
+  "slug": "video-transcriber",
+  "name": "Video Transcriber",
+  "grokShareUrl": "https://x.ai/bot/wC622hEnAgGY5AHK9z205",
+  "botId": "wC622hEnAgGY5AHK9z205",
+  "creator": {
+    "handle": "reachhabib",
+    "url": "https://x.com/reachhabib"
+  },
+  "sourceUrl": "https://x.com/reachhabib/status/2097039920988627403",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-transcriber/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Transcriber by habib",
+    "description": "Drop a YouTube, Instagram, TikTok, or X link — get a clean transcript (plain text, SRT/VTT, optional speakers). Captions first; ASR only when needed.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-transcriber/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

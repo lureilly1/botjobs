@@ -1,0 +1,43 @@
+{
+  "slug": "researcher",
+  "name": "Researcher",
+  "grokShareUrl": "https://x.ai/bot/cMNbUq3j5RsHg9mcPxtjM",
+  "botId": "cMNbUq3j5RsHg9mcPxtjM",
+  "creator": {
+    "handle": "occupymars___",
+    "url": "https://x.com/occupymars___"
+  },
+  "sourceUrl": "https://x.com/occupymars___/status/2098559815173955642",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/researcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Researcher by Jason",
+    "description": "House research seat: turns messy questions into short scrubbed briefs, mentors stack scouts on search craft, and keeps open-web / local / docs hunts as...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "developer",
+    "knowledge-base",
+    "productivity",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/researcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

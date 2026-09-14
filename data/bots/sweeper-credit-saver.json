@@ -1,0 +1,44 @@
+{
+  "slug": "sweeper-credit-saver",
+  "name": "Sweeper / 清道夫",
+  "grokShareUrl": "https://x.ai/bot/SD6hgpiXqbV_LkMetf2fC",
+  "botId": "SD6hgpiXqbV_LkMetf2fC",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2098962373239517465",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sweeper-credit-saver/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sweeper / 清道夫 by Mai",
+    "description": "See usage clearly, sweep idle wakes, make bots last longer. / 帮你看清 Grok Bot 用量、清掉空转、把 Bot 用久一点。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "saving-money",
+    "monitoring",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sweeper-credit-saver/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

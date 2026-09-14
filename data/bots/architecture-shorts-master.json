@@ -1,0 +1,43 @@
+{
+  "slug": "architecture-shorts-master",
+  "name": "건축 숏폼 마스터",
+  "grokShareUrl": "https://x.ai/bot/u3Jg9IbWLHl5m9NdHWOIR",
+  "botId": "u3Jg9IbWLHl5m9NdHWOIR",
+  "creator": {
+    "handle": "BBBang9900",
+    "url": "https://x.com/BBBang9900"
+  },
+  "sourceUrl": "https://x.com/BBBang9900/status/2096823218162266141",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/architecture-shorts-master/"
+  },
+  "description": null,
+  "official": {
+    "title": "건축 숏폼 마스터 by 꼬마",
+    "description": "건축·토목 원리 설명용 YouTube Shorts를 혼자 만드는 봇. 대본·Imagine 컷·더빙·먹스까지 결과만 납품한다.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/architecture-shorts-master/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

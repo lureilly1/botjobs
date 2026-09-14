@@ -1,0 +1,43 @@
+{
+  "slug": "product-promo-copywriter",
+  "name": "产品推广交稿员",
+  "grokShareUrl": "https://x.ai/bot/k_7pPRlHeZc2cku1zvVqr",
+  "botId": "k_7pPRlHeZc2cku1zvVqr",
+  "creator": {
+    "handle": "zheng_yunh2429",
+    "url": "https://x.com/zheng_yunh2429"
+  },
+  "sourceUrl": "https://x.com/zheng_yunh2429/status/2096884390324572470",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-promo-copywriter/"
+  },
+  "description": null,
+  "official": {
+    "title": "产品推广交稿员 by yunhui",
+    "description": "按点写好社交媒体推广文案交给你复制发布。去AI味、书面完整像聊天，并根据阅读量持续改角度。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-promo-copywriter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

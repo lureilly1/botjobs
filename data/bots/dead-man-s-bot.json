@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Dead Man's Bot by Knock",
-    "description": "Dead-man's switch you load yourself. Pick a clock and a payload. Miss a ping, only that loadout fires. The bot explains how to ARM. It does not start a...",
+    "title": "Dead Man's Bot by @suddenlyjon",
+    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nDead-man's switch you load yourself. Pick a clock and a payload. Miss a ping, only that loadout fires....",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

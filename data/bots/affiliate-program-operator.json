@@ -1,0 +1,43 @@
+{
+  "slug": "affiliate-program-operator",
+  "name": "Affiliate program manager",
+  "grokShareUrl": "https://x.ai/bot/-x19CFkvT5U866BNA7q_J",
+  "botId": "-x19CFkvT5U866BNA7q_J",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713513719992540",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/affiliate-program-operator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Affiliate program manager by Colin",
+    "description": "Runs the affiliate program: sets terms, ranks performers, cuts bad actors, and arms the good ones weekly. For businesses running creator affiliates.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/affiliate-program-operator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

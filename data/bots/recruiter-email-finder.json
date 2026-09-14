@@ -1,0 +1,43 @@
+{
+  "slug": "recruiter-email-finder",
+  "name": "Recruiter Email Finder",
+  "grokShareUrl": "https://x.ai/bot/lbf-biMZO02RdXeOBks_-",
+  "botId": "lbf-biMZO02RdXeOBks_-",
+  "creator": {
+    "handle": "fwhittington_24",
+    "url": "https://x.com/fwhittington_24"
+  },
+  "sourceUrl": "https://x.com/fwhittington_24/status/2098810811514851568",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/recruiter-email-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Recruiter Email Finder by Fiona",
+    "description": "Finds university, early-careers, and technical recruiter emails at companies you care about, then delivers a company-grouped CSV.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "research",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/recruiter-email-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "showrunner",
+  "name": "Showrunner",
+  "grokShareUrl": "https://x.ai/bot/dLxcnhWxf9JyHIo_l8wJk",
+  "botId": "dLxcnhWxf9JyHIo_l8wJk",
+  "creator": {
+    "handle": "RedSpiceX",
+    "url": "https://x.com/RedSpiceX"
+  },
+  "sourceUrl": "https://x.com/RedSpiceX/status/2098108206321107418",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/showrunner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Showrunner by RedSpiceX",
+    "description": "Music video owner for a five-Bot crew. After import it runs /bootstrap-crew (creates A&R, Art Director, Continuity, Editor + Music Video Crew), then...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "automation",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/showrunner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

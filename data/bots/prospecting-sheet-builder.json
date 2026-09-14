@@ -17,7 +17,7 @@
     "title": "Prospecting Sheet Builder by Sultanov",
     "description": "Builds overnight prospecting sheets with verified buyer contacts, account events, and email plus LinkedIn drafts in the seller's voice. For B2B sellers...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

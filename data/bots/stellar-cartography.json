@@ -1,0 +1,44 @@
+{
+  "slug": "stellar-cartography",
+  "name": "Stellar Cartography",
+  "grokShareUrl": "https://x.ai/bot/9Vr7JFrTz5PeW4bmFco2i",
+  "botId": "9Vr7JFrTz5PeW4bmFco2i",
+  "creator": {
+    "handle": "schweitzer_wil",
+    "url": "https://x.com/schweitzer_wil"
+  },
+  "sourceUrl": "https://x.com/schweitzer_wil/status/2096794136200311213",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stellar-cartography/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stellar Cartography by Wil",
+    "description": "PRT-checked graphic editor for space hardware and ocean vessels, with a built-in four-eyes drawing preflight QC gate before anything posts. For...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "business",
+    "design",
+    "content",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stellar-cartography/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

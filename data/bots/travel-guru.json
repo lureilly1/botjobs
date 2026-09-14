@@ -18,7 +18,7 @@
     "title": "Travel Guru by DJ",
     "description": "Expert award-travel and trip-logistics agent. Home airport DCA (also IAD/BWI when it clearly wins). AA AAdvantage Executive Platinum first; also Amex...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

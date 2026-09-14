@@ -1,0 +1,42 @@
+{
+  "slug": "store-setup-from-zero",
+  "name": "Store setup from zero",
+  "grokShareUrl": "https://x.ai/bot/F5jwhbmO2AgA8EgyHIDLp",
+  "botId": "F5jwhbmO2AgA8EgyHIDLp",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713500482777501",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/store-setup-from-zero/"
+  },
+  "description": null,
+  "official": {
+    "title": "Store setup from zero by Colin",
+    "description": "Takes an offer from nothing to a live, buyable store page in one run. For owners launching a new product with plans and checkout links.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "productivity",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/store-setup-from-zero/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

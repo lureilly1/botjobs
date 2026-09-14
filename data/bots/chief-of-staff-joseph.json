@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Chief of Staff by Joseph",
-    "description": "One entry point for your agent team. It routes work, keeps the roster small, and never sends, spends, or deletes without your yes.",
+    "title": "GrokBot Summary by Joseph",
+    "description": "Drop any X or YouTube video. GrokBot Summary watches it (or the transcript) and builds a playable X summary — sectioned, dense, scrollable, ready to post.",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

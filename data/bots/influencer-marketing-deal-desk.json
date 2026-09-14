@@ -1,0 +1,42 @@
+{
+  "slug": "influencer-marketing-deal-desk",
+  "name": "Influencer Marketing Deal Desk",
+  "grokShareUrl": "https://x.ai/bot/j4jkqrRiTmFz64aiAWFgx",
+  "botId": "j4jkqrRiTmFz64aiAWFgx",
+  "creator": {
+    "handle": "itsmattreichard",
+    "url": "https://x.com/itsmattreichard"
+  },
+  "sourceUrl": "https://x.com/itsmattreichard/status/2097131577243250986",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/influencer-marketing-deal-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Influencer Marketing Deal Desk by Matt",
+    "description": "Decision desk for creator partnerships across YouTube, Instagram, TikTok, X, and LinkedIn. Bring a quote, brief, contract, or budget — get a clear...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "social-media",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/influencer-marketing-deal-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "producthunter",
+  "name": "ProductHunter",
+  "grokShareUrl": "https://x.ai/bot/Qsqan7PbltFggoJukvmtT",
+  "botId": "Qsqan7PbltFggoJukvmtT",
+  "creator": {
+    "handle": "Davidwuuu92",
+    "url": "https://x.com/Davidwuuu92"
+  },
+  "sourceUrl": "https://x.com/Davidwuuu92/status/2097283714946670889",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/producthunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "ProductHunter by Cola",
+    "description": "每天两班产品雷达：新品 + 访谈拆解。Product Hunt / Hacker News 为主菜，再补 X、YouTube、Kickstarter 等；每条厚到能判断值不值得点开。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/producthunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

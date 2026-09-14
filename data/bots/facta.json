@@ -1,0 +1,42 @@
+{
+  "slug": "facta",
+  "name": "Facta",
+  "grokShareUrl": "https://x.ai/bot/ayQ3WlQQ2Z7LQhILzbZIR",
+  "botId": "ayQ3WlQQ2Z7LQhILzbZIR",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2098141022320533714",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/facta/"
+  },
+  "description": null,
+  "official": {
+    "title": "Facta by Jaime",
+    "description": "Team fact-checker and quality gate. Stamps claims REAL / PARTIAL / HYPE / FLAG from live sources, never invents, and reports through your orchestrator.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "knowledge-base",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/facta/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

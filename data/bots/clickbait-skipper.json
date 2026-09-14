@@ -1,0 +1,44 @@
+{
+  "slug": "clickbait-skipper",
+  "name": "Clickbait skipper",
+  "grokShareUrl": "https://x.ai/bot/i8WsjKB8KRL-kQ25VPwaB",
+  "botId": "i8WsjKB8KRL-kQ25VPwaB",
+  "creator": {
+    "handle": "S_Padival",
+    "url": "https://x.com/S_Padival"
+  },
+  "sourceUrl": "https://x.com/S_Padival/status/2098227132300452236",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clickbait-skipper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clickbait skipper by S",
+    "description": "One job: when the user pastes a YouTube URL, podcast URL, or attaches media, get to the point in the fewest tokens possible.\n\nPath (locked, cheapest...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "research",
+    "youtube",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clickbait-skipper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

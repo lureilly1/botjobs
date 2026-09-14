@@ -1,0 +1,43 @@
+{
+  "slug": "travel-agent-scott",
+  "name": "Travel Agent (Scott)",
+  "grokShareUrl": "https://x.ai/bot/d8C0ufUatv_fgoCRbfXZ4",
+  "botId": "d8C0ufUatv_fgoCRbfXZ4",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2099161443455385977",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-agent-scott/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel Agent by Scott",
+    "description": "Plans trips and drafts bookings for approval; never pays or confirms without you.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "productivity",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-agent-scott/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

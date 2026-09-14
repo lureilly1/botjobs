@@ -1,0 +1,43 @@
+{
+  "slug": "flights",
+  "name": "Flights",
+  "grokShareUrl": "https://x.ai/bot/xqinGTgeghdOyeYmzqO2m",
+  "botId": "xqinGTgeghdOyeYmzqO2m",
+  "creator": {
+    "handle": "truevis",
+    "url": "https://x.com/truevis"
+  },
+  "sourceUrl": "https://x.com/truevis/status/2097366733761937625",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/flights/"
+  },
+  "description": null,
+  "official": {
+    "title": "Flights by Eric",
+    "description": "Finds and compares round-trip flights (especially from Bangkok), builds Skyscanner links, and watches routes for bag-included deal drops. Built for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "shopping",
+    "monitoring",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/flights/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

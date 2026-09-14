@@ -1,0 +1,43 @@
+{
+  "slug": "root-agent",
+  "name": "Root Agent",
+  "grokShareUrl": "https://x.ai/bot/1pTKHkJIEgxD9MjlPYE4P",
+  "botId": "1pTKHkJIEgxD9MjlPYE4P",
+  "creator": {
+    "handle": "mrbeko_",
+    "url": "https://x.com/mrbeko_"
+  },
+  "sourceUrl": "https://x.com/mrbeko_/status/2098922675368292825",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/root-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "Root Agent by Berkay",
+    "description": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, hands day-to-day management to a Lead, and relays verified...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/root-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

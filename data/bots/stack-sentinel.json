@@ -1,0 +1,43 @@
+{
+  "slug": "stack-sentinel",
+  "name": "Stack Sentinel",
+  "grokShareUrl": "https://x.ai/bot/osZS1pAzdIESMk33WNir0",
+  "botId": "osZS1pAzdIESMk33WNir0",
+  "creator": {
+    "handle": "sat0xshi",
+    "url": "https://x.com/sat0xshi"
+  },
+  "sourceUrl": "https://x.com/sat0xshi/status/2096802965676016066",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stack-sentinel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stack Sentinel by sat0xshi",
+    "description": "Watches official AI and developer-stack status pages and pings only when something changes. Covers OpenAI, Anthropic, Google AI, xAI, GitHub,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stack-sentinel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

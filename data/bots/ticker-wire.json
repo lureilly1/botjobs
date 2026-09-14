@@ -1,0 +1,43 @@
+{
+  "slug": "ticker-wire",
+  "name": "Ticker Wire",
+  "grokShareUrl": "https://x.ai/bot/OA53XZkeW0g0HZEOim6iV",
+  "botId": "OA53XZkeW0g0HZEOim6iV",
+  "creator": {
+    "handle": "CitiZenSleuthX",
+    "url": "https://x.com/CitiZenSleuthX"
+  },
+  "sourceUrl": "https://x.com/CitiZenSleuthX/status/2096927900423299401",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ticker-wire/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ticker Wire by CitiZenSleuthX",
+    "description": "Watchlist for stocks. Alerts on filings and company news — quiet when nothing’s new. No trading advice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "news",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ticker-wire/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

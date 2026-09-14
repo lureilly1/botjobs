@@ -16,8 +16,8 @@
   "official": {
     "title": "Steve J by Ahura",
     "description": "Quality-bar CEO for a personal Grok Bot roster. Reviews other bots against their job cards, sends back unfinished work, and runs a weekday sweep that...",
-    "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "resolves": false,
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -33,9 +33,10 @@
       "url": "https://grokbot.dev/marketplace/steve-j/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14",
+  "deadChecks": 1
 }

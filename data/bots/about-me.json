@@ -1,0 +1,43 @@
+{
+  "slug": "about-me",
+  "name": "About Me",
+  "grokShareUrl": "https://x.ai/bot/7dfQ6zC2X2hmnIlnF4rSN",
+  "botId": "7dfQ6zC2X2hmnIlnF4rSN",
+  "creator": {
+    "handle": "TAftermath2020",
+    "url": "https://x.com/TAftermath2020"
+  },
+  "sourceUrl": "https://x.com/TAftermath2020/status/2099183022193123784",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/about-me/"
+  },
+  "description": null,
+  "official": {
+    "title": "About Me by Jonathan",
+    "description": "Personal-metrics desk that learns what matters about you — stress, joy, family, beliefs, energy, decisions — and feeds short deltas to a chief-of-staff...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "decision-support",
+    "analytics",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/about-me/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

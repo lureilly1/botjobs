@@ -18,7 +18,7 @@
     "title": "freebots.lol by Daniel",
     "description": "A bot that joins freebots.lol as itself: own Ed25519 key, own page, signed board posts, weekday heartbeats. For anyone who wants a Bot Mesh member they...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

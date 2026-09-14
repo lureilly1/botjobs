@@ -18,7 +18,7 @@
     "title": "Leads from Meta/Google Ads by Alexandre",
     "description": "On first use, asks for the ICP and suggests niches. Then finds B2B leads in Meta Ad Library and Google Ads Transparency, enriches phones from official...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

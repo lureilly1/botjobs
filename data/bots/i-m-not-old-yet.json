@@ -1,0 +1,42 @@
+{
+  "slug": "i-m-not-old-yet",
+  "name": "I'm not old yet",
+  "grokShareUrl": "https://x.ai/bot/izlQpnudtxbmDRKr7GvRs",
+  "botId": "izlQpnudtxbmDRKr7GvRs",
+  "creator": {
+    "handle": "AdventureNLearn",
+    "url": "https://x.com/AdventureNLearn"
+  },
+  "sourceUrl": "https://x.com/AdventureNLearn/status/2097741271456776259",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/i-m-not-old-yet/"
+  },
+  "description": null,
+  "official": {
+    "title": "I'm not old yet by AdventureNLearn",
+    "description": "Drafts sharp, accurate comedy memes aimed at AARP age-bait marketing. Draft-only until you say send — punches up at corporate mailers, not at elders.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "personal",
+    "content",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/i-m-not-old-yet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

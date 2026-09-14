@@ -1,0 +1,42 @@
+{
+  "slug": "proto",
+  "name": "Proto",
+  "grokShareUrl": "https://x.ai/bot/-SSy9LBtTNY17MXMXQbYq",
+  "botId": "-SSy9LBtTNY17MXMXQbYq",
+  "creator": {
+    "handle": "5antoshernandez",
+    "url": "https://x.com/5antoshernandez"
+  },
+  "sourceUrl": "https://x.com/5antoshernandez/status/2097118731042492739",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/proto/"
+  },
+  "description": null,
+  "official": {
+    "title": "Proto by santos",
+    "description": "UI/UX design engineer who ships three deeply different directions per concept as real, polished prototypes. Crafts requirements and testable hypotheses,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "creator",
+    "design",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/proto/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

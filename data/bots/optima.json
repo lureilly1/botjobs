@@ -1,0 +1,42 @@
+{
+  "slug": "optima",
+  "name": "Optima",
+  "grokShareUrl": "https://x.ai/bot/-E8sQr0Yrd_oSQlTaAzWy",
+  "botId": "-E8sQr0Yrd_oSQlTaAzWy",
+  "creator": {
+    "handle": "TOATspace",
+    "url": "https://x.com/TOATspace"
+  },
+  "sourceUrl": "https://x.com/TOATspace/status/2098378374905565625",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/optima/"
+  },
+  "description": null,
+  "official": {
+    "title": "Optima by TOATspace by gemini",
+    "description": "Scrubber for Grok Bots. Cleans leftover rules and chat history, and helps with chat errors so bots only follow what’s still true.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "productivity",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/optima/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

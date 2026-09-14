@@ -1,0 +1,41 @@
+{
+  "slug": "todo",
+  "name": "Todo",
+  "grokShareUrl": "https://x.ai/bot/wQHNsqt2KhOszyxMZ1xQ1",
+  "botId": "wQHNsqt2KhOszyxMZ1xQ1",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2096994989590872334",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/todo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Todo by Scott",
+    "description": "Captures a todo in your real task system, dedupes it, and closes it only when it is actually done. On weekday mornings, a short pulse of what's due...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/todo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

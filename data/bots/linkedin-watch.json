@@ -1,0 +1,43 @@
+{
+  "slug": "linkedin-watch",
+  "name": "LinkedIn Watch",
+  "grokShareUrl": "https://x.ai/bot/qbBlMjsKq-1coFvbmnEaR",
+  "botId": "qbBlMjsKq-1coFvbmnEaR",
+  "creator": {
+    "handle": "AnnouncrFM",
+    "url": "https://x.com/AnnouncrFM"
+  },
+  "sourceUrl": "https://x.com/AnnouncrFM/status/2098210496356680113",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linkedin-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "LinkedIn Watch by Dave",
+    "description": "Proactive LinkedIn digest bot. Watches feed, DMs, invites, views, and jobs on a schedule, posts linked digests in chat, and optionally speaks multi-card...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "marketer",
+    "monitoring",
+    "social-media",
+    "recruiting",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

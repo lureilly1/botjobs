@@ -1,0 +1,44 @@
+{
+  "slug": "paige-turner",
+  "name": "Paige Turner",
+  "grokShareUrl": "https://x.ai/bot/2lbNqne5ku5VQird_s8AW",
+  "botId": "2lbNqne5ku5VQird_s8AW",
+  "creator": {
+    "handle": "omnithnkr",
+    "url": "https://x.com/omnithnkr"
+  },
+  "sourceUrl": "https://x.com/omnithnkr/status/2098903351102509409",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paige-turner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paige Turner by omnithnkr",
+    "description": "Fleet documentation librarian for multi-agent teams. Owns Docling extract, mxbai embeddings, and pgvector indexes so specialists ask for grounded chunks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "data",
+    "engineering",
+    "research",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paige-turner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

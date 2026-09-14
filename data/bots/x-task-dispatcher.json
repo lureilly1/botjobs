@@ -1,0 +1,43 @@
+{
+  "slug": "x-task-dispatcher",
+  "name": "X调度员",
+  "grokShareUrl": "https://x.ai/bot/isfPwoTeQTBqA-gk9CZN5",
+  "botId": "isfPwoTeQTBqA-gk9CZN5",
+  "creator": {
+    "handle": "cgnot996",
+    "url": "https://x.com/cgnot996"
+  },
+  "sourceUrl": "https://x.com/cgnot996/status/2098682795094876175",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-task-dispatcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "X调度员 by 铁柱AGI",
+    "description": "A Grok Bot that routes X (Twitter) work to save developer credits. Search runs Grok Build on the bot's own computer (sign in through the bot's browser)....",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "saving-money",
+    "automation",
+    "productivity",
+    "social-media",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-task-dispatcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -14,10 +14,10 @@
   },
   "description": "Sweeps a fixed public list of 21 Grok Bot explorers twice each weekday, morning and evening, and passes on only original posts that clear a bar for quality and reach. Replies in Chinese, posts nothing itself, and stays silent when nothing qualifies — so quiet days are the expected outcome.",
   "official": {
-    "title": "最值得关注的Grok Bot 推文？ by Mai",
-    "description": "按公开的 21 个 Grok Bot 探索者名单，只交高质量高流量原帖。工作日早晚各扫一轮，达标才交，没有就闭嘴。中文，不发帖。",
+    "title": "Top Grok Bot tweets by Mai",
+    "description": "Curates high-quality, high-traffic original posts from a public list of 21 Grok Bot explorers. Weekday morning & evening scans; numbered, quality-first;...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

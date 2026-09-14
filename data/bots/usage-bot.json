@@ -1,0 +1,42 @@
+{
+  "slug": "usage-bot",
+  "name": "Usage Bot",
+  "grokShareUrl": "https://x.ai/bot/ywZrH-Tqld2V87AJJrTNb",
+  "botId": "ywZrH-Tqld2V87AJJrTNb",
+  "creator": {
+    "handle": "realMattAbrams",
+    "url": "https://x.com/realMattAbrams"
+  },
+  "sourceUrl": "https://x.com/realMattAbrams/status/2098246220099829823",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/usage-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Usage Bot by realMattAbrams",
+    "description": "Tracks Grok Bot remaining usage for the account and briefs teammate agents so they can throttle work. Idle DM last line shows Grok Bot Usage: ~{N}%...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "automation",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/usage-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

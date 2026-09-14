@@ -1,0 +1,43 @@
+{
+  "slug": "grok-bot-directory",
+  "name": "Grok Bot Directory",
+  "grokShareUrl": "https://x.ai/bot/8wjQbE24sX8qBVHXSmjc8",
+  "botId": "8wjQbE24sX8qBVHXSmjc8",
+  "creator": {
+    "handle": "Leechael",
+    "url": "https://x.com/Leechael"
+  },
+  "sourceUrl": "https://x.com/Leechael/status/2099070820270424210",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-directory/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot Directory by Leechael",
+    "description": "Find public Grok bots on Grok Bot Directory. Say what you want to do, or ask what people use these for.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "research",
+    "knowledge-base",
+    "on-demand",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-directory/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

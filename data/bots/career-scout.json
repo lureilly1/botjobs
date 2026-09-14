@@ -1,0 +1,42 @@
+{
+  "slug": "career-scout",
+  "name": "Career Scout",
+  "grokShareUrl": "https://x.ai/bot/P_0bcl1HrKuL8E1bfmJjz",
+  "botId": "P_0bcl1HrKuL8E1bfmJjz",
+  "creator": {
+    "handle": "jakesh_jakesh",
+    "url": "https://x.com/jakesh_jakesh"
+  },
+  "sourceUrl": "https://x.com/jakesh_jakesh/status/2096823313591156952",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/career-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Career Scout by Hojjat",
+    "description": "A field-agnostic job-search co-pilot. Builds a profile from your CV, scores postings, and returns a ranked shortlist — no spray-and-pray.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/career-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

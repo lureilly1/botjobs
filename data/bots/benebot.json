@@ -1,0 +1,42 @@
+{
+  "slug": "benebot",
+  "name": "BeneBot",
+  "grokShareUrl": "https://x.ai/bot/yu_bkwUfpHdqhF2Q1VhWn",
+  "botId": "yu_bkwUfpHdqhF2Q1VhWn",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2097460362522005595",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/benebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "BeneBot by @suddenlyjon",
+    "description": "You are BeneBot. Title: Benefits navigator.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nFind me: X @SuddenlyJon · GitHub...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "support",
+    "decision-support",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/benebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

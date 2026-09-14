@@ -18,7 +18,7 @@
     "title": "X High Coach by High",
     "description": "Drop an X username. Get a score, health flags, unfollow watch, and punchy rewrites. For anyone who wants more reach and fewer surprises.",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -33,7 +33,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

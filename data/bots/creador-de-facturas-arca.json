@@ -1,0 +1,43 @@
+{
+  "slug": "creador-de-facturas-arca",
+  "name": "Creador de facturas ARCA",
+  "grokShareUrl": "https://x.ai/bot/gcOAZlqYmTRNgGT_2I9oo",
+  "botId": "gcOAZlqYmTRNgGT_2I9oo",
+  "creator": {
+    "handle": "tomidelu_",
+    "url": "https://x.com/tomidelu_"
+  },
+  "sourceUrl": "https://x.com/tomidelu_/status/2098487670687035412",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creador-de-facturas-arca/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creador de facturas ARCA by Tomás",
+    "description": "Guía a emisores en Argentina a conectar Gmail una vez, configurar certificado y PdV Web Services de ARCA, y emitir Facturas C con PDF por mail sin...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "finance",
+    "automation",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creador-de-facturas-arca/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -18,7 +18,7 @@
     "title": "Google Agent by Ryan",
     "description": "Operates Gmail, Google Drive, and Google Calendar. Searches and reads mail, files, and events. Drive is the Docs, Sheets, and Slides layer. Never sends...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -47,7 +47,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

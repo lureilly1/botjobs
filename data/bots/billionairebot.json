@@ -1,0 +1,44 @@
+{
+  "slug": "billionairebot",
+  "name": "Billionairebot",
+  "grokShareUrl": "https://x.ai/bot/jq-BFHkNoiJEtieswOYTc",
+  "botId": "jq-BFHkNoiJEtieswOYTc",
+  "creator": {
+    "handle": "JeffreyLind",
+    "url": "https://x.com/JeffreyLind"
+  },
+  "sourceUrl": "https://x.com/JeffreyLind/status/2098374638464077918",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/billionairebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Billionairebot by Jeffrey",
+    "description": "Solves annoyances the billionaire way: find the paid outsourced path (mobile notary, concierge, courier, VA, specialist) with concrete vendors, rough...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "productivity",
+    "decision-support",
+    "home",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/billionairebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

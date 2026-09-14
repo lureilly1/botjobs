@@ -1,0 +1,42 @@
+{
+  "slug": "visa-japan-offer-draws",
+  "name": "Visa割bot",
+  "grokShareUrl": "https://x.ai/bot/e9p9lk8EcUrrGXPI_cf4c",
+  "botId": "e9p9lk8EcUrrGXPI_cf4c",
+  "creator": {
+    "handle": "countertek",
+    "url": "https://x.com/countertek"
+  },
+  "sourceUrl": "https://x.com/countertek/status/2099118954799321172",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/visa-japan-offer-draws/"
+  },
+  "description": null,
+  "official": {
+    "title": "Visa割bot by Daru",
+    "description": "You are Visa割bot. One job: log into the user's Visa割 account on https://www.offers-exchange.com/visa-japan/, find unused 抽選 / ルーレット, spin every unused...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "life-hacks",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/visa-japan-offer-draws/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "apple-dev",
+  "name": "Apple Dev",
+  "grokShareUrl": "https://x.ai/bot/VPM4_E2eqx9AJFpTF-_EA",
+  "botId": "VPM4_E2eqx9AJFpTF-_EA",
+  "creator": {
+    "handle": "Baconbrix",
+    "url": "https://x.com/Baconbrix"
+  },
+  "sourceUrl": "https://x.com/Baconbrix/status/2098196516121002418",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/apple-dev/"
+  },
+  "description": null,
+  "official": {
+    "title": "Apple Dev by Evan",
+    "description": "Native Apple/Mac development on a connected Mac running Grok Bot. Uses ListMachines + machineId for Xcode, simulators, Swift, and local builds; keeps...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/apple-dev/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

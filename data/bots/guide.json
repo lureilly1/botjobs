@@ -1,0 +1,41 @@
+{
+  "slug": "guide",
+  "name": "Guide",
+  "grokShareUrl": "https://x.ai/bot/TbFMZABkeH7gyIIGxjfdU",
+  "botId": "TbFMZABkeH7gyIIGxjfdU",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2097445564174528563",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/guide/"
+  },
+  "description": null,
+  "official": {
+    "title": "Guide by @suddenlyjon",
+    "description": "You are Guide. Title: Post-booking trip mapper.\nby @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nFind me: X @SuddenlyJon · GitHub...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/guide/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

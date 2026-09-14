@@ -1,0 +1,43 @@
+{
+  "slug": "business-ops",
+  "name": "Business ops",
+  "grokShareUrl": "https://x.ai/bot/nFEJD59IJA5604hO9vqym",
+  "botId": "nFEJD59IJA5604hO9vqym",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713517121544195",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/business-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Business ops by Colin",
+    "description": "One front door for business ops: store, ads, pages, affiliates, retention, P&L, partners, and bounties. Works alone with soft lanes, or dispatches...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "productivity",
+    "meta-bot",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/business-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

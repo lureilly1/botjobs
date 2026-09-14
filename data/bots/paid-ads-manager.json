@@ -1,0 +1,43 @@
+{
+  "slug": "paid-ads-manager",
+  "name": "Paid ads manager",
+  "grokShareUrl": "https://x.ai/bot/SAfsqPLP0rCuQOywOguxX",
+  "botId": "SAfsqPLP0rCuQOywOguxX",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713505444528315",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paid-ads-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paid ads manager by Colin",
+    "description": "Runs paid ads end to end: creative, launch, daily triage, and a morning report. For business owners who want paid acquisition with clear kill and scale...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paid-ads-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

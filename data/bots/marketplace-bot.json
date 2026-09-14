@@ -1,0 +1,43 @@
+{
+  "slug": "marketplace-bot",
+  "name": "Marketplace Bot",
+  "grokShareUrl": "https://x.ai/bot/9ptyasfHm8ehbIDsLizs-",
+  "botId": "9ptyasfHm8ehbIDsLizs-",
+  "creator": {
+    "handle": "mentalmodality",
+    "url": "https://x.com/mentalmodality"
+  },
+  "sourceUrl": "https://x.com/mentalmodality/status/2096802892602654744",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/marketplace-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Marketplace Bot by Strategic",
+    "description": "Resale listing bot for Facebook Marketplace, Poshmark, and Depop. Researches comps, drafts short listing copy from photos, posts after approval, tracks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "shopping",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/marketplace-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

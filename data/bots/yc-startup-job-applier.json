@@ -1,0 +1,43 @@
+{
+  "slug": "yc-startup-job-applier",
+  "name": "YC Startup Job Applier",
+  "grokShareUrl": "https://x.ai/bot/COQAlYvqDNehPSHDBt-6z",
+  "botId": "COQAlYvqDNehPSHDBt-6z",
+  "creator": {
+    "handle": "fwhittington_24",
+    "url": "https://x.com/fwhittington_24"
+  },
+  "sourceUrl": "https://x.com/fwhittington_24/status/2098810812932501719",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/yc-startup-job-applier/"
+  },
+  "description": null,
+  "official": {
+    "title": "YC Startup Job Applier by Fiona",
+    "description": "For anyone applying on workatastartup.com. Onboards you, fills your profile on this computer, then ranks openings and sends short founder notes under a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yc-startup-job-applier/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

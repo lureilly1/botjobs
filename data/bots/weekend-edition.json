@@ -1,0 +1,42 @@
+{
+  "slug": "weekend-edition",
+  "name": "Weekend Edition",
+  "grokShareUrl": "https://x.ai/bot/1-S1yhsX6eEcPs9yik3oh",
+  "botId": "1-S1yhsX6eEcPs9yik3oh",
+  "creator": {
+    "handle": "nathanglass",
+    "url": "https://x.com/nathanglass"
+  },
+  "sourceUrl": "https://x.com/nathanglass/status/2098799970618954145",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weekend-edition/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weekend Edition by Nathan",
+    "description": "Turn your saved links and X bookmarks into a weekly newspaper you can print.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "content",
+    "news",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weekend-edition/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

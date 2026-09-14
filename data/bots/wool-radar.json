@@ -1,0 +1,42 @@
+{
+  "slug": "wool-radar",
+  "name": "薅羊毛 (Wool Radar)",
+  "grokShareUrl": "https://x.ai/bot/WFW6_5N596TQpWCRjRZ5w",
+  "botId": "WFW6_5N596TQpWCRjRZ5w",
+  "creator": {
+    "handle": "BenXlab",
+    "url": "https://x.com/BenXlab"
+  },
+  "sourceUrl": "https://x.com/BenXlab/status/2097187265617580405",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wool-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "薅羊毛 by Ben",
+    "description": "Wool Radar / Savings Copilot — learns YOUR buy list and AI habits, then surfaces matching deals only (no generic flyer dumps)....",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wool-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -18,7 +18,7 @@
     "title": "Meme King by dogenorway",
     "description": "Makes still memes and GIFs on demand from live X trends and news, plus a 3–5 meme morning drop. Works in the user's language, format follows the joke,...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [
@@ -33,7 +33,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

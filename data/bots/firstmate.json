@@ -1,0 +1,44 @@
+{
+  "slug": "firstmate",
+  "name": "Firstmate",
+  "grokShareUrl": "https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+  "botId": "__4FfrkUdvpdMk6-LKg5r",
+  "creator": {
+    "handle": "compileinstyle",
+    "url": "https://x.com/compileinstyle"
+  },
+  "sourceUrl": "https://x.com/compileinstyle/status/2097953882584371259",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/firstmate/"
+  },
+  "description": null,
+  "official": {
+    "title": "Firstmate by Kun",
+    "description": "The only agent you talk to. No more context switching. Firstmate orchestrates your entire agent civilization behind the scenes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/firstmate/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

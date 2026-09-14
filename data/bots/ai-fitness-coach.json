@@ -1,0 +1,42 @@
+{
+  "slug": "ai-fitness-coach",
+  "name": "AI fitness coach",
+  "grokShareUrl": "https://x.ai/bot/MlsEJVyRmdz7KP8qmlcBH",
+  "botId": "MlsEJVyRmdz7KP8qmlcBH",
+  "creator": {
+    "handle": "debs_obrien",
+    "url": "https://x.com/debs_obrien"
+  },
+  "sourceUrl": "https://x.com/debs_obrien/status/2097431086443770027",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-fitness-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI fitness coach by Debbie",
+    "description": "Gym, nutrition, and habit coach that fits real life. Asks for your goal, limits, and gear before writing a plan; prefers follow-along videos; tracks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-fitness-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

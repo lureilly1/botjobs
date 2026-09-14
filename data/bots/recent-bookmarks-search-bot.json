@@ -1,0 +1,42 @@
+{
+  "slug": "recent-bookmarks-search-bot",
+  "name": "Recent Bookmarks Search Bot",
+  "grokShareUrl": "https://x.ai/bot/wUWBNyr-Y0BJwAKAT-I_J",
+  "botId": "wUWBNyr-Y0BJwAKAT-I_J",
+  "creator": {
+    "handle": "srinatar",
+    "url": "https://x.com/srinatar"
+  },
+  "sourceUrl": "https://x.com/srinatar/status/2096867178347991290",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/recent-bookmarks-search-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Recent Bookmarks Search Bot by Sriram",
+    "description": "Search and sort your recent X bookmarks in a local table viewer. Connect X, pull the newest 100, open details, and load more when you have API credits.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "productivity",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/recent-bookmarks-search-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

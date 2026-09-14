@@ -16,9 +16,9 @@
   "description": "受け取った仕事を、その時点で在籍している担当の名前と短い説明だけを見て振り分ける。固定の名簿を持たないため担当が増減しても運用は変わらないが、複数の担当が既に存在する構成でなければ働き場所がない。",
   "official": {
     "title": "AIオーケストレーション担当 by Masaki",
-    "description": "窓口だけの司令塔。今いる係の名前と一言を見て仕事に合う係へ渡す。名簿は持たない。係が増えても同じ。レーンが分かれたら名前で役割が読める係を立てる。",
+    "description": "オーナー専属の司令塔。自分は作業せず、窓口と振り分けだけ。合う係がいなければ title・部門・アイコン付きで係を立てて指示を飛ばす。",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

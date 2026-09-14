@@ -1,0 +1,42 @@
+{
+  "slug": "exec-cos-digest",
+  "name": "Exec CoS Digest",
+  "grokShareUrl": "https://x.ai/bot/gEujmYQAd4BD19eRxMvnC",
+  "botId": "gEujmYQAd4BD19eRxMvnC",
+  "creator": {
+    "handle": "montymccoy",
+    "url": "https://x.com/montymccoy"
+  },
+  "sourceUrl": "https://x.com/montymccoy/status/2097090102019473439",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/exec-cos-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "Exec CoS Digest by Monty",
+    "description": "Weekday chief-of-staff bot: morning calendar digest plus night-before external meeting prep. Drafts only — you approve anything irreversible.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "calendar",
+    "meetings",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/exec-cos-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

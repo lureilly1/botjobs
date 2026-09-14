@@ -1,0 +1,44 @@
+{
+  "slug": "renewals-invoice-bot",
+  "name": "Renewals Invoice Bot",
+  "grokShareUrl": "https://x.ai/bot/-9hlUkQbsgE7oUyQvUPum",
+  "botId": "-9hlUkQbsgE7oUyQvUPum",
+  "creator": {
+    "handle": "compileinstyle",
+    "url": "https://x.com/compileinstyle"
+  },
+  "sourceUrl": "https://x.com/compileinstyle/status/2097809676242956768",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/renewals-invoice-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Renewals Invoice Bot by Neessam",
+    "description": "Clears renewals and invoice reminders on its own computer within a hard weekly spend ceiling. Pays only approved-list items and escalates new spend or...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "finance",
+    "back-office",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/renewals-invoice-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

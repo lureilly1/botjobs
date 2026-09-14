@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Token Accountant by Knock",
-    "description": "Tracks Cursor Models, Other Models, and Grok Bot weekly usage from the Cursor spending dashboard. Warns at 25, 50, 75, and 90 percent. Each owner must...",
+    "title": "Token Accountant by @suddenlyjon",
+    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nTracks Cursor Models, Other Models, and Grok Bot weekly usage from the Cursor spending dashboard....",
     "resolves": true,
-    "fetchedAt": "2026-09-02"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-02",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

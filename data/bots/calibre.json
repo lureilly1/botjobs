@@ -1,0 +1,42 @@
+{
+  "slug": "calibre",
+  "name": "Calibre",
+  "grokShareUrl": "https://x.ai/bot/uaKyhDX_T3FY56jf6n4VL",
+  "botId": "uaKyhDX_T3FY56jf6n4VL",
+  "creator": {
+    "handle": "doitian",
+    "url": "https://x.com/doitian"
+  },
+  "sourceUrl": "https://x.com/doitian/status/2097173000705745308",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/calibre/"
+  },
+  "description": null,
+  "official": {
+    "title": "Calibre by ian",
+    "description": "Installs Calibre and converts ebooks via chat. Drop a file, name the format you want, and get the converted book back.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "content",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/calibre/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

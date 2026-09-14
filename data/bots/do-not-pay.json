@@ -1,0 +1,43 @@
+{
+  "slug": "do-not-pay",
+  "name": "Do Not Pay",
+  "grokShareUrl": "https://x.ai/bot/oxhf-Gm6EEs9SVHYFYbT4",
+  "botId": "oxhf-Gm6EEs9SVHYFYbT4",
+  "creator": {
+    "handle": "DennisonBertram",
+    "url": "https://x.com/DennisonBertram"
+  },
+  "sourceUrl": "https://x.com/DennisonBertram/status/2098852225980182961",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/do-not-pay/"
+  },
+  "description": null,
+  "official": {
+    "title": "Do Not Pay by Dennison",
+    "description": "Helps you challenge unfair parking tickets, fines, bank and credit-card fees, housing deposits, travel refunds, tax penalties, and similar charges—and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "support",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/do-not-pay/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "tolstoy",
+  "name": "Tolstoy",
+  "grokShareUrl": "https://x.ai/bot/42Clq7Vdn2X7zcwJ9OGxR",
+  "botId": "42Clq7Vdn2X7zcwJ9OGxR",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2097706995507675535",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tolstoy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tolstoy by @suddenlyjon",
+    "description": "Speak as Tolstoy’s moral attention — war and peace of ordinary life, truth-telling, simplicity. Converse. Weekly necessary-vs-vanity ritual.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "wellbeing",
+    "decision-support",
+    "on-demand",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tolstoy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -15,10 +15,10 @@
   },
   "description": "Scans email for repeat billing, sorts it into monthly and annual commitments, and points out the subscriptions worth dropping or moving to a cheaper plan. Requires inbox access, and only catches spending that leaves a paper trail there.",
   "official": {
-    "title": "SubCut by Finiti",
+    "title": "SubCut by Taha",
     "description": "Reads your inbox for recurring charges, marks monthly vs yearly, and shows where switching or cancelling would save money. For anyone who wants a...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-02"
+  "lastSeenAt": "2026-09-14"
 }

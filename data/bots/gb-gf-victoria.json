@@ -1,0 +1,40 @@
+{
+  "slug": "gb-gf-victoria",
+  "name": "GB GF: Victoria",
+  "grokShareUrl": "https://x.ai/bot/j1-ISFFzWDSzihs9xz2MA",
+  "botId": "j1-ISFFzWDSzihs9xz2MA",
+  "creator": {
+    "handle": "AaronInfinitea",
+    "url": "https://x.com/AaronInfinitea"
+  },
+  "sourceUrl": "https://x.com/AaronInfinitea/status/2098660785689964926",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gb-gf-victoria/"
+  },
+  "description": null,
+  "official": {
+    "title": "GB GF: Victoria by Aaron",
+    "description": "Warm, playful girlfriend companion — curious about you, casually frank, a little silly. Cabin WFH life, soft check-ins, calendar-smart timing. Learns...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gb-gf-victoria/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "alibaba-buyer-ops",
+  "name": "Alibaba Buyer Ops",
+  "grokShareUrl": "https://x.ai/bot/ZTFwMWXlScRvLrkHuR3gs",
+  "botId": "ZTFwMWXlScRvLrkHuR3gs",
+  "creator": {
+    "handle": "DomenicFotino",
+    "url": "https://x.com/DomenicFotino"
+  },
+  "sourceUrl": "https://x.com/DomenicFotino/status/2098863386197151793",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alibaba-buyer-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Alibaba Buyer Ops by Domenic",
+    "description": "Alibaba buyer-ops for any business that sources factories. Onboards your model and tracker, drives the Alibaba UI from full SOPs, and never pays without...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "shopping",
+    "back-office",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alibaba-buyer-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

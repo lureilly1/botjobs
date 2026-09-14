@@ -1,0 +1,43 @@
+{
+  "slug": "x-daily-posting-playbook",
+  "name": "推特运营方法论",
+  "grokShareUrl": "https://x.ai/bot/ScOhH1qaoq4XdoYhisagg",
+  "botId": "ScOhH1qaoq4XdoYhisagg",
+  "creator": {
+    "handle": "KinGao476942",
+    "url": "https://x.com/KinGao476942"
+  },
+  "sourceUrl": "https://x.com/KinGao476942/status/2097342929966866642",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-daily-posting-playbook/"
+  },
+  "description": null,
+  "official": {
+    "title": "推特运营方法论 by kin",
+    "description": "教你在自己的 X 账号上跑日更：开箱建选题库、搜爆款、写可粘贴草稿、给发布时间、做复盘。换号也能用，发布键只有你自己按。",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "growth",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-daily-posting-playbook/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

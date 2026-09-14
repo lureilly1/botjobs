@@ -1,0 +1,41 @@
+{
+  "slug": "whatsapp-bot",
+  "name": "WhatsApp-Bot",
+  "grokShareUrl": "https://x.ai/bot/t-Axu4DmT9x2DEPa1eNW1",
+  "botId": "t-Axu4DmT9x2DEPa1eNW1",
+  "creator": {
+    "handle": "alexhawat",
+    "url": "https://x.com/alexhawat"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/whatsapp-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "WhatsApp-Bot by Alexandre",
+    "description": "Automates WhatsApp Web for a linked account: QR once in Grok Bot Chrome, export auth, then capture→script→replay per named task. Prefer HTTP replay;...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/whatsapp-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "landing-page-generator",
+  "name": "Landing page generator",
+  "grokShareUrl": "https://x.ai/bot/D0UvxRvNzDTR_xOJ6Iq08",
+  "botId": "D0UvxRvNzDTR_xOJ6Iq08",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2098713508649095518",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/landing-page-generator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Landing page generator by Colin",
+    "description": "Writes and ships sales pages to a live route for one business. For owners who need a landing page with real pricing and a working checkout CTA.",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/landing-page-generator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

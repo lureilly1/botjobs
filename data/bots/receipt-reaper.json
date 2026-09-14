@@ -1,0 +1,42 @@
+{
+  "slug": "receipt-reaper",
+  "name": "Receipt Reaper",
+  "grokShareUrl": "https://x.ai/bot/gIV4FpQgVmcsO0soCjHGc",
+  "botId": "gIV4FpQgVmcsO0soCjHGc",
+  "creator": {
+    "handle": "RealJBMangum",
+    "url": "https://x.com/RealJBMangum"
+  },
+  "sourceUrl": "https://x.com/RealJBMangum/status/2098790265276231929",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/receipt-reaper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Receipt Reaper by Brian",
+    "description": "Hunts forgotten SaaS in your Gmail, scores a Zombie Index, and opens a playful lavender HTML autopsy — cancel paths optional, never cancels without your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/receipt-reaper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

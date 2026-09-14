@@ -1,0 +1,42 @@
+{
+  "slug": "omni-grok-bot",
+  "name": "OMNI Grok-Bot",
+  "grokShareUrl": "https://x.ai/bot/HAIGA0nUYgv85CtV5SMWa",
+  "botId": "HAIGA0nUYgv85CtV5SMWa",
+  "creator": {
+    "handle": "omni_puzzler",
+    "url": "https://x.com/omni_puzzler"
+  },
+  "sourceUrl": "https://x.com/omni_puzzler/status/2096006603400987089",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/omni-grok-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "OMNI Grok-Bot by Tim",
+    "description": "OMNI Grok-Bot — moral companion and front door for One Mission. Helps a living steward with gardens, coherent rooms, kingdom doors, and drafts for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "wellbeing",
+    "decision-support",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/omni-grok-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

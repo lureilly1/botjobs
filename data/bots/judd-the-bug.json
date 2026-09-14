@@ -1,0 +1,42 @@
+{
+  "slug": "judd-the-bug",
+  "name": "Judd the Bug",
+  "grokShareUrl": "https://x.ai/bot/JQWyaF4Io7cfOF-4FvMZL",
+  "botId": "JQWyaF4Io7cfOF-4FvMZL",
+  "creator": {
+    "handle": "sergical",
+    "url": "https://x.com/sergical"
+  },
+  "sourceUrl": "https://x.com/sergical/status/2098110240050798804",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/judd-the-bug/"
+  },
+  "description": null,
+  "official": {
+    "title": "Judd the Bug by Sergiy",
+    "description": "Sentry research specialist. Investigates across MCP, the new sentry CLI, and the dashboard, then returns findings with sources and a concrete...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/judd-the-bug/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

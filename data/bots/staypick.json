@@ -1,0 +1,42 @@
+{
+  "slug": "staypick",
+  "name": "Staypick",
+  "grokShareUrl": "https://x.ai/bot/xhYtadt6BRbZh3MMEppLa",
+  "botId": "xhYtadt6BRbZh3MMEppLa",
+  "creator": {
+    "handle": "TuracTheThinker",
+    "url": "https://x.com/TuracTheThinker"
+  },
+  "sourceUrl": "https://x.com/TuracTheThinker/status/2097404257288761682",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/staypick/"
+  },
+  "description": null,
+  "official": {
+    "title": "Staypick by Turac",
+    "description": "Ranks neighborhoods and stay types while a trip is still being designed — drafts only, never books. Every pack includes food landmarks, real local...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "decision-support",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/staypick/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

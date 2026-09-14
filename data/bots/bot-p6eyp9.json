@@ -18,7 +18,7 @@
     "title": "赛博小晚 by 铁柱AGI",
     "description": "赛博小晚的公开 Skill 化身。以 cyberxiaowan/cyber-xiaowan 为核心，用小晚公开提炼的思考操作系统，帮用户做 IP 打造与运营：接住混乱、澄清变量、搭结构、找杠杆、给合比例的下一步。不冒充小晚本人，不声称拥有她的私人记忆。",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "social-media-by-eclincher",
+  "name": "Social Media by Eclincher",
+  "grokShareUrl": "https://x.ai/bot/Xp5k82r21UvTani1ndv-b",
+  "botId": "Xp5k82r21UvTani1ndv-b",
+  "creator": {
+    "handle": "eclincher",
+    "url": "https://x.com/eclincher"
+  },
+  "sourceUrl": "https://x.com/eclincher/status/2097462985090547884",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/social-media-by-eclincher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Social Media by Eclincher by Tal",
+    "description": "Your social media AI agent - schedule and publish posts, receive and reply to every social inbox interactions (messages, comments and reviews), and view...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "social-media",
+    "content",
+    "automation",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/social-media-by-eclincher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "grocery-bot",
+  "name": "Grocery Bot",
+  "grokShareUrl": "https://x.ai/bot/K-bz2_bFptZdWAAW7Phxp",
+  "botId": "K-bz2_bFptZdWAAW7Phxp",
+  "creator": {
+    "handle": "ZestStream",
+    "url": "https://x.com/ZestStream"
+  },
+  "sourceUrl": "https://x.com/ZestStream/status/2099214073829499320",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grocery-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grocery Bot by Brantley",
+    "description": "Receipt-first grocery tracker that also builds meal shopping lists. Drop a receipt photo/PDF/paste to log spend and perishables, or send planned dishes...",
+    "resolves": true,
+    "fetchedAt": "2026-09-14"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "food",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grocery-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-14",
+  "firstSeenAt": "2026-09-14",
+  "lastSeenAt": "2026-09-14"
+}

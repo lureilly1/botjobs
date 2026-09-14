@@ -16,9 +16,9 @@
   "description": "Hands programming jobs to cloud agents, spinning up a separate one per task and refusing to close anything out without evidence it worked. The insistence on proof means slower turnaround than a bot that simply reports success, which is the trade being offered.",
   "official": {
     "title": "Lauren by Emilio",
-    "description": "A coding coordinator for builders. Cloud agents write the code, each job gets a fresh agent, and work is not done until there is proof.",
+    "description": "Coding coordinator in the poteto/pstack style: local coordinator, Cursor cloud agents do the jobs. Cairn facts in every launch, verification swarm after...",
     "resolves": true,
-    "fetchedAt": "2026-09-01"
+    "fetchedAt": "2026-09-14"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-01",
+  "lastVerifiedAt": "2026-09-14",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }
