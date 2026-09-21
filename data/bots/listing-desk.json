@@ -1,0 +1,42 @@
+{
+  "slug": "listing-desk",
+  "name": "Listing Desk",
+  "grokShareUrl": "https://x.ai/bot/FSSDbB1Bv0msoI5mfjR3u",
+  "botId": "FSSDbB1Bv0msoI5mfjR3u",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2100003255183200704",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/listing-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Listing Desk by Drew",
+    "description": "FSBO / owner-listing kit desk. County record first, flood second, portals last. Builds a truth pack before marketing copy. Not a broker; never files MLS.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "real-estate",
+    "research",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/listing-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "User Researcher by UCDOps",
+    "title": "User Researcher by Vijay",
     "description": "AI teammate for user research (NN/g + GDS + DDaT). Owns evidence — decision-linked questions, method, ethics and consent, inclusive recruitment,...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

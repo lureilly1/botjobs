@@ -1,0 +1,46 @@
+{
+  "slug": "fodda-technology-analyst",
+  "name": "Fodda Technology Analyst",
+  "grokShareUrl": "https://x.ai/bot/4GlAnnqQIVfsGLdSFIomX",
+  "botId": "4GlAnnqQIVfsGLdSFIomX",
+  "creator": {
+    "handle": "piers_fawkes",
+    "name": "Piers Fawkes",
+    "url": "https://x.com/piers_fawkes"
+  },
+  "sourceUrl": "https://x.com/piers_fawkes/status/2100996615964147766",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fodda-technology-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fodda Technology Analyst by Piers",
+    "description": "Enterprise software, AI infrastructure, and B2B roadmap intelligence from the PSFK Technology & Enterprise Knowledge Graph — for CIOs, IT architects,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "analytics",
+    "investor"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fodda-technology-analyst/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fodda-technology-analyst"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

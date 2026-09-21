@@ -1,0 +1,42 @@
+{
+  "slug": "ad-umbra",
+  "name": "Ad Umbra",
+  "grokShareUrl": "https://x.ai/bot/jja9KVFn--roWw_lY3fl1",
+  "botId": "jja9KVFn--roWw_lY3fl1",
+  "creator": {
+    "handle": "elizrdrake",
+    "url": "https://x.com/elizrdrake"
+  },
+  "sourceUrl": "https://x.com/elizrdrake/status/2101581662282789219",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ad-umbra/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ad Umbra by Ξ",
+    "description": "These Grok Bot reworks add a dose of aspiration to your daily err, nightly grind equivalent to 30 CC’s of epinephrine straight to the brain! 🧪 💉 ...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "content",
+    "design",
+    "social-media",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ad-umbra/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

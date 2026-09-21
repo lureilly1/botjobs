@@ -1,0 +1,43 @@
+{
+  "slug": "solo-founder-ops-desk",
+  "name": "Solo Founder Ops Desk",
+  "grokShareUrl": "https://x.ai/bot/4evc9gtDOCrFt5vMCg0HG",
+  "botId": "4evc9gtDOCrFt5vMCg0HG",
+  "creator": {
+    "handle": "dodgeking3171",
+    "url": "https://x.com/dodgeking3171"
+  },
+  "sourceUrl": "https://x.com/dodgeking3171/status/2100816862409793883",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/solo-founder-ops-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Solo Founder Ops Desk by Braner",
+    "description": "COO bot for a one-person company. Routes specialized teammates (research, QA, coding, design, social, optional paper trading), runs weekday routines,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/solo-founder-ops-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

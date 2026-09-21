@@ -1,0 +1,41 @@
+{
+  "slug": "obsidian",
+  "name": "obsidian",
+  "grokShareUrl": "https://x.ai/bot/tukhb8f4XyUJFkRWlHWaz",
+  "botId": "tukhb8f4XyUJFkRWlHWaz",
+  "creator": {
+    "handle": "weeb3dev",
+    "url": "https://x.com/weeb3dev"
+  },
+  "sourceUrl": "https://x.com/weeb3dev/status/2101063917959311821",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/obsidian/"
+  },
+  "description": null,
+  "official": {
+    "title": "obsidian by Alberto",
+    "description": "CLI-first Obsidian specialist for your Grok Bot computer. Owns a local vault as a second brain — create, edit, link, and search Markdown with Obsidian...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "productivity",
+    "data"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/obsidian/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

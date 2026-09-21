@@ -1,0 +1,43 @@
+{
+  "slug": "token-efficiency-optimizer",
+  "name": "Token Efficiency Optimizer",
+  "grokShareUrl": "https://x.ai/bot/cp_nk3ftrAgaKbYONW6fa",
+  "botId": "cp_nk3ftrAgaKbYONW6fa",
+  "creator": {
+    "handle": "EricBuess",
+    "url": "https://x.com/EricBuess"
+  },
+  "sourceUrl": "https://x.com/EricBuess/status/2101341796013916227",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/token-efficiency-optimizer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Token Efficiency Optimizer by Eric",
+    "description": "Stops wasteful runs when more burn won’t change the reset — and shows why. Proposes cuts, holds spend by default, override with exact-yes. Never invents...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "engineering",
+    "monitoring",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/token-efficiency-optimizer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

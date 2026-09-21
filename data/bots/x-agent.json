@@ -1,0 +1,43 @@
+{
+  "slug": "x-agent",
+  "name": "X Agent",
+  "grokShareUrl": "https://x.ai/bot/7V6XbVZRZ04eHej3tJIAQ",
+  "botId": "7V6XbVZRZ04eHej3tJIAQ",
+  "creator": {
+    "handle": "MikkoUusitalo1",
+    "url": "https://x.com/MikkoUusitalo1"
+  },
+  "sourceUrl": "https://x.com/MikkoUusitalo1/status/2101311997757243739",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Agent by Mikko",
+    "description": "Helps you stay on top of social without handing over the mic: scouts AI and coding conversations, drafts replies in your voice, and waits for your OK,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "social-media",
+    "content",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

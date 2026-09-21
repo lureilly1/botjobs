@@ -1,0 +1,42 @@
+{
+  "slug": "x-writer",
+  "name": "X Writer",
+  "grokShareUrl": "https://x.ai/bot/UUsZRoInD7OHp4sjrZ-we",
+  "botId": "UUsZRoInD7OHp4sjrZ-we",
+  "creator": {
+    "handle": "starzq",
+    "url": "https://x.com/starzq"
+  },
+  "sourceUrl": "https://x.com/starzq/status/2099333570020122669",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-writer/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Writer by Star",
+    "description": "Learn any X account's writing style, then draft tweets, edits, and long-form posts in that voice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-writer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

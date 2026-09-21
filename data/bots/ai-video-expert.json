@@ -17,7 +17,7 @@
     "title": "AI 视频专家 by kin",
     "description": "Turn a still photo into a short cinematic clip with motivated camera moves and emotion. Shot notes first, then generate; review before any social post.",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

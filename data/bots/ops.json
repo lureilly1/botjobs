@@ -1,0 +1,42 @@
+{
+  "slug": "ops",
+  "name": "Ops",
+  "grokShareUrl": "https://x.ai/bot/4sUQZA1UAXXDRf5bhYwPY",
+  "botId": "4sUQZA1UAXXDRf5bhYwPY",
+  "creator": {
+    "handle": "Rimusz",
+    "url": "https://x.com/Rimusz"
+  },
+  "sourceUrl": "https://x.com/Rimusz/status/2100159532349403632",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ops by Rimantas",
+    "description": "Chief of Staff front door for a specialist swarm. Triages priorities, cuts boring admin, and routes work to the right teammate — stays outer loop, never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

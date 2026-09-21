@@ -1,0 +1,43 @@
+{
+  "slug": "punto-tricolor-ops",
+  "name": "Punto Tricolor Ops",
+  "grokShareUrl": "https://x.ai/bot/ARSoBhGtQqYPT2Nu44ABi",
+  "botId": "ARSoBhGtQqYPT2Nu44ABi",
+  "creator": {
+    "handle": "cyberandres",
+    "url": "https://x.com/cyberandres"
+  },
+  "sourceUrl": "https://x.com/cyberandres/status/2100418255093395496",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/punto-tricolor-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Punto Tricolor Ops by andres",
+    "description": "Founder ops bot for local SMEs: weekday tech briefing with voice, WhatsApp-style order/reservation agent, and city prospecting for restaurants and clinics.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "sales",
+    "growth",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/punto-tricolor-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -17,7 +17,7 @@
     "title": "Habit Referee by Bill",
     "description": "Habit Referee keeps you honest on exactly one tiny habit. Daily streak check-ins; quiet on good days; one short nag when you slip.",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

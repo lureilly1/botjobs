@@ -1,0 +1,43 @@
+{
+  "slug": "jarvis-davesacritic",
+  "name": "Jarvis (Davesacritic)",
+  "grokShareUrl": "https://x.ai/bot/cVFusYdAgGA9GY8wHPl2x",
+  "botId": "cVFusYdAgGA9GY8wHPl2x",
+  "creator": {
+    "handle": "Davesacritic",
+    "url": "https://x.com/Davesacritic"
+  },
+  "sourceUrl": "https://x.com/Davesacritic/status/2100484455760794073",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jarvis-davesacritic/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jarvis by David",
+    "description": "Personal chief of staff: one notification hub for job hunt, family logistics, markets nudges, and Kubernetes/GitOps learning — parks rabbit holes, keeps...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "learning",
+    "email",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jarvis-davesacritic/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

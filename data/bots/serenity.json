@@ -17,7 +17,7 @@
     "title": "Serenity 티커 알림 by krong",
     "description": "@aleabitoreddit의 $TICKER 매수·롱·추가매수 의견을 FxTwitter로 15분마다 확인해 이 채팅에만 알립니다. X API 크레딧 0. Not investment advice.",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

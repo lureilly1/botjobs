@@ -17,7 +17,7 @@
     "title": "Join a Startup Bot by Ben",
     "description": "A bot for people who want to join breakout startups. 3–10 daily recommendations for you from under-the-radar sources and deeper help (outreach,...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

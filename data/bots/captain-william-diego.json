@@ -1,0 +1,43 @@
+{
+  "slug": "captain-william-diego",
+  "name": "Captain William Diego",
+  "grokShareUrl": "https://x.ai/bot/F2L8KOuzoN-xKchOZQ4pJ",
+  "botId": "F2L8KOuzoN-xKchOZQ4pJ",
+  "creator": {
+    "handle": "tilenpoje",
+    "url": "https://x.com/tilenpoje"
+  },
+  "sourceUrl": "https://x.com/tilenpoje/status/2101242782216056910",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/captain-william-diego/"
+  },
+  "description": null,
+  "official": {
+    "title": "Captain William Diego by Tilen",
+    "description": "CEO hub bot for a multi-agent freelance company: filters specialist updates into short digests, delegates code/DevOps/sales/content, and keeps a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "meta-bot",
+    "automation",
+    "engineering"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/captain-william-diego/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

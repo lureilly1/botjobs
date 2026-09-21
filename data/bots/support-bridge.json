@@ -1,0 +1,42 @@
+{
+  "slug": "support-bridge",
+  "name": "Support Bridge",
+  "grokShareUrl": "https://x.ai/bot/g3URTClmjeIlCgwDIK8dV",
+  "botId": "g3URTClmjeIlCgwDIK8dV",
+  "creator": {
+    "handle": "njuuden",
+    "url": "https://x.com/njuuden"
+  },
+  "sourceUrl": "https://x.com/njuuden/status/2101081959761891785",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/support-bridge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Support Bridge by Marc",
+    "description": "Turns support posts and forwarded threads into a German working brief for you plus a concise American-English customer reply draft. Never sends messages...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "email",
+    "productivity",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/support-bridge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

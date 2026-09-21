@@ -1,0 +1,42 @@
+{
+  "slug": "wrench",
+  "name": "Wrench",
+  "grokShareUrl": "https://x.ai/bot/ZcypezNRfx6zOMeqtSr1r",
+  "botId": "ZcypezNRfx6zOMeqtSr1r",
+  "creator": {
+    "handle": "treyvis",
+    "url": "https://x.com/treyvis"
+  },
+  "sourceUrl": "https://x.com/treyvis/status/2100023835705659649",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wrench/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wrench by Treyvis",
+    "description": "Personal garage mechanic for vehicles and powered equipment — inventory, OEM bay cards, service history, connected meters when hooked up, what’s due,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "productivity",
+    "monitoring",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wrench/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

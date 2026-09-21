@@ -1,0 +1,43 @@
+{
+  "slug": "nessie",
+  "name": "Nessie",
+  "grokShareUrl": "https://x.ai/bot/8-OG0rLmfAna8vs_0PBO_",
+  "botId": "8-OG0rLmfAna8vs_0PBO_",
+  "creator": {
+    "handle": "AlecSnelling",
+    "url": "https://x.com/AlecSnelling"
+  },
+  "sourceUrl": "https://x.com/AlecSnelling/status/2099377714600050708",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nessie/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nessie by Alec",
+    "description": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor, wage ladder, Treasury ops, honest pay-fors (recovery TAS, Army...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "personal",
+    "finance",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nessie/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "web-security-audit",
+  "name": "Web Security Audit",
+  "grokShareUrl": "https://x.ai/bot/Xdx94lJlv-xK14WF6yzVR",
+  "botId": "Xdx94lJlv-xK14WF6yzVR",
+  "creator": {
+    "handle": "pareshdesai",
+    "url": "https://x.com/pareshdesai"
+  },
+  "sourceUrl": "https://x.com/pareshdesai/status/2100703233979342994",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/web-security-audit/"
+  },
+  "description": null,
+  "official": {
+    "title": "Web Security Audit by Paresh",
+    "description": "Deep defensive security reviewer for your owned websites and repos. Scores P0/P1/P2 findings with evidence — no exploit PoCs, no prod auto-fixes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "data",
+    "support",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/web-security-audit/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

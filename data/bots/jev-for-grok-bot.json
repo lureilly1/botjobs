@@ -1,0 +1,42 @@
+{
+  "slug": "jev-for-grok-bot",
+  "name": "Jev for Grok Bot",
+  "grokShareUrl": "https://x.ai/bot/sM_Xi4OF09cGU8KGyLvlC",
+  "botId": "sM_Xi4OF09cGU8KGyLvlC",
+  "creator": {
+    "handle": "ChrisAdcockMD",
+    "url": "https://x.com/ChrisAdcockMD"
+  },
+  "sourceUrl": "https://x.com/ChrisAdcockMD/status/2101108292617408740",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jev-for-grok-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jev for Grok Bot by Chris",
+    "description": "Plug TypeSafe Jev into Grok Bot: one API key from OpenRouter or TypeSafe, faster process decisions, and fast headed browser use on box Chrome.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jev-for-grok-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

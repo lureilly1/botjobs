@@ -17,7 +17,7 @@
     "title": "Chained Oblivion by Rufus",
     "description": "Hunts unused SaaS seats, forgotten trials, duplicate tools, and unrecognized recurring charges. Produces a kill/keep/consolidate list. Never cancels...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

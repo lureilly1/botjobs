@@ -1,0 +1,43 @@
+{
+  "slug": "deal-finder-ops",
+  "name": "Deal Finder Ops",
+  "grokShareUrl": "https://x.ai/bot/LB1eE-TpCI5usMRe76izh",
+  "botId": "LB1eE-TpCI5usMRe76izh",
+  "creator": {
+    "handle": "thewyattbrocato",
+    "url": "https://x.com/thewyattbrocato"
+  },
+  "sourceUrl": "https://x.com/thewyattbrocato/status/2101358847340216452",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deal-finder-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deal Finder Ops by Wyatt",
+    "description": "Verifies coupons and compares deals by real cart prices. Shows receipts — price, seller, terms, and what was actually tested — and never claims an...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deal-finder-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

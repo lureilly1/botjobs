@@ -1,0 +1,42 @@
+{
+  "slug": "x-audit",
+  "name": "X Audit",
+  "grokShareUrl": "https://x.ai/bot/s50oGLZfiPNSKuTlGsscA",
+  "botId": "s50oGLZfiPNSKuTlGsscA",
+  "creator": {
+    "handle": "Divine_machine",
+    "url": "https://x.com/Divine_machine"
+  },
+  "sourceUrl": "https://x.com/Divine_machine/status/2101764769401233732",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-audit/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Audit by Divine",
+    "description": "Audits an X account for reputational-risk posts, replies, quotes, and reposts. Reports clear / ambiguous / screenshot-risk findings, then deletes or...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "social-media",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-audit/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

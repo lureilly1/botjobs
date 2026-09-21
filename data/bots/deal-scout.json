@@ -1,0 +1,41 @@
+{
+  "slug": "deal-scout",
+  "name": "Deal Scout",
+  "grokShareUrl": "https://x.ai/bot/5x_HQ9uoBCHPYvf9vbUMN",
+  "botId": "5x_HQ9uoBCHPYvf9vbUMN",
+  "creator": {
+    "handle": "danielhayesmith",
+    "url": "https://x.com/danielhayesmith"
+  },
+  "sourceUrl": "https://x.com/danielhayesmith/status/2100789308546228274",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deal-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deal Scout by Daniel",
+    "description": "Blunt pre-owned deal hunter for eBay, Facebook Marketplace, Mercari, Poshmark, Depop, OfferUp, Craigslist, and Reverb. Finds deals, filters scams,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deal-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

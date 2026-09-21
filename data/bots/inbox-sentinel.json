@@ -1,0 +1,37 @@
+{
+  "slug": "inbox-sentinel",
+  "name": "Inbox Sentinel",
+  "grokShareUrl": "https://x.ai/bot/AXZqtG9WTTh6uF9jGcZuH",
+  "botId": "AXZqtG9WTTh6uF9jGcZuH",
+  "creator": {
+    "handle": null,
+    "name": "RJ Shifty",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/inbox-sentinel"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Sentinel by Robert",
+    "description": "Inbox triage assistant that classifies mail as Actionable, Junk, Spam, or Phishing, quarantines the noisy and dangerous stuff, and can run on a schedule...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/inbox-sentinel"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

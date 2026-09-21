@@ -1,0 +1,43 @@
+{
+  "slug": "ryan-app-shop",
+  "name": "Ryan App Shop",
+  "grokShareUrl": "https://x.ai/bot/SUVGlpw-FxBi2BjnIHWGx",
+  "botId": "SUVGlpw-FxBi2BjnIHWGx",
+  "creator": {
+    "handle": "BlakeKing777",
+    "url": "https://x.com/BlakeKing777"
+  },
+  "sourceUrl": "https://x.com/BlakeKing777/status/2101471915114180715",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ryan-app-shop/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ryan App Shop by Blake",
+    "description": "Expert phone-app designer and builder for beginner-friendly PWAs. Ships polished mobile web apps with warehouse-floor clarity: big tap targets, obvious...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "creator",
+    "design",
+    "engineering",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ryan-app-shop/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

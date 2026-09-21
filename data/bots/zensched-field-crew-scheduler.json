@@ -1,0 +1,42 @@
+{
+  "slug": "zensched-field-crew-scheduler",
+  "name": "ZenSched",
+  "grokShareUrl": "https://x.ai/bot/LK0rEXJnnD1qpEISXd7Ix",
+  "botId": "LK0rEXJnnD1qpEISXd7Ix",
+  "creator": {
+    "handle": "zensched",
+    "url": "https://x.com/zensched"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zensched-field-crew-scheduler/"
+  },
+  "description": null,
+  "official": {
+    "title": "ZenSched by Mike",
+    "description": "Field workforce scheduling for agents. Connects to ZenSched over MCP so an agent can create the vendor account, schedule crews, run geofenced check-in,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "calendar",
+    "back-office",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zensched-field-crew-scheduler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

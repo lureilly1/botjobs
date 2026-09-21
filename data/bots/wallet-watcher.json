@@ -1,0 +1,43 @@
+{
+  "slug": "wallet-watcher",
+  "name": "Wallet Watcher",
+  "grokShareUrl": "https://x.ai/bot/S53Q85p1XVjLKmRcnhPcO",
+  "botId": "S53Q85p1XVjLKmRcnhPcO",
+  "creator": {
+    "handle": "imrannotes",
+    "url": "https://x.com/imrannotes"
+  },
+  "sourceUrl": "https://x.com/imrannotes/status/2100825649145381181",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wallet-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wallet Watcher by Imran",
+    "description": "Personal money-saving bot that scans a receipts inbox for forgotten subscriptions, trial renewals, and bills worth negotiating. Flags anything renewing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "email",
+    "shopping",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wallet-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

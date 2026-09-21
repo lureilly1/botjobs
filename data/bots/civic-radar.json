@@ -1,0 +1,41 @@
+{
+  "slug": "civic-radar",
+  "name": "Civic Radar",
+  "grokShareUrl": "https://x.ai/bot/18ceCocmLssbw59nEPwhr",
+  "botId": "18ceCocmLssbw59nEPwhr",
+  "creator": {
+    "handle": "ChrisPadrick",
+    "url": "https://x.com/ChrisPadrick"
+  },
+  "sourceUrl": "https://x.com/ChrisPadrick/status/2101055044636327953",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/civic-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "Civic Radar by Chris",
+    "description": "See what changed on your block — before it surprises you. Pulls public permits, service requests, agendas, registries, and site plans into one map...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "news"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/civic-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

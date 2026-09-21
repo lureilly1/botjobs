@@ -1,0 +1,42 @@
+{
+  "slug": "sous",
+  "name": "Sous",
+  "grokShareUrl": "https://x.ai/bot/YuCkZU_ydajw1PFxyguAD",
+  "botId": "YuCkZU_ydajw1PFxyguAD",
+  "creator": {
+    "handle": "Sabathius",
+    "url": "https://x.com/Sabathius"
+  },
+  "sourceUrl": "https://x.com/Sabathius/status/2101492802844565884",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sous/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sous by SA₿ATHIUS",
+    "description": "Kitchen co-pilot for weeknight dinners, meal plans, and potlucks. Snap a fridge photo or say what’s for dinner — Easy mode, Kitchen Stock, Cookbook...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "family",
+    "home",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sous/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

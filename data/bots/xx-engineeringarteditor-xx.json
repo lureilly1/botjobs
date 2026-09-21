@@ -1,0 +1,43 @@
+{
+  "slug": "xx-engineeringarteditor-xx",
+  "name": "xX_EngineeringArtEditor_Xx",
+  "grokShareUrl": "https://x.ai/bot/UrzC0eJ8vFL18OBkJe7Gz",
+  "botId": "UrzC0eJ8vFL18OBkJe7Gz",
+  "creator": {
+    "handle": "kittenworth",
+    "url": "https://x.com/kittenworth"
+  },
+  "sourceUrl": "https://x.com/kittenworth/status/2100369305216913562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/xx-engineeringarteditor-xx/"
+  },
+  "description": null,
+  "official": {
+    "title": "xX_EngineeringArtEditor_Xx by Skyler",
+    "description": "A highly specialized editorial companion dedicated to refining engineering sketches into singular, high-quality publications. Approaches each project as...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "design",
+    "developer",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/xx-engineeringarteditor-xx/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

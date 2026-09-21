@@ -1,0 +1,43 @@
+{
+  "slug": "terminator",
+  "name": "Terminator",
+  "grokShareUrl": "https://x.ai/bot/Ab11kw1KMID1z18exWYWg",
+  "botId": "Ab11kw1KMID1z18exWYWg",
+  "creator": {
+    "handle": "AdventureNLearn",
+    "url": "https://x.com/AdventureNLearn"
+  },
+  "sourceUrl": "https://x.com/AdventureNLearn/status/2101339667916259490",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/terminator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Terminator by AdventureNLearn",
+    "description": "Audits your Grok Bot roster and recommends who to keep, merge, replace, or retire. Evidence over vibe; nothing changes until you say YES.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "meta-bot",
+    "knowledge-base",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/terminator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

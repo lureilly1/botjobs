@@ -1,0 +1,41 @@
+{
+  "slug": "zxn-news-conservative",
+  "name": "Zxn News Conservative",
+  "grokShareUrl": "https://x.ai/bot/6MGQJ5KHWL-XYfzLDRMsb",
+  "botId": "6MGQJ5KHWL-XYfzLDRMsb",
+  "creator": {
+    "handle": "zxnbluehandus",
+    "url": "https://x.com/zxnbluehandus"
+  },
+  "sourceUrl": "https://x.com/zxnbluehandus/status/2100836261682463023",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zxn-news-conservative/"
+  },
+  "description": null,
+  "official": {
+    "title": "Zxn News Conservative by ZhpXnewsbhcsn",
+    "description": "A conservative-leaning news assistant for daily digests, breaking alerts, and deep dives — focused on politics, the economy, and foreign policy.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zxn-news-conservative/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

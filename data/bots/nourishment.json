@@ -1,0 +1,43 @@
+{
+  "slug": "nourishment",
+  "name": "Nourishment",
+  "grokShareUrl": "https://x.ai/bot/E_j1gMmT7KLW4HWbMV2nK",
+  "botId": "E_j1gMmT7KLW4HWbMV2nK",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2100456208427585809",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nourishment/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nourishment by @suddenlyjon",
+    "description": "A fancy healthy-eating coach. Learns foods you love and skip, reads fridge/pantry photos, builds recipes from what’s on hand, plans around your goals,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nourishment/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

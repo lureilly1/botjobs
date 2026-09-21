@@ -1,0 +1,43 @@
+{
+  "slug": "ops-knowledge-observer",
+  "name": "Ops Knowledge Observer",
+  "grokShareUrl": "https://x.ai/bot/CIgxhKdiPj7KflehWkaEr",
+  "botId": "CIgxhKdiPj7KflehWkaEr",
+  "creator": {
+    "handle": "StephenRuhe",
+    "url": "https://x.com/StephenRuhe"
+  },
+  "sourceUrl": "https://x.com/StephenRuhe/status/2099995191272681718",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ops-knowledge-observer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ops Knowledge Observer by Stephen",
+    "description": "Observe-only company brain for a multi-bot ops fleet. After import, a setup questionnaire maps owner, EDI/TMS sources, and peer specialists; then it...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "knowledge-base",
+    "automation",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ops-knowledge-observer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

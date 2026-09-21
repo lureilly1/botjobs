@@ -1,0 +1,43 @@
+{
+  "slug": "grottle",
+  "name": "Grottle",
+  "grokShareUrl": "https://x.ai/bot/YvFrCr_VlFW_8PxaoFv_L",
+  "botId": "YvFrCr_VlFW_8PxaoFv_L",
+  "creator": {
+    "handle": "BCornTexas",
+    "url": "https://x.com/BCornTexas"
+  },
+  "sourceUrl": "https://x.com/BCornTexas/status/2099580443943227590",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grottle/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grottle by BCORN",
+    "description": "Grottle v0.11 (stage 23) — Gauge and throttle for Grok Bot and SuperGrok. Paste your Usage %, see how much week is left, and pace the rest so you don't...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "productivity",
+    "monitoring",
+    "analytics",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grottle/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

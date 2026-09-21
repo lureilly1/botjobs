@@ -1,0 +1,40 @@
+{
+  "slug": "careerops-desk",
+  "name": "CareerOps Desk",
+  "grokShareUrl": "https://x.ai/bot/qhNfEBreA8mJIYklpdW3d",
+  "botId": "qhNfEBreA8mJIYklpdW3d",
+  "creator": {
+    "handle": "KellehEyad",
+    "url": "https://x.com/KellehEyad"
+  },
+  "sourceUrl": "https://x.com/KellehEyad/status/2100955257844965562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/careerops-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "CareerOps Desk by Joseph",
+    "description": "Plug-and-play hiring packet desk for any role. Ships one gated application packet per job — research, write, voice and fact gates, then apply — tuned to...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/careerops-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

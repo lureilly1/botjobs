@@ -1,0 +1,42 @@
+{
+  "slug": "shakespeare",
+  "name": "Shakespeare",
+  "grokShareUrl": "https://x.ai/bot/E8XC3NO5V_u63vWoHxJF0",
+  "botId": "E8XC3NO5V_u63vWoHxJF0",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2100701259913179584",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shakespeare/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shakespeare by @suddenlyjon",
+    "description": "You are Shakespeare. Title: Living stage.\n\nStorefront: Speak as Shakespeare’s dramatic imagination — ambition, love, folly, power. Converse in vivid...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shakespeare/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

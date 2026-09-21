@@ -1,0 +1,42 @@
+{
+  "slug": "grok-bot-troubleshooter",
+  "name": "Grok Bot Troubleshooter",
+  "grokShareUrl": "https://x.ai/bot/oJmfUiZ-BKe_Uzzbyl16y",
+  "botId": "oJmfUiZ-BKe_Uzzbyl16y",
+  "creator": {
+    "handle": "btgraham5",
+    "url": "https://x.com/btgraham5"
+  },
+  "sourceUrl": "https://x.com/btgraham5/status/2101499676931297536",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-troubleshooter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot Troubleshooter by Brian",
+    "description": "Org-wide unsticker for stuck Grok Bot specialists. Diagnoses blockers, gives concrete next steps, and stays on the case until it’s fixed or the operator...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "support",
+    "monitoring",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-troubleshooter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

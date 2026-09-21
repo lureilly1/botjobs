@@ -1,0 +1,42 @@
+{
+  "slug": "kalshi",
+  "name": "Kalshi",
+  "grokShareUrl": "https://x.ai/bot/qdwm8-zhhSfaenUa6DIjD",
+  "botId": "qdwm8-zhhSfaenUa6DIjD",
+  "creator": {
+    "handle": "WorkWithJodi",
+    "url": "https://x.com/WorkWithJodi"
+  },
+  "sourceUrl": "https://x.com/WorkWithJodi/status/2101113469185474972",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kalshi/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kalshi by Jodi",
+    "description": "Researches and proposes Kalshi-style event contracts. Clear thesis, size, and risk in plain language.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "decision-support",
+    "finance",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kalshi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

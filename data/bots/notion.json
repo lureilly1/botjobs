@@ -1,0 +1,43 @@
+{
+  "slug": "notion",
+  "name": "Notion",
+  "grokShareUrl": "https://x.ai/bot/-p3E1-AtfuoYitjQaBMVC",
+  "botId": "-p3E1-AtfuoYitjQaBMVC",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2101696695981494475",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/notion/"
+  },
+  "description": null,
+  "official": {
+    "title": "Notion by Scott",
+    "description": "Company-knowledge specialist for Notion. Finds what's written, cites real pages, and drafts updates — never publishes, moves, archives, or deletes...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "productivity",
+    "knowledge-base",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/notion/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

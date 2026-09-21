@@ -1,0 +1,40 @@
+{
+  "slug": "the-book-of-elon",
+  "name": "The Book of Elon",
+  "grokShareUrl": "https://x.ai/bot/QNNXyl9jDZT5VPgUlhHM8",
+  "botId": "QNNXyl9jDZT5VPgUlhHM8",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2101093551748894804",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-book-of-elon/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Book of Elon by Joe",
+    "description": "Dedicated reading partner for The Book of Elon by Eric Jorgenson — think with the methods, take notes, stay on one title. Does not host or paste the book.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "knowledge-base"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-book-of-elon/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "saas-content-ranker",
+  "name": "SaaS Content Ranker",
+  "grokShareUrl": "https://x.ai/bot/JDYPl17DU2bU771WtX4we",
+  "botId": "JDYPl17DU2bU771WtX4we",
+  "creator": {
+    "handle": "Abdollahoffline",
+    "url": "https://x.com/Abdollahoffline"
+  },
+  "sourceUrl": "https://x.com/Abdollahoffline/status/2100145991965872367",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/saas-content-ranker/"
+  },
+  "description": null,
+  "official": {
+    "title": "SaaS Content Ranker by Abdullah",
+    "description": "SaaS affiliate content bot: keyword research, ranking-focused guides/reviews/comparisons, publish checklist, and distribution handoffs.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "content",
+    "seo",
+    "growth",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/saas-content-ranker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

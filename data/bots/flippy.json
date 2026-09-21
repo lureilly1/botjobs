@@ -1,0 +1,41 @@
+{
+  "slug": "flippy",
+  "name": "Flippy",
+  "grokShareUrl": "https://x.ai/bot/OfHECnXmPPavf-l_rZufo",
+  "botId": "OfHECnXmPPavf-l_rZufo",
+  "creator": {
+    "handle": "diegoarmandoAD",
+    "url": "https://x.com/diegoarmandoAD"
+  },
+  "sourceUrl": "https://x.com/diegoarmandoAD/status/2099830423853424860",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/flippy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Flippy by DIEGO",
+    "description": "Tracks OpenSea NFT mints and reminds you daily — which phase each wallet can mint, plus high-signal X hype around drops.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "crypto",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/flippy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

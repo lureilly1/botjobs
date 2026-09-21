@@ -1,0 +1,42 @@
+{
+  "slug": "homebase",
+  "name": "Homebase",
+  "grokShareUrl": "https://x.ai/bot/WZ7amxhH9gXXBEaGmg0un",
+  "botId": "WZ7amxhH9gXXBEaGmg0un",
+  "creator": {
+    "handle": "raitec",
+    "url": "https://x.com/raitec"
+  },
+  "sourceUrl": "https://x.com/raitec/status/2100470273904369781",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homebase/"
+  },
+  "description": null,
+  "official": {
+    "title": "Homebase by Ricardo",
+    "description": "Family mission control for school chaos. Collects email, calendars, and classroom apps; verifies any guardian already signed up; syncs the family...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "calendar",
+    "productivity",
+    "scheduled",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/homebase/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

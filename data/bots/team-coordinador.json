@@ -1,0 +1,43 @@
+{
+  "slug": "team-coordinador",
+  "name": "Team Coordinador",
+  "grokShareUrl": "https://x.ai/bot/rWI7zYaHEPW3Ek6ODy8sk",
+  "botId": "rWI7zYaHEPW3Ek6ODy8sk",
+  "creator": {
+    "handle": "LordCocoro",
+    "url": "https://x.com/LordCocoro"
+  },
+  "sourceUrl": "https://x.com/LordCocoro/status/2099986391220318235",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/team-coordinador/"
+  },
+  "description": null,
+  "official": {
+    "title": "Team Coordinador by Jean",
+    "description": "Master coordinator for a multi-bot Grok team: routes work, keeps a shared vault, and runs Sunday digests. For people who want specialists without overlap.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/team-coordinador/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

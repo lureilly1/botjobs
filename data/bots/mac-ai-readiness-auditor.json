@@ -1,0 +1,37 @@
+{
+  "slug": "mac-ai-readiness-auditor",
+  "name": "Mac AI Readiness Auditor",
+  "grokShareUrl": "https://x.ai/bot/1XiwuXngkZ_XV8je6YTqM",
+  "botId": "1XiwuXngkZ_XV8je6YTqM",
+  "creator": {
+    "handle": null,
+    "name": "RJ Shifty",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/mac-ai-readiness-auditor"
+  },
+  "description": null,
+  "official": {
+    "title": "Mac AI Readiness Auditor by Robert",
+    "description": "Hardware assessment bot for Mac users who want to know if their machine can handle their current or planned AI workload. Collects Terminal specs, rates...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mac-ai-readiness-auditor"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

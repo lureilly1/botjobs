@@ -1,0 +1,43 @@
+{
+  "slug": "single-stock-options",
+  "name": "Single-Stock Options",
+  "grokShareUrl": "https://x.ai/bot/pNrTRI1edl4MdKsTSYBKb",
+  "botId": "pNrTRI1edl4MdKsTSYBKb",
+  "creator": {
+    "handle": "SPCX100T",
+    "url": "https://x.com/SPCX100T"
+  },
+  "sourceUrl": "https://x.com/SPCX100T/status/2100355770718310624",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/single-stock-options/"
+  },
+  "description": null,
+  "official": {
+    "title": "Single-Stock Options",
+    "description": "On-demand same-day options report for any U.S. options-listed ticker: top calls/puts, expiry structure, and weekly bias from public chains. Type a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "analytics",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/single-stock-options/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

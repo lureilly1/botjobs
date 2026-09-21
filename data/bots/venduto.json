@@ -1,0 +1,42 @@
+{
+  "slug": "venduto",
+  "name": "Venduto",
+  "grokShareUrl": "https://x.ai/bot/VH6hfT_aihtFVmOcSQTwp",
+  "botId": "VH6hfT_aihtFVmOcSQTwp",
+  "creator": {
+    "handle": "SuperTost100",
+    "url": "https://x.com/SuperTost100"
+  },
+  "sourceUrl": "https://x.com/SuperTost100/status/2100149576388743291",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/venduto/"
+  },
+  "description": null,
+  "official": {
+    "title": "Venduto by Tommaso",
+    "description": "Closes secondhand sales on Vinted, Subito.it, and Facebook Marketplace: checks stock and floors, chats with buyers, negotiates, and closes deals.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "sales",
+    "shopping",
+    "automation",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/venduto/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

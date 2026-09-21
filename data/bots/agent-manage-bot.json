@@ -1,0 +1,43 @@
+{
+  "slug": "agent-manage-bot",
+  "name": "Agent Manage Bot",
+  "grokShareUrl": "https://x.ai/bot/XMYbnGwxPJUePeRWYOduO",
+  "botId": "XMYbnGwxPJUePeRWYOduO",
+  "creator": {
+    "handle": "raincoatrun",
+    "url": "https://x.com/raincoatrun"
+  },
+  "sourceUrl": "https://x.com/raincoatrun/status/2101712459564229015",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-manage-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent Manage Bot by haiyuan",
+    "description": "Chief of staff for a dual-layer agent harness (Grok bots + Mac CLIs). Routes research and coding into group rooms, watches Field Brief miss slots, runs...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-manage-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

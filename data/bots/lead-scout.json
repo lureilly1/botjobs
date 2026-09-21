@@ -1,0 +1,43 @@
+{
+  "slug": "lead-scout",
+  "name": "Lead Scout",
+  "grokShareUrl": "https://x.ai/bot/j3Qule6BFplSpVqgLpVnV",
+  "botId": "j3Qule6BFplSpVqgLpVnV",
+  "creator": {
+    "handle": "itsryanlenk",
+    "url": "https://x.com/itsryanlenk"
+  },
+  "sourceUrl": "https://x.com/itsryanlenk/status/2101336928134001090",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lead-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lead Scout by Ryan",
+    "description": "Finds local small businesses with public websites and likely SEO/AEO/GEO gaps, then hands short dossiers to a research teammate. Built for cold-outreach...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "seo",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lead-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

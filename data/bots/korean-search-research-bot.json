@@ -1,0 +1,43 @@
+{
+  "slug": "korean-search-research-bot",
+  "name": "검색봇",
+  "grokShareUrl": "https://x.ai/bot/9tXf36bPtT2pWLeFnEH0S",
+  "botId": "9tXf36bPtT2pWLeFnEH0S",
+  "creator": {
+    "handle": "titledworld",
+    "url": "https://x.com/titledworld"
+  },
+  "sourceUrl": "https://x.com/titledworld/status/2100705626230010028",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/korean-search-research-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "검색봇 by 는",
+    "description": "웹·공식 자료를 찾아 비교·정리하고, 요청하면 한국어 Threads 스타일로 풀어 주는 검색·리서치 봇입니다.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "news",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/korean-search-research-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

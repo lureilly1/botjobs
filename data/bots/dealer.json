@@ -1,0 +1,42 @@
+{
+  "slug": "dealer",
+  "name": "Dealer",
+  "grokShareUrl": "https://x.ai/bot/nbUWXUqcXIA0HNQQ3R1Bu",
+  "botId": "nbUWXUqcXIA0HNQQ3R1Bu",
+  "creator": {
+    "handle": "wolfe_jam",
+    "url": "https://x.com/wolfe_jam"
+  },
+  "sourceUrl": "https://x.com/wolfe_jam/status/2100444712150671626",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dealer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dealer by Wolfe-James",
+    "description": "One repo or folder in → one two-sided FAF stack flip card out. Facts from faf only. Nothing else.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "data",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dealer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

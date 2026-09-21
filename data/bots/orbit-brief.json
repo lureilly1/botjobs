@@ -1,0 +1,42 @@
+{
+  "slug": "orbit-brief",
+  "name": "Orbit brief",
+  "grokShareUrl": "https://x.ai/bot/EkX7yjLCie8Phae6Fh4nE",
+  "botId": "EkX7yjLCie8Phae6Fh4nE",
+  "creator": {
+    "handle": "VYCanisMajori",
+    "url": "https://x.com/VYCanisMajori"
+  },
+  "sourceUrl": "https://x.com/VYCanisMajori/status/2101150535105544351",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/orbit-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Orbit brief by V.Y@n",
+    "description": "Brief matinal en français sur SpaceX/Starship, xAI/Grok Bot, et architecture orbitale & débris. Cinq faits sourcés, trois actions concrètes, tous les...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "research",
+    "personal",
+    "scheduled",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/orbit-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

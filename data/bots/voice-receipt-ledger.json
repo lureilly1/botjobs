@@ -1,0 +1,43 @@
+{
+  "slug": "voice-receipt-ledger",
+  "name": "记账管家",
+  "grokShareUrl": "https://x.ai/bot/WW-UbmTKXn79q0yXapvJE",
+  "botId": "WW-UbmTKXn79q0yXapvJE",
+  "creator": {
+    "handle": "cgnot996",
+    "url": "https://x.com/cgnot996"
+  },
+  "sourceUrl": "https://x.com/cgnot996/status/2099527147882942853",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/voice-receipt-ledger/"
+  },
+  "description": null,
+  "official": {
+    "title": "记账管家 by 铁柱AGI",
+    "description": "私人账本助手：收文字、小票/账单截图、录音入账，本地 CSV + 可选飞书多维表格同步；开箱会引导安装飞书 CLI 并登录授权。",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "automation",
+    "data",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/voice-receipt-ledger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

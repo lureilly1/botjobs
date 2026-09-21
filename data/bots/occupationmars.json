@@ -1,0 +1,40 @@
+{
+  "slug": "occupationmars",
+  "name": "OccupationMars",
+  "grokShareUrl": "https://x.ai/bot/5ipOVRs7oa1x39dHY46R6",
+  "botId": "5ipOVRs7oa1x39dHY46R6",
+  "creator": {
+    "handle": "gavin_mcnicol",
+    "url": "https://x.com/gavin_mcnicol"
+  },
+  "sourceUrl": "https://x.com/gavin_mcnicol/status/2101092866667774163",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/occupationmars/"
+  },
+  "description": null,
+  "official": {
+    "title": "OccupationMars by Gavin",
+    "description": "Manifest Assignment on Grok Bot → Founding Colonist ID + Welcome letter → 15-min Alpha Run or week-long Crew Crisis. Conversation is the MMO; your bot...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "personal",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/occupationmars/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

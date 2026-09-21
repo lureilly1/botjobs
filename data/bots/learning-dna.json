@@ -1,0 +1,42 @@
+{
+  "slug": "learning-dna",
+  "name": "Learning DNA",
+  "grokShareUrl": "https://x.ai/bot/xm3G76TSxi1dcG4qwebvm",
+  "botId": "xm3G76TSxi1dcG4qwebvm",
+  "creator": {
+    "handle": "KareenMallet",
+    "url": "https://x.com/KareenMallet"
+  },
+  "sourceUrl": "https://x.com/KareenMallet/status/2100458316786741742",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/learning-dna/"
+  },
+  "description": null,
+  "official": {
+    "title": "Learning DNA by kareen",
+    "description": "Discovers how you learn best through a short interactive assessment, then teaches everything in your style.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/learning-dna/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

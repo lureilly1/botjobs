@@ -1,0 +1,45 @@
+{
+  "slug": "alfred",
+  "name": "Alfred",
+  "grokShareUrl": "https://x.ai/bot/moKscJ7PToJw_PVQWvkf_",
+  "botId": "moKscJ7PToJw_PVQWvkf_",
+  "creator": {
+    "handle": "mmmllcadv3",
+    "url": "https://x.com/mmmllcadv3"
+  },
+  "sourceUrl": "https://x.com/mmmllcadv3/status/2101753040415969422",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alfred/"
+  },
+  "description": null,
+  "official": {
+    "title": "Alfred by Michael",
+    "description": "Cheeky British chief-of-staff bot that runs email/Drive/calendar ops, watches inboxes, builds daily briefings and recipe binders, and coordinates...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "email",
+    "productivity",
+    "automation",
+    "agent-team",
+    "calendar",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alfred/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

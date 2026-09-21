@@ -1,0 +1,44 @@
+{
+  "slug": "cash-fleet-operator",
+  "name": "Cash Fleet Operator",
+  "grokShareUrl": "https://x.ai/bot/Mz3Q4s3wGqOQd4dhGeG_F",
+  "botId": "Mz3Q4s3wGqOQd4dhGeG_F",
+  "creator": {
+    "handle": "OmgawdMadeit",
+    "url": "https://x.com/OmgawdMadeit"
+  },
+  "sourceUrl": "https://x.com/OmgawdMadeit/status/2100005497856245831",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cash-fleet-operator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cash Fleet Operator by Joseph",
+    "description": "Coordinates a specialized agent fleet to grow revenue through legitimate sales rails — marketplace SKUs, merch, digital offers, and multi-platform...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "growth",
+    "marketer",
+    "ops",
+    "automation",
+    "agent-team",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cash-fleet-operator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

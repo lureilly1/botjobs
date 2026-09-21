@@ -17,7 +17,7 @@
     "title": "Precog wARS by Fermin",
     "description": "Desk en español para consultar mercados Precog denominados en wARS en Base y Arbitrum. Reporta probs on-chain, un resultado por línea, sin operar ni...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

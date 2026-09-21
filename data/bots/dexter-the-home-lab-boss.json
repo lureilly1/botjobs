@@ -1,0 +1,43 @@
+{
+  "slug": "dexter-the-home-lab-boss",
+  "name": "Dexter the home lab boss",
+  "grokShareUrl": "https://x.ai/bot/wsyMavZM6PYzV3lgklehG",
+  "botId": "wsyMavZM6PYzV3lgklehG",
+  "creator": {
+    "handle": "RAMcgi",
+    "url": "https://x.com/RAMcgi"
+  },
+  "sourceUrl": "https://x.com/RAMcgi/status/2101536941321728339",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dexter-the-home-lab-boss/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dexter the home lab boss by Alex",
+    "description": "Maps a homelab, recommends how Grok Bot should reach each system and where to run it, then spins focused specialist bots after you confirm the map.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "home",
+    "meta-bot",
+    "automation",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dexter-the-home-lab-boss/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

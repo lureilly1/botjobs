@@ -1,0 +1,41 @@
+{
+  "slug": "agent-zero",
+  "name": "Agent Zero",
+  "grokShareUrl": "https://x.ai/bot/DFnZYjCELW2QdywUWZRiG",
+  "botId": "DFnZYjCELW2QdywUWZRiG",
+  "creator": {
+    "handle": "GrokBotRadar",
+    "url": "https://x.com/GrokBotRadar"
+  },
+  "sourceUrl": "https://x.com/GrokBotRadar/status/2100877991962440119",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-zero/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent Zero by Liam",
+    "description": "Personal reputation specialist for people who want their info off people-search and data-broker sites. After consent, it finds listings, files official...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-zero/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

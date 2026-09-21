@@ -1,0 +1,41 @@
+{
+  "slug": "open-loop-closer",
+  "name": "Open Loop Closer",
+  "grokShareUrl": "https://x.ai/bot/OnZxELs_59ZvE4_-jTMaV",
+  "botId": "OnZxELs_59ZvE4_-jTMaV",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2101003029650780556",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/open-loop-closer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Open Loop Closer by Scott",
+    "description": "Finds VIP hangs where you went silent on work Slack or email, then drafts a paste-ready follow-up in chat. HITL only — never sends without your yes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/open-loop-closer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

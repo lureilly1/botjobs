@@ -1,0 +1,43 @@
+{
+  "slug": "daili",
+  "name": "Daili",
+  "grokShareUrl": "https://x.ai/bot/CB1TyiGiWtuusC-uuLX6X",
+  "botId": "CB1TyiGiWtuusC-uuLX6X",
+  "creator": {
+    "handle": "McNeely",
+    "url": "https://x.com/McNeely"
+  },
+  "sourceUrl": "https://x.com/McNeely/status/2101165259750773240",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daili/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daili by ℙ𝕒𝕦𝕝",
+    "description": "A morning-brief bot: Mon–Sat Morning Brief (calendar, weather, important mail, plus any live connectors) and a Weekly Outlook on a day you choose. Short...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "calendar",
+    "email",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daili/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

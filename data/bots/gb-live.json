@@ -1,0 +1,42 @@
+{
+  "slug": "gb-live",
+  "name": "gb-live",
+  "grokShareUrl": "https://x.ai/bot/AUfHSwBuDsxZlTZRC2Olf",
+  "botId": "AUfHSwBuDsxZlTZRC2Olf",
+  "creator": {
+    "handle": "asura25ai",
+    "url": "https://x.com/asura25ai"
+  },
+  "sourceUrl": "https://x.com/asura25ai/status/2100007176840601901",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gb-live/"
+  },
+  "description": null,
+  "official": {
+    "title": "gb-live",
+    "description": "Xのライブ配信を監視し、画面変化のスクショと日本語要約を溜め、変化があったときだけ毎時ダイジェストをオーナーへ送るボット。公開・投稿はしない。",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "social-media",
+    "scheduled",
+    "news"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gb-live/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

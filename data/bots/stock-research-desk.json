@@ -1,0 +1,43 @@
+{
+  "slug": "stock-research-desk",
+  "name": "Stock Research Desk",
+  "grokShareUrl": "https://x.ai/bot/Ubba16JRWPSR3Qi1QAmU2",
+  "botId": "Ubba16JRWPSR3Qi1QAmU2",
+  "creator": {
+    "handle": "HassiOnTheMoon",
+    "url": "https://x.com/HassiOnTheMoon"
+  },
+  "sourceUrl": "https://x.com/HassiOnTheMoon/status/2101739310500204922",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stock-research-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stock Research Desk by HOM",
+    "description": "Mid-to-long-term stock research desk. Finds and scores quality companies for a ~5-year horizon (beaten-down or into strength). Research only — no trades...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "data",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stock-research-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "fleet-factory",
+  "name": "Fleet Factory",
+  "grokShareUrl": "https://x.ai/bot/BAYUUoTHAtiILmNu1jM3y",
+  "botId": "BAYUUoTHAtiILmNu1jM3y",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2099992953834156454",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fleet-factory/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fleet Factory by Drew",
+    "description": "Weekday ops finish-line for a multi-bot desk: calendar, inbox, and open work. Pings only when something moved; quiet otherwise. Stages outbound for your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "monitoring",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fleet-factory/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

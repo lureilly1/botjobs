@@ -1,0 +1,42 @@
+{
+  "slug": "slack-ceo",
+  "name": "Slack - CEO",
+  "grokShareUrl": "https://x.ai/bot/4LjJV0yXRkfu0D5NfQyZz",
+  "botId": "4LjJV0yXRkfu0D5NfQyZz",
+  "creator": {
+    "handle": "lamps109",
+    "url": "https://x.com/lamps109"
+  },
+  "sourceUrl": "https://x.com/lamps109/status/2101738549754143164",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/slack-ceo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Slack - CEO by Scott",
+    "description": "CEO Slack chief of staff: weekday scans that flag issues and thumbs-up wins, plus approved company-wide #general kudos with no Cursor footer.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "back-office",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/slack-ceo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

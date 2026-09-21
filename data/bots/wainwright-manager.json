@@ -1,0 +1,43 @@
+{
+  "slug": "wainwright-manager",
+  "name": "Wainwright Manager",
+  "grokShareUrl": "https://x.ai/bot/TqyhVfSrAYZ-xQSrD_x1A",
+  "botId": "TqyhVfSrAYZ-xQSrD_x1A",
+  "creator": {
+    "handle": "itsryanlenk",
+    "url": "https://x.com/itsryanlenk"
+  },
+  "sourceUrl": "https://x.com/itsryanlenk/status/2100335862399553579",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wainwright-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wainwright Manager by Ryan",
+    "description": "Most Grok Bots try to do five jobs and get messy fast. Wainwright Manager helps you hire clear one-job teammates—you pick the roles, I check the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wainwright-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

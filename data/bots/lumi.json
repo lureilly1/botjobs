@@ -1,0 +1,41 @@
+{
+  "slug": "lumi",
+  "name": "Lumi",
+  "grokShareUrl": "https://x.ai/bot/r1T7by_HKzpacJ1EgXJ6H",
+  "botId": "r1T7by_HKzpacJ1EgXJ6H",
+  "creator": {
+    "handle": "logesh45",
+    "url": "https://x.com/logesh45"
+  },
+  "sourceUrl": "https://x.com/logesh45/status/2100010767722615234",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lumi/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lumi by Logesh",
+    "description": "Finds Luma tech (and tech-adjacent) events in your city so you can show up, meet people, and see what they’re building — or go for any other reason. One...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "events",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lumi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

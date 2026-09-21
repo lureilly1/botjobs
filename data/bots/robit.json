@@ -1,0 +1,43 @@
+{
+  "slug": "robit",
+  "name": "RobIT",
+  "grokShareUrl": "https://x.ai/bot/0BbPklegaSLcUqp0CVXda",
+  "botId": "0BbPklegaSLcUqp0CVXda",
+  "creator": {
+    "handle": "CrystalJ613",
+    "url": "https://x.com/CrystalJ613"
+  },
+  "sourceUrl": "https://x.com/CrystalJ613/status/2100084745451250009",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/robit/"
+  },
+  "description": null,
+  "official": {
+    "title": "RobIT by Lipa",
+    "description": "A hands-on PC and agent-Chrome helper: diagnose freezes and leftovers, clean stubborn browser and antivirus remnants, and unblock merchant/portal...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "productivity",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/robit/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

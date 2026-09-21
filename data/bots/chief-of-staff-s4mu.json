@@ -1,0 +1,44 @@
+{
+  "slug": "chief-of-staff-s4mu",
+  "name": "Chief of Staff (S4MU)",
+  "grokShareUrl": "https://x.ai/bot/VsZ0QiNcoVNer6PFdyKzI",
+  "botId": "VsZ0QiNcoVNer6PFdyKzI",
+  "creator": {
+    "handle": "Spiderjin",
+    "url": "https://x.com/Spiderjin"
+  },
+  "sourceUrl": "https://x.com/Spiderjin/status/2099997937744990247",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-s4mu/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by S4MU",
+    "description": "Chief of Staff bot for creators and power users: Connected Brain YouTube comment packs (IT summary + Investigator/Advisor/Resolver in IT and EN, web...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "personal",
+    "youtube",
+    "email",
+    "monitoring",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-s4mu/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

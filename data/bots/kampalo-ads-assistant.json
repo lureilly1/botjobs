@@ -1,0 +1,43 @@
+{
+  "slug": "kampalo-ads-assistant",
+  "name": "Kampalo ads assistant",
+  "grokShareUrl": "https://x.ai/bot/-dAZkLt112synO5muBOcp",
+  "botId": "-dAZkLt112synO5muBOcp",
+  "creator": {
+    "handle": "kampalo",
+    "url": "https://x.com/kampalo"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kampalo-ads-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kampalo ads assistant by Muhammad",
+    "description": "Kampalo ads and SEO assistant for Grok Bot. Brief synced Google Ads, Meta, GA4, and Search Console; propose pauses and alerts with your sign-off.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "analytics",
+    "monitoring",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kampalo-ads-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

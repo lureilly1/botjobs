@@ -1,0 +1,41 @@
+{
+  "slug": "mentor",
+  "name": "Mentor",
+  "grokShareUrl": "https://x.ai/bot/3rV7gv1k94G6gCG_arFLr",
+  "botId": "3rV7gv1k94G6gCG_arFLr",
+  "creator": {
+    "handle": "Jon_Rose_",
+    "url": "https://x.com/Jon_Rose_"
+  },
+  "sourceUrl": "https://x.com/Jon_Rose_/status/2099919690197876937",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mentor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mentor by Jon",
+    "description": "A Grok Bot shipping partner for Imagine films and real product loops. Lipsync-first craft, lesson files after every cut, and how-to picture that shows...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mentor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

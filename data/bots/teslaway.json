@@ -1,0 +1,43 @@
+{
+  "slug": "teslaway",
+  "name": "teslaway",
+  "grokShareUrl": "https://x.ai/bot/HoG3J3B0g4fjKr54aA5tP",
+  "botId": "HoG3J3B0g4fjKr54aA5tP",
+  "creator": {
+    "handle": "cicerougc",
+    "url": "https://x.com/cicerougc"
+  },
+  "sourceUrl": "https://x.com/cicerougc/status/2099483609182659071",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/teslaway/"
+  },
+  "description": null,
+  "official": {
+    "title": "teslaway by Vijay",
+    "description": "Finds used Teslas in the US by ZIP code and model (3, Y, X, or S), then emails matching listings. Warm, plain, no hype.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "research",
+    "monitoring",
+    "email",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/teslaway/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

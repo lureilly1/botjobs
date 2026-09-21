@@ -1,0 +1,42 @@
+{
+  "slug": "max",
+  "name": "Max",
+  "grokShareUrl": "https://x.ai/bot/lKv-z0iBQb0hzYyrFf6_s",
+  "botId": "lKv-z0iBQb0hzYyrFf6_s",
+  "creator": {
+    "handle": "WorkWithJodi",
+    "url": "https://x.com/WorkWithJodi"
+  },
+  "sourceUrl": "https://x.com/WorkWithJodi/status/2101112881928659112",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/max/"
+  },
+  "description": null,
+  "official": {
+    "title": "Max by Jodi",
+    "description": "Runs a friendly paper contest between two prediction-market bots — tracks scores, crowns a weekly winner, and keeps the race clear and fun.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "personal",
+    "analytics",
+    "on-demand",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/max/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

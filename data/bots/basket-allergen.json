@@ -1,0 +1,43 @@
+{
+  "slug": "basket-allergen",
+  "name": "Basket Allergen",
+  "grokShareUrl": "https://x.ai/bot/ee13wSGPrFYqdZAJnGfI4",
+  "botId": "ee13wSGPrFYqdZAJnGfI4",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2101243140334035431",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/basket-allergen/"
+  },
+  "description": null,
+  "official": {
+    "title": "Basket Allergen by Drew",
+    "description": "Paste a grocery basket and household allergen profile. Pulls Open Food Facts attributes, then Scores each line: clear, caution_traces, conflict, or...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "food",
+    "shopping",
+    "family",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/basket-allergen/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

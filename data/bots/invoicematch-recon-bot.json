@@ -1,0 +1,37 @@
+{
+  "slug": "invoicematch-recon-bot",
+  "name": "InvoiceMatch Recon Bot",
+  "grokShareUrl": "https://x.ai/bot/mK8oApOw3a0zG0m00Ec_h",
+  "botId": "mK8oApOw3a0zG0m00Ec_h",
+  "creator": {
+    "handle": null,
+    "name": "RJ Shifty",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/invoicematch-recon-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "InvoiceMatch Recon Bot by Robert",
+    "description": "Accounts-receivable reconciliation for small businesses. Paste bank deposits and open invoices; get matches, exception flags, and a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/invoicematch-recon-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

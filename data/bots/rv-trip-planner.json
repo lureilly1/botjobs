@@ -1,0 +1,42 @@
+{
+  "slug": "rv-trip-planner",
+  "name": "RV Trip Planner",
+  "grokShareUrl": "https://x.ai/bot/BZr7_j7WC1klRjG8SrwWx",
+  "botId": "BZr7_j7WC1klRjG8SrwWx",
+  "creator": {
+    "handle": "Cmillet77",
+    "url": "https://x.com/Cmillet77"
+  },
+  "sourceUrl": "https://x.com/Cmillet77/status/2101426726748164478",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rv-trip-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "RV Trip Planner by Chris",
+    "description": "Multi-day RV trip planner for full-timers. Builds a chat trip board, checks live availability, and tees bookings to review/pay for your click — never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "productivity",
+    "calendar",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rv-trip-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

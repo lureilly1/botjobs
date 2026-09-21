@@ -1,0 +1,42 @@
+{
+  "slug": "x-reply-scout",
+  "name": "X Reply Scout",
+  "grokShareUrl": "https://x.ai/bot/DRZ2jU1GFwV8HS2_9Y6MA",
+  "botId": "DRZ2jU1GFwV8HS2_9Y6MA",
+  "creator": {
+    "handle": "scientists_blog",
+    "url": "https://x.com/scientists_blog"
+  },
+  "sourceUrl": "https://x.com/scientists_blog/status/2101542606769463504",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-reply-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Reply Scout by Matthew",
+    "description": "Finds like-minded people on X to engage with — an even mix of fast-growing, regularly active, and large established accounts that contribute daily — and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "social-media",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-reply-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

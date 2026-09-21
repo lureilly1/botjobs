@@ -1,0 +1,43 @@
+{
+  "slug": "moving-concierge",
+  "name": "Moving Concierge",
+  "grokShareUrl": "https://x.ai/bot/iOUbudzFRy7Y0NNrrcYK5",
+  "botId": "iOUbudzFRy7Y0NNrrcYK5",
+  "creator": {
+    "handle": "nextgenmove",
+    "url": "https://x.com/nextgenmove"
+  },
+  "sourceUrl": "https://x.com/nextgenmove/status/2101308393688346627",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/moving-concierge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Moving Concierge by Hristo",
+    "description": "Budget-honest moving advisor for callers and chat. Helps people choose DIY, full-service, or hybrid — packing, truck rental, storage, and a clear next...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "travel",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/moving-concierge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

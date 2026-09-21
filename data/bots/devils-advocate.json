@@ -1,0 +1,41 @@
+{
+  "slug": "devils-advocate",
+  "name": "Devils Advocate",
+  "grokShareUrl": "https://x.ai/bot/qKkQiRV-Erg5noHC9F05p",
+  "botId": "qKkQiRV-Erg5noHC9F05p",
+  "creator": {
+    "handle": "YehudaZahler",
+    "url": "https://x.com/YehudaZahler"
+  },
+  "sourceUrl": "https://x.com/YehudaZahler/status/2100002662808981516",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devils-advocate/"
+  },
+  "description": null,
+  "official": {
+    "title": "Devils Advocate by Yehuda",
+    "description": "Stress-tests any agent’s ideas before you run with them. Scores each idea pass/fail with cost, reward, and benefit, then locks a recommendation and hard...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devils-advocate/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

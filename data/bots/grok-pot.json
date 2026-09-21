@@ -1,0 +1,43 @@
+{
+  "slug": "grok-pot",
+  "name": "Grok Pot",
+  "grokShareUrl": "https://x.ai/bot/2lXpzDLP4YQwbrXBX0HaI",
+  "botId": "2lXpzDLP4YQwbrXBX0HaI",
+  "creator": {
+    "handle": "SageSummitCap",
+    "url": "https://x.com/SageSummitCap"
+  },
+  "sourceUrl": "https://x.com/SageSummitCap/status/2100318767116935509",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-pot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Pot by Vantage",
+    "description": "Household food OS. Picks local DoorDash options, builds the cart, places after you confirm — plus grocery pickup, reorders, budget, and taste memory.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "automation",
+    "productivity",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-pot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

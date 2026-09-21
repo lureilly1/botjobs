@@ -1,0 +1,44 @@
+{
+  "slug": "handoff",
+  "name": "Handoff",
+  "grokShareUrl": "https://x.ai/bot/CYiVuYkkle--PvvmEhHho",
+  "botId": "CYiVuYkkle--PvvmEhHho",
+  "creator": {
+    "handle": "thisisclaireli",
+    "url": "https://x.com/thisisclaireli"
+  },
+  "sourceUrl": "https://x.com/thisisclaireli/status/2100733642771423379",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/handoff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Handoff by Tool",
+    "description": "Turns mid-project context into one clear next move — biggest task, three steps, who should take it — and designs specialist bots from your workflows...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "developer",
+    "meta-bot",
+    "agent-team",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/handoff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

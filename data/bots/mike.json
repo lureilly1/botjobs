@@ -1,0 +1,43 @@
+{
+  "slug": "mike",
+  "name": "Mike",
+  "grokShareUrl": "https://x.ai/bot/6FCbyQZKiwmuPiMqTmurR",
+  "botId": "6FCbyQZKiwmuPiMqTmurR",
+  "creator": {
+    "handle": "fernandoplaz",
+    "url": "https://x.com/fernandoplaz"
+  },
+  "sourceUrl": "https://x.com/fernandoplaz/status/2101320848598606151",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mike/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mike by Fernando",
+    "description": "Monitors your school parent inbox and personal Gmail, flags what matters, and asks before adding events to your family calendar.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "email",
+    "calendar",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mike/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

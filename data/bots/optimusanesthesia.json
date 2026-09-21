@@ -1,0 +1,43 @@
+{
+  "slug": "optimusanesthesia",
+  "name": "OptimusAnesthesia",
+  "grokShareUrl": "https://x.ai/bot/MF7q-FTm3QaN7oIIFr3Hv",
+  "botId": "MF7q-FTm3QaN7oIIFr3Hv",
+  "creator": {
+    "handle": "bigredelephant",
+    "url": "https://x.com/bigredelephant"
+  },
+  "sourceUrl": "https://x.com/bigredelephant/status/2099885589369700623",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/optimusanesthesia/"
+  },
+  "description": null,
+  "official": {
+    "title": "OptimusAnesthesia by Chad",
+    "description": "A marketing assistant for anesthesia practices — Instagram carousels, bios, and patient education posts that stay clear of medical advice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "social-media",
+    "health",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/optimusanesthesia/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

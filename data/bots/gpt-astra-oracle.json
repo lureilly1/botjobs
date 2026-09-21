@@ -1,0 +1,41 @@
+{
+  "slug": "gpt-astra-oracle",
+  "name": "GPT Astra Oracle",
+  "grokShareUrl": "https://x.ai/bot/_yTNK1xhcbUko1rM2AWAv",
+  "botId": "_yTNK1xhcbUko1rM2AWAv",
+  "creator": {
+    "handle": "nathanromano",
+    "url": "https://x.com/nathanromano"
+  },
+  "sourceUrl": "https://x.com/nathanromano/status/2099999284686979169",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gpt-astra-oracle/"
+  },
+  "description": null,
+  "official": {
+    "title": "GPT Astra Oracle by Nathan",
+    "description": "On-demand plan/review seat that runs GPT-6 Astra and returns paste-ready PLAN or REVIEW packets for your Cursor cloud coding agent. Terse,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gpt-astra-oracle/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "reply-radar",
+  "name": "Reply Radar",
+  "grokShareUrl": "https://x.ai/bot/lJYaUExPBMZfLWfZEFVGc",
+  "botId": "lJYaUExPBMZfLWfZEFVGc",
+  "creator": {
+    "handle": "sam_builds_ai",
+    "url": "https://x.com/sam_builds_ai"
+  },
+  "sourceUrl": "https://x.com/sam_builds_ai/status/2099463729796755818",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reply-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Reply Radar by Sam",
+    "description": "Finds hot X posts in your niches and drafts short replies so you can grow without spraying comments. You pick topics and a weekly spend cap; runs on...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "growth",
+    "monitoring",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reply-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

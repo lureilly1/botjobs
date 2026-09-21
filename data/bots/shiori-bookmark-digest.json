@@ -17,7 +17,7 @@
     "title": "しおり by まるいも",
     "description": "Xのブックマークを読んで、テーマと次の一手（build / read / share / watch / drop）を短く日本語で出す朝ダイジェスト bot。投稿やいいねはしない。",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

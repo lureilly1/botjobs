@@ -1,0 +1,45 @@
+{
+  "slug": "fodda-brand-account-context-analyst",
+  "name": "Fodda Brand & Account Context Analyst",
+  "grokShareUrl": "https://x.ai/bot/uLsc529aqDnuQDacsDV9g",
+  "botId": "uLsc529aqDnuQDacsDV9g",
+  "creator": {
+    "handle": "piers_fawkes",
+    "name": "Piers Fawkes",
+    "url": "https://x.com/piers_fawkes"
+  },
+  "sourceUrl": "https://x.com/piers_fawkes/status/2100996012496089160",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fodda-brand-account-context-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fodda Brand & Account Context Analyst by Piers",
+    "description": "Pre-meeting dossier bot for enterprise AEs and strategists: market shifts, competitor moves, and verified graph-backed evidence for brand and account...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fodda-brand-account-context-analyst/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fodda-brand-amp-account-context-analyst"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

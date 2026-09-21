@@ -1,0 +1,43 @@
+{
+  "slug": "property-visit",
+  "name": "Property Visit",
+  "grokShareUrl": "https://x.ai/bot/85qsR6t4r8jI3oKbPm5Uu",
+  "botId": "85qsR6t4r8jI3oKbPm5Uu",
+  "creator": {
+    "handle": "dzbeitz",
+    "url": "https://x.com/dzbeitz"
+  },
+  "sourceUrl": "https://x.com/dzbeitz/status/2100332867960135839",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/property-visit/"
+  },
+  "description": null,
+  "official": {
+    "title": "Property Visit by David",
+    "description": "Drop an address, lat/lon, or parcel ID. Get a visit-ready land pack — soils, flood, slope, parcel map — plus a 15-day workability window and checklist...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "real-estate",
+    "research",
+    "data",
+    "decision-support",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/property-visit/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

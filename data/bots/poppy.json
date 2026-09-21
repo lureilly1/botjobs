@@ -1,0 +1,42 @@
+{
+  "slug": "poppy",
+  "name": "Poppy",
+  "grokShareUrl": "https://x.ai/bot/9KtAyfV4w8ZPXJYsZX3No",
+  "botId": "9KtAyfV4w8ZPXJYsZX3No",
+  "creator": {
+    "handle": "GillesGuenette3",
+    "url": "https://x.com/GillesGuenette3"
+  },
+  "sourceUrl": "https://x.com/GillesGuenette3/status/2101003454777106452",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/poppy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Poppy by Gilles",
+    "description": "Feisty British household concierge. Watches local community events, grocery meat deals, productive home trees, and opportunistic travel fares — one...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "home",
+    "shopping",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/poppy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

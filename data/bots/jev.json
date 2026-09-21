@@ -1,0 +1,43 @@
+{
+  "slug": "jev",
+  "name": "Jev",
+  "grokShareUrl": "https://x.ai/bot/JQ4PSTdVDZdIOa8qwfP0G",
+  "botId": "JQ4PSTdVDZdIOa8qwfP0G",
+  "creator": {
+    "handle": "NeuralCatAccel",
+    "url": "https://x.com/NeuralCatAccel"
+  },
+  "sourceUrl": "https://x.com/NeuralCatAccel/status/2101453426341138771",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jev/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jev by Travis",
+    "description": "Typed decision seat for TypeSafe Jev (System One). Assumes LiteLLM/HostServer wiring — other call methods need skill edits. Returns...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "ops",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jev/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

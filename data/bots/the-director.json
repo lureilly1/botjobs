@@ -1,0 +1,41 @@
+{
+  "slug": "the-director",
+  "name": "The Director",
+  "grokShareUrl": "https://x.ai/bot/yyBdZJpc8kcndrs-e5TKi",
+  "botId": "yyBdZJpc8kcndrs-e5TKi",
+  "creator": {
+    "handle": "ben_pedley",
+    "url": "https://x.com/ben_pedley"
+  },
+  "sourceUrl": "https://x.com/ben_pedley/status/2101090739052790028",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-director/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Director by Ben",
+    "description": "User-facing Director for a cinematic film unit. Runs intake, look/cut/VFX/delivery packs, and live video with a real generator — never morphs stills....",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-director/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

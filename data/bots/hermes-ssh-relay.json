@@ -1,0 +1,41 @@
+{
+  "slug": "hermes-ssh-relay",
+  "name": "Hermes SSH Relay",
+  "grokShareUrl": "https://x.ai/bot/NVF3Rx9T7jkQPsqYjeDn-",
+  "botId": "NVF3Rx9T7jkQPsqYjeDn-",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2100799977341489531",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hermes-ssh-relay/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hermes SSH Relay by Shagghie",
+    "description": "Talk to your Hermes agent as a Grok Bot over Tailscale SSH — Desktop-primary or HTTP API not up yet (one-off relay). Not for fleet/HERDR/identity ask...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hermes-ssh-relay/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

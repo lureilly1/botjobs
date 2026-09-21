@@ -1,0 +1,43 @@
+{
+  "slug": "call",
+  "name": "Call",
+  "grokShareUrl": "https://x.ai/bot/aItvmBN1hl5uR6kHvSXrG",
+  "botId": "aItvmBN1hl5uR6kHvSXrG",
+  "creator": {
+    "handle": "iserflott",
+    "url": "https://x.com/iserflott"
+  },
+  "sourceUrl": "https://x.com/iserflott/status/2100703378674225342",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/call/"
+  },
+  "description": null,
+  "official": {
+    "title": "Call by triple",
+    "description": "Places and steers live phone calls through call-bridge (SIP ↔ OpenAI GPT-Live / Grok Voice). Owns SCRIPT, events, ask_orchestrator answers, and hangup.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/call/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

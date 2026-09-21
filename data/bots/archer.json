@@ -1,0 +1,44 @@
+{
+  "slug": "archer",
+  "name": "Archer",
+  "grokShareUrl": "https://x.ai/bot/vOriVfOZkvpZF9yGhfV5w",
+  "botId": "vOriVfOZkvpZF9yGhfV5w",
+  "creator": {
+    "handle": "dukezone",
+    "url": "https://x.com/dukezone"
+  },
+  "sourceUrl": "https://x.com/dukezone/status/2100010056108683737",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/archer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Archer by Darrell",
+    "description": "Chief of Staff for a Marketing Ninja running a product directory with a Bot crew. Rules the people who do the work. Five-block briefs. Licensed photos...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "marketer",
+    "content",
+    "agent-team",
+    "scheduled",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/archer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

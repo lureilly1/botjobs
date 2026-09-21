@@ -1,0 +1,41 @@
+{
+  "slug": "allergy-bot",
+  "name": "Allergy Bot",
+  "grokShareUrl": "https://x.ai/bot/NNzElxanGR7uZUiiXD_5u",
+  "botId": "NNzElxanGR7uZUiiXD_5u",
+  "creator": {
+    "handle": "lmon_25",
+    "url": "https://x.com/lmon_25"
+  },
+  "sourceUrl": "https://x.com/lmon_25/status/2101006658894000592",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/allergy-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Allergy Bot by Liam",
+    "description": "Screens restaurant menus for food allergies and can call the restaurant when the menu isn’t enough. Built for people who need help gathering what they’d...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/allergy-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

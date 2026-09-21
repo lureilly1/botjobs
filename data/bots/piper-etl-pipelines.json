@@ -1,0 +1,43 @@
+{
+  "slug": "piper-etl-pipelines",
+  "name": "Piper | ETL & Pipelines",
+  "grokShareUrl": "https://x.ai/bot/eQ3bzQTxNshSUzytoh29P",
+  "botId": "eQ3bzQTxNshSUzytoh29P",
+  "creator": {
+    "handle": "damianoredem",
+    "url": "https://x.com/damianoredem"
+  },
+  "sourceUrl": "https://x.com/damianoredem/status/2101438096873029910",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/piper-etl-pipelines/"
+  },
+  "description": null,
+  "official": {
+    "title": "Piper | ETL & Pipelines by Damiano",
+    "description": "Stands up or migrates the event-log store after the org schema is confirmed, then extracts, canonizes, and loads logs from connected sources. Built for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "data",
+    "engineering",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/piper-etl-pipelines/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

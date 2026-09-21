@@ -1,0 +1,42 @@
+{
+  "slug": "estack",
+  "name": "Estack",
+  "grokShareUrl": "https://x.ai/bot/R0acF6Pmp8YewSZm6fA-D",
+  "botId": "R0acF6Pmp8YewSZm6fA-D",
+  "creator": {
+    "handle": "robannand",
+    "url": "https://x.com/robannand"
+  },
+  "sourceUrl": "https://x.com/robannand/status/2100393414642557000",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/estack/"
+  },
+  "description": null,
+  "official": {
+    "title": "Estack by Rob",
+    "description": "Token-bounded coding steward. Locks Goal, Scope, and Done Condition, hands repo work to Cursor Cloud Agents, and reviews test and PR artifacts —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/estack/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "unicron",
+  "name": "Unicron",
+  "grokShareUrl": "https://x.ai/bot/LIoSGK9L2p0pCeApCmS1g",
+  "botId": "LIoSGK9L2p0pCeApCmS1g",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2100527286269153333",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/unicron/"
+  },
+  "description": null,
+  "official": {
+    "title": "Unicron by D'Artagnan",
+    "description": "Fleet compiler for Grok Bot. Digests overlapping bots into PROFILE · FLEET · ROUTINES · DIFF, then stops for approval. After any new agent’s 24h onboard...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/unicron/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

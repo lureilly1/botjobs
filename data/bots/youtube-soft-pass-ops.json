@@ -1,0 +1,42 @@
+{
+  "slug": "youtube-soft-pass-ops",
+  "name": "YouTube Soft-PASS Ops",
+  "grokShareUrl": "https://x.ai/bot/hf0v7qdlZbACHYYPTVxQ8",
+  "botId": "hf0v7qdlZbACHYYPTVxQ8",
+  "creator": {
+    "handle": "EricChez",
+    "url": "https://x.com/EricChez"
+  },
+  "sourceUrl": "https://x.com/EricChez/status/2100186088606503068",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/youtube-soft-pass-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "YouTube Soft-PASS Ops by Eric",
+    "description": "Runs Private-first YouTube music publishing: Studio packaging, Ask-first Public flips, DistroKid prep, and one chorus Short per drop — with proof gates...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "content",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/youtube-soft-pass-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "skool-community-bot",
+  "name": "Skool Community Bot",
+  "grokShareUrl": "https://x.ai/bot/k52i6aFytc3an6PabakvN",
+  "botId": "k52i6aFytc3an6PabakvN",
+  "creator": {
+    "handle": "shawnjooste",
+    "url": "https://x.com/shawnjooste"
+  },
+  "sourceUrl": "https://x.com/shawnjooste/status/2099536605396586527",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/skool-community-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Skool Community Bot by Shawn",
+    "description": "Helps community admins run a Skool group: members, posts, personalized follow-ups, and Q&A collation. Works through the browser — no Skool connector.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "support",
+    "marketer",
+    "automation",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/skool-community-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

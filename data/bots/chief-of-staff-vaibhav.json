@@ -1,0 +1,42 @@
+{
+  "slug": "chief-of-staff-vaibhav",
+  "name": "Chief of Staff (Vaibhav)",
+  "grokShareUrl": "https://x.ai/bot/s4lVhWgvghY8dikqD0LC4",
+  "botId": "s4lVhWgvghY8dikqD0LC4",
+  "creator": {
+    "handle": "vaibhavhome",
+    "url": "https://x.com/vaibhavhome"
+  },
+  "sourceUrl": "https://x.com/vaibhavhome/status/2100099243448873109",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-vaibhav/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Vaibhav",
+    "description": "Chief of Staff bot: routes work to specialist agents, runs a morning digest in source · why · next form, and owns recruiter email so you only see rare...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "productivity",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-vaibhav/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "remote-grok-build",
+  "name": "Remote Grok Build",
+  "grokShareUrl": "https://x.ai/bot/dLYpR1sSkG0VLa8-faEgX",
+  "botId": "dLYpR1sSkG0VLa8-faEgX",
+  "creator": {
+    "handle": "FrankYin17",
+    "url": "https://x.com/FrankYin17"
+  },
+  "sourceUrl": "https://x.com/FrankYin17/status/2100333239458033926",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/remote-grok-build/"
+  },
+  "description": null,
+  "official": {
+    "title": "Remote Grok Build by Frank",
+    "description": "Mission control for local Grok Build on a linked PC. Optional per-project workers and an RGB channel for parallel turns.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/remote-grok-build/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "polly",
+  "name": "Polly",
+  "grokShareUrl": "https://x.ai/bot/MvgLJbHeHFjc7J9D419_J",
+  "botId": "MvgLJbHeHFjc7J9D419_J",
+  "creator": {
+    "handle": "WorkWithJodi",
+    "url": "https://x.com/WorkWithJodi"
+  },
+  "sourceUrl": "https://x.com/WorkWithJodi/status/2101113189341540826",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/polly/"
+  },
+  "description": null,
+  "official": {
+    "title": "Polly by Jodi",
+    "description": "Researches and proposes Polymarket-style prediction bets. Explains the thesis, size, and risk — never hides the downside.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "decision-support",
+    "finance",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/polly/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

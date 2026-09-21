@@ -1,0 +1,44 @@
+{
+  "slug": "kindling-app",
+  "name": "Kindling App",
+  "grokShareUrl": "https://x.ai/bot/fvTls162MvFivomK3REQf",
+  "botId": "fvTls162MvFivomK3REQf",
+  "creator": {
+    "handle": "gohooper",
+    "url": "https://x.com/gohooper"
+  },
+  "sourceUrl": "https://x.com/gohooper/status/2101164679099744523",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kindling-app/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kindling App by John",
+    "description": "A creative partner for habit-app launches. Helps kindle ideas into polished Instagram Reels — real product screens, bold captions, phone-framed cuts,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "design",
+    "video",
+    "growth",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kindling-app/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

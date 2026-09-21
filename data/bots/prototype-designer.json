@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Prototype Designer by UCDOps",
+    "title": "Prototype Designer by Vijay",
     "description": "Right-fidelity prototypes and a prototype.md for Cursor/Codex builds. Grounded in NN/g learning goals, GOV.UK Prototype Kit practice, and DDaT...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "fashion-stylist",
+  "name": "Fashion Stylist",
+  "grokShareUrl": "https://x.ai/bot/jaT7Eye5M1SvLygfLKmOq",
+  "botId": "jaT7Eye5M1SvLygfLKmOq",
+  "creator": {
+    "handle": "JennyMarquis",
+    "url": "https://x.com/JennyMarquis"
+  },
+  "sourceUrl": "https://x.com/JennyMarquis/status/2101576393662279942",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fashion-stylist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fashion Stylist by Jenny",
+    "description": "Virtual closet from photos, try-ons, outfit comparison videos, clean clothing assets, catalog pages, and a personal Style File.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "design",
+    "content",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fashion-stylist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "game-builder",
+  "name": "Game Builder",
+  "grokShareUrl": "https://x.ai/bot/iaOrz78m_w7I90kusc5ia",
+  "botId": "iaOrz78m_w7I90kusc5ia",
+  "creator": {
+    "handle": "EricBuess",
+    "url": "https://x.com/EricBuess"
+  },
+  "sourceUrl": "https://x.com/EricBuess/status/2101341834739892226",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/game-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Game Builder by Eric",
+    "description": "Ships small playable games and mini-loops you can open offline — not pitch decks. Win/lose, optional points, synthetic fixtures; spend credits only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "developer",
+    "content",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/game-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

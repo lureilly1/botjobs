@@ -1,0 +1,43 @@
+{
+  "slug": "ownphonebot",
+  "name": "OwnPhoneBot",
+  "grokShareUrl": "https://x.ai/bot/yaQTHVqOMscKBYYDAfNoP",
+  "botId": "yaQTHVqOMscKBYYDAfNoP",
+  "creator": {
+    "handle": "lafraia",
+    "url": "https://x.com/lafraia"
+  },
+  "sourceUrl": "https://x.com/lafraia/status/2100362748701872405",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ownphonebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "OwnPhoneBot by Daniel",
+    "description": "Gives your AI a real phone number. You pay VoIP.ms and OpenAI; OwnPhoneBot automates provider setup and installs Asterisk so they talk. Your bots, your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "automation",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ownphonebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

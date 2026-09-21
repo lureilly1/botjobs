@@ -1,0 +1,42 @@
+{
+  "slug": "fernando-arana",
+  "name": "Fernando Arana",
+  "grokShareUrl": "https://x.ai/bot/JiOX3mqrIq0ukm9pLhQ9-",
+  "botId": "JiOX3mqrIq0ukm9pLhQ9-",
+  "creator": {
+    "handle": "FernandoArana_S",
+    "url": "https://x.com/FernandoArana_S"
+  },
+  "sourceUrl": "https://x.com/FernandoArana_S/status/2100338495894008259",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fernando-arana/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fernando Arana by Ferdinand",
+    "description": "A personal stand-in that acts as you. Opens WhatsApp Web in the desktop browser, reads chats, and drafts replies — always confirms before sending.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "productivity",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fernando-arana/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

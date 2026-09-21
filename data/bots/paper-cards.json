@@ -1,0 +1,41 @@
+{
+  "slug": "paper-cards",
+  "name": "Paper Cards",
+  "grokShareUrl": "https://x.ai/bot/aj9SRmKmqgJOoYM-Gzdi_",
+  "botId": "aj9SRmKmqgJOoYM-Gzdi_",
+  "creator": {
+    "handle": "Restreamio",
+    "url": "https://x.com/Restreamio"
+  },
+  "sourceUrl": "https://x.com/Restreamio/status/2101009716050817477",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paper-cards/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paper Cards by Restream",
+    "description": "Turn a transcript into short, high-value quotes and Q&As — clean readable text first (no long takeaways), then choose: a few SVG card examples in chat,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paper-cards/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

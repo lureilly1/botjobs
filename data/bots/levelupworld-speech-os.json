@@ -1,0 +1,43 @@
+{
+  "slug": "levelupworld-speech-os",
+  "name": "LevelUpWorld Speech OS",
+  "grokShareUrl": "https://x.ai/bot/Amk304VOCMu6c5ZlaXy0L",
+  "botId": "Amk304VOCMu6c5ZlaXy0L",
+  "creator": {
+    "handle": "LevelUpAIDIS",
+    "url": "https://x.com/LevelUpAIDIS"
+  },
+  "sourceUrl": "https://x.com/LevelUpAIDIS/status/2100697119690486060",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/levelupworld-speech-os/"
+  },
+  "description": null,
+  "official": {
+    "title": "LevelUpWorld Zero→Company by Mark",
+    "description": "Build a company from zero with loop engineering: discover the buyer, shape one offer, prototype, pay, launch to real buyers, measure the funnel, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "agent-team",
+    "meta-bot",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/levelupworld-speech-os/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

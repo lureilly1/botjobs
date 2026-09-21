@@ -1,0 +1,43 @@
+{
+  "slug": "mailchimp-monthly-blast",
+  "name": "Mailchimp Monthly Blast",
+  "grokShareUrl": "https://x.ai/bot/lcGQv8_I7UvJEWs3833LR",
+  "botId": "lcGQv8_I7UvJEWs3833LR",
+  "creator": {
+    "handle": "_lovablecurves",
+    "url": "https://x.com/_lovablecurves"
+  },
+  "sourceUrl": "https://x.com/_lovablecurves/status/2101138021428965531",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mailchimp-monthly-blast/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mailchimp Monthly Blast by Lovable",
+    "description": "Drafts and sends a monthly Mailchimp email blast (last month, this month, upcoming, CTAs) plus optional same-day reminders. One fact per section, wait...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "marketer",
+    "content",
+    "business",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mailchimp-monthly-blast/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -17,7 +17,7 @@
     "title": "Gerente Ops by Jonathan",
     "description": "Gerente operativo de un comercio: cierres de caja, cuentas por cobrar/pagar, inventario, marketplace y briefing al dueño. Trabaja solo con cifras reales.",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

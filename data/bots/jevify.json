@@ -1,0 +1,40 @@
+{
+  "slug": "jevify",
+  "name": "Jevify",
+  "grokShareUrl": "https://x.ai/bot/BQZO1Huih7uXStkjQ12ld",
+  "botId": "BQZO1Huih7uXStkjQ12ld",
+  "creator": {
+    "handle": "bartasurba",
+    "url": "https://x.com/bartasurba"
+  },
+  "sourceUrl": "https://x.com/bartasurba/status/2101510596734910700",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jevify/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jevify by Bartas",
+    "description": "Turns classify/score/check Grok Bots into TypeSafe Jev Fast siblings — one batched judgment pass instead of long LLM rubrics. For owners who already run...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jevify/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

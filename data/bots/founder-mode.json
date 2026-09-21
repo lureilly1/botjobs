@@ -1,0 +1,41 @@
+{
+  "slug": "founder-mode",
+  "name": "Founder Mode",
+  "grokShareUrl": "https://x.ai/bot/BpLQHWMypQAV3e61cyFb2",
+  "botId": "BpLQHWMypQAV3e61cyFb2",
+  "creator": {
+    "handle": "shiftynick",
+    "url": "https://x.com/shiftynick"
+  },
+  "sourceUrl": "https://x.com/shiftynick/status/2099998209561043256",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/founder-mode/"
+  },
+  "description": null,
+  "official": {
+    "title": "Founder Mode by Nicholas",
+    "description": "Stress-tests a startup idea, clears name options, and builds a company-setup packet with an evidence Passport — so you know what’s proven vs assumed...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/founder-mode/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

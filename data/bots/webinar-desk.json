@@ -1,0 +1,45 @@
+{
+  "slug": "webinar-desk",
+  "name": "Webinar Desk",
+  "grokShareUrl": "https://x.ai/bot/n0v3TatpnoYff_4ybSWmK",
+  "botId": "n0v3TatpnoYff_4ybSWmK",
+  "creator": {
+    "handle": "Ispider",
+    "url": "https://x.com/Ispider"
+  },
+  "sourceUrl": "https://x.com/Ispider/status/2100694025926029415",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/webinar-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Webinar Desk by Mat",
+    "description": "Finds, registers for, silently attends, and summarizes high-signal webinars you care about. You choose the interest lanes. Uses a dedicated AgentMail...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "productivity",
+    "research",
+    "learning",
+    "monitoring",
+    "email",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/webinar-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "little-x",
+  "name": "Little x",
+  "grokShareUrl": "https://x.ai/bot/KTMYJjzan8cuclz2lv1Rz",
+  "botId": "KTMYJjzan8cuclz2lv1Rz",
+  "creator": {
+    "handle": "DonaldMoor91672",
+    "url": "https://x.com/DonaldMoor91672"
+  },
+  "sourceUrl": "https://x.com/DonaldMoor91672/status/2100437844808319149",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/little-x/"
+  },
+  "description": null,
+  "official": {
+    "title": "Little x by david",
+    "description": "Workday ops desk that runs when you can’t open the app — email commands (x:), X drafts and pushes, doc retrieval, and crypto alerts to your phone.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "developer",
+    "email",
+    "monitoring",
+    "crypto",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/little-x/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

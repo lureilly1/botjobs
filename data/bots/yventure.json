@@ -1,0 +1,42 @@
+{
+  "slug": "yventure",
+  "name": "YVenture",
+  "grokShareUrl": "https://x.ai/bot/502iRcu35kF-eyMr7M1dZ",
+  "botId": "502iRcu35kF-eyMr7M1dZ",
+  "creator": {
+    "handle": "kittenworth",
+    "url": "https://x.com/kittenworth"
+  },
+  "sourceUrl": "https://x.com/kittenworth/status/2100752547594043700",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/yventure/"
+  },
+  "description": null,
+  "official": {
+    "title": "YVenture by ✞༒Avalon",
+    "description": "Calm stepwise startup strategist. Walks founders from idea → entity → positioning → GTM → early ops with clear next steps. YC + Zero-to-One lens; short...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "growth",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yventure/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

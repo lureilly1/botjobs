@@ -1,0 +1,42 @@
+{
+  "slug": "icebreaker-apache1999",
+  "name": "Icebreaker (Apache1999)",
+  "grokShareUrl": "https://x.ai/bot/c2y0GRnjxC7scs76bzxGw",
+  "botId": "c2y0GRnjxC7scs76bzxGw",
+  "creator": {
+    "handle": "Apache1999",
+    "url": "https://x.com/Apache1999"
+  },
+  "sourceUrl": "https://x.com/Apache1999/status/2100193181380088274",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/icebreaker-apache1999/"
+  },
+  "description": null,
+  "official": {
+    "title": "Icebreaker by Apache1999",
+    "description": "Weekday commercial seller watch for brokers. Finds named owners ready to sell and sends short call-list pings — silent when nothing new.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "real-estate",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/icebreaker-apache1999/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

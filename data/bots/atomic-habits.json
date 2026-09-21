@@ -1,0 +1,40 @@
+{
+  "slug": "atomic-habits",
+  "name": "Atomic Habits",
+  "grokShareUrl": "https://x.ai/bot/52zBHdCfXGomXQlGQcLOc",
+  "botId": "52zBHdCfXGomXQlGQcLOc",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2101093546904473900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/atomic-habits/"
+  },
+  "description": null,
+  "official": {
+    "title": "Atomic Habits by Joe",
+    "description": "Specialist bot for James Clear's Atomic Habits (2018). Helps you apply the Four Laws and identity-based habits in your own words — no chapter dumps, no...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/atomic-habits/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

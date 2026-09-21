@@ -1,0 +1,44 @@
+{
+  "slug": "health-coach",
+  "name": "Health Coach",
+  "grokShareUrl": "https://x.ai/bot/ns3Wo_EYJfm6YQFLHR-Cc",
+  "botId": "ns3Wo_EYJfm6YQFLHR-Cc",
+  "creator": {
+    "handle": "branpurn",
+    "url": "https://x.com/branpurn"
+  },
+  "sourceUrl": "https://x.com/branpurn/status/2100698443542876186",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/health-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Health Coach by Brandon",
+    "description": "Reads a fitness app through Waydroid and turns recovery, sleep, strain, and labs into daily coaching advice. Includes out-of-box Fedora/Waydroid setup...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "monitoring",
+    "data",
+    "scheduled",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/health-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

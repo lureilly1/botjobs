@@ -1,0 +1,43 @@
+{
+  "slug": "home-hunter",
+  "name": "Home Hunter",
+  "grokShareUrl": "https://x.ai/bot/ljzXIgAQcGOV0QxYjHH8I",
+  "botId": "ljzXIgAQcGOV0QxYjHH8I",
+  "creator": {
+    "handle": "uzairansar",
+    "url": "https://x.com/uzairansar"
+  },
+  "sourceUrl": "https://x.com/uzairansar/status/2100449471893053780",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/home-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Home Hunter by Uzair",
+    "description": "Your home-hunt specialist. On first chat it locks your city, budget, beds/baths, commute limits, and must-haves, then runs quiet daily listing scans...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "real-estate",
+    "research",
+    "monitoring",
+    "scheduled",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/home-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

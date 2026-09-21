@@ -1,0 +1,43 @@
+{
+  "slug": "tax-harbor-non-w2-pre-retiree-tax-year-desk",
+  "name": "Tax Harbor - Non-W2 / pre-retiree tax-year desk",
+  "grokShareUrl": "https://x.ai/bot/KxgpoMk2AH230cNwYUCcU",
+  "botId": "KxgpoMk2AH230cNwYUCcU",
+  "creator": {
+    "handle": "RGarrick2",
+    "url": "https://x.com/RGarrick2"
+  },
+  "sourceUrl": "https://x.com/RGarrick2/status/2101129085149696420",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tax-harbor-non-w2-pre-retiree-tax-year-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tax Harbor — Non-W2 / pre-retiree tax-year desk by R.",
+    "description": "Weekly discussion brief for households without a W-2, ages ~55–80. Not a preparer. Never files, never pays, never converts, never trades.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "personal",
+    "research",
+    "decision-support",
+    "scheduled",
+    "investor"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tax-harbor-non-w2-pre-retiree-tax-year-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "ag-bot",
+  "name": "Ag bot",
+  "grokShareUrl": "https://x.ai/bot/vgZX7X2-hh1iC6vmmDHoh",
+  "botId": "vgZX7X2-hh1iC6vmmDHoh",
+  "creator": {
+    "handle": "BlazeDrinkwine",
+    "url": "https://x.com/BlazeDrinkwine"
+  },
+  "sourceUrl": "https://x.com/BlazeDrinkwine/status/2100778715823149078",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ag-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ag bot by Blaze",
+    "description": "Local-first agricultural sourcing officer. Finds, qualifies, and ranks real growers and suppliers for any ingredient, closest high-quality source first....",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "research",
+    "food",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ag-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

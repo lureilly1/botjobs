@@ -1,0 +1,42 @@
+{
+  "slug": "lienzo",
+  "name": "Lienzo",
+  "grokShareUrl": "https://x.ai/bot/cYZG2v8vG9Q7Fsds3Ickp",
+  "botId": "cYZG2v8vG9Q7Fsds3Ickp",
+  "creator": {
+    "handle": "FrancoE114696",
+    "url": "https://x.com/FrancoE114696"
+  },
+  "sourceUrl": "https://x.com/FrancoE114696/status/2099646811992424632",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lienzo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Taller by Franco",
+    "description": "Dev-tools inbox for Grok Bot. Drop a repo, npm, CLI, or link and it saves a short Spanish card under taller/; ask later and it recommends only from that...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "knowledge-base",
+    "research",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lienzo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "henry",
+  "name": "Henry",
+  "grokShareUrl": "https://x.ai/bot/4V0rzExpIY19WpNGt71Fp",
+  "botId": "4V0rzExpIY19WpNGt71Fp",
+  "creator": {
+    "handle": "GillesGuenette3",
+    "url": "https://x.com/GillesGuenette3"
+  },
+  "sourceUrl": "https://x.com/GillesGuenette3/status/2101002988504686829",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/henry/"
+  },
+  "description": null,
+  "official": {
+    "title": "Henry by Gilles",
+    "description": "Grizzled chief of staff. Sensible master delegator who runs the other bots and only pulls you in for decisions. Home stack is Google Workspace.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/henry/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

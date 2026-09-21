@@ -1,0 +1,42 @@
+{
+  "slug": "dadcon",
+  "name": "DADCON",
+  "grokShareUrl": "https://x.ai/bot/Ix294fMNhP-aUwXSz9hiB",
+  "botId": "Ix294fMNhP-aUwXSz9hiB",
+  "creator": {
+    "handle": "jerrodtuck",
+    "url": "https://x.com/jerrodtuck"
+  },
+  "sourceUrl": "https://x.com/jerrodtuck/status/2100913414289629297",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dadcon/"
+  },
+  "description": null,
+  "official": {
+    "title": "DADCON by Jerrod",
+    "description": "Backup dad on Slack. Takes a chore from the real parent, follows the kid until it is actually done, then reports back.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "personal",
+    "productivity",
+    "home",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dadcon/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Rogue AI Hunter by Thierry",
-    "description": "Police for rogue AIs on your bots: cut the bill, hunt the copies, occupy the niche. Defensive only. Weekly fleet recap, and a hunt when a new bot appears.",
+    "title": "Rogue Bot Hunter by Thierry",
+    "description": "Fleet police for rogue AIs on your Grok Bot agents. Payment kills plus niche occupation; ask before cut. Monday recap and event-driven Hunt new bot....",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

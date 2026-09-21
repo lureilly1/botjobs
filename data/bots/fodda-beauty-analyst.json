@@ -1,0 +1,45 @@
+{
+  "slug": "fodda-beauty-analyst",
+  "name": "Fodda Beauty Analyst",
+  "grokShareUrl": "https://x.ai/bot/q6906XBgY0Dv_6gb6-mP3",
+  "botId": "q6906XBgY0Dv_6gb6-mP3",
+  "creator": {
+    "handle": "piers_fawkes",
+    "name": "Piers Fawkes",
+    "url": "https://x.com/piers_fawkes"
+  },
+  "sourceUrl": "https://x.com/piers_fawkes/status/2100996484728602845",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fodda-beauty-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fodda Beauty Analyst by Piers",
+    "description": "Clinical skincare, longevity, and prestige beauty innovation intelligence from the NielsenIQ Beauty Graph — for cosmetic founders, chemists, beauty...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fodda-beauty-analyst/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fodda-beauty-analyst"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "large-event-ops-bot",
+  "name": "Large Event Ops Bot",
+  "grokShareUrl": "https://x.ai/bot/93Z51EAVqzp-YOvbHFjN3",
+  "botId": "93Z51EAVqzp-YOvbHFjN3",
+  "creator": {
+    "handle": "_lovablecurves",
+    "url": "https://x.com/_lovablecurves"
+  },
+  "sourceUrl": "https://x.com/_lovablecurves/status/2101142291289079859",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/large-event-ops-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Large Event Ops Bot by Lovable",
+    "description": "Runs large fundraisers and awards nights end to end: partner inbox, gift and food commitments, day-of ops sheets, and quiet deadline reminders. Built...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "business",
+    "events",
+    "email",
+    "automation",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/large-event-ops-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

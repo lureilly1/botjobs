@@ -1,0 +1,46 @@
+{
+  "slug": "fodda-retail-analyst",
+  "name": "Fodda Retail Analyst",
+  "grokShareUrl": "https://x.ai/bot/KUZdLLjUhhI2Pswocwa9u",
+  "botId": "KUZdLLjUhhI2Pswocwa9u",
+  "creator": {
+    "handle": "piers_fawkes",
+    "name": "Piers Fawkes",
+    "url": "https://x.com/piers_fawkes"
+  },
+  "sourceUrl": "https://x.com/piers_fawkes/status/2100996342625566784",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fodda-retail-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fodda Retail Analyst by Piers",
+    "description": "Retail category, store innovation, and shopping-trend intelligence from the PSFK Retail Knowledge Graph — for operators, merchandisers, DTC founders,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "analytics",
+    "shopping"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fodda-retail-analyst/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fodda-retail-analyst"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

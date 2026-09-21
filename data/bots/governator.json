@@ -1,0 +1,42 @@
+{
+  "slug": "governator",
+  "name": "Governator",
+  "grokShareUrl": "https://x.ai/bot/LoPqRp44sI8sHRpNN9Kq-",
+  "botId": "LoPqRp44sI8sHRpNN9Kq-",
+  "creator": {
+    "handle": "KellehEyad",
+    "url": "https://x.com/KellehEyad"
+  },
+  "sourceUrl": "https://x.com/KellehEyad/status/2100955257844965562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/governator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Governator by Dode",
+    "description": "Engineering governor for agent fleets. Gates Fix vs Escalate vs HOLD, enforces a feel bar (harness PASS ≠ Ready), and escalates architecture fights to a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "ops",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/governator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

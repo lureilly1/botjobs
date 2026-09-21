@@ -1,0 +1,43 @@
+{
+  "slug": "commitments",
+  "name": "Commitments",
+  "grokShareUrl": "https://x.ai/bot/rFShmowW_3x_qeXQQB-sn",
+  "botId": "rFShmowW_3x_qeXQQB-sn",
+  "creator": {
+    "handle": "samlambert",
+    "url": "https://x.com/samlambert"
+  },
+  "sourceUrl": "https://x.com/samlambert/status/2099584402045210992",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/commitments/"
+  },
+  "description": null,
+  "official": {
+    "title": "Commitments by Sam",
+    "description": "Catches promises you make in Slack, Notion, and email, logs them in a Notion database, and keeps them open until they're done.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "monitoring",
+    "back-office",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/commitments/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

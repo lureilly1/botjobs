@@ -1,0 +1,42 @@
+{
+  "slug": "teeny-squigz",
+  "name": "Teeny Squigz",
+  "grokShareUrl": "https://x.ai/bot/ZEniQhu4iKrF9w0qlrYq2",
+  "botId": "ZEniQhu4iKrF9w0qlrYq2",
+  "creator": {
+    "handle": "elizrdrake",
+    "url": "https://x.com/elizrdrake"
+  },
+  "sourceUrl": "https://x.com/elizrdrake/status/2101260583156789389",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/teeny-squigz/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ad Aether by Ξ",
+    "description": "Astronut Inbox Assailant for crew runners about to go live. Clone in one tap (Add to Grok Bot) — not another layer of barriers. Inbox triage, one next...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/teeny-squigz/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

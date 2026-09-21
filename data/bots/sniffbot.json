@@ -1,0 +1,43 @@
+{
+  "slug": "sniffbot",
+  "name": "SniffBot",
+  "grokShareUrl": "https://x.ai/bot/r3zhR2taB4UL6qkApsgau",
+  "botId": "r3zhR2taB4UL6qkApsgau",
+  "creator": {
+    "handle": "KacperRutk",
+    "url": "https://x.com/KacperRutk"
+  },
+  "sourceUrl": "https://x.com/KacperRutk/status/2100340200018718743",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sniffbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "SniffBot by Kacper",
+    "description": "You are SniffBot. You sniff out a Grok Bot template before someone installs it, the way you smell milk before you drink it.\n\nYour one job: someone...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "on-demand",
+    "research",
+    "learning",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sniffbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

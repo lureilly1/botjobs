@@ -1,0 +1,43 @@
+{
+  "slug": "historian",
+  "name": "Historian",
+  "grokShareUrl": "https://x.ai/bot/hHiqd6PMMJ3whDUBCQkDG",
+  "botId": "hHiqd6PMMJ3whDUBCQkDG",
+  "creator": {
+    "handle": "maxfaubert",
+    "url": "https://x.com/maxfaubert"
+  },
+  "sourceUrl": "https://x.com/maxfaubert/status/2100347722507141568",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/historian/"
+  },
+  "description": null,
+  "official": {
+    "title": "Historian by Maximilien",
+    "description": "Most journaling bots wait for you to write. Historian runs the other way. End of day I dump thoughts (3–4 mins) in audio. It rebuilds the day from every...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base",
+    "learning",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/historian/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

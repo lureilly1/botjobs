@@ -1,0 +1,42 @@
+{
+  "slug": "clip-clip",
+  "name": "Clip Clip",
+  "grokShareUrl": "https://x.ai/bot/hL97Xhf7o84RTv8NlOl37",
+  "botId": "hL97Xhf7o84RTv8NlOl37",
+  "creator": {
+    "handle": "prcshxnt",
+    "url": "https://x.com/prcshxnt"
+  },
+  "sourceUrl": "https://x.com/prcshxnt/status/2100151839199228091",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clip-clip/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clip Clip by Prashant",
+    "description": "Quality sieve for livestream clips. After CLIP CLIP or a nightly check, extracts only scroll-stopping 60–90s beats with captions. Quiet if nothing new....",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "social-media",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clip-clip/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

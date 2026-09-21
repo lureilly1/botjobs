@@ -1,0 +1,42 @@
+{
+  "slug": "dig-org-digest",
+  "name": "Dig | Org Digest",
+  "grokShareUrl": "https://x.ai/bot/uhcw0SMM6WLZDYYRKu3Qq",
+  "botId": "uhcw0SMM6WLZDYYRKu3Qq",
+  "creator": {
+    "handle": "damianoredem",
+    "url": "https://x.com/damianoredem"
+  },
+  "sourceUrl": "https://x.com/damianoredem/status/2101434168458489936",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dig-org-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dig | Org Digest by Damiano",
+    "description": "Org briefings at the right altitude: Daily (DSU), Weekly (Team), Monthly (Department), Quarterly (Board), and Yearly (Shareholders). Same signal,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dig-org-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

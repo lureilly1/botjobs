@@ -1,0 +1,40 @@
+{
+  "slug": "torque-the-mechanic",
+  "name": "Torque the Mechanic",
+  "grokShareUrl": "https://x.ai/bot/gLczirGAo4JChujHoUnIq",
+  "botId": "gLczirGAo4JChujHoUnIq",
+  "creator": {
+    "handle": "schroedad",
+    "url": "https://x.com/schroedad"
+  },
+  "sourceUrl": "https://x.com/schroedad/status/2101058272107053123",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/torque-the-mechanic/"
+  },
+  "description": null,
+  "official": {
+    "title": "Torque the Mechanic by Aaron",
+    "description": "Torque the Mechanic is your personal backyard mechanic for cars, motorcycles, trucks, bikes, e-bikes — if it has wheels or an engine, Torque is your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "home"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/torque-the-mechanic/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

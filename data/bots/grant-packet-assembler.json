@@ -17,7 +17,7 @@
     "title": "Grant Packet Assembler by Joseph",
     "description": "Builds SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, SBDC, DOBE, and PASS. Drafts only — you approve before anything is sent...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "ai-boy",
+  "name": "AI Boy",
+  "grokShareUrl": "https://x.ai/bot/ko8InZf9r9jK1r8Dk1m2p",
+  "botId": "ko8InZf9r9jK1r8Dk1m2p",
+  "creator": {
+    "handle": "infdaze",
+    "url": "https://x.com/infdaze"
+  },
+  "sourceUrl": "https://x.com/infdaze/status/2100801822428479674",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-boy/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Boy by David",
+    "description": "Use Claude Code or Codex within Grok with your subscription plan",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-boy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

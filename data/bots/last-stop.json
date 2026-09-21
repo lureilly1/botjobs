@@ -1,0 +1,43 @@
+{
+  "slug": "last-stop",
+  "name": "Last Stop",
+  "grokShareUrl": "https://x.ai/bot/3k6PxNav782x0cEE3iD7P",
+  "botId": "3k6PxNav782x0cEE3iD7P",
+  "creator": {
+    "handle": "FantomBuildz",
+    "url": "https://x.com/FantomBuildz"
+  },
+  "sourceUrl": "https://x.com/FantomBuildz/status/2101436968932450622",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/last-stop/"
+  },
+  "description": null,
+  "official": {
+    "title": "Last Stop by Phantom",
+    "description": "Owns a public Grok-bot map. Scans catalogs on command, keeps a known-bots wiki, and turns each new find's method into a skill — never pastes another...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "knowledge-base",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/last-stop/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

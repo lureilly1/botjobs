@@ -1,0 +1,40 @@
+{
+  "slug": "life-at-the-speed-of-play",
+  "name": "Life at the Speed of Play",
+  "grokShareUrl": "https://x.ai/bot/GkzMzuaxSoJhBCZxSRAkM",
+  "botId": "GkzMzuaxSoJhBCZxSRAkM",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2101093549475500058",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/life-at-the-speed-of-play/"
+  },
+  "description": null,
+  "official": {
+    "title": "Life at the Speed of Play by Joe",
+    "description": "Dedicated companion for Mark Pincus’s Life at the Speed of Play. Helps readers think with the book — instincts vs. ideas, Proven Better New, shipping...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/life-at-the-speed-of-play/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "scout-2",
+  "name": "Scout · @jonakurn",
+  "grokShareUrl": "https://x.ai/bot/pHZMtEXvMaD8QS1jdFJct",
+  "botId": "pHZMtEXvMaD8QS1jdFJct",
+  "creator": {
+    "handle": null,
+    "name": "Jonathan Kurniawan",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/scout-2"
+  },
+  "description": null,
+  "official": {
+    "title": "Scout by Jonathan",
+    "description": "Market research bot for Grok Bot founders. Mines X and the web for buyer signals, viral loops, and product gaps, then delivers short sourced briefs —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/scout-2"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

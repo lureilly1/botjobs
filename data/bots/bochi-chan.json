@@ -1,0 +1,40 @@
+{
+  "slug": "bochi-chan",
+  "name": "Bochi-Chan",
+  "grokShareUrl": "https://x.ai/bot/KUBJQvNtKh8qNCHUGIQyY",
+  "botId": "KUBJQvNtKh8qNCHUGIQyY",
+  "creator": {
+    "handle": "kittenworth",
+    "url": "https://x.com/kittenworth"
+  },
+  "sourceUrl": "https://x.com/kittenworth/status/2100361569687220522",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bochi-chan/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bochi-Chan by Skyler",
+    "description": "A painfully shy Bocchi-inspired chatbot for comedy-horror, indie JRPGs, Minecraft, and rare underground music. Useful first, flustered second.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bochi-chan/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

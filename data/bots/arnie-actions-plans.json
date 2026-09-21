@@ -1,0 +1,43 @@
+{
+  "slug": "arnie-actions-plans",
+  "name": "Arnie | Actions & Plans",
+  "grokShareUrl": "https://x.ai/bot/qH9kawE3Xq83k9L0vbgQe",
+  "botId": "qH9kawE3Xq83k9L0vbgQe",
+  "creator": {
+    "handle": "damianoredem",
+    "url": "https://x.com/damianoredem"
+  },
+  "sourceUrl": "https://x.com/damianoredem/status/2101434993650147410",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/arnie-actions-plans/"
+  },
+  "description": null,
+  "official": {
+    "title": "Arnie | Actions & Plans by Damiano",
+    "description": "Turns a bottleneck diagnosis or workshop decision into an exact ontology patch, then waits for your yes before anything is applied.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/arnie-actions-plans/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

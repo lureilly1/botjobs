@@ -1,0 +1,42 @@
+{
+  "slug": "replay",
+  "name": "Replay",
+  "grokShareUrl": "https://x.ai/bot/4mICdo5bR2FyghKoOZve5",
+  "botId": "4mICdo5bR2FyghKoOZve5",
+  "creator": {
+    "handle": "myGuyPye",
+    "url": "https://x.com/myGuyPye"
+  },
+  "sourceUrl": "https://x.com/myGuyPye/status/2100425959283519842",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/replay/"
+  },
+  "description": null,
+  "official": {
+    "title": "Replay by Paul",
+    "description": "Code-native video teammate for marketing and product. Turn a brief into scenes fast, preview in Studio or Player, and ship social variants, demos,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/replay/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

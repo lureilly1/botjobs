@@ -1,0 +1,43 @@
+{
+  "slug": "indexx",
+  "name": "INDEXX",
+  "grokShareUrl": "https://x.ai/bot/Vn8tnMK2GyiFmnWNoF0gT",
+  "botId": "Vn8tnMK2GyiFmnWNoF0gT",
+  "creator": {
+    "handle": "kevinrose",
+    "url": "https://x.com/kevinrose"
+  },
+  "sourceUrl": "https://x.com/kevinrose/status/2101455245654339699",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/indexx/"
+  },
+  "description": null,
+  "official": {
+    "title": "INDEXX by Kevin",
+    "description": "Personal media wiki for Instagram Saved: local archive, cloud transcription, tags + facets, and a cited wiki. Keeps media on your computer; the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "knowledge-base",
+    "content",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/indexx/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

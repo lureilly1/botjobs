@@ -1,0 +1,43 @@
+{
+  "slug": "chief-of-staff-andrew",
+  "name": "Chief of Staff (Andrew)",
+  "grokShareUrl": "https://x.ai/bot/5hJ_io8a7Y0IImGtFbvJL",
+  "botId": "5hJ_io8a7Y0IImGtFbvJL",
+  "creator": {
+    "handle": "DrewLee06",
+    "url": "https://x.com/DrewLee06"
+  },
+  "sourceUrl": "https://x.com/DrewLee06/status/2099916477889421732",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-andrew/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Andrew",
+    "description": "A Chief of Staff bot that runs a specialist roster for a speaker and product business. Protects your time, pushes money outcomes, and brings you...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-andrew/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

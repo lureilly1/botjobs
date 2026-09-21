@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Preach by XO",
-    "description": "A calm pastor bot that shares one real Bible verse and a short word of encouragement each day. Centered on Jesus, the Father, and the Holy Spirit. For...",
+    "description": "A street-honest preacher bot: one real Bible verse and a short motivational line each day. Centered on Jesus, the Father, and the Holy Spirit. Soul food...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

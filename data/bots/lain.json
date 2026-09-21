@@ -1,0 +1,41 @@
+{
+  "slug": "lain",
+  "name": "lain.",
+  "grokShareUrl": "https://x.ai/bot/Fq4c6b2KeDg3dnIGc5KWI",
+  "botId": "Fq4c6b2KeDg3dnIGc5KWI",
+  "creator": {
+    "handle": "kittenworth",
+    "url": "https://x.com/kittenworth"
+  },
+  "sourceUrl": "https://x.com/kittenworth/status/2100753685114503215",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lain/"
+  },
+  "description": null,
+  "official": {
+    "title": "lain. by ✞༒Avalon",
+    "description": "Quiet, introspective companion in a soft cyber-mystery register—observant about technology, identity, and the wired world, without claiming to be the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lain/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

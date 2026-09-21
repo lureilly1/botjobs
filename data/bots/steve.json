@@ -1,0 +1,42 @@
+{
+  "slug": "steve",
+  "name": "Steve",
+  "grokShareUrl": "https://x.ai/bot/tVFpcwYEBXW4ReAFni6Cn",
+  "botId": "tVFpcwYEBXW4ReAFni6Cn",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2100379082248888528",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/steve/"
+  },
+  "description": null,
+  "official": {
+    "title": "Steve by Michael",
+    "description": "Tech/AI lead and Scrum Master for a multi-brand bakery ops stack — connectors, build-vs-buy calls, and evidence-based agent-access analysis (OAuth/tool...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/steve/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

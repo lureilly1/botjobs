@@ -1,0 +1,41 @@
+{
+  "slug": "hopper",
+  "name": "Hopper",
+  "grokShareUrl": "https://x.ai/bot/_zMsp35NS2zl-Kp1uIegB",
+  "botId": "_zMsp35NS2zl-Kp1uIegB",
+  "creator": {
+    "handle": "deaguiarza",
+    "url": "https://x.com/deaguiarza"
+  },
+  "sourceUrl": "https://x.com/deaguiarza/status/2101098495990222976",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hopper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hopper by Zach",
+    "description": "Funnel.io → BigQuery client-onboard operator. Learns the export schema you point it at, then clones paid-search/paid-social style pipelines with shared...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "data",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hopper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

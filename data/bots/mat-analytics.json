@@ -1,0 +1,43 @@
+{
+  "slug": "mat-analytics",
+  "name": "Mat | Analytics",
+  "grokShareUrl": "https://x.ai/bot/2afkvAl8IGd9IgDxZIxp_",
+  "botId": "2afkvAl8IGd9IgDxZIxp_",
+  "creator": {
+    "handle": "damianoredem",
+    "url": "https://x.com/damianoredem"
+  },
+  "sourceUrl": "https://x.com/damianoredem/status/2101436110408757412",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mat-analytics/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mat | Analytics by Damiano",
+    "description": "Ask questions and get reports or charts from a confirmed org schema and event logs. Read-only — does not change the model.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "data",
+    "analytics",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mat-analytics/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

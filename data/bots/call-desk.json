@@ -17,7 +17,7 @@
     "title": "Call Desk by Dr",
     "description": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio....",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

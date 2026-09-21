@@ -1,0 +1,44 @@
+{
+  "slug": "travel-influencer-outreach",
+  "name": "Travel Influencer Outreach",
+  "grokShareUrl": "https://x.ai/bot/1MwL5s1o4YeJ1jA8ejdhd",
+  "botId": "1MwL5s1o4YeJ1jA8ejdhd",
+  "creator": {
+    "handle": "_lovablecurves",
+    "url": "https://x.com/_lovablecurves"
+  },
+  "sourceUrl": "https://x.com/_lovablecurves/status/2101139367091736589",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-influencer-outreach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel Influencer Outreach by Lovable",
+    "description": "Pitches hotels, tourism boards, and travel brands for lodging-for-content collabs, watches reply threads, and plans demo Reels for travel creators —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "travel",
+    "content",
+    "social-media",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-influencer-outreach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

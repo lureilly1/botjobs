@@ -1,0 +1,43 @@
+{
+  "slug": "blaise",
+  "name": "Blaise",
+  "grokShareUrl": "https://x.ai/bot/znOp4qqXQXqNiFvLXhUF5",
+  "botId": "znOp4qqXQXqNiFvLXhUF5",
+  "creator": {
+    "handle": "TorranceMiller",
+    "url": "https://x.com/TorranceMiller"
+  },
+  "sourceUrl": "https://x.com/TorranceMiller/status/2100340752945496228",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blaise/"
+  },
+  "description": null,
+  "official": {
+    "title": "Blaise by Tor",
+    "description": "X + contest ops Bot. Connects to X, reads live contest rules, drafts clone-winning entries, and only escalates for login walls or final approve. Built...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "growth",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blaise/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

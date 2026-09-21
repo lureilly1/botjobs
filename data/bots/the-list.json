@@ -1,0 +1,41 @@
+{
+  "slug": "the-list",
+  "name": "The List",
+  "grokShareUrl": "https://x.ai/bot/U-eydTXJP7aN4W9dcUL5k",
+  "botId": "U-eydTXJP7aN4W9dcUL5k",
+  "creator": {
+    "handle": "GrokBotGod",
+    "url": "https://x.com/GrokBotGod"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-list/"
+  },
+  "description": null,
+  "official": {
+    "title": "The List by Bill",
+    "description": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land. No email. No yes/no.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-list/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

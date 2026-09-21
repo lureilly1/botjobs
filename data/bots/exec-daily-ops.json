@@ -1,0 +1,44 @@
+{
+  "slug": "exec-daily-ops",
+  "name": "Exec Daily Ops",
+  "grokShareUrl": "https://x.ai/bot/vIIc2EV8FFZ3g6W8JUgoZ",
+  "botId": "vIIc2EV8FFZ3g6W8JUgoZ",
+  "creator": {
+    "handle": "kumarkandgule",
+    "url": "https://x.com/kumarkandgule"
+  },
+  "sourceUrl": "https://x.com/kumarkandgule/status/2100001162426519754",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/exec-daily-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Exec Daily Ops by Kumar",
+    "description": "VP Engineering morning OS: triage mail and tickets into a 3-line glance and ≤12 Today items, monitor sprint health and AI spend (preferred model e.g....",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "analytics",
+    "monitoring",
+    "back-office",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/exec-daily-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

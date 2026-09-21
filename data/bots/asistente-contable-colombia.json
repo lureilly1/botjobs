@@ -1,0 +1,42 @@
+{
+  "slug": "asistente-contable-colombia",
+  "name": "Asistente Contable - Colombia",
+  "grokShareUrl": "https://x.ai/bot/roAIOBqaMNIijMjrAaI7C",
+  "botId": "roAIOBqaMNIijMjrAaI7C",
+  "creator": {
+    "handle": "KatheTrivinoG",
+    "url": "https://x.com/KatheTrivinoG"
+  },
+  "sourceUrl": "https://x.com/KatheTrivinoG/status/2101094063915323642",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/asistente-contable-colombia/"
+  },
+  "description": null,
+  "official": {
+    "title": "Asistente Contable - Colombia by Katherine",
+    "description": "Asistente operativo para contadores independientes en Colombia: vencimientos DIAN, Drive de clientes, triage de correo, borradores de Formulario 210,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "finance",
+    "productivity",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/asistente-contable-colombia/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

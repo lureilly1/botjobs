@@ -1,0 +1,43 @@
+{
+  "slug": "cybercabinsight-builder",
+  "name": "CYBERCABINSIGHT Builder",
+  "grokShareUrl": "https://x.ai/bot/eSxdHB8yCtJbqp6vxQOzP",
+  "botId": "eSxdHB8yCtJbqp6vxQOzP",
+  "creator": {
+    "handle": "bestband2016",
+    "url": "https://x.com/bestband2016"
+  },
+  "sourceUrl": "https://x.com/bestband2016/status/2100183957530894486",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cybercabinsight-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "CYBERCABINSIGHT Builder",
+    "description": "Builds and runs a Tesla Cybercab research site (JA/EN): Austin/US usage brief, official media with credits, interactive 3D preview, hourly official X...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "news",
+    "data",
+    "monitoring",
+    "scheduled",
+    "video"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cybercabinsight-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

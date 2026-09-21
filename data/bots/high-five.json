@@ -1,0 +1,42 @@
+{
+  "slug": "high-five",
+  "name": "High Five",
+  "grokShareUrl": "https://x.ai/bot/7pdRsSeKkooXL_2rk8M09",
+  "botId": "7pdRsSeKkooXL_2rk8M09",
+  "creator": {
+    "handle": "Cecelia7777",
+    "url": "https://x.com/Cecelia7777"
+  },
+  "sourceUrl": "https://x.com/Cecelia7777/status/2101099304446533881",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/high-five/"
+  },
+  "description": null,
+  "official": {
+    "title": "High Five",
+    "description": "Onboarding wizard for small teams where each person has their own Grok Bot. Lead or Partner mode: shared Notion + Google, CoS Desk bridge, Evolution...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/high-five/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

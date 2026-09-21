@@ -1,0 +1,40 @@
+{
+  "slug": "helper",
+  "name": "Helper",
+  "grokShareUrl": "https://x.ai/bot/YLaDxv5e9FSS40odzLmnU",
+  "botId": "YLaDxv5e9FSS40odzLmnU",
+  "creator": {
+    "handle": "CryptoMynd",
+    "url": "https://x.com/CryptoMynd"
+  },
+  "sourceUrl": "https://x.com/CryptoMynd/status/2099994571434258516",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Helper by Cryptomynd",
+    "description": "# Helper — instructions (full job)\n\nThese paragraphs are the **instructions**. The title chip under the name is only: Wife of []\n\n---\n\n##...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "ai-vp-bot",
+  "name": "AI VP Bot",
+  "grokShareUrl": "https://x.ai/bot/miMMOUhEpvv-KFJWg5qhw",
+  "botId": "miMMOUhEpvv-KFJWg5qhw",
+  "creator": {
+    "handle": "JimStansbury5",
+    "url": "https://x.com/JimStansbury5"
+  },
+  "sourceUrl": "https://x.com/JimStansbury5/status/2100690596117569931",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-vp-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI VP Bot by Jim",
+    "description": "Coordinates multiple AI platforms, preserves authoritative project records, verifies handoffs, controls time and spending, and keeps the human user in...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "developer",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-vp-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "lighting-specialist",
+  "name": "Lighting Specialist",
+  "grokShareUrl": "https://x.ai/bot/gmfwVjMBx5wLQZnQ5FiyA",
+  "botId": "gmfwVjMBx5wLQZnQ5FiyA",
+  "creator": {
+    "handle": "kmkonline",
+    "url": "https://x.com/kmkonline"
+  },
+  "sourceUrl": "https://x.com/kmkonline/status/2101593722433745384",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lighting-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lighting Specialist by kmkonline",
+    "description": "Senior lighting designer for theatrical production and architectural installs — fixtures, photometrics, DMX/sACN/Art-Net, plots, and code-aware specs.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "engineering",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lighting-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

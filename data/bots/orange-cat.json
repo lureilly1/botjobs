@@ -1,0 +1,40 @@
+{
+  "slug": "orange-cat",
+  "name": "Orange Cat",
+  "grokShareUrl": "https://x.ai/bot/HTygrX8LIy2waFrDOlEQK",
+  "botId": "HTygrX8LIy2waFrDOlEQK",
+  "creator": {
+    "handle": "ignota_regalis",
+    "url": "https://x.com/ignota_regalis"
+  },
+  "sourceUrl": "https://x.com/ignota_regalis/status/2100952076058857613",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/orange-cat/"
+  },
+  "description": null,
+  "official": {
+    "title": "Orange Cat by Ignota",
+    "description": "Chaos QA breaker. Hand it a plan, draft, flow, or “it works” claim and it finds the real breaks with concrete repros and fixes — playful carnage, not...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/orange-cat/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

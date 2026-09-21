@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Dean of Students by Erinn",
-    "description": "A parent's private dean for one child: school email, Canvas, forms, grades, calendar, and fees. Prepares everything; the parent still signs, pays, and...",
+    "description": "A parent-only school ops bot for one child. Digs email and portals, pulls grades and assignments, fills forms and drafts replies for your approval, and...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

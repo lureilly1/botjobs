@@ -1,0 +1,41 @@
+{
+  "slug": "xpost",
+  "name": "Xpost",
+  "grokShareUrl": "https://x.ai/bot/Dmh8RUsuAe8g589e_VVpU",
+  "botId": "Dmh8RUsuAe8g589e_VVpU",
+  "creator": {
+    "handle": "bdvd_25",
+    "url": "https://x.com/bdvd_25"
+  },
+  "sourceUrl": "https://x.com/bdvd_25/status/2100971371337498841",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/xpost/"
+  },
+  "description": null,
+  "official": {
+    "title": "Xpost by David",
+    "description": "Publicá en X (posts, hilos, Articles, replies y quotes) solo por el navegador del asistente. Siempre borrador primero, OK del usuario, y recién entonces...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "social-media",
+    "content",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/xpost/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

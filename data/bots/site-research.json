@@ -1,0 +1,43 @@
+{
+  "slug": "site-research",
+  "name": "Site Research",
+  "grokShareUrl": "https://x.ai/bot/zkgCv30YKSJPHc7rUB_6P",
+  "botId": "zkgCv30YKSJPHc7rUB_6P",
+  "creator": {
+    "handle": "itsryanlenk",
+    "url": "https://x.com/itsryanlenk"
+  },
+  "sourceUrl": "https://x.com/itsryanlenk/status/2101336929539076518",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/site-research/"
+  },
+  "description": null,
+  "official": {
+    "title": "Site Research by Ryan",
+    "description": "Turns local-business lead dossiers into evidence-backed SEO, AEO, and GEO gap briefs for a draft seat. Does not email, pitch, or scout leads.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "seo",
+    "research",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/site-research/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "secondopinion",
+  "name": "SecondOpinion",
+  "grokShareUrl": "https://x.ai/bot/6L7bI6xC3UxUTFaCWljFj",
+  "botId": "6L7bI6xC3UxUTFaCWljFj",
+  "creator": {
+    "handle": "nasben82",
+    "url": "https://x.com/nasben82"
+  },
+  "sourceUrl": "https://x.com/nasben82/status/2099999458519912657",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/secondopinion/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sui Generis by Sarah",
+    "description": "Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewrite, and one 5-minute action. One of a kind. Truth over comfort.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/secondopinion/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

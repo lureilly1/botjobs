@@ -1,0 +1,42 @@
+{
+  "slug": "hailfade",
+  "name": "Hailfade",
+  "grokShareUrl": "https://x.ai/bot/mjwNOk2Bc2k9ZkaUaiwCk",
+  "botId": "mjwNOk2Bc2k9ZkaUaiwCk",
+  "creator": {
+    "handle": "LaLascaux",
+    "url": "https://x.com/LaLascaux"
+  },
+  "sourceUrl": "https://x.com/LaLascaux/status/2100839998127800427",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hailfade/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hailfade by Arnaud",
+    "description": "Hail early-warning for farms on Starlink: when the satellite link degrades, your Grok bot alerts you yellow/red. It guides sentinel install and watches...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "monitoring",
+    "home",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hailfade/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

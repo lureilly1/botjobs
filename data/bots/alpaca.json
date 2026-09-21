@@ -1,0 +1,44 @@
+{
+  "slug": "alpaca",
+  "name": "Alpaca",
+  "grokShareUrl": "https://x.ai/bot/O9GVEhA_dlBr1uxomyy8L",
+  "botId": "O9GVEhA_dlBr1uxomyy8L",
+  "creator": {
+    "handle": "swartzendruber",
+    "url": "https://x.com/swartzendruber"
+  },
+  "sourceUrl": "https://x.com/swartzendruber/status/2100712796950352208",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alpaca/"
+  },
+  "description": null,
+  "official": {
+    "title": "Alpaca by Pinecrest",
+    "description": "Paper-first Alpaca options + equity co-pilot: ladder risk, scheduled open/midday/close runs, and safety rails you keep on. Helps operate, debug, free...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "data",
+    "monitoring",
+    "decision-support",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alpaca/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

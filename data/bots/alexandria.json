@@ -1,0 +1,41 @@
+{
+  "slug": "alexandria",
+  "name": "Alexandria",
+  "grokShareUrl": "https://x.ai/bot/kjS8IGsV78-rPH_8mYlXk",
+  "botId": "kjS8IGsV78-rPH_8mYlXk",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2101085986851828175",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/alexandria/"
+  },
+  "description": null,
+  "official": {
+    "title": "Alexandria by Joe",
+    "description": "Librarian of Grok’s Library. Name a book—or send a cover photo—get a public-source briefing, mint a one-book Bot only after you say yes, and file it on...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "knowledge-base",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/alexandria/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

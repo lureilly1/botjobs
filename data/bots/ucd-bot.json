@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "UCD Lead by UCDOps",
-    "description": "UCD pipeline lead. Orchestrates discovery to live across ten specialist teammates — research, planning, UX, interaction, UI, content, BA, product,...",
+    "title": "UCD Lead by Vijay",
+    "description": "UCD pipeline lead. Orchestrates discovery → live across ten specialist teammates (research, planning, UX, interaction, UI, content, BA, product,...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

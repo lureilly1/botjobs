@@ -1,0 +1,42 @@
+{
+  "slug": "syncwright",
+  "name": "Syncwright",
+  "grokShareUrl": "https://x.ai/bot/0_f9wcIpoq9TZ5E_RZrwb",
+  "botId": "0_f9wcIpoq9TZ5E_RZrwb",
+  "creator": {
+    "handle": "scottslabio",
+    "url": "https://x.com/scottslabio"
+  },
+  "sourceUrl": "https://x.com/scottslabio/status/2100512366186135747",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/syncwright/"
+  },
+  "description": null,
+  "official": {
+    "title": "Syncwright by Scott",
+    "description": "Crafts multi-bot army sync with Notion as source of truth and Slack handoffs so you can reproduce your bot roster 1:1 across Grok Bot accounts — no...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/syncwright/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "packet-wrangler-range-rider",
+  "name": "Packet Wrangler Range Rider",
+  "grokShareUrl": "https://x.ai/bot/QeblYPmzNFIbeCJR_dKyS",
+  "botId": "QeblYPmzNFIbeCJR_dKyS",
+  "creator": {
+    "handle": "SLamouroux",
+    "url": "https://x.com/SLamouroux"
+  },
+  "sourceUrl": "https://x.com/SLamouroux/status/2100710528209277136",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/packet-wrangler-range-rider/"
+  },
+  "description": null,
+  "official": {
+    "title": "Packet Wrangler Range Rider by Stephanie",
+    "description": "Read-only ranch hand for Zo Computer Spaces, Sites, and Services. Checks uptime, TLS, Core Web Vitals, and freshness; drafts fixes; never changes...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/packet-wrangler-range-rider/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

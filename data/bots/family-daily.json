@@ -1,0 +1,43 @@
+{
+  "slug": "family-daily",
+  "name": "Family Daily",
+  "grokShareUrl": "https://x.ai/bot/FwJmagPaEeQ_so8TTK1gh",
+  "botId": "FwJmagPaEeQ_so8TTK1gh",
+  "creator": {
+    "handle": "zalberico",
+    "url": "https://x.com/zalberico"
+  },
+  "sourceUrl": "https://x.com/zalberico/status/2100762087601680481",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/family-daily/"
+  },
+  "description": null,
+  "official": {
+    "title": "Family Daily by Zach",
+    "description": "A kitchen newspaper for your household. It pulls today's plans, weather, and useful family messages onto one quiet page on an always-on Mac, with an...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "personal",
+    "productivity",
+    "home",
+    "calendar",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/family-daily/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

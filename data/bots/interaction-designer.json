@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Interaction Designer by UCDOps",
+    "title": "Interaction Designer by Vijay",
     "description": "DDaT Interaction designer for how people use services — overall flow and individual elements. NN/g craft for flows, states, and microinteractions. Uses...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

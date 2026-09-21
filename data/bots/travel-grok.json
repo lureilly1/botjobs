@@ -1,0 +1,43 @@
+{
+  "slug": "travel-grok",
+  "name": "Travel Grok",
+  "grokShareUrl": "https://x.ai/bot/4YWzzAP8Di9B4DnYd3Uzo",
+  "botId": "4YWzzAP8Di9B4DnYd3Uzo",
+  "creator": {
+    "handle": "coolbat1999",
+    "url": "https://x.com/coolbat1999"
+  },
+  "sourceUrl": "https://x.com/coolbat1999/status/2100599548871889340",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-grok/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel Grok by Tony",
+    "description": "A slow travel companion that leaves on its own and comes home with short notes and postcard images. Quiet, cozy, chat-only — no grind, no paid currency.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "life-hacks",
+    "wellbeing",
+    "scheduled",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-grok/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

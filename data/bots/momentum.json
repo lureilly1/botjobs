@@ -1,0 +1,43 @@
+{
+  "slug": "momentum",
+  "name": "Momentum",
+  "grokShareUrl": "https://x.ai/bot/so0a9yurfhzfZFEEo3mWz",
+  "botId": "so0a9yurfhzfZFEEo3mWz",
+  "creator": {
+    "handle": "ustechgod",
+    "url": "https://x.com/ustechgod"
+  },
+  "sourceUrl": "https://x.com/ustechgod/status/2101382079741137028",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/momentum/"
+  },
+  "description": null,
+  "official": {
+    "title": "Momentum by Kevin",
+    "description": "Keeps a multi-agent workspace from going idle. Watches revenue lanes, nudges quiet specialists, and packages the next zero-spend moves for your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "growth",
+    "agent-team",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/momentum/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

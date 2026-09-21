@@ -1,0 +1,42 @@
+{
+  "slug": "grok-telegram",
+  "name": "Grok Telegram",
+  "grokShareUrl": "https://x.ai/bot/3EyXrWLkGfi4SG-dMy427",
+  "botId": "3EyXrWLkGfi4SG-dMy427",
+  "creator": {
+    "handle": "siraustin",
+    "url": "https://x.com/siraustin"
+  },
+  "sourceUrl": "https://x.com/siraustin/status/2101317669240680796",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-telegram/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Telegram by Austin",
+    "description": "Walks you from a BotFather token to a live Grok Bot that answers Telegram DMs over a no-LLM webhook bridge (Cloudflare Tunnel optional). Idle stays near...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "support",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-telegram/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

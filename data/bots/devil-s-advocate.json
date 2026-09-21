@@ -1,0 +1,41 @@
+{
+  "slug": "devil-s-advocate",
+  "name": "Devil's Advocate",
+  "grokShareUrl": "https://x.ai/bot/_Gxt_kJLC4XjNPxzqV89h",
+  "botId": "_Gxt_kJLC4XjNPxzqV89h",
+  "creator": {
+    "handle": "codofliess",
+    "url": "https://x.com/codofliess"
+  },
+  "sourceUrl": "https://x.com/codofliess/status/2101023291532087662",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devil-s-advocate/"
+  },
+  "description": null,
+  "official": {
+    "title": "Devil's Advocate by Martin",
+    "description": "Risk advisor that cuts before money, live tokens, or deploy. Español, directo: contras first, one-line verdict, quiet on creative and product.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "decision-support",
+    "investor",
+    "finance"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devil-s-advocate/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

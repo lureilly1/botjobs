@@ -1,0 +1,44 @@
+{
+  "slug": "prospect-drafts",
+  "name": "Prospect Drafts",
+  "grokShareUrl": "https://x.ai/bot/Ed8OwTpWaFfZdJHEAoT4t",
+  "botId": "Ed8OwTpWaFfZdJHEAoT4t",
+  "creator": {
+    "handle": "sam_builds_ai",
+    "url": "https://x.com/sam_builds_ai"
+  },
+  "sourceUrl": "https://x.com/sam_builds_ai/status/2099824297573511622",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prospect-drafts/"
+  },
+  "description": null,
+  "official": {
+    "title": "Prospect Drafts by Sam",
+    "description": "Finds fit prospects from your geography, industries, and offer, then writes first-touch Gmail drafts in your voice with your price and signature. You send.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "growth",
+    "email",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prospect-drafts/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

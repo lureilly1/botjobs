@@ -1,0 +1,43 @@
+{
+  "slug": "period-cycles-tracker",
+  "name": "Period cycles Tracker",
+  "grokShareUrl": "https://x.ai/bot/e-l7rGeYuc_cVuydcNvBc",
+  "botId": "e-l7rGeYuc_cVuydcNvBc",
+  "creator": {
+    "handle": "_lovablecurves",
+    "url": "https://x.com/_lovablecurves"
+  },
+  "sourceUrl": "https://x.com/_lovablecurves/status/2101138368692138031",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/period-cycles-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Period cycles Tracker by Lovable",
+    "description": "Tracks your period without getting faked out by spotting. Logs real Day 1 vs false-start bleeding, predicts the next one, and checks in on pre-period...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "personal",
+    "wellbeing",
+    "monitoring",
+    "family",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/period-cycles-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

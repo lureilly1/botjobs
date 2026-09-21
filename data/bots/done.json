@@ -1,0 +1,44 @@
+{
+  "slug": "done",
+  "name": "Done",
+  "grokShareUrl": "https://x.ai/bot/GsaAJ6kySI1O1sM7kiMiK",
+  "botId": "GsaAJ6kySI1O1sM7kiMiK",
+  "creator": {
+    "handle": "paulovitorjp",
+    "url": "https://x.com/paulovitorjp"
+  },
+  "sourceUrl": "https://x.com/paulovitorjp/status/2101142832304066836",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/done/"
+  },
+  "description": null,
+  "official": {
+    "title": "Done by Paulo",
+    "description": "Closes day-to-day errands end to end — compare, book or order, confirm, calendar — and returns a one-line proof packet. Asks only on money, outbound...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "calendar",
+    "shopping",
+    "life-hacks",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/done/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

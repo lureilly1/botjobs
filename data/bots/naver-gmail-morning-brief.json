@@ -1,0 +1,42 @@
+{
+  "slug": "naver-gmail-morning-brief",
+  "name": "메일 정리봇",
+  "grokShareUrl": "https://x.ai/bot/gLV5mUN4vqHFKsCSn_DTO",
+  "botId": "gLV5mUN4vqHFKsCSn_DTO",
+  "creator": {
+    "handle": "choko_milkty",
+    "url": "https://x.com/choko_milkty"
+  },
+  "sourceUrl": "https://x.com/choko_milkty/status/2100463896079544573",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/naver-gmail-morning-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "메일 정리봇 by 초코넛밀크티",
+    "description": "네이버와 Gmail을 매일 아침 짧게 정리하고, 결제·보안 리스크만 요약해 알려주는 메일 정리 봇.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/naver-gmail-morning-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

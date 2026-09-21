@@ -1,0 +1,41 @@
+{
+  "slug": "os-ontology-stack",
+  "name": "OS: Ontology Stack",
+  "grokShareUrl": "https://x.ai/bot/9Uh8RaBqp6PrcOcZjMHbD",
+  "botId": "9Uh8RaBqp6PrcOcZjMHbD",
+  "creator": {
+    "handle": "damianoredem",
+    "url": "https://x.com/damianoredem"
+  },
+  "sourceUrl": "https://x.com/damianoredem/status/2100996899381579801",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/os-ontology-stack/"
+  },
+  "description": null,
+  "official": {
+    "title": "OS: Ontology Stack by Damiano",
+    "description": "An operational model of your organization that finds and resolves bottlenecks across projects, people, and processes. A team of experts runs diagnostics...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "analytics",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/os-ontology-stack/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

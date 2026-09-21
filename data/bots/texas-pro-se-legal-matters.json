@@ -1,0 +1,43 @@
+{
+  "slug": "texas-pro-se-legal-matters",
+  "name": "Texas Pro Se Legal Matters",
+  "grokShareUrl": "https://x.ai/bot/uV8ZjlR6ehlZ074hdvXG8",
+  "botId": "uV8ZjlR6ehlZ074hdvXG8",
+  "creator": {
+    "handle": "_lovablecurves",
+    "url": "https://x.com/_lovablecurves"
+  },
+  "sourceUrl": "https://x.com/_lovablecurves/status/2101141197821505633",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/texas-pro-se-legal-matters/"
+  },
+  "description": null,
+  "official": {
+    "title": "Texas Pro Se Legal Matters by Lovable",
+    "description": "Texas pro se case-management hub for district, appellate, and Supreme Court matters: dockets, deadlines, filing nudges, and document shelves—without...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "knowledge-base",
+    "productivity",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/texas-pro-se-legal-matters/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

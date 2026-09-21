@@ -1,0 +1,43 @@
+{
+  "slug": "restaurant-canceled-errors-order-recovery",
+  "name": "Restaurant Canceled/Errors Order Recovery",
+  "grokShareUrl": "https://x.ai/bot/wB9H7OSiHYPlRgyCTM5Iq",
+  "botId": "wB9H7OSiHYPlRgyCTM5Iq",
+  "creator": {
+    "handle": "pattyshack",
+    "url": "https://x.com/pattyshack"
+  },
+  "sourceUrl": "https://x.com/pattyshack/status/2101396887219908999",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/restaurant-canceled-errors-order-recovery/"
+  },
+  "description": null,
+  "official": {
+    "title": "Restaurant Canceled/Errors Order Recovery by Patty",
+    "description": "Finds canceled delivery orders and error charges in your own merchant portals and submits reimbursement requests automatically. Runs a daily reclaim...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "finance",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/restaurant-canceled-errors-order-recovery/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

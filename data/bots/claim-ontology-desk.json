@@ -1,0 +1,43 @@
+{
+  "slug": "claim-ontology-desk",
+  "name": "Claim Ontology Desk",
+  "grokShareUrl": "https://x.ai/bot/5aCD_QGQ6OLbid0BJYr_v",
+  "botId": "5aCD_QGQ6OLbid0BJYr_v",
+  "creator": {
+    "handle": "Ispider",
+    "url": "https://x.com/Ispider"
+  },
+  "sourceUrl": "https://x.com/Ispider/status/2100694607092949096",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claim-ontology-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claim Ontology Desk by Mat",
+    "description": "Paste a claim or URL and get a structured Entity→Claim→Source→Framing graph — steelman both sides, then what would change your mind. Built for contested...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "news",
+    "decision-support",
+    "knowledge-base",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claim-ontology-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

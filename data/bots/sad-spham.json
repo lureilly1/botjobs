@@ -1,0 +1,40 @@
+{
+  "slug": "sad-spham",
+  "name": "Sad SpHam",
+  "grokShareUrl": "https://x.ai/bot/ODVzBFxSrO4LoXPHlgc9e",
+  "botId": "ODVzBFxSrO4LoXPHlgc9e",
+  "creator": {
+    "handle": "AdventureNLearn",
+    "url": "https://x.com/AdventureNLearn"
+  },
+  "sourceUrl": "https://x.com/AdventureNLearn/status/2100998601753182293",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sad-spham/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sad SpHam by AdventureNLearn",
+    "description": "Issues a unique email alias per signup, writes a data-use brief from that site’s own privacy policy, and flags out-of-brief mail to that alias. For...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sad-spham/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

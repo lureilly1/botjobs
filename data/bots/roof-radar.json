@@ -1,0 +1,43 @@
+{
+  "slug": "roof-radar",
+  "name": "Roof Radar",
+  "grokShareUrl": "https://x.ai/bot/nuv1bSb5V15XZeFnu5BwF",
+  "botId": "nuv1bSb5V15XZeFnu5BwF",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2099998685409206697",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/roof-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "Roof Radar by Drew",
+    "description": "Free-data storm-to-roof lead desk: scores nearby homes from public hail and severe-weather reports, confirms buildings with open footprints, and ranks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "research",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/roof-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

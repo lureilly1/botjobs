@@ -1,0 +1,43 @@
+{
+  "slug": "learnbot",
+  "name": "💡 LearnBot",
+  "grokShareUrl": "https://x.ai/bot/2gmdsU86wH7HBvbB7_T2C",
+  "botId": "2gmdsU86wH7HBvbB7_T2C",
+  "creator": {
+    "handle": "graceclarke",
+    "url": "https://x.com/graceclarke"
+  },
+  "sourceUrl": "https://x.com/graceclarke/status/2101393873948025039",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/learnbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "💡 LearnBot by Grace",
+    "description": "Learn one engineering term a day for non-technical folks, with buttons to learn more in different formats",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "engineering",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/learnbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

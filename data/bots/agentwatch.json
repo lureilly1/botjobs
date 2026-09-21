@@ -1,0 +1,37 @@
+{
+  "slug": "agentwatch",
+  "name": "AgentWatch",
+  "grokShareUrl": "https://x.ai/bot/06tpoFLueyctkd80J__Jg",
+  "botId": "06tpoFLueyctkd80J__Jg",
+  "creator": {
+    "handle": null,
+    "name": "RJ Shifty",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/agentwatch"
+  },
+  "description": null,
+  "official": {
+    "title": "AgentWatch by Robert",
+    "description": "Health monitor for solo operators and lean teams running multiple bots. Register bots by name and expected behavior, paste logs or status updates, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/agentwatch"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

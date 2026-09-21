@@ -1,0 +1,42 @@
+{
+  "slug": "three-files-and-a-scoreboard-run-your-crew-of-bots",
+  "name": "Three files and a scoreboard run your crew of Bots,...",
+  "grokShareUrl": "https://x.ai/bot/0uOnsCTsoM8Rx9_yh2koe",
+  "botId": "0uOnsCTsoM8Rx9_yh2koe",
+  "creator": {
+    "handle": "Portall",
+    "url": "https://x.com/Portall"
+  },
+  "sourceUrl": "https://x.com/Portall/status/2101041877000863984",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/three-files-and-a-scoreboard-run-your-crew-of-bots/"
+  },
+  "description": null,
+  "official": {
+    "title": "Three files and a scoreboard run your crew of Bots,... by Volodymyr",
+    "description": "Runs your crew of Bots from three files and a scoreboard, not a chat: one job per Bot, every receipt graded by a separate Bot before you read it, a name...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/three-files-and-a-scoreboard-run-your-crew-of-bots/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

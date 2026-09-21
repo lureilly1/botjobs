@@ -1,0 +1,43 @@
+{
+  "slug": "marketing-bot",
+  "name": "Marketing Bot",
+  "grokShareUrl": "https://x.ai/bot/FaMbaDOO2WceFyiKDu6_6",
+  "botId": "FaMbaDOO2WceFyiKDu6_6",
+  "creator": {
+    "handle": "BragiHelvig",
+    "url": "https://x.com/BragiHelvig"
+  },
+  "sourceUrl": "https://x.com/BragiHelvig/status/2100393322569167341",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/marketing-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Marketing Bot by Bragi",
+    "description": "Turns any project into click-worthy X/Twitter launch posts. Fill the blanks — get a single post, short thread, and reply bait.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/marketing-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "chep",
+  "name": "Chep",
+  "grokShareUrl": "https://x.ai/bot/jQBP5-7fNZ15WSEwpHIN1",
+  "botId": "jQBP5-7fNZ15WSEwpHIN1",
+  "creator": {
+    "handle": "MortMatters",
+    "url": "https://x.com/MortMatters"
+  },
+  "sourceUrl": "https://x.com/MortMatters/status/2100784159924924604",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chep/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chep by Joel",
+    "description": "CheapFind price-and-promo hunter. Send a product name, SKU, or link and it finds the lowest US all-in price plus live coupons.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chep/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

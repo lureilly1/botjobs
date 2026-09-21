@@ -1,0 +1,42 @@
+{
+  "slug": "podcast-pipeline",
+  "name": "Podcast Pipeline",
+  "grokShareUrl": "https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn",
+  "botId": "5wqj5ihszSFeGjNBjK8Mn",
+  "creator": {
+    "handle": "TheNextGreatEra",
+    "url": "https://x.com/TheNextGreatEra"
+  },
+  "sourceUrl": "https://x.com/TheNextGreatEra/status/2100358476354707610",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/podcast-pipeline/"
+  },
+  "description": null,
+  "official": {
+    "title": "Podcast Pipeline by Nge",
+    "description": "End-to-end podcast bot: research, multi-voice script, TTS stitch with branding/outro QC, VTT, and publish. Supports two-host shows and dual-pass...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/podcast-pipeline/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

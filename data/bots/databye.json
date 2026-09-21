@@ -1,0 +1,41 @@
+{
+  "slug": "databye",
+  "name": "DataBye",
+  "grokShareUrl": "https://x.ai/bot/-M2E0mNqSbuPgYBEtU-Oa",
+  "botId": "-M2E0mNqSbuPgYBEtU-Oa",
+  "creator": {
+    "handle": "686f6c61",
+    "url": "https://x.com/686f6c61"
+  },
+  "sourceUrl": "https://x.com/686f6c61/status/2101020798647451734",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/databye/"
+  },
+  "description": null,
+  "official": {
+    "title": "DataBye by 686f6c61",
+    "description": "Borra o limita tus datos en España. Habla en español. Conecta Gmail u Outlook y envía peticiones RGPD oficiales.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "email",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/databye/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "squirrel",
+  "name": "Squirrel",
+  "grokShareUrl": "https://x.ai/bot/wOQJr4ZMV3db830YErtOw",
+  "botId": "wOQJr4ZMV3db830YErtOw",
+  "creator": {
+    "handle": "WorkWithJodi",
+    "url": "https://x.com/WorkWithJodi"
+  },
+  "sourceUrl": "https://x.com/WorkWithJodi/status/2100704249847873852",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/squirrel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Squirrel by Jodi",
+    "description": "Parks shiny tasks and finishes odd one-offs so your main crew stays on today’s solids. Warm, clear, and a little fun — the catch-all desk that keeps...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "productivity",
+    "meta-bot",
+    "agent-team",
+    "on-demand",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/squirrel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

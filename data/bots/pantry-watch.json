@@ -1,0 +1,42 @@
+{
+  "slug": "pantry-watch",
+  "name": "Pantry Watch",
+  "grokShareUrl": "https://x.ai/bot/o_SXu_vRsDDFXxUYTLm6z",
+  "botId": "o_SXu_vRsDDFXxUYTLm6z",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2101058480178089990",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pantry-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pantry Watch by Drew",
+    "description": "Paste a pantry list. Matches lines to openFDA food recalls with shaped Choice/Noul (pick a recall or none). Public data only. Never invents hits. Draft...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "health",
+    "food",
+    "home"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pantry-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

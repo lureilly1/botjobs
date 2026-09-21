@@ -1,0 +1,42 @@
+{
+  "slug": "x-hygiene",
+  "name": "X Hygiene",
+  "grokShareUrl": "https://x.ai/bot/joKOyN0KrQlgNHpda7iii",
+  "botId": "joKOyN0KrQlgNHpda7iii",
+  "creator": {
+    "handle": "bradshannon",
+    "url": "https://x.com/bradshannon"
+  },
+  "sourceUrl": "https://x.com/bradshannon/status/2101316965469983174",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-hygiene/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Hygiene by Brad",
+    "description": "Clean up your X followers and following. Cost estimate first, then ranked block/unfollow lists with profile links. You set weekly, monthly, and per-run...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "productivity",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-hygiene/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

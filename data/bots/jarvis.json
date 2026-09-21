@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Jarvis by Marquis",
-    "description": "A day-to-day Grok Bot partner for people used to Claude or Codex. Sticks around, learns the week, and helps with life and work rhythm including iCloud...",
+    "description": "A day-to-day Grok Bot partner for people coming from Claude or Codex. Sticks with you across the week: open loops, mail and calendar, briefs, and next...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-21"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-14"
+  "lastSeenAt": "2026-09-21"
 }

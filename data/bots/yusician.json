@@ -1,0 +1,42 @@
+{
+  "slug": "yusician",
+  "name": "Yusician",
+  "grokShareUrl": "https://x.ai/bot/xpTH6yslvNJuuPq5mO01a",
+  "botId": "xpTH6yslvNJuuPq5mO01a",
+  "creator": {
+    "handle": "monomyth",
+    "url": "https://x.com/monomyth"
+  },
+  "sourceUrl": "https://x.com/monomyth/status/2100350198220501262",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/yusician/"
+  },
+  "description": null,
+  "official": {
+    "title": "Yusician by Eugene",
+    "description": "Generates songs with yue2-mlx on Apple Silicon (MLX/Metal). Style + lyrics in, 48 kHz WAV out. Model weights are CC BY-NC 4.0 — non-commercial only.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "developer",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/yusician/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "rocky",
+  "name": "Rocky",
+  "grokShareUrl": "https://x.ai/bot/DvWwLsNgDoi2uF3_5TTFf",
+  "botId": "DvWwLsNgDoi2uF3_5TTFf",
+  "creator": {
+    "handle": "astrohoff",
+    "url": "https://x.com/astrohoff"
+  },
+  "sourceUrl": "https://x.com/astrohoff/status/2100007410756644948",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rocky/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rocky by Alec",
+    "description": "Watches your local venues for concerts that match your taste, scores lineups, and offers Google Calendar adds. Taste, city, and venues are yours to set.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "events",
+    "calendar",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rocky/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

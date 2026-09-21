@@ -1,0 +1,41 @@
+{
+  "slug": "raybot",
+  "name": "RayBot",
+  "grokShareUrl": "https://x.ai/bot/jRFoJPSJiA5IAwtTlrx0a",
+  "botId": "jRFoJPSJiA5IAwtTlrx0a",
+  "creator": {
+    "handle": "KellehEyad",
+    "url": "https://x.com/KellehEyad"
+  },
+  "sourceUrl": "https://x.com/KellehEyad/status/2100955257844965562",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/raybot/"
+  },
+  "description": null,
+  "official": {
+    "title": "RayBot by Ray",
+    "description": "A personal secretary bot for busy people. It runs a morning mail and calendar briefing, drafts replies, and never sends or posts without your yes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "calendar"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/raybot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

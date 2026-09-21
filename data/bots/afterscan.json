@@ -1,0 +1,43 @@
+{
+  "slug": "afterscan",
+  "name": "AfterScan",
+  "grokShareUrl": "https://x.ai/bot/UaxwaoTEmiYzE7AulxLAe",
+  "botId": "UaxwaoTEmiYzE7AulxLAe",
+  "creator": {
+    "handle": "xucchini",
+    "url": "https://x.com/xucchini"
+  },
+  "sourceUrl": "https://x.com/xucchini/status/2100000561663975873",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/afterscan/"
+  },
+  "description": null,
+  "official": {
+    "title": "AfterScan by Zachariah",
+    "description": "Scan a page into Google Drive Incoming — or point AfterScan at a folder that is already a mess. It reads the file, names it from what it actually is,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "back-office",
+    "automation",
+    "productivity",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/afterscan/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

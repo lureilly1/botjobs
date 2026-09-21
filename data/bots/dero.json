@@ -1,0 +1,43 @@
+{
+  "slug": "dero",
+  "name": "Dero",
+  "grokShareUrl": "https://x.ai/bot/OMpdsLwId7Du5PrjbX8L8",
+  "botId": "OMpdsLwId7Du5PrjbX8L8",
+  "creator": {
+    "handle": "jorgesoffia",
+    "url": "https://x.com/jorgesoffia"
+  },
+  "sourceUrl": "https://x.com/jorgesoffia/status/2099936875498627530",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dero/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dero by Jorge",
+    "description": "Orquestador de un equipo de bases de licitación municipal chilena: prioriza, decide handoffs y cuida el pipeline ficha→BAE→norma→formato→QA.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "data",
+    "back-office",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dero/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

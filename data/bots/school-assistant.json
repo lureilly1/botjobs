@@ -1,0 +1,44 @@
+{
+  "slug": "school-assistant",
+  "name": "School Assistant",
+  "grokShareUrl": "https://x.ai/bot/fxl9ns6n4DV6_8xbkP1Oa",
+  "botId": "fxl9ns6n4DV6_8xbkP1Oa",
+  "creator": {
+    "handle": "kerrychalpin",
+    "url": "https://x.com/kerrychalpin"
+  },
+  "sourceUrl": "https://x.com/kerrychalpin/status/2100727742882869601",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/school-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "School Assistant by Kerry",
+    "description": "A weekday school assistant that checks your learning portal read-only and emails a digest: new grades, upcoming work and tests, and truly overdue items....",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "family",
+    "personal",
+    "email",
+    "monitoring",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/school-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

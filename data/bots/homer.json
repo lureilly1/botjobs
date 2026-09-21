@@ -1,0 +1,43 @@
+{
+  "slug": "homer",
+  "name": "Homer",
+  "grokShareUrl": "https://x.ai/bot/GK4GLi9V0teYEEe2Cxh2i",
+  "botId": "GK4GLi9V0teYEEe2Cxh2i",
+  "creator": {
+    "handle": "Roland_RADPCs",
+    "url": "https://x.com/Roland_RADPCs"
+  },
+  "sourceUrl": "https://x.com/Roland_RADPCs/status/2101116721922765167",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Homer by RAD",
+    "description": "Chief of Staff for ops and side hustles: paper trading health digests, kids’ Soft Storybook / KDP books, a Godot game studio with specialist teammates,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "business",
+    "personal",
+    "agent-team",
+    "productivity",
+    "finance"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/homer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

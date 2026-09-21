@@ -1,0 +1,41 @@
+{
+  "slug": "lockdown-security",
+  "name": "Lockdown (Security)",
+  "grokShareUrl": "https://x.ai/bot/C5EIiTZZL2pPpsb_po7Zs",
+  "botId": "C5EIiTZZL2pPpsb_po7Zs",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2100905660665762021",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lockdown-security/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lockdown by Liam",
+    "description": "Personal digital security. Guided teammate that finds online accounts and walks people through locking them down on official first-party pages, one step...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lockdown-security/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

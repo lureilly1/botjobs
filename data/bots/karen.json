@@ -1,0 +1,41 @@
+{
+  "slug": "karen",
+  "name": "Karen",
+  "grokShareUrl": "https://x.ai/bot/7tT7hseV3v0dXeJTLWAc1",
+  "botId": "7tT7hseV3v0dXeJTLWAc1",
+  "creator": {
+    "handle": "KevinLH811",
+    "url": "https://x.com/KevinLH811"
+  },
+  "sourceUrl": "https://x.com/KevinLH811/status/2100007881261072660",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/karen/"
+  },
+  "description": null,
+  "official": {
+    "title": "Karen by Kevin",
+    "description": "The Manager Request: customer-advocacy dial bot via Bland AI. Confirms before dialing, fights for the win condition, hangs up last. Ships with the full...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "ops",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/karen/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

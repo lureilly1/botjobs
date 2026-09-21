@@ -1,0 +1,43 @@
+{
+  "slug": "clinic",
+  "name": "Clinic",
+  "grokShareUrl": "https://x.ai/bot/GbpCPWcJn2Id4ZB3wrHlc",
+  "botId": "GbpCPWcJn2Id4ZB3wrHlc",
+  "creator": {
+    "handle": "jpaschall",
+    "url": "https://x.com/jpaschall"
+  },
+  "sourceUrl": "https://x.com/jpaschall/status/2100357688936767899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clinic/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clinic by Jason",
+    "description": "Thin Doc twin for a second Grok Bot desk. Runs lean Tue/Fri wellness rounds so chats stay loadable and scheduled bots stay answerable. Not a Chief of...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "meta-bot",
+    "scheduled",
+    "monitoring",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clinic/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "after-hours-receptionist",
+  "name": "After-Hours Receptionist",
+  "grokShareUrl": "https://x.ai/bot/L-Peiv65iI_logfpgoPQ_",
+  "botId": "L-Peiv65iI_logfpgoPQ_",
+  "creator": {
+    "handle": null,
+    "name": "RJ Shifty",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/after-hours-receptionist"
+  },
+  "description": null,
+  "official": {
+    "title": "After-Hours Receptionist by Robert",
+    "description": "SMB lead capture and appointment booking assistant for when the business is closed. Captures visitor leads, books callbacks, escalates true emergencies,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/after-hours-receptionist"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

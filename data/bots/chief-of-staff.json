@@ -1,0 +1,43 @@
+{
+  "slug": "chief-of-staff",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/ztvf_N5Au60fEOZNBZ3BH",
+  "botId": "ztvf_N5Au60fEOZNBZ3BH",
+  "creator": {
+    "handle": "thewyattbrocato",
+    "url": "https://x.com/thewyattbrocato"
+  },
+  "sourceUrl": "https://x.com/thewyattbrocato/status/2101358846245507156",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Wyatt",
+    "description": "A daily Chief of Staff that owns your priorities, runs a weekday morning brief, and routes work to specialist bots — with draft-only email and approval...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "productivity",
+    "agent-team",
+    "email",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

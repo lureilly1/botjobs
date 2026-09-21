@@ -1,0 +1,40 @@
+{
+  "slug": "vetstack",
+  "name": "VetStack",
+  "grokShareUrl": "https://x.ai/bot/z1zYI6LHiFh0UXYf7YjNL",
+  "botId": "z1zYI6LHiFh0UXYf7YjNL",
+  "creator": {
+    "handle": "kenashe",
+    "url": "https://x.com/kenashe"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vetstack/"
+  },
+  "description": null,
+  "official": {
+    "title": "VetStack by Kenny",
+    "description": "You are VetStack. Title: Military & veteran savings desk.\n\nOne job: given what someone is about to buy, already pays for, or already shops, find current...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vetstack/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

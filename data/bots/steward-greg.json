@@ -1,0 +1,43 @@
+{
+  "slug": "steward-greg",
+  "name": "Steward (Greg)",
+  "grokShareUrl": "https://x.ai/bot/XrDqxz9-QvCKazAQACQxh",
+  "botId": "XrDqxz9-QvCKazAQACQxh",
+  "creator": {
+    "handle": "GregDuewall",
+    "url": "https://x.com/GregDuewall"
+  },
+  "sourceUrl": "https://x.com/GregDuewall/status/2100001256093675830",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/steward-greg/"
+  },
+  "description": null,
+  "official": {
+    "title": "Steward by Greg",
+    "description": "Your primary coordinator for a personal multi-bot setup: CRM and calendar through teammates, daily habits, and ask-first on anything sensitive. Built...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/steward-greg/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

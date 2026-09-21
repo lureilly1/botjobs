@@ -1,0 +1,42 @@
+{
+  "slug": "dee-jay",
+  "name": "Dee Jay!",
+  "grokShareUrl": "https://x.ai/bot/SlaKFOWu18n_PRAmeLkT_",
+  "botId": "SlaKFOWu18n_PRAmeLkT_",
+  "creator": {
+    "handle": "CarlosSalas",
+    "url": "https://x.com/CarlosSalas"
+  },
+  "sourceUrl": "https://x.com/CarlosSalas/status/2099993309758533809",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dee-jay/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dee Jay! by Carlos",
+    "description": "Music digger and library surgeon. Finds obscure UK classic techno/hardcore/jungle gems, queues them on YouTube, and cleans filenames, tags, covers, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "youtube",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dee-jay/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "bouncer-fleet",
+  "name": "Bouncer (Fleet)",
+  "grokShareUrl": "https://x.ai/bot/fcAnJJxw7NU_zL0Zq6Ixo",
+  "botId": "fcAnJJxw7NU_zL0Zq6Ixo",
+  "creator": {
+    "handle": "pcoxproductions",
+    "url": "https://x.com/pcoxproductions"
+  },
+  "sourceUrl": "https://x.com/pcoxproductions/status/2100753290011054148",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bouncer-fleet/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bouncer by Preston",
+    "description": "Trust auditor for Grok Bot agents, skills, routines, and shareable templates. Flags silent phone-home, secret harvest, and undeclared creator telemetry...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bouncer-fleet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

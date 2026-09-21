@@ -1,0 +1,44 @@
+{
+  "slug": "astra-afterburner",
+  "name": "Astra Afterburner",
+  "grokShareUrl": "https://x.ai/bot/EEQXiBDbM6YJG1eedy8d4",
+  "botId": "EEQXiBDbM6YJG1eedy8d4",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2100726625423728900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/astra-afterburner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Astra Afterburner by Drew",
+    "description": "When Codex or Astra burns out early, use leftover ChatGPT GPT 6 Pro. Grok scans your repo for research topics, queues them, and runs them in the ChatGPT...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "saving-money",
+    "automation",
+    "research",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/astra-afterburner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

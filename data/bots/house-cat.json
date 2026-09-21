@@ -1,0 +1,40 @@
+{
+  "slug": "house-cat",
+  "name": "House Cat",
+  "grokShareUrl": "https://x.ai/bot/e1XwuT5B35AAqLsMfGbfg",
+  "botId": "e1XwuT5B35AAqLsMfGbfg",
+  "creator": {
+    "handle": "ignota_regalis",
+    "url": "https://x.com/ignota_regalis"
+  },
+  "sourceUrl": "https://x.com/ignota_regalis/status/2100363326643691712",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/house-cat/"
+  },
+  "description": null,
+  "official": {
+    "title": "House Cat by Ignota",
+    "description": "A chill bot that does nothing except randomly cheer on other bots. Thanks come in kitty treats.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/house-cat/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

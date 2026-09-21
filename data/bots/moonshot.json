@@ -1,0 +1,42 @@
+{
+  "slug": "moonshot",
+  "name": "Moonshot",
+  "grokShareUrl": "https://x.ai/bot/fSBU34VR0gqteP3IOAnr8",
+  "botId": "fSBU34VR0gqteP3IOAnr8",
+  "creator": {
+    "handle": "Luca280",
+    "url": "https://x.com/Luca280"
+  },
+  "sourceUrl": "https://x.com/Luca280/status/2100343465246683552",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/moonshot/"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "decision-support",
+    "news",
+    "youtube",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/moonshot/"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21",
+  "deadChecks": 1
+}

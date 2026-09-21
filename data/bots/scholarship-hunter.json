@@ -1,0 +1,44 @@
+{
+  "slug": "scholarship-hunter",
+  "name": "Scholarship Hunter",
+  "grokShareUrl": "https://x.ai/bot/HlrjSGUR11BY978c1GpzC",
+  "botId": "HlrjSGUR11BY978c1GpzC",
+  "creator": {
+    "handle": "WorkWithJodi",
+    "url": "https://x.com/WorkWithJodi"
+  },
+  "sourceUrl": "https://x.com/WorkWithJodi/status/2100709849864499389",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scholarship-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scholarship Hunter by Jodi",
+    "description": "Finds, researches, and helps apply for scholarships for your student — from big state awards to small niche ones. Builds ranked shortlists, drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "personal",
+    "saving-money",
+    "research",
+    "learning",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scholarship-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

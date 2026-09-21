@@ -1,0 +1,43 @@
+{
+  "slug": "legend-lead-ops",
+  "name": "Legend Lead Ops",
+  "grokShareUrl": "https://x.ai/bot/WCZjv-qHMtHz2AdQW136q",
+  "botId": "WCZjv-qHMtHz2AdQW136q",
+  "creator": {
+    "handle": "legendRoofingCo",
+    "url": "https://x.com/legendRoofingCo"
+  },
+  "sourceUrl": "https://x.com/legendRoofingCo/status/2101471064857378821",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/legend-lead-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Legend Lead Ops by Legend",
+    "description": "Owns roofing lead intake: qualify inquiries, draft English SMS and email follow-ups, and prep Quick Quote handoffs — with public NAP and founder-privacy...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "support",
+    "email",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/legend-lead-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

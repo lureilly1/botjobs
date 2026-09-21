@@ -1,0 +1,41 @@
+{
+  "slug": "ground-control",
+  "name": "GROUND CONTROL",
+  "grokShareUrl": "https://x.ai/bot/fBaHx06vVseLELg2vPOE6",
+  "botId": "fBaHx06vVseLELg2vPOE6",
+  "creator": {
+    "handle": "isightdr",
+    "url": "https://x.com/isightdr"
+  },
+  "sourceUrl": "https://x.com/isightdr/status/2100998210789491027",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ground-control/"
+  },
+  "description": null,
+  "official": {
+    "title": "GROUND CONTROL by Steven",
+    "description": "Local RF / Wi‑Fi telemetry analyst. Reads scans you paste or run live, keeps every claim labeled, and never invents occupancy or distance from signal...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "research",
+    "analytics",
+    "data"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ground-control/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

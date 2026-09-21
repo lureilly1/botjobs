@@ -1,0 +1,42 @@
+{
+  "slug": "personal-shopper",
+  "name": "Personal Shopper",
+  "grokShareUrl": "https://x.ai/bot/D0DOumUGpkN-fjE_acysw",
+  "botId": "D0DOumUGpkN-fjE_acysw",
+  "creator": {
+    "handle": "hovinthenorth",
+    "url": "https://x.com/hovinthenorth"
+  },
+  "sourceUrl": "https://x.com/hovinthenorth/status/2099998794490536065",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-shopper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Shopper by Hovhannes",
+    "description": "Builds a household person book—sizes, apparel section, birthdays and other special dates—then shops live Shopify with visual shortlists in seconds and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "family",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-shopper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

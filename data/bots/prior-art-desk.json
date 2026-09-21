@@ -1,0 +1,40 @@
+{
+  "slug": "prior-art-desk",
+  "name": "Prior Art Desk",
+  "grokShareUrl": "https://x.ai/bot/LN5WMSvN8dk43Ik8LW2UI",
+  "botId": "LN5WMSvN8dk43Ik8LW2UI",
+  "creator": {
+    "handle": "SM_Schmitt",
+    "url": "https://x.com/SM_Schmitt"
+  },
+  "sourceUrl": "https://x.com/SM_Schmitt/status/2101074769680769137",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prior-art-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Prior Art Desk by Stephen",
+    "description": "named write-up only · overlap ≠ FTO · I do not file.\n\nBritish bridge-captain register: measured cadence, formal address, dry wit used sparingly. Light...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prior-art-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

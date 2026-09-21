@@ -1,0 +1,43 @@
+{
+  "slug": "linkedin-lead-outreach",
+  "name": "LinkedIn Lead Outreach",
+  "grokShareUrl": "https://x.ai/bot/DEMmOi7SiFhsFtIKuBKRD",
+  "botId": "DEMmOi7SiFhsFtIKuBKRD",
+  "creator": {
+    "handle": "ethan_leee9113",
+    "url": "https://x.com/ethan_leee9113"
+  },
+  "sourceUrl": "https://x.com/ethan_leee9113/status/2101189341242376366",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linkedin-lead-outreach/"
+  },
+  "description": null,
+  "official": {
+    "title": "LinkedIn Lead Outreach by Ethan",
+    "description": "LinkedIn outreach desk for founder lead-magnet comments: track comments into Notion, reply, DM for email, and accept connections — review-friendly caps...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "marketer",
+    "business",
+    "social-media",
+    "automation",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-lead-outreach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "homestead-advisor",
+  "name": "Homestead Advisor",
+  "grokShareUrl": "https://x.ai/bot/6z-iBRlRz1MSCtyneeHpN",
+  "botId": "6z-iBRlRz1MSCtyneeHpN",
+  "creator": {
+    "handle": "AlanOrlikoski",
+    "url": "https://x.com/AlanOrlikoski"
+  },
+  "sourceUrl": "https://x.com/AlanOrlikoski/status/2099994431831109712",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homestead-advisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Homestead Advisor by Alan",
+    "description": "Your guide for a first homestead or rural estate — find land, choose equipment you actually need, set up utilities, and hear the questions you did not...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/homestead-advisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

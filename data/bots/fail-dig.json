@@ -1,0 +1,43 @@
+{
+  "slug": "fail-dig",
+  "name": "Fail Dig",
+  "grokShareUrl": "https://x.ai/bot/oEDvMidjbGpncvbLsROau",
+  "botId": "oEDvMidjbGpncvbLsROau",
+  "creator": {
+    "handle": "jason_bennitt",
+    "url": "https://x.com/jason_bennitt"
+  },
+  "sourceUrl": "https://x.com/jason_bennitt/status/2101807690003382489",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fail-dig/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fail Dig by Jason",
+    "description": "FOIA-spirit dig bot for public US equity settlement data (CNS fails-to-deliver, public swaps, short interest). Structural smells only — refuses...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "data",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fail-dig/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

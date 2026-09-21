@@ -1,0 +1,43 @@
+{
+  "slug": "ticket-snagger",
+  "name": "Ticket Snagger",
+  "grokShareUrl": "https://x.ai/bot/bCTwk5eUxHCELHWOko_sM",
+  "botId": "bCTwk5eUxHCELHWOko_sM",
+  "creator": {
+    "handle": "WorkWithJodi",
+    "url": "https://x.com/WorkWithJodi"
+  },
+  "sourceUrl": "https://x.com/WorkWithJodi/status/2101112584648929309",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ticket-snagger/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ticket Snagger by Jodi",
+    "description": "Snags tickets, books tables, and locks appointments. Compares options, watches prices, and never buys until you say go.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "events",
+    "automation",
+    "monitoring",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ticket-snagger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

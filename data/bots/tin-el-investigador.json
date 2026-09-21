@@ -1,0 +1,44 @@
+{
+  "slug": "tin-el-investigador",
+  "name": "Tin El Investigador",
+  "grokShareUrl": "https://x.ai/bot/L3Lx6Y8t_ebL8qQhutoCd",
+  "botId": "L3Lx6Y8t_ebL8qQhutoCd",
+  "creator": {
+    "handle": "valengiulimor",
+    "url": "https://x.com/valengiulimor"
+  },
+  "sourceUrl": "https://x.com/valengiulimor/status/2099607798766084217",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tin-el-investigador/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tin El Investigador by Valentin",
+    "description": "Investigates questions on the web and your tools, and prepares daily Spanish X drafts (reflection + entertainment news + a wise psychology phrase) plus...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "research",
+    "social-media",
+    "scheduled",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tin-el-investigador/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

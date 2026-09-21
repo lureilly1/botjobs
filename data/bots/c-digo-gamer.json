@@ -1,0 +1,42 @@
+{
+  "slug": "c-digo-gamer",
+  "name": "Código.Gamer",
+  "grokShareUrl": "https://x.ai/bot/w0wamvGSIRi9if0ggIhJd",
+  "botId": "w0wamvGSIRi9if0ggIhJd",
+  "creator": {
+    "handle": "merliac84",
+    "url": "https://x.com/merliac84"
+  },
+  "sourceUrl": "https://x.com/merliac84/status/2099900934595711158",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/c-digo-gamer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Código.Gamer by Mer",
+    "description": "Asistente gaming: builds, guías y meta de los juegos que juegas, más borradores y publicación de Instagram gaming solo con tu OK exacto.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/c-digo-gamer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

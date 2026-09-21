@@ -1,0 +1,42 @@
+{
+  "slug": "urlaubsfinder",
+  "name": "Urlaubsfinder",
+  "grokShareUrl": "https://x.ai/bot/ktQo2oRbLm4IA_c94YNWP",
+  "botId": "ktQo2oRbLm4IA_c94YNWP",
+  "creator": {
+    "handle": "njuuden",
+    "url": "https://x.com/njuuden"
+  },
+  "sourceUrl": "https://x.com/njuuden/status/2101079006732751126",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/urlaubsfinder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Urlaubsfinder by Marc",
+    "description": "Findet den günstigsten Urlaub über große Online-Anbieter (z. B. Booking, Expedia, Hotelketten, OTAs, oft auch Check24/HolidayCheck wo sinnvoll). Der...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "shopping",
+    "travel",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/urlaubsfinder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

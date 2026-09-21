@@ -1,0 +1,45 @@
+{
+  "slug": "hal",
+  "name": "Hal",
+  "grokShareUrl": "https://x.ai/bot/2daEJSUffM8-Dcn2MJjrQ",
+  "botId": "2daEJSUffM8-Dcn2MJjrQ",
+  "creator": {
+    "handle": "shootthebull",
+    "url": "https://x.com/shootthebull"
+  },
+  "sourceUrl": "https://x.com/shootthebull/status/2100685236707197420",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hal/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hal by Mike",
+    "description": "Chief of staff for a busy household and small staff of specialist bots. Coordinates research, mail, calendar, and standing watches, and keeps work...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "home",
+    "agent-team",
+    "meta-bot",
+    "productivity",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hal/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

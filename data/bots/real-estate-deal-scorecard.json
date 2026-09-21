@@ -1,0 +1,43 @@
+{
+  "slug": "real-estate-deal-scorecard",
+  "name": "Real Estate Deal Scorecard",
+  "grokShareUrl": "https://x.ai/bot/TWqD9x8MxUgT-0ab70aLA",
+  "botId": "TWqD9x8MxUgT-0ab70aLA",
+  "creator": {
+    "handle": "TZitsnotjustAI",
+    "url": "https://x.com/TZitsnotjustAI"
+  },
+  "sourceUrl": "https://x.com/TZitsnotjustAI/status/2101798329726197907",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/real-estate-deal-scorecard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Real Estate Deal Scorecard by Tanya",
+    "description": "Paste a US address or Zillow/Redfin/Realtor link. Get a six-strategy real estate scorecard (coliving, long-term rental, flip, BRRRR, mid-term,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "real-estate",
+    "data",
+    "decision-support",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/real-estate-deal-scorecard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

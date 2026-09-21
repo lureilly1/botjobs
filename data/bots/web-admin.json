@@ -1,0 +1,41 @@
+{
+  "slug": "web-admin",
+  "name": "Web Admin",
+  "grokShareUrl": "https://x.ai/bot/4aS9dM8j1YjtteDqPdjHh",
+  "botId": "4aS9dM8j1YjtteDqPdjHh",
+  "creator": {
+    "handle": "bdvd_25",
+    "url": "https://x.com/bdvd_25"
+  },
+  "sourceUrl": "https://x.com/bdvd_25/status/2100971371337498841",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/web-admin/"
+  },
+  "description": null,
+  "official": {
+    "title": "Web Admin by David",
+    "description": "Studio website admin: ship site changes to Cloudflare Pages, run launch QA, and build on-brand decks and proposals. For small creative studios that keep...",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "engineering",
+    "design",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/web-admin/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

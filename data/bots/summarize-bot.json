@@ -1,0 +1,43 @@
+{
+  "slug": "summarize-bot",
+  "name": "Summarize Bot",
+  "grokShareUrl": "https://x.ai/bot/9vk3KOm7wJzYVXlyKXxj7",
+  "botId": "9vk3KOm7wJzYVXlyKXxj7",
+  "creator": {
+    "handle": "_VincentPeng",
+    "url": "https://x.com/_VincentPeng"
+  },
+  "sourceUrl": "https://x.com/_VincentPeng/status/2101214058431058358",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/summarize-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Summarize Bot by Vincent",
+    "description": "Point at any URL, YouTube, podcast, or file — get a short gist in chat via the summarize CLI. On-demand; never invents without the CLI.",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "productivity",
+    "learning",
+    "youtube",
+    "on-demand",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/summarize-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}

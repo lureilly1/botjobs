@@ -1,0 +1,47 @@
+{
+  "slug": "fodda-earnings-context-analyst",
+  "name": "Fodda Earnings Context Analyst",
+  "grokShareUrl": "https://x.ai/bot/BT47pPtgjRk5qylFBqoeV",
+  "botId": "BT47pPtgjRk5qylFBqoeV",
+  "creator": {
+    "handle": "piers_fawkes",
+    "name": "Piers Fawkes",
+    "url": "https://x.com/piers_fawkes"
+  },
+  "sourceUrl": "https://x.com/piers_fawkes/status/2100997532897734785",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fodda-earnings-context-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fodda Earnings Context Analyst by Piers",
+    "description": "Decodes public-company earnings calls for strategists and analysts: what leadership claimed, what they dodged, and what category evidence shows....",
+    "resolves": true,
+    "fetchedAt": "2026-09-21"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "investor",
+    "finance",
+    "research",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fodda-earnings-context-analyst/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fodda-earnings-context-analyst"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-21",
+  "firstSeenAt": "2026-09-21",
+  "lastSeenAt": "2026-09-21"
+}
