@@ -1,0 +1,42 @@
+{
+  "slug": "chargeright-panel-coach",
+  "name": "ChargeRight Panel Coach",
+  "grokShareUrl": "https://x.ai/bot/s9EKFwbfQkmKK9jL44YoP",
+  "botId": "s9EKFwbfQkmKK9jL44YoP",
+  "creator": {
+    "handle": "EV_ChargeRight",
+    "url": "https://x.com/EV_ChargeRight"
+  },
+  "sourceUrl": "https://x.com/EV_ChargeRight/status/2102533729725927538",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chargeright-panel-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "ChargeRight Panel Coach",
+    "description": "ChargeRight’s educational panel coach: NEC Article 220 pre-check for Level 2 EV chargers. Locked facts from the audited product — $49.99 web,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chargeright-panel-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

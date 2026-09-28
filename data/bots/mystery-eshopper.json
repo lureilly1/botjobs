@@ -1,0 +1,43 @@
+{
+  "slug": "mystery-eshopper",
+  "name": "Mystery eShopper",
+  "grokShareUrl": "https://x.ai/bot/tc-aGvnjjvatdp_8LK-Ad",
+  "botId": "tc-aGvnjjvatdp_8LK-Ad",
+  "creator": {
+    "handle": "VicGellon",
+    "url": "https://x.com/VicGellon"
+  },
+  "sourceUrl": "https://x.com/VicGellon/status/2104124777850081574",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mystery-eshopper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mystery eShopper by Vic",
+    "description": "Mystery-shops any ecommerce site like a real customer, walking every page and journey end to end, and returns a quality scorecard where every metric is...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "support",
+    "design",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mystery-eshopper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hiring-screener",
+  "name": "Hiring Screener",
+  "grokShareUrl": "https://x.ai/bot/scfddc8ad204a669484d0",
+  "botId": "scfddc8ad204a669484d0",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hiring-screener/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hiring Screener by SpaceX",
+    "description": "Interview the strong ones, not the whole pile. Scores applications or work samples against a defined bar and hands off an ATS-ready review.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "recruiting",
+    "productivity",
+    "automation",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hiring-screener/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

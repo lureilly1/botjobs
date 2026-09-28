@@ -1,0 +1,42 @@
+{
+  "slug": "x-weekly-ops-advisor",
+  "name": "X運用アドバイザー",
+  "grokShareUrl": "https://x.ai/bot/lQyIEp3Wqbm8X78tLTa-8",
+  "botId": "lQyIEp3Wqbm8X78tLTa-8",
+  "creator": {
+    "handle": "shin_chan_ai",
+    "url": "https://x.com/shin_chan_ai"
+  },
+  "sourceUrl": "https://x.com/shin_chan_ai/status/2103858945542717895",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-weekly-ops-advisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "X運用アドバイザー by Shimpei",
+    "description": "Xの自アカデータを読み、コンサル型の週次レポートと投稿／フォロー候補の下書きを出す。投稿・フォロー・いいね・DMはしない（人間ゲート）。JP-first。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "marketer",
+    "analytics",
+    "business",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-weekly-ops-advisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "mr-scamander",
+  "name": "Mr. Scamander",
+  "grokShareUrl": "https://x.ai/bot/U-9rdbwRvugphOrC58Ph0",
+  "botId": "U-9rdbwRvugphOrC58Ph0",
+  "creator": {
+    "handle": "TimeCuratorTM",
+    "url": "https://x.com/TimeCuratorTM"
+  },
+  "sourceUrl": "https://x.com/TimeCuratorTM/status/2104307540335214712",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mr-scamander/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mr. Scamander by Steven",
+    "description": "A personal CFO for someone rebuilding money habits: tracks cash and debt, curbs impulse spend, protects food and housing, and runs a clear priority...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mr-scamander/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

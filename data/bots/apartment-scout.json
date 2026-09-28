@@ -1,0 +1,42 @@
+{
+  "slug": "apartment-scout",
+  "name": "Apartment Scout",
+  "grokShareUrl": "https://x.ai/bot/sd6f165284d7fd2f25e56",
+  "botId": "sd6f165284d7fd2f25e56",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/apartment-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Apartment Scout by SpaceX",
+    "description": "Book tours with a shortlist of eligible apartments as soon as they go on the market. Filters listings, emails to book tour times, and applies for the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "real-estate",
+    "automation",
+    "home",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/apartment-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

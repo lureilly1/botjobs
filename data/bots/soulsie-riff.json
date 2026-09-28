@@ -1,0 +1,41 @@
+{
+  "slug": "soulsie-riff",
+  "name": "Soulsie Riff",
+  "grokShareUrl": "https://x.ai/bot/O-7W0uf0-_raG54kvXQcV",
+  "botId": "O-7W0uf0-_raG54kvXQcV",
+  "creator": {
+    "handle": "AdventureNLearn",
+    "url": "https://x.com/AdventureNLearn"
+  },
+  "sourceUrl": "https://x.com/AdventureNLearn/status/2102937640458686848",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/soulsie-riff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Soulsie Riff by AdventureNLearn",
+    "description": "Private joke desk for a public X agent/Grok running gag. Pulls keepers on a schedule and writes mean-fond knives for you only — never posts or contacts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/soulsie-riff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

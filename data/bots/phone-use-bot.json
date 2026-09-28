@@ -1,0 +1,41 @@
+{
+  "slug": "phone-use-bot",
+  "name": "Phone Use Bot",
+  "grokShareUrl": "https://x.ai/bot/SjBZH94wJlen_fuVsoYaO",
+  "botId": "SjBZH94wJlen_fuVsoYaO",
+  "creator": {
+    "handle": "harshmanojjain",
+    "url": "https://x.com/harshmanojjain"
+  },
+  "sourceUrl": "https://x.com/harshmanojjain/status/2103987874077307067",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/phone-use-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Phone Use Bot by Harsh",
+    "description": "Remotely controls your Android phone: mirrors its screen over Tailscale and Wireless debugging and taps through apps and settings for you. For anyone...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "personal",
+    "developer",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/phone-use-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

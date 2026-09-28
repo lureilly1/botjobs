@@ -1,0 +1,42 @@
+{
+  "slug": "marketing-calendar-owner",
+  "name": "Marketing Calendar Owner",
+  "grokShareUrl": "https://x.ai/bot/se318a72a31fad75c277e",
+  "botId": "se318a72a31fad75c277e",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/marketing-calendar-owner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Marketing Calendar Owner by SpaceX",
+    "description": "Keep regional and global content, launch, and events calendars in sync. Pulls from Notion and keeps webinars and campaigns current without a weekly chase.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "calendar",
+    "content",
+    "events",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/marketing-calendar-owner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

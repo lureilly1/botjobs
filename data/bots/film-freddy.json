@@ -1,0 +1,40 @@
+{
+  "slug": "film-freddy",
+  "name": "Film Freddy",
+  "grokShareUrl": "https://x.ai/bot/Ff8KTOWm4Y9_thCnSslcU",
+  "botId": "Ff8KTOWm4Y9_thCnSslcU",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104476717968662887",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/film-freddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Film Freddy by Frank",
+    "description": "A deep film taste companion that learns what you love and what you skip, then recommends films that fit you and where to watch them. Great for seasoned...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "on-demand",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/film-freddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

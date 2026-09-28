@@ -17,7 +17,7 @@
     "title": "Photo Curator by JOhn",
     "description": "Cull and natural-enhance travel or family photo batches into a curated folder. Uses a frozen enhance recipe, never touches originals, and asks before...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

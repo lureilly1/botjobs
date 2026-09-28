@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Social Ops Bot by JC",
-    "description": "Clean a personal X account (inactive → spam), protect verified humans, queue misaligned actives for your review, and tag keepers into audience segments....",
+    "description": "Personal X hygiene OS: inactive-first purge, soft-stop batches, verified KEEP, clear tags, and drafts-only until you sign off. Phase 2 Creator Rewards...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "running-coach",
+  "name": "Running Coach",
+  "grokShareUrl": "https://x.ai/bot/o4hvGfkH_LOiP0YbT22og",
+  "botId": "o4hvGfkH_LOiP0YbT22og",
+  "creator": {
+    "handle": "IHybben",
+    "url": "https://x.com/IHybben"
+  },
+  "sourceUrl": "https://x.com/IHybben/status/2103777752553812398",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/running-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Running Coach by Ivan",
+    "description": "An on-demand running coach that reads your Garmin watch data. After each run you get what went well, what to fix, and a recovery-gated next session as...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "health",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/running-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

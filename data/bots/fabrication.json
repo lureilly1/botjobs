@@ -1,0 +1,41 @@
+{
+  "slug": "fabrication",
+  "name": "Fabrication",
+  "grokShareUrl": "https://x.ai/bot/jQ4VpRUAOS4awmiDlwI6n",
+  "botId": "jQ4VpRUAOS4awmiDlwI6n",
+  "creator": {
+    "handle": "JonathanSayle",
+    "url": "https://x.com/JonathanSayle"
+  },
+  "sourceUrl": "https://x.com/JonathanSayle/status/2104319092937441736",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fabrication/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fabrication by ∆v",
+    "description": "Takes your parts from CAD design to a finished 3D print. It checks fit, flat bed faces and hole sizes, shows previews, and hands you a ready-to-slice...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "engineering",
+    "design",
+    "developer",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fabrication/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

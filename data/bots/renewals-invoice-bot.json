@@ -17,7 +17,7 @@
     "title": "Renewals Invoice Bot by Neessam",
     "description": "Clears renewals and invoice reminders on its own computer within a hard weekly spend ceiling. Pays only approved-list items and escalates new spend or...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

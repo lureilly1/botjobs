@@ -1,0 +1,41 @@
+{
+  "slug": "fantasy-football-gm",
+  "name": "Fantasy Football GM",
+  "grokShareUrl": "https://x.ai/bot/HvJZI9Kj-DIyFEk309CdD",
+  "botId": "HvJZI9Kj-DIyFEk309CdD",
+  "creator": {
+    "handle": "mattkim1",
+    "url": "https://x.com/mattkim1"
+  },
+  "sourceUrl": "https://x.com/mattkim1/status/2104432967565312018",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-gm/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Football GM by Matt",
+    "description": "Fantasy Football GM with a Wire/Usage/Market/Desk staff pipeline for start/sit, waivers, trades, and injury flags in your scoring. Never submits without...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football-gm/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

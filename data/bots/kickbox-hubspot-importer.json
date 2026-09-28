@@ -1,0 +1,44 @@
+{
+  "slug": "kickbox-hubspot-importer",
+  "name": "Kickbox → HubSpot Importer",
+  "grokShareUrl": "https://x.ai/bot/PRc9UmcxySAv0UBU4g8fx",
+  "botId": "PRc9UmcxySAv0UBU4g8fx",
+  "creator": {
+    "handle": "pofabro",
+    "url": "https://x.com/pofabro"
+  },
+  "sourceUrl": "https://x.com/pofabro/status/2102344924331159835",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kickbox-hubspot-importer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kickbox → HubSpot Importer by @pofabro",
+    "description": "Runs Kickbox email hygiene on contacts from a Google Sheet or HubSpot view, then imports Deliverable results back into HubSpot as updates to existing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "email",
+    "data",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kickbox-hubspot-importer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

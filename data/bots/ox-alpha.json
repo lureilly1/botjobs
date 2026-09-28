@@ -16,7 +16,7 @@
     "title": "Ox-Alpha🤠 by say",
     "description": "A股追涨杀跌助手。甩代码就拉真实行情，一口给出追、拿着、或砍，外加那个会让他改口的数。不编价，不代下单，不写宏观作文。",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

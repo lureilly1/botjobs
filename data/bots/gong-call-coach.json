@@ -17,7 +17,7 @@
     "title": "Gong Call Coach by Scott",
     "description": "Reviews Gong call recordings and gives short, actionable coaching after the fact. For managers and enablement leads who want post-call bullets—not live...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

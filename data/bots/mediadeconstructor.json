@@ -1,0 +1,42 @@
+{
+  "slug": "mediadeconstructor",
+  "name": "MediaDeconstructor",
+  "grokShareUrl": "https://x.ai/bot/R426aIhME68m8-MOd_zPd",
+  "botId": "R426aIhME68m8-MOd_zPd",
+  "creator": {
+    "handle": "nw_great",
+    "url": "https://x.com/nw_great"
+  },
+  "sourceUrl": "https://x.com/nw_great/status/2102787986496930250",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mediadeconstructor/"
+  },
+  "description": null,
+  "official": {
+    "title": "MediaDeconstructor by Decibel",
+    "description": "Quiet No Agenda–method media deconstructor for contest/share. Drop a URL, X post, clip, or transcript — get stamp, formula, Producer+Critic, shownotes,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mediadeconstructor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

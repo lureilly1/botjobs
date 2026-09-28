@@ -17,7 +17,7 @@
     "title": "hire-bot by stephoshi",
     "description": "Hiring assistant for ATS, LinkedIn, and offer letters. Pulls candidate context from threads and email, drafts contractor agreements or offers, and never...",
     "resolves": true,
-    "fetchedAt": "2026-09-07"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-07",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

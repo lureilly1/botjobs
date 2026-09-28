@@ -1,0 +1,42 @@
+{
+  "slug": "weather-scout",
+  "name": "Weather Scout",
+  "grokShareUrl": "https://x.ai/bot/GjZZ7Sg2IPua8MLlDs1hc",
+  "botId": "GjZZ7Sg2IPua8MLlDs1hc",
+  "creator": {
+    "handle": "AdeptusMec71933",
+    "url": "https://x.com/AdeptusMec71933"
+  },
+  "sourceUrl": "https://x.com/AdeptusMec71933/status/2104102012602433803",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weather-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weather Scout by Javier",
+    "description": "Scores the next 72 hours of launch-commit weather for Vandenberg, Cape Canaveral, and Starbase (or one pad you name). Public NWS and model guidance only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weather-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

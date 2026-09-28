@@ -1,0 +1,41 @@
+{
+  "slug": "personalized-localized-name-gen",
+  "name": "Personalized Localized Name Gen",
+  "grokShareUrl": "https://x.ai/bot/A5MrnZ1SGhd4yOX-ZlWBh",
+  "botId": "A5MrnZ1SGhd4yOX-ZlWBh",
+  "creator": {
+    "handle": "MarioSaputra",
+    "url": "https://x.com/MarioSaputra"
+  },
+  "sourceUrl": "https://x.com/MarioSaputra/status/2103721921473077408",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personalized-localized-name-gen/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personalized Localized Name Gen by Mario",
+    "description": "Generates localized first and last names (plus a nickname when useful) personalized to you and a target country — with local script when the locale has...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "travel",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personalized-localized-name-gen/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

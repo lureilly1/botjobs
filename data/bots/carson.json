@@ -1,0 +1,42 @@
+{
+  "slug": "carson",
+  "name": "Carson",
+  "grokShareUrl": "https://x.ai/bot/v-anNtCSU16DhOT6XDOpn",
+  "botId": "v-anNtCSU16DhOT6XDOpn",
+  "creator": {
+    "handle": "aarwen7",
+    "url": "https://x.com/aarwen7"
+  },
+  "sourceUrl": "https://x.com/aarwen7/status/2102541925110923386",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/carson/"
+  },
+  "description": null,
+  "official": {
+    "title": "Carson",
+    "description": "Stands up your downstairs crew — bots that help run your life so you don’t disappear into the week. Keep the defaults, drop one, or add another. They...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/carson/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

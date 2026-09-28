@@ -1,0 +1,42 @@
+{
+  "slug": "playtest-operator",
+  "name": "Playtest Operator",
+  "grokShareUrl": "https://x.ai/bot/s2cfcbb8a38b8e22b7d18",
+  "botId": "s2cfcbb8a38b8e22b7d18",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/playtest-operator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Playtest Operator by SpaceX",
+    "description": "Brute-force test the product path when APIs aren't enough. Drives the UI on a computer, captures failures, and returns a tight findings pack.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/playtest-operator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

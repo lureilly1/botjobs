@@ -1,0 +1,42 @@
+{
+  "slug": "deck-updater",
+  "name": "Deck Updater",
+  "grokShareUrl": "https://x.ai/bot/s2a289081613e5e361c79",
+  "botId": "s2a289081613e5e361c79",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deck-updater/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deck Updater by SpaceX",
+    "description": "Leave the room with the slide already moving. Updates your deck from discovery notes mid-call or right after, with next steps baked in.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "design",
+    "productivity",
+    "meetings",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deck-updater/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

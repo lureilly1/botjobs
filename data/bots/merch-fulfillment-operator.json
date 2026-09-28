@@ -1,0 +1,42 @@
+{
+  "slug": "merch-fulfillment-operator",
+  "name": "Merch Fulfillment Operator",
+  "grokShareUrl": "https://x.ai/bot/se479952f3c9e373dfd64",
+  "botId": "se479952f3c9e373dfd64",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/merch-fulfillment-operator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Merch Fulfillment Operator by SpaceX",
+    "description": "Send merch to the right prospects. Runs outreach, watches the redemption form, pings you to approve/reject submission in chat, and sends your swag...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "growth",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/merch-fulfillment-operator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

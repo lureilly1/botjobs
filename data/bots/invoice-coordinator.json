@@ -1,0 +1,42 @@
+{
+  "slug": "invoice-coordinator",
+  "name": "Invoice Coordinator",
+  "grokShareUrl": "https://x.ai/bot/s072bae9387b9fc03cac8",
+  "botId": "s072bae9387b9fc03cac8",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/invoice-coordinator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Invoice Coordinator by SpaceX",
+    "description": "Stop invoices from sitting. Forwards invoices, matches what it can, tracks campus or vendor actuals, and nudges the right owner when something needs a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "finance",
+    "back-office",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/invoice-coordinator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

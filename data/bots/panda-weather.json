@@ -1,0 +1,41 @@
+{
+  "slug": "panda-weather",
+  "name": "Panda 🐼 Weather 🌤️",
+  "grokShareUrl": "https://x.ai/bot/4jHyb0PgYowhVfxkpjv5e",
+  "botId": "4jHyb0PgYowhVfxkpjv5e",
+  "creator": {
+    "handle": "TitaniumTomP",
+    "url": "https://x.com/TitaniumTomP"
+  },
+  "sourceUrl": "https://x.com/TitaniumTomP/status/2104335144953790837",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/panda-weather/"
+  },
+  "description": null,
+  "official": {
+    "title": "Panda 🐼 Weather 🌤️ by Tom",
+    "description": "Give it a US zip code, a city, or a postal code anywhere in the world and get a detailed 48-hour forecast in 4-hour blocks plus an animated radar map....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "on-demand",
+    "monitoring",
+    "travel"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/panda-weather/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

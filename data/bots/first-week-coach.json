@@ -1,0 +1,41 @@
+{
+  "slug": "first-week-coach",
+  "name": "First-Week Coach",
+  "grokShareUrl": "https://x.ai/bot/kOQ7mWg9DLWq2-UpGKf67",
+  "botId": "kOQ7mWg9DLWq2-UpGKf67",
+  "creator": {
+    "handle": "MichaelGannotti",
+    "url": "https://x.com/MichaelGannotti"
+  },
+  "sourceUrl": "https://x.com/MichaelGannotti/status/2103927818216411541",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/first-week-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "First-Week Coach by Michael",
+    "description": "New to Grok Bot? A 10-minute daily lesson for 7 days. I learn your work, pick 3 bots worth adding, teach routines, approvals, and safe connections, then...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "learning",
+    "productivity",
+    "meta-bot",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/first-week-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

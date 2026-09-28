@@ -1,0 +1,43 @@
+{
+  "slug": "routines",
+  "name": "Routines",
+  "grokShareUrl": "https://x.ai/bot/tes3TMV3WjinLazIM9N_n",
+  "botId": "tes3TMV3WjinLazIM9N_n",
+  "creator": {
+    "handle": "compileinstyle",
+    "url": "https://x.com/compileinstyle"
+  },
+  "sourceUrl": "https://x.com/compileinstyle/status/2102505725725454398",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/routines/"
+  },
+  "description": null,
+  "official": {
+    "title": "Routines by Neessam",
+    "description": "Owns standing cron routines so your chief-of-staff chat stays cheap. Business-day quiet gates, a cheap heartbeat, and optional usage-pulse wakes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "automation",
+    "productivity",
+    "saving-money",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/routines/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

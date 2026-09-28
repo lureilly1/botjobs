@@ -1,0 +1,43 @@
+{
+  "slug": "chief-of-staff-2",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/dZfz-QuarMKqQo_mdPhbb",
+  "botId": "dZfz-QuarMKqQo_mdPhbb",
+  "creator": {
+    "handle": "RoggyRyan",
+    "url": "https://x.com/RoggyRyan"
+  },
+  "sourceUrl": "https://x.com/RoggyRyan/status/2102183469467975727",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Ryan",
+    "description": "Single front door for a construction PM or superintendent shop. Reads mail and calendar, delegates to specialist desks, and never sends or buys without...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "email",
+    "calendar",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "staging-qa-tester",
+  "name": "Staging QA Tester",
+  "grokShareUrl": "https://x.ai/bot/PJogrsWFV5ePKHLKwMMlQ",
+  "botId": "PJogrsWFV5ePKHLKwMMlQ",
+  "creator": {
+    "handle": "njivy",
+    "url": "https://x.com/njivy"
+  },
+  "sourceUrl": "https://x.com/njivy/status/2103635667683311946",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/staging-qa-tester/"
+  },
+  "description": null,
+  "official": {
+    "title": "Staging QA Tester by Nic",
+    "description": "A careful QA tester for any web app's staging site. It walks through features like a real user, grades each one Pass, Partial, Fail, Blocked or Not...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/staging-qa-tester/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

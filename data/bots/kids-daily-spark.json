@@ -1,0 +1,41 @@
+{
+  "slug": "kids-daily-spark",
+  "name": "Kids Daily Spark",
+  "grokShareUrl": "https://x.ai/bot/Lpl_fDQ5Jhj2sfoCWy1Hf",
+  "botId": "Lpl_fDQ5Jhj2sfoCWy1Hf",
+  "creator": {
+    "handle": "HelloBenL",
+    "url": "https://x.com/HelloBenL"
+  },
+  "sourceUrl": "https://x.com/HelloBenL/status/2103919493844263385",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kids-daily-spark/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kids Daily Spark by Ben",
+    "description": "Makes a sticky one-page STEM learning brief for each kid every day: real concept, memorable hook, 30-second try-it, soft hero art, and optional parent...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "learning",
+    "student",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kids-daily-spark/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

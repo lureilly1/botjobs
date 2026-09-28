@@ -1,0 +1,42 @@
+{
+  "slug": "ship-desk",
+  "name": "Ship Desk",
+  "grokShareUrl": "https://x.ai/bot/thMhD-rbJ0Osd274RGohH",
+  "botId": "thMhD-rbJ0Osd274RGohH",
+  "creator": {
+    "handle": "usgworld",
+    "url": "https://x.com/usgworld"
+  },
+  "sourceUrl": "https://x.com/usgworld/status/2103747605503041761",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ship-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ship Desk by Umashankar",
+    "description": "Ships any product with tip-locked staging→production promotes and keeps checkout fail-closed until you flip go. For founders who want live releases...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "automation",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ship-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

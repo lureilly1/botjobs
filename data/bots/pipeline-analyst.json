@@ -1,0 +1,42 @@
+{
+  "slug": "pipeline-analyst",
+  "name": "Pipeline Analyst",
+  "grokShareUrl": "https://x.ai/bot/s98af8b9dcde521e1a9fa",
+  "botId": "s98af8b9dcde521e1a9fa",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pipeline-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pipeline Analyst by SpaceX",
+    "description": "Walk into pipe with a clean view. Scrubs Salesforce + sheets, flags stalls and commit risk, and drops a Monday scoreboard.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "analytics",
+    "data",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pipeline-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

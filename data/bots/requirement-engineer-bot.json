@@ -1,0 +1,41 @@
+{
+  "slug": "requirement-engineer-bot",
+  "name": "Requirement Engineer Bot",
+  "grokShareUrl": "https://x.ai/bot/5KADFS8AIIDOlow5tS34Z",
+  "botId": "5KADFS8AIIDOlow5tS34Z",
+  "creator": {
+    "handle": "FishxCD",
+    "url": "https://x.com/FishxCD"
+  },
+  "sourceUrl": "https://x.com/FishxCD/status/2103810502510215640",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/requirement-engineer-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Requirement Engineer Bot by Fish",
+    "description": "Turns a project brief into a clear, structured requirements spec another bot can implement and verify. For product and engineering teams who want...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/requirement-engineer-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

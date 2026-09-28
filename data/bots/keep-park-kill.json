@@ -1,0 +1,41 @@
+{
+  "slug": "keep-park-kill",
+  "name": "Keep Park Kill",
+  "grokShareUrl": "https://x.ai/bot/LDAD3kSZHqkfpaLMi9dHZ",
+  "botId": "LDAD3kSZHqkfpaLMi9dHZ",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2104539270551908777",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/keep-park-kill/"
+  },
+  "description": null,
+  "official": {
+    "title": "Keep Park Kill by D'Artagnan",
+    "description": "Reads the launches, tools, and saved links you'd otherwise skim, scores each against your goals and a written bar, and sorts it Keep, Park, or Kill....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/keep-park-kill/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

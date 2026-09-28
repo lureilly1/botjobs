@@ -1,0 +1,41 @@
+{
+  "slug": "the-box-of-names",
+  "name": "The Box of Names",
+  "grokShareUrl": "https://x.ai/bot/M0ZZw7AT7MzGjvYe1jLBb",
+  "botId": "M0ZZw7AT7MzGjvYe1jLBb",
+  "creator": {
+    "handle": "BLDG_390",
+    "url": "https://x.com/BLDG_390"
+  },
+  "sourceUrl": "https://x.com/BLDG_390/status/2103987768196211108",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-box-of-names/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Box of Names by jack,",
+    "description": "An Atlas Obscura for names. Give it any word, place, god, or object and it traces how the name traveled across civilizations, tagging every link as real...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "learning",
+    "research",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-box-of-names/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

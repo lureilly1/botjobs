@@ -1,0 +1,41 @@
+{
+  "slug": "fleet-improver",
+  "name": "Fleet Improver",
+  "grokShareUrl": "https://x.ai/bot/i-AGTTurx7EvXBqJ4U5Rw",
+  "botId": "i-AGTTurx7EvXBqJ4U5Rw",
+  "creator": {
+    "handle": "rzubiran",
+    "url": "https://x.com/rzubiran"
+  },
+  "sourceUrl": "https://x.com/rzubiran/status/2104464936433008977",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fleet-improver/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fleet Improver by Rolando",
+    "description": "Fleet Improver audits your Grok Bot fleet every day, scores each bot on tokens per unit of useful output, and ships a scorecard with ranked instruction...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "automation",
+    "developer",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fleet-improver/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

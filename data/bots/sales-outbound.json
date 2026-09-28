@@ -1,0 +1,42 @@
+{
+  "slug": "sales-outbound",
+  "name": "Sales Outbound",
+  "grokShareUrl": "https://x.ai/bot/s8ff03023f140bab479f7",
+  "botId": "s8ff03023f140bab479f7",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sales-outbound/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sales Outbound by SpaceX",
+    "description": "Hand off research and outbound. Researches accounts overnight, scores contacts with intent, drafts email and LinkedIn in your voice, and leaves a review...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "growth",
+    "automation",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sales-outbound/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

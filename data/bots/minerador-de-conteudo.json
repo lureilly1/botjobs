@@ -17,7 +17,7 @@
     "title": "Minerador de conteúdo by Gabriel",
     "description": "Minera as notícias mais quentes de IA das últimas 24 horas na web, no X e no Instagram, ranqueia e entrega um briefing para um copywriter virar posts e...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [
@@ -40,7 +40,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

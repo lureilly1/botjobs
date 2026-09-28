@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Stellar Cartography by Wil",
-    "description": "PRT-checked graphic editor for space hardware and ocean vessels, with a built-in four-eyes drawing preflight QC gate before anything posts. For...",
+    "description": "Graphic editor for space hardware and ocean-going vessels. v3: A/B/C plate prompts with user gates, drafting kit, dual AIS, orbital honesty, step-gate +...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

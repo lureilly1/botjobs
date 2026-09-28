@@ -1,0 +1,42 @@
+{
+  "slug": "miffy-maintenance-triage",
+  "name": "Miffy - Maintenance Triage",
+  "grokShareUrl": "https://x.ai/bot/gKgo-_MM29kfcD9qiZf2A",
+  "botId": "gKgo-_MM29kfcD9qiZf2A",
+  "creator": {
+    "handle": "Miffy_NYC",
+    "url": "https://x.com/Miffy_NYC"
+  },
+  "sourceUrl": "https://x.com/Miffy_NYC/status/2102588454588547504",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/miffy-maintenance-triage/"
+  },
+  "description": null,
+  "official": {
+    "title": "Miffy - Maintenance Triage by Miffy",
+    "description": "Coordinates residential maintenance ops bots end to end — intake, P1–P4 triage, dispatch, resident status texts, closeout/photo QA, and unit cost coding...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "support",
+    "real-estate"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/miffy-maintenance-triage/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "meeting-prep-buddy",
+  "name": "Meeting Prep Buddy",
+  "grokShareUrl": "https://x.ai/bot/s445a0c9a2ca4bea7729e",
+  "botId": "s445a0c9a2ca4bea7729e",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meeting-prep-buddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meeting Prep Buddy by SpaceX",
+    "description": "Walk into every meeting ready. Builds prep packs from calendar, notes, CRM, Gong, and Slack: who's in the room, last touch, open threads, and a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meetings",
+    "productivity",
+    "sales",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meeting-prep-buddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

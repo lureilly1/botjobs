@@ -1,0 +1,42 @@
+{
+  "slug": "linkedin-campaign-manager",
+  "name": "LinkedIn Campaign Manager",
+  "grokShareUrl": "https://x.ai/bot/s4d10d16bdbe2391aa753",
+  "botId": "s4d10d16bdbe2391aa753",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linkedin-campaign-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "LinkedIn Campaign Manager by SpaceX",
+    "description": "Own lead-gen funnel consistency across ads, forms, follow-up, and UTMs. Drafts campaigns for approval and keeps every offer and handoff clean.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "social-media",
+    "growth",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-campaign-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

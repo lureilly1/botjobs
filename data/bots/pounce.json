@@ -1,0 +1,43 @@
+{
+  "slug": "pounce",
+  "name": "POUNCE",
+  "grokShareUrl": "https://x.ai/bot/7jLpLuCPbki8Q_nRrPN18",
+  "botId": "7jLpLuCPbki8Q_nRrPN18",
+  "creator": {
+    "handle": "teeRex247",
+    "url": "https://x.com/teeRex247"
+  },
+  "sourceUrl": "https://x.com/teeRex247/status/2104115575169376736",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pounce/"
+  },
+  "description": null,
+  "official": {
+    "title": "POUNCE by Thuong",
+    "description": "Finds open contests, grants, free credits, and hackathons from AI companies every day, verifies deadlines on the real page, and sends you only what's new.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "saving-money",
+    "monitoring",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pounce/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

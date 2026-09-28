@@ -1,0 +1,42 @@
+{
+  "slug": "apply-bot",
+  "name": "Apply Bot",
+  "grokShareUrl": "https://x.ai/bot/2GdkYgGlc91A6d6MPXCkZ",
+  "botId": "2GdkYgGlc91A6d6MPXCkZ",
+  "creator": {
+    "handle": "Kylebauer",
+    "url": "https://x.com/Kylebauer"
+  },
+  "sourceUrl": "https://x.com/Kylebauer/status/2103765740642083259",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/apply-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Apply Bot by Kyle",
+    "description": "Finds live JDs, remaps your proof onto each job’s scoring rubric, and applies at volume — with queue pacing so quality survives busy days. Quiet on...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "recruiting",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/apply-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

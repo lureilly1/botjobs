@@ -1,0 +1,42 @@
+{
+  "slug": "market-morning",
+  "name": "Market Morning",
+  "grokShareUrl": "https://x.ai/bot/-1jDLDwW_6HvtXCXwQF3V",
+  "botId": "-1jDLDwW_6HvtXCXwQF3V",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2104313789600665818",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/market-morning/"
+  },
+  "description": null,
+  "official": {
+    "title": "Market Morning by Joseph",
+    "description": "A pre-market brief and closing recap for your own watchlist: moves, earnings, filings, and catalysts, with sources. For self-directed investors who want...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "news",
+    "finance",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/market-morning/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

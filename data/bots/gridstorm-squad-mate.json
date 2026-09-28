@@ -1,0 +1,40 @@
+{
+  "slug": "gridstorm-squad-mate",
+  "name": "GRIDSTORM Squad Mate",
+  "grokShareUrl": "https://x.ai/bot/Jk_nEBTIuk7w4eVB-kH-4",
+  "botId": "Jk_nEBTIuk7w4eVB-kH-4",
+  "creator": {
+    "handle": "TheMattyFG",
+    "url": "https://x.com/TheMattyFG"
+  },
+  "sourceUrl": "https://x.com/TheMattyFG/status/2104267198407536878",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gridstorm-squad-mate/"
+  },
+  "description": null,
+  "official": {
+    "title": "GRIDSTORM Squad Mate by Matthew",
+    "description": "Wingman for GRIDSTORM at agentgridstorm.com. Zero npm — install, say fly or paste a session link, then the human opens the session and presses Launch...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gridstorm-squad-mate/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

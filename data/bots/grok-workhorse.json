@@ -1,0 +1,42 @@
+{
+  "slug": "grok-workhorse",
+  "name": "Grok Workhorse",
+  "grokShareUrl": "https://x.ai/bot/MTQNKdLtJX0pplFm8CRvO",
+  "botId": "MTQNKdLtJX0pplFm8CRvO",
+  "creator": {
+    "handle": "Mahmoudnia95",
+    "url": "https://x.com/Mahmoudnia95"
+  },
+  "sourceUrl": "https://x.com/Mahmoudnia95/status/2103931914918801592",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-workhorse/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Workhorse by ali",
+    "description": "A coding supervisor that hands bounded coding tasks to sandboxed coding agents (Kilo, OpenCode) on its own computer, then reviews the diff and test...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "agent-team",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-workhorse/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "calendar-liftoff",
+  "name": "Calendar Liftoff",
+  "grokShareUrl": "https://x.ai/bot/nJ7hHZsPczXvJIi0wv8c-",
+  "botId": "nJ7hHZsPczXvJIi0wv8c-",
+  "creator": {
+    "handle": "tdsfixer",
+    "url": "https://x.com/tdsfixer"
+  },
+  "sourceUrl": "https://x.com/tdsfixer/status/2103993998675448184",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/calendar-liftoff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Calendar Liftoff by Grokx",
+    "description": "Give it a theme, a subject, or a year, and it builds a print-ready 12x12 photo wall calendar PDF with a full-bleed photo and a clean date grid for every...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "content",
+    "family",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/calendar-liftoff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

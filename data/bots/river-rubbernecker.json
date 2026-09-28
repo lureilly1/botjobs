@@ -1,0 +1,41 @@
+{
+  "slug": "river-rubbernecker",
+  "name": "River Rubbernecker",
+  "grokShareUrl": "https://x.ai/bot/WmFSeUpqUmS9N_J4SmM-v",
+  "botId": "WmFSeUpqUmS9N_J4SmM-v",
+  "creator": {
+    "handle": "_jsolly",
+    "url": "https://x.com/_jsolly"
+  },
+  "sourceUrl": "https://x.com/_jsolly/status/2103630793696268631",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/river-rubbernecker/"
+  },
+  "description": null,
+  "official": {
+    "title": "River Rubbernecker by John",
+    "description": "A big-ship spotter for anyone who lives or works on a busy river or harbor. It watches live ship-tracking data and pings you when a big tanker,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "travel",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/river-rubbernecker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

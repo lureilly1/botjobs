@@ -1,0 +1,41 @@
+{
+  "slug": "markets-weekday-brief",
+  "name": "Markets Weekday Brief",
+  "grokShareUrl": "https://x.ai/bot/s495_rZYq6LpYVTuurgkr",
+  "botId": "s495_rZYq6LpYVTuurgkr",
+  "creator": {
+    "handle": "SpacedBraden",
+    "url": "https://x.com/SpacedBraden"
+  },
+  "sourceUrl": "https://x.com/SpacedBraden/status/2104500429606490258",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/markets-weekday-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Markets Weekday Brief by BRΛDΞN",
+    "description": "Weekday pulse on watched prediction markets — clean card each morning, green YES buy ideas you place yourself. Odds from public Polymarket/Kalshi APIs;...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/markets-weekday-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mono-lisa",
+  "name": "Mono Lisa",
+  "grokShareUrl": "https://x.ai/bot/1SnvqJd1RMwYsWdwh8kYI",
+  "botId": "1SnvqJd1RMwYsWdwh8kYI",
+  "creator": {
+    "handle": "felixleezd",
+    "url": "https://x.com/felixleezd"
+  },
+  "sourceUrl": "https://x.com/felixleezd/status/2102808184155246699",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mono-lisa/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mono Lisa by Felix",
+    "description": "Daily product design partner: turns an Amplitude cliff into a first-principles Linear ticket with an inline cliff chart plus three annotated Paper...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "analytics",
+    "design",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mono-lisa/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

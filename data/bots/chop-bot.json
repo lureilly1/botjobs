@@ -1,0 +1,44 @@
+{
+  "slug": "chop-bot",
+  "name": "Chop Bot",
+  "grokShareUrl": "https://x.ai/bot/3ITYjIFCSujYyq6rp5VAq",
+  "botId": "3ITYjIFCSujYyq6rp5VAq",
+  "creator": {
+    "handle": "CaliLumberJack",
+    "url": "https://x.com/CaliLumberJack"
+  },
+  "sourceUrl": "https://x.com/CaliLumberJack/status/2104076140528988469",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chop-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chop Bot by Calix",
+    "description": "Chop Bot v6 chops your inbox, calendar, and X replies down to what matters. One daily brief, follow-up nudges, and heads-ups on unanswered comments,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "email",
+    "automation",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chop-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

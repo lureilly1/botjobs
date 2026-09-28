@@ -14,10 +14,10 @@
   },
   "description": "Takes stock of the bots you have running in one app, bundles up their jobs, memories and recurring routines, and rebuilds the same set in another. For people relocating an established roster; with one or two simple bots, manual setup is probably quicker.",
   "official": {
-    "title": "Porter by Daryl",
+    "title": "Porter",
     "description": "Moves a Grok Bot roster from one app to another. Inventories every teammate, packs jobs, memories, and standing routines, then recreates them on the...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

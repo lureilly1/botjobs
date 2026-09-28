@@ -1,0 +1,43 @@
+{
+  "slug": "jev-router",
+  "name": "Jev router",
+  "grokShareUrl": "https://x.ai/bot/lS9XaHCr9QTTHhNtb0VQX",
+  "botId": "lS9XaHCr9QTTHhNtb0VQX",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2102057530813735162",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jev-router/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jev router by Colin",
+    "description": "A Jev-powered Grok Bot for fast, calibrated classification. Choice, Score, and yes/no judgements for routing, urgency, labels, and rubrics — before your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jev-router/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "mamboitalianobot",
+  "name": "MamboItalianoBot",
+  "grokShareUrl": "https://x.ai/bot/F0ZQruHL4AsmoLxWWLvUG",
+  "botId": "F0ZQruHL4AsmoLxWWLvUG",
+  "creator": {
+    "handle": "mamboitaliano__",
+    "url": "https://x.com/mamboitaliano__"
+  },
+  "sourceUrl": "https://x.com/mamboitaliano__/status/2103990336242761964",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mamboitalianobot/"
+  },
+  "description": null,
+  "official": {
+    "title": "MamboItalianoBot by Mambo",
+    "description": "Travel assistant: realistic itineraries, transport and lodging with pros/cons, checklists and plan B — without inventing hours or prices.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "personal",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mamboitalianobot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

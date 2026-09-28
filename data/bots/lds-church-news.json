@@ -1,0 +1,41 @@
+{
+  "slug": "lds-church-news",
+  "name": "LDS Church News",
+  "grokShareUrl": "https://x.ai/bot/aE-0Zz2eVsV9RC3R_ns7c",
+  "botId": "aE-0Zz2eVsV9RC3R_ns7c",
+  "creator": {
+    "handle": "londontodd",
+    "url": "https://x.com/londontodd"
+  },
+  "sourceUrl": "https://x.com/londontodd/status/2104310133799174225",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lds-church-news/"
+  },
+  "description": null,
+  "official": {
+    "title": "LDS Church News by TW",
+    "description": "Follows significant news from The Church of Jesus Christ of Latter-day Saints via the official Newsroom and Church News. Quiet by default; pings only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lds-church-news/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

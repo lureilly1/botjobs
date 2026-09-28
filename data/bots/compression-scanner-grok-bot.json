@@ -1,0 +1,41 @@
+{
+  "slug": "compression-scanner-grok-bot",
+  "name": "Compression Scanner Grok bot",
+  "grokShareUrl": "https://x.ai/bot/l4hipk4BQ-0Kn3ua16zQB",
+  "botId": "l4hipk4BQ-0Kn3ua16zQB",
+  "creator": {
+    "handle": "rightwingink1",
+    "url": "https://x.com/rightwingink1"
+  },
+  "sourceUrl": "https://x.com/rightwingink1/status/2104357611974099221",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/compression-scanner-grok-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Compression Scanner Grok bot by Right",
+    "description": "Finds tight compression patterns before they break out and returns a labeled dark chart with the breakout line and invalidation, checked against the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "analytics",
+    "decision-support",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/compression-scanner-grok-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

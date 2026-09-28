@@ -1,0 +1,42 @@
+{
+  "slug": "subscription-cleaner",
+  "name": "Subscription Cleaner",
+  "grokShareUrl": "https://x.ai/bot/sb36667ce9e1fdc00cfe7",
+  "botId": "sb36667ce9e1fdc00cfe7",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/subscription-cleaner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Subscription Cleaner by SpaceX",
+    "description": "Cut the noise you forgot about. Collates receipt and newsletter mail, suggests what to kill, and unsubscribes what you approve.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/subscription-cleaner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "aila-lead",
+  "name": "Aila (Lead)",
+  "grokShareUrl": "https://x.ai/bot/FGFMxol1pBRT2TmjmtIod",
+  "botId": "FGFMxol1pBRT2TmjmtIod",
+  "creator": {
+    "handle": "ejangsinco",
+    "url": "https://x.com/ejangsinco"
+  },
+  "sourceUrl": "https://x.com/ejangsinco/status/2102925142561042662",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/aila-lead/"
+  },
+  "description": null,
+  "official": {
+    "title": "Aila (Lead) by EJ",
+    "description": "Founder Lead for a living second brain plus a gated, responsible app-build desk with Grok and Grok Bot—built so non-experts can improve daily life with AI.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "agent-team",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/aila-lead/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

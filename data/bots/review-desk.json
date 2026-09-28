@@ -1,0 +1,42 @@
+{
+  "slug": "review-desk",
+  "name": "Review Desk",
+  "grokShareUrl": "https://x.ai/bot/MuKDTS9Fq0UySwClmE8wc",
+  "botId": "MuKDTS9Fq0UySwClmE8wc",
+  "creator": {
+    "handle": "AraXsuper",
+    "url": "https://x.com/AraXsuper"
+  },
+  "sourceUrl": "https://x.com/AraXsuper/status/2103185829615038718",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/review-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Review Desk by Liftably",
+    "description": "Drafts on-brand Google and Yelp review replies for local shops, with star-routing and a hard human-approve gate. Never auto-posts.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "back-office",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/review-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

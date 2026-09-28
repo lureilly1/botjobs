@@ -1,0 +1,41 @@
+{
+  "slug": "japan-form-first-outreach",
+  "name": "フォーム優先アウトバウンド",
+  "grokShareUrl": "https://x.ai/bot/-4fEgwVFAm8w_ULi4pjmC",
+  "botId": "-4fEgwVFAm8w_ULi4pjmC",
+  "creator": {
+    "handle": "isle_claude",
+    "url": "https://x.com/isle_claude"
+  },
+  "sourceUrl": "https://x.com/isle_claude/status/2103699353751969828",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/japan-form-first-outreach/"
+  },
+  "description": null,
+  "official": {
+    "title": "フォーム優先アウトバウンド by 直人",
+    "description": "Japan B2B form-first outreach bot: copy quality gate, daily prep without sending, owner-GO sends, CRM logging, and weekly PDCA. Built for AI advisory...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/japan-form-first-outreach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

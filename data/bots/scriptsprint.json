@@ -1,0 +1,42 @@
+{
+  "slug": "scriptsprint",
+  "name": "ScriptSprint",
+  "grokShareUrl": "https://x.ai/bot/YV5xOs96YaWLN39PbkPwk",
+  "botId": "YV5xOs96YaWLN39PbkPwk",
+  "creator": {
+    "handle": "the_simonjester",
+    "url": "https://x.com/the_simonjester"
+  },
+  "sourceUrl": "https://x.com/the_simonjester/status/2103991653375824068",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scriptsprint/"
+  },
+  "description": null,
+  "official": {
+    "title": "ScriptSprint by John",
+    "description": "Turns voice, meeting, and rant transcripts into speakers, summary, action items, and library-atom candidates for Obsidian-style desks. Never overwrites...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meetings",
+    "productivity",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scriptsprint/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

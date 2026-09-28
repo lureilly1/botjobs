@@ -1,0 +1,42 @@
+{
+  "slug": "media-manager",
+  "name": "Media Manager",
+  "grokShareUrl": "https://x.ai/bot/qG_ZROllzSSRGKx_iIbsQ",
+  "botId": "qG_ZROllzSSRGKx_iIbsQ",
+  "creator": {
+    "handle": "shao__meng",
+    "url": "https://x.com/shao__meng"
+  },
+  "sourceUrl": "https://x.com/shao__meng/status/2102590192649670818",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/media-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Media Manager by Matt",
+    "description": "Owns a YouTube channel's post-upload work: transcribe, captions, chapter timestamps, titles, descriptions, and thumbnails so you never open YouTube...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "youtube",
+    "content",
+    "creator",
+    "automation",
+    "video"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/media-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "fare-watch",
+  "name": "Fare Watch",
+  "grokShareUrl": "https://x.ai/bot/8ATt-4n2lYW3D7Ky9TYyu",
+  "botId": "8ATt-4n2lYW3D7Ky9TYyu",
+  "creator": {
+    "handle": "ahoop",
+    "url": "https://x.com/ahoop"
+  },
+  "sourceUrl": "https://x.com/ahoop/status/2104449084660629618",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fare-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fare Watch by Austin",
+    "description": "Watches trips you've already booked for a cheaper fare, a cheaper stay, or better dates. Reads your booking emails and calendar, checks airline and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fare-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

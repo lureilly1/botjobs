@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Meta Grok by Frank",
-    "description": "Finds the five most popular Grok bots on X each weekday and sends a short digest you can skim in under a minute.",
+    "title": "Vitamin Vera by Frank",
+    "description": "Turns how you feel into a simple supplement starting map with tracking, brands, and research context. Not medical advice.",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

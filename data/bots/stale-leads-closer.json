@@ -1,0 +1,41 @@
+{
+  "slug": "stale-leads-closer",
+  "name": "Stale Leads Closer",
+  "grokShareUrl": "https://x.ai/bot/GeL4XFcQHm4WIG6jp--R0",
+  "botId": "GeL4XFcQHm4WIG6jp--R0",
+  "creator": {
+    "handle": "robertodjg",
+    "url": "https://x.com/robertodjg"
+  },
+  "sourceUrl": "https://x.com/robertodjg/status/2102589053950431365",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stale-leads-closer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stale Leads Closer by Roberto",
+    "description": "Revives quiet sales leads: drafts warm CRM SMS, holds a Slack veto window, then auto-sends what nobody blocks. Built for service businesses that live in...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stale-leads-closer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

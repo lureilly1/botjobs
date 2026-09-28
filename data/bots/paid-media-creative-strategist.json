@@ -1,0 +1,42 @@
+{
+  "slug": "paid-media-creative-strategist",
+  "name": "Paid Media Creative Strategist",
+  "grokShareUrl": "https://x.ai/bot/s45471f3a8af234c13047",
+  "botId": "s45471f3a8af234c13047",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paid-media-creative-strategist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paid Media Creative Strategist by SpaceX",
+    "description": "Spot early creative winners before they're obvious. Writes a sharp why-it-works hypothesis and proposes the next test. No invented metrics.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "analytics",
+    "content",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paid-media-creative-strategist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

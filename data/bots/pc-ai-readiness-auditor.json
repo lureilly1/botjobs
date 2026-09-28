@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/MJZt496FWmD7MqtB1yUiv",
   "botId": "MJZt496FWmD7MqtB1yUiv",
   "creator": {
-    "handle": null,
-    "name": "RJ Shifty",
-    "url": null
+    "name": "RJ Shifty"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

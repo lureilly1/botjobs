@@ -1,0 +1,41 @@
+{
+  "slug": "crosscheck",
+  "name": "Crosscheck",
+  "grokShareUrl": "https://x.ai/bot/U4E-bNBzYlVcl_hMYf-kZ",
+  "botId": "U4E-bNBzYlVcl_hMYf-kZ",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2104542071097118779",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crosscheck/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crosscheck by D'Artagnan",
+    "description": "Before you publish or send, checks the claims that matter in two separate lanes: one reasons each claim through, the other verifies it against live...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "research",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crosscheck/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

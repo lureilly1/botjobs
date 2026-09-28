@@ -1,0 +1,42 @@
+{
+  "slug": "pit-crew",
+  "name": "Pit Crew",
+  "grokShareUrl": "https://x.ai/bot/Sm0GZs7Hhf7kNV7tHCUN1",
+  "botId": "Sm0GZs7Hhf7kNV7tHCUN1",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2103144210681700713",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pit-crew/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pit Crew by Scott",
+    "description": "Keeps Grok Bot’s shared computer race-ready: frees RAM and disk when resources go red, and owns the minimum git/plugin fetch path when marketplace...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pit-crew/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

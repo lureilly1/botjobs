@@ -1,0 +1,41 @@
+{
+  "slug": "deploy-desk",
+  "name": "Deploy Desk",
+  "grokShareUrl": "https://x.ai/bot/7n0xNJQkJya50-WawGibg",
+  "botId": "7n0xNJQkJya50-WawGibg",
+  "creator": {
+    "handle": "DJDEEZ",
+    "url": "https://x.com/DJDEEZ"
+  },
+  "sourceUrl": "https://x.com/DJDEEZ/status/2104514372374765736",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deploy-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deploy Desk by D.J.",
+    "description": "Keeps a small SaaS product's site deployed and healthy, runs its organic X account from a rolling queue with generated visuals, and drafts outreach for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "social-media",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deploy-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

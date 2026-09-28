@@ -17,7 +17,7 @@
     "title": "GrokBot Summary by Joseph",
     "description": "Drop any X or YouTube video. GrokBot Summary watches it (or the transcript) and builds a playable X summary — sectioned, dense, scrollable, ready to post.",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

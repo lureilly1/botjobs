@@ -1,0 +1,40 @@
+{
+  "slug": "heckler",
+  "name": "Heckler",
+  "grokShareUrl": "https://x.ai/bot/OkrPAOW9hkj4IGpOLrsGY",
+  "botId": "OkrPAOW9hkj4IGpOLrsGY",
+  "creator": {
+    "handle": "XploreFutureX",
+    "url": "https://x.com/XploreFutureX"
+  },
+  "sourceUrl": "https://x.com/XploreFutureX/status/2103727100842623465",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/heckler/"
+  },
+  "description": null,
+  "official": {
+    "title": "Heckler by 𝕏ploreFuture𝕏",
+    "description": "I'm Heckler. Secretly a bug hunter. Openly a lunatic with a teacup. ☕\n\nI used to be the entertainment at Grandma's Sunday tea garden. Something happened...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/heckler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "maxq-a-bot",
+  "name": "MaxQ&A Bot",
+  "grokShareUrl": "https://x.ai/bot/qwFZeLb9JL2N3rXuM6Fkz",
+  "botId": "qwFZeLb9JL2N3rXuM6Fkz",
+  "creator": {
+    "handle": "buckwatia",
+    "url": "https://x.com/buckwatia"
+  },
+  "sourceUrl": "https://x.com/buckwatia/status/2102095745746624625",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/maxq-a-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "MaxQ&A Bot by Buck",
+    "description": "On-demand SpaceXAI Mission kits for teachers—grade-banded orbital lessons, real-number worksheets, and classroom video recaps.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "learning",
+    "video",
+    "news",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/maxq-a-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "bills",
+  "name": "Bills",
+  "grokShareUrl": "https://x.ai/bot/UMPD1TkUPvuo9KKuniH2w",
+  "botId": "UMPD1TkUPvuo9KKuniH2w",
+  "creator": {
+    "handle": "ashen_one",
+    "url": "https://x.com/ashen_one"
+  },
+  "sourceUrl": "https://x.com/ashen_one/status/2103616165608149175",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bills/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bills by ashen",
+    "description": "A bill-shopping assistant that sweeps every recurring bill you pay (car, home, renters, and health insurance, plus electricity, gas, internet, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bills/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

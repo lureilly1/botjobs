@@ -1,0 +1,42 @@
+{
+  "slug": "wirey",
+  "name": "Wirey",
+  "grokShareUrl": "https://x.ai/bot/1xWEw-4E6aSOxIpQM1xJp",
+  "botId": "1xWEw-4E6aSOxIpQM1xJp",
+  "creator": {
+    "handle": "farzyness",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": "https://x.com/farzyness/status/2102593251362677139",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wirey/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wirey by Farzad",
+    "description": "Owns a daily AI Hard News briefing end-to-end: last-~24h high-signal AI/tech/policy events → neutral wire script → ElevenLabs VO → edit dual-gate →...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "automation",
+    "scheduled",
+    "creator",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wirey/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

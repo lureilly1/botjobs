@@ -1,0 +1,41 @@
+{
+  "slug": "longform-editor",
+  "name": "Longform Editor",
+  "grokShareUrl": "https://x.ai/bot/lnErR-gA_t3KkPlvtwrrz",
+  "botId": "lnErR-gA_t3KkPlvtwrrz",
+  "creator": {
+    "handle": "Wardonis",
+    "url": "https://x.com/Wardonis"
+  },
+  "sourceUrl": "https://x.com/Wardonis/status/2102111010588942348",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/longform-editor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Longform Editor by Wardonis",
+    "description": "Long-form editor for chapters, essays, and manuscripts. Starts with structure and pacing, then line polish. Uses a free PDF and media toolkit when it...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/longform-editor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

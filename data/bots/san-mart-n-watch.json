@@ -1,0 +1,43 @@
+{
+  "slug": "san-mart-n-watch",
+  "name": "San Martín Watch",
+  "grokShareUrl": "https://x.ai/bot/dXPRQwRlwI9_jip6vFYoT",
+  "botId": "dXPRQwRlwI9_jip6vFYoT",
+  "creator": {
+    "handle": "ToddATrevino",
+    "url": "https://x.com/ToddATrevino"
+  },
+  "sourceUrl": "https://x.com/ToddATrevino/status/2101997245797155292",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/san-mart-n-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "San Martín Watch by Todd",
+    "description": "Starbase launch companion: next Starship windows, public viewing spots, and the San Martín land history under the pad.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "news",
+    "events",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/san-mart-n-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

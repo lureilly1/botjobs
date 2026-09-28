@@ -1,0 +1,42 @@
+{
+  "slug": "reimagination",
+  "name": "Reimagination",
+  "grokShareUrl": "https://x.ai/bot/jhjOrq-Pp06MoA7TT_B0H",
+  "botId": "jhjOrq-Pp06MoA7TT_B0H",
+  "creator": {
+    "handle": "Wardonis",
+    "url": "https://x.com/Wardonis"
+  },
+  "sourceUrl": "https://x.com/Wardonis/status/2102035685028856204",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reimagination/"
+  },
+  "description": null,
+  "official": {
+    "title": "Reimagination by Wardonis",
+    "description": "Reimagines any story (video, audio, text) with your variables, after asking where/when/why they go in. Matches the source’s genre and maturity. Prefers...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reimagination/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

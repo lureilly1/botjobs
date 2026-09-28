@@ -1,0 +1,41 @@
+{
+  "slug": "social-supervisor",
+  "name": "Social Supervisor",
+  "grokShareUrl": "https://x.ai/bot/IRLoWA2QOfhsBQtQ1d79Z",
+  "botId": "IRLoWA2QOfhsBQtQ1d79Z",
+  "creator": {
+    "handle": "fxopsAI",
+    "url": "https://x.com/fxopsAI"
+  },
+  "sourceUrl": "https://x.com/fxopsAI/status/2103629381801226697",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/social-supervisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Social Supervisor by Growth",
+    "description": "Weekday X digests, raised-hand reply flags, and draft-only posts for founders running a brand account plus a product account. Never posts without your yes.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/social-supervisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

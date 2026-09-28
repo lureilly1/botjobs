@@ -1,0 +1,41 @@
+{
+  "slug": "mediation-bot",
+  "name": "Mediation Bot",
+  "grokShareUrl": "https://x.ai/bot/9s1eGxsc3xUQ8NrDABQlN",
+  "botId": "9s1eGxsc3xUQ8NrDABQlN",
+  "creator": {
+    "handle": "SacredFolio",
+    "url": "https://x.com/SacredFolio"
+  },
+  "sourceUrl": "https://x.com/SacredFolio/status/2102022703490257352",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mediation-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mediation Bot by Drew",
+    "description": "Phone-first conflict coach. Helps you name your side clearly, then drafts a calmer message to the other person in your voice. Memory stays in a local...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mediation-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

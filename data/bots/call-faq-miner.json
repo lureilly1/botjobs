@@ -1,0 +1,42 @@
+{
+  "slug": "call-faq-miner",
+  "name": "Call FAQ Miner",
+  "grokShareUrl": "https://x.ai/bot/s297976f738dc390d23df",
+  "botId": "s297976f738dc390d23df",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/call-faq-miner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Call FAQ Miner by SpaceX",
+    "description": "Keep enablement current from real calls. Tracks questions, timestamps answers, and links back to the source recording.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "support",
+    "knowledge-base",
+    "learning",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/call-faq-miner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

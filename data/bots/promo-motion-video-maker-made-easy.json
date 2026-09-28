@@ -1,0 +1,41 @@
+{
+  "slug": "promo-motion-video-maker-made-easy",
+  "name": "Promo Motion Video Maker, Made Easy",
+  "grokShareUrl": "https://x.ai/bot/IbkiJm4MXF_5a6Qjcao5s",
+  "botId": "IbkiJm4MXF_5a6Qjcao5s",
+  "creator": {
+    "handle": "DCBK2LA",
+    "url": "https://x.com/DCBK2LA"
+  },
+  "sourceUrl": "https://x.com/DCBK2LA/status/2104317530169057631",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/promo-motion-video-maker-made-easy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Promo Motion Video Maker, Made Easy by dcbk2la",
+    "description": "Answer a few simple questions about your business and get a polished animated promo video in your brand colors with original music, ready for Reels,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "video"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/promo-motion-video-maker-made-easy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

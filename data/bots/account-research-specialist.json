@@ -1,0 +1,42 @@
+{
+  "slug": "account-research-specialist",
+  "name": "Account Research Specialist",
+  "grokShareUrl": "https://x.ai/bot/sa7d7f82d0068c2367a17",
+  "botId": "sa7d7f82d0068c2367a17",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/account-research-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Account Research Specialist by SpaceX",
+    "description": "Tier accounts before you touch them. Pulls Salesforce + live signals, scores fit and warmth, and builds a shareable research pack per account.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "research",
+    "analytics",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/account-research-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

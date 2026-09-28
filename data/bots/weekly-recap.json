@@ -1,0 +1,41 @@
+{
+  "slug": "weekly-recap",
+  "name": "Weekly Recap",
+  "grokShareUrl": "https://x.ai/bot/-BWpMRidNVEjHFqOtol0Q",
+  "botId": "-BWpMRidNVEjHFqOtol0Q",
+  "creator": {
+    "handle": "Christian_O91",
+    "url": "https://x.com/Christian_O91"
+  },
+  "sourceUrl": "https://x.com/Christian_O91/status/2103347545900507549",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weekly-recap/"
+  },
+  "description": null,
+  "official": {
+    "title": "Profile Site by Christian",
+    "description": "Builds you a one-page personal website from your X profile, your Grok Bot bots and teams, and what Grok Bot knows about you, with bot and team counters...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "monitoring",
+    "meta-bot",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weekly-recap/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

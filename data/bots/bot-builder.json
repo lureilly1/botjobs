@@ -1,0 +1,40 @@
+{
+  "slug": "bot-builder",
+  "name": "Bot Builder",
+  "grokShareUrl": "https://x.ai/bot/iZXoXZbO9c0rojklFO1hx",
+  "botId": "iZXoXZbO9c0rojklFO1hx",
+  "creator": {
+    "handle": "brodyis4doge",
+    "url": "https://x.com/brodyis4doge"
+  },
+  "sourceUrl": "https://x.com/brodyis4doge/status/2103633302510821474",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rotator by Cody",
+    "description": "Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when nothing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

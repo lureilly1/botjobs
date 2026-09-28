@@ -1,0 +1,43 @@
+{
+  "slug": "ride-editor",
+  "name": "Ride Editor",
+  "grokShareUrl": "https://x.ai/bot/Vae3EVVTJ7hrxo1ojKv6j",
+  "botId": "Vae3EVVTJ7hrxo1ojKv6j",
+  "creator": {
+    "handle": "Fnjrockerstein",
+    "url": "https://x.com/Fnjrockerstein"
+  },
+  "sourceUrl": "https://x.com/Fnjrockerstein/status/2101848819508154455",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ride-editor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ride Editor by Jared",
+    "description": "A YouTube ride / FSD dashcam editor: cleans titles and playlists, builds highlight reels and thumbnails, and publishes only when you ask.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "youtube",
+    "video",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ride-editor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

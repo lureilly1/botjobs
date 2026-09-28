@@ -1,0 +1,42 @@
+{
+  "slug": "prototype-builder",
+  "name": "Prototype Builder",
+  "grokShareUrl": "https://x.ai/bot/s2e4acfb8db3cc0669a1b",
+  "botId": "s2e4acfb8db3cc0669a1b",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prototype-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Prototype Builder by SpaceX",
+    "description": "Go from ask to something clickable fast. Writes on its computer and comes back with a screenshot plus a live URL.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "design",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prototype-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

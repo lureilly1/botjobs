@@ -1,0 +1,42 @@
+{
+  "slug": "chief-2",
+  "name": "Chief",
+  "grokShareUrl": "https://x.ai/bot/UrO63RhN1LGXD3DzoMess",
+  "botId": "UrO63RhN1LGXD3DzoMess",
+  "creator": {
+    "handle": "cameronchristo",
+    "url": "https://x.com/cameronchristo"
+  },
+  "sourceUrl": "https://x.com/cameronchristo/status/2102630359930139118",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief by Cameron",
+    "description": "Chief-of-staff operator bot. Owns open loops, drafts replies, runs a morning inbox/calendar scan, and writes current.md after each job. Drafts only...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "calendar",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

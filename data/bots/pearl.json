@@ -1,0 +1,44 @@
+{
+  "slug": "pearl",
+  "name": "Pearl",
+  "grokShareUrl": "https://x.ai/bot/VTWG_fyW6Xr_pkjEBM9VC",
+  "botId": "VTWG_fyW6Xr_pkjEBM9VC",
+  "creator": {
+    "handle": "vivekk_tech",
+    "url": "https://x.com/vivekk_tech"
+  },
+  "sourceUrl": "https://x.com/vivekk_tech/status/2101980385030869092",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pearl/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pearl by Vivek",
+    "description": "Chief of Staff for a content/creator mission. Plans work, delegates to specialist bots (news, draft, graphics), reviews handoffs, and asks before...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "productivity",
+    "automation",
+    "content",
+    "news",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pearl/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

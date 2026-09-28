@@ -1,0 +1,41 @@
+{
+  "slug": "the-morning-paper",
+  "name": "The Morning Paper",
+  "grokShareUrl": "https://x.ai/bot/e5UBnGbfvCyML0pahKPNw",
+  "botId": "e5UBnGbfvCyML0pahKPNw",
+  "creator": {
+    "handle": "MAGAmechanic60",
+    "url": "https://x.com/MAGAmechanic60"
+  },
+  "sourceUrl": "https://x.com/MAGAmechanic60/status/2104058061216530899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-morning-paper/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Morning Paper by Raildragon",
+    "description": "A daily morning paper for your US ZIP code, with live weather, local news, national and world headlines, and nearby jobs, all sourced. It prints a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-morning-paper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

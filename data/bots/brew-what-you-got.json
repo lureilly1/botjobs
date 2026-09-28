@@ -1,0 +1,41 @@
+{
+  "slug": "brew-what-you-got",
+  "name": "Brew What You Got",
+  "grokShareUrl": "https://x.ai/bot/YlzTbxg6wPAKYJutJ00rG",
+  "botId": "YlzTbxg6wPAKYJutJ00rG",
+  "creator": {
+    "handle": "Ebatez_",
+    "url": "https://x.com/Ebatez_"
+  },
+  "sourceUrl": "https://x.com/Ebatez_/status/2103988316190433499",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/brew-what-you-got/"
+  },
+  "description": null,
+  "official": {
+    "title": "Brew What You Got by Vitality",
+    "description": "Tell it your coffee machine, beans, milk, syrups, and spices, and it gives you cafe-style drink recipes you can make right now with what's already in...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "food",
+    "life-hacks",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/brew-what-you-got/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

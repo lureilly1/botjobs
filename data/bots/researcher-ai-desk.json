@@ -1,0 +1,41 @@
+{
+  "slug": "researcher-ai-desk",
+  "name": "Researcher AI Desk",
+  "grokShareUrl": "https://x.ai/bot/89JF_2TtrVf27zelZ8pZ8",
+  "botId": "89JF_2TtrVf27zelZ8pZ8",
+  "creator": {
+    "handle": "original_Tree",
+    "url": "https://x.com/original_Tree"
+  },
+  "sourceUrl": "https://x.com/original_Tree/status/2103806334953230846",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/researcher-ai-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Researcher AI Desk by David",
+    "description": "Research Boss ops on Grok: live to-do, morning surface, Lit+Draft seats, grok.com Project paste, optional calendar or grok.com schedule, optional mail...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "research",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/researcher-ai-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

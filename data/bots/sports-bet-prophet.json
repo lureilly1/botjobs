@@ -1,0 +1,41 @@
+{
+  "slug": "sports-bet-prophet",
+  "name": "Sports bet prophet",
+  "grokShareUrl": "https://x.ai/bot/IO8UsiRc-wcUWtZPj4Jgv",
+  "botId": "IO8UsiRc-wcUWtZPj4Jgv",
+  "creator": {
+    "handle": "SGBackWoods",
+    "url": "https://x.com/SGBackWoods"
+  },
+  "sourceUrl": "https://x.com/SGBackWoods/status/2104094659160977832",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sports-bet-prophet/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sports bet prophet by BackWoods",
+    "description": "Researches disciplined 2-leg sports doubles (~+100 to +180) with kill switches and pass rules. You place on your phone; it shops public odds and skips...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "analytics",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sports-bet-prophet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

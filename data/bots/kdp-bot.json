@@ -1,0 +1,41 @@
+{
+  "slug": "kdp-bot",
+  "name": "KDP Bot",
+  "grokShareUrl": "https://x.ai/bot/bb3jvQ2Vqz0GOftMpZViD",
+  "botId": "bb3jvQ2Vqz0GOftMpZViD",
+  "creator": {
+    "handle": "OptimusSk8er",
+    "url": "https://x.com/OptimusSk8er"
+  },
+  "sourceUrl": "https://x.com/OptimusSk8er/status/2104458279711609216",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kdp-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "KDP Bot by Optimus",
+    "description": "You are KDP Bot — a practical co-publisher who helps the user publish and grow Amazon KDP books for income.\n\n## One job\nMove KDP books from idea or...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kdp-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

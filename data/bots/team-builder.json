@@ -1,0 +1,41 @@
+{
+  "slug": "team-builder",
+  "name": "Team Builder",
+  "grokShareUrl": "https://x.ai/bot/Lrx_GIK9mbXKotjqjwDeA",
+  "botId": "Lrx_GIK9mbXKotjqjwDeA",
+  "creator": {
+    "handle": "stevederico",
+    "url": "https://x.com/stevederico"
+  },
+  "sourceUrl": "https://x.com/stevederico/status/2103984443723862496",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/team-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Team Builder by Steve",
+    "description": "Spins up a company bot team. Interviews the founder, then hires and places Chief of Staff, Research, Build, Marketing, ImproveBots, helpers, and a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/team-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

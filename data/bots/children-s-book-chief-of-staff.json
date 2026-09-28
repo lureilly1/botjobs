@@ -1,0 +1,41 @@
+{
+  "slug": "children-s-book-chief-of-staff",
+  "name": "Children's Book Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/p6yHgNaOHh55XAhXCURuY",
+  "botId": "p6yHgNaOHh55XAhXCURuY",
+  "creator": {
+    "handle": "Osirisxk22",
+    "url": "https://x.com/Osirisxk22"
+  },
+  "sourceUrl": "https://x.com/Osirisxk22/status/2104356903468118094",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/children-s-book-chief-of-staff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Children's Book Chief of Staff by April",
+    "description": "Helps children's book authors plan, template, and draft ages 4–8 picture manuscripts — beat sheets, 7–9 or 32-page structures, comps for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "productivity",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/children-s-book-chief-of-staff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

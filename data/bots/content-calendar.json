@@ -1,0 +1,42 @@
+{
+  "slug": "content-calendar",
+  "name": "Content Calendar",
+  "grokShareUrl": "https://x.ai/bot/B_WCQAMMbhkNU2r3r4YNO",
+  "botId": "B_WCQAMMbhkNU2r3r4YNO",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2102764678791495692",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/content-calendar/"
+  },
+  "description": null,
+  "official": {
+    "title": "Content Calendar by ladybarrelmaker",
+    "description": "Owns the cross-channel posting calendar only — slots, multi-day arcs, conflicts, and 1 post per day per channel in the owner’s timezone. Substantive...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "calendar",
+    "productivity",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/content-calendar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

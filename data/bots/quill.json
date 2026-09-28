@@ -1,0 +1,41 @@
+{
+  "slug": "quill",
+  "name": "Quill",
+  "grokShareUrl": "https://x.ai/bot/tHo33t3IaAhpxds5IpNbD",
+  "botId": "tHo33t3IaAhpxds5IpNbD",
+  "creator": {
+    "handle": "the_simonjester",
+    "url": "https://x.com/the_simonjester"
+  },
+  "sourceUrl": "https://x.com/the_simonjester/status/2103992041734811919",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quill/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quill by John",
+    "description": "Craft pass for Obsidian notes—voice punch-up, continuity, or depth read on writing you point at. Part of the Obsidian Vault Kit with Porter (intake) and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "content",
+    "knowledge-base",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quill/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

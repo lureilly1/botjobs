@@ -1,0 +1,43 @@
+{
+  "slug": "ramp-bot",
+  "name": "Ramp Bot",
+  "grokShareUrl": "https://x.ai/bot/Gx0HlW1t8lTnW2pVn0nKF",
+  "botId": "Gx0HlW1t8lTnW2pVn0nKF",
+  "creator": {
+    "handle": "matthewbarge",
+    "url": "https://x.com/matthewbarge"
+  },
+  "sourceUrl": "https://x.com/matthewbarge/status/2102526890879963587",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ramp-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ramp Bot by Matthew",
+    "description": "Keeps a Ramp company card unlocked by quietly filling missing receipts and memos. Good for anyone whose org auto-locks cards when compliance items lapse.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "finance",
+    "automation",
+    "back-office",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ramp-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

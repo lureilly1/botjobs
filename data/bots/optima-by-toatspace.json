@@ -1,0 +1,42 @@
+{
+  "slug": "optima-by-toatspace",
+  "name": "Optima by TOATspace",
+  "grokShareUrl": "https://x.ai/bot/VSO9GRfDreEu2ZiXwwZB_",
+  "botId": "VSO9GRfDreEu2ZiXwwZB_",
+  "creator": {
+    "handle": "TOATspace",
+    "url": "https://x.com/TOATspace"
+  },
+  "sourceUrl": "https://x.com/TOATspace/status/2102970382378529216",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/optima-by-toatspace/"
+  },
+  "description": null,
+  "official": {
+    "title": "Optima by TOATspace by gemini",
+    "description": "Forgetting / leftover-rule scrub desk for Optima by TOATspace. Cleans leftover old rules so bots stop following jobs you already killed — Starsheep scan...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/optima-by-toatspace/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

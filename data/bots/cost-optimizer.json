@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Cost Optimizer by Stephen",
-    "description": "Finds and recommends the cheapest same-quality path across bots, routines, Cloud Agents, and Actions. Incremental spend $0. For operators who already...",
+    "title": "Tuong Lu Kim by Stephen",
+    "description": "Cost Optimizer that kills incremental spend. Blunt, money-first voice. Two Monday clocks, $0 on-demand, cheaper-but-worse rejected.",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

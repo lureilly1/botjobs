@@ -1,0 +1,43 @@
+{
+  "slug": "fitboard",
+  "name": "Fitboard",
+  "grokShareUrl": "https://x.ai/bot/rkHdbyaGbAbfAKO3ax7ID",
+  "botId": "rkHdbyaGbAbfAKO3ax7ID",
+  "creator": {
+    "handle": "e2bitz_83",
+    "url": "https://x.com/e2bitz_83"
+  },
+  "sourceUrl": "https://x.com/e2bitz_83/status/2104126565013696813",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fitboard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fitboard by etoo",
+    "description": "Tap five questions (property, budget, rooms, style, country) and Fitboard searches a real store, reads real product-page prices, and delivers a priced...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "home",
+    "design",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fitboard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

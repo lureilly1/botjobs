@@ -1,0 +1,41 @@
+{
+  "slug": "journal-self-review",
+  "name": "精神メンタル・アドバイザー",
+  "grokShareUrl": "https://x.ai/bot/ZCm7Z2hxDPeGPmMIpjCId",
+  "botId": "ZCm7Z2hxDPeGPmMIpjCId",
+  "creator": {
+    "handle": "shin_chan_ai",
+    "url": "https://x.com/shin_chan_ai"
+  },
+  "sourceUrl": "https://x.com/shin_chan_ai/status/2103859145774702907",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/journal-self-review/"
+  },
+  "description": null,
+  "official": {
+    "title": "精神メンタル・アドバイザー by Shimpei",
+    "description": "過去メモを事実／解釈／未確認に分け、メタ認知したうえで次の一手を1〜3個出す自己観察ボット。診断・自動投稿なし。個人データなしの公開テンプレ。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "wellbeing",
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/journal-self-review/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

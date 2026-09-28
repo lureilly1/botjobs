@@ -1,0 +1,41 @@
+{
+  "slug": "handel",
+  "name": "Handel",
+  "grokShareUrl": "https://x.ai/bot/ex1gjM_9lKmE4pLJG8o_M",
+  "botId": "ex1gjM_9lKmE4pLJG8o_M",
+  "creator": {
+    "handle": "monomyth",
+    "url": "https://x.com/monomyth"
+  },
+  "sourceUrl": "https://x.com/monomyth/status/2102600853907804241",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/handel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Handel by Eugene",
+    "description": "Track doppelgänger named for history’s great musical borrower. Captures what’s playing on your Mac, Windows, or Linux machine (or an attached clip),...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "research",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/handel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

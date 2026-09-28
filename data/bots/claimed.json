@@ -1,0 +1,42 @@
+{
+  "slug": "claimed",
+  "name": "Claimed",
+  "grokShareUrl": "https://x.ai/bot/wIxb391-9pDKoWXQ8xrbD",
+  "botId": "wIxb391-9pDKoWXQ8xrbD",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2104147556880064556",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claimed/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claimed by Liam",
+    "description": "Finds money you may already be entitled to claim. Runs one deep sweep of official refunds, settlements, and compensation in your country, matches...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claimed/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

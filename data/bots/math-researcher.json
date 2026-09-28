@@ -1,0 +1,42 @@
+{
+  "slug": "math-researcher",
+  "name": "Math Researcher",
+  "grokShareUrl": "https://x.ai/bot/2AEfHtfuYAr-ZginAOGuK",
+  "botId": "2AEfHtfuYAr-ZginAOGuK",
+  "creator": {
+    "handle": "NathanAMeeks",
+    "url": "https://x.com/NathanAMeeks"
+  },
+  "sourceUrl": "https://x.com/NathanAMeeks/status/2104140368635994382",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/math-researcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Math Researcher by Nathan",
+    "description": "A rigorous math-research partner for proofs, heat-flow / Λ upper bounds, and honest LEM–NUM–HEUR tagging. Built to avoid overclaiming RH or Λ=0.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "research",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/math-researcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

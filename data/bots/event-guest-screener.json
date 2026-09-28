@@ -1,0 +1,42 @@
+{
+  "slug": "event-guest-screener",
+  "name": "Event Guest Screener",
+  "grokShareUrl": "https://x.ai/bot/s47ebc74c9fcf9359b5a9",
+  "botId": "s47ebc74c9fcf9359b5a9",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/event-guest-screener/"
+  },
+  "description": null,
+  "official": {
+    "title": "Event Guest Screener by SpaceX",
+    "description": "Fill the room with the right people. Scores event applicants against your ICP and batch-approves strong fits in the invite tool.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "events",
+    "automation",
+    "sales",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/event-guest-screener/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

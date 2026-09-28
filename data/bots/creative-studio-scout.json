@@ -1,0 +1,41 @@
+{
+  "slug": "creative-studio-scout",
+  "name": "Creative Studio Scout",
+  "grokShareUrl": "https://x.ai/bot/_V9NG3Es7w7am2Kpb6lWg",
+  "botId": "_V9NG3Es7w7am2Kpb6lWg",
+  "creator": {
+    "handle": "vidales_nataly",
+    "url": "https://x.com/vidales_nataly"
+  },
+  "sourceUrl": "https://x.com/vidales_nataly/status/2104308780720914826",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creative-studio-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creative Studio Scout by Nataly",
+    "description": "Finds hands-on creative workshops, cultural crafts, and hidden-gem classes near you or wherever you travel, with every date, price, and booking link...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "events",
+    "travel"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creative-studio-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

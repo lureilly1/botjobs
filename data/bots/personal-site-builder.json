@@ -1,0 +1,42 @@
+{
+  "slug": "personal-site-builder",
+  "name": "Personal Site Builder",
+  "grokShareUrl": "https://x.ai/bot/s3c76c85a840b32b8fed8",
+  "botId": "s3c76c85a840b32b8fed8",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-site-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Site Builder by SpaceX",
+    "description": "Scaffold a personal site from a description, untangle domain issues, and leave you with a live starting point.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-site-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

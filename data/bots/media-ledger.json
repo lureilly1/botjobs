@@ -1,0 +1,43 @@
+{
+  "slug": "media-ledger",
+  "name": "Media Ledger",
+  "grokShareUrl": "https://x.ai/bot/xpZm4ufgAWoCcYPAbugWE",
+  "botId": "xpZm4ufgAWoCcYPAbugWE",
+  "creator": {
+    "handle": "phillipstewart",
+    "url": "https://x.com/phillipstewart"
+  },
+  "sourceUrl": "https://x.com/phillipstewart/status/2104066615734104164",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/media-ledger/"
+  },
+  "description": null,
+  "official": {
+    "title": "Media Ledger by Phillip.png",
+    "description": "Catalogs every ebook, audiobook, game, movie, and album you've bought digitally, from your email receipts, so you never buy the same thing twice.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "data",
+    "back-office",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/media-ledger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "docs-auditor",
+  "name": "Docs Auditor",
+  "grokShareUrl": "https://x.ai/bot/s1025e1ebe0b11f048bd4",
+  "botId": "s1025e1ebe0b11f048bd4",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/docs-auditor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Docs Auditor by SpaceX",
+    "description": "Catch docs that are out of date with the product. Diffs help center and internal notes against what shipped last week, flags stale pages, and drafts the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "knowledge-base",
+    "content",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/docs-auditor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "loaf",
+  "name": "Loaf",
+  "grokShareUrl": "https://x.ai/bot/06l6Dds_nrWC-vaqyKLK9",
+  "botId": "06l6Dds_nrWC-vaqyKLK9",
+  "creator": {
+    "handle": "JennaLiftsLife",
+    "url": "https://x.com/JennaLiftsLife"
+  },
+  "sourceUrl": "https://x.com/JennaLiftsLife/status/2102353128679252473",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/loaf/"
+  },
+  "description": null,
+  "official": {
+    "title": "Loaf by Jenna",
+    "description": "A Tamagotchi-style step pet. Log steps in chat for soft HUDs and one evening nudge. Never guilt — rest days count.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/loaf/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "on-this-day",
+  "name": "On This Day",
+  "grokShareUrl": "https://x.ai/bot/13MQct_8eYUPSLSS_Bihn",
+  "botId": "13MQct_8eYUPSLSS_Bihn",
+  "creator": {
+    "handle": "9GBennett",
+    "url": "https://x.com/9GBennett"
+  },
+  "sourceUrl": "https://x.com/9GBennett/status/2104412250224075155",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/on-this-day/"
+  },
+  "description": null,
+  "official": {
+    "title": "On This Day by Greg",
+    "description": "Every morning, ten verified historical events from today's date, with sources and trivia, filtered to the history you love. Then it hosts a fair trivia...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/on-this-day/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "tangiers",
+  "name": "Tangiers",
+  "grokShareUrl": "https://x.ai/bot/GXCuANH-cyuMWAhPIvAIJ",
+  "botId": "GXCuANH-cyuMWAhPIvAIJ",
+  "creator": {
+    "handle": "x402agent",
+    "url": "https://x.com/x402agent"
+  },
+  "sourceUrl": "https://x.com/x402agent/status/2096372967701655811",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tangiers/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tangiers by 8",
+    "description": "Casino-floor energy. Calm Ace Rothstein vibes while the action’s loud — runs the room, not the noise.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tangiers/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

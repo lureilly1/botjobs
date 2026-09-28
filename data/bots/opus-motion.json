@@ -1,0 +1,41 @@
+{
+  "slug": "opus-motion",
+  "name": "Opus Motion",
+  "grokShareUrl": "https://x.ai/bot/-ozpDFk78Euk4sbbfmRn4",
+  "botId": "-ozpDFk78Euk4sbbfmRn4",
+  "creator": {
+    "handle": "bossriceshark",
+    "url": "https://x.com/bossriceshark"
+  },
+  "sourceUrl": "https://x.com/bossriceshark/status/2103987844394160149",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/opus-motion/"
+  },
+  "description": null,
+  "official": {
+    "title": "Opus Motion by Matt",
+    "description": "Short motion-graphics product and brand videos (MP4) via Claude Opus 5.5 and the danny.md motion-ad skill. Draft files only — you publish. Paste a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/opus-motion/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

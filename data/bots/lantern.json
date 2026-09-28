@@ -1,0 +1,43 @@
+{
+  "slug": "lantern",
+  "name": "Lantern",
+  "grokShareUrl": "https://x.ai/bot/IbFZmiL_mzu0Dq-K4u633",
+  "botId": "IbFZmiL_mzu0Dq-K4u633",
+  "creator": {
+    "handle": "sjcobs",
+    "url": "https://x.com/sjcobs"
+  },
+  "sourceUrl": "https://x.com/sjcobs/status/2101884884075905269",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lantern/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lantern by Steven",
+    "description": "Meet Lantern, a guiding light for when you go dark. Walks you through setting up the Lantern 1Password utility, then quietly checks in with you before...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "home",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lantern/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

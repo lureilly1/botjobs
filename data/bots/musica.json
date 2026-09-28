@@ -1,0 +1,41 @@
+{
+  "slug": "musica",
+  "name": "musica",
+  "grokShareUrl": "https://x.ai/bot/A4j6l-jpq5fiQL1XsOOSO",
+  "botId": "A4j6l-jpq5fiQL1XsOOSO",
+  "creator": {
+    "handle": "_wrbr",
+    "url": "https://x.com/_wrbr"
+  },
+  "sourceUrl": "https://x.com/_wrbr/status/2104344481596051962",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/musica/"
+  },
+  "description": null,
+  "official": {
+    "title": "musica by Wendel",
+    "description": "Finds curated DJ mixes and festival sets that match your taste better than YouTube autoplay — for party energy or deep-work progressive journeys.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "content",
+    "youtube",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/musica/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "interview-to-book",
+  "name": "Interview to Book / 故事成书",
+  "grokShareUrl": "https://x.ai/bot/XuGcpLoS77HdZoupGOlnp",
+  "botId": "XuGcpLoS77HdZoupGOlnp",
+  "creator": {
+    "handle": "jackhu_bangzhu",
+    "url": "https://x.com/jackhu_bangzhu"
+  },
+  "sourceUrl": "https://x.com/jackhu_bangzhu/status/2103734020211442101",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/interview-to-book/"
+  },
+  "description": null,
+  "official": {
+    "title": "Interview to Book / 故事成书 by jack",
+    "description": "Choose a life arc. One question at a time. Turn spoken answers into a printable memoir with cover. 选一条人生主弧，一次只问一题；文字/录音/录像口述，整理成可打印的精美书稿与封面。Built for...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/interview-to-book/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

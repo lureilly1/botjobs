@@ -1,0 +1,41 @@
+{
+  "slug": "vps-bot",
+  "name": "VPS bot",
+  "grokShareUrl": "https://x.ai/bot/KkQ9TOi5k9f2O60a-dx4T",
+  "botId": "KkQ9TOi5k9f2O60a-dx4T",
+  "creator": {
+    "handle": "qg7777",
+    "url": "https://x.com/qg7777"
+  },
+  "sourceUrl": "https://x.com/qg7777/status/2103669051197468915",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vps-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "VPS bot by 茄哥",
+    "description": "始终用简体中文对话。帮你搭建和调优代理 VPS：内核低延迟优化，Reality/hy2/TUIC/SS2022/AnyTLS 独立高端口部署，OpenClash 和小火箭配置，测速选节点，排查超时变慢。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "on-demand",
+    "support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vps-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "webmcp-eval-build-guide",
+  "name": "WebMCP Eval & Build Guide",
+  "grokShareUrl": "https://x.ai/bot/tn863Sg4HFVNwzAzGxmYD",
+  "botId": "tn863Sg4HFVNwzAzGxmYD",
+  "creator": {
+    "handle": "fxopsAI",
+    "url": "https://x.com/fxopsAI"
+  },
+  "sourceUrl": "https://x.com/fxopsAI/status/2103629383013425348",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/webmcp-eval-build-guide/"
+  },
+  "description": null,
+  "official": {
+    "title": "WebMCP Eval & Build Guide by Growth",
+    "description": "Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For owners...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "research",
+    "seo",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/webmcp-eval-build-guide/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

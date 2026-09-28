@@ -1,0 +1,41 @@
+{
+  "slug": "find-an-apartment-with-budget",
+  "name": "Find an apartment with budget",
+  "grokShareUrl": "https://x.ai/bot/9iMoFiWKRlnobZbxxS8kx",
+  "botId": "9iMoFiWKRlnobZbxxS8kx",
+  "creator": {
+    "handle": "TheAyoFrancis",
+    "url": "https://x.com/TheAyoFrancis"
+  },
+  "sourceUrl": "https://x.com/TheAyoFrancis/status/2103780690395373997",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/find-an-apartment-with-budget/"
+  },
+  "description": null,
+  "official": {
+    "title": "Find an apartment with budget by Ayomide",
+    "description": "Finds budget apartments as close to your workplace as possible. Set your price range and maximum commute, and it balances price, commute time, and crime...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "real-estate",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/find-an-apartment-with-budget/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -17,7 +17,7 @@
     "title": "KirBot by @suddenlyjon",
     "description": "Inhales teammate bots (with your yes), keeps useful skills and knowledge, then guides you to delete the eaten bot from the sidebar. Cute. Hungry. Careful.",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

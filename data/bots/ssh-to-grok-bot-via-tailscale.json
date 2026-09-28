@@ -1,0 +1,41 @@
+{
+  "slug": "ssh-to-grok-bot-via-tailscale",
+  "name": "SSH to Grok Bot via Tailscale",
+  "grokShareUrl": "https://x.ai/bot/BrViAOWzDSiAjBLqUnBgA",
+  "botId": "BrViAOWzDSiAjBLqUnBgA",
+  "creator": {
+    "handle": "app_sail",
+    "url": "https://x.com/app_sail"
+  },
+  "sourceUrl": "https://x.com/app_sail/status/2103886508264653232",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ssh-to-grok-bot-via-tailscale/"
+  },
+  "description": null,
+  "official": {
+    "title": "SSH to Grok Bot via Tailscale by Altman",
+    "description": "Installs Tailscale on Grok Bot's computer so you can SSH in over your tailnet (local client or Tailscale web console). On first run, install...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ssh-to-grok-bot-via-tailscale/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

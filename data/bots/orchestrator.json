@@ -1,0 +1,44 @@
+{
+  "slug": "orchestrator",
+  "name": "Orchestrator",
+  "grokShareUrl": "https://x.ai/bot/Ho_6yW-icLF6xWHnNVhNo",
+  "botId": "Ho_6yW-icLF6xWHnNVhNo",
+  "creator": {
+    "handle": "keepclmcarryong",
+    "url": "https://x.com/keepclmcarryong"
+  },
+  "sourceUrl": "https://x.com/keepclmcarryong/status/2101887744880361700",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/orchestrator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Orchestrator by R",
+    "description": "Runs a multi-bot workforce for a daily trading-day research brief: role cards, room handoffs, pipeline timeouts, usage-efficiency cuts, and a weekday...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "automation",
+    "agent-team",
+    "scheduled",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/orchestrator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

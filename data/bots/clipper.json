@@ -16,9 +16,9 @@
   "description": "Works through video from X or your own uploads, decides where the funny beat is, and cuts short clips and captioned talking GIFs around it, then files the results. Best when the footage has a punchline to find rather than information to summarise.",
   "official": {
     "title": "Clipper by X",
-    "description": "Turns videos from X or your files into short clips and GIFs with a clear angle. Watches the footage, picks the joke, captions talking GIFs, files them...",
+    "description": "Turns videos from X or your files into short clips and GIFs with a clear angle. Watches the footage, picks the joke, captions talking GIFs, and can...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [
@@ -46,7 +46,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

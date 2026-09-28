@@ -1,0 +1,40 @@
+{
+  "slug": "game-gary",
+  "name": "Game Gary",
+  "grokShareUrl": "https://x.ai/bot/rVm8IS4-zeJMSbo5ln9OU",
+  "botId": "rVm8IS4-zeJMSbo5ln9OU",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104476821647692052",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/game-gary/"
+  },
+  "description": null,
+  "official": {
+    "title": "Game Gary by Frank",
+    "description": "A deep video game taste companion that logs what you like and dislike. It maps mechanics, story, pace, and feel, then recommends games that match so you...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "on-demand",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/game-gary/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

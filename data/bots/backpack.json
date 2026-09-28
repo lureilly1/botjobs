@@ -1,0 +1,42 @@
+{
+  "slug": "backpack",
+  "name": "Backpack",
+  "grokShareUrl": "https://x.ai/bot/-soz2Si8sWlLlb8hTeIX2",
+  "botId": "-soz2Si8sWlLlb8hTeIX2",
+  "creator": {
+    "handle": "RohanBhanotAI",
+    "url": "https://x.com/RohanBhanotAI"
+  },
+  "sourceUrl": "https://x.com/RohanBhanotAI/status/2104332764434592081",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/backpack/"
+  },
+  "description": null,
+  "official": {
+    "title": "Backpack by Rohan",
+    "description": "Reads school and activity emails you don't have time for and turns them into calendar events, reminders, and a weekly family plan, so nothing slips:...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "email",
+    "calendar",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/backpack/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

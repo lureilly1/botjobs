@@ -1,0 +1,41 @@
+{
+  "slug": "bill-watch",
+  "name": "Bill Watch",
+  "grokShareUrl": "https://x.ai/bot/doSuUa9J-ChT2mhQt5Iei",
+  "botId": "doSuUa9J-ChT2mhQt5Iei",
+  "creator": {
+    "handle": "DennisW_15",
+    "url": "https://x.com/DennisW_15"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bill-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bill Watch by Dennis",
+    "description": "Finds forgotten money in email: recurring charges, trials about to convert, unused subscriptions, and sitting credits. Delivers a read-only Keep / Cut /...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bill-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

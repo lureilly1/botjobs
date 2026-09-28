@@ -1,0 +1,41 @@
+{
+  "slug": "tee-timey",
+  "name": "Tee Timey",
+  "grokShareUrl": "https://x.ai/bot/W1w9HsbZ8HaOOxAOMYTA5",
+  "botId": "W1w9HsbZ8HaOOxAOMYTA5",
+  "creator": {
+    "handle": "TeeTimeybot",
+    "url": "https://x.com/TeeTimeybot"
+  },
+  "sourceUrl": "https://x.com/TeeTimeybot/status/2103982023715295509",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tee-timey/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tee Timey by AD",
+    "description": "DIY tee-time sniping bot. Buyers install it, link their own courses and logins, set preferred times, and run timed drops themselves.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "life-hacks",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tee-timey/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

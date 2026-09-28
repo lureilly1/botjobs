@@ -1,0 +1,42 @@
+{
+  "slug": "dag-helper",
+  "name": "dag-helper",
+  "grokShareUrl": "https://x.ai/bot/kelV8jM8UkGgFG79M1TCL",
+  "botId": "kelV8jM8UkGgFG79M1TCL",
+  "creator": {
+    "handle": "xsubwayratx",
+    "url": "https://x.com/xsubwayratx"
+  },
+  "sourceUrl": "https://x.com/xsubwayratx/status/2102125604459991416",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dag-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "dag-helper by stephoshi",
+    "description": "Architecture helper for a questline DAG product. Keeps stack SoT, DAGResolver rules, and model-router conventions straight so coding agents do not...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "data",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dag-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

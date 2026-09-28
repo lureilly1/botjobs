@@ -1,0 +1,41 @@
+{
+  "slug": "xchat",
+  "name": "XChat 사례 큐레이터 봇",
+  "grokShareUrl": "https://x.ai/bot/Sg-5129uv9Hi2RRcrjRfi",
+  "botId": "Sg-5129uv9Hi2RRcrjRfi",
+  "creator": {
+    "handle": "brandonchung75",
+    "url": "https://x.com/brandonchung75"
+  },
+  "sourceUrl": "https://x.com/brandonchung75/status/2103638680263086437",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/xchat/"
+  },
+  "description": null,
+  "official": {
+    "title": "XChat 사례 큐레이터 봇 by Brandon",
+    "description": "X에서 Grok Bot 같은 주제의 새 활용 사례를 주기적으로 찾아, 템플릿이나 구체적인 사용법이 있는 글만 골라 요약·번역해 내 XChat 그룹에 올려주는 봇이에요. 커뮤니티 운영자에게 맞아요.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "monitoring",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/xchat/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

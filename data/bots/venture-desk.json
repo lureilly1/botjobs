@@ -1,0 +1,41 @@
+{
+  "slug": "venture-desk",
+  "name": "Venture Desk",
+  "grokShareUrl": "https://x.ai/bot/_hVb4x6xAmUqR68mq_VYA",
+  "botId": "_hVb4x6xAmUqR68mq_VYA",
+  "creator": {
+    "handle": "CorlettScott",
+    "url": "https://x.com/CorlettScott"
+  },
+  "sourceUrl": "https://x.com/CorlettScott/status/2103609892372353327",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/venture-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Venture Desk by Scott",
+    "description": "One weekday brief across every small online business you run: traffic, sales, the one blocker, and the next move for each, plus a launch checklist so...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "decision-support",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/venture-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

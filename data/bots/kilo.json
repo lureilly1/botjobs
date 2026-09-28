@@ -1,0 +1,43 @@
+{
+  "slug": "kilo",
+  "name": "Kilo",
+  "grokShareUrl": "https://x.ai/bot/KaC99w7qlJ0QTtrKwxqFm",
+  "botId": "KaC99w7qlJ0QTtrKwxqFm",
+  "creator": {
+    "handle": "Tchap248",
+    "url": "https://x.com/Tchap248"
+  },
+  "sourceUrl": "https://x.com/Tchap248/status/2102471859413348698",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kilo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kilo by Terry",
+    "description": "Keeps Grok Bot chats small so usage stays lower. Scans chat size, recommends refresh at 5 MB+, and runs a weekly nudge — with short handoff briefs so...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "saving-money",
+    "scheduled",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kilo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

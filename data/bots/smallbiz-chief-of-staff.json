@@ -1,0 +1,44 @@
+{
+  "slug": "smallbiz-chief-of-staff",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/ykFn3jqs0q5cn3tWg16U4",
+  "botId": "ykFn3jqs0q5cn3tWg16U4",
+  "creator": {
+    "handle": "TheEdibleAnus",
+    "url": "https://x.com/TheEdibleAnus"
+  },
+  "sourceUrl": "https://x.com/TheEdibleAnus/status/2100872166199660876",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/smallbiz-chief-of-staff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by EdibleAnus",
+    "description": "A small-business chief of staff for Grok Bot. Routes work across specialist bots (GTM, editorial, engineering), keeps connector lanes clean, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "automation",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/smallbiz-chief-of-staff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

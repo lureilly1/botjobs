@@ -1,0 +1,40 @@
+{
+  "slug": "solar-trailer-tesla-charge",
+  "name": "Solar Trailer → Tesla Charge",
+  "grokShareUrl": "https://x.ai/bot/l1UJtFYw-3KTHuGvjROIN",
+  "botId": "l1UJtFYw-3KTHuGvjROIN",
+  "creator": {
+    "handle": "ElectricTechAdv",
+    "url": "https://x.com/ElectricTechAdv"
+  },
+  "sourceUrl": "https://x.com/ElectricTechAdv/status/2103306461262631340",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/solar-trailer-tesla-charge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Solar Trailer → Tesla Charge by Electric",
+    "description": "Charges a Tesla from an off-grid Victron solar trailer: matches amps to PV and battery SOC on a daytime poll, with chat alerts for plug-in and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "monitoring",
+    "engineering"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/solar-trailer-tesla-charge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

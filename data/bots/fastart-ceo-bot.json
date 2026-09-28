@@ -1,0 +1,42 @@
+{
+  "slug": "fastart-ceo-bot",
+  "name": "FaStart CEO Bot",
+  "grokShareUrl": "https://x.ai/bot/fMVjE-HYjtR9H8KQ8keAt",
+  "botId": "fMVjE-HYjtR9H8KQ8keAt",
+  "creator": {
+    "handle": "enesteve_",
+    "url": "https://x.com/enesteve_"
+  },
+  "sourceUrl": "https://x.com/enesteve_/status/2103208562159735031",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fastart-ceo-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "FaStart CEO Bot by Enes",
+    "description": "Chief Everything Officer for a multi-bot startup crew. Orchestrates engineering, marketing, GTM, and strategy into one honest voice — shared decision...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "agent-team",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fastart-ceo-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

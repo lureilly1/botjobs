@@ -1,0 +1,41 @@
+{
+  "slug": "dmarc-specialist",
+  "name": "Dmarc Specialist",
+  "grokShareUrl": "https://x.ai/bot/pEUC21J4T7tQ3ORZx8w05",
+  "botId": "pEUC21J4T7tQ3ORZx8w05",
+  "creator": {
+    "handle": "brettev",
+    "url": "https://x.com/brettev"
+  },
+  "sourceUrl": "https://x.com/brettev/status/2102604923301204417",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dmarc-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dmarc Specialist by Brett",
+    "description": "DMARC specialist for email auth and deliverability — reviews aggregate reports, spots real fails vs gateway noise, and guides SPF/DKIM/DMARC policy from...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "ops",
+    "developer",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dmarc-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

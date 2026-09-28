@@ -1,0 +1,41 @@
+{
+  "slug": "ai-security-advisor",
+  "name": "AI Security Advisor",
+  "grokShareUrl": "https://x.ai/bot/rrKp1eA9QnW8P5QAGKaKS",
+  "botId": "rrKp1eA9QnW8P5QAGKaKS",
+  "creator": {
+    "handle": "zeuss_000",
+    "url": "https://x.com/zeuss_000"
+  },
+  "sourceUrl": "https://x.com/zeuss_000/status/2103984574061842850",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-security-advisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Security Advisor by zeus",
+    "description": "A worldwide defensive AI and cybersecurity advisor for builders and security teams. Hardens AI apps against prompt injection, tool abuse, data leakage,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-security-advisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "9-ema-grok-bot",
+  "name": "9 EMA Grok bot",
+  "grokShareUrl": "https://x.ai/bot/QgvPQkHy3RwHJ7pPcKdPG",
+  "botId": "QgvPQkHy3RwHJ7pPcKdPG",
+  "creator": {
+    "handle": "rightwingink1",
+    "url": "https://x.com/rightwingink1"
+  },
+  "sourceUrl": "https://x.com/rightwingink1/status/2104280077555179887",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/9-ema-grok-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "9 EMA Grok bot by Right",
+    "description": "Scans your watchlist for 9 EMA pullback setups and writes a finished order ticket for each one, counting an entry only when a candle closes through the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "analytics",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/9-ema-grok-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

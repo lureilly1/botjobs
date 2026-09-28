@@ -1,0 +1,44 @@
+{
+  "slug": "jarvis-coordinator",
+  "name": "Jarvis Coordinator",
+  "grokShareUrl": "https://x.ai/bot/vGBwBEELW79gSF340zJpb",
+  "botId": "vGBwBEELW79gSF340zJpb",
+  "creator": {
+    "handle": "HBud69",
+    "url": "https://x.com/HBud69"
+  },
+  "sourceUrl": "https://x.com/HBud69/status/2101966920404566208",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jarvis-coordinator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jarvis Coordinator by Harald",
+    "description": "Koordinator-Bot mit Spezialisten-Team: News, Office, Sales, System und Security-Auditor. Deutsch, vorsichtige Freigaben, wiederkehrende Digests — ohne...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "sales",
+    "automation",
+    "news",
+    "monitoring",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jarvis-coordinator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

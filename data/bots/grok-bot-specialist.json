@@ -1,0 +1,41 @@
+{
+  "slug": "grok-bot-specialist",
+  "name": "Grok Bot Specialist",
+  "grokShareUrl": "https://x.ai/bot/Ja9jU2cD4RYtLfgP34GTz",
+  "botId": "Ja9jU2cD4RYtLfgP34GTz",
+  "creator": {
+    "handle": "_inady_",
+    "url": "https://x.com/_inady_"
+  },
+  "sourceUrl": "https://x.com/_inady_/status/2104229561429053938",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot Specialist by Yutaka",
+    "description": "Answers questions about how Grok Bot works and helps keep your bot roster aligned with best practices.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "learning",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

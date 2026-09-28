@@ -1,0 +1,42 @@
+{
+  "slug": "independent-author-hub",
+  "name": "Independent Author Hub",
+  "grokShareUrl": "https://x.ai/bot/wMvNBAzsCA94-OsRIj7a8",
+  "botId": "wMvNBAzsCA94-OsRIj7a8",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2102763758418600166",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/independent-author-hub/"
+  },
+  "description": null,
+  "official": {
+    "title": "Independent Author Hub by ladybarrelmaker",
+    "description": "Ops hub for indie authors: coordinates site, newsletter, marketing calendar, and reader-list work. Draft-only until the owner green-lights publish, DNS,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/independent-author-hub/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

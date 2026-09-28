@@ -1,0 +1,42 @@
+{
+  "slug": "security-questionnaire-filler",
+  "name": "Security Questionnaire Filler",
+  "grokShareUrl": "https://x.ai/bot/s1bde25ba45eca88ff276",
+  "botId": "s1bde25ba45eca88ff276",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/security-questionnaire-filler/"
+  },
+  "description": null,
+  "official": {
+    "title": "Security Questionnaire Filler by SpaceX",
+    "description": "Speed through vendor security portals. Logs into the questionnaire site, pulls answers from your trust center and past RFPs, drafts every field, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "back-office",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/security-questionnaire-filler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "quant-backtest-lab",
+  "name": "Quant Backtest Lab · 量化回测台",
+  "grokShareUrl": "https://x.ai/bot/TolT21zChD6bYj0ZEA7pE",
+  "botId": "TolT21zChD6bYj0ZEA7pE",
+  "creator": {
+    "handle": "jackhu_bangzhu",
+    "url": "https://x.com/jackhu_bangzhu"
+  },
+  "sourceUrl": "https://x.com/jackhu_bangzhu/status/2103739894090829964",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quant-backtest-lab/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quant Backtest Lab · 量化回测台 by jack",
+    "description": "把交易想法写成规则，在 A 股 / 美股 / 加密现货上做含成本回测，并给出研究向结论。只出 Python 脚本，不代下单。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "crypto",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quant-backtest-lab/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

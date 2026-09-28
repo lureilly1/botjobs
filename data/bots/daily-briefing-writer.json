@@ -1,0 +1,42 @@
+{
+  "slug": "daily-briefing-writer",
+  "name": "Daily Briefing Writer",
+  "grokShareUrl": "https://x.ai/bot/sb94d44175e650dbb703e",
+  "botId": "sb94d44175e650dbb703e",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-briefing-writer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daily Briefing Writer by SpaceX",
+    "description": "Start the day with high quality inputs instead of noise. Delivers a tight daily brief of only the stories that matter to you.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "learning",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-briefing-writer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "inbox-scout",
+  "name": "Inbox Scout",
+  "grokShareUrl": "https://x.ai/bot/bxO47jo7w93LXNsBd7gGI",
+  "botId": "bxO47jo7w93LXNsBd7gGI",
+  "creator": {
+    "handle": "AdeptusMec71933",
+    "url": "https://x.com/AdeptusMec71933"
+  },
+  "sourceUrl": "https://x.com/AdeptusMec71933/status/2104085923835281827",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Scout by Javier",
+    "description": "Runs a short morning email brief from unread Gmail (last 24 hours). Groups Needs me / Can wait / Noise, drafts replies in chat only, and never sends...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "email",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

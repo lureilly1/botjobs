@@ -1,0 +1,42 @@
+{
+  "slug": "movie-magic",
+  "name": "Movie Magic",
+  "grokShareUrl": "https://x.ai/bot/6YwswfCUiouQ0SJkgPfJK",
+  "botId": "6YwswfCUiouQ0SJkgPfJK",
+  "creator": {
+    "handle": "king_rob_lo",
+    "url": "https://x.com/king_rob_lo"
+  },
+  "sourceUrl": "https://x.com/king_rob_lo/status/2102103672901795965",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/movie-magic/"
+  },
+  "description": null,
+  "official": {
+    "title": "Movie Magic by kingroblo.eth",
+    "description": "Helps pick movies, keep a personal watchlist, and optionally deliver a weekly top-10 domestic studio box-office pack with charts and a spreadsheet.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "video",
+    "analytics",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/movie-magic/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

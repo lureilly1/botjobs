@@ -1,0 +1,41 @@
+{
+  "slug": "shawn",
+  "name": "Shawn",
+  "grokShareUrl": "https://x.ai/bot/gEEv8k6WgJyU8es3eaXi7",
+  "botId": "gEEv8k6WgJyU8es3eaXi7",
+  "creator": {
+    "handle": "BadgersBet",
+    "url": "https://x.com/BadgersBet"
+  },
+  "sourceUrl": "https://x.com/BadgersBet/status/2103989579980108154",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shawn/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shawn by Badger",
+    "description": "Paper-first sports betting research desk. Hunts closing-line value and juice-aware EV, drafts an auditable daily card and ticket ledger, and never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "analytics",
+    "decision-support",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shawn/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

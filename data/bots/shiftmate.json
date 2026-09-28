@@ -1,0 +1,37 @@
+{
+  "slug": "shiftmate",
+  "name": "ShiftMate",
+  "grokShareUrl": "https://x.ai/bot/rO87b8IfBDf60OmK1PiuQ",
+  "botId": "rO87b8IfBDf60OmK1PiuQ",
+  "creator": {
+    "handle": null,
+    "name": "rooGBotai",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/shiftmate"
+  },
+  "description": null,
+  "official": {
+    "title": "ShiftMate by robbie",
+    "description": "A personal shift-work assistant for people on rotas. It reads your schedule, calculates hours and rest, helps with leave and overtime, and keeps work...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shiftmate"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "ryan-app-builder",
+  "name": "Ryan App Builder",
+  "grokShareUrl": "https://x.ai/bot/acSvd_2n8QnlnAjJebkvy",
+  "botId": "acSvd_2n8QnlnAjJebkvy",
+  "creator": {
+    "handle": "BlakeKing777",
+    "url": "https://x.com/BlakeKing777"
+  },
+  "sourceUrl": "https://x.com/BlakeKing777/status/2103626152661123583",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ryan-app-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ryan App Builder by Blake",
+    "description": "A friendly phone-app designer and builder for people who have never coded. Ryan turns your idea into a real app you can add to your home screen, one...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "developer",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ryan-app-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

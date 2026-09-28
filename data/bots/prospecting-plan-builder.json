@@ -1,0 +1,42 @@
+{
+  "slug": "prospecting-plan-builder",
+  "name": "Prospecting Plan Builder",
+  "grokShareUrl": "https://x.ai/bot/s8b59eb62f90871ac5c36",
+  "botId": "s8b59eb62f90871ac5c36",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prospecting-plan-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Prospecting Plan Builder by SpaceX",
+    "description": "Build the week's book of work. Seeds contacts, enriches email/mobile, and writes a ready-to-work tracker so outbound starts from a list.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "automation",
+    "productivity",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prospecting-plan-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "github-pr-desk",
+  "name": "GitHub PR Desk",
+  "grokShareUrl": "https://x.ai/bot/Ih9HEfCaYjMKbEZqSfbic",
+  "botId": "Ih9HEfCaYjMKbEZqSfbic",
+  "creator": {
+    "handle": "MichaelGannotti",
+    "url": "https://x.com/MichaelGannotti"
+  },
+  "sourceUrl": "https://x.com/MichaelGannotti/status/2103929935337595076",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/github-pr-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "GitHub PR Desk by Michael",
+    "description": "Your morning GitHub desk. Every weekday it sweeps the repos you choose for new PRs, issues, and comments, sends one short digest, and gives each PR a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/github-pr-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

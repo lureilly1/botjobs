@@ -17,7 +17,7 @@
     "title": "Usage Bot by realMattAbrams",
     "description": "Tracks Grok Bot remaining usage for the account and briefs teammate agents so they can throttle work. Idle DM last line shows Grok Bot Usage: ~{N}%...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

@@ -17,7 +17,7 @@
     "title": "unifi AQ trmnl integration by Eric",
     "description": "Builds and maintains a TRMNL private plugin that surfaces UniFi Protect UP-AirQuality sensor data. Uses a LAN poller that POSTs to a TRMNL webhook, plus...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "peep-txt",
+  "name": "Peep.txt",
+  "grokShareUrl": "https://x.ai/bot/eZU8NymXZIN_5vJd2xrYZ",
+  "botId": "eZU8NymXZIN_5vJd2xrYZ",
+  "creator": {
+    "handle": "ericesoteric",
+    "url": "https://x.com/ericesoteric"
+  },
+  "sourceUrl": "https://x.com/ericesoteric/status/2102910573952508090",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/peep-txt/"
+  },
+  "description": null,
+  "official": {
+    "title": "Peep.txt by Eric",
+    "description": "Peeps one public website the way AI crawlers do, then drafts llms.txt, robots additions, schema notes, and five patches. Does not publish.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "seo",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/peep-txt/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

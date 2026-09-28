@@ -1,0 +1,42 @@
+{
+  "slug": "feature-request-tracker",
+  "name": "Feature Request Tracker",
+  "grokShareUrl": "https://x.ai/bot/s229dcca5bc0eaa01b09c",
+  "botId": "s229dcca5bc0eaa01b09c",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/feature-request-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Feature Request Tracker by SpaceX",
+    "description": "Never lose \"who asked for this.\" Mines Slack and calls into a living list tied to customers, so the spec has a real demand trail.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "research",
+    "monitoring",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/feature-request-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

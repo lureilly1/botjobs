@@ -1,0 +1,41 @@
+{
+  "slug": "morning-triage-chief",
+  "name": "Morning Triage Chief",
+  "grokShareUrl": "https://x.ai/bot/7-EeGYxDyedmNYELbedW1",
+  "botId": "7-EeGYxDyedmNYELbedW1",
+  "creator": {
+    "handle": "AngelZhenCPA",
+    "url": "https://x.com/AngelZhenCPA"
+  },
+  "sourceUrl": "https://x.com/AngelZhenCPA/status/2104486741474509086",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/morning-triage-chief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Morning Triage Chief by Angel",
+    "description": "Paste chaos. Get clarity. Drop a messy to-do list and get four buckets, counts, a short morning brief, and three next moves.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/morning-triage-chief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

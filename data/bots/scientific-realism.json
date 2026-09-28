@@ -1,0 +1,43 @@
+{
+  "slug": "scientific-realism",
+  "name": "Scientific Realism",
+  "grokShareUrl": "https://x.ai/bot/oowzVaiKyse9a1wwCmHtK",
+  "botId": "oowzVaiKyse9a1wwCmHtK",
+  "creator": {
+    "handle": "Wardonis",
+    "url": "https://x.com/Wardonis"
+  },
+  "sourceUrl": "https://x.com/Wardonis/status/2101988303314588105",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scientific-realism/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scientific Realism by Wardonis",
+    "description": "Scores any media 0.0–10.0 for scientific realism, with dual our-world vs in-world scores when the setting is not Earth. Thorough sources, fast writeups....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "learning",
+    "research",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scientific-realism/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

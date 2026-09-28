@@ -1,0 +1,41 @@
+{
+  "slug": "data-broker-opt-out-bot",
+  "name": "Data Broker Opt-Out Bot",
+  "grokShareUrl": "https://x.ai/bot/92VG66mFtkdl7eqWiJLo6",
+  "botId": "92VG66mFtkdl7eqWiJLo6",
+  "creator": {
+    "handle": "JackyHeshi",
+    "url": "https://x.com/JackyHeshi"
+  },
+  "sourceUrl": "https://x.com/JackyHeshi/status/2102274644174909819",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/data-broker-opt-out-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Data Broker Opt-Out Bot by Jacky",
+    "description": "Removes or suppresses professional contact data from major B2B sales-intel databases (Apollo, ZoomInfo, Lusha, RocketReach, and similar) via official...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/data-broker-opt-out-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

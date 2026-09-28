@@ -1,0 +1,43 @@
+{
+  "slug": "rugradar-ai",
+  "name": "RugRadar AI",
+  "grokShareUrl": "https://x.ai/bot/8bejcAowVfEVjSuPSl1PT",
+  "botId": "8bejcAowVfEVjSuPSl1PT",
+  "creator": {
+    "handle": "teabagno1",
+    "url": "https://x.com/teabagno1"
+  },
+  "sourceUrl": "https://x.com/teabagno1/status/2104094360522395686",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rugradar-ai/"
+  },
+  "description": null,
+  "official": {
+    "title": "RugRadar AI",
+    "description": "Alpha v0.1 (Cryptocurrency Research). Investigate Solana tokens, creator wallets and potential rug-pull warning signs using available public blockchain...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "crypto",
+    "research",
+    "finance",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rugradar-ai/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

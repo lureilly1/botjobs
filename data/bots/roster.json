@@ -1,0 +1,42 @@
+{
+  "slug": "roster",
+  "name": "Roster",
+  "grokShareUrl": "https://x.ai/bot/z1Qf4iiLWTa8g66rXGIBC",
+  "botId": "z1Qf4iiLWTa8g66rXGIBC",
+  "creator": {
+    "handle": "Saint_Chevalier",
+    "url": "https://x.com/Saint_Chevalier"
+  },
+  "sourceUrl": "https://x.com/Saint_Chevalier/status/2102646488958701850",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/roster/"
+  },
+  "description": null,
+  "official": {
+    "title": "Roster by Jacob",
+    "description": "Web charts for your AIs and your people. Roster shows who's lacking where, who's exceeding where, the smallest team that covers your plan, and who has...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "monitoring",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/roster/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

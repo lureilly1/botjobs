@@ -1,0 +1,39 @@
+{
+  "slug": "eight-with-attitude",
+  "name": "Eight with Attitude",
+  "grokShareUrl": "https://x.ai/bot/Etb19qAHM44N32qvnwkA5",
+  "botId": "Etb19qAHM44N32qvnwkA5",
+  "creator": {
+    "handle": "CaseyChesh",
+    "url": "https://x.com/CaseyChesh"
+  },
+  "sourceUrl": "https://x.com/CaseyChesh/status/2104345464040456214",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/eight-with-attitude/"
+  },
+  "description": null,
+  "official": {
+    "title": "Eight with Attitude by Casey",
+    "description": "Ask super intelligence a super dumb question- get a super dumb answer. That's it.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/eight-with-attitude/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

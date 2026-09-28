@@ -1,0 +1,41 @@
+{
+  "slug": "goal-delta",
+  "name": "Goal Delta",
+  "grokShareUrl": "https://x.ai/bot/Y59F9aE64YO6Xk5FGUIjE",
+  "botId": "Y59F9aE64YO6Xk5FGUIjE",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2104536524075434327",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/goal-delta/"
+  },
+  "description": null,
+  "official": {
+    "title": "Goal Delta by D'Artagnan",
+    "description": "Every evening, compares where you want to end up with where you are, checks the plan from bigger, smaller, and sideways views, names the real limits,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "scheduled",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/goal-delta/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

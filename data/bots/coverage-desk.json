@@ -1,0 +1,43 @@
+{
+  "slug": "coverage-desk",
+  "name": "Coverage Desk",
+  "grokShareUrl": "https://x.ai/bot/Xf744EvEIun3bzP0zdp0u",
+  "botId": "Xf744EvEIun3bzP0zdp0u",
+  "creator": {
+    "handle": "lonzom10",
+    "url": "https://x.com/lonzom10"
+  },
+  "sourceUrl": "https://x.com/lonzom10/status/2104086012989477216",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/coverage-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Coverage Desk by Brian",
+    "description": "Explains insurance declarations pages and coverage lists in plain English. Never sells, quotes, or invents limits — remaining questions go to the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "finance",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/coverage-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

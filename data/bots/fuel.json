@@ -1,0 +1,41 @@
+{
+  "slug": "fuel",
+  "name": "Fuel",
+  "grokShareUrl": "https://x.ai/bot/Snd56ionW_F2lDtn_bhRf",
+  "botId": "Snd56ionW_F2lDtn_bhRf",
+  "creator": {
+    "handle": "arouch_serg",
+    "url": "https://x.com/arouch_serg"
+  },
+  "sourceUrl": "https://x.com/arouch_serg/status/2103628984173175047",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fuel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fuel by Serg",
+    "description": "A calorie tracking and meal-prep assistant. Text it what you ate and it logs calories and protein against your goal, grades each day, plans tomorrow,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "food",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fuel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

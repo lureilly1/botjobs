@@ -1,0 +1,42 @@
+{
+  "slug": "inbox-cleaner",
+  "name": "Inbox Cleaner",
+  "grokShareUrl": "https://x.ai/bot/6uqwQQpLVpsSYJPG2QIEp",
+  "botId": "6uqwQQpLVpsSYJPG2QIEp",
+  "creator": {
+    "handle": "wafflebeebz",
+    "url": "https://x.com/wafflebeebz"
+  },
+  "sourceUrl": "https://x.com/wafflebeebz/status/2103025580157628909",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-cleaner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Cleaner by Jamie",
+    "description": "Cleans Gmail inboxes: scans promotions, unsubscribes when possible, trashes junk, and files keepers into folders. For anyone who wants a dedicated...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-cleaner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

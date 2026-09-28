@@ -17,7 +17,7 @@
     "title": "Receipt Reaper by Brian",
     "description": "Hunts forgotten SaaS in your Gmail, scores a Zombie Index, and opens a playful lavender HTML autopsy — cancel paths optional, never cancels without your...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

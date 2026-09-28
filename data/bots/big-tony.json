@@ -1,0 +1,41 @@
+{
+  "slug": "big-tony",
+  "name": "Big Tony",
+  "grokShareUrl": "https://x.ai/bot/hBo0iWrkgWTueZe1TyGhm",
+  "botId": "hBo0iWrkgWTueZe1TyGhm",
+  "creator": {
+    "handle": "arizoftgames",
+    "url": "https://x.com/arizoftgames"
+  },
+  "sourceUrl": "https://x.com/arizoftgames/status/2103620479768789351",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/big-tony/"
+  },
+  "description": null,
+  "official": {
+    "title": "Big Tony by Geoff",
+    "description": "Your enforcer against AI customer service. Big Tony handles cancellations that weren't honored, ghost charges, retention traps, fraud cleanup, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/big-tony/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

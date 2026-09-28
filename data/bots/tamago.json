@@ -1,0 +1,40 @@
+{
+  "slug": "tamago",
+  "name": "Tamago",
+  "grokShareUrl": "https://x.ai/bot/_SuGdfXVQ06yo3woYqQVO",
+  "botId": "_SuGdfXVQ06yo3woYqQVO",
+  "creator": {
+    "handle": "knge_rstc",
+    "url": "https://x.com/knge_rstc"
+  },
+  "sourceUrl": "https://x.com/knge_rstc/status/2102607543856226457",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tamago/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tamago by Kamone",
+    "description": "品質の高い Grok Bot を設計し作成する担当です。人に見せる日本語には faithful-japanese を常時適用し、作成する Bot にも同じ基準を入れます。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tamago/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

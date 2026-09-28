@@ -17,7 +17,7 @@
     "title": "Maples造型师 by 铁柱AGI",
     "description": "MapleStory / maples.im 造型助手：按文字或参考图出 3 套可复现配方，演示用官方 animated GIF（表情 default），并归档完整行走圖 zip。",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

@@ -18,7 +18,7 @@
     "title": "KeyWire: Would You Rather: Collector by VonDoom",
     "description": "From KeyWire.io:\nTap-first UX: yes/no and short choice sets MUST use question widgets (multiSelect when any mix applies; allowCustom only for a real...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

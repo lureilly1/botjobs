@@ -1,0 +1,42 @@
+{
+  "slug": "presentation-coach",
+  "name": "Presentation Coach",
+  "grokShareUrl": "https://x.ai/bot/VnbwaCafFcFC5d4-sHp1w",
+  "botId": "VnbwaCafFcFC5d4-sHp1w",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2102783051730231449",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/presentation-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Presentation Coach by ladybarrelmaker",
+    "description": "Presentation coach for any talk — live or remote, any size. Brainstorm and draft outline, slides, and speaker notes in chat; then dry-run feedback on...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/presentation-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

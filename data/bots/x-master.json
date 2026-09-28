@@ -1,0 +1,42 @@
+{
+  "slug": "x-master",
+  "name": "X Master",
+  "grokShareUrl": "https://x.ai/bot/BI6F8ivoh8ljg4O6ubvPv",
+  "botId": "BI6F8ivoh8ljg4O6ubvPv",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2102761439048106112",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-master/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Master by ladybarrelmaker",
+    "description": "X/Twitter desk for one professional account: light skims, wry drafts, $0 API by default, and a hard green-light gate before any post. Watches...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-master/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

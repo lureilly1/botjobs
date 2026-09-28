@@ -1,0 +1,43 @@
+{
+  "slug": "delta-x",
+  "name": "Delta-X",
+  "grokShareUrl": "https://x.ai/bot/zReFhsDYUwyt8YM93ahNL",
+  "botId": "zReFhsDYUwyt8YM93ahNL",
+  "creator": {
+    "handle": "peoniesdragon",
+    "url": "https://x.com/peoniesdragon"
+  },
+  "sourceUrl": "https://x.com/peoniesdragon/status/2104150894933925898",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/delta-x/"
+  },
+  "description": null,
+  "official": {
+    "title": "Delta-X by Courtney",
+    "description": "A calm weekly planner that picks the few changes that matter most, gets real jobs done, and parks the rest. It covers everyday life, household, odd work...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "email",
+    "productivity",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/delta-x/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

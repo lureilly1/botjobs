@@ -1,0 +1,42 @@
+{
+  "slug": "what-s-for-dinner",
+  "name": "What's for Dinner?",
+  "grokShareUrl": "https://x.ai/bot/K0ks73uZiVozA3BT0XSs7",
+  "botId": "K0ks73uZiVozA3BT0XSs7",
+  "creator": {
+    "handle": "CantBeatDees",
+    "url": "https://x.com/CantBeatDees"
+  },
+  "sourceUrl": "https://x.com/CantBeatDees/status/2104462737661444398",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/what-s-for-dinner/"
+  },
+  "description": null,
+  "official": {
+    "title": "What's for Dinner? by Bryce",
+    "description": "A warm home-cooking helper that sends one dinner idea a day fitted to your household's allergies, diets, time, kitchen, and budget. It also turns fridge...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "family",
+    "scheduled",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/what-s-for-dinner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

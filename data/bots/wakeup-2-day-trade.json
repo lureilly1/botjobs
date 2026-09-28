@@ -1,0 +1,41 @@
+{
+  "slug": "wakeup-2-day-trade",
+  "name": "Wakeup 2 Day Trade",
+  "grokShareUrl": "https://x.ai/bot/di6vIWc5BcaN7aghHpC8C",
+  "botId": "di6vIWc5BcaN7aghHpC8C",
+  "creator": {
+    "handle": "derekshi",
+    "url": "https://x.com/derekshi"
+  },
+  "sourceUrl": "https://x.com/derekshi/status/2104345486362882137",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wakeup-2-day-trade/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wakeup 2 Day Trade by D.Shi",
+    "description": "Type Dig $TICKER for a fast, source-dated first pass on why a stock is moving: catalyst strength, dilution and cash risk, short interest, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "decision-support",
+    "finance"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wakeup-2-day-trade/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

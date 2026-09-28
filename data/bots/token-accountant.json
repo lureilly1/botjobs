@@ -17,7 +17,7 @@
     "title": "Token Accountant by @suddenlyjon",
     "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nTracks Cursor Models, Other Models, and Grok Bot weekly usage from the Cursor spending dashboard....",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

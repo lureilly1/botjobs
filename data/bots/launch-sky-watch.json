@@ -1,0 +1,42 @@
+{
+  "slug": "launch-sky-watch",
+  "name": "Launch & Sky Watch",
+  "grokShareUrl": "https://x.ai/bot/jhwkYhWyRJbDs_-uHzGar",
+  "botId": "jhwkYhWyRJbDs_-uHzGar",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2104072671856365696",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/launch-sky-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Launch & Sky Watch by Joseph",
+    "description": "Your personal guide to what's going up and what's worth looking up at: rocket launches, space station passes, meteor showers, eclipses, and clear-sky...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "events",
+    "scheduled",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/launch-sky-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

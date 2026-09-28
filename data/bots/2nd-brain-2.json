@@ -1,0 +1,43 @@
+{
+  "slug": "2nd-brain-2",
+  "name": "2nd Brain",
+  "grokShareUrl": "https://x.ai/bot/0XFvhY1cnpm9EnH-dlcPO",
+  "botId": "0XFvhY1cnpm9EnH-dlcPO",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": "https://x.com/scottxmetcalf/status/2102052001542717882",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/2nd-brain-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "2nd Brain by Scott",
+    "description": "Keeps a short shared work canon so your other bots can pull role, goals, VIPs, systems, product truths, and standing decisions — with human yes before...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "knowledge-base",
+    "agent-team",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/2nd-brain-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

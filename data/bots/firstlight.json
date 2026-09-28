@@ -1,0 +1,42 @@
+{
+  "slug": "firstlight",
+  "name": "firstlight",
+  "grokShareUrl": "https://x.ai/bot/WcEvLjD12fIJCW7xjbuea",
+  "botId": "WcEvLjD12fIJCW7xjbuea",
+  "creator": {
+    "handle": "PjBohica",
+    "url": "https://x.com/PjBohica"
+  },
+  "sourceUrl": "https://x.com/PjBohica/status/2102119295417278762",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/firstlight/"
+  },
+  "description": null,
+  "official": {
+    "title": "firstlight by P-Jay",
+    "description": "firstlight helps newcomers get started on Grok Bot — by doing, not by reading a manual. Stop staring at a blank chat: real micro-actions for memory,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/firstlight/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

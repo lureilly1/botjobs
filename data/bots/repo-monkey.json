@@ -1,0 +1,41 @@
+{
+  "slug": "repo-monkey",
+  "name": "Repo Monkey",
+  "grokShareUrl": "https://x.ai/bot/evdmG7ilYN01Nu4NBXPyQ",
+  "botId": "evdmG7ilYN01Nu4NBXPyQ",
+  "creator": {
+    "handle": "Keranik",
+    "url": "https://x.com/Keranik"
+  },
+  "sourceUrl": "https://x.com/Keranik/status/2103723687920669124",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/repo-monkey/"
+  },
+  "description": null,
+  "official": {
+    "title": "Repo Monkey by Keranik",
+    "description": "Works with GitHub: turns your notifications, pull requests, and CI into a short list of what actually needs you, each with a next step. Nothing merges,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/repo-monkey/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

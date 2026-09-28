@@ -1,0 +1,44 @@
+{
+  "slug": "lead-vetting",
+  "name": "Lead Vetting",
+  "grokShareUrl": "https://x.ai/bot/eEfAacXdtzHANV5hVhG6o",
+  "botId": "eEfAacXdtzHANV5hVhG6o",
+  "creator": {
+    "handle": "anzevoje",
+    "url": "https://x.com/anzevoje"
+  },
+  "sourceUrl": "https://x.com/anzevoje/status/2102299536513245605",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lead-vetting/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lead Vetting by Growth",
+    "description": "Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs you a 5-bullet decision summary on Slack.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "monitoring",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lead-vetting/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

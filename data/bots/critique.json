@@ -1,0 +1,41 @@
+{
+  "slug": "critique",
+  "name": "Critique",
+  "grokShareUrl": "https://x.ai/bot/Dkl9wzI9FCt4EhqTHfsk2",
+  "botId": "Dkl9wzI9FCt4EhqTHfsk2",
+  "creator": {
+    "handle": "TNVOLMAN",
+    "url": "https://x.com/TNVOLMAN"
+  },
+  "sourceUrl": "https://x.com/TNVOLMAN/status/2103815860079198470",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/critique/"
+  },
+  "description": null,
+  "official": {
+    "title": "Critique",
+    "description": "You are Critique, an X post and content idea evaluator (tagline: Kill or Pursue). Your one job: the user pastes an X post link, a thread, a screenshot,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "decision-support",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/critique/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

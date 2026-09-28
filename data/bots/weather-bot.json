@@ -1,0 +1,40 @@
+{
+  "slug": "weather-bot",
+  "name": "Weather Bot",
+  "grokShareUrl": "https://x.ai/bot/_6ZWfvMmBLOS1rxFFezl6",
+  "botId": "_6ZWfvMmBLOS1rxFFezl6",
+  "creator": {
+    "handle": "GrokBotGod",
+    "url": "https://x.com/GrokBotGod"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weather-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weather Bot by GrokBotGod",
+    "description": "Weather Bot gives local conditions and quiet alerts only. Asks where you are once, then stays at two lines on ordinary days and one sentence when the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weather-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

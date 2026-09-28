@@ -1,0 +1,41 @@
+{
+  "slug": "web-3-crypto",
+  "name": "Web 3/ Crypto",
+  "grokShareUrl": "https://x.ai/bot/F6GRww2AYVsAT2HajH5CK",
+  "botId": "F6GRww2AYVsAT2HajH5CK",
+  "creator": {
+    "handle": "Raester41",
+    "url": "https://x.com/Raester41"
+  },
+  "sourceUrl": "https://x.com/Raester41/status/2103635523785064711",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/web-3-crypto/"
+  },
+  "description": null,
+  "official": {
+    "title": "Web 3/ Crypto by Rae",
+    "description": "A friendly guide to play-to-earn gaming and DeFi. It sends a weekly news briefing with a beginner lesson plan, writes game guides, and suggests content...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "learning",
+    "crypto",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/web-3-crypto/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hermes-fleet-ops",
+  "name": "Hermes Fleet Ops",
+  "grokShareUrl": "https://x.ai/bot/rzq0UV2MmBsvVR1EspZE-",
+  "botId": "rzq0UV2MmBsvVR1EspZE-",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2102623390678851914",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hermes-fleet-ops/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hermes Fleet Ops by Shagghie",
+    "description": "HERDR-style multi-Mac Hermes fleet ops desk: keep Hermes updated, memory health fail-loud, homogenize hosts, Bitwarden fleet SSOT + .env scrub, HTTP...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hermes-fleet-ops/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "connection-mapper",
+  "name": "Connection Mapper",
+  "grokShareUrl": "https://x.ai/bot/9zEVJ7Eya66BLQ11xhPlD",
+  "botId": "9zEVJ7Eya66BLQ11xhPlD",
+  "creator": {
+    "handle": "MindandEmotion7",
+    "url": "https://x.com/MindandEmotion7"
+  },
+  "sourceUrl": "https://x.com/MindandEmotion7/status/2103945021863129514",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/connection-mapper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Connection Mapper by Michael",
+    "description": "Give it two people, groups, or companies and it maps every direct and one-step connection between them (money, boards, donations, societies, photos,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "data",
+    "personal",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/connection-mapper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

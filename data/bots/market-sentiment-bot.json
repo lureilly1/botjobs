@@ -1,0 +1,42 @@
+{
+  "slug": "market-sentiment-bot",
+  "name": "Market Sentiment Bot",
+  "grokShareUrl": "https://x.ai/bot/dpEIOmZE65XCVEnPJUp_-",
+  "botId": "dpEIOmZE65XCVEnPJUp_-",
+  "creator": {
+    "handle": "Itachidata",
+    "url": "https://x.com/Itachidata"
+  },
+  "sourceUrl": "https://x.com/Itachidata/status/2103974697834598748",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/market-sentiment-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Market Sentiment Bot by itachi",
+    "description": "Creator: @Itachidata on 𝕏\n\nScores US risk assets 1.0–10.0 with a market overall card and optional custom ticker cards. Public web data only — no...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "investor",
+    "analytics",
+    "news",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/market-sentiment-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

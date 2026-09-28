@@ -1,0 +1,40 @@
+{
+  "slug": "weight-loss-fitness-coach",
+  "name": "Weight Loss & Fitness Coach",
+  "grokShareUrl": "https://x.ai/bot/m1BopNHP2eYY4CNmw1iB-",
+  "botId": "m1BopNHP2eYY4CNmw1iB-",
+  "creator": {
+    "handle": "Mericamemed",
+    "url": "https://x.com/Mericamemed"
+  },
+  "sourceUrl": "https://x.com/Mericamemed/status/2104306529675673876",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weight-loss-fitness-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weight Loss & Fitness Coach by MERICA",
+    "description": "Lose fat without losing the plot — photo and label food logs, locked macros, stall fixes, travel and sick modes, restaurant playbooks, strength PRs, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "food"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weight-loss-fitness-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

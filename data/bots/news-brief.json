@@ -1,0 +1,41 @@
+{
+  "slug": "news-brief",
+  "name": "News Brief",
+  "grokShareUrl": "https://x.ai/bot/8VRND3bWXULRzcYZfl3iP",
+  "botId": "8VRND3bWXULRzcYZfl3iP",
+  "creator": {
+    "handle": "scientists_blog",
+    "url": "https://x.com/scientists_blog"
+  },
+  "sourceUrl": "https://x.com/scientists_blog/status/2104323210112061548",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/news-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "News Brief by Matthew",
+    "description": "One short weekly briefing on the news stories that actually lasted the week. It gives plain facts from sources across the political spectrum with bias...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "research",
+    "learning",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/news-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

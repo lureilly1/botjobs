@@ -1,0 +1,42 @@
+{
+  "slug": "x-growth-assistant",
+  "name": "X Growth Assistant",
+  "grokShareUrl": "https://x.ai/bot/B4ro8N0_j3XGF5ras3iW0",
+  "botId": "B4ro8N0_j3XGF5ras3iW0",
+  "creator": {
+    "handle": "DonaldMoor91672",
+    "url": "https://x.com/DonaldMoor91672"
+  },
+  "sourceUrl": "https://x.com/DonaldMoor91672/status/2103987428528882072",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-growth-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Growth Assistant by Donald",
+    "description": "Keeps your X account clean and growing. It unfollows non-followers, clears out bots and dead accounts, follows the right people in your niche, and can...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "growth",
+    "marketer",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-growth-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

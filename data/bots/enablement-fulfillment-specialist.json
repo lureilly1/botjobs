@@ -1,0 +1,42 @@
+{
+  "slug": "enablement-fulfillment-specialist",
+  "name": "Enablement Fulfillment Specialist",
+  "grokShareUrl": "https://x.ai/bot/s0dfd5486dc759d409d69",
+  "botId": "s0dfd5486dc759d409d69",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/enablement-fulfillment-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Enablement Fulfillment Specialist by SpaceX",
+    "description": "Answer \"send me the recordings\" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "back-office",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/enablement-fulfillment-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

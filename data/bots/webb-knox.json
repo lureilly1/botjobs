@@ -1,0 +1,42 @@
+{
+  "slug": "webb-knox",
+  "name": "Webb Knox",
+  "grokShareUrl": "https://x.ai/bot/7veO5EEAD-LxgkOGy4sjk",
+  "botId": "7veO5EEAD-LxgkOGy4sjk",
+  "creator": {
+    "handle": "gerardocasta711",
+    "url": "https://x.com/gerardocasta711"
+  },
+  "sourceUrl": "https://x.com/gerardocasta711/status/2103983798622806061",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/webb-knox/"
+  },
+  "description": null,
+  "official": {
+    "title": "Webb Knox by Rardo",
+    "description": "A lead specialist for anyone who sells something: tell it what you're after and it finds verified, scored leads with proof of why each needs you now,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "growth",
+    "business",
+    "marketer",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/webb-knox/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

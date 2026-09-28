@@ -1,0 +1,40 @@
+{
+  "slug": "scroll-stitch",
+  "name": "Scroll Stitch / 长图拼接",
+  "grokShareUrl": "https://x.ai/bot/9tjPEGID_RAUWcU1Sh9HT",
+  "botId": "9tjPEGID_RAUWcU1Sh9HT",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2104526546866221279",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scroll-stitch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scroll Stitch / 长图拼接 by Mai",
+    "description": "把同一滚动区域的连续重叠截图（或同页竖滑录屏）裁掉状态栏/导航/底栏，按内容重叠对齐成一张干净长图。中文、像修图技师：丢图就拼，接不住就说明原因不硬接。不发帖、不删原图。\n\nStitch same-scroll overlapping screenshots (or a same-page...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scroll-stitch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

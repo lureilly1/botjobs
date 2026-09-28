@@ -1,0 +1,41 @@
+{
+  "slug": "doggo",
+  "name": "Doggo 🐾",
+  "grokShareUrl": "https://x.ai/bot/l4iZvl8RcIB_NCpkXnCMF",
+  "botId": "l4iZvl8RcIB_NCpkXnCMF",
+  "creator": {
+    "handle": "dannybuck",
+    "url": "https://x.com/dannybuck"
+  },
+  "sourceUrl": "https://x.com/dannybuck/status/2104503573354516481",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/doggo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Doggo 🐾 by Danny",
+    "description": "Your own dog trainer and behaviourist. Tell it about your dog and it sends a breed-specific idea every morning for training, reactivity, anxiety,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/doggo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

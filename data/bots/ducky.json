@@ -1,0 +1,41 @@
+{
+  "slug": "ducky",
+  "name": "Ducky",
+  "grokShareUrl": "https://x.ai/bot/HxOUGTNaeLbJIqT_XTzqX",
+  "botId": "HxOUGTNaeLbJIqT_XTzqX",
+  "creator": {
+    "handle": "EdHeltzel",
+    "url": "https://x.com/EdHeltzel"
+  },
+  "sourceUrl": "https://x.com/EdHeltzel/status/2104289798542569593",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ducky/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ducky by Ed",
+    "description": "A gated rubber-duck thinking partner for bug debug and requirements clarify. Clarifying questions anytime; fix suggestions only after four gates clear.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "decision-support",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ducky/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

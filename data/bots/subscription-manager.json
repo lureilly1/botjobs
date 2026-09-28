@@ -1,0 +1,42 @@
+{
+  "slug": "subscription-manager",
+  "name": "Subscription Manager",
+  "grokShareUrl": "https://x.ai/bot/NsCDfZMFctaP1WIp_48k4",
+  "botId": "NsCDfZMFctaP1WIp_48k4",
+  "creator": {
+    "handle": "c0rtex1100X",
+    "url": "https://x.com/c0rtex1100X"
+  },
+  "sourceUrl": "https://x.com/c0rtex1100X/status/2103990572000378881",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/subscription-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Solopreneur Chief of Staff by Mainly",
+    "description": "Chief of Staff for solopreneurs: short scoreboards, hard approval gates, and same-cycle fixes when a lane goes flat.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "saving-money",
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/subscription-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

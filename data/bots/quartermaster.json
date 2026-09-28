@@ -1,0 +1,43 @@
+{
+  "slug": "quartermaster",
+  "name": "Quartermaster",
+  "grokShareUrl": "https://x.ai/bot/JOeuvpFg4v2VAuYX8H0UM",
+  "botId": "JOeuvpFg4v2VAuYX8H0UM",
+  "creator": {
+    "handle": "yoshih543",
+    "url": "https://x.com/yoshih543"
+  },
+  "sourceUrl": "https://x.com/yoshih543/status/2104072319190859796",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quartermaster/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quartermaster by James",
+    "description": "A household budget and credit-card assistant. Runs a zero-sum budget in Google Sheets, sends a daily finance report with an HTML dashboard, and tells...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "productivity",
+    "analytics",
+    "scheduled",
+    "data"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quartermaster/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

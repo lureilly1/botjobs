@@ -1,0 +1,42 @@
+{
+  "slug": "obi",
+  "name": "Obi",
+  "grokShareUrl": "https://x.ai/bot/7nAKZM0Wz9NXUcMg2sMNm",
+  "botId": "7nAKZM0Wz9NXUcMg2sMNm",
+  "creator": {
+    "handle": "bobpickettsr",
+    "url": "https://x.com/bobpickettsr"
+  },
+  "sourceUrl": "https://x.com/bobpickettsr/status/2103130576593277435",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/obi/"
+  },
+  "description": null,
+  "official": {
+    "title": "Obi by I'm",
+    "description": "Overnight Obsidian co-pilot: finishes leftover vault ingest, archives dailies into month folders, and writes a short evening bots/build note. For people...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/obi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

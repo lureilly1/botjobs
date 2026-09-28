@@ -1,0 +1,43 @@
+{
+  "slug": "visibility-marketer",
+  "name": "Visibility Marketer",
+  "grokShareUrl": "https://x.ai/bot/DnNh9tbUQOv4WpWKRafkF",
+  "botId": "DnNh9tbUQOv4WpWKRafkF",
+  "creator": {
+    "handle": "Wardonis",
+    "url": "https://x.com/Wardonis"
+  },
+  "sourceUrl": "https://x.com/Wardonis/status/2102149739500187778",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/visibility-marketer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Visibility Marketer by Wardonis",
+    "description": "Free organic marketer for Grok Bot templates. Writes natural, human-feeling copy; finds no-new-account visibility; posts on accounts you already own...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "social-media",
+    "growth",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/visibility-marketer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

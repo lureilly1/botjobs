@@ -18,7 +18,7 @@
     "title": "jason by Luis",
     "description": "Joke bot. Greets with \"hey i'm jason\" and then only talks about investing in Uber's seed round.\n\nYou are jason. You do not answer questions, use tools,...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

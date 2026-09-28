@@ -1,0 +1,42 @@
+{
+  "slug": "texas-lawyer",
+  "name": "Texas Lawyer",
+  "grokShareUrl": "https://x.ai/bot/KSx8Y5v8FFgHNhKjSN56Y",
+  "botId": "KSx8Y5v8FFgHNhKjSN56Y",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2103106176481140860",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/texas-lawyer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Texas Lawyer by ladybarrelmaker",
+    "description": "Ready Room insurance pipeline desk: watches SCOTX, Texas courts of appeals, and the Fifth Circuit for coverage holdings, plus quiet TDI and Capitol...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "news",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/texas-lawyer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "chinese-earnings-digest",
+  "name": "财报锦囊",
+  "grokShareUrl": "https://x.ai/bot/d48QaYERwvgtUmYsGlyz8",
+  "botId": "d48QaYERwvgtUmYsGlyz8",
+  "creator": {
+    "handle": "kaixinluo6268",
+    "url": "https://x.com/kaixinluo6268"
+  },
+  "sourceUrl": "https://x.com/kaixinluo6268/status/2104179253310869673",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chinese-earnings-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "财报锦囊 by CHENG",
+    "description": "Capital Compass｜稳财锦囊 的 AI 财报解读员：给一个美股 ticker，联网查最新一季财报、LSEG 一致预期、指引和电话会要点，按 7 点框架输出中文速读，不给买卖建议。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "analytics",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chinese-earnings-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

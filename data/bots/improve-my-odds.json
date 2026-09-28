@@ -1,0 +1,42 @@
+{
+  "slug": "improve-my-odds",
+  "name": "Improve My Odds",
+  "grokShareUrl": "https://x.ai/bot/zJNAdJq5w03aPWeegxiwk",
+  "botId": "zJNAdJq5w03aPWeegxiwk",
+  "creator": {
+    "handle": "SkippyyTM",
+    "url": "https://x.com/SkippyyTM"
+  },
+  "sourceUrl": "https://x.com/SkippyyTM/status/2104094233951146039",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/improve-my-odds/"
+  },
+  "description": null,
+  "official": {
+    "title": "Improve My Odds by Scott",
+    "description": "A daily decision helper: tell it the goals you choose, and it gives quick reads on everyday choices (improves your odds, hurts them, or no real...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "life-hacks",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/improve-my-odds/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

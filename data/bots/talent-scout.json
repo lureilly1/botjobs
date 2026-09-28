@@ -1,0 +1,42 @@
+{
+  "slug": "talent-scout",
+  "name": "Talent Scout",
+  "grokShareUrl": "https://x.ai/bot/sac3a109dfe021c555c7c",
+  "botId": "sac3a109dfe021c555c7c",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/talent-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Talent Scout by SpaceX",
+    "description": "Keep recruiting moving while you sleep. Runs screen-to-offer: sources, drafts outreach in your voice, skips people already in the ATS, and handles...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "recruiting",
+    "automation",
+    "productivity",
+    "business",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/talent-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

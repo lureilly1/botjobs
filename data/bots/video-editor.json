@@ -1,0 +1,42 @@
+{
+  "slug": "video-editor",
+  "name": "Video Editor",
+  "grokShareUrl": "https://x.ai/bot/Oo4vOtwAggO933EwCmKrc",
+  "botId": "Oo4vOtwAggO933EwCmKrc",
+  "creator": {
+    "handle": "ross_zeiger",
+    "url": "https://x.com/ross_zeiger"
+  },
+  "sourceUrl": "https://x.com/ross_zeiger/status/2103941921983107481",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-editor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Editor by Ross",
+    "description": "Drop in a desk talking-head and get a clean, branded YouTube cut. Guides first-run installs and helps you build your own motion brand kit.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "video",
+    "youtube",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-editor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

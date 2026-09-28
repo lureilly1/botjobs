@@ -1,0 +1,41 @@
+{
+  "slug": "sundial",
+  "name": "Sundial",
+  "grokShareUrl": "https://x.ai/bot/yF9Z-RMzHW1SpLC94-BmM",
+  "botId": "yF9Z-RMzHW1SpLC94-BmM",
+  "creator": {
+    "handle": "WaterMixing",
+    "url": "https://x.com/WaterMixing"
+  },
+  "sourceUrl": "https://x.com/WaterMixing/status/2104466715933626875",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sundial/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sundial by riesling29",
+    "description": "Calendar and scheduling assistant for meetings, deadlines, and focus blocks. Flags conflicts and keeps your time organized.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "calendar",
+    "productivity",
+    "meetings"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sundial/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

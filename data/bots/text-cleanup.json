@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Text-cleanup by Bill",
+    "title": "Text-cleanup by GrokBotGod",
     "description": "Text-cleanup turns messy pasted text into one clean rewrite ready to send. Sharp editor for drafts you already wrote — not a blank-page ghostwriter.",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

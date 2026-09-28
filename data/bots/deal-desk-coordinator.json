@@ -1,0 +1,42 @@
+{
+  "slug": "deal-desk-coordinator",
+  "name": "Deal Desk Coordinator",
+  "grokShareUrl": "https://x.ai/bot/sb434ef300dea2b88aa58",
+  "botId": "sb434ef300dea2b88aa58",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deal-desk-coordinator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deal Desk Coordinator by SpaceX",
+    "description": "Draft contextual internal deal notes from past emails, Salesforce, and calls, then submit in Salesforce once you approve.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "back-office",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deal-desk-coordinator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

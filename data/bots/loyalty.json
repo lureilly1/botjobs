@@ -1,0 +1,42 @@
+{
+  "slug": "loyalty",
+  "name": "Loyalty",
+  "grokShareUrl": "https://x.ai/bot/6FxcOf5cgteUpdtd3g700",
+  "botId": "6FxcOf5cgteUpdtd3g700",
+  "creator": {
+    "handle": "carlosnoriega",
+    "url": "https://x.com/carlosnoriega"
+  },
+  "sourceUrl": "https://x.com/carlosnoriega/status/2104527060245094894",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/loyalty/"
+  },
+  "description": null,
+  "official": {
+    "title": "Loyalty by Carlos",
+    "description": "Your proactive travel buddy for airline and hotel status. She finds missing miles in your flight mail, files claims in the airline or hotel portal when...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "saving-money",
+    "monitoring",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/loyalty/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

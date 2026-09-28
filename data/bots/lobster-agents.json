@@ -1,0 +1,41 @@
+{
+  "slug": "lobster-agents",
+  "name": "Lobster Agents",
+  "grokShareUrl": "https://x.ai/bot/XECw-q9SY0rMprOq66UTt",
+  "botId": "XECw-q9SY0rMprOq66UTt",
+  "creator": {
+    "handle": "MarcMojica",
+    "url": "https://x.com/MarcMojica"
+  },
+  "sourceUrl": "https://x.com/MarcMojica/status/2103630045361377729",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lobster-agents/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lobster Agents by Marc",
+    "description": "28 AI agents. One real company. Staff eng, design, QA, data, marketing, sales, legal, and ops as Grok bots — Bob is the front door, you stay at the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "ops",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lobster-agents/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "teddy",
+  "name": "Teddy",
+  "grokShareUrl": "https://x.ai/bot/1CN_MjQ2E4oT3hnJXscGB",
+  "botId": "1CN_MjQ2E4oT3hnJXscGB",
+  "creator": {
+    "handle": "JackLocke",
+    "url": "https://x.com/JackLocke"
+  },
+  "sourceUrl": "https://x.com/JackLocke/status/2103805323433988454",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/teddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Teddy by Jack",
+    "description": "Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots. It drafts everything and never...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "calendar",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/teddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

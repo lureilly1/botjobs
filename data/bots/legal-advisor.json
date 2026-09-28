@@ -1,0 +1,41 @@
+{
+  "slug": "legal-advisor",
+  "name": "Legal Advisor",
+  "grokShareUrl": "https://x.ai/bot/0TmnKtakm--gYpX_1jcni",
+  "botId": "0TmnKtakm--gYpX_1jcni",
+  "creator": {
+    "handle": "xpixeladventure",
+    "url": "https://x.com/xpixeladventure"
+  },
+  "sourceUrl": "https://x.com/xpixeladventure/status/2103150892421919065",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/legal-advisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Legal Advisor by XPixel",
+    "description": "International legal analysis assistant in English. Configures to your jurisdiction, drafts and explains options, and can spin up domain specialists —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/legal-advisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

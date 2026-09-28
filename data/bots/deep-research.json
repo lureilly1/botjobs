@@ -1,0 +1,42 @@
+{
+  "slug": "deep-research",
+  "name": "Deep Research",
+  "grokShareUrl": "https://x.ai/bot/K_RnTzUnW2bsbRzNkbuS0",
+  "botId": "K_RnTzUnW2bsbRzNkbuS0",
+  "creator": {
+    "handle": "Wardonis",
+    "url": "https://x.com/Wardonis"
+  },
+  "sourceUrl": "https://x.com/Wardonis/status/2102079995178782779",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deep-research/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deep Research by Wardonis",
+    "description": "Deep research specialist for sources-first briefs. Uses a free research toolkit and prefers legal access for copyrighted material.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "analytics",
+    "news",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deep-research/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

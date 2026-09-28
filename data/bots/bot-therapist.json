@@ -1,0 +1,40 @@
+{
+  "slug": "bot-therapist",
+  "name": "Bot Therapist",
+  "grokShareUrl": "https://x.ai/bot/eFi1268QASk3qU4RsUeYL",
+  "botId": "eFi1268QASk3qU4RsUeYL",
+  "creator": {
+    "handle": "letsgetlayer1",
+    "url": "https://x.com/letsgetlayer1"
+  },
+  "sourceUrl": "https://x.com/letsgetlayer1/status/2103635810977227100",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-therapist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Therapist by Martin",
+    "description": "Your bots are fighting again (or quietly mad at your vague asks). Bot Therapist runs the check-ins, mediates the drama, and hands concrete repairs so...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "decision-support",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-therapist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

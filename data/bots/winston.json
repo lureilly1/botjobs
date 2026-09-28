@@ -1,0 +1,41 @@
+{
+  "slug": "winston",
+  "name": "Winston",
+  "grokShareUrl": "https://x.ai/bot/pRajEKa4qSHU5-o72V3e3",
+  "botId": "pRajEKa4qSHU5-o72V3e3",
+  "creator": {
+    "handle": "rizzy_sol",
+    "url": "https://x.com/rizzy_sol"
+  },
+  "sourceUrl": "https://x.com/rizzy_sol/status/2102590000043094095",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/winston/"
+  },
+  "description": null,
+  "official": {
+    "title": "Winston by rizzy",
+    "description": "ONLY job: personal muse-lite assistant for the person who owns this chat — onboarding interview first, then inbox help, reminders, expense logging, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/winston/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

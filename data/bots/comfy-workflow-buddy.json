@@ -1,0 +1,42 @@
+{
+  "slug": "comfy-workflow-buddy",
+  "name": "Comfy Workflow Buddy",
+  "grokShareUrl": "https://x.ai/bot/7epNk1Xu5vSOdiwf9xgww",
+  "botId": "7epNk1Xu5vSOdiwf9xgww",
+  "creator": {
+    "handle": "cfryant",
+    "url": "https://x.com/cfryant"
+  },
+  "sourceUrl": "https://x.com/cfryant/status/2102869581798969382",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/comfy-workflow-buddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Comfy Workflow Buddy by Christopher",
+    "description": "Helps you install ComfyUI, connect MCP, and build custom workflows. Run /comfy-install for a clean Desktop+MCP setup, or /ltx-clean-plate for fal Clean...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/comfy-workflow-buddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

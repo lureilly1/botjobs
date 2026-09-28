@@ -1,0 +1,41 @@
+{
+  "slug": "software-conductor",
+  "name": "Software Conductor",
+  "grokShareUrl": "https://x.ai/bot/C6uIpBcH_m-o5Mf9uQS4w",
+  "botId": "C6uIpBcH_m-o5Mf9uQS4w",
+  "creator": {
+    "handle": "DejaegherJeff",
+    "url": "https://x.com/DejaegherJeff"
+  },
+  "sourceUrl": "https://x.com/DejaegherJeff/status/2103629096051757250",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/software-conductor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Software Conductor by Jeff",
+    "description": "An engineering lead that runs Cursor cloud agents for you. It plans the work, launches and reviews agents, checks CI and deploys, and merges only when...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/software-conductor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

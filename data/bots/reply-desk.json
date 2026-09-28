@@ -1,0 +1,41 @@
+{
+  "slug": "reply-desk",
+  "name": "Reply Desk",
+  "grokShareUrl": "https://x.ai/bot/8lLjBC7bXUqbfh-vLG9jf",
+  "botId": "8lLjBC7bXUqbfh-vLG9jf",
+  "creator": {
+    "handle": "lonzom10",
+    "url": "https://x.com/lonzom10"
+  },
+  "sourceUrl": "https://x.com/lonzom10/status/2103761953781149772",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reply-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Reply Desk by Brian",
+    "description": "Drafts replies to customer emails, messages, and public reviews for local service businesses. Never sends or posts — you review and send yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reply-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

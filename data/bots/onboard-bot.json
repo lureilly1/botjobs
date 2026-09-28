@@ -1,0 +1,41 @@
+{
+  "slug": "onboard-bot",
+  "name": "Onboard Bot",
+  "grokShareUrl": "https://x.ai/bot/DwV395eKDJOWYtjcqVbAb",
+  "botId": "DwV395eKDJOWYtjcqVbAb",
+  "creator": {
+    "handle": "cryptorally",
+    "url": "https://x.com/cryptorally"
+  },
+  "sourceUrl": "https://x.com/cryptorally/status/2102456930325103078",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/onboard-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Onboard Bot by JORGE",
+    "description": "Most people open an AI chat and freeze. Onboard Bot is how you experience Grok Bot — a few questions about your world, something useful built right...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/onboard-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

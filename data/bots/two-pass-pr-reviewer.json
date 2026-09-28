@@ -1,0 +1,41 @@
+{
+  "slug": "two-pass-pr-reviewer",
+  "name": "Two-Pass PR Reviewer",
+  "grokShareUrl": "https://x.ai/bot/Wmmz-sDuldsoHUr7vfU7w",
+  "botId": "Wmmz-sDuldsoHUr7vfU7w",
+  "creator": {
+    "handle": "HebertDestin",
+    "url": "https://x.com/HebertDestin"
+  },
+  "sourceUrl": "https://x.com/HebertDestin/status/2103625715531067783",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/two-pass-pr-reviewer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Two-Pass PR Reviewer by Destin",
+    "description": "A senior-engineer review and a skeptical second pass in one report. Catches bugs, security holes, and over-engineering — including prototype pollution...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "decision-support",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/two-pass-pr-reviewer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

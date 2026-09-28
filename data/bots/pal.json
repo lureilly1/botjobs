@@ -1,0 +1,41 @@
+{
+  "slug": "pal",
+  "name": "Pal",
+  "grokShareUrl": "https://x.ai/bot/9Zvz4Qe0dxRjo4H984gOI",
+  "botId": "9Zvz4Qe0dxRjo4H984gOI",
+  "creator": {
+    "handle": "BadgersBet",
+    "url": "https://x.com/BadgersBet"
+  },
+  "sourceUrl": "https://x.com/BadgersBet/status/2103988405558513795",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pal/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pal by Badger",
+    "description": "MLB matchup scout for one owner. Surfaces today’s best hitter PASS spots and pitcher K spots from BallparkPal projections, pitch-type/arsenal verify,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "analytics",
+    "decision-support",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pal/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

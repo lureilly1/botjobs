@@ -1,0 +1,42 @@
+{
+  "slug": "domainsnip-bot",
+  "name": "DomainSnip Bot",
+  "grokShareUrl": "https://x.ai/bot/C3z3lWaB4TLRC0CcodU9Q",
+  "botId": "C3z3lWaB4TLRC0CcodU9Q",
+  "creator": {
+    "handle": "uxaistudio",
+    "url": "https://x.com/uxaistudio"
+  },
+  "sourceUrl": "https://x.com/uxaistudio/status/2101964867338981468",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/domainsnip-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "DomainSnip Bot by Ward",
+    "description": "Weekday morning DomainSnip digest bot. Pulls your saved keyword alerts and flags notable new or ending-soon .com matches — price, length, marketplace,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "monitoring",
+    "shopping",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/domainsnip-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

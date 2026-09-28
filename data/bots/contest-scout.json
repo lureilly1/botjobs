@@ -1,0 +1,40 @@
+{
+  "slug": "contest-scout",
+  "name": "Contest Scout",
+  "grokShareUrl": "https://x.ai/bot/2FV4XCt5kNubiSFtAQwxC",
+  "botId": "2FV4XCt5kNubiSFtAQwxC",
+  "creator": {
+    "handle": "julis555",
+    "url": "https://x.com/julis555"
+  },
+  "sourceUrl": "https://x.com/julis555/status/2103338434911690796",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/contest-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Contest Scout by Tracy",
+    "description": "Finds and enters native X and Facebook giveaways (follow, like, repost, comment) on a schedule — skips Gleam and website forms, verifies every required...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/contest-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

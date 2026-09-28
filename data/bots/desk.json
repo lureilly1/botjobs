@@ -1,0 +1,40 @@
+{
+  "slug": "desk",
+  "name": "Desk",
+  "grokShareUrl": "https://x.ai/bot/9EMVK1X_bv5hA5pAdZCpt",
+  "botId": "9EMVK1X_bv5hA5pAdZCpt",
+  "creator": {
+    "handle": "ConWanZo",
+    "url": "https://x.com/ConWanZo"
+  },
+  "sourceUrl": "https://x.com/ConWanZo/status/2104256856764055714",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Desk by Contravious",
+    "description": "NFL PropDesk research assistant. Stamps named player props and totals with TypeSafe Jev language-support probabilities — never picks, never places bets.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "analytics",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "opportunities-research",
+  "name": "Opportunities Research",
+  "grokShareUrl": "https://x.ai/bot/w2Bi7X2d96hPeIYqlhzJJ",
+  "botId": "w2Bi7X2d96hPeIYqlhzJJ",
+  "creator": {
+    "handle": "theoscarvibes",
+    "url": "https://x.com/theoscarvibes"
+  },
+  "sourceUrl": "https://x.com/theoscarvibes/status/2104454608177320421",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/opportunities-research/"
+  },
+  "description": null,
+  "official": {
+    "title": "Opportunities Research by Oscar",
+    "description": "YC-style opportunities research: hunts PROBLEMS, gaps, and markets from your week and public signals (RFS, batch patterns, essays). Cuts hard, falsifies...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/opportunities-research/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

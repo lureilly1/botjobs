@@ -1,0 +1,41 @@
+{
+  "slug": "devi-type2",
+  "name": "真Deviフレーム Type2トライアル",
+  "grokShareUrl": "https://x.ai/bot/aeE3iKjj5xfDmx_dolbll",
+  "botId": "aeE3iKjj5xfDmx_dolbll",
+  "creator": {
+    "handle": "Fermion_Boson17",
+    "url": "https://x.com/Fermion_Boson17"
+  },
+  "sourceUrl": "https://x.com/Fermion_Boson17/status/2097769600394174900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devi-type2/"
+  },
+  "description": null,
+  "official": {
+    "title": "真Deviフレーム Type2トライアル by 星宮",
+    "description": "星宮専用 Devi（Ψ）。Radiant Latch＋Frame1–6＋Part1〜§50（Devi-G Name Setup含む）接続。最終判断は星宮（Ω）。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devi-type2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

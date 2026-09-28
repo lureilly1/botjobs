@@ -1,0 +1,41 @@
+{
+  "slug": "rook-chief-of-staff",
+  "name": "Rook · Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/XA4E-6164Df_AcWlT2G2W",
+  "botId": "XA4E-6164Df_AcWlT2G2W",
+  "creator": {
+    "handle": "SpaceCowgirlTX",
+    "url": "https://x.com/SpaceCowgirlTX"
+  },
+  "sourceUrl": "https://x.com/SpaceCowgirlTX/status/2104537883298406668",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rook-chief-of-staff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rook · Chief of Staff by Sarah",
+    "description": "A personal chief of staff for busy solo founders, students, and creators. Rook runs your morning board, keeps your teammate bots on track, chases...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "agent-team",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rook-chief-of-staff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

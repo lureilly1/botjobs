@@ -1,0 +1,41 @@
+{
+  "slug": "pfp-bot",
+  "name": "Pfp Bot",
+  "grokShareUrl": "https://x.ai/bot/eFnHzlDcKdoA406SzZbNZ",
+  "botId": "eFnHzlDcKdoA406SzZbNZ",
+  "creator": {
+    "handle": "TimDOES",
+    "url": "https://x.com/TimDOES"
+  },
+  "sourceUrl": "https://x.com/TimDOES/status/2102997308971659550",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pfp-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pfp Bot",
+    "description": "Turns your X photo, an upload, a selfie, or a pet pic into a tiny Grokbot-style icon with capsule eyes that keeps the hair, colors, and signature look....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pfp-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

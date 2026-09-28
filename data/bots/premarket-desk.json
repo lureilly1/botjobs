@@ -1,0 +1,41 @@
+{
+  "slug": "premarket-desk",
+  "name": "Premarket Desk · 盘前早报",
+  "grokShareUrl": "https://x.ai/bot/GuhaTzThKQG2MKJyHoREx",
+  "botId": "GuhaTzThKQG2MKJyHoREx",
+  "creator": {
+    "handle": "alanchen",
+    "url": "https://x.com/alanchen"
+  },
+  "sourceUrl": "https://x.com/alanchen/status/2103697141852151862",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/premarket-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Premarket Desk · 盘前早报 by Alan",
+    "description": "A pre-market brief on your US watchlist and the AI/semiconductor tape, with live X chatter and earnings readouts. Works from a pasted ticker list, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/premarket-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

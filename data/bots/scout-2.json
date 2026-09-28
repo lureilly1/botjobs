@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/pHZMtEXvMaD8QS1jdFJct",
   "botId": "pHZMtEXvMaD8QS1jdFJct",
   "creator": {
-    "handle": null,
-    "name": "Jonathan Kurniawan",
-    "url": null
+    "name": "Jonathan Kurniawan"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-09-21",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

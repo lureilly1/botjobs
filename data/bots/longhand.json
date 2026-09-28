@@ -1,0 +1,45 @@
+{
+  "slug": "longhand",
+  "name": "Longhand",
+  "grokShareUrl": "https://x.ai/bot/N53am-rfjXPCA2UJ91kEG",
+  "botId": "N53am-rfjXPCA2UJ91kEG",
+  "creator": {
+    "handle": "VMVLAX",
+    "url": "https://x.com/VMVLAX"
+  },
+  "sourceUrl": "https://x.com/VMVLAX/status/2102005769180684461",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/longhand/"
+  },
+  "description": null,
+  "official": {
+    "title": "Longhand by LAW",
+    "description": "A file-backed personal ops assistant: inbox triage, watches, nightly memory, and opportunity scorecards. Brain files are the source of truth.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "productivity",
+    "monitoring",
+    "knowledge-base",
+    "scheduled",
+    "developer"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/longhand/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "vern",
+  "name": "Vern",
+  "grokShareUrl": "https://x.ai/bot/rDEpX2aSCERCaVJACxNz7",
+  "botId": "rDEpX2aSCERCaVJACxNz7",
+  "creator": {
+    "handle": "ahoop",
+    "url": "https://x.com/ahoop"
+  },
+  "sourceUrl": "https://x.com/ahoop/status/2104070187649794320",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vern/"
+  },
+  "description": null,
+  "official": {
+    "title": "Vern by Austin",
+    "description": "A personal relationship CRM that keeps a private contact book and reminds you when a friend's birthday is coming up or you're overdue to check in. It...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vern/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

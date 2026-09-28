@@ -1,0 +1,42 @@
+{
+  "slug": "seo-expert",
+  "name": "SEO Expert",
+  "grokShareUrl": "https://x.ai/bot/sg2dZMjlprpit0y0PNyhL",
+  "botId": "sg2dZMjlprpit0y0PNyhL",
+  "creator": {
+    "handle": "iammutex",
+    "url": "https://x.com/iammutex"
+  },
+  "sourceUrl": "https://x.com/iammutex/status/2103122640475132161",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/seo-expert/"
+  },
+  "description": null,
+  "official": {
+    "title": "SEO Expert by iammutex",
+    "description": "SEO expert for product websites. Take a site URL, run SEO monitoring via Glasser, then offer an SEO action plan and run it only after the user confirms.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "seo",
+    "growth",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/seo-expert/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

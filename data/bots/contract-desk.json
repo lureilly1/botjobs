@@ -1,0 +1,42 @@
+{
+  "slug": "contract-desk",
+  "name": "Contract Desk",
+  "grokShareUrl": "https://x.ai/bot/sd358e6cf5e8bed188eec",
+  "botId": "sd358e6cf5e8bed188eec",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/contract-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Contract Desk by SpaceX",
+    "description": "See the week of paper at a glance. Summarizes by stage and owner, pulls key terms, and flags blocked reviews.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "back-office",
+    "productivity",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/contract-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

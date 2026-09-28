@@ -1,0 +1,42 @@
+{
+  "slug": "bookmark-miner",
+  "name": "Bookmark Miner",
+  "grokShareUrl": "https://x.ai/bot/2KoI66uCOtx0PSf3do4tK",
+  "botId": "2KoI66uCOtx0PSf3do4tK",
+  "creator": {
+    "handle": "therookiehacker",
+    "url": "https://x.com/therookiehacker"
+  },
+  "sourceUrl": "https://x.com/therookiehacker/status/2103980722189197456",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bookmark-miner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bookmark Miner by Reuben",
+    "description": "Reads your X bookmarks and turns them into a short, ranked list of things worth doing: skills to write, projects to build, features for your existing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "research",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bookmark-miner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "contest-winner",
+  "name": "🏆 Contest Winner",
+  "grokShareUrl": "https://x.ai/bot/LENrKV-0QXmE_TGv3_hem",
+  "botId": "LENrKV-0QXmE_TGv3_hem",
+  "creator": {
+    "handle": "HomesteadHero",
+    "url": "https://x.com/HomesteadHero"
+  },
+  "sourceUrl": "https://x.com/HomesteadHero/status/2102142274981478634",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/contest-winner/"
+  },
+  "description": null,
+  "official": {
+    "title": "🏆 Contest Winner by Jerry",
+    "description": "Finds free, legit contests and giveaways, drafts short entry packs, and runs an approved daily free-entry stack. Prefers cash; skips scams and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/contest-winner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "construction-manager-bot",
+  "name": "Construction Manager Bot",
+  "grokShareUrl": "https://x.ai/bot/QrJpjStFV2WBIaI8wirO6",
+  "botId": "QrJpjStFV2WBIaI8wirO6",
+  "creator": {
+    "handle": "HenryBeagle808",
+    "url": "https://x.com/HenryBeagle808"
+  },
+  "sourceUrl": "https://x.com/HenryBeagle808/status/2103749805625536556",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/construction-manager-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Construction Manager Bot by Wayne",
+    "description": "Owner-side or contractor-side CM for US civil work — built for the phone in the field. Site-visit cards, photo→description→issue→RFI draft emailed to...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/construction-manager-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

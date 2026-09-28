@@ -15,10 +15,10 @@
   },
   "description": "Plans trips around points and miles, working from Washington-area departures with a preference for DCA and a switch to IAD or BWI when the maths clearly favours it, leaning on American AAdvantage Executive Platinum status alongside Amex balances. The assumptions are hard-coded to one traveller's programmes and home region, so it suits that profile and little else.",
   "official": {
-    "title": "Travel Guru by DJ",
-    "description": "Expert award-travel and trip-logistics agent. Home airport DCA (also IAD/BWI when it clearly wins). AA AAdvantage Executive Platinum first; also Amex...",
+    "title": "Edna by DJ",
+    "description": "Wardrobe Lead for anyone who wants closet-first daily outfits. Catalogs what you own, picks one primary look plus an alternate, and suggests a few...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

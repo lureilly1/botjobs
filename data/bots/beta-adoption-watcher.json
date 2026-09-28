@@ -1,0 +1,42 @@
+{
+  "slug": "beta-adoption-watcher",
+  "name": "Beta Adoption Watcher",
+  "grokShareUrl": "https://x.ai/bot/sfcf5d046a2784045938d",
+  "botId": "sfcf5d046a2784045938d",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/beta-adoption-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Beta Adoption Watcher by SpaceX",
+    "description": "See who's actually trying the new feature. Monitors usage and surfaces which customers are in, so the team can follow up.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "analytics",
+    "monitoring",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/beta-adoption-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

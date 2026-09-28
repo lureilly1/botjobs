@@ -1,0 +1,41 @@
+{
+  "slug": "3-day-notice-validator",
+  "name": "3-Day Notice Validator",
+  "grokShareUrl": "https://x.ai/bot/opCFOq0FKZ41PBIiBeuVO",
+  "botId": "opCFOq0FKZ41PBIiBeuVO",
+  "creator": {
+    "handle": "SinaiLawFirm",
+    "url": "https://x.com/SinaiLawFirm"
+  },
+  "sourceUrl": "https://x.com/SinaiLawFirm/status/2103997263009980625",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/3-day-notice-validator/"
+  },
+  "description": null,
+  "official": {
+    "title": "3-Day Notice Validator by Real",
+    "description": "Checks California 3-day notices to pay rent or quit, built for City of Los Angeles residential notices. Upload a filled notice or a blank template and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "real-estate",
+    "business",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/3-day-notice-validator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

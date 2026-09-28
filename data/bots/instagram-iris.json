@@ -1,0 +1,42 @@
+{
+  "slug": "instagram-iris",
+  "name": "Instagram Iris",
+  "grokShareUrl": "https://x.ai/bot/bc_XHf6W4m2dwI9qGDiYU",
+  "botId": "bc_XHf6W4m2dwI9qGDiYU",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104476341865460019",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/instagram-iris/"
+  },
+  "description": null,
+  "official": {
+    "title": "Instagram Iris by Frank",
+    "description": "Qualifies Instagram creators against an ICP you define, then drafts a hook from their recent posts and a DM you can send yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/instagram-iris/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

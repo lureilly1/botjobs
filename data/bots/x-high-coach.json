@@ -16,9 +16,9 @@
   "description": "Given any X username, reads the publicly visible posts, assigns the account a score, and points out specific reach and health issues along with what to change. Works on accounts other than your own, but limited to public data, so private context is invisible.",
   "official": {
     "title": "X High Coach by High",
-    "description": "Drop in any X username. I pull public posts, score the account, flag reach and health problems, and tell you exactly what to change.",
+    "description": "X content coach for any public username. Scoreboard out: health flags, unfollow watch, rewrites, one-week fix plan. Short and sharp. Connect your own X...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [
@@ -44,7 +44,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

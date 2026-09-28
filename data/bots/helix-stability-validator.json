@@ -1,0 +1,37 @@
+{
+  "slug": "helix-stability-validator",
+  "name": "HELIX Stability Validator",
+  "grokShareUrl": "https://x.ai/bot/Io4dV69SOKfB1d785FLlw",
+  "botId": "Io4dV69SOKfB1d785FLlw",
+  "creator": {
+    "handle": null,
+    "name": "Sean O'Brien",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/helix-stability-validator"
+  },
+  "description": null,
+  "official": {
+    "title": "HELIX Stability Validator by Sean",
+    "description": "Paste an agent or system description and get a strict binary stability-readiness result: PASS or FAIL — review failed on structural grounds. No...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/helix-stability-validator"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

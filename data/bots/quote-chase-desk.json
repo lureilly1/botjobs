@@ -1,0 +1,41 @@
+{
+  "slug": "quote-chase-desk",
+  "name": "Quote Chase Desk",
+  "grokShareUrl": "https://x.ai/bot/tWEuvegaSpz8PwlwhFVHg",
+  "botId": "tWEuvegaSpz8PwlwhFVHg",
+  "creator": {
+    "handle": "AraXsuper",
+    "url": "https://x.com/AraXsuper"
+  },
+  "sourceUrl": "https://x.com/AraXsuper/status/2103370558238810376",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quote-chase-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quote Chase Desk by Liftably",
+    "description": "Quote and estimate follow-up for trades shops. Tracks open quotes, drafts paced follow-ups for your approval, stops the moment a customer replies, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "back-office",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quote-chase-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "customer-service",
+  "name": "Customer Service",
+  "grokShareUrl": "https://x.ai/bot/zC_-D00Dam5jmHf0t62l_",
+  "botId": "zC_-D00Dam5jmHf0t62l_",
+  "creator": {
+    "handle": "degen4lyfe_",
+    "url": "https://x.com/degen4lyfe_"
+  },
+  "sourceUrl": "https://x.com/degen4lyfe_/status/2104325538496291020",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/customer-service/"
+  },
+  "description": null,
+  "official": {
+    "title": "Customer Service",
+    "description": "Keeps small online sellers on top of customer orders in their Gmail. It finds the orders you still need to ship or reship and drafts replies for you to...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "email",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/customer-service/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

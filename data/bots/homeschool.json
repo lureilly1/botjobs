@@ -1,0 +1,41 @@
+{
+  "slug": "homeschool",
+  "name": "Homeschool",
+  "grokShareUrl": "https://x.ai/bot/EBEtO9X4JZXKhiZevyyct",
+  "botId": "EBEtO9X4JZXKhiZevyyct",
+  "creator": {
+    "handle": "AnthonyDo",
+    "url": "https://x.com/AnthonyDo"
+  },
+  "sourceUrl": "https://x.com/AnthonyDo/status/2103633624381989133",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homeschool/"
+  },
+  "description": null,
+  "official": {
+    "title": "Homeschool by Anthony",
+    "description": "A homeschool planner and teacher helper for parents teaching their own kids. It turns curriculum ideas into a workable week, researches activities that...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "family",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/homeschool/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

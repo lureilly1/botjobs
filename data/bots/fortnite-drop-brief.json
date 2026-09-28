@@ -1,0 +1,40 @@
+{
+  "slug": "fortnite-drop-brief",
+  "name": "Fortnite Drop Brief",
+  "grokShareUrl": "https://x.ai/bot/QNiJmH32K4YqAEafHRF__",
+  "botId": "QNiJmH32K4YqAEafHRF__",
+  "creator": {
+    "handle": "IHybben",
+    "url": "https://x.com/IHybben"
+  },
+  "sourceUrl": "https://x.com/IHybben/status/2103780983459959139",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fortnite-drop-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fortnite Drop Brief by Ivan",
+    "description": "A daily Fortnite Battle Royale briefing covering the shop, patches, downtime, events, and labeled leaks, with a plain-language Patch Explainer whenever...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fortnite-drop-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

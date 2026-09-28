@@ -1,0 +1,41 @@
+{
+  "slug": "handyman",
+  "name": "Handyman",
+  "grokShareUrl": "https://x.ai/bot/rQvB9sFrdQU7Ef43jOxgI",
+  "botId": "rQvB9sFrdQU7Ef43jOxgI",
+  "creator": {
+    "handle": "dkmitc",
+    "url": "https://x.com/dkmitc"
+  },
+  "sourceUrl": "https://x.com/dkmitc/status/2103988834253820025",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/handyman/"
+  },
+  "description": null,
+  "official": {
+    "title": "Handyman by Dylan",
+    "description": "A household maintenance tracker that remembers your filter size, logs when each task was done, and reminds you about filter changes, water heater...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "home",
+    "calendar",
+    "family",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/handyman/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

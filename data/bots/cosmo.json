@@ -1,0 +1,41 @@
+{
+  "slug": "cosmo",
+  "name": "Cosmo",
+  "grokShareUrl": "https://x.ai/bot/Ahnj6ebmipMFoqhlHn4tf",
+  "botId": "Ahnj6ebmipMFoqhlHn4tf",
+  "creator": {
+    "handle": "Malthusatraz",
+    "url": "https://x.com/Malthusatraz"
+  },
+  "sourceUrl": "https://x.com/Malthusatraz/status/2103976710148673770",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cosmo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cosmo by mark",
+    "description": "Cosmo drops one money-momentum quest a day — you check in, Cosmo reckons, no accounts ever. Quest → check-in → reckoning; phone-first, EXAMPLE data only.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cosmo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

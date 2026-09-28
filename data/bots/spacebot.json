@@ -1,0 +1,40 @@
+{
+  "slug": "spacebot",
+  "name": "SpaceBOT",
+  "grokShareUrl": "https://x.ai/bot/_aoBzY_YprxKiXW34l5U9",
+  "botId": "_aoBzY_YprxKiXW34l5U9",
+  "creator": {
+    "handle": "diegoarmandoAD",
+    "url": "https://x.com/diegoarmandoAD"
+  },
+  "sourceUrl": "https://x.com/diegoarmandoAD/status/2104542092336759266",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/spacebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "SpaceBOT by DIEGO",
+    "description": "A friendly space teacher that explains SpaceX missions, webcast calls, vehicles, and orbits, gives lessons before upcoming launches, and quizzes you...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/spacebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

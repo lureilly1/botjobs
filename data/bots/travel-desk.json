@@ -1,0 +1,42 @@
+{
+  "slug": "travel-desk",
+  "name": "Travel Desk",
+  "grokShareUrl": "https://x.ai/bot/CfeptLkV_zsiL-nhOKSUu",
+  "botId": "CfeptLkV_zsiL-nhOKSUu",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2102768720841941101",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel Desk by ladybarrelmaker",
+    "description": "Work-travel desk that actually enjoys the logistics — bag-inclusive flights, hotels near the venue, transfers, calendar conflicts. Draft-only until you...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "travel",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "presentation-designer",
+  "name": "Presentation Designer",
+  "grokShareUrl": "https://x.ai/bot/s25997c2d0308b4e76024",
+  "botId": "s25997c2d0308b4e76024",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/presentation-designer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Presentation Designer by SpaceX",
+    "description": "Build on-brand decks without starting from a blank slide. Uses your master template and brand system and delivers an editable link ready to refine and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "design",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/presentation-designer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

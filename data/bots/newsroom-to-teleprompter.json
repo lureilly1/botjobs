@@ -1,0 +1,44 @@
+{
+  "slug": "newsroom-to-teleprompter",
+  "name": "Newsroom to Teleprompter",
+  "grokShareUrl": "https://x.ai/bot/-SxKtRLmO7QcCk6kN0Jzy",
+  "botId": "-SxKtRLmO7QcCk6kN0Jzy",
+  "creator": {
+    "handle": "TechDadsLife",
+    "url": "https://x.com/TechDadsLife"
+  },
+  "sourceUrl": "https://x.com/TechDadsLife/status/2101951098097369416",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/newsroom-to-teleprompter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Newsroom to Teleprompter by Michael",
+    "description": "Builds a four-bot newsroom for you. You pick the beats and writing voice. It creates two research Friends, an editor Desk, a fact-checker, and a group...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "news",
+    "content",
+    "video",
+    "social-media",
+    "automation",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/newsroom-to-teleprompter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

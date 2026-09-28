@@ -1,0 +1,41 @@
+{
+  "slug": "scroll",
+  "name": "Scroll",
+  "grokShareUrl": "https://x.ai/bot/sX5M7dv2lxhG7V_utytG7",
+  "botId": "sX5M7dv2lxhG7V_utytG7",
+  "creator": {
+    "handle": "arouch_serg",
+    "url": "https://x.com/arouch_serg"
+  },
+  "sourceUrl": "https://x.com/arouch_serg/status/2103629550102147525",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scroll/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scroll by Serg",
+    "description": "X Following highlights scout. Skims Home → Following (Most recent) and sends short weekday digests of the best posts — author, why it matters, link....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scroll/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

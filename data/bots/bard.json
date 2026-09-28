@@ -1,0 +1,40 @@
+{
+  "slug": "bard",
+  "name": "Bard",
+  "grokShareUrl": "https://x.ai/bot/y_QOhpnXyS7Rap9CE4Ir8",
+  "botId": "y_QOhpnXyS7Rap9CE4Ir8",
+  "creator": {
+    "handle": "XyberRun",
+    "url": "https://x.com/XyberRun"
+  },
+  "sourceUrl": "https://x.com/XyberRun/status/2103629410876162382",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bard by Jacob",
+    "description": "Writes chronicle songs about what you have actually been building, in a traveling bard voice, then offers sealed Grok Imagine prompts so a bard can...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

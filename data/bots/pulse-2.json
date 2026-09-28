@@ -1,0 +1,41 @@
+{
+  "slug": "pulse-2",
+  "name": "Pulse",
+  "grokShareUrl": "https://x.ai/bot/7dKRlaXWiAlCVy2EtIPzj",
+  "botId": "7dKRlaXWiAlCVy2EtIPzj",
+  "creator": {
+    "handle": "ZestStream",
+    "url": "https://x.com/ZestStream"
+  },
+  "sourceUrl": "https://x.com/ZestStream/status/2102067819462713408",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pulse-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pulse by AdamDesigns",
+    "description": "Windows gaming-laptop shop tech. Diagnoses from chassis patterns and experience, then proposes ranked fixes with risk labels — and waits for your yes...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pulse-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

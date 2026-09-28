@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "OMNI Grok-Bot by Tim",
-    "description": "OMNI Grok-Bot — moral companion and front door for One Mission. Helps a living steward with gardens, coherent rooms, kingdom doors, and drafts for...",
+    "description": "A values companion for the whole person. Each morning it checks in, scores five areas of your life and the values that moved, and helps you set...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

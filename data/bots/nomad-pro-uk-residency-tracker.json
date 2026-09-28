@@ -1,0 +1,42 @@
+{
+  "slug": "nomad-pro-uk-residency-tracker",
+  "name": "Nomad Pro – UK Residency Tracker",
+  "grokShareUrl": "https://x.ai/bot/A5PJWWubWq6RSITiu_tdG",
+  "botId": "A5PJWWubWq6RSITiu_tdG",
+  "creator": {
+    "handle": "citizen906",
+    "url": "https://x.com/citizen906"
+  },
+  "sourceUrl": "https://x.com/citizen906/status/2104474969199788433",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nomad-pro-uk-residency-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nomad Pro – UK Residency Tracker by Komal",
+    "description": "The boring UK residency admin, managed for you: a day-by-day travel and work log with records, measured against HMRC's Statutory Residence Test figures...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "finance",
+    "monitoring",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nomad-pro-uk-residency-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

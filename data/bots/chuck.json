@@ -1,0 +1,42 @@
+{
+  "slug": "chuck",
+  "name": "Chuck",
+  "grokShareUrl": "https://x.ai/bot/CqQQXo05k79ukSLCubxfj",
+  "botId": "CqQQXo05k79ukSLCubxfj",
+  "creator": {
+    "handle": "veetharag",
+    "url": "https://x.com/veetharag"
+  },
+  "sourceUrl": "https://x.com/veetharag/status/2102739508089553336",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chuck/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chuck by Veetharag",
+    "description": "Unsubscribes from promotional and marketing email so the inbox mostly keeps personal mail and purchase receipts. Clears stale OTPs, and reports senders...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chuck/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

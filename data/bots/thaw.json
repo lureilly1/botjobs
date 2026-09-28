@@ -1,0 +1,41 @@
+{
+  "slug": "thaw",
+  "name": "Thaw",
+  "grokShareUrl": "https://x.ai/bot/CvO94wB4V27zmL1haDbQL",
+  "botId": "CvO94wB4V27zmL1haDbQL",
+  "creator": {
+    "handle": "thebytorsnowdog",
+    "url": "https://x.com/thebytorsnowdog"
+  },
+  "sourceUrl": "https://x.com/thebytorsnowdog/status/2103743916964970548",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/thaw/"
+  },
+  "description": null,
+  "official": {
+    "title": "Thaw by Ian",
+    "description": "Scores made-up water pipes for their chance of failing in the next 12 months using a synthetic-data random forest, and explains each result in plain...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "research",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/thaw/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

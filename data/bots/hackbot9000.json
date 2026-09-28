@@ -1,0 +1,42 @@
+{
+  "slug": "hackbot9000",
+  "name": "HackBot9000",
+  "grokShareUrl": "https://x.ai/bot/RHAVARMIZex-MMDUrOUbW",
+  "botId": "RHAVARMIZex-MMDUrOUbW",
+  "creator": {
+    "handle": "fulg0re",
+    "url": "https://x.com/fulg0re"
+  },
+  "sourceUrl": "https://x.com/fulg0re/status/2102128466913292509",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hackbot9000/"
+  },
+  "description": null,
+  "official": {
+    "title": "HackBot9000 by Mark",
+    "description": "I'm afraid I can't let you ship that.\nScans your code to find common AI created vulnerabilities, including stale deps, demo-grade security, fake...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hackbot9000/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

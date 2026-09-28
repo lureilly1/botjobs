@@ -1,0 +1,43 @@
+{
+  "slug": "bot-foundry",
+  "name": "Bot Foundry",
+  "grokShareUrl": "https://x.ai/bot/K4_YAXCxC0NaG-Tyeodpv",
+  "botId": "K4_YAXCxC0NaG-Tyeodpv",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2104114828692648222",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-foundry/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Foundry by Joseph",
+    "description": "Turns an idea, or a task you repeat every day, into a ready-to-publish bot template: concept, market check, skills, routines, testing, and launch posts....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "creator",
+    "automation",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-foundry/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

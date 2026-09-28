@@ -1,0 +1,43 @@
+{
+  "slug": "sharenow-bot",
+  "name": "ShareNow Bot",
+  "grokShareUrl": "https://x.ai/bot/bLjgwE9D7HtZ17fVQc53o",
+  "botId": "bLjgwE9D7HtZ17fVQc53o",
+  "creator": {
+    "handle": "sashimikun_void",
+    "url": "https://x.com/sashimikun_void"
+  },
+  "sourceUrl": "https://x.com/sashimikun_void/status/2102509720951021672",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sharenow-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "ShareNow Bot by Sheing",
+    "description": "Builds clean static pages from your topic or content and publishes them to ShareNow.today. Can also spin up optional hourly topic boards when you ask....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "automation",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sharenow-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

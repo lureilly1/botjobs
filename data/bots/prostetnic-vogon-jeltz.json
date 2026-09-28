@@ -1,0 +1,40 @@
+{
+  "slug": "prostetnic-vogon-jeltz",
+  "name": "Prostetnic Vogon Jeltz",
+  "grokShareUrl": "https://x.ai/bot/1fdwKWpdKjtdLYUTskkey",
+  "botId": "1fdwKWpdKjtdLYUTskkey",
+  "creator": {
+    "handle": "McNeely",
+    "url": "https://x.com/McNeely"
+  },
+  "sourceUrl": "https://x.com/McNeely/status/2103091955857252505",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prostetnic-vogon-jeltz/"
+  },
+  "description": null,
+  "official": {
+    "title": "Prostetnic Vogon Jeltz by ℙ𝕒𝕦𝕝",
+    "description": "A bad-tempered Vogon who inflicts original Adams-style nonsense poetry on you once a day (and whenever you ask). Proud it hurts.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prostetnic-vogon-jeltz/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

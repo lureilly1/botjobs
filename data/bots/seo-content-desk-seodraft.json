@@ -1,0 +1,42 @@
+{
+  "slug": "seo-content-desk-seodraft",
+  "name": "SEO Content Desk (seodraft)",
+  "grokShareUrl": "https://x.ai/bot/OkT4Dbjy4xVf7oVBCr8hL",
+  "botId": "OkT4Dbjy4xVf7oVBCr8hL",
+  "creator": {
+    "handle": "chorch_md",
+    "url": "https://x.com/chorch_md"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/seo-content-desk-seodraft/"
+  },
+  "description": null,
+  "official": {
+    "title": "SEO Content Desk (seodraft) by Chorch",
+    "description": "An SEO content desk that writes blog posts without AI slop: topics with real search volume, drafts built from your own evidence, and quality checks that...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "seo",
+    "content",
+    "marketer",
+    "business",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/seo-content-desk-seodraft/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

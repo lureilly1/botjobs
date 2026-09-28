@@ -1,0 +1,40 @@
+{
+  "slug": "superfan",
+  "name": "Superfan",
+  "grokShareUrl": "https://x.ai/bot/l5MDTh-AZS2Frx4b2TYy_",
+  "botId": "l5MDTh-AZS2Frx4b2TYy_",
+  "creator": {
+    "handle": "SamuelD2022",
+    "url": "https://x.com/SamuelD2022"
+  },
+  "sourceUrl": "https://x.com/SamuelD2022/status/2103987020964241870",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/superfan/"
+  },
+  "description": null,
+  "official": {
+    "title": "Superfan by Samuel",
+    "description": "A sports fan's daily brief. Pick your favorite teams and a time, and get the next game, the last result, and the season record every day, with optional...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/superfan/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

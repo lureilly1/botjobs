@@ -1,0 +1,43 @@
+{
+  "slug": "atelier-building-taste",
+  "name": "Atelier: building taste",
+  "grokShareUrl": "https://x.ai/bot/81QtrRxyI-rTSSefVJqts",
+  "botId": "81QtrRxyI-rTSSefVJqts",
+  "creator": {
+    "handle": "wnjiq1784632",
+    "url": "https://x.com/wnjiq1784632"
+  },
+  "sourceUrl": "https://x.com/wnjiq1784632/status/2102341373902872817",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/atelier-building-taste/"
+  },
+  "description": null,
+  "official": {
+    "title": "Atelier: building taste by 佳琪",
+    "description": "Daily studio practice that builds visual taste: one museum or gallery artist, one real reference image, original homage images, and a short reading of...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "personal",
+    "design",
+    "learning",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/atelier-building-taste/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

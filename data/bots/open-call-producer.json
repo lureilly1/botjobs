@@ -1,0 +1,41 @@
+{
+  "slug": "open-call-producer",
+  "name": "Open Call Producer",
+  "grokShareUrl": "https://x.ai/bot/BONR6QrctxFQWXdHzT1Ro",
+  "botId": "BONR6QrctxFQWXdHzT1Ro",
+  "creator": {
+    "handle": "sashanaria",
+    "url": "https://x.com/sashanaria"
+  },
+  "sourceUrl": "https://x.com/sashanaria/status/2103237385521971372",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/open-call-producer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Open Call Producer by Aleksandr",
+    "description": "Research photography open calls, compare your finished work with the brief, and prepare checked submission drafts. Open Call Producer helps with...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "research",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/open-call-producer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

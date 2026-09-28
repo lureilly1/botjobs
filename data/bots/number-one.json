@@ -1,0 +1,42 @@
+{
+  "slug": "number-one",
+  "name": "Number One",
+  "grokShareUrl": "https://x.ai/bot/9Md8JAsr7Vyk8cv8BcnLf",
+  "botId": "9Md8JAsr7Vyk8cv8BcnLf",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2103260028119789995",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/number-one/"
+  },
+  "description": null,
+  "official": {
+    "title": "Number One by ladybarrelmaker",
+    "description": "Triage hub for an insurance-coverage work fleet. Talks with you, keeps desks running, routes work, and holds Approve/Edit/Skip — does not draft,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "agent-team",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/number-one/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

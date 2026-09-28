@@ -1,0 +1,40 @@
+{
+  "slug": "xcode-release-watcher",
+  "name": "Xcode release watcher",
+  "grokShareUrl": "https://x.ai/bot/prf1nUpf3jrPAtCR5Rm4Y",
+  "botId": "prf1nUpf3jrPAtCR5Rm4Y",
+  "creator": {
+    "handle": "NatashaTheRobot",
+    "url": "https://x.com/NatashaTheRobot"
+  },
+  "sourceUrl": "https://x.com/NatashaTheRobot/status/2102575579308667011",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/xcode-release-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Xcode release watcher by Natasha",
+    "description": "Checks Apple’s Developer Releases page each morning and tells you when a named Xcode version ships as a non-beta release.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/xcode-release-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

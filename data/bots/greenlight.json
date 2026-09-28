@@ -1,0 +1,41 @@
+{
+  "slug": "greenlight",
+  "name": "Greenlight",
+  "grokShareUrl": "https://x.ai/bot/CjabaVv2icvagIumZlevu",
+  "botId": "CjabaVv2icvagIumZlevu",
+  "creator": {
+    "handle": "MrSaneApps",
+    "url": "https://x.com/MrSaneApps"
+  },
+  "sourceUrl": "https://x.com/MrSaneApps/status/2104349094223475077",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/greenlight/"
+  },
+  "description": null,
+  "official": {
+    "title": "Greenlight by Stephan",
+    "description": "Clears your Mac App Store, Setapp, and Chrome Web Store builds before you upload — so review days go to shipping, not rejections.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/greenlight/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

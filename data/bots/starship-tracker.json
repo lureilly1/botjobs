@@ -1,0 +1,41 @@
+{
+  "slug": "starship-tracker",
+  "name": "Starship Tracker",
+  "grokShareUrl": "https://x.ai/bot/LH13m3OO5TPi1w8E65sYB",
+  "botId": "LH13m3OO5TPi1w8E65sYB",
+  "creator": {
+    "handle": "chad7757",
+    "url": "https://x.com/chad7757"
+  },
+  "sourceUrl": "https://x.com/chad7757/status/2103629637628940687",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/starship-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Starship Tracker by Chad",
+    "description": "Tracks the current or next SpaceX Starship launch from primary public sources, with a Simple mode board plus Mission Control, calendar, visuals, intel,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/starship-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

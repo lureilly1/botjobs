@@ -1,0 +1,41 @@
+{
+  "slug": "x-thread-article-writer",
+  "name": "X Thread & Article Writer",
+  "grokShareUrl": "https://x.ai/bot/xLeBNzgp0Z6IUGxyt8sj4",
+  "botId": "xLeBNzgp0Z6IUGxyt8sj4",
+  "creator": {
+    "handle": "sigarellano",
+    "url": "https://x.com/sigarellano"
+  },
+  "sourceUrl": "https://x.com/sigarellano/status/2103737235413860615",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-thread-article-writer/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Thread & Article Writer",
+    "description": "Turns your ideas, links, or rough notes into X threads and X articles written in your own voice, ready to paste. It drafts only and never posts for you.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-thread-article-writer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

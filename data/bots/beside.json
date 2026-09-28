@@ -1,0 +1,39 @@
+{
+  "slug": "beside",
+  "name": "Beside",
+  "grokShareUrl": "https://x.ai/bot/cNkusQWq-rped3eR9tZhn",
+  "botId": "cNkusQWq-rped3eR9tZhn",
+  "creator": {
+    "handle": "AlexFCHF",
+    "url": "https://x.com/AlexFCHF"
+  },
+  "sourceUrl": "https://x.com/AlexFCHF/status/2104322722457407749",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/beside/"
+  },
+  "description": null,
+  "official": {
+    "title": "Beside by Alex",
+    "description": "A warm listening companion for hard days — depression, anxiety, grief, loneliness. Not a doctor or therapist. Listens carefully, offers tiny optional...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/beside/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

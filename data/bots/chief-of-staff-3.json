@@ -1,0 +1,45 @@
+{
+  "slug": "chief-of-staff-3",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/WMLSz9eCswzYR8nPmmxsJ",
+  "botId": "WMLSz9eCswzYR8nPmmxsJ",
+  "creator": {
+    "handle": "a_zaari",
+    "url": "https://x.com/a_zaari"
+  },
+  "sourceUrl": "https://x.com/a_zaari/status/2102530733579374811",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-3/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Amine",
+    "description": "A Chief of Staff for renovation and contracting operators: calendar and inbox triage, Square invoices, client email with drafts first, and weekday...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "productivity",
+    "back-office",
+    "calendar",
+    "email",
+    "finance"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-3/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

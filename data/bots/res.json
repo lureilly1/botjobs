@@ -1,0 +1,41 @@
+{
+  "slug": "res",
+  "name": "Res",
+  "grokShareUrl": "https://x.ai/bot/v5OIJ6Q7oIdUwTrRh-kfL",
+  "botId": "v5OIJ6Q7oIdUwTrRh-kfL",
+  "creator": {
+    "handle": "ashen_one",
+    "url": "https://x.com/ashen_one"
+  },
+  "sourceUrl": "https://x.com/ashen_one/status/2103616165608149175",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/res/"
+  },
+  "description": null,
+  "official": {
+    "title": "Res by ashen",
+    "description": "Gets hard-to-get restaurant reservations. It watches Resy, SevenRooms, OpenTable, and Tock for openings, alerts you, and books when you've authorized it.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "food",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/res/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

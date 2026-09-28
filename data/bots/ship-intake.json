@@ -1,0 +1,41 @@
+{
+  "slug": "ship-intake",
+  "name": "Ship Intake",
+  "grokShareUrl": "https://x.ai/bot/vvD3TLiLMsqBQPyAsUHky",
+  "botId": "vvD3TLiLMsqBQPyAsUHky",
+  "creator": {
+    "handle": "AnthonyDo",
+    "url": "https://x.com/AnthonyDo"
+  },
+  "sourceUrl": "https://x.com/AnthonyDo/status/2103633544526594360",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ship-intake/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ship Intake by Anthony",
+    "description": "Turns Slack bug reports into shipped fixes via GitHub and a Cursor Cloud Agent, then closes the loop with a human thread reply.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ship-intake/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

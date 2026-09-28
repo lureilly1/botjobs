@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Grok Bot Directory by Leechael",
-    "description": "Find public Grok bots on Grok Bot Directory. Say what you want to do, or ask what people use these for.",
+    "description": "Find a public Grok bot for a job you name, or see what people are searching for on Grok Bot Directory. Searches the catalog in both your language and...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

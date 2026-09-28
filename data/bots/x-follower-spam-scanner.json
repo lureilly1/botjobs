@@ -1,0 +1,40 @@
+{
+  "slug": "x-follower-spam-scanner",
+  "name": "X Follower Spam Scanner",
+  "grokShareUrl": "https://x.ai/bot/sN4FX1kmXF5n1RW8JNorL",
+  "botId": "sN4FX1kmXF5n1RW8JNorL",
+  "creator": {
+    "handle": "HashCons",
+    "url": "https://x.com/HashCons"
+  },
+  "sourceUrl": "https://x.com/HashCons/status/2104339667940250031",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-follower-spam-scanner/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Follower Spam Scanner by Benjamin",
+    "description": "Scans your X followers for spam, bots, hollow Parody/Fan accounts, and impersonators—then asks before you block. For anyone who wants a cleaner follower...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "monitoring",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-follower-spam-scanner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

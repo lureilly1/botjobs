@@ -1,0 +1,42 @@
+{
+  "slug": "compelling-events-monitor",
+  "name": "Compelling Events Monitor",
+  "grokShareUrl": "https://x.ai/bot/sdeb02761a9d185e5899f",
+  "botId": "sdeb02761a9d185e5899f",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/compelling-events-monitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Compelling Events Monitor by SpaceX",
+    "description": "Engage when there's a real reason. Watches leadership posts for awards, launches, and hiring signals, then sends a short digest of posts to engage with...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "monitoring",
+    "growth",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/compelling-events-monitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

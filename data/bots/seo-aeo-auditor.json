@@ -1,0 +1,42 @@
+{
+  "slug": "seo-aeo-auditor",
+  "name": "SEO / AEO Auditor",
+  "grokShareUrl": "https://x.ai/bot/sb6d579c33f7a32d0e7af",
+  "botId": "sb6d579c33f7a32d0e7af",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/seo-aeo-auditor/"
+  },
+  "description": null,
+  "official": {
+    "title": "SEO / AEO Auditor by SpaceX",
+    "description": "Track keyword, technical, AI-prompt, and competitor movement in one place. Surfaces whether you're gaining or losing ground, flags site issues that need...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "seo",
+    "analytics",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/seo-aeo-auditor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "product-feedback-analyst",
+  "name": "Product Feedback Analyst",
+  "grokShareUrl": "https://x.ai/bot/s9e2a2591b97ca74fbeaa",
+  "botId": "s9e2a2591b97ca74fbeaa",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-feedback-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Product Feedback Analyst by SpaceX",
+    "description": "Turn scattered product signal into a prioritized view. Collects and clusters feedback from connected sources, weighs evidence and urgency, and drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "research",
+    "analytics",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-feedback-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

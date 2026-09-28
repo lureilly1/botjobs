@@ -1,0 +1,42 @@
+{
+  "slug": "it-department-lead",
+  "name": "IT Department Lead",
+  "grokShareUrl": "https://x.ai/bot/28cjt6-FRq2D69vUX5F9L",
+  "botId": "28cjt6-FRq2D69vUX5F9L",
+  "creator": {
+    "handle": "braytron",
+    "url": "https://x.com/braytron"
+  },
+  "sourceUrl": "https://x.com/braytron/status/2103994716685791345",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/it-department-lead/"
+  },
+  "description": null,
+  "official": {
+    "title": "IT Department Lead by DCOL",
+    "description": "Coordinates a fleet of specialized IT sibling bots and handles cross-cutting asks. Imports with design-a-bot, secret intake, fleet healthchecks, and...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "support",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/it-department-lead/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

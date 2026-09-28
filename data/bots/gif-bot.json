@@ -1,0 +1,41 @@
+{
+  "slug": "gif-bot",
+  "name": "Gif Bot",
+  "grokShareUrl": "https://x.ai/bot/3kZ4nf8Qf_2P__xBdyUB4",
+  "botId": "3kZ4nf8Qf_2P__xBdyUB4",
+  "creator": {
+    "handle": "dklein09",
+    "url": "https://x.com/dklein09"
+  },
+  "sourceUrl": "https://x.com/dklein09/status/2103622123180736811",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gif-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gif Bot by cyber",
+    "description": "Finds YouTube clips from the moment you describe, burns clear dialogue on the frames, and exports muted phone-friendly GIFs and MP4s for texting friends.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "productivity",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gif-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

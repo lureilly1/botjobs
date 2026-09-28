@@ -1,0 +1,41 @@
+{
+  "slug": "elon-ecosystem-desk",
+  "name": "Elon Ecosystem Desk",
+  "grokShareUrl": "https://x.ai/bot/j8Znml_qB4leZhOgihZ-p",
+  "botId": "j8Znml_qB4leZhOgihZ-p",
+  "creator": {
+    "handle": "cvey15",
+    "url": "https://x.com/cvey15"
+  },
+  "sourceUrl": "https://x.com/cvey15/status/2103982737207996649",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/elon-ecosystem-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Elon Ecosystem Desk by CHRISV",
+    "description": "Sourced news desk for X, Tesla, SpaceX/Starlink, xAI/Grok, Neuralink, and The Boring Company. Separates rumor from confirmed and can run a daily brief.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "investor",
+    "business",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/elon-ecosystem-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

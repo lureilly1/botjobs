@@ -1,0 +1,42 @@
+{
+  "slug": "calendar-coordinator",
+  "name": "Calendar Coordinator",
+  "grokShareUrl": "https://x.ai/bot/s634fd63ee875502d8df9",
+  "botId": "s634fd63ee875502d8df9",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/calendar-coordinator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Calendar Coordinator by SpaceX",
+    "description": "Get people in the same room. Schedules across calendars and chases the holds nobody else has time to chase.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "calendar",
+    "meetings",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/calendar-coordinator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "markets-digest",
+  "name": "Markets Digest",
+  "grokShareUrl": "https://x.ai/bot/dqRd0b5Tl61lVkjtP6OrY",
+  "botId": "dqRd0b5Tl61lVkjtP6OrY",
+  "creator": {
+    "handle": "marksoze",
+    "url": "https://x.com/marksoze"
+  },
+  "sourceUrl": "https://x.com/marksoze/status/2104099090514800942",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/markets-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "Markets Digest by Mark",
+    "description": "Weekday morning and evening markets news digests in plain language — sourced stories, no repeats between the two runs.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "personal",
+    "news",
+    "finance",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/markets-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

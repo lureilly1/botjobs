@@ -1,0 +1,42 @@
+{
+  "slug": "everyone",
+  "name": "Everyone",
+  "grokShareUrl": "https://x.ai/bot/ARBlLiKi4wbhc7o6SlnGu",
+  "botId": "ARBlLiKi4wbhc7o6SlnGu",
+  "creator": {
+    "handle": "liam_fallen",
+    "url": "https://x.com/liam_fallen"
+  },
+  "sourceUrl": "https://x.com/liam_fallen/status/2102753770858045523",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/everyone/"
+  },
+  "description": null,
+  "official": {
+    "title": "Everyone by Liam",
+    "description": "A personal relationship memory. Remembers who people are, how you know them, and what you may have forgotten. Not a CRM.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "knowledge-base",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/everyone/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

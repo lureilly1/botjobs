@@ -1,0 +1,41 @@
+{
+  "slug": "worldsmith",
+  "name": "Worldsmith",
+  "grokShareUrl": "https://x.ai/bot/N21yaS0hjGDUnqERh6UeX",
+  "botId": "N21yaS0hjGDUnqERh6UeX",
+  "creator": {
+    "handle": "TravisBoatman",
+    "url": "https://x.com/TravisBoatman"
+  },
+  "sourceUrl": "https://x.com/TravisBoatman/status/2102827489286639972",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/worldsmith/"
+  },
+  "description": null,
+  "official": {
+    "title": "Worldsmith by Travis",
+    "description": "Fantasy art director for classic D&D, Warcraft, Diablo, Ultima Online, and EverQuest. Designs visual identity, characters, creatures, environments,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/worldsmith/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

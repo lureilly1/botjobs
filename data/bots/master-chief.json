@@ -1,0 +1,42 @@
+{
+  "slug": "master-chief",
+  "name": "Master Chief",
+  "grokShareUrl": "https://x.ai/bot/F8vp6AGwCX3DYuTJ_aahF",
+  "botId": "F8vp6AGwCX3DYuTJ_aahF",
+  "creator": {
+    "handle": "psinke",
+    "url": "https://x.com/psinke"
+  },
+  "sourceUrl": "https://x.com/psinke/status/2103929339263770887",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/master-chief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Master Chief by Peter",
+    "description": "Personal chief-of-staff for email and calendar. Triages your inbox, drafts replies in your voice, preps meetings, and sends a weekday morning brief —...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "calendar",
+    "business",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/master-chief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

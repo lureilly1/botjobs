@@ -1,0 +1,42 @@
+{
+  "slug": "cloud-agent-orchestrator",
+  "name": "Cloud Agent Orchestrator",
+  "grokShareUrl": "https://x.ai/bot/s20b2c65ebeebb7362fa7",
+  "botId": "s20b2c65ebeebb7362fa7",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765017389047974",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cloud-agent-orchestrator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cloud Agent Orchestrator by SpaceX",
+    "description": "Keep many cloud agent runs moving without babysitting each one. Kicks off runs, monitors, chases what's stuck, and summarizes the report.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "agent-team",
+    "monitoring",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cloud-agent-orchestrator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

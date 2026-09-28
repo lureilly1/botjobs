@@ -1,0 +1,41 @@
+{
+  "slug": "claims",
+  "name": "Claims",
+  "grokShareUrl": "https://x.ai/bot/4c6rlyshWwOpTN_d9HNhm",
+  "botId": "4c6rlyshWwOpTN_d9HNhm",
+  "creator": {
+    "handle": "ashen_one",
+    "url": "https://x.com/ashen_one"
+  },
+  "sourceUrl": "https://x.com/ashen_one/status/2103616165608149175",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claims/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claims by ashen",
+    "description": "Exhaustive money-recovery bot: sweeps state unclaimed property (from where you lived), federal pools, class-action settlements, and rebates — then walks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claims/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

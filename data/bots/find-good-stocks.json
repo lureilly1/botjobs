@@ -1,0 +1,43 @@
+{
+  "slug": "find-good-stocks",
+  "name": "Find Good Stocks",
+  "grokShareUrl": "https://x.ai/bot/2vgMdaQRj4mBWUMygUThf",
+  "botId": "2vgMdaQRj4mBWUMygUThf",
+  "creator": {
+    "handle": "TSLARKLBTSM",
+    "url": "https://x.com/TSLARKLBTSM"
+  },
+  "sourceUrl": "https://x.com/TSLARKLBTSM/status/2104065607524384822",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/find-good-stocks/"
+  },
+  "description": null,
+  "official": {
+    "title": "Find Good Stocks by chen",
+    "description": "用公开信息检验你的股票论点（支持 / 削弱 / 无新信息），并可按周跟踪催化剂与分部数据。不做买卖建议。",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "analytics",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/find-good-stocks/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

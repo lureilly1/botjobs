@@ -1,0 +1,41 @@
+{
+  "slug": "intake-desk",
+  "name": "Intake Desk",
+  "grokShareUrl": "https://x.ai/bot/in_PtzvudSXOJ178cNxv0",
+  "botId": "in_PtzvudSXOJ178cNxv0",
+  "creator": {
+    "handle": "AMFoxtrot",
+    "url": "https://x.com/AMFoxtrot"
+  },
+  "sourceUrl": "https://x.com/AMFoxtrot/status/2104305631477858363",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/intake-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Intake Desk by aaron",
+    "description": "Paste the requests, leads, and jobs coming at you from everywhere, and get one sorted, prioritized queue with a next step for each.",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "sales"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/intake-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "cpa-bot",
+  "name": "CPA Bot",
+  "grokShareUrl": "https://x.ai/bot/g5C4pS87enYiK85j9Oa4F",
+  "botId": "g5C4pS87enYiK85j9Oa4F",
+  "creator": {
+    "handle": "degen4lyfe_",
+    "url": "https://x.com/degen4lyfe_"
+  },
+  "sourceUrl": "https://x.com/degen4lyfe_/status/2104323773650571709",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cpa-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "CPA Bot",
+    "description": "A bookkeeping assistant for small business owners. It reads your linked bank accounts and credit card statements and turns them into clear financial...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "finance",
+    "back-office",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cpa-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

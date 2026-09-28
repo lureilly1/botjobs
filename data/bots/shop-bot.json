@@ -1,0 +1,42 @@
+{
+  "slug": "shop-bot",
+  "name": "Shop Bot",
+  "grokShareUrl": "https://x.ai/bot/j8g1F8J69QH42NmYbgb4l",
+  "botId": "j8g1F8J69QH42NmYbgb4l",
+  "creator": {
+    "handle": "paranoidream",
+    "url": "https://x.com/paranoidream"
+  },
+  "sourceUrl": "https://x.com/paranoidream/status/2103267917949452400",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shop-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shop Bot by paranoidream",
+    "description": "A personal shopper that finds restocks, new finds, and gifts, scans your X shopping bookmarks for the best trustworthy prices, and only buys on your...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shop-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "catch",
+  "name": "Catch",
+  "grokShareUrl": "https://x.ai/bot/iKSYn9Dsn07JyR50qePha",
+  "botId": "iKSYn9Dsn07JyR50qePha",
+  "creator": {
+    "handle": "TyeInBloom",
+    "url": "https://x.com/TyeInBloom"
+  },
+  "sourceUrl": "https://x.com/TyeInBloom/status/2104319146368397631",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/catch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Catch by Tye",
+    "description": "Small Business Chief of Staff. Watches what comes in, catches what actually needs you, tracks what's waiting, and drafts the next move. Nothing...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/catch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

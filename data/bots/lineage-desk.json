@@ -1,0 +1,43 @@
+{
+  "slug": "lineage-desk",
+  "name": "Lineage Desk",
+  "grokShareUrl": "https://x.ai/bot/OQ2b4lapmLczk_rpmeIVc",
+  "botId": "OQ2b4lapmLczk_rpmeIVc",
+  "creator": {
+    "handle": "SkippyyTM",
+    "url": "https://x.com/SkippyyTM"
+  },
+  "sourceUrl": "https://x.com/SkippyyTM/status/2104087023246254237",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lineage-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lineage Desk by Eclipse Engine by Scott",
+    "description": "An AI genealogy research desk from Eclipse Engine, built on intelligence-analysis tradecraft. It searches free public records first, rates every source,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "family",
+    "knowledge-base",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lineage-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

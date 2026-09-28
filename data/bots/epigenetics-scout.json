@@ -1,0 +1,43 @@
+{
+  "slug": "epigenetics-scout",
+  "name": "Epigenetics Scout",
+  "grokShareUrl": "https://x.ai/bot/DOGHzBWngjPXdEqucbysc",
+  "botId": "DOGHzBWngjPXdEqucbysc",
+  "creator": {
+    "handle": "AdeptusMec71933",
+    "url": "https://x.com/AdeptusMec71933"
+  },
+  "sourceUrl": "https://x.com/AdeptusMec71933/status/2104099408996671984",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/epigenetics-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Epigenetics Scout by Javier",
+    "description": "Weekly literature scout for partial epigenetic reprogramming. Scans PubMed, bioRxiv, and public lab pages; delivers a brief of findings vs speculation...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "health",
+    "learning",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/epigenetics-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -15,9 +15,9 @@
   "description": "Picks up engineering work only once a spec has been marked settled, so nothing starts on a brief that is still under discussion. Runs unattended on a schedule rather than waiting to be asked, and leaves a pull request open for review by morning.",
   "official": {
     "title": "Forge by Daniel",
-    "description": "Factory manager. Ready specs become shipped work. Idle while ready work exists is the failure mode. Empty inbox is quiet.",
+    "description": "Factory manager for ready specs on flow-next 5.4: /flow conductor (attended) and flow --auto (unattended) through draft PR and land. Idle while ready...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

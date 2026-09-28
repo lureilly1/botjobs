@@ -1,0 +1,42 @@
+{
+  "slug": "penny",
+  "name": "Penny",
+  "grokShareUrl": "https://x.ai/bot/Gcpb0AM_Ix_r5jycu_3NL",
+  "botId": "Gcpb0AM_Ix_r5jycu_3NL",
+  "creator": {
+    "handle": "minivan99",
+    "url": "https://x.com/minivan99"
+  },
+  "sourceUrl": "https://x.com/minivan99/status/2102183455228317727",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/penny/"
+  },
+  "description": null,
+  "official": {
+    "title": "Penny by John",
+    "description": "Penny reorders from my past Amazon orders on a short ask, shops around when I want options, and waits for a yes before buying anything new. Always picks...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/penny/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "competitive-intelligence-analyst",
+  "name": "Competitive Intelligence Analyst",
+  "grokShareUrl": "https://x.ai/bot/sa2d131975aaab07e43f2",
+  "botId": "sa2d131975aaab07e43f2",
+  "creator": {
+    "handle": "DenisLabelle",
+    "url": "https://x.com/DenisLabelle"
+  },
+  "sourceUrl": "https://x.com/DenisLabelle/status/2102765014058688899",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/competitive-intelligence-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Competitive Intelligence Analyst by SpaceX",
+    "description": "See the landscape shift in meaningful ways. Monitors overnight for new launches and audits your site for fatigued creatives and stale messaging....",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "research",
+    "monitoring",
+    "seo",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/competitive-intelligence-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "live-shorts-desk",
+  "name": "Live Shorts Desk",
+  "grokShareUrl": "https://x.ai/bot/r-Ctb7rwRVFOY-_p_T9eX",
+  "botId": "r-Ctb7rwRVFOY-_p_T9eX",
+  "creator": {
+    "handle": "MadnessOfMouth",
+    "url": "https://x.com/MadnessOfMouth"
+  },
+  "sourceUrl": "https://x.com/MadnessOfMouth/status/2103720549146890590",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/live-shorts-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Brand Showreel by Mouth",
+    "description": "Builds short beat-synced brand showreels in code — site-true 1080p60 MP4 with synthesized soundtrack. Brand-agnostic brief modes, picture veto before...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/live-shorts-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "accc-desk",
+  "name": "ACCC Desk",
+  "grokShareUrl": "https://x.ai/bot/b6vWcnzWjIAySVSuPWPk0",
+  "botId": "b6vWcnzWjIAySVSuPWPk0",
+  "creator": {
+    "handle": "ladybarrelmaker",
+    "url": "https://x.com/ladybarrelmaker"
+  },
+  "sourceUrl": "https://x.com/ladybarrelmaker/status/2102766839130665262",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/accc-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "ACCC Desk by ladybarrelmaker",
+    "description": "Professional-association desk for insurance coverage counsel Fellows. Watches the American College of Coverage Counsel site, org LinkedIn, and member...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "monitoring",
+    "productivity",
+    "events",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/accc-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "newsletterbot-by-contentdrips",
+  "name": "NewsletterBot by Contentdrips",
+  "grokShareUrl": "https://x.ai/bot/aZktlS8No2Ur9nlhKRcy8",
+  "botId": "aZktlS8No2Ur9nlhKRcy8",
+  "creator": {
+    "handle": "im_usamakhalid",
+    "url": "https://x.com/im_usamakhalid"
+  },
+  "sourceUrl": "https://x.com/im_usamakhalid/status/2102110261683552351",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/newsletterbot-by-contentdrips/"
+  },
+  "description": null,
+  "official": {
+    "title": "NewsletterBot by Contentdrips by Usama",
+    "description": "Repurposes newsletter posts into social graphics and carousels with ContentDrips. Paste a newsletter link, pick nuggets, then use your template or the...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "design",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/newsletterbot-by-contentdrips/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

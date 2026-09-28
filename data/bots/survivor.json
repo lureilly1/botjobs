@@ -18,7 +18,7 @@
     "title": "Survivor by Daniel",
     "description": "Paper-first US earnings blotter. Stocks and ETFs with a print in the next 24 hours. No options selling, leverage, crypto, or live orders unless the...",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

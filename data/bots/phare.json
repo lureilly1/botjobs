@@ -1,0 +1,42 @@
+{
+  "slug": "phare",
+  "name": "phare",
+  "grokShareUrl": "https://x.ai/bot/MO_6pdGbnmwl1_Ox85J7H",
+  "botId": "MO_6pdGbnmwl1_Ox85J7H",
+  "creator": {
+    "handle": "kvncyf_",
+    "url": "https://x.com/kvncyf_"
+  },
+  "sourceUrl": "https://x.com/kvncyf_/status/2102154022404722934",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/phare/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot",
+    "description": "Use this template to create a new bot or apply it to an existing bot",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "learning",
+    "productivity",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/phare/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

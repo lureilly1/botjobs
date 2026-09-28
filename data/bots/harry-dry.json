@@ -15,10 +15,10 @@
   },
   "description": "Takes existing copy — landing pages, adverts, emails, share cards — and rewrites it so each claim is concrete, checkable, and specific enough that a competitor couldn't reuse it. Modelled on one particular marketing writer's approach, so expect its house style rather than a neutral edit.",
   "official": {
-    "title": "Harry Dry by joseamijares",
+    "title": "Harry Dry by Jose",
     "description": "A copy chief trained on Harry Dry. Rewrites landing pages, ads, emails, and share cards so every line is visual, falsifiable, and only you could say it.",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

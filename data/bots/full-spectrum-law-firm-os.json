@@ -1,0 +1,42 @@
+{
+  "slug": "full-spectrum-law-firm-os",
+  "name": "Full-Spectrum Law Firm OS",
+  "grokShareUrl": "https://x.ai/bot/EQgLIMO5Q_sVk3iM9EQbZ",
+  "botId": "EQgLIMO5Q_sVk3iM9EQbZ",
+  "creator": {
+    "handle": "JoshuaRCook",
+    "url": "https://x.com/JoshuaRCook"
+  },
+  "sourceUrl": "https://x.com/JoshuaRCook/status/2102734567626903780",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/full-spectrum-law-firm-os/"
+  },
+  "description": null,
+  "official": {
+    "title": "Full-Spectrum Law Firm OS by JC",
+    "description": "A Texas law-firm operations OS covering family, civil, criminal, and estate/probate matters end to end: intake and conflict checks, service-package...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "productivity",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/full-spectrum-law-firm-os/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

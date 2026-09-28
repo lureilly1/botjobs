@@ -1,0 +1,42 @@
+{
+  "slug": "adam",
+  "name": "Adam",
+  "grokShareUrl": "https://x.ai/bot/s8cUaz0aoomvjsIyOKANn",
+  "botId": "s8cUaz0aoomvjsIyOKANn",
+  "creator": {
+    "handle": "EdisonTanEdtreo",
+    "url": "https://x.com/EdisonTanEdtreo"
+  },
+  "sourceUrl": "https://x.com/EdisonTanEdtreo/status/2103222731831713842",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/adam/"
+  },
+  "description": null,
+  "official": {
+    "title": "Adam by Ed",
+    "description": "Your personal chief of staff. One chat for outcomes; Adam splits the work across specialist bots, guards approvals, and brings back the decision — not a...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "agent-team",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/adam/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

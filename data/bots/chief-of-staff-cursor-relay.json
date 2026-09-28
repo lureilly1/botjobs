@@ -17,7 +17,7 @@
     "title": "参谋长 by lee",
     "description": "把任务中转给 Cursor Cloud Agent 的 Fable 5.1（claude-fable-5-1），结果原样回传。适合只想要规划/调研中转、不想在聊天里自己折腾模型切换的人。",
     "resolves": true,
-    "fetchedAt": "2026-09-14"
+    "fetchedAt": "2026-09-28"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-14",
+  "lastVerifiedAt": "2026-09-28",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-09-21"
+  "lastSeenAt": "2026-09-28"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "creator-tracker",
+  "name": "Creator Tracker",
+  "grokShareUrl": "https://x.ai/bot/VybQINyBDKmSOgy-wua_A",
+  "botId": "VybQINyBDKmSOgy-wua_A",
+  "creator": {
+    "handle": "16luca",
+    "url": "https://x.com/16luca"
+  },
+  "sourceUrl": "https://x.com/16luca/status/2104441898140315675",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creator-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creator Tracker by IG:",
+    "description": "Follow any creators on X: get alerts when they post (optionally only about a topic you pick), with a link and a one-line summary, plus a daily...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "monitoring",
+    "creator",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creator-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

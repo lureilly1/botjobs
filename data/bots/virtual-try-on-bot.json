@@ -1,0 +1,41 @@
+{
+  "slug": "virtual-try-on-bot",
+  "name": "Virtual Try-On Bot",
+  "grokShareUrl": "https://x.ai/bot/8Cc1RovyoLulOn9SLY5UR",
+  "botId": "8Cc1RovyoLulOn9SLY5UR",
+  "creator": {
+    "handle": "paranoidream",
+    "url": "https://x.com/paranoidream"
+  },
+  "sourceUrl": "https://x.com/paranoidream/status/2103628312061055006",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/virtual-try-on-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Virtual Try-On Bot by paranoidream",
+    "description": "Turns clothes you like into a Grok Imagine video of you wearing them, built from your own Character reference. When you like a look, it sends the item...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/virtual-try-on-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

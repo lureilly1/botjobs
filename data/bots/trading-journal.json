@@ -1,0 +1,41 @@
+{
+  "slug": "trading-journal",
+  "name": "Trading Journal",
+  "grokShareUrl": "https://x.ai/bot/6rORf8SNvR8Sl1hl3THjO",
+  "botId": "6rORf8SNvR8Sl1hl3THjO",
+  "creator": {
+    "handle": "hooeem",
+    "url": "https://x.com/hooeem"
+  },
+  "sourceUrl": "https://x.com/hooeem/status/2104317730346143913",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/trading-journal/"
+  },
+  "description": null,
+  "official": {
+    "title": "Trading Journal by Hoem",
+    "description": "An evidence-based trading journal and plan coach for people who already trade. Log ideas, fills and exits by chat, voice, CSV or screenshot, challenge...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "analytics",
+    "decision-support",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/trading-journal/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

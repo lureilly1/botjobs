@@ -1,0 +1,41 @@
+{
+  "slug": "photofix",
+  "name": "PhotoFix",
+  "grokShareUrl": "https://x.ai/bot/PRdnJ63L8h0FVlMAA1UN4",
+  "botId": "PRdnJ63L8h0FVlMAA1UN4",
+  "creator": {
+    "handle": "MarsHomestead",
+    "url": "https://x.com/MarsHomestead"
+  },
+  "sourceUrl": "https://x.com/MarsHomestead/status/2103576228821364833",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/photofix/"
+  },
+  "description": null,
+  "official": {
+    "title": "PhotoFix by Mars",
+    "description": "PhotoFix is an AI photo editor that polishes real estate listing photos for agents, photographers, FSBO sellers, rental owners, and vacation-rental...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/photofix/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "my-vote-for-2027",
+  "name": "My Vote For 2027",
+  "grokShareUrl": "https://x.ai/bot/CHmLGnQyx6r8lkb3U8k9x",
+  "botId": "CHmLGnQyx6r8lkb3U8k9x",
+  "creator": {
+    "handle": "LeTerryBZH",
+    "url": "https://x.com/LeTerryBZH"
+  },
+  "sourceUrl": "https://x.com/LeTerryBZH/status/2101886569401733341",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/my-vote-for-2027/"
+  },
+  "description": null,
+  "official": {
+    "title": "My Vote For 2027 by Thierry",
+    "description": "Rates French 2027 presidential candidates on five weighted qualities from a Vote2027 Lattice, with a daily ~7am X civic watch (ingest checklist,...",
+    "resolves": true,
+    "fetchedAt": "2026-09-28"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "news",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/my-vote-for-2027/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-09-28",
+  "firstSeenAt": "2026-09-28",
+  "lastSeenAt": "2026-09-28"
+}
