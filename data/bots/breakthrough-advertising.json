@@ -1,0 +1,41 @@
+{
+  "slug": "breakthrough-advertising",
+  "name": "Breakthrough Advertising",
+  "grokShareUrl": "https://x.ai/bot/NZkRCKrLi2JqqjKKjaJ2O",
+  "botId": "NZkRCKrLi2JqqjKKjaJ2O",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2106565119207670209",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/breakthrough-advertising/"
+  },
+  "description": null,
+  "official": {
+    "title": "Breakthrough Advertising by Joe",
+    "description": "Helps you write ads and campaigns that grab attention and sell. Tell it your product, audience, and channel, and it drafts angles, headlines, and copy...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "content",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/breakthrough-advertising/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -17,7 +17,7 @@
     "title": "검색봇 by 는",
     "description": "웹·공식 자료를 찾아 비교·정리하고, 요청하면 한국어 Threads 스타일로 풀어 주는 검색·리서치 봇입니다.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

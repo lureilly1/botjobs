@@ -17,7 +17,7 @@
     "title": "Claim Ontology Desk by Mat",
     "description": "Paste a claim or URL and get a structured Entity→Claim→Source→Framing graph — steelman both sides, then what would change your mind. Built for contested...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

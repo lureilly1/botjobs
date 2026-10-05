@@ -17,7 +17,7 @@
     "title": "Lee by Chris",
     "description": "A cart-first shopping teammate. Builds Amazon, Sam's Club, Walmart, and other store carts from your lists, researches gifts, and never checks out unless...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

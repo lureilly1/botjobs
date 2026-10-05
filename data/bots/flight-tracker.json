@@ -1,0 +1,42 @@
+{
+  "slug": "flight-tracker",
+  "name": "Flight Tracker",
+  "grokShareUrl": "https://x.ai/bot/LoyTTSxTkugyejunRQovu",
+  "botId": "LoyTTSxTkugyejunRQovu",
+  "creator": {
+    "handle": "realgary12",
+    "url": "https://x.com/realgary12"
+  },
+  "sourceUrl": "https://x.com/realgary12/status/2104666754047967507",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/flight-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Flight Tracker by Fully",
+    "description": "Finds and compares flights, hotels, and rental cars. Watches locked trips, scores carry-on all-in prices, and alerts only on real deals — never books...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "saving-money",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/flight-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

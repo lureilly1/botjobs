@@ -1,0 +1,41 @@
+{
+  "slug": "stylist",
+  "name": "Stylist",
+  "grokShareUrl": "https://x.ai/bot/hezLDB16uwnU8khOu3L84",
+  "botId": "hezLDB16uwnU8khOu3L84",
+  "creator": {
+    "handle": "prorookiegamer",
+    "url": "https://x.com/prorookiegamer"
+  },
+  "sourceUrl": "https://x.com/prorookiegamer/status/2106484863700214201",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stylist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stylist by prorookiegamer",
+    "description": "A personal stylist for adults. Send one full-length photo of just you and get an honest read, outfit try-ons in your best colors, haircut ideas, an...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "personal",
+    "life-hacks",
+    "design"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stylist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

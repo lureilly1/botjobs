@@ -1,0 +1,41 @@
+{
+  "slug": "finance",
+  "name": "Finance",
+  "grokShareUrl": "https://x.ai/bot/XEHPBUHEWd4IB0ReUpKzB",
+  "botId": "XEHPBUHEWd4IB0ReUpKzB",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104719871682703832",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/finance/"
+  },
+  "description": null,
+  "official": {
+    "title": "Finance by Steven",
+    "description": "Household money seat: bills due, subscriptions, cash flow, and what’s off — asks before moving money or contacting banks.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/finance/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

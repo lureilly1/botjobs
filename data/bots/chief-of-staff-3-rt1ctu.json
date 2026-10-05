@@ -1,0 +1,41 @@
+{
+  "slug": "chief-of-staff-3-rt1ctu",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/rT1ctUUL_Sehj57TUl5IS",
+  "botId": "rT1ctUUL_Sehj57TUl5IS",
+  "creator": {
+    "handle": "angie_kuaile",
+    "url": "https://x.com/angie_kuaile"
+  },
+  "sourceUrl": "https://x.com/angie_kuaile/status/2102063662445859260",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-3/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Angie",
+    "description": "Opens the official United States Constitution and teaches it in plain language, starting with the Preamble and the seven articles.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-3/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

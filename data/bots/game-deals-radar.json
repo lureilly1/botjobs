@@ -1,0 +1,41 @@
+{
+  "slug": "game-deals-radar",
+  "name": "Game Deals Radar",
+  "grokShareUrl": "https://x.ai/bot/l8tq3o7JcvC-YFV2HaHfu",
+  "botId": "l8tq3o7JcvC-YFV2HaHfu",
+  "creator": {
+    "handle": "JPipo86",
+    "url": "https://x.com/JPipo86"
+  },
+  "sourceUrl": "https://x.com/JPipo86/status/2105424956569821347",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/game-deals-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "Game Deals Radar by Pixel",
+    "description": "Sends a short daily roundup of real, live game sales across Xbox, PlayStation, Switch, and Steam, and pings you when a wishlist game drops in price....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/game-deals-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

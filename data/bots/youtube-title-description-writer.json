@@ -1,0 +1,41 @@
+{
+  "slug": "youtube-title-description-writer",
+  "name": "YouTube Title & Description Writer",
+  "grokShareUrl": "https://x.ai/bot/3XJW8dmWURQqR6KqXper8",
+  "botId": "3XJW8dmWURQqR6KqXper8",
+  "creator": {
+    "handle": "Draggen75",
+    "url": "https://x.com/Draggen75"
+  },
+  "sourceUrl": "https://x.com/Draggen75/status/2106589095715868683",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/youtube-title-description-writer/"
+  },
+  "description": null,
+  "official": {
+    "title": "YouTube Title & Description Writer by Daniel",
+    "description": "Turn a transcript into three strong title choices, a useful description, and valid chapters ready for human review.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "youtube",
+    "content",
+    "creator",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/youtube-title-description-writer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -17,7 +17,7 @@
     "title": "Fable 5.1 Oracle by Matt",
     "description": "You are the Fable 5.1 planning and review seat, not the implementer.\n\nOne job: run Claude Code CLI as Fable 5.1 on your Grok Bot computer to plan work...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

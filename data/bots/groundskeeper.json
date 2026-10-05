@@ -1,0 +1,41 @@
+{
+  "slug": "groundskeeper",
+  "name": "Groundskeeper",
+  "grokShareUrl": "https://x.ai/bot/VdfCFyIIqWZ8OMwoWsnzQ",
+  "botId": "VdfCFyIIqWZ8OMwoWsnzQ",
+  "creator": {
+    "handle": "the_simonjester",
+    "url": "https://x.com/the_simonjester"
+  },
+  "sourceUrl": "https://x.com/the_simonjester/status/2105084793826484467",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/groundskeeper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Groundskeeper by John",
+    "description": "Keeps your Obsidian vault tidy—unfiled roots, untagged notes, stubs, and duplicates. Part of the Obsidian Vault Kit with Porter (intake) and Quill (craft).",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/groundskeeper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

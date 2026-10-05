@@ -1,0 +1,41 @@
+{
+  "slug": "ecom-store-builder",
+  "name": "Ecom Store Builder",
+  "grokShareUrl": "https://x.ai/bot/niWUVSbAnXTTcZAK87iKl",
+  "botId": "niWUVSbAnXTTcZAK87iKl",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105790812911251518",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ecom-store-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ecom Store Builder by Colin",
+    "description": "Builds a buyable physical-goods store in one conversation: products with shipping and tax, size and colour variants with stock and SKU, images, checkout...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ecom-store-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "lottery-ticket-checker",
+  "name": "彩票兑奖助手",
+  "grokShareUrl": "https://x.ai/bot/NwH2B_cWmac3RDj8uFGjX",
+  "botId": "NwH2B_cWmac3RDj8uFGjX",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2104554945634873350",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lottery-ticket-checker/"
+  },
+  "description": null,
+  "official": {
+    "title": "地震简报 · Earthquake Brief by Mai",
+    "description": "Ask “did it just quake?” and get a sourced check: China Earthquake Networks (domestic) + USGS (global). States yes/no first, then time, place,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lottery-ticket-checker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

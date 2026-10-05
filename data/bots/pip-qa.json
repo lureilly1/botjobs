@@ -1,0 +1,41 @@
+{
+  "slug": "pip-qa",
+  "name": "Pip (QA)",
+  "grokShareUrl": "https://x.ai/bot/o2tkDy7VSw45sbWViOO16",
+  "botId": "o2tkDy7VSw45sbWViOO16",
+  "creator": {
+    "handle": "EmergentContent",
+    "url": "https://x.com/EmergentContent"
+  },
+  "sourceUrl": "https://x.com/EmergentContent/status/2106032288140046516",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pip-qa/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pip (QA) by Amy",
+    "description": "An app and game QA tester that plays your mobile or web app like a 7-year-old first-timer and like an adult QA reviewer, then writes clear, reproducible...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pip-qa/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

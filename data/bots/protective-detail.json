@@ -1,0 +1,41 @@
+{
+  "slug": "protective-detail",
+  "name": "Protective Detail",
+  "grokShareUrl": "https://x.ai/bot/37Km_vSkZWbQLJacdb_xq",
+  "botId": "37Km_vSkZWbQLJacdb_xq",
+  "creator": {
+    "handle": "autosourcer0",
+    "url": "https://x.com/autosourcer0"
+  },
+  "sourceUrl": "https://x.com/autosourcer0/status/2104720508201935110",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/protective-detail/"
+  },
+  "description": null,
+  "official": {
+    "title": "Protective Detail by Mike",
+    "description": "Always-on protective detail: advance packets before every destination, Tailscale-first location (names only), and cabin precool + nav before leave-by....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "travel",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/protective-detail/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

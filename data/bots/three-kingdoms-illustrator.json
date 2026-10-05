@@ -17,7 +17,7 @@
     "title": "톨삼국지 by 재미없니?",
     "description": "매일 삼국지 인물화·전장 일러스트를 수묵화·서양화·일본 애니 기법으로 번갈아 그려 주고, 한국어 캡션과 X용 한 줄까지 붙여 주는 봇.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

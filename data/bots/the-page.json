@@ -1,0 +1,41 @@
+{
+  "slug": "the-page",
+  "name": "The Page",
+  "grokShareUrl": "https://x.ai/bot/uFRK1GoAsiopBLPY19QCe",
+  "botId": "uFRK1GoAsiopBLPY19QCe",
+  "creator": {
+    "handle": "TheMaran",
+    "url": "https://x.com/TheMaran"
+  },
+  "sourceUrl": "https://x.com/TheMaran/status/2105954244818083934",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-page/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Page by Hiten",
+    "description": "Watches 3–5 public pages once each morning and messages only when the thing you care about actually changed. After setup you get a short Watching list;...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "monitoring",
+    "research",
+    "scheduled",
+    "news"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-page/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

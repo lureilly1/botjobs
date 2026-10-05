@@ -1,0 +1,41 @@
+{
+  "slug": "event-rsvp-form-maker",
+  "name": "행사 참석 확인 폼 메이커",
+  "grokShareUrl": "https://x.ai/bot/p-0lxiUJj0Ws8_w7rDiCi",
+  "botId": "p-0lxiUJj0Ws8_w7rDiCi",
+  "creator": {
+    "handle": "brandonchung75",
+    "url": "https://x.com/brandonchung75"
+  },
+  "sourceUrl": "https://x.com/brandonchung75/status/2106535957382197673",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/event-rsvp-form-maker/"
+  },
+  "description": null,
+  "official": {
+    "title": "행사 참석 확인 폼 메이커 by Brandon",
+    "description": "Grok Build로 행사 참석 확인 폼을 만들어 grok.me에 배포하고, 제출 내용을 내 이메일로 받으며, 참석자가 휴대폰으로 스캔할 QR코드까지 만들어 주는 봇이에요. 밋업이나 행사를 여는 주최자를 위한 봇입니다.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "events",
+    "business",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/event-rsvp-form-maker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

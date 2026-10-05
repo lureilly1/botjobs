@@ -1,0 +1,41 @@
+{
+  "slug": "stagehand",
+  "name": "Stagehand",
+  "grokShareUrl": "https://x.ai/bot/zMpw1UzbMojI_e8m6kwMZ",
+  "botId": "zMpw1UzbMojI_e8m6kwMZ",
+  "creator": {
+    "handle": "pmconsulting",
+    "url": "https://x.com/pmconsulting"
+  },
+  "sourceUrl": "https://x.com/pmconsulting/status/2105104846940741797",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stagehand/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stagehand by Patrick",
+    "description": "SI for WordPress that edits staging, checks the change, and won't touch the live site until you say so.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stagehand/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

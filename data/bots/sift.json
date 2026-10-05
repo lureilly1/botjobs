@@ -1,0 +1,42 @@
+{
+  "slug": "sift",
+  "name": "Sift",
+  "grokShareUrl": "https://x.ai/bot/Ozmc1X3HNxehT0xz2G4cK",
+  "botId": "Ozmc1X3HNxehT0xz2G4cK",
+  "creator": {
+    "handle": "ereptyle",
+    "url": "https://x.com/ereptyle"
+  },
+  "sourceUrl": "https://x.com/ereptyle/status/2106736207791296768",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sift/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sift by Snake",
+    "description": "Drop links, thoughts, or X bookmarks and Sift judges each one keep, act, or kill. It traces hype posts back to their real source and keeps one short...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "social-media",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sift/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

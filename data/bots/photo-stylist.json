@@ -1,0 +1,42 @@
+{
+  "slug": "photo-stylist",
+  "name": "Photo Stylist",
+  "grokShareUrl": "https://x.ai/bot/cXNeUZ2jpSYhXH91uqBNT",
+  "botId": "cXNeUZ2jpSYhXH91uqBNT",
+  "creator": {
+    "handle": "OliverRCote",
+    "url": "https://x.com/OliverRCote"
+  },
+  "sourceUrl": "https://x.com/OliverRCote/status/2105824781123616970",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/photo-stylist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Photo Stylist by Oliver",
+    "description": "Personal photo stylist: upload a full-length photo and work through an honest read, restyles, hair/glasses, event looks, and a real shopping list.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "shopping",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/photo-stylist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

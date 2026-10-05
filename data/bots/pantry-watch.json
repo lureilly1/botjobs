@@ -17,7 +17,7 @@
     "title": "Pantry Watch by Drew",
     "description": "Paste a pantry list. Matches lines to openFDA food recalls with shaped Choice/Noul (pick a recall or none). Public data only. Never invents hits. Draft...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

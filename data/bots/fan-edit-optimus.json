@@ -1,0 +1,42 @@
+{
+  "slug": "fan-edit-optimus",
+  "name": "Fan Edit Optimus",
+  "grokShareUrl": "https://x.ai/bot/DR18SV4AEeeNRcKT1U-0P",
+  "botId": "DR18SV4AEeeNRcKT1U-0P",
+  "creator": {
+    "handle": "FanEditFanClub",
+    "url": "https://x.com/FanEditFanClub"
+  },
+  "sourceUrl": "https://x.com/FanEditFanClub/status/2106884531651260840",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fan-edit-optimus/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fan Edit Optimus by Fan",
+    "description": "Finds fan edits of movies and shows for you. It searches The Fan Edit Fan Club Collection on Google Drive, the Reddit fan edit communities, and the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fan-edit-optimus/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

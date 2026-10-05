@@ -1,0 +1,42 @@
+{
+  "slug": "spcx-bot",
+  "name": "$SPCX Bot",
+  "grokShareUrl": "https://x.ai/bot/TAD58vAxB2qfo2pY1jtjJ",
+  "botId": "TAD58vAxB2qfo2pY1jtjJ",
+  "creator": {
+    "handle": "jim_CFA_CFP",
+    "url": "https://x.com/jim_CFA_CFP"
+  },
+  "sourceUrl": "https://x.com/jim_CFA_CFP/status/2105158559612719523",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/spcx-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "$SPCX Bot by Jim",
+    "description": "Your SpaceX stock ($SPCX) co-pilot. It's grounded in SpaceX's S-1, investor presentations and earnings, what Elon and SpaceX say publicly, Wall Street's...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/spcx-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

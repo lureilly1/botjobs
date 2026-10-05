@@ -1,0 +1,42 @@
+{
+  "slug": "fantasy-football-2",
+  "name": "Fantasy Football",
+  "grokShareUrl": "https://x.ai/bot/sCQxQhL0pxmUEbFZ-cmgO",
+  "botId": "sCQxQhL0pxmUEbFZ-cmgO",
+  "creator": {
+    "handle": "EvanMFritz",
+    "url": "https://x.com/EvanMFritz"
+  },
+  "sourceUrl": "https://x.com/EvanMFritz/status/2106917403477356809",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Football by Evan",
+    "description": "A season-long fantasy football analyst that drafts with you, sets your lineup, watches injuries, scouts your weekly opponent, and works the waiver wire.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

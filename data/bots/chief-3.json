@@ -1,0 +1,41 @@
+{
+  "slug": "chief-3",
+  "name": "Chief",
+  "grokShareUrl": "https://x.ai/bot/8XD1HkmamSpzjZdBZKFSG",
+  "botId": "8XD1HkmamSpzjZdBZKFSG",
+  "creator": {
+    "handle": "franperez_fp",
+    "url": "https://x.com/franperez_fp"
+  },
+  "sourceUrl": "https://x.com/franperez_fp/status/2104625027526398375",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-3/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief by Francisco",
+    "description": "Un jefe de gabinete personal para founders con varios proyectos. Es tu primer contacto: resuelve, deriva o coordina al resto de tus bots, y cada día...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meta-bot",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-3/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

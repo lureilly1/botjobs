@@ -1,0 +1,41 @@
+{
+  "slug": "gluco",
+  "name": "Gluco",
+  "grokShareUrl": "https://x.ai/bot/7dHh-kr8rz5r5z_RKE-VM",
+  "botId": "7dHh-kr8rz5r5z_RKE-VM",
+  "creator": {
+    "handle": "Brianhill",
+    "url": "https://x.com/Brianhill"
+  },
+  "sourceUrl": "https://x.com/Brianhill/status/2104813988613926952",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gluco/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gluco by Brian",
+    "description": "Free chat-based diabetes logger for glucose, carbs, meds, weight, water, and steps. Keeps a daily carb tally, gives day summaries, and can import past...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gluco/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

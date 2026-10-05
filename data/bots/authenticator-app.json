@@ -1,0 +1,41 @@
+{
+  "slug": "authenticator-app",
+  "name": "Authenticator App",
+  "grokShareUrl": "https://x.ai/bot/etB2IDpbLPT-ZW4IIewQK",
+  "botId": "etB2IDpbLPT-ZW4IIewQK",
+  "creator": {
+    "handle": "refreshinga",
+    "url": "https://x.com/refreshinga"
+  },
+  "sourceUrl": "https://x.com/refreshinga/status/2106407655724269657",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/authenticator-app/"
+  },
+  "description": null,
+  "official": {
+    "title": "Authenticator App by Andrew",
+    "description": "Generates a fresh 6-digit login code when you ask. Another bot gets a code only for a service you have allowed, and the secret stays in a masked store.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "productivity",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/authenticator-app/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

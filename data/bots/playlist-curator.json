@@ -1,0 +1,41 @@
+{
+  "slug": "playlist-curator",
+  "name": "Playlist Curator",
+  "grokShareUrl": "https://x.ai/bot/Z4nHLMPHoK6cN25ADf0EF",
+  "botId": "Z4nHLMPHoK6cN25ADf0EF",
+  "creator": {
+    "handle": "doitian",
+    "url": "https://x.com/doitian"
+  },
+  "sourceUrl": "https://x.com/doitian/status/2106709075279110337",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/playlist-curator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Playlist Curator by ian",
+    "description": "Curates a NetEase Cloud Music (网易云音乐) working playlist from likes and history — ~90-minute refreshes with a 70/30 keep/roll and delete feedback.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "scheduled",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/playlist-curator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

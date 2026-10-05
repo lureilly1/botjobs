@@ -1,0 +1,42 @@
+{
+  "slug": "rejectionist",
+  "name": "Rejectionist",
+  "grokShareUrl": "https://x.ai/bot/MzKMT64ou_j4Q3edfbjE_",
+  "botId": "MzKMT64ou_j4Q3edfbjE_",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2107009541393313851",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rejectionist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rejectionist by Nomis",
+    "description": "Turn an App Store or TestFlight review rejection into a fix plan: guideline cite, what Apple likely saw, ranked fixes, Resolution Center reply draft,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "decision-support",
+    "support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rejectionist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

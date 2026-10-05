@@ -1,0 +1,40 @@
+{
+  "slug": "coach",
+  "name": "Coach",
+  "grokShareUrl": "https://x.ai/bot/9sDwKR-MphjuZ-Q00mr59",
+  "botId": "9sDwKR-MphjuZ-Q00mr59",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104713340614570216",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Coach by Steven",
+    "description": "Career accountability peer for designers. Holds weekly commitments and call prep, builds an evidence pack before any pipeline status nudge, and waits...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

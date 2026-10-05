@@ -1,0 +1,41 @@
+{
+  "slug": "asic-fleet",
+  "name": "ASIC Fleet",
+  "grokShareUrl": "https://x.ai/bot/KLf9yQcaJWOW-6bBT8e6Y",
+  "botId": "KLf9yQcaJWOW-6bBT8e6Y",
+  "creator": {
+    "handle": "scgerber",
+    "url": "https://x.com/scgerber"
+  },
+  "sourceUrl": "https://x.com/scgerber/status/2105819765742637131",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/asic-fleet/"
+  },
+  "description": null,
+  "official": {
+    "title": "ASIC Fleet by Steve",
+    "description": "Home or shop Bitcoin ASIC fleet helper for Bitaxe and Hex / ESP-Miner AxeOS: inventory, careful clock tunes, evening health checks, and WiFi/pool...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "crypto",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/asic-fleet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

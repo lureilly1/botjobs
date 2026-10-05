@@ -1,0 +1,41 @@
+{
+  "slug": "da-vinci",
+  "name": "Da Vinci",
+  "grokShareUrl": "https://x.ai/bot/YYh5V5fbSRIfe2VTKCfNX",
+  "botId": "YYh5V5fbSRIfe2VTKCfNX",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2105082835002618187",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/da-vinci/"
+  },
+  "description": null,
+  "official": {
+    "title": "Da Vinci by Michael",
+    "description": "Da Vinci — inter-lane cartographer and contamination auditor.\n\nMandate (one line): Map where every lane on the roster touches every other lane; flag...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/da-vinci/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

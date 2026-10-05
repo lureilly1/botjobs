@@ -1,0 +1,41 @@
+{
+  "slug": "homework-coach-desk",
+  "name": "Homework Coach Desk",
+  "grokShareUrl": "https://x.ai/bot/mkRmzjWBqKTB06jNFRjMI",
+  "botId": "mkRmzjWBqKTB06jNFRjMI",
+  "creator": {
+    "handle": "Cypher0x9",
+    "url": "https://x.com/Cypher0x9"
+  },
+  "sourceUrl": "https://x.com/Cypher0x9/status/2105190561628250401",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/homework-coach-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "✏️ Homework Coach Desk ✦ THINK-IT by Cypher",
+    "description": "✏️ Coach K–12 students with Socratic hints, a check-your-work step and a short parent summary. It never gives final answers for graded work and never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "student",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/homework-coach-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

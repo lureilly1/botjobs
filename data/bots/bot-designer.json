@@ -1,0 +1,42 @@
+{
+  "slug": "bot-designer",
+  "name": "Bot designer",
+  "grokShareUrl": "https://x.ai/bot/oIMJ9byzdg07tsJX07dKI",
+  "botId": "oIMJ9byzdg07tsJX07dKI",
+  "creator": {
+    "handle": "_kvnloo",
+    "url": "https://x.com/_kvnloo"
+  },
+  "sourceUrl": "https://x.com/_kvnloo/status/2106295108723208246",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-designer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot designer by Kevin",
+    "description": "Designs focused Grok Bots and keeps a fleet healthy — tight personas, webhook UIs, and routine/transcript checkups.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "developer",
+    "design",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-designer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

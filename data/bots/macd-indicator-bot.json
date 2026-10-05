@@ -1,0 +1,42 @@
+{
+  "slug": "macd-indicator-bot",
+  "name": "MACD Indicator Bot",
+  "grokShareUrl": "https://x.ai/bot/Czgr3EViXAkdzZ_jM3hAZ",
+  "botId": "Czgr3EViXAkdzZ_jM3hAZ",
+  "creator": {
+    "handle": "rightwingink1",
+    "url": "https://x.com/rightwingink1"
+  },
+  "sourceUrl": "https://x.com/rightwingink1/status/2106210612963692902",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/macd-indicator-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "MACD Indicator Bot by Right",
+    "description": "Finds MACD setups on your watchlist and writes a finished order ticket for each one. It checks the market first and skips choppy markets where MACD...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "investor",
+    "analytics",
+    "research",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/macd-indicator-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "growth",
+  "name": "Growth",
+  "grokShareUrl": "https://x.ai/bot/yDxUZegF6GnO_Kym-qewf",
+  "botId": "yDxUZegF6GnO_Kym-qewf",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104712906025882077",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/growth/"
+  },
+  "description": null,
+  "official": {
+    "title": "Growth by Steven",
+    "description": "Job-hunt ops for designers: track roles in Airtable, Monday pipeline pulse, evidence pack before Apply, you confirm every write. No browser auto-apply....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "recruiting",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/growth/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

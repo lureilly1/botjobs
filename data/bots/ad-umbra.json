@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Ad Umbra by Ξ",
-    "description": "These Grok Bot reworks add a dose of aspiration to your daily err, nightly grind equivalent to 30 CC’s of epinephrine straight to the brain! 🧪 💉 ...",
+    "description": "These Grok Bot / digital gremlins reworks add a dose of aspiration to your daily err, nightly grind equivalent to 30 CC’s of epinephrine straight to the...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

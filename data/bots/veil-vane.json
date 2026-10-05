@@ -1,0 +1,41 @@
+{
+  "slug": "veil-vane",
+  "name": "Veil & Vane",
+  "grokShareUrl": "https://x.ai/bot/eBRHmCqvGlOuGfiEJk42a",
+  "botId": "eBRHmCqvGlOuGfiEJk42a",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2106168405577601383",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/veil-vane/"
+  },
+  "description": null,
+  "official": {
+    "title": "Veil & Vane by @suddenlyjon",
+    "description": "Hides secret messages inside images, and finds hidden data in images, audio, and PDFs. For private notes between friends, puzzles, games, and checking...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/veil-vane/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

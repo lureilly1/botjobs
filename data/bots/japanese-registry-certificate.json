@@ -17,7 +17,7 @@
     "title": "登記とりよせ by sat0xshi",
     "description": "かんたん登記で履歴事項全部証明書を申請〜支払い〜郵送待ちまで、日本語で案内する。日本の会社・個人向け。",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "business-info-finder",
+  "name": "Business Info Finder",
+  "grokShareUrl": "https://x.ai/bot/lsg8TX4CiXRGWhkK9T8gN",
+  "botId": "lsg8TX4CiXRGWhkK9T8gN",
+  "creator": {
+    "handle": "Serenejaysew",
+    "url": "https://x.com/Serenejaysew"
+  },
+  "sourceUrl": "https://x.com/Serenejaysew/status/2105592832442413069",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/business-info-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Business Info Finder by Serenejay",
+    "description": "Drop a business or person's name and get a scannable contact sheet: company tree, phones, emails, who to call, socials, and opening times.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/business-info-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

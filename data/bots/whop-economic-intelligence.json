@@ -1,0 +1,41 @@
+{
+  "slug": "whop-economic-intelligence",
+  "name": "Whop Economic Intelligence",
+  "grokShareUrl": "https://x.ai/bot/M2ZLrLAUFFU0fFf6Aq28c",
+  "botId": "M2ZLrLAUFFU0fFf6Aq28c",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105401794675216752",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/whop-economic-intelligence/"
+  },
+  "description": null,
+  "official": {
+    "title": "Whop Economic Intelligence by Colin",
+    "description": "Runs Whop Economic Intelligence for your business: shows the single best next action with evidence, executes it when you approve, then checks the ledger...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "growth",
+    "data",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/whop-economic-intelligence/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

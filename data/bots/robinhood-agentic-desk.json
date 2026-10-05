@@ -1,0 +1,42 @@
+{
+  "slug": "robinhood-agentic-desk",
+  "name": "Robinhood Agentic Desk",
+  "grokShareUrl": "https://x.ai/bot/_IfsM7j6azkC8f1bkwocM",
+  "botId": "_IfsM7j6azkC8f1bkwocM",
+  "creator": {
+    "handle": "TheFirstPierre",
+    "url": "https://x.com/TheFirstPierre"
+  },
+  "sourceUrl": "https://x.com/TheFirstPierre/status/2106108919408205972",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/robinhood-agentic-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Robinhood Agentic Desk",
+    "description": "Risk-first trading desk for Robinhood: sets your limits, watches your symbols, and drafts exact orders for line-by-line approval — never trades without...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "investor",
+    "monitoring",
+    "automation",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/robinhood-agentic-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "rep-coach",
+  "name": "Rep Coach",
+  "grokShareUrl": "https://x.ai/bot/wJRcag7l4xPBW4Hc_mA0_",
+  "botId": "wJRcag7l4xPBW4Hc_mA0_",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2106850208948887701",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rep-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rep Coach by Joseph",
+    "description": "A training partner that builds your program, logs your sets by chat, and adjusts to your schedule and soreness. For beginners and regular lifters, gym...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rep-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

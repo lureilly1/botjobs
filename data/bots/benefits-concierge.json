@@ -1,0 +1,41 @@
+{
+  "slug": "benefits-concierge",
+  "name": "Benefits Concierge",
+  "grokShareUrl": "https://x.ai/bot/s8xQ8kXnmy06ChZvNJHXn",
+  "botId": "s8xQ8kXnmy06ChZvNJHXn",
+  "creator": {
+    "handle": "connorli1996",
+    "url": "https://x.com/connorli1996"
+  },
+  "sourceUrl": "https://x.com/connorli1996/status/2105067012817039599",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/benefits-concierge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Benefits Concierge by Zheng",
+    "description": "Tracks credit-card and membership benefits, logs seasonal credits, reminds before they expire, and recommends which perk to use before you book, shop,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "monitoring",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/benefits-concierge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

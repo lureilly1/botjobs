@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Habit Referee by Bill",
-    "description": "Habit Referee keeps you honest on exactly one tiny habit. Daily streak check-ins; quiet on good days; one short nag when you slip.",
+    "title": "Habit Referee by GrokBotGod",
+    "description": "Habit tracker for one habit. It checks in daily, stays quiet when you do it and nags once when you don't. Works from your yes or no, and never tracks...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

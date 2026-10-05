@@ -1,0 +1,41 @@
+{
+  "slug": "100m-offers",
+  "name": "$100M Offers",
+  "grokShareUrl": "https://x.ai/bot/wGsQKvaJgqNoE5w7l2_h_",
+  "botId": "wGsQKvaJgqNoE5w7l2_h_",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2106565122680668534",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/100m-offers/"
+  },
+  "description": null,
+  "official": {
+    "title": "$100M Offers by Joe",
+    "description": "Turns what you sell into a clear, honest offer people want to buy, explained in plain English. Built for anyone new to advertising and marketing.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "learning",
+    "marketer"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/100m-offers/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

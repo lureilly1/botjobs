@@ -1,0 +1,41 @@
+{
+  "slug": "escola-al-dia",
+  "name": "Escola al Dia",
+  "grokShareUrl": "https://x.ai/bot/pY08FtAuc9QGwrtZL3wHz",
+  "botId": "pY08FtAuc9QGwrtZL3wHz",
+  "creator": {
+    "handle": "mguellsegarra",
+    "url": "https://x.com/mguellsegarra"
+  },
+  "sourceUrl": "https://x.com/mguellsegarra/status/2107054256477917589",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/escola-al-dia/"
+  },
+  "description": null,
+  "official": {
+    "title": "Escola al Dia by Marc",
+    "description": "Escola al Dia (TokApp + correu): resumeix TokApp i, si vols, el correu de l'escola, i t'avisa al xat en català.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "email",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/escola-al-dia/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

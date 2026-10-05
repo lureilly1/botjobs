@@ -1,0 +1,42 @@
+{
+  "slug": "investing-agent",
+  "name": "Investing Agent",
+  "grokShareUrl": "https://x.ai/bot/d8O5qFdVTuffqePhAVd1J",
+  "botId": "d8O5qFdVTuffqePhAVd1J",
+  "creator": {
+    "handle": "VijarKohli",
+    "url": "https://x.com/VijarKohli"
+  },
+  "sourceUrl": "https://x.com/VijarKohli/status/2106160709013033438",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/investing-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "Investing Agent by Vijar",
+    "description": "Scores one public software name at a time and drafts a buy or a pass. Research only, until the owner approves a specific order.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "investor",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/investing-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

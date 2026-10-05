@@ -1,0 +1,41 @@
+{
+  "slug": "madison",
+  "name": "Madison",
+  "grokShareUrl": "https://x.ai/bot/237C0hK8Lph45gLkwplld",
+  "botId": "237C0hK8Lph45gLkwplld",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2105083587842421233",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/madison/"
+  },
+  "description": null,
+  "official": {
+    "title": "Madison by Michael",
+    "description": "Madison — civic / public-institution access specialist for access labs and reusable institutional dissertations.\n\nMandate (one line): Own access...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/madison/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

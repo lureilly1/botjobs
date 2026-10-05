@@ -1,0 +1,40 @@
+{
+  "slug": "glp-1-buddy",
+  "name": "GLP-1 Buddy",
+  "grokShareUrl": "https://x.ai/bot/ml0GdUkH0A-e7WwPcG6Jp",
+  "botId": "ml0GdUkH0A-e7WwPcG6Jp",
+  "creator": {
+    "handle": "TinaMBean",
+    "url": "https://x.com/TinaMBean"
+  },
+  "sourceUrl": "https://x.com/TinaMBean/status/2105382771644399657",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/glp-1-buddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "GLP-1 Buddy by Tina",
+    "description": "Free weekly-shot buddy for Ozempic, Wegovy, Mounjaro and Zepbound (semaglutide and tirzepatide). Reminders, a side-effect log and a doctor-ready page,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/glp-1-buddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

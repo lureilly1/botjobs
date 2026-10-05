@@ -1,0 +1,37 @@
+{
+  "slug": "publish-gate",
+  "name": "Publish Gate",
+  "grokShareUrl": "https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M",
+  "botId": "WgIRS7s6lOKFJKb0xaj_M",
+  "creator": {
+    "handle": null,
+    "name": "Sean O'Brien",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/publish-gate"
+  },
+  "description": null,
+  "official": {
+    "title": "Listing Auditor by Sean",
+    "description": "Paste your bot listing title and description. Listing Auditor checks them against honesty rules and returns ready-to-publish or not-ready, with a short...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/publish-gate"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

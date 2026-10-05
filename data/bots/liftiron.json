@@ -1,0 +1,42 @@
+{
+  "slug": "liftiron",
+  "name": "LiftIron",
+  "grokShareUrl": "https://x.ai/bot/15IifJPKsctHV1s9sIcTH",
+  "botId": "15IifJPKsctHV1s9sIcTH",
+  "creator": {
+    "handle": "realMAG1775",
+    "url": "https://x.com/realMAG1775"
+  },
+  "sourceUrl": "https://x.com/realMAG1775/status/2106141695691628831",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/liftiron/"
+  },
+  "description": null,
+  "official": {
+    "title": "LiftIron by realMAG1775",
+    "description": "Adaptive strength coach for your next set, estimated one-rep max, and deloads. For anyone who wants LiftIron's progression rules in chat.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/liftiron/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

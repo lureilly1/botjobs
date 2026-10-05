@@ -1,0 +1,42 @@
+{
+  "slug": "warren",
+  "name": "Warren",
+  "grokShareUrl": "https://x.ai/bot/VFQeZWpVL_euCJbWzhJOF",
+  "botId": "VFQeZWpVL_euCJbWzhJOF",
+  "creator": {
+    "handle": "Ulises__gg",
+    "url": "https://x.com/Ulises__gg"
+  },
+  "sourceUrl": "https://x.com/Ulises__gg/status/2106809689954721818",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/warren/"
+  },
+  "description": null,
+  "official": {
+    "title": "Warren by Ulises",
+    "description": "A CAN SLIM stock analyst. Give it a ticker and get a scored verdict (buy-setup, watch or avoid) with a clear entry, stop and market read, plus a running...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "analytics",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/warren/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "fantasy-football-analyst",
+  "name": "Fantasy Football Analyst",
+  "grokShareUrl": "https://x.ai/bot/QyGWyxX5eOLem3J5J1qAp",
+  "botId": "QyGWyxX5eOLem3J5J1qAp",
+  "creator": {
+    "handle": "KaceyC13",
+    "url": "https://x.com/KaceyC13"
+  },
+  "sourceUrl": "https://x.com/KaceyC13/status/2106611146510020654",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Football Analyst by Kacey",
+    "description": "Coaches your fantasy football drafts live, sets weekly lineups, and suggests waiver pickups with byes, injuries, and scoring format in mind. Built for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

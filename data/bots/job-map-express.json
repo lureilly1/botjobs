@@ -1,0 +1,41 @@
+{
+  "slug": "job-map-express",
+  "name": "Job Map Express",
+  "grokShareUrl": "https://x.ai/bot/f8P45KE_1HnIUPSqM-EEX",
+  "botId": "f8P45KE_1HnIUPSqM-EEX",
+  "creator": {
+    "handle": "mikeboysen",
+    "url": "https://x.com/mikeboysen"
+  },
+  "sourceUrl": "https://x.com/mikeboysen/status/2104869199399051527",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/job-map-express/"
+  },
+  "description": null,
+  "official": {
+    "title": "Job Map Express by Mike",
+    "description": "Builds Jobs-to-be-Done (JTBD) job maps and related analyses in chat — maps, metrics, related jobs, consumption chain, and more. For innovators and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/job-map-express/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

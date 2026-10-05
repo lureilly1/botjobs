@@ -1,0 +1,41 @@
+{
+  "slug": "flight-briefer",
+  "name": "Flight Briefer",
+  "grokShareUrl": "https://x.ai/bot/YQjlMLtWiWq14ixfZ7ig0",
+  "botId": "YQjlMLtWiWq14ixfZ7ig0",
+  "creator": {
+    "handle": "thatsnotallxd",
+    "url": "https://x.com/thatsnotallxd"
+  },
+  "sourceUrl": "https://x.com/thatsnotallxd/status/2106524224043016366",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/flight-briefer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Flight Briefer by Jernau",
+    "description": "Writes lean, one-page preflight briefing cards (weather, NOTAMs, TFRs, FBO, aircraft notes) from official free FAA and aviationweather.gov sources. For...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "research",
+    "decision-support",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/flight-briefer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

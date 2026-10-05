@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Fashion Stylist by Jenny",
-    "description": "Virtual closet from photos, try-ons, outfit comparison videos, clean clothing assets, catalog pages, and a personal Style File.",
+    "description": "Virtual closet from photos, try-ons, outfit comparison videos, clean product-style images, catalog pages, and your own Fashion Codex style book.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

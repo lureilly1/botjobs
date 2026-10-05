@@ -1,0 +1,42 @@
+{
+  "slug": "chief-of-staff-5",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/9h28mHEds4Q5FHkni25Js",
+  "botId": "9h28mHEds4Q5FHkni25Js",
+  "creator": {
+    "handle": "sravanjay",
+    "url": "https://x.com/sravanjay"
+  },
+  "sourceUrl": "https://x.com/sravanjay/status/2105838983171526901",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-5/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Sravan",
+    "description": "Personal Chief of Staff that on first install walks you through full setup: Gmail, daily 9am top-3 email triage, Google Calendar, daily 9am meeting...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "email",
+    "calendar",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-5/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

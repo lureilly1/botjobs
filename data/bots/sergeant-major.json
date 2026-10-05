@@ -1,0 +1,41 @@
+{
+  "slug": "sergeant-major",
+  "name": "Sergeant Major",
+  "grokShareUrl": "https://x.ai/bot/TkXI7PlT3q7g3mk7XsICi",
+  "botId": "TkXI7PlT3q7g3mk7XsICi",
+  "creator": {
+    "handle": "HowitzerN",
+    "url": "https://x.com/HowitzerN"
+  },
+  "sourceUrl": "https://x.com/HowitzerN/status/2106617542244708508",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sergeant-major/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sergeant Major by War",
+    "description": "Reviews your other bots' work and flags what is missing, wrong, or still waiting on you. For someone who runs several assistants and wants a check that...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "productivity",
+    "developer",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sergeant-major/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

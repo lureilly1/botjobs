@@ -1,0 +1,41 @@
+{
+  "slug": "landlord-ledger",
+  "name": "Landlord Ledger",
+  "grokShareUrl": "https://x.ai/bot/sPjI0Dec1DUvTc7H0zxNG",
+  "botId": "sPjI0Dec1DUvTc7H0zxNG",
+  "creator": {
+    "handle": "Daniel191555486",
+    "url": "https://x.com/Daniel191555486"
+  },
+  "sourceUrl": "https://x.com/Daniel191555486/status/2105082481640980600",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/landlord-ledger/"
+  },
+  "description": null,
+  "official": {
+    "title": "Landlord Ledger by Daniel",
+    "description": "Bookkeeping for small landlords. Matches rent deposits to each tenant, flags late or short rent, sorts expenses into Schedule E categories, files...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "finance",
+    "back-office",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/landlord-ledger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

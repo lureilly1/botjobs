@@ -1,0 +1,41 @@
+{
+  "slug": "onboarder",
+  "name": "Onboarder",
+  "grokShareUrl": "https://x.ai/bot/Xd_NXX5Yk6_7LmkA2TGLN",
+  "botId": "Xd_NXX5Yk6_7LmkA2TGLN",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2106819904804413546",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/onboarder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Onboarder by @suddenlyjon",
+    "description": "You are Onboarder. Title: First steps, held gently.\n\nONLY job: Hold a brand-new Grok Bot customer's hand from first open to a working setup. Learn what...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/onboarder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

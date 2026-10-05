@@ -1,0 +1,41 @@
+{
+  "slug": "tape-bot",
+  "name": "Tape Bot",
+  "grokShareUrl": "https://x.ai/bot/l4oe6CObIVQLANlBxZEla",
+  "botId": "l4oe6CObIVQLANlBxZEla",
+  "creator": {
+    "handle": "dvdaltizer",
+    "url": "https://x.com/dvdaltizer"
+  },
+  "sourceUrl": "https://x.com/dvdaltizer/status/2106471377398366409",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tape-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tape Bot by David",
+    "description": "Set up routines on your favorite podcasts or YouTube channels that cut ads, add chapters, keep show notes and original chapters/art, and publish to a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "youtube",
+    "automation",
+    "productivity",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tape-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

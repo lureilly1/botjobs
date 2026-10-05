@@ -1,0 +1,41 @@
+{
+  "slug": "store-manager",
+  "name": "Store Manager",
+  "grokShareUrl": "https://x.ai/bot/5axq0n6JtBkqjhMaCDO6d",
+  "botId": "5axq0n6JtBkqjhMaCDO6d",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105790823682003017",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/store-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Store Manager by Colin",
+    "description": "Runs day-to-day store ops: orders, ads health, low stock, and open disputes. Digests status and routes work to Product Ads, Order Desk, Customer Care,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meta-bot",
+    "ops",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/store-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

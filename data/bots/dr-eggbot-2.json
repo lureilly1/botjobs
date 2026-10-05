@@ -1,0 +1,41 @@
+{
+  "slug": "dr-eggbot-2",
+  "name": "dr eggbot",
+  "grokShareUrl": "https://x.ai/bot/_jOdbfkB16zxu7MRcmReE",
+  "botId": "_jOdbfkB16zxu7MRcmReE",
+  "creator": {
+    "handle": "SpaceGarbage202",
+    "url": "https://x.com/SpaceGarbage202"
+  },
+  "sourceUrl": "https://x.com/SpaceGarbage202/status/2105051230997274808",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dr-eggbot-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "dr eggbot",
+    "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dr-eggbot-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

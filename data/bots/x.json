@@ -1,0 +1,41 @@
+{
+  "slug": "x",
+  "name": "X 投资情报助手",
+  "grokShareUrl": "https://x.ai/bot/Jvm9xCsIY8CtTReKdytvk",
+  "botId": "Jvm9xCsIY8CtTReKdytvk",
+  "creator": {
+    "handle": "qizhong_hu",
+    "url": "https://x.com/qizhong_hu"
+  },
+  "sourceUrl": "https://x.com/qizhong_hu/status/2104823627183268092",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x/"
+  },
+  "description": null,
+  "official": {
+    "title": "X 投资情报助手 by web",
+    "description": "Tracks the investors you follow on X and the X chatter on your stock watchlist, then publishes a chart-rich daily briefing to Feishu/Lark (or delivers...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

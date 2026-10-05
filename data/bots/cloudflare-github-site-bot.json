@@ -1,0 +1,41 @@
+{
+  "slug": "cloudflare-github-site-bot",
+  "name": "Cloudflare GitHub Site Bot",
+  "grokShareUrl": "https://x.ai/bot/wuX9f9WZMmY8e1EQ_eB8A",
+  "botId": "wuX9f9WZMmY8e1EQ_eB8A",
+  "creator": {
+    "handle": "xPrivateUser",
+    "url": "https://x.com/xPrivateUser"
+  },
+  "sourceUrl": "https://x.com/xPrivateUser/status/2104705179098689620",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cloudflare-github-site-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cloudflare GitHub Site Bot by Roman",
+    "description": "Builds new websites or migrates existing ones onto GitHub and Cloudflare Workers. Walks you from zero accounts through SSH deploy keys, API tokens,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cloudflare-github-site-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

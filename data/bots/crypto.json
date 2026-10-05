@@ -1,0 +1,41 @@
+{
+  "slug": "crypto",
+  "name": "Crypto",
+  "grokShareUrl": "https://x.ai/bot/7wv5WYGOnMMImpWdicU3E",
+  "botId": "7wv5WYGOnMMImpWdicU3E",
+  "creator": {
+    "handle": "Robert1",
+    "url": "https://x.com/Robert1"
+  },
+  "sourceUrl": "https://x.com/Robert1/status/2105781926447698396",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto by Robert",
+    "description": "Crypto news and on-chain watch assistant: morning prices, move alerts, digests, unlocks calendar, and read-only wallet checks. Posts only in chat; never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "crypto",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

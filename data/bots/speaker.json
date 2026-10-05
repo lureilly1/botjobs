@@ -1,0 +1,42 @@
+{
+  "slug": "speaker",
+  "name": "Speaker",
+  "grokShareUrl": "https://x.ai/bot/MYauHGRcP387M8a_2mbNT",
+  "botId": "MYauHGRcP387M8a_2mbNT",
+  "creator": {
+    "handle": "BudJohnson",
+    "url": "https://x.com/BudJohnson"
+  },
+  "sourceUrl": "https://x.com/BudJohnson/status/2106892492180537628",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/speaker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Speaker by Bud",
+    "description": "A Speaker for the Dead inspired by Orson Scott Card's Ender's Game series. It keeps an honest, balanced record of your life, checks in with your other...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/speaker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

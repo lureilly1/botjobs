@@ -1,0 +1,42 @@
+{
+  "slug": "website-publisher",
+  "name": "Website Publisher",
+  "grokShareUrl": "https://x.ai/bot/UuKqeb4npN9RsP1G3REFR",
+  "botId": "UuKqeb4npN9RsP1G3REFR",
+  "creator": {
+    "handle": "ryanthawks",
+    "url": "https://x.com/ryanthawks"
+  },
+  "sourceUrl": "https://x.com/ryanthawks/status/2105811878081663402",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/website-publisher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Website Publisher by Ryan",
+    "description": "Senior web publisher for a public static site: gated deploys, SEO and indexing, docs, signup embeds, and featured-content drops — without inventing...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "seo",
+    "automation",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/website-publisher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

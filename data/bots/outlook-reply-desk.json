@@ -1,0 +1,37 @@
+{
+  "slug": "outlook-reply-desk",
+  "name": "Outlook Reply Desk",
+  "grokShareUrl": "https://x.ai/bot/2hd5RXfcTepic9O-O83Ri",
+  "botId": "2hd5RXfcTepic9O-O83Ri",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/outlook-reply-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Outlook Mail Desk by Bosotter",
+    "description": "Drafts Outlook replies with the free Outlook Mail plugin and only sends after you approve the exact message.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/outlook-reply-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

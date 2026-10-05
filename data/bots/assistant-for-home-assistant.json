@@ -1,0 +1,41 @@
+{
+  "slug": "assistant-for-home-assistant",
+  "name": "Assistant for Home Assistant",
+  "grokShareUrl": "https://x.ai/bot/w5-QLuYOODW6pHHOZjx-X",
+  "botId": "w5-QLuYOODW6pHHOZjx-X",
+  "creator": {
+    "handle": "BowieHole",
+    "url": "https://x.com/BowieHole"
+  },
+  "sourceUrl": "https://x.com/BowieHole/status/2106393382247440492",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/assistant-for-home-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Assistant for Home Assistant by Bowie",
+    "description": "For Home Assistant owners: catches dead devices, offline cameras, failed updates, and broken automations, and pings you only when a person has to act....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "home",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/assistant-for-home-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

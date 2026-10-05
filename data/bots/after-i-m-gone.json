@@ -1,0 +1,42 @@
+{
+  "slug": "after-i-m-gone",
+  "name": "After I’m Gone",
+  "grokShareUrl": "https://x.ai/bot/oerw7YjTMwbCuj-DaaQ7T",
+  "botId": "oerw7YjTMwbCuj-DaaQ7T",
+  "creator": {
+    "handle": "scgerber",
+    "url": "https://x.com/scgerber"
+  },
+  "sourceUrl": "https://x.com/scgerber/status/2105826350657585343",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/after-i-m-gone/"
+  },
+  "description": null,
+  "official": {
+    "title": "After I’m Gone by Steve",
+    "description": "Helps you leave a clear, living roadmap for your executor and/or loved one who will handle things if you die or become incapacitated — who to call,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "finance",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/after-i-m-gone/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

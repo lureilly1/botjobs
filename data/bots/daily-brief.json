@@ -1,0 +1,42 @@
+{
+  "slug": "daily-brief",
+  "name": "Daily Brief",
+  "grokShareUrl": "https://x.ai/bot/cqHBw9pPg2EEd4zwoRX9J",
+  "botId": "cqHBw9pPg2EEd4zwoRX9J",
+  "creator": {
+    "handle": "gzikry",
+    "url": "https://x.com/gzikry"
+  },
+  "sourceUrl": "https://x.com/gzikry/status/2105554370435915783",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daily Brief by George",
+    "description": "A two-minute morning digest of your day: meetings with prep notes and conflicts, the emails that actually need you, and news on the topics you pick,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "calendar",
+    "email",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

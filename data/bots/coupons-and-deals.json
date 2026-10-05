@@ -1,0 +1,42 @@
+{
+  "slug": "coupons-and-deals",
+  "name": "Coupons And Deals",
+  "grokShareUrl": "https://x.ai/bot/s_UtSo0-6Ne3m_CCUHXa6",
+  "botId": "s_UtSo0-6Ne3m_CCUHXa6",
+  "creator": {
+    "handle": "jacobgay1989",
+    "url": "https://x.com/jacobgay1989"
+  },
+  "sourceUrl": "https://x.com/jacobgay1989/status/2106521711864648134",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/coupons-and-deals/"
+  },
+  "description": null,
+  "official": {
+    "title": "Coupons And Deals by Jacob",
+    "description": "A grocery-savings assistant that clips store digital coupons, loads loyalty points as money off, finds printable coupons, and scans weekly sales at your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "saving-money",
+    "personal",
+    "life-hacks",
+    "food"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/coupons-and-deals/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

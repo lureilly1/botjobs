@@ -1,0 +1,41 @@
+{
+  "slug": "quote-finder",
+  "name": "Quote Finder",
+  "grokShareUrl": "https://x.ai/bot/XRIQWqAANS7fBiN0PygzI",
+  "botId": "XRIQWqAANS7fBiN0PygzI",
+  "creator": {
+    "handle": "MichaelDispigna",
+    "url": "https://x.com/MichaelDispigna"
+  },
+  "sourceUrl": "https://x.com/MichaelDispigna/status/2105064965405131136",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quote-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quote Finder by Ian",
+    "description": "Finds real, verified quotes from anyone you name. Checks primary sources and reputable outlets, flags misattributions, and says plainly when something...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "knowledge-base",
+    "news",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quote-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

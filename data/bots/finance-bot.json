@@ -1,0 +1,42 @@
+{
+  "slug": "finance-bot",
+  "name": "Finance Bot",
+  "grokShareUrl": "https://x.ai/bot/n-LVavRHTPJnFnBS50XTk",
+  "botId": "n-LVavRHTPJnFnBS50XTk",
+  "creator": {
+    "handle": "johnboyle",
+    "url": "https://x.com/johnboyle"
+  },
+  "sourceUrl": "https://x.com/johnboyle/status/2106466812577882230",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/finance-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Finance Bot by John",
+    "description": "Read-only email scanner and append-only bookkeeper that logs expenses and revenue from a business mailbox into a Google Sheet ledger, with hard safety...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "business",
+    "back-office",
+    "automation",
+    "email"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/finance-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

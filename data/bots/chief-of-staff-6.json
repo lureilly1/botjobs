@@ -1,0 +1,42 @@
+{
+  "slug": "chief-of-staff-6",
+  "name": "Chief of staff",
+  "grokShareUrl": "https://x.ai/bot/Q95CiuxaGmjpJiBG02XGf",
+  "botId": "Q95CiuxaGmjpJiBG02XGf",
+  "creator": {
+    "handle": "RachelVT42",
+    "url": "https://x.com/RachelVT42"
+  },
+  "sourceUrl": "https://x.com/RachelVT42/status/2106121366936432738",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-6/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of staff",
+    "description": "Quiet, budget-conscious chief of staff. Filters noise, runs real program management with artifact KPIs and % kill-switches, and hires lean specialists...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "business",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-6/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

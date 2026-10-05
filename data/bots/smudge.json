@@ -1,0 +1,42 @@
+{
+  "slug": "smudge",
+  "name": "Smudge",
+  "grokShareUrl": "https://x.ai/bot/H6786swUEkqg8xa3MFVLz",
+  "botId": "H6786swUEkqg8xa3MFVLz",
+  "creator": {
+    "handle": "9unsmoke",
+    "url": "https://x.com/9unsmoke"
+  },
+  "sourceUrl": "https://x.com/9unsmoke/status/2105958022841540909",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/smudge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Smudge by Gary",
+    "description": "Gary Bishop's rewriter (@9unsmoke on X). It takes writing that sounds machine-made and makes it read like a person wrote it, shows which patterns...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "content",
+    "creator",
+    "productivity",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/smudge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

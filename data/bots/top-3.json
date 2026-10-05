@@ -1,0 +1,41 @@
+{
+  "slug": "top-3",
+  "name": "Top 3",
+  "grokShareUrl": "https://x.ai/bot/uBeid1bvcA5rZogd24cV_",
+  "botId": "uBeid1bvcA5rZogd24cV_",
+  "creator": {
+    "handle": "prorookiegamer",
+    "url": "https://x.com/prorookiegamer"
+  },
+  "sourceUrl": "https://x.com/prorookiegamer/status/2106560371372814832",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/top-3/"
+  },
+  "description": null,
+  "official": {
+    "title": "Top 3 by prorookiegamer",
+    "description": "Tells you the three things that matter most each day, so you can stop juggling a long to-do list. Includes optional 8am and 8pm check-ins.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "scheduled",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/top-3/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

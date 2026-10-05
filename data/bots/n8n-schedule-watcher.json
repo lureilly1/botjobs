@@ -1,0 +1,42 @@
+{
+  "slug": "n8n-schedule-watcher",
+  "name": "n8n Schedule Watcher",
+  "grokShareUrl": "https://x.ai/bot/n78nHL2pCQJVpseg8uqgU",
+  "botId": "n78nHL2pCQJVpseg8uqgU",
+  "creator": {
+    "handle": "digitaljoeyp",
+    "url": "https://x.com/digitaljoeyp"
+  },
+  "sourceUrl": "https://x.com/digitaljoeyp/status/2106906769213587807",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/n8n-schedule-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "n8n Schedule Watcher by Joe",
+    "description": "Keeps an eye on your n8n workflows. Every week it reviews them for failures and broken setups and suggests edits to fix or streamline them.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "engineering",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/n8n-schedule-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

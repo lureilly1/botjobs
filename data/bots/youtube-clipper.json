@@ -1,0 +1,41 @@
+{
+  "slug": "youtube-clipper",
+  "name": "YouTube Clipper",
+  "grokShareUrl": "https://x.ai/bot/H2qTNvMCgLSoL8FhSESlk",
+  "botId": "H2qTNvMCgLSoL8FhSESlk",
+  "creator": {
+    "handle": "itsmechase",
+    "url": "https://x.com/itsmechase"
+  },
+  "sourceUrl": "https://x.com/itsmechase/status/2105439744830386338",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/youtube-clipper/"
+  },
+  "description": null,
+  "official": {
+    "title": "YouTube Clipper by Chase",
+    "description": "Clips any YouTube video. Just provide a link, a time stamp or description, and get an mp4 file in return. Clips are always provided 4K unless unavailable.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "youtube",
+    "video",
+    "content",
+    "creator"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/youtube-clipper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

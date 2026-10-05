@@ -1,0 +1,37 @@
+{
+  "slug": "preflight-check",
+  "name": "Preflight Check",
+  "grokShareUrl": "https://x.ai/bot/--EeqFnYoW0S2yUH-EQDo",
+  "botId": "--EeqFnYoW0S2yUH-EQDo",
+  "creator": {
+    "handle": null,
+    "name": "Sean O'Brien",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/preflight-check"
+  },
+  "description": null,
+  "official": {
+    "title": "Stability Validator by Sean",
+    "description": "Know before you ship whether an agent or automated workflow will hold under stress. HELIX Stability Validator runs a readiness check on the description...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/preflight-check"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

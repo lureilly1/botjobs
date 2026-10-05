@@ -1,0 +1,42 @@
+{
+  "slug": "crypto-creator-video-desk",
+  "name": "Crypto Creator Video Desk",
+  "grokShareUrl": "https://x.ai/bot/dS3EJo8pppavYU3vmafz4",
+  "botId": "dS3EJo8pppavYU3vmafz4",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2104700854930481258",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-creator-video-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto Creator Video Desk by James",
+    "description": "Paste a YouTube link and get chapter timestamps ready to paste, plus AI-voiced intros and outros with captions and Shorts cut from your episodes. Built...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "youtube",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-creator-video-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "meal-prep-molly",
+  "name": "Meal Prep Molly",
+  "grokShareUrl": "https://x.ai/bot/9CAijdJobViu5luVV9mRX",
+  "botId": "9CAijdJobViu5luVV9mRX",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104710511673987531",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meal-prep-molly/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meal Prep Molly by Frank",
+    "description": "Keeps a fixed weekly grocery list and reorders it through a delivering grocer. Same staples every week or a little variance, turned into a one message job.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meal-prep-molly/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

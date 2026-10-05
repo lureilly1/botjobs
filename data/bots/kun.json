@@ -1,0 +1,41 @@
+{
+  "slug": "kun",
+  "name": "Kun",
+  "grokShareUrl": "https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+  "botId": "xK8W0ukRv4iZjglzz-FRE",
+  "creator": {
+    "handle": "kunchenguid",
+    "url": "https://x.com/kunchenguid"
+  },
+  "sourceUrl": "https://x.com/kunchenguid/status/2105806675399852090",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kun/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kun by Kun",
+    "description": "Kun Chen - L8 Principal Engineer at your service. Daily synced with Kun’s real knowledge.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kun/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "budget-coach-2",
+  "name": "Budget Coach",
+  "grokShareUrl": "https://x.ai/bot/ZJrwuDsQRM1QBC-xQ-Ext",
+  "botId": "ZJrwuDsQRM1QBC-xQ-Ext",
+  "creator": {
+    "handle": "Marlene8055",
+    "url": "https://x.com/Marlene8055"
+  },
+  "sourceUrl": "https://x.com/Marlene8055/status/2106978252652765529",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/budget-coach-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Budget Coach by Marlene",
+    "description": "Links to your bank and cards (read-only) and builds a weekly budget from your real spending: what to set aside for each bill, what you can spend, and a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/budget-coach-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

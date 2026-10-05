@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Travel Influencer Outreach by Lovable",
-    "description": "Pitches hotels, tourism boards, and travel brands for lodging-for-content collabs, watches reply threads, and plans demo Reels for travel creators —...",
+    "title": "Travel Bot by Lovable",
+    "description": "Plans family trips on a real budget: business class on points, cheap fare watching, hosted-stay pitches to hotels and tourism boards, and phone-ready...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

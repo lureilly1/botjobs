@@ -1,0 +1,41 @@
+{
+  "slug": "linkedin-automation",
+  "name": "LinkedIn Automation",
+  "grokShareUrl": "https://x.ai/bot/wmWF7EgQD3c1O3cSHFA0v",
+  "botId": "wmWF7EgQD3c1O3cSHFA0v",
+  "creator": {
+    "handle": "melvindvivas",
+    "url": "https://x.com/melvindvivas"
+  },
+  "sourceUrl": "https://x.com/melvindvivas/status/2106607219672519000",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linkedin-automation/"
+  },
+  "description": null,
+  "official": {
+    "title": "LinkedIn Automation by Melvin",
+    "description": "Drafts and publishes LinkedIn posts in your voice, runs topic-based like passes, and saves buyer-looking prospects into one Google Sheet with a tab per...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "sales",
+    "automation",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-automation/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

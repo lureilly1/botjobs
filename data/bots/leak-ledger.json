@@ -1,0 +1,42 @@
+{
+  "slug": "leak-ledger",
+  "name": "Leak Ledger",
+  "grokShareUrl": "https://x.ai/bot/H2568vK9f4ZO_zlRgidOw",
+  "botId": "H2568vK9f4ZO_zlRgidOw",
+  "creator": {
+    "handle": "aydin_ayanzadeh",
+    "url": "https://x.com/aydin_ayanzadeh"
+  },
+  "sourceUrl": "https://x.com/aydin_ayanzadeh/status/2107068464427086012",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/leak-ledger/"
+  },
+  "description": null,
+  "official": {
+    "title": "Leak Ledger by Aydin",
+    "description": "Finds forgotten subscriptions and bill leaks in your email, drafts cancel or negotiate messages, and tracks cash you get back. For anyone who wants a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "email",
+    "finance",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/leak-ledger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

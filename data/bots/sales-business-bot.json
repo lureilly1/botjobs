@@ -1,0 +1,42 @@
+{
+  "slug": "sales-business-bot",
+  "name": "Sales Business Bot",
+  "grokShareUrl": "https://x.ai/bot/Rm7qrrA91s_C7tMi62SgB",
+  "botId": "Rm7qrrA91s_C7tMi62SgB",
+  "creator": {
+    "handle": "EzekielB6516",
+    "url": "https://x.com/EzekielB6516"
+  },
+  "sourceUrl": "https://x.com/EzekielB6516/status/2106524250194530729",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sales-business-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sales Business Bot by Christopher",
+    "description": "Helps one owner start and run a small sales business from their phone, from forming the company through the website, payments, outreach, customer...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "back-office",
+    "automation",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sales-business-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

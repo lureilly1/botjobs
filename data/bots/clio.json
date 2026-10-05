@@ -1,0 +1,41 @@
+{
+  "slug": "clio",
+  "name": "Clio",
+  "grokShareUrl": "https://x.ai/bot/CdAsPk_CDqQDtMPVwfN5s",
+  "botId": "CdAsPk_CDqQDtMPVwfN5s",
+  "creator": {
+    "handle": "Tom_Gere",
+    "url": "https://x.com/Tom_Gere"
+  },
+  "sourceUrl": "https://x.com/Tom_Gere/status/2105755253157122472",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clio/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clio by Thomas",
+    "description": "A Reading Scout that picks a few real, recent, worthwhile reads each weekday morning, tied to your work and personal goals, and learns your taste from...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "scheduled",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clio/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

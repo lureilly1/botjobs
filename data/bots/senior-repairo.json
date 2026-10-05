@@ -1,0 +1,41 @@
+{
+  "slug": "senior-repairo",
+  "name": "Senior Repairo",
+  "grokShareUrl": "https://x.ai/bot/3Wod4pPE0JSy1yGWylR_x",
+  "botId": "3Wod4pPE0JSy1yGWylR_x",
+  "creator": {
+    "handle": "SpaceGarbage202",
+    "url": "https://x.com/SpaceGarbage202"
+  },
+  "sourceUrl": "https://x.com/SpaceGarbage202/status/2104905404471820712",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/senior-repairo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Senior Repairo by Louie",
+    "description": "Audits other Grok bots. One change, snapshot + undo. Does not run their jobs. Output: topic, evidence, Apply/Skip/Stop.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/senior-repairo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

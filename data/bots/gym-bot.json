@@ -1,0 +1,42 @@
+{
+  "slug": "gym-bot",
+  "name": "Gym Bot",
+  "grokShareUrl": "https://x.ai/bot/G4Qddx9kqlcjyq451PAQ1",
+  "botId": "G4Qddx9kqlcjyq451PAQ1",
+  "creator": {
+    "handle": "rakshitaphilip",
+    "url": "https://x.com/rakshitaphilip"
+  },
+  "sourceUrl": "https://x.com/rakshitaphilip/status/2106668500534382993",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gym-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gym Bot by Rakshita",
+    "description": "Daily gym + calorie coach for HYROX and strength training. Logs workouts and food, pulls wearable recovery, renders a daily card stack, suggests meals,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "wellbeing",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gym-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

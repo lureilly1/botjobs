@@ -1,0 +1,42 @@
+{
+  "slug": "calpro-calorie-and-protein-tracker",
+  "name": "CalPro — calorie and protein tracker",
+  "grokShareUrl": "https://x.ai/bot/Iub_rfl8xMKC8RsMREi02",
+  "botId": "Iub_rfl8xMKC8RsMREi02",
+  "creator": {
+    "handle": "prorookiegamer",
+    "url": "https://x.com/prorookiegamer"
+  },
+  "sourceUrl": "https://x.com/prorookiegamer/status/2106179552032755941",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/calpro-calorie-and-protein-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "CalPro — calorie and protein tracker by prorookiegamer",
+    "description": "Send me what you ate, in words or a photo, and I'll track your calories and protein. No setup.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "food",
+    "personal",
+    "wellbeing",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/calpro-calorie-and-protein-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

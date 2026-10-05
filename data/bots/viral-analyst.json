@@ -1,0 +1,41 @@
+{
+  "slug": "viral-analyst",
+  "name": "Viral Analyst",
+  "grokShareUrl": "https://x.ai/bot/Q6AwABs_6Nt0Lx8LzR-A_",
+  "botId": "Q6AwABs_6Nt0Lx8LzR-A_",
+  "creator": {
+    "handle": "yulikay",
+    "url": "https://x.com/yulikay"
+  },
+  "sourceUrl": "https://x.com/yulikay/status/2105751078553698629",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/viral-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Viral Analyst by Matt",
+    "description": "Paste any X post you want to analyze into chat. Get a quick brief back on the hook or scroll stopper, why the content worked, the psychological patterns...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/viral-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

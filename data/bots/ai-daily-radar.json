@@ -1,0 +1,42 @@
+{
+  "slug": "ai-daily-radar",
+  "name": "AI Daily Radar",
+  "grokShareUrl": "https://x.ai/bot/EZ8RChmm9gSGmK3SXv-3M",
+  "botId": "EZ8RChmm9gSGmK3SXv-3M",
+  "creator": {
+    "handle": "MichaelGannotti",
+    "url": "https://x.com/MichaelGannotti"
+  },
+  "sourceUrl": "https://x.com/MichaelGannotti/status/2105851356292821413",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-daily-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Daily Radar by Michael",
+    "description": "Your morning AI brief, tuned to your stack. Launches, price changes, and benchmark claims from the last 24h, each tagged vendor-claimed or independently...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "research",
+    "monitoring",
+    "scheduled",
+    "developer"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-daily-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "frock-bot",
+  "name": "Frock Bot",
+  "grokShareUrl": "https://x.ai/bot/ghB-IMDlcgCWzczu-SZ3d",
+  "botId": "ghB-IMDlcgCWzczu-SZ3d",
+  "creator": {
+    "handle": "SM_Schmitt",
+    "url": "https://x.com/SM_Schmitt"
+  },
+  "sourceUrl": "https://x.com/SM_Schmitt/status/2106634217274949926",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/frock-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Frock Bot by Stephen",
+    "description": "Bible study assistant for Scripture and historic Christian interpretation. A research tool, not a pastor, spiritual director, confessor, or final...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "learning",
+    "knowledge-base",
+    "personal",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/frock-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

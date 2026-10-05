@@ -1,0 +1,41 @@
+{
+  "slug": "cards",
+  "name": "Cards",
+  "grokShareUrl": "https://x.ai/bot/0GjZj5W6UCzPfxX5y381r",
+  "botId": "0GjZj5W6UCzPfxX5y381r",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104719566337356168",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cards/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cards by Steven",
+    "description": "Credit-card ops: flag expiring credits, pick the best card for a purchase, and call keep vs cancel on annual fees. Short, numbers-first answers for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cards/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

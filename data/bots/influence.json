@@ -1,0 +1,41 @@
+{
+  "slug": "influence",
+  "name": "Influence",
+  "grokShareUrl": "https://x.ai/bot/TLwZuWy1y7meri_GT4EQw",
+  "botId": "TLwZuWy1y7meri_GT4EQw",
+  "creator": {
+    "handle": "CardCaptain",
+    "url": "https://x.com/CardCaptain"
+  },
+  "sourceUrl": "https://x.com/CardCaptain/status/2106565124891046145",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/influence/"
+  },
+  "description": null,
+  "official": {
+    "title": "Influence by Joe",
+    "description": "A one-book Bot for Influence: The Psychology of Persuasion by Robert Cialdini. It helps you think with the book, spot persuasion tricks, and keep...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "learning",
+    "business",
+    "marketer",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/influence/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

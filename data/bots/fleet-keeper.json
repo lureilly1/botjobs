@@ -1,0 +1,42 @@
+{
+  "slug": "fleet-keeper",
+  "name": "Fleet Keeper",
+  "grokShareUrl": "https://x.ai/bot/MH87fY2e7A7WbU0ZBrVCS",
+  "botId": "MH87fY2e7A7WbU0ZBrVCS",
+  "creator": {
+    "handle": "TheCoderBtw",
+    "url": "https://x.com/TheCoderBtw"
+  },
+  "sourceUrl": "https://x.com/TheCoderBtw/status/2106330061951664444",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fleet-keeper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fleet Keeper by TheCoderBTW",
+    "description": "Keeps a Grok Bot fleet tidy. Inventories every bot and channel read-only, flags duplicates, overlaps, stale and unsectioned bots, and splits each fix...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "developer",
+    "productivity",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fleet-keeper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

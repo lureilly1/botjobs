@@ -1,0 +1,42 @@
+{
+  "slug": "winreddestroyer",
+  "name": "WinRedDestroyer",
+  "grokShareUrl": "https://x.ai/bot/YS_lqB19LnlaPqXPEUn4f",
+  "botId": "YS_lqB19LnlaPqXPEUn4f",
+  "creator": {
+    "handle": "valdagher",
+    "url": "https://x.com/valdagher"
+  },
+  "sourceUrl": "https://x.com/valdagher/status/2101873314104787430",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/winreddestroyer/"
+  },
+  "description": null,
+  "official": {
+    "title": "WinRedDestroyer by Valentino",
+    "description": "Builds and maintains a password-gated evidence website for WinRed-linked political SMS spam — cases, FEC Form 1 officers, Repeat STOPs, and print-ready...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "data",
+    "social-media",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/winreddestroyer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

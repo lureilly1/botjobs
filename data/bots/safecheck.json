@@ -1,0 +1,41 @@
+{
+  "slug": "safecheck",
+  "name": "SafeCheck",
+  "grokShareUrl": "https://x.ai/bot/OOhpMHjXVhW1F-Ishnw_N",
+  "botId": "OOhpMHjXVhW1F-Ishnw_N",
+  "creator": {
+    "handle": "Jenhollidayx",
+    "url": "https://x.com/Jenhollidayx"
+  },
+  "sourceUrl": "https://x.com/Jenhollidayx/status/2106291401155870996",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/safecheck/"
+  },
+  "description": null,
+  "official": {
+    "title": "SafeCheck by EVOO",
+    "description": "A simple layer of safety for solo outings like walks, runs, workouts, appointments, dates, and parties: tell it where you're going and for how long, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/safecheck/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

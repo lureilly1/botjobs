@@ -1,0 +1,41 @@
+{
+  "slug": "when-it-matters",
+  "name": "When It Matters",
+  "grokShareUrl": "https://x.ai/bot/BqrH8_GNQvSYV-gcmJnd8",
+  "botId": "BqrH8_GNQvSYV-gcmJnd8",
+  "creator": {
+    "handle": "TheMaran",
+    "url": "https://x.com/TheMaran"
+  },
+  "sourceUrl": "https://x.com/TheMaran/status/2105954244818083934",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/when-it-matters/"
+  },
+  "description": null,
+  "official": {
+    "title": "When It Matters by Hiten",
+    "description": "Give me something you keep checking. I’ll figure out what would actually change the answer, keep watch, and message you when it matters.\n\nDon’t know...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "monitoring",
+    "research",
+    "scheduled",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/when-it-matters/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

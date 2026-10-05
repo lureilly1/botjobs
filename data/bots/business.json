@@ -1,0 +1,41 @@
+{
+  "slug": "business",
+  "name": "Business",
+  "grokShareUrl": "https://x.ai/bot/90lHQMpkeUT1ZWIw6dxkB",
+  "botId": "90lHQMpkeUT1ZWIw6dxkB",
+  "creator": {
+    "handle": "ArtJazd",
+    "url": "https://x.com/ArtJazd"
+  },
+  "sourceUrl": "https://x.com/ArtJazd/status/2105237507675931133",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/business/"
+  },
+  "description": null,
+  "official": {
+    "title": "Business by Stephen",
+    "description": "Runs your books, customers and website sign-ups on the open-source Business SQL schema, a complete business database that keeps full history. For small...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/business/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "quiet-inbox",
+  "name": "Quiet Inbox",
+  "grokShareUrl": "https://x.ai/bot/bbw5VWsbm4dvrF_-LHJf4",
+  "botId": "bbw5VWsbm4dvrF_-LHJf4",
+  "creator": {
+    "handle": "signalnoise8020",
+    "url": "https://x.com/signalnoise8020"
+  },
+  "sourceUrl": "https://x.com/signalnoise8020/status/2106689012920353135",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quiet-inbox/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quiet Inbox by Ben",
+    "description": "Archives promo and junk in Gmail and never deletes it. Weekly bills and events notes stay drafts until you say to send them.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "productivity",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quiet-inbox/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

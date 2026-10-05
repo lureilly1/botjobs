@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "AEO/SEO Bot by Eric",
-    "description": "Weekday Content OS for an SEO/AEO team: mines 40 real candidates, you pick 20, a drafting tool writes unpublished pages, this bot layouts and evals....",
+    "description": "Weekday content operator for search and answer-engine pages. It mines a slate from search, calls, and founder tape, scores ideas with a live judge...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

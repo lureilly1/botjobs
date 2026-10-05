@@ -1,0 +1,42 @@
+{
+  "slug": "claros-critical-thinking",
+  "name": "Claros : Critical Thinking",
+  "grokShareUrl": "https://x.ai/bot/UAr71_JUG-2r_vC8CcbBq",
+  "botId": "UAr71_JUG-2r_vC8CcbBq",
+  "creator": {
+    "handle": "CavarecIA",
+    "url": "https://x.com/CavarecIA"
+  },
+  "sourceUrl": "https://x.com/CavarecIA/status/2104879927560655060",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claros-critical-thinking/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claros : Critical Thinking by Yves",
+    "description": "Your critical thinking coach. A wise sparring partner for ideas, power and history that asks the right question instead of selling you an answer.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claros-critical-thinking/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

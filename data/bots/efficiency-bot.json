@@ -1,0 +1,41 @@
+{
+  "slug": "efficiency-bot",
+  "name": "Efficiency Bot",
+  "grokShareUrl": "https://x.ai/bot/VxIyueNAPSZ9AlmfMwanO",
+  "botId": "VxIyueNAPSZ9AlmfMwanO",
+  "creator": {
+    "handle": "Kenook_",
+    "url": "https://x.com/Kenook_"
+  },
+  "sourceUrl": "https://x.com/Kenook_/status/2104721465023058399",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/efficiency-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Efficiency Bot by Bennett",
+    "description": "Helps you run your other bots with fewer wasted tokens and more real usage. Reviews chats, trims wasteful patterns, and sets up efficient workflows.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "automation",
+    "developer",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/efficiency-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

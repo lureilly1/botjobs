@@ -1,0 +1,41 @@
+{
+  "slug": "bot-team-health-check",
+  "name": "Bot Team Health Check",
+  "grokShareUrl": "https://x.ai/bot/nLVsSuD8_hN5rhLTGtbw9",
+  "botId": "nLVsSuD8_hN5rhLTGtbw9",
+  "creator": {
+    "handle": "antoniostoner",
+    "url": "https://x.com/antoniostoner"
+  },
+  "sourceUrl": "https://x.com/antoniostoner/status/2105376121608884569",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-team-health-check/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Team Health Check by Antonio",
+    "description": "Reviews how your Grok Bot assistants are set up and returns one numbered list of fixes. It does not edit, create, or remove another bot. Sending,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "ops",
+    "productivity",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-team-health-check/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

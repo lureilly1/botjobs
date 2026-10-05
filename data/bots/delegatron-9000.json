@@ -1,0 +1,42 @@
+{
+  "slug": "delegatron-9000",
+  "name": "Delegatron 9000",
+  "grokShareUrl": "https://x.ai/bot/NJvHVpGC81PjsH4234BPJ",
+  "botId": "NJvHVpGC81PjsH4234BPJ",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2105832144740274400",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/delegatron-9000/"
+  },
+  "description": null,
+  "official": {
+    "title": "Delegatron 9000 by @suddenlyjon",
+    "description": "Give it a goal and it runs your other bots for you. It splits the work across the assistants you already have, shows you the plan to approve, hands each...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "productivity",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/delegatron-9000/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

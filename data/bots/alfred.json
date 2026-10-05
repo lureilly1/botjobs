@@ -17,7 +17,7 @@
     "title": "Alfred by Michael",
     "description": "Cheeky British chief-of-staff bot that runs email/Drive/calendar ops, watches inboxes, builds daily briefings and recipe binders, and coordinates...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

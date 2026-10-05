@@ -1,0 +1,42 @@
+{
+  "slug": "hypr-logo-cursor",
+  "name": "Hypr Logo Cursor",
+  "grokShareUrl": "https://x.ai/bot/ebn2zbzDw8SABcQGPUXjp",
+  "botId": "ebn2zbzDw8SABcQGPUXjp",
+  "creator": {
+    "handle": "tim_sonner",
+    "url": "https://x.com/tim_sonner"
+  },
+  "sourceUrl": "https://x.com/tim_sonner/status/2105890745999925515",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hypr-logo-cursor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hypr Logo Cursor by Tim",
+    "description": "Omarchy/Hyprland helper that installs a scalable Hyprland logo (cyan droplet) cursor from official pixels — sizes 24–48 — without third-party cursor packs.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hypr-logo-cursor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

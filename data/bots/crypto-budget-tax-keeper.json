@@ -1,0 +1,42 @@
+{
+  "slug": "crypto-budget-tax-keeper",
+  "name": "Crypto Budget & Tax Keeper",
+  "grokShareUrl": "https://x.ai/bot/h-l5EmqmnU91tgYOPaJE5",
+  "botId": "h-l5EmqmnU91tgYOPaJE5",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2104700854930481258",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-budget-tax-keeper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto Budget & Tax Keeper by James",
+    "description": "A read-only money assistant for crypto holders and creators. It builds a plain-English budget and net worth from your bank, exchanges and wallets, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "crypto",
+    "finance",
+    "personal",
+    "back-office",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-budget-tax-keeper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

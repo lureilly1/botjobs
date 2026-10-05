@@ -1,0 +1,42 @@
+{
+  "slug": "lost-property",
+  "name": "Lost Property",
+  "grokShareUrl": "https://x.ai/bot/mVJfH1ZPyKg_ldqUhaMJU",
+  "botId": "mVJfH1ZPyKg_ldqUhaMJU",
+  "creator": {
+    "handle": "scgerber",
+    "url": "https://x.com/scgerber"
+  },
+  "sourceUrl": "https://x.com/scgerber/status/2105817852582486512",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lost-property/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lost Property by Steve",
+    "description": "Walk official unclaimed-property portals with you — you clear captchas and file claims. Private roster file, no SSN in chat; portal map with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lost-property/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

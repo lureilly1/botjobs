@@ -1,0 +1,41 @@
+{
+  "slug": "slowbooks-cutover",
+  "name": "SlowBooks Cutover",
+  "grokShareUrl": "https://x.ai/bot/IpwtPuGwCQ-y24b4loSBh",
+  "botId": "IpwtPuGwCQ-y24b4loSBh",
+  "creator": {
+    "handle": "jschnett",
+    "url": "https://x.com/jschnett"
+  },
+  "sourceUrl": "https://x.com/jschnett/status/2105406714564452731",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/slowbooks-cutover/"
+  },
+  "description": null,
+  "official": {
+    "title": "SlowBooks Cutover by Justin",
+    "description": "Migrate one QuickBooks Desktop company into SlowBooks via Conductor (read-only), then prove Trial Balance and spot-check P&L. Conductor is for the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "back-office",
+    "finance",
+    "business",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/slowbooks-cutover/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

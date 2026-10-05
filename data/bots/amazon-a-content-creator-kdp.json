@@ -1,0 +1,41 @@
+{
+  "slug": "amazon-a-content-creator-kdp",
+  "name": "Amazon A+ Content Creator (KDP)",
+  "grokShareUrl": "https://x.ai/bot/M50zP05s02Y7cBzIc7i00",
+  "botId": "M50zP05s02Y7cBzIc7i00",
+  "creator": {
+    "handle": "El_Tonio83",
+    "url": "https://x.com/El_Tonio83"
+  },
+  "sourceUrl": "https://x.com/El_Tonio83/status/2104889582089126149",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/amazon-a-content-creator-kdp/"
+  },
+  "description": null,
+  "official": {
+    "title": "Amazon A+ Content Creator (KDP) by anton",
+    "description": "Builds Amazon KDP A+ Content for your books: module plan, finished images, and paste-ready copy that only uses claims from your book and blurb. It can...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "content",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/amazon-a-content-creator-kdp/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

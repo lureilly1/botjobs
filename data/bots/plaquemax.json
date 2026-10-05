@@ -1,0 +1,41 @@
+{
+  "slug": "plaquemax",
+  "name": "Plaquemax",
+  "grokShareUrl": "https://x.ai/bot/KZ1cKh5hlgqicxQhn3C2e",
+  "botId": "KZ1cKh5hlgqicxQhn3C2e",
+  "creator": {
+    "handle": "ChrisAdcockMD",
+    "url": "https://x.com/ChrisAdcockMD"
+  },
+  "sourceUrl": "https://x.com/ChrisAdcockMD/status/2105678370432561624",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/plaquemax/"
+  },
+  "description": null,
+  "official": {
+    "title": "Plaquemax by Chris",
+    "description": "Tell it your route and it finds the historical markers along the way, in driving order, ready to read aloud. It offers themes, gives a heads-up 5 to 10...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "personal",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/plaquemax/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

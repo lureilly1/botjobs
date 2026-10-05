@@ -1,0 +1,42 @@
+{
+  "slug": "ballot",
+  "name": "Ballot",
+  "grokShareUrl": "https://x.ai/bot/yyoue5V3aoz9K8wvYQgN8",
+  "botId": "yyoue5V3aoz9K8wvYQgN8",
+  "creator": {
+    "handle": "ahua0323",
+    "url": "https://x.com/ahua0323"
+  },
+  "sourceUrl": "https://x.com/ahua0323/status/2106914938807820407",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ballot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ballot by Andrew",
+    "description": "A nonpartisan voter guide that learns your views through a short issue survey, then breaks down every race and measure on your ballot and flags choices...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ballot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

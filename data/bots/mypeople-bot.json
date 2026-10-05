@@ -1,0 +1,41 @@
+{
+  "slug": "mypeople-bot",
+  "name": "MyPeople Bot",
+  "grokShareUrl": "https://x.ai/bot/v5MedUVzGQEty_TkPMpyL",
+  "botId": "v5MedUVzGQEty_TkPMpyL",
+  "creator": {
+    "handle": "StuyBoyNY",
+    "url": "https://x.com/StuyBoyNY"
+  },
+  "sourceUrl": "https://x.com/StuyBoyNY/status/2106850544740360456",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mypeople-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "MyPeople Bot by StuyBoy",
+    "description": "Give it your email and in about two minutes it shows which data breaches you're in, with the three fixes that matter most. It also checks your public...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "monitoring",
+    "data"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mypeople-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

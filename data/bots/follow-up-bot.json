@@ -1,0 +1,41 @@
+{
+  "slug": "follow-up-bot",
+  "name": "Follow-Up Bot",
+  "grokShareUrl": "https://x.ai/bot/9X3XAP55-_L_47wFmH-jf",
+  "botId": "9X3XAP55-_L_47wFmH-jf",
+  "creator": {
+    "handle": "day__bliss",
+    "url": "https://x.com/day__bliss"
+  },
+  "sourceUrl": "https://x.com/day__bliss/status/2106560603494269170",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/follow-up-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Follow-Up Bot by Day",
+    "description": "Turns the people you meet at events into warm, personal follow-ups by email or X DM that you approve, then reminds you when a thread goes quiet. Good...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "email",
+    "social-media",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/follow-up-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

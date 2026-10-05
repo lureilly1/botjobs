@@ -1,0 +1,42 @@
+{
+  "slug": "ho-be-gone",
+  "name": "Ho Be Gone",
+  "grokShareUrl": "https://x.ai/bot/zM69z4OgdFDSzWcFNsQqx",
+  "botId": "zM69z4OgdFDSzWcFNsQqx",
+  "creator": {
+    "handle": "TheRetardedELon",
+    "url": "https://x.com/TheRetardedELon"
+  },
+  "sourceUrl": "https://x.com/TheRetardedELon/status/2104149765562957993",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ho-be-gone/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ho Be Gone by Jay",
+    "description": "Ho Be Gone (Hive Operators, Be Gone) checks your X followers and the accounts that interact with your posts, and automatically blocks scams,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "automation",
+    "support",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ho-be-gone/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

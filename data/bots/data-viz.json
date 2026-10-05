@@ -1,0 +1,42 @@
+{
+  "slug": "data-viz",
+  "name": "Data viz",
+  "grokShareUrl": "https://x.ai/bot/xk4TYexNbnfmS8l88QR8v",
+  "botId": "xk4TYexNbnfmS8l88QR8v",
+  "creator": {
+    "handle": "HazeyDataFred",
+    "url": "https://x.com/HazeyDataFred"
+  },
+  "sourceUrl": "https://x.com/HazeyDataFred/status/2106872061779914770",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/data-viz/"
+  },
+  "description": null,
+  "official": {
+    "title": "Data viz by Fred",
+    "description": "Turns a CSV or pasted table into an honest, clean chart or table, or critiques a chart you already have with ranked fixes. Finds the story, puts the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "data",
+    "analytics",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/data-viz/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

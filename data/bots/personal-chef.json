@@ -1,0 +1,42 @@
+{
+  "slug": "personal-chef",
+  "name": "Personal Chef",
+  "grokShareUrl": "https://x.ai/bot/gMrnNpgylgu11PImcWTdy",
+  "botId": "gMrnNpgylgu11PImcWTdy",
+  "creator": {
+    "handle": "ChefMcMakin",
+    "url": "https://x.com/ChefMcMakin"
+  },
+  "sourceUrl": "https://x.com/ChefMcMakin/status/2106137063972057246",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-chef/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Chef by Chef",
+    "description": "Answers \"what's for dinner?\" for your whole week. Six quick questions set up your family, then every week you get a custom dinner plan, printable recipe...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "family",
+    "shopping",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-chef/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

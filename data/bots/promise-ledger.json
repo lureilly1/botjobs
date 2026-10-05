@@ -1,0 +1,43 @@
+{
+  "slug": "promise-ledger",
+  "name": "Promise Ledger",
+  "grokShareUrl": "https://x.ai/bot/srdRIiBSYskKc70-TRwG1",
+  "botId": "srdRIiBSYskKc70-TRwG1",
+  "creator": {
+    "handle": "AirbossHVAC",
+    "url": "https://x.com/AirbossHVAC"
+  },
+  "sourceUrl": "https://x.com/AirbossHVAC/status/2106904703716200735",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/promise-ledger/"
+  },
+  "description": null,
+  "official": {
+    "title": "Promise Ledger by AARON",
+    "description": "Paste your call notes once and get a recap, every promise made on the call (yours and the customer's), and a dated follow-up list. Built for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "back-office",
+    "meetings",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/promise-ledger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

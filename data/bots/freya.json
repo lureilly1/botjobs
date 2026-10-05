@@ -1,0 +1,41 @@
+{
+  "slug": "freya",
+  "name": "Freya",
+  "grokShareUrl": "https://x.ai/bot/MX6t6uaMBbtiYQwX_oDXM",
+  "botId": "MX6t6uaMBbtiYQwX_oDXM",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2105082535952990635",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/freya/"
+  },
+  "description": null,
+  "official": {
+    "title": "Freya by Michael",
+    "description": "Freya — home-life coach and personal COO for evenings and days off.\n\nMission: help the owner pivot into being active and present at home—family,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/freya/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

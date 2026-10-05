@@ -17,7 +17,7 @@
     "title": "Grip by Clayton",
     "description": "Hands-on robot-arm co-pilot for Hiwonder SO-ARM101-style arms: limp-teach waypoints, slow replay, and under-load pan bias until a tray place lands.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

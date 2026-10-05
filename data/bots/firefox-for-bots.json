@@ -1,0 +1,41 @@
+{
+  "slug": "firefox-for-bots",
+  "name": "Firefox for Bots",
+  "grokShareUrl": "https://x.ai/bot/7v-lRs0HUGjU8zD_0-tGg",
+  "botId": "7v-lRs0HUGjU8zD_0-tGg",
+  "creator": {
+    "handle": "garrettRandom99",
+    "url": "https://x.com/garrettRandom99"
+  },
+  "sourceUrl": "https://x.com/garrettRandom99/status/2106886618116493387",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/firefox-for-bots/"
+  },
+  "description": null,
+  "official": {
+    "title": "Firefox for Bots by Garrett",
+    "description": "Adds Firefox next to Chrome on your Grok Bot box: uBlock, Firefox Sync passwords on every bot, shared logins, the built-in VPN on standby, and optional...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/firefox-for-bots/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

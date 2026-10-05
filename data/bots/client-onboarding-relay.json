@@ -1,0 +1,37 @@
+{
+  "slug": "client-onboarding-relay",
+  "name": "Client Onboarding Relay",
+  "grokShareUrl": "https://x.ai/bot/GCS9cInMXDINawaevtN_J",
+  "botId": "GCS9cInMXDINawaevtN_J",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/client-onboarding-relay"
+  },
+  "description": null,
+  "official": {
+    "title": "Client Onboarding Relay by Bosotter",
+    "description": "Client Onboarding Relay maps how a new client gets from Paid to Form to Access to Done, based on what you describe. It works at the first two levels of...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/client-onboarding-relay"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

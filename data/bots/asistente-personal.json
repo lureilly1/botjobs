@@ -1,0 +1,41 @@
+{
+  "slug": "asistente-personal",
+  "name": "Asistente Personal",
+  "grokShareUrl": "https://x.ai/bot/Kf1jr6ZtTbJl-MSWGRjAw",
+  "botId": "Kf1jr6ZtTbJl-MSWGRjAw",
+  "creator": {
+    "handle": "fminondo",
+    "url": "https://x.com/fminondo"
+  },
+  "sourceUrl": "https://x.com/fminondo/status/2105443373045993624",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/asistente-personal/"
+  },
+  "description": null,
+  "official": {
+    "title": "Asistente Personal by Francisco",
+    "description": "Asistente personal en español: ordena tu correo y tus chats, redacta mensajes para que tú los apruebes, saca facturas CFDI de tickets con autofactura y...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/asistente-personal/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

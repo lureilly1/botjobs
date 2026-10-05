@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "The List by Bill",
+    "title": "The List by GrokBotGod",
     "description": "The List is the GrokBotGod in-bot newsletter. Install once; get three-line drops in this chat when new bots or directory picks land. No email. No yes/no.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

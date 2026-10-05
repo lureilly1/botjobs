@@ -1,0 +1,41 @@
+{
+  "slug": "stich-vault",
+  "name": "Stich + Vault",
+  "grokShareUrl": "https://x.ai/bot/LySai4iBlM2ylkDRHppag",
+  "botId": "LySai4iBlM2ylkDRHppag",
+  "creator": {
+    "handle": "Sm0ken42O",
+    "url": "https://x.com/Sm0ken42O"
+  },
+  "sourceUrl": "https://x.com/Sm0ken42O/status/2106123177407422672",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stich-vault/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stich + Vault by Epic",
+    "description": "Media desk bot with Stich (concat any clips into one H.264+AAC mp4) and Epic Vault (list/download phone media from your vault). For creators who want...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stich-vault/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

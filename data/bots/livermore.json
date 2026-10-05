@@ -1,0 +1,42 @@
+{
+  "slug": "livermore",
+  "name": "Livermore",
+  "grokShareUrl": "https://x.ai/bot/CB02Bgg8ZEI1fT9H2GJtM",
+  "botId": "CB02Bgg8ZEI1fT9H2GJtM",
+  "creator": {
+    "handle": "Screaming_Chkn",
+    "url": "https://x.com/Screaming_Chkn"
+  },
+  "sourceUrl": "https://x.com/Screaming_Chkn/status/2106149777201373384",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/livermore/"
+  },
+  "description": null,
+  "official": {
+    "title": "Livermore by Screaming",
+    "description": "Livermore plans trades in any style: day, swing, breakout, options, crypto, or long-term investing. Pick a style and set your own rules, and it scans,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "investor",
+    "decision-support",
+    "automation",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/livermore/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

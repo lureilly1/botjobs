@@ -1,0 +1,41 @@
+{
+  "slug": "content",
+  "name": "Content",
+  "grokShareUrl": "https://x.ai/bot/iAwkENgt3iIxp0OR7_QvF",
+  "botId": "iAwkENgt3iIxp0OR7_QvF",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104713920883855813",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/content/"
+  },
+  "description": null,
+  "official": {
+    "title": "Content by Steven",
+    "description": "Portfolio/blog content seat: strategy and calendar for craft and AI builds, draft-then-approve posting, amplify after you say go. Not for job-hunt...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/content/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

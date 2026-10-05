@@ -1,0 +1,42 @@
+{
+  "slug": "decoder",
+  "name": "Decoder",
+  "grokShareUrl": "https://x.ai/bot/5N9HO674YlxHiZhyj9ND9",
+  "botId": "5N9HO674YlxHiZhyj9ND9",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2105954110310904264",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/decoder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Decoder by Nomis",
+    "description": "Turns dense reports, PDFs, and technical docs into plain-English summaries. Paste, upload, or link a document and get a short capsule you can actually use.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "learning",
+    "research",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/decoder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

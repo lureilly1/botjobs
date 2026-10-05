@@ -1,0 +1,40 @@
+{
+  "slug": "americabot",
+  "name": "AmericaBot",
+  "grokShareUrl": "https://x.ai/bot/JI_vqjMDn_w7wFUw-G1UR",
+  "botId": "JI_vqjMDn_w7wFUw-G1UR",
+  "creator": {
+    "handle": "andrewslaptop",
+    "url": "https://x.com/andrewslaptop"
+  },
+  "sourceUrl": "https://x.com/andrewslaptop/status/2105444494720012647",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/americabot/"
+  },
+  "description": null,
+  "official": {
+    "title": "AmericaBot by Andrew",
+    "description": "Civic helper for america.gov — official U.S. government answers in plain English. Optional onboarding to surface what you can use it for; skip anytime...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "support",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/americabot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "animated-story-maker",
+  "name": "Animated Story Maker",
+  "grokShareUrl": "https://x.ai/bot/pwLrxtrOO9o3kwaVQVU3O",
+  "botId": "pwLrxtrOO9o3kwaVQVU3O",
+  "creator": {
+    "handle": "karatademada",
+    "url": "https://x.com/karatademada"
+  },
+  "sourceUrl": "https://x.com/karatademada/status/2105599152528695601",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/animated-story-maker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Animated Story Maker by Karata",
+    "description": "Turns a story idea, a theme, or photos of your characters into a short 3D animated story, with ready-to-paste Grok Imagine prompts for each episode. For...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "design"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/animated-story-maker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

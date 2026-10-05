@@ -1,0 +1,43 @@
+{
+  "slug": "what-s-for-dinner-3",
+  "name": "What's for Dinner?",
+  "grokShareUrl": "https://x.ai/bot/XcZpofYvIFmfsxXK4Ifxg",
+  "botId": "XcZpofYvIFmfsxXK4Ifxg",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2107010565038358612",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/what-s-for-dinner-3/"
+  },
+  "description": null,
+  "official": {
+    "title": "What's for Dinner? by Nomis",
+    "description": "Tell it what's in your fridge and it suggests what to cook, what to use up first, and what to buy. Handy for anyone tired of deciding dinner every night.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "family",
+    "home",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/what-s-for-dinner-3/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

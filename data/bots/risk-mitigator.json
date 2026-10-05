@@ -1,0 +1,41 @@
+{
+  "slug": "risk-mitigator",
+  "name": "Risk Mitigator",
+  "grokShareUrl": "https://x.ai/bot/h0fwNRjOa5K247LKQqyfA",
+  "botId": "h0fwNRjOa5K247LKQqyfA",
+  "creator": {
+    "handle": "techbudsolution",
+    "url": "https://x.com/techbudsolution"
+  },
+  "sourceUrl": "https://x.com/techbudsolution/status/2105759911384850941",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/risk-mitigator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Risk Mitigator by ricky",
+    "description": "A trading sidekick that measures every stock setup you share against your required reward-to-risk ratio, always spells out the downside, and is extra...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/risk-mitigator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

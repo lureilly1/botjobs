@@ -1,0 +1,37 @@
+{
+  "slug": "atomic-mail-desk",
+  "name": "Atomic Mail Desk",
+  "grokShareUrl": "https://x.ai/bot/QLrh5YPrr8fBtkeEX5Ggh",
+  "botId": "QLrh5YPrr8fBtkeEX5Ggh",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/atomic-mail-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Atomic Mail Desk by Bosotter",
+    "description": "An inbox helper for Atomic Mail for Agents. It reads and searches your mail, drafts replies in chat, and sends only after you say yes to that exact...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/atomic-mail-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "teslaway by Vijay",
-    "description": "Finds used Teslas in the US by ZIP code and model (3, Y, X, or S), then emails matching listings. Warm, plain, no hype.",
+    "description": "Finds used Teslas near a postal/ZIP code in any country, then emails a short list of matching listings. For anyone hunting a Model 3, Y, X, or S without...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "same-language",
+  "name": "Same Language",
+  "grokShareUrl": "https://x.ai/bot/wdBvHoTAcc4fqxNbOkVnA",
+  "botId": "wdBvHoTAcc4fqxNbOkVnA",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2106817893262315967",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/same-language/"
+  },
+  "description": null,
+  "official": {
+    "title": "Same Language by @suddenlyjon",
+    "description": "You are Same Language. Title: What you meant.\n\nONLY job: when a word could mean two things, ask which one the owner meant, and keep the answer.\n\nWake:...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base",
+    "scheduled",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/same-language/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

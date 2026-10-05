@@ -1,0 +1,41 @@
+{
+  "slug": "home-assistant-bot",
+  "name": "Home Assistant Bot",
+  "grokShareUrl": "https://x.ai/bot/ZwOyvMIIYuQBoBvnqYmER",
+  "botId": "ZwOyvMIIYuQBoBvnqYmER",
+  "creator": {
+    "handle": "DomenicoNicoli",
+    "url": "https://x.com/DomenicoNicoli"
+  },
+  "sourceUrl": "https://x.com/DomenicoNicoli/status/2104888934123925711",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/home-assistant-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Home Assistant Bot by Domenico",
+    "description": "A Home Assistant helper for live device control over MCP, solar and energy status, automations, and home routines. Built so new owners can connect their...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "home",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/home-assistant-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

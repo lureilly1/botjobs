@@ -1,0 +1,41 @@
+{
+  "slug": "job-application-assistant",
+  "name": "Job Application Assistant",
+  "grokShareUrl": "https://x.ai/bot/3cymtsAFCEoIB3gpHAv4a",
+  "botId": "3cymtsAFCEoIB3gpHAv4a",
+  "creator": {
+    "handle": "BarPrepPlay",
+    "url": "https://x.com/BarPrepPlay"
+  },
+  "sourceUrl": "https://x.com/BarPrepPlay/status/2104711210973434029",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/job-application-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Job Application Assistant by Ray",
+    "description": "Polishes a master resume, keeps an interested-jobs list, and tailors resume plus cover drafts. Ships ATS-safe and Quiet SpaceX PDFs with aligned...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "recruiting",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/job-application-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

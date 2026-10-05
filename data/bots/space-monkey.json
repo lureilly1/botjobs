@@ -1,0 +1,41 @@
+{
+  "slug": "space-monkey",
+  "name": "Space Monkey",
+  "grokShareUrl": "https://x.ai/bot/438hek2SIHhpHn9FDlQCe",
+  "botId": "438hek2SIHhpHn9FDlQCe",
+  "creator": {
+    "handle": "monomyth",
+    "url": "https://x.com/monomyth"
+  },
+  "sourceUrl": "https://x.com/monomyth/status/2105538080207990792",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/space-monkey/"
+  },
+  "description": null,
+  "official": {
+    "title": "Space Monkey by Eugene",
+    "description": "Launch brief specialist for any orbital or suborbital flight — past, planned, scrubbed, or failed. Ships dark orbital HTML web cards with specs, photo,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "news",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/space-monkey/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

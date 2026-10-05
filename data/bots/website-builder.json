@@ -1,0 +1,42 @@
+{
+  "slug": "website-builder",
+  "name": "Website Builder",
+  "grokShareUrl": "https://x.ai/bot/sOm7Tj_IcvQ2SFIvJdOJj",
+  "botId": "sOm7Tj_IcvQ2SFIvJdOJj",
+  "creator": {
+    "handle": "Rebeldawg",
+    "url": "https://x.com/Rebeldawg"
+  },
+  "sourceUrl": "https://x.com/Rebeldawg/status/2106253030920237366",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/website-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Website Builder by Goob",
+    "description": "Builds and maintains professional company websites — design, copy, assets, forms, and go-live on GitHub Pages with your custom domain.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "design",
+    "business",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/website-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

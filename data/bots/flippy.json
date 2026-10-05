@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Flippy by DIEGO",
-    "description": "Tracks OpenSea NFT mints and reminds you daily — which phase each wallet can mint, plus high-signal X hype around drops.",
+    "description": "Tracks OpenSea NFT mints, checks which of your wallets can mint each phase, and flags high-signal X hype. Daily morning recap plus quieter watch pings...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "freelancer-finance-desk",
+  "name": "Freelancer Finance Desk",
+  "grokShareUrl": "https://x.ai/bot/RWC0ZT_Tbr-SwUcJGGXFF",
+  "botId": "RWC0ZT_Tbr-SwUcJGGXFF",
+  "creator": {
+    "handle": "omidmasoom",
+    "url": "https://x.com/omidmasoom"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/freelancer-finance-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Freelancer Finance Desk by Omid",
+    "description": "Closes one month of books for freelancers, contractors, and solo businesses from the transactions, receipts, and invoices you upload, and hands back a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "back-office",
+    "business",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/freelancer-finance-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

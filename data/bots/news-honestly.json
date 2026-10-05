@@ -1,0 +1,41 @@
+{
+  "slug": "news-honestly",
+  "name": "News Honestly",
+  "grokShareUrl": "https://x.ai/bot/vKZRklu07uF34Ut9XzMxt",
+  "botId": "vKZRklu07uF34Ut9XzMxt",
+  "creator": {
+    "handle": "BrianRoemmele",
+    "url": "https://x.com/BrianRoemmele"
+  },
+  "sourceUrl": "https://x.com/BrianRoemmele/status/2105082628420632647",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/news-honestly/"
+  },
+  "description": null,
+  "official": {
+    "title": "News Honestly by Brian",
+    "description": "Takes recent public headlines and shows two serious good-faith readings of each story, then a bridge between them, with sources and a HIGH/MED/LOW trust...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "research",
+    "decision-support",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/news-honestly/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

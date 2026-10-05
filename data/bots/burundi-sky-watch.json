@@ -1,0 +1,41 @@
+{
+  "slug": "burundi-sky-watch",
+  "name": "Burundi Sky Watch",
+  "grokShareUrl": "https://x.ai/bot/VMqXvofTHZ5qHzqnYb3jp",
+  "botId": "VMqXvofTHZ5qHzqnYb3jp",
+  "creator": {
+    "handle": "Marcellin_dev",
+    "url": "https://x.com/Marcellin_dev"
+  },
+  "sourceUrl": "https://x.com/Marcellin_dev/status/2104828414532399414",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/burundi-sky-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Burundi Sky Watch by marcellin",
+    "description": "Shows which planes are flying over Burundi right now, with airline, aircraft type, origin, and destination, from free live flight-tracking data. For...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/burundi-sky-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "rental-desk",
+  "name": "Rental Desk",
+  "grokShareUrl": "https://x.ai/bot/0havI1dJhzL_gG11rueQN",
+  "botId": "0havI1dJhzL_gG11rueQN",
+  "creator": {
+    "handle": "BrandenSeth",
+    "url": "https://x.com/BrandenSeth"
+  },
+  "sourceUrl": "https://x.com/BrandenSeth/status/2106152472066523269",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rental-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rental Desk by Branden",
+    "description": "Runs the rental lifecycle for small landlords with one or a few units: lease reminders, listing drafts, inquiry sorting, showings, fair screening, and a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "real-estate",
+    "back-office",
+    "automation",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rental-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

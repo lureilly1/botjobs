@@ -1,0 +1,41 @@
+{
+  "slug": "next-day-meal-planner",
+  "name": "次の日の献立 自動化",
+  "grokShareUrl": "https://x.ai/bot/XPiIoybgpw_Oo2QmOQ9AR",
+  "botId": "XPiIoybgpw_Oo2QmOQ9AR",
+  "creator": {
+    "handle": "fukubae_kenko_",
+    "url": "https://x.com/fukubae_kenko_"
+  },
+  "sourceUrl": "https://x.com/fukubae_kenko_/status/2104677541206540547",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/next-day-meal-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "次の日の献立 自動化 by フクベイ｜健康食アンバサダー",
+    "description": "今日食べたものの写真を送るだけで、明日の朝ごはん・ランチ・夜ごはんにぴったりのレシピをXから探して、ポストのスクショ付きで提案します。栄養バランスを整えたい人向けです。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "health",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/next-day-meal-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

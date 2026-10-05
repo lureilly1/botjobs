@@ -1,0 +1,41 @@
+{
+  "slug": "creative-opps-oracle",
+  "name": "Creative Opps Oracle",
+  "grokShareUrl": "https://x.ai/bot/oO-3Pi3np8FJFRJVui2yb",
+  "botId": "oO-3Pi3np8FJFRJVui2yb",
+  "creator": {
+    "handle": "EmpressTrash",
+    "url": "https://x.com/EmpressTrash"
+  },
+  "sourceUrl": "https://x.com/EmpressTrash/status/2104812647308767586",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creative-opps-oracle/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creative Opps Oracle by Empress",
+    "description": "Finds live opportunities for one independent creative—art, games, code, music, writing, film, and beyond. Audits their public presence, hunts open calls...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "growth",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creative-opps-oracle/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

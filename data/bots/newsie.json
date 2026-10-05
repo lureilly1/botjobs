@@ -1,0 +1,40 @@
+{
+  "slug": "newsie",
+  "name": "Newsie",
+  "grokShareUrl": "https://x.ai/bot/q631iJtHVwxloj8ZBoJyV",
+  "botId": "q631iJtHVwxloj8ZBoJyV",
+  "creator": {
+    "handle": "apostlejohn",
+    "url": "https://x.com/apostlejohn"
+  },
+  "sourceUrl": "https://x.com/apostlejohn/status/2106049378050052169",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/newsie/"
+  },
+  "description": null,
+  "official": {
+    "title": "Newsie by John",
+    "description": "Writes a concise morning news brief: U.S. news, local news for your area, and Tesla and SpaceX. Emails it and posts it in chat. Spells out every acronym...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/newsie/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

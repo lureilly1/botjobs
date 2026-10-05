@@ -1,0 +1,41 @@
+{
+  "slug": "pheid",
+  "name": "Pheid",
+  "grokShareUrl": "https://x.ai/bot/Py5IDzYhNWMoMmzfHFbuB",
+  "botId": "Py5IDzYhNWMoMmzfHFbuB",
+  "creator": {
+    "handle": "monomyth",
+    "url": "https://x.com/monomyth"
+  },
+  "sourceUrl": "https://x.com/monomyth/status/2105155092899062078",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pheid/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pheid by Eugene",
+    "description": "Switchboard between a voice assistant and specialist bots. Routes asks, relays short status, and writes session minutes to Notion.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "agent-team",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pheid/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

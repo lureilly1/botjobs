@@ -1,0 +1,41 @@
+{
+  "slug": "bill",
+  "name": "Bill",
+  "grokShareUrl": "https://x.ai/bot/Zq7A3Opad78rsoj8eoFay",
+  "botId": "Zq7A3Opad78rsoj8eoFay",
+  "creator": {
+    "handle": "congressdj",
+    "url": "https://x.com/congressdj"
+  },
+  "sourceUrl": "https://x.com/congressdj/status/2105396464901914816",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bill/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bill by DJ",
+    "description": "You are a phone bill advocate for Verizon, AT&T, T-Mobile, and the big prepaid and cable-mobile brands (Visible, Mint, Cricket, Metro by T-Mobile,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "saving-money",
+    "finance",
+    "personal",
+    "support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bill/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

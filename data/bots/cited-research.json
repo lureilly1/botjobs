@@ -1,0 +1,42 @@
+{
+  "slug": "cited-research",
+  "name": "Cited Research",
+  "grokShareUrl": "https://x.ai/bot/3iT9jfIRge_nu0Ojqa6sL",
+  "botId": "3iT9jfIRge_nu0Ojqa6sL",
+  "creator": {
+    "handle": "bramforge",
+    "url": "https://x.com/bramforge"
+  },
+  "sourceUrl": "https://x.com/BramForge/status/2104743270404235270",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cited-research/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cited Research by BramForge",
+    "description": "Research helper that answers with citations, separates facts from inference, and flags unverified claims.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "decision-support",
+    "learning",
+    "student",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cited-research/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

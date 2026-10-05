@@ -1,0 +1,41 @@
+{
+  "slug": "creator-content-engine",
+  "name": "Creator Content Engine",
+  "grokShareUrl": "https://x.ai/bot/pP-dzi24JtjMB_LNYFeJ2",
+  "botId": "pP-dzi24JtjMB_LNYFeJ2",
+  "creator": {
+    "handle": "250_Revolution",
+    "url": "https://x.com/250_Revolution"
+  },
+  "sourceUrl": "https://x.com/250_Revolution/status/2105078279711383650",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creator-content-engine/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creator Content Engine by 🇺🇸",
+    "description": "For X creators who want range. Drop in a topic, rough thought, photo, screenshot, news item, or video idea — get hooks, post options, replies,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creator-content-engine/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

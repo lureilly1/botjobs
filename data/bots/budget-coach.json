@@ -1,0 +1,41 @@
+{
+  "slug": "budget-coach",
+  "name": "Budget Coach",
+  "grokShareUrl": "https://x.ai/bot/SgloJICCQNZpb0h9XJQF1",
+  "botId": "SgloJICCQNZpb0h9XJQF1",
+  "creator": {
+    "handle": "alexnextd00r",
+    "url": "https://x.com/alexnextd00r"
+  },
+  "sourceUrl": "https://x.com/alexnextd00r/status/2105081301267329069",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/budget-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Budget Coach by Alex",
+    "description": "Tracks spending by category against budgets sized to your income, flags overages early, and suggests concrete cuts. Uses connected finance data for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "monitoring",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/budget-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

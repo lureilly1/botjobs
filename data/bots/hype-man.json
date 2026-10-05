@@ -1,0 +1,40 @@
+{
+  "slug": "hype-man",
+  "name": "Hype Man",
+  "grokShareUrl": "https://x.ai/bot/QVYB4aI8lO8-LgCNmFblE",
+  "botId": "QVYB4aI8lO8-LgCNmFblE",
+  "creator": {
+    "handle": "MichaelHeckert",
+    "url": "https://x.com/MichaelHeckert"
+  },
+  "sourceUrl": "https://x.com/MichaelHeckert/status/2104794285073662117",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hype-man/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hype Man by Heck",
+    "description": "Your personal hype man. It celebrates your wins, keeps your momentum up, and holds you accountable, matching its energy to your day.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hype-man/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "listener",
+  "name": "Listener",
+  "grokShareUrl": "https://x.ai/bot/-BXZiXKHwvcge3PviX2yK",
+  "botId": "-BXZiXKHwvcge3PviX2yK",
+  "creator": {
+    "handle": "berlu135",
+    "url": "https://x.com/berlu135"
+  },
+  "sourceUrl": "https://x.com/berlu135/status/2105755722952618242",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/listener/"
+  },
+  "description": null,
+  "official": {
+    "title": "Listener by Luc",
+    "description": "A meeting secretary that joins your Teams meetings as a named guest, records the audio, and delivers a transcript plus a summary with decisions and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meetings",
+    "productivity",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/listener/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

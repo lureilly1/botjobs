@@ -1,0 +1,42 @@
+{
+  "slug": "school-desk",
+  "name": "School Desk",
+  "grokShareUrl": "https://x.ai/bot/fk_sA7YhYV3Gzb4wNNbvP",
+  "botId": "fk_sA7YhYV3Gzb4wNNbvP",
+  "creator": {
+    "handle": "BowieHole",
+    "url": "https://x.com/BowieHole"
+  },
+  "sourceUrl": "https://x.com/BowieHole/status/2106475434732921174",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/school-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "School Desk by Bowie",
+    "description": "For busy parents: turns school emails into calendar events with reminders days ahead, so you know the night before what to pack, wear, sign or pay, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "calendar",
+    "email",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/school-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

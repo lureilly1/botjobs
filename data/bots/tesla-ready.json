@@ -1,0 +1,41 @@
+{
+  "slug": "tesla-ready",
+  "name": "Tesla Ready",
+  "grokShareUrl": "https://x.ai/bot/L5Sczwabgsf59rZ6RTChF",
+  "botId": "L5Sczwabgsf59rZ6RTChF",
+  "creator": {
+    "handle": "WaitWhat",
+    "url": "https://x.com/WaitWhat"
+  },
+  "sourceUrl": "https://x.com/WaitWhat/status/2106154933993296287",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tesla-ready/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tesla Ready by Lincoln",
+    "description": "Has your Tesla warm or cool right when you need to leave, timed to your Google Calendar and live traffic, or on demand. Fully automatic after a one-time...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "travel",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tesla-ready/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

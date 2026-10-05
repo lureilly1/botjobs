@@ -1,0 +1,41 @@
+{
+  "slug": "github-trending-scout-2",
+  "name": "GitHub Trending Scout",
+  "grokShareUrl": "https://x.ai/bot/EklFc0zYAqzkxcALynMj2",
+  "botId": "EklFc0zYAqzkxcALynMj2",
+  "creator": {
+    "handle": "Hussein_M_Ragab",
+    "url": "https://x.com/Hussein_M_Ragab"
+  },
+  "sourceUrl": "https://x.com/Hussein_M_Ragab/status/2105590495825322296",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/github-trending-scout-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "GitHub Trending Scout by Husein",
+    "description": "Reads GitHub's trending page every day and sends you a short digest of the few repos that genuinely fit your work, with why each one matters to you.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/github-trending-scout-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

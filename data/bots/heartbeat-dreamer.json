@@ -1,0 +1,41 @@
+{
+  "slug": "heartbeat-dreamer",
+  "name": "Heartbeat Dreamer",
+  "grokShareUrl": "https://x.ai/bot/mDdDU-Ex2yDqySZ5hiTt8",
+  "botId": "mDdDU-Ex2yDqySZ5hiTt8",
+  "creator": {
+    "handle": "theaaron",
+    "url": "https://x.com/theaaron"
+  },
+  "sourceUrl": "https://x.com/theaaron/status/2105369742039261662",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/heartbeat-dreamer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Heartbeat Dreamer by A-A-ron",
+    "description": "Proactive read-only research bot that checkpoints what changed and hands tagged P0/P1/P2 findings to a parent chief Bot. ChatGPT-dots style. Not a sender.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "monitoring",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/heartbeat-dreamer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

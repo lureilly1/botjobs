@@ -1,0 +1,41 @@
+{
+  "slug": "read-aloud",
+  "name": "Read Aloud!",
+  "grokShareUrl": "https://x.ai/bot/mVkkx9p_-u6HZDNavZOz9",
+  "botId": "mVkkx9p_-u6HZDNavZOz9",
+  "creator": {
+    "handle": "ptbnat",
+    "url": "https://x.com/ptbnat"
+  },
+  "sourceUrl": "https://x.com/ptbnat/status/2106516373203562908",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/read-aloud/"
+  },
+  "description": null,
+  "official": {
+    "title": "Read Aloud! by Natarajan",
+    "description": "Reads anything aloud like a real person, not a robot: your screen, web pages, highlighted text, PDFs, docs, ebooks, and email, in full, summarized, or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "learning",
+    "life-hacks",
+    "news"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/read-aloud/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

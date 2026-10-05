@@ -1,0 +1,40 @@
+{
+  "slug": "kung-fu-saga",
+  "name": "Kung Fu Saga",
+  "grokShareUrl": "https://x.ai/bot/iv-6BncmS0G5UWrxc9tN7",
+  "botId": "iv-6BncmS0G5UWrxc9tN7",
+  "creator": {
+    "handle": "TerpGPT",
+    "url": "https://x.com/TerpGPT"
+  },
+  "sourceUrl": "https://x.com/TerpGPT/status/2105207006650941636",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kung-fu-saga/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kung Fu Saga by TerpGPT",
+    "description": "Interactive Kung Fu Saga beginner guide and walkthrough companion. Ask about classes, builds, leveling, bosses, gear, and what to save versus spend —...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kung-fu-saga/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

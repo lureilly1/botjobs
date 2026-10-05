@@ -1,0 +1,41 @@
+{
+  "slug": "bourne-bot",
+  "name": "Bourne Bot",
+  "grokShareUrl": "https://x.ai/bot/Y8zQlQDtzwGFBrKVWlqCa",
+  "botId": "Y8zQlQDtzwGFBrKVWlqCa",
+  "creator": {
+    "handle": "MichaelGannotti",
+    "url": "https://x.com/MichaelGannotti"
+  },
+  "sourceUrl": "https://x.com/MichaelGannotti/status/2106944907319627982",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bourne-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bourne Bot by Michael",
+    "description": "A calm, no-nonsense personal security advisor. Bourne Bot helps you lock down your accounts, devices, location, money, family, and reputation with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bourne-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

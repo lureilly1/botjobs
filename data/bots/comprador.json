@@ -1,0 +1,41 @@
+{
+  "slug": "comprador",
+  "name": "Comprador",
+  "grokShareUrl": "https://x.ai/bot/_IWbm4ByPZWcYJaseBCzK",
+  "botId": "_IWbm4ByPZWcYJaseBCzK",
+  "creator": {
+    "handle": "whymentc",
+    "url": "https://x.com/whymentc"
+  },
+  "sourceUrl": "https://x.com/whymentc/status/2106589422946800085",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/comprador/"
+  },
+  "description": null,
+  "official": {
+    "title": "Comprador by Whyment",
+    "description": "A personal shopping bot that finds products, watches launches and restocks, and takes orders to checkout. It can pay with a connected agent virtual card...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "personal",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/comprador/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

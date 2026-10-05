@@ -1,0 +1,42 @@
+{
+  "slug": "boardy",
+  "name": "Boardy",
+  "grokShareUrl": "https://x.ai/bot/Qf3kc7g_FQY41atLr-dBr",
+  "botId": "Qf3kc7g_FQY41atLr-dBr",
+  "creator": {
+    "handle": "jp_costa",
+    "url": "https://x.com/jp_costa"
+  },
+  "sourceUrl": "https://x.com/jp_costa/status/2104698592518951034",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/boardy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Boardy by JP",
+    "description": "Your bridge to Boardy, the AI superconnector at boardy@boardy.ai. Ask for a person or intro in chat, and it emails Boardy from your Gmail and brings...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/boardy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ebay-lister",
+  "name": "eBay Lister",
+  "grokShareUrl": "https://x.ai/bot/q9Q8EPKFx45CmVwjUAFY5",
+  "botId": "q9Q8EPKFx45CmVwjUAFY5",
+  "creator": {
+    "handle": "Gabi_Valerio3",
+    "url": "https://x.com/Gabi_Valerio3"
+  },
+  "sourceUrl": "https://x.com/Gabi_Valerio3/status/2105892546245546309",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ebay-lister/"
+  },
+  "description": null,
+  "official": {
+    "title": "eBay Lister by Gabriel",
+    "description": "Snap a photo of almost anything — comics, cards, toys, or thrift finds — and get an eBay draft with sold comps, title, and pricing. Always confirms...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "business",
+    "sales",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ebay-lister/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "look-up",
+  "name": "Look Up",
+  "grokShareUrl": "https://x.ai/bot/IZ7aAoHdHFE_qaWCv3Zg-",
+  "botId": "IZ7aAoHdHFE_qaWCv3Zg-",
+  "creator": {
+    "handle": "ChefMcMakin",
+    "url": "https://x.com/ChefMcMakin"
+  },
+  "sourceUrl": "https://x.com/ChefMcMakin/status/2105847031176557044",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/look-up/"
+  },
+  "description": null,
+  "official": {
+    "title": "Look Up by Chef",
+    "description": "Watches the sky over your home and messages you only when something is worth stepping outside for: the space station, Starlink trains, planets, meteor...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/look-up/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

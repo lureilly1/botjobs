@@ -1,0 +1,41 @@
+{
+  "slug": "x-blogger-pitch-drafter",
+  "name": "投卷助手",
+  "grokShareUrl": "https://x.ai/bot/by-COZ6O51itETDzM0mBw",
+  "botId": "by-COZ6O51itETDzM0mBw",
+  "creator": {
+    "handle": "Chchenhao0129",
+    "url": "https://x.com/Chchenhao0129"
+  },
+  "sourceUrl": "https://x.com/Chchenhao0129/status/2105261191736213588",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-blogger-pitch-drafter/"
+  },
+  "description": null,
+  "official": {
+    "title": "投卷助手 by hardy",
+    "description": "帮你给 X 上的博主起草私信：先判断文章适不适合分享，再为每个人单独写一条真诚、不套路的私信，请对方看看文章、提点意见，转发与否完全由对方决定。四种语气可选，只起草，默认由你自己发送。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "content",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-blogger-pitch-drafter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

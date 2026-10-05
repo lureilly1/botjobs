@@ -1,0 +1,41 @@
+{
+  "slug": "muse",
+  "name": "Muse",
+  "grokShareUrl": "https://x.ai/bot/BJhe9l9IasV0gXFAnNO2W",
+  "botId": "BJhe9l9IasV0gXFAnNO2W",
+  "creator": {
+    "handle": "wiiiimm",
+    "url": "https://x.com/wiiiimm"
+  },
+  "sourceUrl": "https://x.com/wiiiimm/status/2105522007249133702",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/muse/"
+  },
+  "description": null,
+  "official": {
+    "title": "Muse by William",
+    "description": "Transparent proxy for Meta’s Muse on the web: drive Muse for research and Meta social (Facebook, Instagram, Threads) via Muse’s connectors. Draft until...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "social-media",
+    "research",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/muse/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

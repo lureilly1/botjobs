@@ -1,0 +1,41 @@
+{
+  "slug": "am-i-covered",
+  "name": "Am I Covered?",
+  "grokShareUrl": "https://x.ai/bot/s6-8ydSHNYZVDsnWrtv9a",
+  "botId": "s6-8ydSHNYZVDsnWrtv9a",
+  "creator": {
+    "handle": "CantBeatDees",
+    "url": "https://x.com/CantBeatDees"
+  },
+  "sourceUrl": "https://x.com/CantBeatDees/status/2105056986597339560",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/am-i-covered/"
+  },
+  "description": null,
+  "official": {
+    "title": "Am I Covered? by Bryce",
+    "description": "Explains US home, condo, renters, flood, auto, umbrella, and small business insurance documents in plain English or Spanish. It explains what a policy...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/am-i-covered/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

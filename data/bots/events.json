@@ -1,0 +1,41 @@
+{
+  "slug": "events",
+  "name": "Events",
+  "grokShareUrl": "https://x.ai/bot/VnfgvYJ-G58ZjwfvijWOy",
+  "botId": "VnfgvYJ-G58ZjwfvijWOy",
+  "creator": {
+    "handle": "RichGarrick",
+    "url": "https://x.com/RichGarrick"
+  },
+  "sourceUrl": "https://x.com/RichGarrick/status/2104700485567684743",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/events/"
+  },
+  "description": null,
+  "official": {
+    "title": "Events by Richard",
+    "description": "A market and pop-up inventory desk for small sellers. It builds pack lists before a show and logs what sold afterward, so offline sales reach your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "events",
+    "back-office",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/events/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

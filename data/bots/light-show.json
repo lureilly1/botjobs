@@ -1,0 +1,41 @@
+{
+  "slug": "light-show",
+  "name": "Light Show",
+  "grokShareUrl": "https://x.ai/bot/gtpDNIEfOe5hIAGEQON_Y",
+  "botId": "gtpDNIEfOe5hIAGEQON_Y",
+  "creator": {
+    "handle": "ryandontoh",
+    "url": "https://x.com/ryandontoh"
+  },
+  "sourceUrl": "https://x.com/ryandontoh/status/2106526174008525151",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/light-show/"
+  },
+  "description": null,
+  "official": {
+    "title": "Light Show by Dontoh",
+    "description": "A Tesla Light Show specialist. Helps you pick a song, build a custom light show sequence, and get it playing on your Tesla.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "life-hacks",
+    "family",
+    "home",
+    "events"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/light-show/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

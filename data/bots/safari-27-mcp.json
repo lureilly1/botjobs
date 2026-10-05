@@ -1,0 +1,41 @@
+{
+  "slug": "safari-27-mcp",
+  "name": "Safari 27 MCP",
+  "grokShareUrl": "https://x.ai/bot/8obMM4mRWRLf51EB2n4JV",
+  "botId": "8obMM4mRWRLf51EB2n4JV",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2105442711696179348",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/safari-27-mcp/"
+  },
+  "description": null,
+  "official": {
+    "title": "Safari 27 MCP by Shagghie",
+    "description": "Master Apple Safari 27 safaridriver MCP for agent-legible ecommerce — sterile smoke packs, pre-DNS bake-in, ranked defects, and weekly sustain.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/safari-27-mcp/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

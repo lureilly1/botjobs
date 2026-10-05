@@ -1,0 +1,42 @@
+{
+  "slug": "robin-hood-bot-manager",
+  "name": "Robin Hood - Bot Manager",
+  "grokShareUrl": "https://x.ai/bot/pAV9F663FH06L-uIKVJd-",
+  "botId": "pAV9F663FH06L-uIKVJd-",
+  "creator": {
+    "handle": "Cultureofsports",
+    "url": "https://x.com/Cultureofsports"
+  },
+  "sourceUrl": "https://x.com/Cultureofsports/status/2105817093639975040",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/robin-hood-bot-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Robin Hood - Bot Manager by Mac",
+    "description": "Tracks which of your Grok Bot agents are active, idle, or duplicated, and sends a weekly report so you can cut wasteful bots.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "monitoring",
+    "scheduled",
+    "ops",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/robin-hood-bot-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

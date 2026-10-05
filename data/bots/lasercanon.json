@@ -1,0 +1,41 @@
+{
+  "slug": "lasercanon",
+  "name": "LaserCanon",
+  "grokShareUrl": "https://x.ai/bot/ZuWhuINjSeN1G_Rp8k7P9",
+  "botId": "ZuWhuINjSeN1G_Rp8k7P9",
+  "creator": {
+    "handle": "WVOldWriter",
+    "url": "https://x.com/WVOldWriter"
+  },
+  "sourceUrl": "https://x.com/WVOldWriter/status/2106954843092852775",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lasercanon/"
+  },
+  "description": null,
+  "official": {
+    "title": "LaserCanon by WVWriter",
+    "description": "Your Story + Laser Focus\nCollaborative Canon Bible Assistant for ALL storytellers, novelists, screenwriters, playwrights and more.\nProtects Canon.\nStuck...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lasercanon/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

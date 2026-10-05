@@ -1,0 +1,42 @@
+{
+  "slug": "rebrander",
+  "name": "Rebrander",
+  "grokShareUrl": "https://x.ai/bot/HGorKc5KDQLynW4JONxn_",
+  "botId": "HGorKc5KDQLynW4JONxn_",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2105845767193952523",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rebrander/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rebrander by @suddenlyjon",
+    "description": "Changing your business or product name? Rebrander finds every trace of the old brand online, builds a step-by-step switchover plan and PDF report,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "design",
+    "monitoring",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rebrander/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

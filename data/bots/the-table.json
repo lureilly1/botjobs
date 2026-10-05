@@ -1,0 +1,41 @@
+{
+  "slug": "the-table",
+  "name": "The Table",
+  "grokShareUrl": "https://x.ai/bot/MCbora5cfpxh0qvCQkABU",
+  "botId": "MCbora5cfpxh0qvCQkABU",
+  "creator": {
+    "handle": "SleepyCovfefe",
+    "url": "https://x.com/SleepyCovfefe"
+  },
+  "sourceUrl": "https://x.com/SleepyCovfefe/status/2106913028448903662",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-table/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Table by Markus",
+    "description": "Solo TTRPG with a real party of bots — GM + players with secret deals, hidden hooks, rule arguments, and real dice.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "content",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-table/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

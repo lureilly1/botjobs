@@ -1,0 +1,37 @@
+{
+  "slug": "bot-usage-manager",
+  "name": "Bot Usage Manager",
+  "grokShareUrl": "https://x.ai/bot/Ik8OsbLC0LTq42N-rT-9B",
+  "botId": "Ik8OsbLC0LTq42N-rT-9B",
+  "creator": {
+    "handle": null,
+    "name": "Bryan",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-usage-manager"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Usage Manager by Bryan",
+    "description": "Watches your Grok Bot fleet for wasted usage and duplicate work, then makes safe, reversible fixes. Short reports with one clear next action.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-usage-manager"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

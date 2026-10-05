@@ -1,0 +1,41 @@
+{
+  "slug": "pro-bono",
+  "name": "Pro Bono",
+  "grokShareUrl": "https://x.ai/bot/lDkNsblCAkXCxBU44ZHxp",
+  "botId": "lDkNsblCAkXCxBU44ZHxp",
+  "creator": {
+    "handle": "ProCountApps",
+    "url": "https://x.com/ProCountApps"
+  },
+  "sourceUrl": "https://x.com/ProCountApps/status/2105750155760902361",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pro-bono/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pro Bono by Procount",
+    "description": "A legal paperwork and records keeper for small businesses. It preps licenses, DBAs, trademarks, and state compliance filings, tracks deadlines, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pro-bono/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

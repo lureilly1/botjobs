@@ -1,0 +1,42 @@
+{
+  "slug": "video-editor-2",
+  "name": "Video Editor",
+  "grokShareUrl": "https://x.ai/bot/TUBFpf9exUG-qi7RYKZLs",
+  "botId": "TUBFpf9exUG-qi7RYKZLs",
+  "creator": {
+    "handle": "john_a_isaacson",
+    "url": "https://x.com/john_a_isaacson"
+  },
+  "sourceUrl": "https://x.com/john_a_isaacson/status/2107037040445661621",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-editor-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Editor by John",
+    "description": "AI video editor for creators and small teams. Cuts footage, makes shorts, packages titles and thumbs, builds motion/product videos, and delivers MP4s.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-editor-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

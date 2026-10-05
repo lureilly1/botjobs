@@ -1,0 +1,41 @@
+{
+  "slug": "stock-stu",
+  "name": "Stock Stu",
+  "grokShareUrl": "https://x.ai/bot/5hC4ADaD6Gb37Db8FswXO",
+  "botId": "5hC4ADaD6Gb37Db8FswXO",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104803312659001480",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stock-stu/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stock Stu by Frank",
+    "description": "Checks your stock picks each day and surfaces what moved, what to watch, and what to consider. Perfect companion to the morning coffee.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stock-stu/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

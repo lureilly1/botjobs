@@ -1,0 +1,42 @@
+{
+  "slug": "hirely",
+  "name": "Hirely",
+  "grokShareUrl": "https://x.ai/bot/k2oD619wjcM9RMybbtExW",
+  "botId": "k2oD619wjcM9RMybbtExW",
+  "creator": {
+    "handle": "Parva9eh",
+    "url": "https://x.com/Parva9eh"
+  },
+  "sourceUrl": "https://x.com/Parva9eh/status/2106942456923103393",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hirely/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hirely by Parvaneh",
+    "description": "Job-search teammate: shortlists verified roles from employer careers pages, helps you apply with confirm-before-submit, and tracks follow-ups.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "business",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hirely/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

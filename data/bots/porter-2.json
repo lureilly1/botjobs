@@ -1,0 +1,42 @@
+{
+  "slug": "porter-2",
+  "name": "Porter",
+  "grokShareUrl": "https://x.ai/bot/sy364bgoJN8Rb5vZo4Abo",
+  "botId": "sy364bgoJN8Rb5vZo4Abo",
+  "creator": {
+    "handle": "the_simonjester",
+    "url": "https://x.com/the_simonjester"
+  },
+  "sourceUrl": "https://x.com/the_simonjester/status/2106160717242290494",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/porter-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Porter by John",
+    "description": "Files dumps and inbox notes into your Obsidian vault—door, frontmatter, and path. Part of the Obsidian Vault Kit with Groundskeeper (hygiene) and Quill...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "knowledge-base",
+    "personal",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/porter-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

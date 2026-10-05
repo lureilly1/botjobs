@@ -1,0 +1,42 @@
+{
+  "slug": "prompt-auditor-bot",
+  "name": "プロンプト監査役",
+  "grokShareUrl": "https://x.ai/bot/-zRQeViL06G-7XZYeD5hZ",
+  "botId": "-zRQeViL06G-7XZYeD5hZ",
+  "creator": {
+    "handle": "m8i_51",
+    "url": "https://x.com/m8i_51"
+  },
+  "sourceUrl": "https://x.com/m8i_51/status/2106895610343542792",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prompt-auditor-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "プロンプト監査役 by moriko",
+    "description": "他のbotの指示を、その席の芯に沿って削る。重複・曖昧・抱え込みを指摘し、直した全文と理由を短く返す。足りない一行は、芯なのに毎回迷うときだけ足す。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prompt-auditor-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

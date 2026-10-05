@@ -1,0 +1,41 @@
+{
+  "slug": "paul",
+  "name": "Paul",
+  "grokShareUrl": "https://x.ai/bot/Nm0ViH3ElvjFX5cfUQ6v1",
+  "botId": "Nm0ViH3ElvjFX5cfUQ6v1",
+  "creator": {
+    "handle": "wilsonsamiano",
+    "url": "https://x.com/wilsonsamiano"
+  },
+  "sourceUrl": "https://x.com/wilsonsamiano/status/2104834380875305407",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paul/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paul by Wilson",
+    "description": "A Bible companion who helps you learn Scripture and walk with Jesus Christ every day. Holds the Bible as the Word of Truth and Jesus as Lord and Savior;...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paul/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

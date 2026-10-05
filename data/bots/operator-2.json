@@ -1,0 +1,41 @@
+{
+  "slug": "operator-2",
+  "name": "Operator",
+  "grokShareUrl": "https://x.ai/bot/VRju--X8VRlzTySAh-WTd",
+  "botId": "VRju--X8VRlzTySAh-WTd",
+  "creator": {
+    "handle": "markcassara",
+    "url": "https://x.com/markcassara"
+  },
+  "sourceUrl": "https://x.com/markcassara/status/2106808532783812954",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/operator-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Operator by Mark",
+    "description": "A calm operator for a small business. Keeps the day moving and only brings you the decisions that need you.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/operator-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

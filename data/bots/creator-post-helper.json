@@ -1,0 +1,41 @@
+{
+  "slug": "creator-post-helper",
+  "name": "Creator Post Helper",
+  "grokShareUrl": "https://x.ai/bot/onLaBYQxzixgBzJgDZ18u",
+  "botId": "onLaBYQxzixgBzJgDZ18u",
+  "creator": {
+    "handle": "JPipo86",
+    "url": "https://x.com/JPipo86"
+  },
+  "sourceUrl": "https://x.com/JPipo86/status/2105402307479515274",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creator-post-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creator Post Helper by Pixel",
+    "description": "Turns the day's real tech and gaming news into X post drafts in your voice, each with a source. Learns your niche and posting times, can send 3 drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creator-post-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

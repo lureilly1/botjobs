@@ -1,0 +1,42 @@
+{
+  "slug": "garage-guide",
+  "name": "Garage Guide",
+  "grokShareUrl": "https://x.ai/bot/HlGmTdNrPLsV5kYtjOIJI",
+  "botId": "HlGmTdNrPLsV5kYtjOIJI",
+  "creator": {
+    "handle": "Kirby21sk",
+    "url": "https://x.com/Kirby21sk"
+  },
+  "sourceUrl": "https://x.com/Kirby21sk/status/2106163182205297014",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/garage-guide/"
+  },
+  "description": null,
+  "official": {
+    "title": "Garage Guide by Shannon",
+    "description": "Builds a maintenance and repair schedule for your vehicle from the year, make, model, miles, and any records you already have, and says what is due this...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "saving-money",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/garage-guide/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

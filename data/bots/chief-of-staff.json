@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Chief of Staff by Wyatt",
-    "description": "A daily Chief of Staff that owns your priorities, runs a weekday morning brief, and routes work to specialist bots — with draft-only email and approval...",
+    "description": "Your only chat surface for priorities and routing. Talks to you, runs work through a Dispatch Lead and specialist Desks, and never sends mail or spends...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

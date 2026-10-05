@@ -1,0 +1,43 @@
+{
+  "slug": "x-researcher",
+  "name": "X Researcher",
+  "grokShareUrl": "https://x.ai/bot/Y0HBAodNhuJB2Gt5i9LEm",
+  "botId": "Y0HBAodNhuJB2Gt5i9LEm",
+  "creator": {
+    "handle": "melvindvivas",
+    "url": "https://x.com/melvindvivas"
+  },
+  "sourceUrl": "https://x.com/melvindvivas/status/2106944801660973269",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-researcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Researcher by Melvin",
+    "description": "A general X assistant for research, drafts, replies, and viral-post shortlists on AI coding, agents, and models.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "social-media",
+    "content",
+    "marketer",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-researcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "wechat-article-catcher",
+  "name": "微信文章捕手",
+  "grokShareUrl": "https://x.ai/bot/J2AgMXbgmrqq2zyRt8y7g",
+  "botId": "J2AgMXbgmrqq2zyRt8y7g",
+  "creator": {
+    "handle": "cgnot996",
+    "url": "https://x.com/cgnot996"
+  },
+  "sourceUrl": "https://x.com/cgnot996/status/2106706136158421076",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wechat-article-catcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "微信文章捕手 by 铁柱AGI",
+    "description": "把微信公众号文章链接原样抓成 Markdown 和 JSON，标题、公众号、发布时间、正文、图片都会带上。首次启动会自动搭好抓取环境，也可以给其他 Bot 当抓取底座调用。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "content",
+    "data",
+    "developer",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wechat-article-catcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

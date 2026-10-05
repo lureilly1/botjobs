@@ -17,7 +17,7 @@
     "title": "Price Error Agent by Yoda",
     "description": "Hunts accidental misprices on big Australian retailers and cheap AU-origin flights. Watches OzBargain, Secret Flying, and Beat That Flight, then pings...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "sanji",
+  "name": "Sanji",
+  "grokShareUrl": "https://x.ai/bot/bChXlV3rCYKI7a_vMdw3Z",
+  "botId": "bChXlV3rCYKI7a_vMdw3Z",
+  "creator": {
+    "handle": "LokiBytesBack",
+    "url": "https://x.com/LokiBytesBack"
+  },
+  "sourceUrl": "https://x.com/LokiBytesBack/status/2106257693031981204",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sanji/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sanji by Loki",
+    "description": "Your honest dating coach: sharper profiles, better openers, and smoother replies, with 2 or 3 options in different tones every time. Respectful advice...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "social-media",
+    "productivity",
+    "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sanji/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

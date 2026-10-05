@@ -1,0 +1,43 @@
+{
+  "slug": "warranty-bot",
+  "name": "Warranty Bot",
+  "grokShareUrl": "https://x.ai/bot/mJU3WN_wuYmhZAZ3A2F3y",
+  "botId": "mJU3WN_wuYmhZAZ3A2F3y",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2107009968436396179",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/warranty-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Warranty Bot by Nomis",
+    "description": "Finds your receipts in your email, tells you whether a broken item is still covered, and walks you through the claim. Can also track warranty expiries...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/warranty-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

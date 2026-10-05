@@ -1,0 +1,41 @@
+{
+  "slug": "bot-doctor",
+  "name": "Bot Doctor",
+  "grokShareUrl": "https://x.ai/bot/ug20hy7rQtr37O8IBoeSm",
+  "botId": "ug20hy7rQtr37O8IBoeSm",
+  "creator": {
+    "handle": "sal_habash",
+    "url": "https://x.com/sal_habash"
+  },
+  "sourceUrl": "https://x.com/sal_habash/status/2105158829151580535",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-doctor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Doctor by Salim",
+    "description": "For the bot that got dumber. Your bot used to be sharp. When it forgets things, does dumb things, or ignores your instructions, Bot Doctor runs a full...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-doctor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

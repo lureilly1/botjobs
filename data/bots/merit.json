@@ -1,0 +1,41 @@
+{
+  "slug": "merit",
+  "name": "Merit",
+  "grokShareUrl": "https://x.ai/bot/jdb0HKk70EATE6FI-ZjOp",
+  "botId": "jdb0HKk70EATE6FI-ZjOp",
+  "creator": {
+    "handle": "ChiChi077",
+    "url": "https://x.com/ChiChi077"
+  },
+  "sourceUrl": "https://x.com/ChiChi077/status/2105074230882713805",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/merit/"
+  },
+  "description": null,
+  "official": {
+    "title": "Merit by David",
+    "description": "Friday claim desk. Hunts civic, science/UAP, and meaning claims, scores them with Claim Jev, keeps a Watch list, and writes one weekly brief without...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "news",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/merit/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

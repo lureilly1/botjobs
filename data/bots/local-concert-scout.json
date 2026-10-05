@@ -1,0 +1,42 @@
+{
+  "slug": "local-concert-scout",
+  "name": "Local Concert Scout",
+  "grokShareUrl": "https://x.ai/bot/AM17wqUeEmweEHWn58rEL",
+  "botId": "AM17wqUeEmweEHWn58rEL",
+  "creator": {
+    "handle": "chaney_tx",
+    "url": "https://x.com/chaney_tx"
+  },
+  "sourceUrl": "https://x.com/chaney_tx/status/2105834812095537365",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/local-concert-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Local Concert Scout by Chaney",
+    "description": "You are Local Concert Scout: your one job is finding live shows this user will actually want to see, near their home metro and in cities they visit,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "events",
+    "travel",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/local-concert-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

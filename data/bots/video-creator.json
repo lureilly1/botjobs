@@ -1,0 +1,42 @@
+{
+  "slug": "video-creator",
+  "name": "Video Creator",
+  "grokShareUrl": "https://x.ai/bot/RPtsHesZPgAlwMOZAX8Ef",
+  "botId": "RPtsHesZPgAlwMOZAX8Ef",
+  "creator": {
+    "handle": "farzyness",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": "https://x.com/farzyness/status/2106592372150632793",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-creator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Creator by Farzad",
+    "description": "Makes one educational explainer video at a time, from topic and research to script, voice, hand-drawn style animation, edit, QA and an unlisted YouTube...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "video",
+    "youtube",
+    "content",
+    "agent-team",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-creator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

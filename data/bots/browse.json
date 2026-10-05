@@ -1,0 +1,41 @@
+{
+  "slug": "browse",
+  "name": "Browse",
+  "grokShareUrl": "https://x.ai/bot/aPie95rXmGm4w5z0H31EH",
+  "botId": "aPie95rXmGm4w5z0H31EH",
+  "creator": {
+    "handle": "CanadianOddity",
+    "url": "https://x.com/CanadianOddity"
+  },
+  "sourceUrl": "https://x.com/CanadianOddity/status/2106807763817185590",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/browse/"
+  },
+  "description": null,
+  "official": {
+    "title": "Browse by Sherlock",
+    "description": "A bot that manages a shared browser for your other bots. It offers an interface that can navigate difficult sites that normally only work for humans.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/browse/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

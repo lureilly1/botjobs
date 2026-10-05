@@ -1,0 +1,41 @@
+{
+  "slug": "email-assist",
+  "name": "Email Assist",
+  "grokShareUrl": "https://x.ai/bot/tVeYePJvkcwbseg_vtnEt",
+  "botId": "tVeYePJvkcwbseg_vtnEt",
+  "creator": {
+    "handle": "melvindvivas",
+    "url": "https://x.com/melvindvivas"
+  },
+  "sourceUrl": "https://x.com/melvindvivas/status/2106635452703027355",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/email-assist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Email Assist by Melvin",
+    "description": "Watches your inbox on weekday mornings and only pings you when something looks important. Never replies or sends email unless you ask.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "productivity",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/email-assist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

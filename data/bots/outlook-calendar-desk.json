@@ -1,0 +1,37 @@
+{
+  "slug": "outlook-calendar-desk",
+  "name": "Outlook Calendar Desk",
+  "grokShareUrl": "https://x.ai/bot/T_pOFV6-PnM3ZgALGFEBk",
+  "botId": "T_pOFV6-PnM3ZgALGFEBk",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/outlook-calendar-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Outlook Calendar Desk by Bosotter",
+    "description": "Shows your Outlook schedule, drafts creates/updates/cancels for review, and only writes after you approve the exact change.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/outlook-calendar-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

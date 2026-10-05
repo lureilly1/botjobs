@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "DADCON by Jerrod",
-    "description": "Backup dad on Slack. Takes a chore from the real parent, follows the kid until it is actually done, then reports back.",
+    "description": "A fully licensed backup dad on Slack with big Chad energy about chores. Won't take \"I'll do it\" or \"basically\" as done, wants proof, and calmly works...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

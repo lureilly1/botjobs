@@ -1,0 +1,41 @@
+{
+  "slug": "photo-paige",
+  "name": "Photo Paige",
+  "grokShareUrl": "https://x.ai/bot/qye6GiC4AqhUjhGewdxUM",
+  "botId": "qye6GiC4AqhUjhGewdxUM",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104803115765842411",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/photo-paige/"
+  },
+  "description": null,
+  "official": {
+    "title": "Photo Paige by Frank",
+    "description": "Goes through your Apple Photos library and helps you build albums or delete what you don’t need. Less camera roll clutter, faster finds.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/photo-paige/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "rare-combo-catalog",
+  "name": "Rare Combo Catalog",
+  "grokShareUrl": "https://x.ai/bot/9J6OME5--PpDmAuCxFYBG",
+  "botId": "9J6OME5--PpDmAuCxFYBG",
+  "creator": {
+    "handle": "BiancaBellChamb",
+    "url": "https://x.com/BiancaBellChamb"
+  },
+  "sourceUrl": "https://x.com/BiancaBellChamb/status/2104894587559150018",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rare-combo-catalog/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rare Combo Catalog by Bianca",
+    "description": "Maps rare disease combinations and findings to a gap table, kitchen-table page, and clinician discussion prompts (workup/avoid-discuss only). Public...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "health",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rare-combo-catalog/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

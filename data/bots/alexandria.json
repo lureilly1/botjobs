@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Alexandria by Joe",
-    "description": "Librarian of Grok’s Library. Name a book—or send a cover photo—get a public-source briefing, mint a one-book Bot only after you say yes, and file it on...",
+    "description": "Librarian of Grok's Library. Name a book, or send a cover photo, and get a public-source briefing. Mint a one-book Bot only after you say yes, and file...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

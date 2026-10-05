@@ -1,0 +1,41 @@
+{
+  "slug": "product-ads",
+  "name": "Product Ads",
+  "grokShareUrl": "https://x.ai/bot/1DFKnMzjYNPZyFFajRbUr",
+  "botId": "1DFKnMzjYNPZyFFajRbUr",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105790817675993299",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-ads/"
+  },
+  "description": null,
+  "official": {
+    "title": "Product Ads by Colin",
+    "description": "Launches and triages product ads on a fixed daily budget: draft campaigns from your gallery, kill and scale rules, and spend reported from live numbers...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-ads/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

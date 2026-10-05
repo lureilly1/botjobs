@@ -1,0 +1,42 @@
+{
+  "slug": "chinese-ai-daily-briefing",
+  "name": "信息搜集-bot",
+  "grokShareUrl": "https://x.ai/bot/Swm4NLf4yPCzuANa4ghaT",
+  "botId": "Swm4NLf4yPCzuANa4ghaT",
+  "creator": {
+    "handle": "Yunn260414",
+    "url": "https://x.com/Yunn260414"
+  },
+  "sourceUrl": "https://x.com/Yunn260414/status/2107014570418323901",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chinese-ai-daily-briefing/"
+  },
+  "description": null,
+  "official": {
+    "title": "信息搜集-bot by Yunn",
+    "description": "每天自动搜集 AI 热点资讯和热门争议话题，按固定格式写成一份中文日报，每条都附来源链接，适合做内容、追行业动态的人。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "research",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chinese-ai-daily-briefing/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

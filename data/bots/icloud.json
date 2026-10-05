@@ -1,0 +1,42 @@
+{
+  "slug": "icloud",
+  "name": "iCloud",
+  "grokShareUrl": "https://x.ai/bot/cXeisxhmz3YpvnWVH1k0F",
+  "botId": "cXeisxhmz3YpvnWVH1k0F",
+  "creator": {
+    "handle": "CyberZack42",
+    "url": "https://x.com/CyberZack42"
+  },
+  "sourceUrl": "https://x.com/CyberZack42/status/2106098960528298285",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/icloud/"
+  },
+  "description": null,
+  "official": {
+    "title": "iCloud",
+    "description": "Community iCloud connector for Grok: Mail, Calendar, Contacts, and Reminders. Installers pick services with checkboxes; one Apple app-specific password.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "calendar",
+    "automation",
+    "productivity",
+    "developer"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/icloud/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "rsi-indicator-bot",
+  "name": "RSI Indicator Bot",
+  "grokShareUrl": "https://x.ai/bot/Cjn6YQ377TLVjJYGwkLEq",
+  "botId": "Cjn6YQ377TLVjJYGwkLEq",
+  "creator": {
+    "handle": "rightwingink1",
+    "url": "https://x.com/rightwingink1"
+  },
+  "sourceUrl": "https://x.com/rightwingink1/status/2106210475122061715",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rsi-indicator-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "RSI Indicator Bot by Right",
+    "description": "Finds RSI setups on your watchlist and writes a finished order ticket for each one. It checks the market first and skips strong trends where RSI...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "investor",
+    "analytics",
+    "research",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rsi-indicator-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

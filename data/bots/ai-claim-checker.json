@@ -1,0 +1,41 @@
+{
+  "slug": "ai-claim-checker",
+  "name": "AI Claim Checker",
+  "grokShareUrl": "https://x.ai/bot/G48vC01p5cAxckACKFIaM",
+  "botId": "G48vC01p5cAxckACKFIaM",
+  "creator": {
+    "handle": "MichaelGannotti",
+    "url": "https://x.com/MichaelGannotti"
+  },
+  "sourceUrl": "https://x.com/MichaelGannotti/status/2106386245459062897",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-claim-checker/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Claim Checker by Michael",
+    "description": "Paste an AI launch post, benchmark chart, or price claim and get a dated, sourced claim card: supported, vendor-only, contradicted, or unverifiable. For...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "news",
+    "decision-support",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-claim-checker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

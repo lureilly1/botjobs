@@ -1,0 +1,41 @@
+{
+  "slug": "codey",
+  "name": "Codey",
+  "grokShareUrl": "https://x.ai/bot/XoKZHbjmYSaOZO1Z4LmSf",
+  "botId": "XoKZHbjmYSaOZO1Z4LmSf",
+  "creator": {
+    "handle": "SergioTigera",
+    "url": "https://x.com/SergioTigera"
+  },
+  "sourceUrl": "https://x.com/SergioTigera/status/2105100126004170850",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/codey/"
+  },
+  "description": null,
+  "official": {
+    "title": "Codey by Sergio",
+    "description": "A careful coding assistant that proposes changes, opens PRs when you ask, and waits for your yes before merging, publishing, or deploying.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/codey/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

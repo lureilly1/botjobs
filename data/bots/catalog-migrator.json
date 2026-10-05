@@ -1,0 +1,41 @@
+{
+  "slug": "catalog-migrator",
+  "name": "Catalog Migrator",
+  "grokShareUrl": "https://x.ai/bot/Vg-6U_xdHUadEE20V6R2B",
+  "botId": "Vg-6U_xdHUadEE20V6R2B",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105790815213941040",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/catalog-migrator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Catalog Migrator by Colin",
+    "description": "Moves a Shopify or CSV catalog onto buyable products with variants and images, a dry-run mapping you approve first, checkout links, and a redirect list....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/catalog-migrator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

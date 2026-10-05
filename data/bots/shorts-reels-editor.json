@@ -1,0 +1,41 @@
+{
+  "slug": "shorts-reels-editor",
+  "name": "Shorts & Reels Editor",
+  "grokShareUrl": "https://x.ai/bot/G071a96I_2jNBHYK0fJYM",
+  "botId": "G071a96I_2jNBHYK0fJYM",
+  "creator": {
+    "handle": "Draggen75",
+    "url": "https://x.com/Draggen75"
+  },
+  "sourceUrl": "https://x.com/Draggen75/status/2106588914739826748",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shorts-reels-editor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shorts & Reels Editor by Daniel",
+    "description": "Turn raw footage into a punchy, captioned vertical video that survives platform crops.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "video",
+    "content",
+    "creator",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shorts-reels-editor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

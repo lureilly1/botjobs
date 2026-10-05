@@ -1,0 +1,42 @@
+{
+  "slug": "life-admin",
+  "name": "Life Admin",
+  "grokShareUrl": "https://x.ai/bot/n-moXgKp8F22oS9xckCMt",
+  "botId": "n-moXgKp8F22oS9xckCMt",
+  "creator": {
+    "handle": "crisships",
+    "url": "https://x.com/crisships"
+  },
+  "sourceUrl": "https://x.com/crisships/status/2106534311105294494",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/life-admin/"
+  },
+  "description": null,
+  "official": {
+    "title": "Life Admin by Cristopher",
+    "description": "Catches the personal deadlines that cost money when they slip (renewals, tickets, free trials, lease notices) and tells you when to start, not just when...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "calendar",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/life-admin/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

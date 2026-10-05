@@ -17,7 +17,7 @@
     "title": "Agent Manager by Siddharth",
     "description": "Reviews your Grok agent roster for overlaps, quiet desks, and keep/improve/cut proposals — with evidence. Propose only; you decide. Never deletes agents.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

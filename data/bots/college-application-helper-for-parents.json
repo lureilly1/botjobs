@@ -1,0 +1,41 @@
+{
+  "slug": "college-application-helper-for-parents",
+  "name": "College Application Helper for Parents",
+  "grokShareUrl": "https://x.ai/bot/ELnsz_VO2F7gG9plTCqT6",
+  "botId": "ELnsz_VO2F7gG9plTCqT6",
+  "creator": {
+    "handle": "steve_mlc",
+    "url": "https://x.com/steve_mlc"
+  },
+  "sourceUrl": "https://x.com/steve_mlc/status/2105794197395509452",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/college-application-helper-for-parents/"
+  },
+  "description": null,
+  "official": {
+    "title": "College Application Helper for Parents by Steve",
+    "description": "Get your child's Common App complete and polished, from activities and honors to essay feedback. Build a smarter college list (sports and ROTC too),...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "student",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/college-application-helper-for-parents/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

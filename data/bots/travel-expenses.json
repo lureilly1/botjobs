@@ -1,0 +1,43 @@
+{
+  "slug": "travel-expenses",
+  "name": "Travel Expenses",
+  "grokShareUrl": "https://x.ai/bot/Upkn_bUxr___NAvXZB3Dc",
+  "botId": "Upkn_bUxr___NAvXZB3Dc",
+  "creator": {
+    "handle": "shareitround",
+    "url": "https://x.com/shareitround"
+  },
+  "sourceUrl": "https://x.com/shareitround/status/2106934155615572405",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-expenses/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel Expenses by David",
+    "description": "Track trip spends in any currency, roll them up to a report total you choose, and export a clean A4 or Letter Excel + PDF. Type lines or drop receipt...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "finance",
+    "travel",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-expenses/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

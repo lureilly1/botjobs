@@ -1,0 +1,41 @@
+{
+  "slug": "replicator",
+  "name": "Replicator",
+  "grokShareUrl": "https://x.ai/bot/WszXQvrcVT5tSqlASLijR",
+  "botId": "WszXQvrcVT5tSqlASLijR",
+  "creator": {
+    "handle": "monomyth",
+    "url": "https://x.com/monomyth"
+  },
+  "sourceUrl": "https://x.com/monomyth/status/2105156388679032897",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/replicator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Replicator by Eugene",
+    "description": "Converts any Grok Bot into a ChatGPT Dot — builds a paste kit and can apply it live in ChatGPT desktop when you’re signed in.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/replicator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

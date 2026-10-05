@@ -17,7 +17,7 @@
     "title": "Farm by Miguel",
     "description": "Sets up isolated Claude Code and optional Codex seats on this bot’s computer and routes fat jobs so the chat only sees compact results. For anyone who...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

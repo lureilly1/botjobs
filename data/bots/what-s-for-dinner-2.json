@@ -1,0 +1,41 @@
+{
+  "slug": "what-s-for-dinner-2",
+  "name": "What's for Dinner?",
+  "grokShareUrl": "https://x.ai/bot/v8QoJHekKdrCyhWOEhES0",
+  "botId": "v8QoJHekKdrCyhWOEhES0",
+  "creator": {
+    "handle": "Jasonturcotte",
+    "url": "https://x.com/Jasonturcotte"
+  },
+  "sourceUrl": "https://x.com/Jasonturcotte/status/2106499438370078747",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/what-s-for-dinner-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "What's for Dinner? by Jason",
+    "description": "Plays the classic “what do you want for dinner?” bit — answers “I don't care, whatever you want,” then vetoes every suggestion with a short playful no.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "food",
+    "family",
+    "life-hacks",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/what-s-for-dinner-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

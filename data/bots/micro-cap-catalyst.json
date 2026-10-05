@@ -1,0 +1,42 @@
+{
+  "slug": "micro-cap-catalyst",
+  "name": "Micro Cap Catalyst",
+  "grokShareUrl": "https://x.ai/bot/wwQfz7q4jRS2QtI8E6Sl0",
+  "botId": "wwQfz7q4jRS2QtI8E6Sl0",
+  "creator": {
+    "handle": "mintotsai",
+    "url": "https://x.com/mintotsai"
+  },
+  "sourceUrl": "https://x.com/mintotsai/status/2104685752726786544",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/micro-cap-catalyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Micro Cap Catalyst by Minto",
+    "description": "For retail traders who want a concentrated one-name US micro/small-cap book with human approval on every order. Screens near-term catalysts after the US...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "research",
+    "finance",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/micro-cap-catalyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

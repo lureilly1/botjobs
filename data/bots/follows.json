@@ -1,0 +1,41 @@
+{
+  "slug": "follows",
+  "name": "Follows",
+  "grokShareUrl": "https://x.ai/bot/z1N3xJerHSoWUz8HxpUer",
+  "botId": "z1N3xJerHSoWUz8HxpUer",
+  "creator": {
+    "handle": "iamsethmedina",
+    "url": "https://x.com/iamsethmedina"
+  },
+  "sourceUrl": "https://x.com/iamsethmedina/status/2105625836502368417",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/follows/"
+  },
+  "description": null,
+  "official": {
+    "title": "Follows by Seth",
+    "description": "Tracks who follows your X account. Each day you get an update on new mutuals and unfollows, a weekly report, and an optional follow-back loop for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/follows/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

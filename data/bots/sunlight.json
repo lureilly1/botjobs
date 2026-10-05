@@ -1,0 +1,42 @@
+{
+  "slug": "sunlight",
+  "name": "Sunlight",
+  "grokShareUrl": "https://x.ai/bot/zfDZyngnaxStUF6RtoD-7",
+  "botId": "zfDZyngnaxStUF6RtoD-7",
+  "creator": {
+    "handle": "acornsoftai",
+    "url": "https://x.com/acornsoftai"
+  },
+  "sourceUrl": "https://x.com/acornsoftai/status/2104717018217783354",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sunlight/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sunlight by Developer",
+    "description": "Finds the money and the primary source behind a media claim, then holds it until you say it can go public. Every post is one small card with a floating...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "news",
+    "social-media",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sunlight/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

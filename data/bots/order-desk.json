@@ -1,0 +1,41 @@
+{
+  "slug": "order-desk",
+  "name": "Order Desk",
+  "grokShareUrl": "https://x.ai/bot/w6Hlfs7lkauhmLzHSRmX0",
+  "botId": "w6Hlfs7lkauhmLzHSRmX0",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105790820318359680",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/order-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Order Desk by Colin",
+    "description": "Finds every paid order, builds the pick list with shipping addresses, records tracking you provide, watches delivery, and flags low stock. Never invents...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/order-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

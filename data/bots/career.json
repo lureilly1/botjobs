@@ -1,0 +1,42 @@
+{
+  "slug": "career",
+  "name": "Career",
+  "grokShareUrl": "https://x.ai/bot/_N179jA-vyUT8mlNn2xOs",
+  "botId": "_N179jA-vyUT8mlNn2xOs",
+  "creator": {
+    "handle": "Agatho_Damon",
+    "url": "https://x.com/Agatho_Damon"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/career/"
+  },
+  "description": null,
+  "official": {
+    "title": "Career by Agatho",
+    "description": "Job-hunt assistant that finds live openings, helps tailor materials, submits through official employer ATS, and keeps an evidence-backed apply log —...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/career/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

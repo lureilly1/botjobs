@@ -1,0 +1,42 @@
+{
+  "slug": "football-bets-advisor",
+  "name": "Football Bets Advisor",
+  "grokShareUrl": "https://x.ai/bot/cWli8870UMAVC3piITAsV",
+  "botId": "cWli8870UMAVC3piITAsV",
+  "creator": {
+    "handle": "iamtheh0n3yp0t",
+    "url": "https://x.com/iamtheh0n3yp0t"
+  },
+  "sourceUrl": "https://x.com/iamtheh0n3yp0t/status/2106096001488437695",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/football-bets-advisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Football Bets Advisor by John",
+    "description": "A process-first NFL and college football picks bot. It builds short PLAY / CUT / PASS cards with hard kill rules, unit sizing, line shopping, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "decision-support",
+    "personal",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/football-bets-advisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

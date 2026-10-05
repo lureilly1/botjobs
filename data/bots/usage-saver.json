@@ -1,0 +1,41 @@
+{
+  "slug": "usage-saver",
+  "name": "Usage Saver",
+  "grokShareUrl": "https://x.ai/bot/jQ8sPQbnCaXQdXV6CjTKL",
+  "botId": "jQ8sPQbnCaXQdXV6CjTKL",
+  "creator": {
+    "handle": "Draggen75",
+    "url": "https://x.com/Draggen75"
+  },
+  "sourceUrl": "https://x.com/Draggen75/status/2106589146747932953",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/usage-saver/"
+  },
+  "description": null,
+  "official": {
+    "title": "Usage Saver by Daniel",
+    "description": "Cut the cost and clutter of AI-assistant and agent tasks by shrinking context, picking the right tool, and skipping unnecessary steps.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "saving-money",
+    "productivity",
+    "automation",
+    "developer"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/usage-saver/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

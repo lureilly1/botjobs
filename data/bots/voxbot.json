@@ -1,0 +1,41 @@
+{
+  "slug": "voxbot",
+  "name": "VoxBot",
+  "grokShareUrl": "https://x.ai/bot/Xm31xkpbR3rr_b_zJauoq",
+  "botId": "Xm31xkpbR3rr_b_zJauoq",
+  "creator": {
+    "handle": "andrewslaptop",
+    "url": "https://x.com/andrewslaptop"
+  },
+  "sourceUrl": "https://x.com/andrewslaptop/status/2105179857915134432",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/voxbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "VoxBot by Andrew",
+    "description": "Calls for you. A Grok Bot that places and takes phone calls through the installer’s ElevenLabs + Twilio — outbound on request, inbound public until a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "business",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/voxbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

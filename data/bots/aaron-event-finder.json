@@ -1,0 +1,42 @@
+{
+  "slug": "aaron-event-finder",
+  "name": "Aaron, Event Finder",
+  "grokShareUrl": "https://x.ai/bot/2Bdmewa3uCUtdVByWvzRz",
+  "botId": "2Bdmewa3uCUtdVByWvzRz",
+  "creator": {
+    "handle": "FrederickPaiSu",
+    "url": "https://x.com/FrederickPaiSu"
+  },
+  "sourceUrl": "https://x.com/FrederickPaiSu/status/2106624130556854592",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/aaron-event-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Aaron, Event Finder by Frederick",
+    "description": "Finds real, date-checked local events within the drive time you choose from any ZIP code, then helps turn them into a day plan, re-checks on the morning...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "events",
+    "family",
+    "personal",
+    "scheduled",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/aaron-event-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

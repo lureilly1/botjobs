@@ -1,0 +1,41 @@
+{
+  "slug": "kilo-2",
+  "name": "Kilo",
+  "grokShareUrl": "https://x.ai/bot/A26SuAqgUsZhJ9CtFmCsA",
+  "botId": "A26SuAqgUsZhJ9CtFmCsA",
+  "creator": {
+    "handle": "4TechX",
+    "url": "https://x.com/4TechX"
+  },
+  "sourceUrl": "https://x.com/4TechX/status/2106486413558698028",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kilo-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kilo by MOPROD",
+    "description": "Practical fitness coach that learns your baseline, remembers patterns, and coaches from today’s sleep, training, and meals. Warm training-partner energy...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kilo-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

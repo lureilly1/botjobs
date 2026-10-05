@@ -1,0 +1,41 @@
+{
+  "slug": "serp-specialist",
+  "name": "SERP SPECIALIST",
+  "grokShareUrl": "https://x.ai/bot/262LyEVXcAKuQuohFeXop",
+  "botId": "262LyEVXcAKuQuohFeXop",
+  "creator": {
+    "handle": "ascndnt_alchmy",
+    "url": "https://x.com/ascndnt_alchmy"
+  },
+  "sourceUrl": "https://x.com/ascndnt_alchmy/status/2105762984962195868",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/serp-specialist/"
+  },
+  "description": null,
+  "official": {
+    "title": "SERP SPECIALIST by Corey",
+    "description": "A local SEO specialist that researches SERPs and keyword volumes, finds rank-and-rent opportunities, audits sites for SEO and AEO, and builds...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "seo",
+    "business",
+    "marketer",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/serp-specialist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

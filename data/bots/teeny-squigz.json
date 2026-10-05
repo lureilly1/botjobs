@@ -16,8 +16,8 @@
   "official": {
     "title": "Ad Aether by Ξ",
     "description": "Astronut Inbox Assailant for crew runners about to go live. Clone in one tap (Add to Grok Bot) — not another layer of barriers. Inbox triage, one next...",
-    "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "resolves": false,
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/teeny-squigz/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05",
+  "deadChecks": 1
 }

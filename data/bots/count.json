@@ -1,0 +1,41 @@
+{
+  "slug": "count",
+  "name": "Count",
+  "grokShareUrl": "https://x.ai/bot/0bhvgIzOyOCg5L-hv40DL",
+  "botId": "0bhvgIzOyOCg5L-hv40DL",
+  "creator": {
+    "handle": "RichGarrick",
+    "url": "https://x.com/RichGarrick"
+  },
+  "sourceUrl": "https://x.com/RichGarrick/status/2104700483969691975",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/count/"
+  },
+  "description": null,
+  "official": {
+    "title": "Count by Richard",
+    "description": "A physical inventory count desk for small businesses. It builds pre-filled count sheets, and it writes real counts into your master stock file only...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/count/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

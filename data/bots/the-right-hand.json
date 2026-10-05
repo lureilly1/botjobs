@@ -1,0 +1,41 @@
+{
+  "slug": "the-right-hand",
+  "name": "The Right Hand",
+  "grokShareUrl": "https://x.ai/bot/7Fop1sRnzjv3CB9vWsHJD",
+  "botId": "7Fop1sRnzjv3CB9vWsHJD",
+  "creator": {
+    "handle": "AirbossHVAC",
+    "url": "https://x.com/AirbossHVAC"
+  },
+  "sourceUrl": "https://x.com/AirbossHVAC/status/2105432510624886785",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-right-hand/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Right Hand by AARON",
+    "description": "A chief of staff for owners running several Grok Bots. It routes each task to the right bot with a clear deliverable and stop rule, and brings back only...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "agent-team",
+    "meta-bot",
+    "productivity",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-right-hand/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

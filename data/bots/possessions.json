@@ -1,0 +1,41 @@
+{
+  "slug": "possessions",
+  "name": "POSSESSIONS",
+  "grokShareUrl": "https://x.ai/bot/_AtzRQVYEzMUS8QsanARG",
+  "botId": "_AtzRQVYEzMUS8QsanARG",
+  "creator": {
+    "handle": "bill_mitchell_",
+    "url": "https://x.com/bill_mitchell_"
+  },
+  "sourceUrl": "https://x.com/bill_mitchell_/status/2105420420283314572",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/possessions/"
+  },
+  "description": null,
+  "official": {
+    "title": "POSSESSIONS by Bill",
+    "description": "Tracks your belongings, home, vehicles, and accounts like a stock portfolio: what you paid vs. what it's worth now, flip profits, and net worth. Also...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "home",
+    "family"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/possessions/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "shelf-scout",
+  "name": "Shelf Scout",
+  "grokShareUrl": "https://x.ai/bot/TaRhODlVo4N5mKKH6gTW6",
+  "botId": "TaRhODlVo4N5mKKH6gTW6",
+  "creator": {
+    "handle": "XyberRun",
+    "url": "https://x.com/XyberRun"
+  },
+  "sourceUrl": "https://x.com/XyberRun/status/2105768229192831059",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shelf-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shelf Scout by Jacob",
+    "description": "Curates a weekly reading list (books + articles) from what you have actually been working on — real signals, not generic founder lists.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "scheduled",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shelf-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

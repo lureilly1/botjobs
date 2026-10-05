@@ -1,0 +1,42 @@
+{
+  "slug": "property-decision-os",
+  "name": "Property Decision OS",
+  "grokShareUrl": "https://x.ai/bot/PD7LPOk0HP53QxxWWEN8R",
+  "botId": "PD7LPOk0HP53QxxWWEN8R",
+  "creator": {
+    "handle": "Amervim",
+    "url": "https://x.com/Amervim"
+  },
+  "sourceUrl": "https://x.com/Amervim/status/2106053734182564347",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/property-decision-os/"
+  },
+  "description": null,
+  "official": {
+    "title": "Property Decision OS by Amervim",
+    "description": "Helps you decide on a residential property from listing to close—and through tenant selection if you rent it—without pushing you to buy. Seeks the truth...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "real-estate",
+    "finance",
+    "decision-support",
+    "investor",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/property-decision-os/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

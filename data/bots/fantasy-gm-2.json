@@ -1,0 +1,42 @@
+{
+  "slug": "fantasy-gm-2",
+  "name": "Fantasy GM",
+  "grokShareUrl": "https://x.ai/bot/q1CDLzD89gR7dL_Qin9Wz",
+  "botId": "q1CDLzD89gR7dL_Qin9Wz",
+  "creator": {
+    "handle": "mekeo21",
+    "url": "https://x.com/mekeo21"
+  },
+  "sourceUrl": "https://x.com/mekeo21/status/2106915137001247059",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-gm-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy GM by Joe",
+    "description": "Fantasy football manager for ESPN and Sleeper. Weekly start/sit, waiver and FAAB ideas, trade ideas, and injury alerts. The owner makes every roster move.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-gm-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

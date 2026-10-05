@@ -1,0 +1,41 @@
+{
+  "slug": "customer-care",
+  "name": "Customer Care",
+  "grokShareUrl": "https://x.ai/bot/NIjIeUSpzESYUiJTmrAvm",
+  "botId": "NIjIeUSpzESYUiJTmrAvm",
+  "creator": {
+    "handle": "ColinMcDermott",
+    "url": "https://x.com/ColinMcDermott"
+  },
+  "sourceUrl": "https://x.com/ColinMcDermott/status/2105790821974847945",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/customer-care/"
+  },
+  "description": null,
+  "official": {
+    "title": "Customer Care by Colin",
+    "description": "Refunds by your written policy, disputes with delivery evidence, and weekly refund and dispute rates. Drafts buyer replies for you to send; never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/customer-care/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

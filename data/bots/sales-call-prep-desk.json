@@ -1,0 +1,41 @@
+{
+  "slug": "sales-call-prep-desk",
+  "name": "Sales Call Prep Desk",
+  "grokShareUrl": "https://x.ai/bot/8QpQcgUVgUpxG5RR4mwnL",
+  "botId": "8QpQcgUVgUpxG5RR4mwnL",
+  "creator": {
+    "handle": "Cypher0x9",
+    "url": "https://x.com/Cypher0x9"
+  },
+  "sourceUrl": "https://x.com/Cypher0x9/status/2105188299182866623",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sales-call-prep-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "🎯 Sales Call Prep Desk ✦ CLOSE-READY by Cypher",
+    "description": "🎯 Walk into every call prepared: a cited brief on the account, discovery questions, objection handling and a clear next-step ask. It never writes to...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sales-call-prep-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

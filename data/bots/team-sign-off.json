@@ -1,0 +1,37 @@
+{
+  "slug": "team-sign-off",
+  "name": "Team Sign-off",
+  "grokShareUrl": "https://x.ai/bot/n8Qd5oB_uOjKP55_wLPpo",
+  "botId": "n8Qd5oB_uOjKP55_wLPpo",
+  "creator": {
+    "handle": null,
+    "name": "Sean O'Brien",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/team-sign-off"
+  },
+  "description": null,
+  "official": {
+    "title": "Team Pack by Sean",
+    "description": "30-day team offer for up to 3 seats covering Stability Validator, Listing Auditor, and Pilot Intake. Gate tools only — not a do-everything assistant,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/team-sign-off"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "lineup-lock",
+  "name": "Lineup Lock",
+  "grokShareUrl": "https://x.ai/bot/nEM_sUscFyr3VFeYmFhZA",
+  "botId": "nEM_sUscFyr3VFeYmFhZA",
+  "creator": {
+    "handle": "PatchesHQ",
+    "url": "https://x.com/PatchesHQ"
+  },
+  "sourceUrl": "https://x.com/PatchesHQ/status/2104696851526304018",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lineup-lock/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lineup Lock by Allen",
+    "description": "Fantasy football lineup coach for THIS week. Starting lineup, start/sit with real confidence, waivers that match your league rules, and trade advice for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lineup-lock/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

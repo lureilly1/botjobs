@@ -1,0 +1,41 @@
+{
+  "slug": "cao",
+  "name": "CAO",
+  "grokShareUrl": "https://x.ai/bot/1QpKMVVzO9iJe-Tg_kfcC",
+  "botId": "1QpKMVVzO9iJe-Tg_kfcC",
+  "creator": {
+    "handle": "LYP0x0",
+    "url": "https://x.com/LYP0x0"
+  },
+  "sourceUrl": "https://x.com/LYP0x0/status/2104751548232519962",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cao/"
+  },
+  "description": null,
+  "official": {
+    "title": "CAO by Allen",
+    "description": "A bad delay or broken promise leaves the other person hurt — and a cold note makes it worse. I’m CAO: I turn the mess into a warm, heartfelt apology...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cao/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

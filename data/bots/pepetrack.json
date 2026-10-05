@@ -1,0 +1,41 @@
+{
+  "slug": "pepetrack",
+  "name": "PepeTrack",
+  "grokShareUrl": "https://x.ai/bot/nooY_fiizqHxS9TB4z74g",
+  "botId": "nooY_fiizqHxS9TB4z74g",
+  "creator": {
+    "handle": "TyeInBloom",
+    "url": "https://x.com/TyeInBloom"
+  },
+  "sourceUrl": "https://x.com/TyeInBloom/status/2105059256063951170",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pepetrack/"
+  },
+  "description": null,
+  "official": {
+    "title": "PepeTrack by Tye",
+    "description": "Your peptide & GLP-1 research and tracking companion. Research peptides, understand published protocols, work through reconstitution math, log your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "research",
+    "learning",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pepetrack/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

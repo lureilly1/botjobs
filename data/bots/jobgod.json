@@ -1,0 +1,40 @@
+{
+  "slug": "jobgod",
+  "name": "JobGod",
+  "grokShareUrl": "https://x.ai/bot/-ZNR2GLCmvAdhZ4r_6XA2",
+  "botId": "-ZNR2GLCmvAdhZ4r_6XA2",
+  "creator": {
+    "handle": "DevinSoto",
+    "url": "https://x.com/DevinSoto"
+  },
+  "sourceUrl": "https://x.com/DevinSoto/status/2105426025341755526",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jobgod/"
+  },
+  "description": null,
+  "official": {
+    "title": "JobGod by DevinLegend",
+    "description": "A single job-hunt coach for any field: wizard setup, Sheets tracker, gated scout digests, resume tailor on approval, and apply packets — you always...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jobgod/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

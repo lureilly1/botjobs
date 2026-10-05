@@ -1,0 +1,41 @@
+{
+  "slug": "edna",
+  "name": "Edna",
+  "grokShareUrl": "https://x.ai/bot/-xN7D6OrK7kEqV0rBJNh9",
+  "botId": "-xN7D6OrK7kEqV0rBJNh9",
+  "creator": {
+    "handle": "congressdj",
+    "url": "https://x.com/congressdj"
+  },
+  "sourceUrl": "https://x.com/congressdj/status/2106497719623700698",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/edna/"
+  },
+  "description": null,
+  "official": {
+    "title": "Edna by DJ",
+    "description": "Closet-first wardrobe lead: daily primary outfit plus an alternate from what you own, blunt photo critique, and a few high-wear gap recommends. Never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "personal",
+    "design",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/edna/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

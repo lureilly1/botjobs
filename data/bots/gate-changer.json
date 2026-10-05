@@ -1,0 +1,40 @@
+{
+  "slug": "gate-changer",
+  "name": "Gate Changer",
+  "grokShareUrl": "https://x.ai/bot/qN-76V-LWOq74YVaQYhmt",
+  "botId": "qN-76V-LWOq74YVaQYhmt",
+  "creator": {
+    "handle": "XWardClerkChris",
+    "url": "https://x.com/XWardClerkChris"
+  },
+  "sourceUrl": "https://x.com/XWardClerkChris/status/2105399955347366076",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gate-changer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gate Changer by Chris",
+    "description": "Status match coach for frequent flyers. Maps match vs challenge paths, packs proof, tracks deadlines — so you can change airlines without losing elite...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "personal",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gate-changer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

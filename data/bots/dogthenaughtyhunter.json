@@ -1,0 +1,42 @@
+{
+  "slug": "dogthenaughtyhunter",
+  "name": "DogTheNaughtyHunter",
+  "grokShareUrl": "https://x.ai/bot/3nkH58KUSQG5S7A29rzWi",
+  "botId": "3nkH58KUSQG5S7A29rzWi",
+  "creator": {
+    "handle": "TheRetardedELon",
+    "url": "https://x.com/TheRetardedELon"
+  },
+  "sourceUrl": "https://x.com/TheRetardedELon/status/2100186834844135627",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dogthenaughtyhunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "DogTheNaughtyHunter by Jay",
+    "description": "Hunts X botnets on your signed-in X account. Clones BotHuntersLog, opens X for your login, then deep-walks notification ticks through Followers →...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "social-media",
+    "monitoring",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dogthenaughtyhunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

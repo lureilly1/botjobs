@@ -1,0 +1,40 @@
+{
+  "slug": "lookalikes",
+  "name": "𝕏 Lookalikes",
+  "grokShareUrl": "https://x.ai/bot/6GtgHP0lCXamLe_wI7mZd",
+  "botId": "6GtgHP0lCXamLe_wI7mZd",
+  "creator": {
+    "handle": "LaceyPresley",
+    "url": "https://x.com/LaceyPresley"
+  },
+  "sourceUrl": "https://x.com/LaceyPresley/status/2105441561731559705",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lookalikes/"
+  },
+  "description": null,
+  "official": {
+    "title": "𝕏 Lookalikes by Lacey",
+    "description": "Shows you public X accounts that look like they are pretending to be you: a copied name, a lookalike handle, a copied bio, or a claim to be you. It does...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "monitoring",
+    "social-media",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lookalikes/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

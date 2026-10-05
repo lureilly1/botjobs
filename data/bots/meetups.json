@@ -1,0 +1,41 @@
+{
+  "slug": "meetups",
+  "name": "Meetups",
+  "grokShareUrl": "https://x.ai/bot/FZxPVNIVZcA_3kA4ZReDQ",
+  "botId": "FZxPVNIVZcA_3kA4ZReDQ",
+  "creator": {
+    "handle": "nmtalkss",
+    "url": "https://x.com/nmtalkss"
+  },
+  "sourceUrl": "https://x.com/nmtalkss/status/2106787156026863737",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meetups/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meetups by Noah",
+    "description": "Finds in-person meetups you can actually drive to every week. That means AI and founder events, local business networking, or both, each with a real...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "events",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meetups/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

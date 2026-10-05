@@ -1,0 +1,41 @@
+{
+  "slug": "ios-bot",
+  "name": "iOS Bot",
+  "grokShareUrl": "https://x.ai/bot/RIPO6abjI60-ZXRFAj9hG",
+  "botId": "RIPO6abjI60-ZXRFAj9hG",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2106522522565128529",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ios-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "iOS Bot by Jaime",
+    "description": "An iOS app developer that builds Swift and SwiftUI apps from design to TestFlight, and helps with iPhone-side setup for the apps it builds. It never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ios-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

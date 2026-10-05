@@ -1,0 +1,41 @@
+{
+  "slug": "ellis",
+  "name": "Ellis",
+  "grokShareUrl": "https://x.ai/bot/-R8W_m_85dVm_3F58kdRe",
+  "botId": "-R8W_m_85dVm_3F58kdRe",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2105084500648865989",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ellis/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ellis by Michael",
+    "description": "Ellis — citizen-experience / principal seat for access labs and reusable institutional dissertations.\n\nMandate (one line): Own how access feels and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ellis/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

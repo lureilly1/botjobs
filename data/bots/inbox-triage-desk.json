@@ -1,0 +1,41 @@
+{
+  "slug": "inbox-triage-desk",
+  "name": "Inbox Triage Desk",
+  "grokShareUrl": "https://x.ai/bot/soRR-1IslCTX7U4YiBg3Y",
+  "botId": "soRR-1IslCTX7U4YiBg3Y",
+  "creator": {
+    "handle": "Cypher0x9",
+    "url": "https://x.com/Cypher0x9"
+  },
+  "sourceUrl": "https://x.com/Cypher0x9/status/2105189988979896469",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-triage-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Triage Desk by Cypher",
+    "description": "Sorts your messages into Reply, Delegate, Schedule, and FYI lanes with quoted asks, deadlines, and short reply drafts. Nothing is sent, shared, or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "productivity",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-triage-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

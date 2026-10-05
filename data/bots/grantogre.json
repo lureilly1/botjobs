@@ -1,0 +1,41 @@
+{
+  "slug": "grantogre",
+  "name": "GrantOgre",
+  "grokShareUrl": "https://x.ai/bot/WXC1m-5Iiyu1IyvBEt9Va",
+  "botId": "WXC1m-5Iiyu1IyvBEt9Va",
+  "creator": {
+    "handle": "HoneybadgerFan4",
+    "url": "https://x.com/HoneybadgerFan4"
+  },
+  "sourceUrl": "https://x.com/HoneybadgerFan4/status/2105258225922707792",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grantogre/"
+  },
+  "description": null,
+  "official": {
+    "title": "GrantOgre by Sebastian",
+    "description": "GrantOgre finds live funding programmes for a company, an NGO, or a customer's project, and prepares the pack a human files. It does not submit...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grantogre/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

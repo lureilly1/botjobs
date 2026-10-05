@@ -1,0 +1,41 @@
+{
+  "slug": "outsrc",
+  "name": "Outsrc",
+  "grokShareUrl": "https://x.ai/bot/FdogFaBe5Y2LWMc-bmsAg",
+  "botId": "FdogFaBe5Y2LWMc-bmsAg",
+  "creator": {
+    "handle": "edtadros",
+    "url": "https://x.com/edtadros"
+  },
+  "sourceUrl": "https://x.com/edtadros/status/2105427985130283206",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/outsrc/"
+  },
+  "description": null,
+  "official": {
+    "title": "Outsrc by Edward",
+    "description": "Your local coding team. Outsrc hands coding tasks to Claude Code, Codex, or Grok Build on your computer—each job in its own git worktree, with diffs and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "meta-bot",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/outsrc/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

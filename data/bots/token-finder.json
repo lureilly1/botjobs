@@ -1,0 +1,42 @@
+{
+  "slug": "token-finder",
+  "name": "Token Finder",
+  "grokShareUrl": "https://x.ai/bot/1olDKisJ4GIsykzyxADtD",
+  "botId": "1olDKisJ4GIsykzyxADtD",
+  "creator": {
+    "handle": "CaseyChesh",
+    "url": "https://x.com/CaseyChesh"
+  },
+  "sourceUrl": "https://x.com/CaseyChesh/status/2106569285552451804",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/token-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Token Finder by Casey",
+    "description": "Leveraging 8 token-finding strategies and a smart weekly process, Token Finder regularly frees up usage across your bots, so you can launch more bots...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/token-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

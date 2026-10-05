@@ -1,0 +1,42 @@
+{
+  "slug": "reelz",
+  "name": "Reelz",
+  "grokShareUrl": "https://x.ai/bot/MDxbQT9SNEdSQ63NJpgPh",
+  "botId": "MDxbQT9SNEdSQ63NJpgPh",
+  "creator": {
+    "handle": "Orgonix23",
+    "url": "https://x.com/Orgonix23"
+  },
+  "sourceUrl": "https://x.com/Orgonix23/status/2106150681644044321",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reelz/"
+  },
+  "description": null,
+  "official": {
+    "title": "Reelz by zSirius",
+    "description": "A short-form video editor that turns your photos and clips into polished vertical reels for Instagram, TikTok, and Shorts. Delivers silent cuts for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reelz/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

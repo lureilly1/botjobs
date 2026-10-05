@@ -1,0 +1,42 @@
+{
+  "slug": "pelosi",
+  "name": "Pelosi",
+  "grokShareUrl": "https://x.ai/bot/sZvrsCSynGeSuBVA7lA2x",
+  "botId": "sZvrsCSynGeSuBVA7lA2x",
+  "creator": {
+    "handle": "amartins02",
+    "url": "https://x.com/amartins02"
+  },
+  "sourceUrl": "https://x.com/amartins02/status/2104701245684670755",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pelosi/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pelosi by Arsenio",
+    "description": "Tracks the stock trades members of Congress disclose, starting with Nancy Pelosi, and messages you each weekday morning when a new filing lands, with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pelosi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

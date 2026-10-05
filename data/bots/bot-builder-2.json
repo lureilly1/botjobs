@@ -1,0 +1,41 @@
+{
+  "slug": "bot-builder-2",
+  "name": "Bot Builder",
+  "grokShareUrl": "https://x.ai/bot/xwzDwQIkd1LYOIN1akMxy",
+  "botId": "xwzDwQIkd1LYOIN1akMxy",
+  "creator": {
+    "handle": "beksvie",
+    "url": "https://x.com/beksvie"
+  },
+  "sourceUrl": "https://x.com/beksvie/status/2105748026740371788",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-builder-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Builder by Bernard",
+    "description": "Designs focused Grok Bot fleets (CoS + specialists), crawl→walk→run, and a Sunday skill/roster back-check — for owners who want specialized bots instead...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "developer",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-builder-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

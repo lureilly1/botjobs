@@ -1,0 +1,41 @@
+{
+  "slug": "financial-advisor",
+  "name": "Financial Advisor",
+  "grokShareUrl": "https://x.ai/bot/FlK_S-je8TVcA-kH9r40p",
+  "botId": "FlK_S-je8TVcA-kH9r40p",
+  "creator": {
+    "handle": "shamash31",
+    "url": "https://x.com/shamash31"
+  },
+  "sourceUrl": "https://x.com/shamash31/status/2105366195880825267",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/financial-advisor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Financial Advisor by Michael",
+    "description": "A personal money coach for sticky monthly budgets, savings goals, and paycheck planning. Built around a day-to-day budget app plus bank/investment links.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/financial-advisor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

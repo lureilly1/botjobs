@@ -1,0 +1,41 @@
+{
+  "slug": "nexfade-secure-share",
+  "name": "NexFade Secure Share",
+  "grokShareUrl": "https://x.ai/bot/s9i2gj-picjq7jFrNWwQt",
+  "botId": "s9i2gj-picjq7jFrNWwQt",
+  "creator": {
+    "handle": "rynmark-repo",
+    "url": "https://github.com/rynmark-repo"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nexfade-secure-share/"
+  },
+  "description": null,
+  "official": {
+    "title": "NexFade Secure Share by As",
+    "description": "Create one-time encrypted NexFade links for sensitive files and notes from Grok Bot. Encrypts locally so NexFade only gets ciphertext; the decryption...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nexfade-secure-share/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

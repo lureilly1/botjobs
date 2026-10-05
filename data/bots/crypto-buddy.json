@@ -1,0 +1,41 @@
+{
+  "slug": "crypto-buddy",
+  "name": "Crypto Buddy",
+  "grokShareUrl": "https://x.ai/bot/TSgExceGHVJN9U2E4-_23",
+  "botId": "TSgExceGHVJN9U2E4-_23",
+  "creator": {
+    "handle": "JRNavarro75",
+    "url": "https://x.com/JRNavarro75"
+  },
+  "sourceUrl": "https://x.com/JRNavarro75/status/2104903749026435552",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-buddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto Buddy by Joe",
+    "description": "Send it a crypto ticker or coin name and it returns a full research package: sourced metrics, a plain-English read on the tape, a scored research gauge,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "crypto",
+    "research",
+    "investor",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-buddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

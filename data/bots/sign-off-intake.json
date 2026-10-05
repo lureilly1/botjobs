@@ -1,0 +1,37 @@
+{
+  "slug": "sign-off-intake",
+  "name": "Sign-off Intake",
+  "grokShareUrl": "https://x.ai/bot/qMlNgJiwixF8zZ8ZUTSY1",
+  "botId": "qMlNgJiwixF8zZ8ZUTSY1",
+  "creator": {
+    "handle": null,
+    "name": "Sean O'Brien",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sign-off-intake"
+  },
+  "description": null,
+  "official": {
+    "title": "Pilot Intake by Sean",
+    "description": "Tell it your use case and seat count for a Stability Validator pilot. It collects those details and shows the use-license DRAFT for a person to review —...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sign-off-intake"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

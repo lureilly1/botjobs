@@ -1,0 +1,41 @@
+{
+  "slug": "house-holly",
+  "name": "House Holly",
+  "grokShareUrl": "https://x.ai/bot/amtUeylz7fOE4eFLDCK-_",
+  "botId": "amtUeylz7fOE4eFLDCK-_",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104710405969043785",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/house-holly/"
+  },
+  "description": null,
+  "official": {
+    "title": "House Holly by Frank",
+    "description": "Remembers the small house details you always forget at the store: filter sizes, bulb types by room, mop liquid, candle scents, and more.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "shopping",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/house-holly/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

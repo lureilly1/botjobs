@@ -1,0 +1,42 @@
+{
+  "slug": "fit-check",
+  "name": "Fit Check",
+  "grokShareUrl": "https://x.ai/bot/YObVEKxqYvofsdaPCRdj3",
+  "botId": "YObVEKxqYvofsdaPCRdj3",
+  "creator": {
+    "handle": "BryanGislason",
+    "url": "https://x.com/BryanGislason"
+  },
+  "sourceUrl": "https://x.com/BryanGislason/status/2105817472259739891",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fit-check/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fit Check by Bryan",
+    "description": "A personal style assistant that gives outfit ideas for any day or event, honest feedback on outfit photos, and help organizing your wardrobe and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "life-hacks",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fit-check/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

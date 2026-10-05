@@ -1,0 +1,41 @@
+{
+  "slug": "jakebot",
+  "name": "Jakebot",
+  "grokShareUrl": "https://x.ai/bot/5OjTxkF_Lgn75n0plYPgn",
+  "botId": "5OjTxkF_Lgn75n0plYPgn",
+  "creator": {
+    "handle": "Rune_King_Jake",
+    "url": "https://x.com/Rune_King_Jake"
+  },
+  "sourceUrl": "https://x.com/Rune_King_Jake/status/2105424788516721092",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jakebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jakebot by JakeFromStarstruck.",
+    "description": "Jakebot is your friend from the 90's — the same hungry kid from the story, reimagined so everyone can use him. Helps people tell their own stories:...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "personal",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jakebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

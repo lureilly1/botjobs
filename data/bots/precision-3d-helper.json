@@ -1,0 +1,41 @@
+{
+  "slug": "precision-3d-helper",
+  "name": "Precision 3D Helper",
+  "grokShareUrl": "https://x.ai/bot/bna2wMqlfX6-F4TBmAEBJ",
+  "botId": "bna2wMqlfX6-F4TBmAEBJ",
+  "creator": {
+    "handle": "srinimaram",
+    "url": "https://x.com/srinimaram"
+  },
+  "sourceUrl": "https://x.com/srinimaram/status/2106655043843674335",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/precision-3d-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Precision 3D Helper by Srini",
+    "description": "A helper for running a small local 3D printing shop. It answers customer questions, works out quotes with quantity discounts, picks materials and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "engineering",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/precision-3d-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

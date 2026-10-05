@@ -1,0 +1,41 @@
+{
+  "slug": "temper",
+  "name": "Temper",
+  "grokShareUrl": "https://x.ai/bot/9Zp-JZWckPEjwBPp2EGtX",
+  "botId": "9Zp-JZWckPEjwBPp2EGtX",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2105392423417569434",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/temper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Temper by D'Artagnan",
+    "description": "You publish an invariant. Anvil proposes a patch, separate attackers try to break it, and Stone re-runs your real test harness (no model judgment)....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "agent-team",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/temper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

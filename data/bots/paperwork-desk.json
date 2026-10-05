@@ -1,0 +1,41 @@
+{
+  "slug": "paperwork-desk",
+  "name": "Paperwork Desk",
+  "grokShareUrl": "https://x.ai/bot/Gv02Uedgl530XCpAqbUoU",
+  "botId": "Gv02Uedgl530XCpAqbUoU",
+  "creator": {
+    "handle": "Daniel191555486",
+    "url": "https://x.com/Daniel191555486"
+  },
+  "sourceUrl": "https://x.com/Daniel191555486/status/2105055345303556263",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paperwork-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paperwork Desk by Daniel",
+    "description": "Forward your bills, renewal notices, leases, medical bills, and letters. Paperwork Desk pulls out what you owe and when, tracks every deadline, reminds...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "back-office",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paperwork-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

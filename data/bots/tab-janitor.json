@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Tab Janitor by @suddenlyjon",
-    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nJob: Keep the shared Grok Bot browser lean.\n\nAll Bots on this account share one cloud computer and one...",
+    "description": "Job: Keep the shared Grok Bot browser lean.\n\nAll Bots on this account share one cloud computer and one browser profile. Other Bots leave tabs open. You...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

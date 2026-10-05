@@ -1,0 +1,42 @@
+{
+  "slug": "competitive-landscape-desk",
+  "name": "Competitive Landscape Desk",
+  "grokShareUrl": "https://x.ai/bot/2pBIwrTpcLT7kDQ3NNGxY",
+  "botId": "2pBIwrTpcLT7kDQ3NNGxY",
+  "creator": {
+    "handle": "Cypher0x9",
+    "url": "https://x.com/Cypher0x9"
+  },
+  "sourceUrl": "https://x.com/Cypher0x9/status/2105190371395342356",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/competitive-landscape-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "🥊 Competitive Landscape Desk ✦ EDGE-FINDER by Cypher",
+    "description": "🥊 See how you stack up with a sourced competitor comparison table, clear options and a recommendation. Nothing is shared or published without your OK.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/competitive-landscape-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "grok-bot-polish",
+  "name": "Grok Bot Polish",
+  "grokShareUrl": "https://x.ai/bot/EN9N53oqx8y1kvHP4BAh4",
+  "botId": "EN9N53oqx8y1kvHP4BAh4",
+  "creator": {
+    "handle": "GrokBotGod",
+    "url": "https://x.com/GrokBotGod"
+  },
+  "sourceUrl": "https://x.com/GrokBotGod/status/2106143314588385584",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-polish/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot Polish by GrokBotGod",
+    "description": "Rewrites your Grok Bot listing so people find it in Google and AI search: a clear name, a first line in the words people type, and a tight description....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "seo",
+    "content",
+    "marketer",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-polish/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

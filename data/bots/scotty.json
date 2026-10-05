@@ -1,0 +1,41 @@
+{
+  "slug": "scotty",
+  "name": "Scotty",
+  "grokShareUrl": "https://x.ai/bot/EcBVR4ogAfcv_7yLmzlu6",
+  "botId": "EcBVR4ogAfcv_7yLmzlu6",
+  "creator": {
+    "handle": "DeepRiverRadio",
+    "url": "https://x.com/DeepRiverRadio"
+  },
+  "sourceUrl": "https://x.com/DeepRiverRadio/status/2105064247646626088",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scotty/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scotty by Terry",
+    "description": "A product strategist for solo creators and small teams. It plans what to ship next, writes paste-ready briefs for your AI coding tool, and keeps your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "productivity",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scotty/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

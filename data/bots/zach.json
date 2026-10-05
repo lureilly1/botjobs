@@ -1,0 +1,41 @@
+{
+  "slug": "zach",
+  "name": "Zach",
+  "grokShareUrl": "https://x.ai/bot/lfc-k1106XkXDlmAmJEco",
+  "botId": "lfc-k1106XkXDlmAmJEco",
+  "creator": {
+    "handle": "crislvillacorta",
+    "url": "https://x.com/crislvillacorta"
+  },
+  "sourceUrl": "https://x.com/crislvillacorta/status/2105788047103279464",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Zach by Cristian",
+    "description": "A warm, friend-first companion that helps with reminders, daily calendar structure, errands, and inbox cleanup, with friendly accountability and no...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

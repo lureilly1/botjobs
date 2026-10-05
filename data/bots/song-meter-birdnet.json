@@ -1,0 +1,42 @@
+{
+  "slug": "song-meter-birdnet",
+  "name": "Song Meter BirdNET",
+  "grokShareUrl": "https://x.ai/bot/YPzHnM2hsyp4JkI7wxyAG",
+  "botId": "YPzHnM2hsyp4JkI7wxyAG",
+  "creator": {
+    "handle": "scgerber",
+    "url": "https://x.com/scgerber"
+  },
+  "sourceUrl": "https://x.com/scgerber/status/2105821294193442975",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/song-meter-birdnet/"
+  },
+  "description": null,
+  "official": {
+    "title": "Song Meter BirdNET by Steve",
+    "description": "Process Wildlife Acoustics Song Meter cards with local BirdNET on your computer: regional-list dual pass, Raven tables, migration vs prior card,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "data",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/song-meter-birdnet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "preflight-sign-off",
+  "name": "Preflight Sign-off",
+  "grokShareUrl": "https://x.ai/bot/Sk7NG2L340MAottFXFRaE",
+  "botId": "Sk7NG2L340MAottFXFRaE",
+  "creator": {
+    "handle": null,
+    "name": "Sean O'Brien",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/preflight-sign-off"
+  },
+  "description": null,
+  "official": {
+    "title": "Validator Pilot by Sean",
+    "description": "A paid 30-day Stability Validator pilot: use-case and seat intake, plus the use-license DRAFT for human review. Not the HELIX engine, not certification,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/preflight-sign-off"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

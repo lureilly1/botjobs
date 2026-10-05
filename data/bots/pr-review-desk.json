@@ -1,0 +1,41 @@
+{
+  "slug": "pr-review-desk",
+  "name": "PR Review Desk",
+  "grokShareUrl": "https://x.ai/bot/5tp4v8_Z22suR9biJ_9wa",
+  "botId": "5tp4v8_Z22suR9biJ_9wa",
+  "creator": {
+    "handle": "Cypher0x9",
+    "url": "https://x.com/Cypher0x9"
+  },
+  "sourceUrl": "https://x.com/Cypher0x9/status/2105190171193102619",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pr-review-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "🔍 PR Review Desk ✦ SHIP-SAFE by Cypher",
+    "description": "🔍 Review pull requests faster with anchored Blocker, Major, Minor and Nit findings in one review packet. It never approves, merges or posts comments on...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pr-review-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

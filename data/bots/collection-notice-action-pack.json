@@ -1,0 +1,41 @@
+{
+  "slug": "collection-notice-action-pack",
+  "name": "Collection Notice Action Pack",
+  "grokShareUrl": "https://x.ai/bot/bPxpPAdxa5nqiTaUVK5wO",
+  "botId": "bPxpPAdxa5nqiTaUVK5wO",
+  "creator": {
+    "handle": "AlexFCHF",
+    "url": "https://x.com/AlexFCHF"
+  },
+  "sourceUrl": "https://x.com/AlexFCHF/status/2104701479047356888",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/collection-notice-action-pack/"
+  },
+  "description": null,
+  "official": {
+    "title": "Collection Notice Action Pack by Alex",
+    "description": "Turns a pasted debt-collection notice into a response clock, do-not-admit script, dispute drafts, and evidence checklist. You send everything yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/collection-notice-action-pack/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

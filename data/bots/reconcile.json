@@ -1,0 +1,41 @@
+{
+  "slug": "reconcile",
+  "name": "Reconcile",
+  "grokShareUrl": "https://x.ai/bot/Tbq0su-ypEEzdjTXjIZLo",
+  "botId": "Tbq0su-ypEEzdjTXjIZLo",
+  "creator": {
+    "handle": "RichGarrick",
+    "url": "https://x.com/RichGarrick"
+  },
+  "sourceUrl": "https://x.com/RichGarrick/status/2104700483969691975",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reconcile/"
+  },
+  "description": null,
+  "official": {
+    "title": "Reconcile by Richard",
+    "description": "An inventory mismatch desk for small shops. It compares your master stock file with every sales channel, shows the differences in a table, and proposes...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reconcile/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

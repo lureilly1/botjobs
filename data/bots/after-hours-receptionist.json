@@ -16,7 +16,7 @@
     "title": "After-Hours Receptionist by Robert",
     "description": "SMB lead capture and appointment booking assistant for when the business is closed. Captures visitor leads, books callbacks, escalates true emergencies,...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

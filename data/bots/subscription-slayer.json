@@ -1,0 +1,42 @@
+{
+  "slug": "subscription-slayer",
+  "name": "Subscription Slayer",
+  "grokShareUrl": "https://x.ai/bot/2N4oNHRcE-gsXbKn9GcVE",
+  "botId": "2N4oNHRcE-gsXbKn9GcVE",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2106486072683454759",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/subscription-slayer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Subscription Slayer by Joseph",
+    "description": "Finds every recurring charge in your statements, flags price hikes and forgotten services, and drafts cancel and negotiation scripts. For anyone whose...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "saving-money",
+    "personal",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/subscription-slayer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

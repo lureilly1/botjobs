@@ -1,0 +1,41 @@
+{
+  "slug": "nemesis",
+  "name": "Nemesis",
+  "grokShareUrl": "https://x.ai/bot/i9shKGaHEyG79WsgIT4BG",
+  "botId": "i9shKGaHEyG79WsgIT4BG",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2105083997227491731",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nemesis/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nemesis by Michael",
+    "description": "Nemesis — standing red-team / adversary seat for access-design projects.\n\nMandate (one line): Break access designs — prompt injection, credential...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nemesis/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

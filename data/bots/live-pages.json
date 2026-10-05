@@ -1,0 +1,42 @@
+{
+  "slug": "live-pages",
+  "name": "Live Pages",
+  "grokShareUrl": "https://x.ai/bot/ignLvLJlOxOIenZPr-tTA",
+  "botId": "ignLvLJlOxOIenZPr-tTA",
+  "creator": {
+    "handle": "darkart",
+    "url": "https://x.com/darkart"
+  },
+  "sourceUrl": "https://x.com/darkart/status/2107005980752126407",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/live-pages/"
+  },
+  "description": null,
+  "official": {
+    "title": "Live Pages by Yin",
+    "description": "Builds live web pages on its computer that you open on your phone or laptop over Tailscale. Tap or submit on the page, it updates, and your tab reloads.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/live-pages/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

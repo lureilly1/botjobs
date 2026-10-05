@@ -17,7 +17,7 @@
     "title": "메일 정리봇 by 초코넛밀크티",
     "description": "네이버와 Gmail을 매일 아침 짧게 정리하고, 결제·보안 리스크만 요약해 알려주는 메일 정리 봇.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

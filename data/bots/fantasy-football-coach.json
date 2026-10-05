@@ -1,0 +1,41 @@
+{
+  "slug": "fantasy-football-coach",
+  "name": "Fantasy Football Coach",
+  "grokShareUrl": "https://x.ai/bot/EJYTBBKPwAOdZPrKZCp8v",
+  "botId": "EJYTBBKPwAOdZPrKZCp8v",
+  "creator": {
+    "handle": "FirstDeployAI",
+    "url": "https://x.com/FirstDeployAI"
+  },
+  "sourceUrl": "https://x.com/FirstDeployAI/status/2104710275626684501",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Football Coach by Daniel",
+    "description": "Your fantasy football coach for season-long leagues and FanDuel/DraftKings DFS: start/sit calls, best lineups, waiver targets with FAAB guidance, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

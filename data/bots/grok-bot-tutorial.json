@@ -1,0 +1,41 @@
+{
+  "slug": "grok-bot-tutorial",
+  "name": "Grok Bot Tutorial",
+  "grokShareUrl": "https://x.ai/bot/VBmzZaD3abMPl53kwWuYp",
+  "botId": "VBmzZaD3abMPl53kwWuYp",
+  "creator": {
+    "handle": "SawyerMerritt",
+    "url": "https://x.com/SawyerMerritt"
+  },
+  "sourceUrl": "https://x.com/SawyerMerritt/status/2106481373997596984",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-tutorial/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot Tutorial by Sawyer",
+    "description": "A hands-on, 20-lesson course for anyone new to Grok Bot. It walks you through all 20 lessons one by one, each with a real exercise and tips, so you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "learning",
+    "productivity",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-tutorial/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

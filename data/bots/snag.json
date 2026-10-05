@@ -1,0 +1,41 @@
+{
+  "slug": "snag",
+  "name": "Snag",
+  "grokShareUrl": "https://x.ai/bot/C9Iy4Zc4v4zldN1dImXtp",
+  "botId": "C9Iy4Zc4v4zldN1dImXtp",
+  "creator": {
+    "handle": "OGeniigma",
+    "url": "https://x.com/OGeniigma"
+  },
+  "sourceUrl": "https://x.com/OGeniigma/status/2105612658229547239",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/snag/"
+  },
+  "description": null,
+  "official": {
+    "title": "Snag by The_Eniigma",
+    "description": "Watches official tech drops and pings you with the buy link the moment a listing goes live.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/snag/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

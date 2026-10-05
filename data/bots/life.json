@@ -1,0 +1,41 @@
+{
+  "slug": "life",
+  "name": "Life",
+  "grokShareUrl": "https://x.ai/bot/ktZpLWjTag-lOUcLUUBSj",
+  "botId": "ktZpLWjTag-lOUcLUUBSj",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104719476818170065",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/life/"
+  },
+  "description": null,
+  "official": {
+    "title": "Life by Steven",
+    "description": "Personal front-door chief of staff for everyday life ops. Caps what needs you at three, stays quiet when nothing’s stuck, and routes deep domains to...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "ops",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/life/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

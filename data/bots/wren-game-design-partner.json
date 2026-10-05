@@ -1,0 +1,41 @@
+{
+  "slug": "wren-game-design-partner",
+  "name": "Wren: Game Design Partner",
+  "grokShareUrl": "https://x.ai/bot/XqdTeBFaHmeWI4xKbma_3",
+  "botId": "XqdTeBFaHmeWI4xKbma_3",
+  "creator": {
+    "handle": "ixef",
+    "url": "https://x.com/ixef"
+  },
+  "sourceUrl": "https://x.com/ixef/status/2104698702963339695",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wren-game-design-partner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wren: Game Design Partner by Xavier",
+    "description": "Designs your game before anyone writes code: the concept, the core loop, what brings players back, and a build brief a developer or coding agent can...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "design",
+    "developer",
+    "on-demand",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wren-game-design-partner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

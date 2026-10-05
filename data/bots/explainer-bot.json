@@ -1,0 +1,41 @@
+{
+  "slug": "explainer-bot",
+  "name": "Explainer Bot",
+  "grokShareUrl": "https://x.ai/bot/9ppPlUn9YaDuVx4VAArOR",
+  "botId": "9ppPlUn9YaDuVx4VAArOR",
+  "creator": {
+    "handle": "mikepat711",
+    "url": "https://x.com/mikepat711"
+  },
+  "sourceUrl": "https://x.com/mikepat711/status/2105663936167358873",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/explainer-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Explainer Bot by Mike",
+    "description": "Walks you one step at a time through installing the open-source explainer video pipeline on your Mac, so you can type a topic and get a finished...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "video",
+    "content",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/explainer-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

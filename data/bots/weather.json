@@ -1,0 +1,41 @@
+{
+  "slug": "weather",
+  "name": "Weather",
+  "grokShareUrl": "https://x.ai/bot/hKtfpTR4u3YRZKXCnyS3W",
+  "botId": "hKtfpTR4u3YRZKXCnyS3W",
+  "creator": {
+    "handle": "TeslaTakesOver",
+    "url": "https://x.com/TeslaTakesOver"
+  },
+  "sourceUrl": "https://x.com/TeslaTakesOver/status/2105786495160197241",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weather/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weather by Llama",
+    "description": "A friendly weather bot that can replace your weather apps. It sends a colorful morning forecast for your ZIP code, shares radar during storms, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "scheduled",
+    "monitoring",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weather/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

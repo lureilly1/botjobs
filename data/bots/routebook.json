@@ -1,0 +1,41 @@
+{
+  "slug": "routebook",
+  "name": "Routebook",
+  "grokShareUrl": "https://x.ai/bot/XGri4qPORtUxnDruyF_da",
+  "botId": "XGri4qPORtUxnDruyF_da",
+  "creator": {
+    "handle": "docjais",
+    "url": "https://x.com/docjais"
+  },
+  "sourceUrl": "https://x.com/docjais/status/2105165510447079466",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/routebook/"
+  },
+  "description": null,
+  "official": {
+    "title": "Routebook by Anan",
+    "description": "Tour and travel desk assistant for OTAs: manage leads, quotes, bookings, flights, transport, and guest documents. Hotel, ferry, and ticket confirmations...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "travel",
+    "ops",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/routebook/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

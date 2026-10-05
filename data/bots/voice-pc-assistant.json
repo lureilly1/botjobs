@@ -1,0 +1,42 @@
+{
+  "slug": "voice-pc-assistant",
+  "name": "音声操作PCアシスタント（スマホで挙動確認可能）",
+  "grokShareUrl": "https://x.ai/bot/hjYT5yVxhY5d548aSa1UL",
+  "botId": "hjYT5yVxhY5d548aSa1UL",
+  "creator": {
+    "handle": "XARX_ZERO",
+    "url": "https://x.com/XARX_ZERO"
+  },
+  "sourceUrl": "https://x.com/XARX_ZERO/status/2106352532318822741",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/voice-pc-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "音声操作PCアシスタント（スマホで挙動確認可能） by Mishiro",
+    "description": "ベッドにいながら声でPCを操作できるアシスタントです。決まった操作はPCがその場で実行し、それ以外の頼みごとはGrok Botが引き受けて、結果をスマホに知らせます。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "automation",
+    "developer",
+    "personal",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/voice-pc-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

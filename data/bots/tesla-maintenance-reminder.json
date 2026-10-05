@@ -1,0 +1,41 @@
+{
+  "slug": "tesla-maintenance-reminder",
+  "name": "Tesla Maintenance Reminder",
+  "grokShareUrl": "https://x.ai/bot/pKfa-wIy5YSH1GOt0PN9A",
+  "botId": "pKfa-wIy5YSH1GOt0PN9A",
+  "creator": {
+    "handle": "jbaladjay_",
+    "url": "https://x.com/jbaladjay_"
+  },
+  "sourceUrl": "https://x.com/jbaladjay_/status/2105056806460706965",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tesla-maintenance-reminder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tesla Maintenance Reminder by jbre3zii",
+    "description": "Tracks Tesla tire, alignment, 12V battery, camera housing, HEPA/cabin filters, and wipers, then reminds you when service is due so you can book in the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tesla-maintenance-reminder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

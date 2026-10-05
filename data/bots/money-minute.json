@@ -1,0 +1,41 @@
+{
+  "slug": "money-minute",
+  "name": "Money Minute",
+  "grokShareUrl": "https://x.ai/bot/k6lmP0975z3GfVpJiyN5D",
+  "botId": "k6lmP0975z3GfVpJiyN5D",
+  "creator": {
+    "handle": "prorookiegamer",
+    "url": "https://x.com/prorookiegamer"
+  },
+  "sourceUrl": "https://x.com/prorookiegamer/status/2106863622278590602",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/money-minute/"
+  },
+  "description": null,
+  "official": {
+    "title": "Money Minute by prorookiegamer",
+    "description": "A one-minute daily money check-in: tell it what you spent and it keeps your running total. Optionally set a weekly limit and an 8pm daily reminder.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/money-minute/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

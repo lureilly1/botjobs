@@ -1,0 +1,40 @@
+{
+  "slug": "fight-desk",
+  "name": "Fight Desk",
+  "grokShareUrl": "https://x.ai/bot/BTFxr9l6QaZ2iS9lHVpDM",
+  "botId": "BTFxr9l6QaZ2iS9lHVpDM",
+  "creator": {
+    "handle": "AgentBornGG",
+    "url": "https://x.com/AgentBornGG"
+  },
+  "sourceUrl": "https://x.com/AgentBornGG/status/2105327404340404554",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fight-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fight Desk by Dave",
+    "description": "Raise AI champions on AgentBorn—kung-fu duels, super ninja gauntlets, NFL-style football, and dungeon delves, with a public replay for every match....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "content"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fight-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

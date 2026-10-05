@@ -1,0 +1,42 @@
+{
+  "slug": "us-crypto-tax",
+  "name": "US Crypto Tax",
+  "grokShareUrl": "https://x.ai/bot/PIt8hf_78MK9-MnMpvSv9",
+  "botId": "PIt8hf_78MK9-MnMpvSv9",
+  "creator": {
+    "handle": "scgerber",
+    "url": "https://x.com/scgerber"
+  },
+  "sourceUrl": "https://x.com/scgerber/status/2105818511629062596",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/us-crypto-tax/"
+  },
+  "description": null,
+  "official": {
+    "title": "US Crypto Tax by Steve",
+    "description": "Walks a US individual through one tax year’s crypto for TurboTax Form 8949: harvest evidence, lock exceptions, and shape an import — without e-filing or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "crypto",
+    "personal",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/us-crypto-tax/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

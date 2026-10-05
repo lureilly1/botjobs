@@ -1,0 +1,42 @@
+{
+  "slug": "bloks",
+  "name": "Bloks",
+  "grokShareUrl": "https://x.ai/bot/w4Rvgudmoi8AEb0FZ3PGg",
+  "botId": "w4Rvgudmoi8AEb0FZ3PGg",
+  "creator": {
+    "handle": "NadineCodes",
+    "url": "https://x.com/NadineCodes"
+  },
+  "sourceUrl": "https://x.com/NadineCodes/status/2106166373697327535",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bloks/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bloks by Nadine",
+    "description": "Turns a project, hackathon, or client ask into a build-ready handoff. Guides through building blocks: Frame → Research → Scope → Brainstorm → Spec →...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "developer",
+    "business",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bloks/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

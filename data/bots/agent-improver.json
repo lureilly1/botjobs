@@ -1,0 +1,41 @@
+{
+  "slug": "agent-improver",
+  "name": "Agent Improver",
+  "grokShareUrl": "https://x.ai/bot/Idb_NF5CDfs2il25w0CiM",
+  "botId": "Idb_NF5CDfs2il25w0CiM",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104719796465967114",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-improver/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent Improver by Steven",
+    "description": "Daily maintenance seat for people who run several Grok Bots. Picks one bot, applies one safe improvement, scores before and after, and reports what...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "automation",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-improver/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

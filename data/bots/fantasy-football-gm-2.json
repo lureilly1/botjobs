@@ -1,0 +1,41 @@
+{
+  "slug": "fantasy-football-gm-2",
+  "name": "Fantasy Football GM",
+  "grokShareUrl": "https://x.ai/bot/nALI6ijv-K3XNVx45Y2tW",
+  "botId": "nALI6ijv-K3XNVx45Y2tW",
+  "creator": {
+    "handle": "ReefPointCap",
+    "url": "https://x.com/ReefPointCap"
+  },
+  "sourceUrl": "https://x.com/ReefPointCap/status/2106773147295093084",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-gm-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Football GM by Christopher",
+    "description": "By Chris Miller. Fantasy football coach and GM for Yahoo, ESPN, and Sleeper. Runs the weekly start/sit and waiver machine, and files a move only when...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football-gm-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

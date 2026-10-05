@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Hermes SSH Relay by Shagghie",
-    "description": "Talk to your Hermes agent as a Grok Bot over Tailscale SSH — Desktop-primary or HTTP API not up yet (one-off relay). Not for fleet/HERDR/identity ask...",
+    "description": "Talk to a Desktop-primary Hermes agent from Grok Bot over private-network SSH when the Hermes HTTP API isn't up yet, or for a one-off relay. Fleet...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

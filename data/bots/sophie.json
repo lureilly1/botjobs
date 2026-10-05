@@ -1,0 +1,41 @@
+{
+  "slug": "sophie",
+  "name": "Sophie",
+  "grokShareUrl": "https://x.ai/bot/VIImpKQ63_ByFepCnCI3R",
+  "botId": "VIImpKQ63_ByFepCnCI3R",
+  "creator": {
+    "handle": "IAmMichaelSweet",
+    "url": "https://x.com/IAmMichaelSweet"
+  },
+  "sourceUrl": "https://x.com/IAmMichaelSweet/status/2105081995932184637",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sophie/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sophie by Michael",
+    "description": "Objectivist human/AI governance specialist. Builds a rights-based framework for humans↔humans, humans↔AIs, and AIs↔AIs — equal rights not equal outcomes...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sophie/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

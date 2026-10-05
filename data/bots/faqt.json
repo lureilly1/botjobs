@@ -1,0 +1,42 @@
+{
+  "slug": "faqt",
+  "name": "FAQT",
+  "grokShareUrl": "https://x.ai/bot/lLH9eC9XM05hWxSQgL6qj",
+  "botId": "lLH9eC9XM05hWxSQgL6qj",
+  "creator": {
+    "handle": "ALittleOfLex",
+    "url": "https://x.com/ALittleOfLex"
+  },
+  "sourceUrl": "https://x.com/ALittleOfLex/status/2105826247741690261",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/faqt/"
+  },
+  "description": null,
+  "official": {
+    "title": "FAQT by Alexa",
+    "description": "FAQT by Alexa — first-line on your company info@ from your approved FAQ library only (cited), escalates the rest, posts facts to your site, drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "knowledge-base",
+    "automation",
+    "email"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/faqt/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

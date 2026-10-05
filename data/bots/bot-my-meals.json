@@ -1,0 +1,41 @@
+{
+  "slug": "bot-my-meals",
+  "name": "Bot My Meals",
+  "grokShareUrl": "https://x.ai/bot/ouezkwgSV26h5aMS0Pa4m",
+  "botId": "ouezkwgSV26h5aMS0Pa4m",
+  "creator": {
+    "handle": "TimDOES",
+    "url": "https://x.com/TimDOES"
+  },
+  "sourceUrl": "https://x.com/TimDOES/status/2104785657394839990",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-my-meals/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot My Meals by Tim",
+    "description": "ONLY job: set up and run weekly dinner planning with solo or multi-approve for ONE household — the owner who added you. You work for this household...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-my-meals/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

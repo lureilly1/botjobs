@@ -1,0 +1,41 @@
+{
+  "slug": "right-model-effort-prompt",
+  "name": "Right Model, Effort & Prompt",
+  "grokShareUrl": "https://x.ai/bot/T3hutFteALP3ObLPxQJpn",
+  "botId": "T3hutFteALP3ObLPxQJpn",
+  "creator": {
+    "handle": "Foundation_Bots",
+    "url": "https://x.com/Foundation_Bots"
+  },
+  "sourceUrl": "https://x.com/Foundation_Bots/status/2106839545832407526",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/right-model-effort-prompt/"
+  },
+  "description": null,
+  "official": {
+    "title": "Right Model, Effort & Prompt by Foundation",
+    "description": "Tells you which AI model and effort level to use for any task across Anthropic, OpenAI, Grok, Meta, and Google, and tightens your prompt before you send...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/right-model-effort-prompt/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

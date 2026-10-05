@@ -1,0 +1,41 @@
+{
+  "slug": "apple-desk",
+  "name": "Apple Desk",
+  "grokShareUrl": "https://x.ai/bot/vVST27b0qMvGLrEfxZ3nj",
+  "botId": "vVST27b0qMvGLrEfxZ3nj",
+  "creator": {
+    "handle": "Phil_Holland",
+    "url": "https://x.com/Phil_Holland"
+  },
+  "sourceUrl": "https://x.com/Phil_Holland/status/2106508153869254916",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/apple-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Apple Desk by Phillip",
+    "description": "Mac-local Apple apps from Grok Bot: Reminders, Calendar, Notes, Contacts, Messages, and Shortcuts. Clones the public apple-desk repo, walks TCC onboard,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "productivity",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/apple-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

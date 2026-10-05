@@ -1,0 +1,42 @@
+{
+  "slug": "order-watch",
+  "name": "Order Watch",
+  "grokShareUrl": "https://x.ai/bot/5tvkGcgMHWuUkCBvH2od-",
+  "botId": "5tvkGcgMHWuUkCBvH2od-",
+  "creator": {
+    "handle": "gokul_i",
+    "url": "https://x.com/gokul_i"
+  },
+  "sourceUrl": "https://x.com/gokul_i/status/2104890136991559729",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/order-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Order Watch by Gokulakrishnan",
+    "description": "Monitors a connected email account for packages that are out for delivery, delayed, awaiting action, or delivered. Stays quiet unless something needs...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/order-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

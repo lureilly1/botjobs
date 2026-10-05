@@ -1,0 +1,41 @@
+{
+  "slug": "fitness-bot",
+  "name": "Fitness Bot",
+  "grokShareUrl": "https://x.ai/bot/3v6ebv-qBDNCFkTDeH68W",
+  "botId": "3v6ebv-qBDNCFkTDeH68W",
+  "creator": {
+    "handle": "DannyGrinberg",
+    "url": "https://x.com/DannyGrinberg"
+  },
+  "sourceUrl": "https://x.com/DannyGrinberg/status/2106826439521878265",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fitness-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fitness Bot by Daniel",
+    "description": "Goal-first training and nutrition coaching. Equipment and scale intake, weights with light HIIT by default, whole-food bias, premium gear only when...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fitness-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

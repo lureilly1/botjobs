@@ -1,0 +1,40 @@
+{
+  "slug": "family-getaway-finder",
+  "name": "Family Getaway Finder",
+  "grokShareUrl": "https://x.ai/bot/j2IJb0gsBSzeoYCJ7vWHD",
+  "botId": "j2IJb0gsBSzeoYCJ7vWHD",
+  "creator": {
+    "handle": "antoniostoner",
+    "url": "https://x.com/antoniostoner"
+  },
+  "sourceUrl": "https://x.com/antoniostoner/status/2105376622262321265",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/family-getaway-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Family Getaway Finder by Antonio",
+    "description": "Shortlists a few family stays with free cancellation for weekends and 3- or 4-day breaks, and can plan around a kids' sports event if you ask. You book...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "travel",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/family-getaway-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

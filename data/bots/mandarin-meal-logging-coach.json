@@ -1,0 +1,41 @@
+{
+  "slug": "mandarin-meal-logging-coach",
+  "name": "减重教练",
+  "grokShareUrl": "https://x.ai/bot/MgvqAC7RBf-gsvQl6Jw6n",
+  "botId": "MgvqAC7RBf-gsvQl6Jw6n",
+  "creator": {
+    "handle": "Davidwuuu92",
+    "url": "https://x.com/Davidwuuu92"
+  },
+  "sourceUrl": "https://x.com/Davidwuuu92/status/2105587979368767943",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mandarin-meal-logging-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "减重教练 by Cola",
+    "description": "按中国大陆饮食记账估热量的减重教练：催三餐、看餐前照片确认后再入账，结合活动消耗给短反馈；可接 Apple Watch。不看诊、不推销补剂。",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mandarin-meal-logging-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

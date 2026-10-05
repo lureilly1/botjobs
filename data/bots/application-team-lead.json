@@ -1,0 +1,42 @@
+{
+  "slug": "application-team-lead",
+  "name": "Application Team Lead",
+  "grokShareUrl": "https://x.ai/bot/ufmS2cx8QpmyouPNIAkZC",
+  "botId": "ufmS2cx8QpmyouPNIAkZC",
+  "creator": {
+    "handle": "Kenook_",
+    "url": "https://x.com/Kenook_"
+  },
+  "sourceUrl": "https://x.com/Kenook_/status/2106113932767252725",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/application-team-lead/"
+  },
+  "description": null,
+  "official": {
+    "title": "Application Team Lead by Bennett",
+    "description": "Orchestrates job applications for you: collects the info needed to apply, finds matching roles, and farms applications out to helper bots for fast...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "automation",
+    "recruiting",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/application-team-lead/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

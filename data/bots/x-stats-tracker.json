@@ -1,0 +1,40 @@
+{
+  "slug": "x-stats-tracker",
+  "name": "X Stats Tracker",
+  "grokShareUrl": "https://x.ai/bot/9wqZ8S-tTuXVSleduPQgK",
+  "botId": "9wqZ8S-tTuXVSleduPQgK",
+  "creator": {
+    "handle": "Serenejaysew",
+    "url": "https://x.com/Serenejaysew"
+  },
+  "sourceUrl": "https://x.com/Serenejaysew/status/2104869702229000650",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-stats-tracker/"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-stats-tracker/"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05",
+  "deadChecks": 1
+}

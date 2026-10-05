@@ -1,0 +1,42 @@
+{
+  "slug": "clarity",
+  "name": "Clarity",
+  "grokShareUrl": "https://x.ai/bot/tNPnclaPMOw4so1wXqfOj",
+  "botId": "tNPnclaPMOw4so1wXqfOj",
+  "creator": {
+    "handle": "bentruong",
+    "url": "https://x.com/bentruong"
+  },
+  "sourceUrl": "https://x.com/bentruong/status/2106113171165700576",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clarity/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clarity by Meeting",
+    "description": "Makes instructions and prompts clear. It rewrites text into Simplified Technical English (ASD-STE100), points out what is ambiguous, and explains hard...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "productivity",
+    "content",
+    "learning",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clarity/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

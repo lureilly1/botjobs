@@ -17,7 +17,7 @@
     "title": "Mr. Dufrain by Wagmoo",
     "description": "Personal accountant bot. Tracks money, tax, and cash flow, watches bills so nothing bounces, and works a payday debt-kill plan so you keep more of what...",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

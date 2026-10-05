@@ -17,7 +17,7 @@
     "title": "Korean Public API by Moon",
     "description": "한국 공개·공공 API를 서비스 아이디어에 맞춰 1~3개 골라 주는 봇입니다. 이유·인증·공식 링크·대안까지 짧게 정리합니다.",
     "resolves": true,
-    "fetchedAt": "2026-09-21"
+    "fetchedAt": "2026-10-05"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-21",
+  "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-09-28"
+  "lastSeenAt": "2026-10-05"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "make-it-click",
+  "name": "Make It Click",
+  "grokShareUrl": "https://x.ai/bot/_zzfxlEvWwRKyQVPLB14i",
+  "botId": "_zzfxlEvWwRKyQVPLB14i",
+  "creator": {
+    "handle": "lenabuyan",
+    "url": "https://x.com/lenabuyan"
+  },
+  "sourceUrl": "https://x.com/lenabuyan/status/2105186178454700254",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/make-it-click/"
+  },
+  "description": null,
+  "official": {
+    "title": "Make It Click by Lena",
+    "description": "Follow your curiosity. Learn anything in a way that clicks for you — by connecting new ideas to what you already know.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "student",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/make-it-click/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

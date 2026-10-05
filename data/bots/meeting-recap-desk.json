@@ -1,0 +1,41 @@
+{
+  "slug": "meeting-recap-desk",
+  "name": "Meeting Recap Desk",
+  "grokShareUrl": "https://x.ai/bot/pmHKMlkRfVnvDS5MfRTS8",
+  "botId": "pmHKMlkRfVnvDS5MfRTS8",
+  "creator": {
+    "handle": "Cypher0x9",
+    "url": "https://x.com/Cypher0x9"
+  },
+  "sourceUrl": "https://x.com/Cypher0x9/status/2105188299182866623",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meeting-recap-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "📝 Meeting Recap Desk ✦ ACTION-READY by Cypher",
+    "description": "📝 Turn meeting notes and transcripts into a clean recap with decisions, action items and owners, so follow-ups are clear after every call. Nothing is...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meetings",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meeting-recap-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

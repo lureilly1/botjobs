@@ -1,0 +1,41 @@
+{
+  "slug": "paycheck-reality-check",
+  "name": "Paycheck Reality Check",
+  "grokShareUrl": "https://x.ai/bot/wuUzQmWkCqaQeDQm_he85",
+  "botId": "wuUzQmWkCqaQeDQm_he85",
+  "creator": {
+    "handle": "AlexFCHF",
+    "url": "https://x.com/AlexFCHF"
+  },
+  "sourceUrl": "https://x.com/AlexFCHF/status/2104701612262601151",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/paycheck-reality-check/"
+  },
+  "description": null,
+  "official": {
+    "title": "Paycheck Reality Check by Alex",
+    "description": "Turns a pasted pay stub into line findings, a no-invented-rates worksheet, and a demand draft. You send everything yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/paycheck-reality-check/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

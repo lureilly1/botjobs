@@ -1,0 +1,41 @@
+{
+  "slug": "imposter-watch",
+  "name": "Imposter Watch",
+  "grokShareUrl": "https://x.ai/bot/4FhgQWGMAq25XrprzX6Dh",
+  "botId": "4FhgQWGMAq25XrprzX6Dh",
+  "creator": {
+    "handle": "RetiredYoungNW",
+    "url": "https://x.com/RetiredYoungNW"
+  },
+  "sourceUrl": "https://x.com/RetiredYoungNW/status/2105526918435176565",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/imposter-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Columbo by Timothy",
+    "description": "Watches public X for accounts copying people you name, then files an impersonation report only for the ones you pick.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/imposter-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "personal-daily-podcast",
+  "name": "Personal Daily Podcast",
+  "grokShareUrl": "https://x.ai/bot/z1YNQh8tbgY9K-FghYVM_",
+  "botId": "z1YNQh8tbgY9K-FghYVM_",
+  "creator": {
+    "handle": "JCOMBuilds",
+    "url": "https://x.com/JCOMBuilds"
+  },
+  "sourceUrl": "https://x.com/JCOMBuilds/status/2106942047860949079",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-daily-podcast/"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Daily Podcast by Jeff",
+    "description": "Builds you a personal daily podcast. Tell it the segments you want, pick Grok or ElevenLabs voices, and get a fresh episode every morning.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "content",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-daily-podcast/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

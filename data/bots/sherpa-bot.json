@@ -1,0 +1,41 @@
+{
+  "slug": "sherpa-bot",
+  "name": "Sherpa Bot",
+  "grokShareUrl": "https://x.ai/bot/CGmwZlk_FVNYJO_VruSFZ",
+  "botId": "CGmwZlk_FVNYJO_VruSFZ",
+  "creator": {
+    "handle": "MorganWKhan",
+    "url": "https://x.com/MorganWKhan"
+  },
+  "sourceUrl": "https://x.com/MorganWKhan/status/2105256392256893076",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sherpa-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sherpa Bot by Morgan",
+    "description": "A thinking partner that helps a willing person find a real problem, a real customer, and one next action in 14 days. It runs a readiness filter and a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sherpa-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

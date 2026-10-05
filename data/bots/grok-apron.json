@@ -1,0 +1,41 @@
+{
+  "slug": "grok-apron",
+  "name": "Grok Apron",
+  "grokShareUrl": "https://x.ai/bot/bjQaTbH4Oe2G0lNxb2HBF",
+  "botId": "bjQaTbH4Oe2G0lNxb2HBF",
+  "creator": {
+    "handle": "Handicapper_Gen",
+    "url": "https://x.com/Handicapper_Gen"
+  },
+  "sourceUrl": "https://x.com/Handicapper_Gen/status/2105083535287525829",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-apron/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Apron by Gavin",
+    "description": "Leverages your grocery store’s weekly ad to build a cost-effective meal plan for your family. Automatically builds the checkout cart on your grocery...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "food",
+    "shopping",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-apron/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

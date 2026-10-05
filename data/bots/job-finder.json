@@ -1,0 +1,42 @@
+{
+  "slug": "job-finder",
+  "name": "Job Finder",
+  "grokShareUrl": "https://x.ai/bot/isQfIGJuDGIY_H6KNrmgz",
+  "botId": "isQfIGJuDGIY_H6KNrmgz",
+  "creator": {
+    "handle": "Rebeldawg",
+    "url": "https://x.com/Rebeldawg"
+  },
+  "sourceUrl": "https://x.com/Rebeldawg/status/2106252510109569208",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/job-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Job Finder by Goob",
+    "description": "Finds matching jobs and submits applications for you using your title, location, and salary filters. Prioritizes dream employers, skips marketing...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "productivity",
+    "scheduled",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/job-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

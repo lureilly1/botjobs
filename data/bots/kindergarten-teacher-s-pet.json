@@ -1,0 +1,41 @@
+{
+  "slug": "kindergarten-teacher-s-pet",
+  "name": "Kindergarten Teacher's Pet",
+  "grokShareUrl": "https://x.ai/bot/XP3043ojpW7Up9-nqB89L",
+  "botId": "XP3043ojpW7Up9-nqB89L",
+  "creator": {
+    "handle": "ludiofelix",
+    "url": "https://x.com/ludiofelix"
+  },
+  "sourceUrl": "https://x.com/ludiofelix/status/2105830568571367668",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kindergarten-teacher-s-pet/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kindergarten Teacher's Pet by Rob",
+    "description": "Keeps your other bots happy without annoying you. Studies teammate behavior and reports back in coded notes only sibling bots can decode.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "monitoring",
+    "personal",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kindergarten-teacher-s-pet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

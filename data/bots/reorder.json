@@ -1,0 +1,41 @@
+{
+  "slug": "reorder",
+  "name": "Reorder",
+  "grokShareUrl": "https://x.ai/bot/BDvP1yXPqp5DtJlk94Kmj",
+  "botId": "BDvP1yXPqp5DtJlk94Kmj",
+  "creator": {
+    "handle": "RichGarrick",
+    "url": "https://x.com/RichGarrick"
+  },
+  "sourceUrl": "https://x.com/RichGarrick/status/2104700485567684743",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reorder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Reorder by Richard",
+    "description": "A low-stock and supplier-order draft desk for a small business. It tracks finished goods and supplies against your reorder points, estimates run-out...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reorder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "house-hunter",
+  "name": "House hunter",
+  "grokShareUrl": "https://x.ai/bot/B3TUmVHoJWH7ZNSddyR4u",
+  "botId": "B3TUmVHoJWH7ZNSddyR4u",
+  "creator": {
+    "handle": "Rebeldawg",
+    "url": "https://x.com/Rebeldawg"
+  },
+  "sourceUrl": "https://x.com/Rebeldawg/status/2106253594492088467",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/house-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "House hunter by Goob",
+    "description": "Finds for-sale homes that match your filters, watches for new listings on a weekday morning scan, and can model sell-to-buy net proceeds when you're...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "real-estate",
+    "research",
+    "scheduled",
+    "shopping"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/house-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "zephyr-sites",
+  "name": "Zephyr Sites",
+  "grokShareUrl": "https://x.ai/bot/O0hx4K5Vg8pciw4RSSlqK",
+  "botId": "O0hx4K5Vg8pciw4RSSlqK",
+  "creator": {
+    "handle": "ZephyrCloudIO",
+    "url": "https://x.com/ZephyrCloudIO"
+  },
+  "sourceUrl": "https://x.com/ZephyrCloudIO/status/2105818188965425308",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zephyr-sites/"
+  },
+  "description": null,
+  "official": {
+    "title": "Zephyr Sites by Zackary",
+    "description": "Build, publish, update, and roll back static websites with Zephyr Cloud. Connect your own account once, choose an organization when needed, and ask for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zephyr-sites/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

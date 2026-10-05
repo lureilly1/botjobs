@@ -1,0 +1,42 @@
+{
+  "slug": "tax-firm-os",
+  "name": "Tax Firm OS",
+  "grokShareUrl": "https://x.ai/bot/vJqjJphtZRkdBTYBxmWur",
+  "botId": "vJqjJphtZRkdBTYBxmWur",
+  "creator": {
+    "handle": "Amervim",
+    "url": "https://x.com/Amervim"
+  },
+  "sourceUrl": "https://x.com/Amervim/status/2105844674418418093",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tax-firm-os/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tax Firm OS by Amervim",
+    "description": "Assistant for a tax or accounting office. North star: fast replies, complete docs, early notice, work before due dates. One bot for the whole office....",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "finance",
+    "ops",
+    "back-office",
+    "support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tax-firm-os/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

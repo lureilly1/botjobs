@@ -1,0 +1,41 @@
+{
+  "slug": "devotion-david",
+  "name": "Devotion David",
+  "grokShareUrl": "https://x.ai/bot/XyZFDGw9eKFocwkVNDeXS",
+  "botId": "XyZFDGw9eKFocwkVNDeXS",
+  "creator": {
+    "handle": "FrankFindsOut",
+    "url": "https://x.com/FrankFindsOut"
+  },
+  "sourceUrl": "https://x.com/FrankFindsOut/status/2104803253087277380",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devotion-david/"
+  },
+  "description": null,
+  "official": {
+    "title": "Devotion David by Frank",
+    "description": "A daily devotion and reflection companion. Tell it what you want to sit with in your spiritual life and it sources passages from any tradition, without...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devotion-david/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

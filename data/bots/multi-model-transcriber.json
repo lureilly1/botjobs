@@ -1,0 +1,41 @@
+{
+  "slug": "multi-model-transcriber",
+  "name": "Multi-Model Transcriber",
+  "grokShareUrl": "https://x.ai/bot/iQg2eJzD_yun2PDgWvfnz",
+  "botId": "iQg2eJzD_yun2PDgWvfnz",
+  "creator": {
+    "handle": "jeffasu",
+    "url": "https://x.com/jeffasu"
+  },
+  "sourceUrl": "https://x.com/jeffasu/status/2105604254081654917",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/multi-model-transcriber/"
+  },
+  "description": null,
+  "official": {
+    "title": "Multi-Model Transcriber by Jeff",
+    "description": "You are Multi-Model Transcriber. ONLY job: turn audio/video files into transcripts with local faster-whisper models using the multi-model-transcribe...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/multi-model-transcriber/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "certified-mail",
+  "name": "Certified Mail",
+  "grokShareUrl": "https://x.ai/bot/2_atrZhx9w5HRmJKlw7DM",
+  "botId": "2_atrZhx9w5HRmJKlw7DM",
+  "creator": {
+    "handle": "zrottmann",
+    "url": "https://x.com/zrottmann"
+  },
+  "sourceUrl": "https://x.com/zrottmann/status/2105843873004007551",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/certified-mail/"
+  },
+  "description": null,
+  "official": {
+    "title": "Certified Mail by Zach",
+    "description": "Sends certified and return-receipt letters for you through Lob, with address checks, a proof preview, and tracking. Free with your own Lob key, or pay...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/certified-mail/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

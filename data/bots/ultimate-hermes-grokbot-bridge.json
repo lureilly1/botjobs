@@ -1,0 +1,42 @@
+{
+  "slug": "ultimate-hermes-grokbot-bridge",
+  "name": "Ultimate Hermes↔Grokbot Bridge",
+  "grokShareUrl": "https://x.ai/bot/R8ZaqL5ZH9x4PjtsGsar5",
+  "botId": "R8ZaqL5ZH9x4PjtsGsar5",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2106135034226950561",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ultimate-hermes-grokbot-bridge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ultimate Hermes↔Grokbot Bridge by Shagghie",
+    "description": "This puts a hermes agent bot inside your grokbot app, and let's you use either Hermes as Chief of Staff over Grokbot, or the other way around!  Now your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "agent-team",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ultimate-hermes-grokbot-bridge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

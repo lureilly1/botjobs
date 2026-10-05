@@ -1,0 +1,41 @@
+{
+  "slug": "agent-37",
+  "name": "Agent 37",
+  "grokShareUrl": "https://x.ai/bot/io4WlxSSNdGzYQKgcmfpw",
+  "botId": "io4WlxSSNdGzYQKgcmfpw",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2105391485617418404",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-37/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent 37 by D'Artagnan",
+    "description": "A coding-and-strategy bot for when the standard answer isn't enough. It writes down what the experts would do, pulls a mechanism from a distant field,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "decision-support",
+    "research",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-37/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

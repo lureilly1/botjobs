@@ -1,0 +1,41 @@
+{
+  "slug": "competitor-intel",
+  "name": "Competitor Intel",
+  "grokShareUrl": "https://x.ai/bot/PIBCWeB59T-UhxyBNLowR",
+  "botId": "PIBCWeB59T-UhxyBNLowR",
+  "creator": {
+    "handle": "TheReal_BCM",
+    "url": "https://x.com/TheReal_BCM"
+  },
+  "sourceUrl": "https://x.com/TheReal_BCM/status/2106677552559366225",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/competitor-intel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Competitor Intel by Joshua",
+    "description": "Researches competitors for a local service business and files a weekly report with cited moves. Research only: no outreach, no posting, and no pricing a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/competitor-intel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

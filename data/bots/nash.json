@@ -1,0 +1,40 @@
+{
+  "slug": "nash",
+  "name": "Nash",
+  "grokShareUrl": "https://x.ai/bot/96mwrkqcL-8lqFvBUtejM",
+  "botId": "96mwrkqcL-8lqFvBUtejM",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2104889749018464453",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nash/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nash by D'Artagnan",
+    "description": "Nash maps the game behind a high-stakes negotiation or deal — who's involved, what each side wants, how they'll likely respond — and gives you a clear...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nash/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

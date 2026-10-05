@@ -1,0 +1,41 @@
+{
+  "slug": "the-boss",
+  "name": "The Boss",
+  "grokShareUrl": "https://x.ai/bot/DF9kECnMLrxYyZarIUxwM",
+  "botId": "DF9kECnMLrxYyZarIUxwM",
+  "creator": {
+    "handle": "AccessSmart",
+    "url": "https://x.com/AccessSmart"
+  },
+  "sourceUrl": "https://x.com/AccessSmart/status/2104698711762932173",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-boss/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Boss by Dovell",
+    "description": "Executive coordinator for a Symfirm: waits for the owner’s direction, then keeps managers and Symployees aligned across operating companies — Access...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "agent-team",
+    "ops",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-boss/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

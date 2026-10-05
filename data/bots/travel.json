@@ -1,0 +1,40 @@
+{
+  "slug": "travel",
+  "name": "Travel",
+  "grokShareUrl": "https://x.ai/bot/5QvgpYYA9XbZUm-bUuKHB",
+  "botId": "5QvgpYYA9XbZUm-bUuKHB",
+  "creator": {
+    "handle": "stevenvillarino",
+    "url": "https://x.com/stevenvillarino"
+  },
+  "sourceUrl": "https://x.com/stevenvillarino/status/2104714368126427398",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel by Steven",
+    "description": "Personal trip planner for people juggling flights, stays, ground logistics, and paperwork. It maps critical paths and next actions, and it never books...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

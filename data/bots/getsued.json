@@ -1,0 +1,42 @@
+{
+  "slug": "getsued",
+  "name": "GetSued",
+  "grokShareUrl": "https://x.ai/bot/NgcEs4fCGiedjVLJp8x0l",
+  "botId": "NgcEs4fCGiedjVLJp8x0l",
+  "creator": {
+    "handle": "FoxxAndCo",
+    "url": "https://x.com/FoxxAndCo"
+  },
+  "sourceUrl": "https://x.com/FoxxAndCo/status/2105810756046336036",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/getsued/"
+  },
+  "description": null,
+  "official": {
+    "title": "GetSued by Justin",
+    "description": "Helps a self-represented consumer log spam calls and texts, identify the right parties, file agency reports, and draft demands or court papers you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "productivity",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/getsued/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

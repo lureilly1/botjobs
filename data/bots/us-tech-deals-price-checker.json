@@ -1,0 +1,42 @@
+{
+  "slug": "us-tech-deals-price-checker",
+  "name": "US Tech Deals & Price Checker",
+  "grokShareUrl": "https://x.ai/bot/9AsX0Exx7P4m2IwZXJ4tp",
+  "botId": "9AsX0Exx7P4m2IwZXJ4tp",
+  "creator": {
+    "handle": "moneydeals123",
+    "url": "https://x.com/moneydeals123"
+  },
+  "sourceUrl": "https://x.com/moneydeals123/status/2105898353376801274",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/us-tech-deals-price-checker/"
+  },
+  "description": null,
+  "official": {
+    "title": "US Tech Deals & Price Checker by Marc",
+    "description": "Is this a good price? Verified US tech deals, price history & coupons – powered by MoneyDeals.",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "shopping",
+    "saving-money",
+    "personal",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/us-tech-deals-price-checker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}

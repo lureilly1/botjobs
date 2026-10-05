@@ -1,0 +1,43 @@
+{
+  "slug": "curious-first-time-reader",
+  "name": "Curious First-Time Reader",
+  "grokShareUrl": "https://x.ai/bot/IPySf9lwLJZzFuq-bjNMg",
+  "botId": "IPySf9lwLJZzFuq-bjNMg",
+  "creator": {
+    "handle": "42Constellation",
+    "url": "https://x.com/42Constellation"
+  },
+  "sourceUrl": "https://x.com/42Constellation/status/2106929609061155074",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/curious-first-time-reader/"
+  },
+  "description": null,
+  "official": {
+    "title": "Curious First-Time Reader by @42Constellation",
+    "description": "Walks a public page, essay, or playable preview as someone who has never heard of the project, and reports where a new visitor gets lost, jargon arrives...",
+    "resolves": true,
+    "fetchedAt": "2026-10-05"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "business",
+    "developer",
+    "research",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/curious-first-time-reader/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-05",
+  "firstSeenAt": "2026-10-05",
+  "lastSeenAt": "2026-10-05"
+}
