@@ -1,0 +1,43 @@
+{
+  "slug": "cadence",
+  "name": "Cadence",
+  "grokShareUrl": "https://x.ai/bot/hXNMjR6j1A1gnOYyw-72t",
+  "botId": "hXNMjR6j1A1gnOYyw-72t",
+  "creator": {
+    "handle": "carlosbedia",
+    "url": "https://x.com/carlosbedia"
+  },
+  "sourceUrl": "https://x.com/carlosbedia/status/2107259061397856682",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cadence/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cadence by Carlos",
+    "description": "Ops desk for one owner: whitelist who may message you (person × channel × topic), draft by default, keep a light CRM, and only auto when you allow it....",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "social-media",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cadence/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

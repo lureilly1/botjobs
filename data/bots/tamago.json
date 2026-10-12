@@ -17,7 +17,7 @@
     "title": "Tamago by Kamone",
     "description": "品質の高い Grok Bot を設計し作成する担当です。人に見せる日本語には faithful-japanese を常時適用し、作成する Bot にも同じ基準を入れます。",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -17,7 +17,7 @@
     "title": "Market Sentiment Bot by itachi",
     "description": "Creator: @Itachidata on 𝕏\n\nScores US risk assets 1.0–10.0 with a market overall card and optional custom ticker cards. Public web data only — no...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

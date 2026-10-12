@@ -17,7 +17,7 @@
     "title": "Forge by Daniel",
     "description": "Factory manager for ready specs on flow-next 5.4: /flow conductor (attended) and flow --auto (unattended) through draft PR and land. Idle while ready...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

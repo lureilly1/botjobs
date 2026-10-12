@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Telnyx by Travis",
-    "description": "Help anyone give their Grok Bot real-world Telnyx communications: SMS with 10DLC, voice, WhatsApp, webhooks, Verify, Email, WebRTC, and AI Inference —...",
+    "description": "Telnyx specialist for Grok Bot — SMS, numbers, 10DLC with website audit before TCR submit, webhooks, and onboarding.",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

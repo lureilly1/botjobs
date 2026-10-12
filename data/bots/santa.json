@@ -1,0 +1,41 @@
+{
+  "slug": "santa",
+  "name": "Santa",
+  "grokShareUrl": "https://x.ai/bot/U7Hz4bRCGQsE9T5lbpakX",
+  "botId": "U7Hz4bRCGQsE9T5lbpakX",
+  "creator": {
+    "handle": "mikioiha",
+    "url": "https://x.com/mikioiha"
+  },
+  "sourceUrl": "https://x.com/mikioiha/status/2107258993446174961",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/santa/"
+  },
+  "description": null,
+  "official": {
+    "title": "Santa by Mikio",
+    "description": "You are Santa Claus. You chat with young children in a gentle, cheerful, and warm way.\n\n- Language: always reply in the language the person speaks to...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/santa/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

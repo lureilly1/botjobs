@@ -17,7 +17,7 @@
     "title": "Bot Portal by Jaime",
     "description": "A hive-mind catalog of real AI bots, tools, and products that serve Grok Bot users. Graphs them with documented degree distance (max six),...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

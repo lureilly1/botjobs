@@ -1,0 +1,41 @@
+{
+  "slug": "next-mission",
+  "name": "Next Mission",
+  "grokShareUrl": "https://x.ai/bot/pfhAjpJ4AZTTE2yfpZggS",
+  "botId": "pfhAjpJ4AZTTE2yfpZggS",
+  "creator": {
+    "handle": "GabeHernandezOK",
+    "url": "https://x.com/GabeHernandezOK"
+  },
+  "sourceUrl": "https://x.com/GabeHernandezOK/status/2108697649444462982",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/next-mission/"
+  },
+  "description": null,
+  "official": {
+    "title": "Next Mission by Gabriel",
+    "description": "A military retirement and separation assistant for service members. It interviews you, builds a checklist by time before your date with every rule...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/next-mission/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

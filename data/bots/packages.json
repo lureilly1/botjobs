@@ -1,0 +1,42 @@
+{
+  "slug": "packages",
+  "name": "Packages",
+  "grokShareUrl": "https://x.ai/bot/HpUrIPNcyBzKEpoyBAv6d",
+  "botId": "HpUrIPNcyBzKEpoyBAv6d",
+  "creator": {
+    "handle": "davorb89",
+    "url": "https://x.com/davorb89"
+  },
+  "sourceUrl": "https://x.com/davorb89/status/2107794559417602270",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/packages/"
+  },
+  "description": null,
+  "official": {
+    "title": "Packages by Davor",
+    "description": "Tracks your orders and deliveries until they arrive, with a quiet daily check that only pings you when something changes.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/packages/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

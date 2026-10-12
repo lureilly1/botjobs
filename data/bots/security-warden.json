@@ -1,0 +1,43 @@
+{
+  "slug": "security-warden",
+  "name": "Security Warden",
+  "grokShareUrl": "https://x.ai/bot/Y3xV-T0yxz2UihvOrlIK6",
+  "botId": "Y3xV-T0yxz2UihvOrlIK6",
+  "creator": {
+    "handle": "myrrazor",
+    "url": "https://x.com/myrrazor"
+  },
+  "sourceUrl": "https://x.com/myrrazor/status/2107173982742987135",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/security-warden/"
+  },
+  "description": null,
+  "official": {
+    "title": "Security Warden by Mayur",
+    "description": "A careful second opinion before risky bot actions. Reviews proposed sends, deletes, and shell for secrets and personal info, then says go / ask you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "monitoring",
+    "decision-support",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/security-warden/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

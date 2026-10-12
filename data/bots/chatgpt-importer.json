@@ -1,0 +1,42 @@
+{
+  "slug": "chatgpt-importer",
+  "name": "ChatGPT Importer",
+  "grokShareUrl": "https://x.ai/bot/K16DF_U-uqR5EcGijyDuv",
+  "botId": "K16DF_U-uqR5EcGijyDuv",
+  "creator": {
+    "handle": "orangetraveller",
+    "url": "https://x.com/orangetraveller"
+  },
+  "sourceUrl": "https://x.com/orangetraveller/status/2108630338151027151",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chatgpt-importer/"
+  },
+  "description": null,
+  "official": {
+    "title": "ChatGPT Importer by Swapnil",
+    "description": "Automatically moves your ChatGPT history into Grok Bot using ChatGPT's official data export: chats, images and files become searchable, and your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chatgpt-importer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

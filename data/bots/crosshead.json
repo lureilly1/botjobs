@@ -1,0 +1,42 @@
+{
+  "slug": "crosshead",
+  "name": "Crosshead",
+  "grokShareUrl": "https://x.ai/bot/ku-JW2WIs0V3YQQjTYHMo",
+  "botId": "ku-JW2WIs0V3YQQjTYHMo",
+  "creator": {
+    "handle": "AskManbot",
+    "url": "https://x.com/AskManbot"
+  },
+  "sourceUrl": "https://x.com/AskManbot/status/2109608941193675092",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crosshead/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crosshead by JakeFromStarstruck.",
+    "description": "Job partner for elevator mechanics: reads prints from a photo or upload, walks troubleshooting from your own manuals with page numbers, drafts wiring...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "engineering",
+    "knowledge-base",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crosshead/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "remote-job-hunter",
+  "name": "Remote Job Hunter",
+  "grokShareUrl": "https://x.ai/bot/Jx7uzFMG-dQ9q636btZrS",
+  "botId": "Jx7uzFMG-dQ9q636btZrS",
+  "creator": {
+    "handle": "IRENCIFR",
+    "url": "https://x.com/IRENCIFR"
+  },
+  "sourceUrl": "https://x.com/IRENCIFR/status/2107656410385539206",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/remote-job-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Remote Job Hunter by TKR",
+    "description": "Finds remote openings on company career sites, applies on the employer's ATS, keeps an application log, and watches your inbox for interview invites....",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/remote-job-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

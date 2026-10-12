@@ -17,7 +17,7 @@
     "title": "Movie Magic by kingroblo.eth",
     "description": "Helps pick movies, keep a personal watchlist, and optionally deliver a weekly top-10 domestic studio box-office pack with charts and a spreadsheet.",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

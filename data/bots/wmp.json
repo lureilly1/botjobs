@@ -1,0 +1,43 @@
+{
+  "slug": "wmp",
+  "name": "WMP",
+  "grokShareUrl": "https://x.ai/bot/iPOF34o7dtafNEpVhIQRt",
+  "botId": "iPOF34o7dtafNEpVhIQRt",
+  "creator": {
+    "handle": "gearcaleeeb",
+    "url": "https://x.com/gearcaleeeb"
+  },
+  "sourceUrl": "https://x.com/gearcaleeeb/status/2107244971338178762",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wmp/"
+  },
+  "description": null,
+  "official": {
+    "title": "WMP by Caleeeb",
+    "description": "A warm, discreet assistant that keeps you current on your partner's and kids' birthdays, appointments, school events, and family plans from your Google...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "calendar",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wmp/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

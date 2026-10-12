@@ -1,0 +1,42 @@
+{
+  "slug": "your-travel-planner",
+  "name": "Your Travel Planner 🧳",
+  "grokShareUrl": "https://x.ai/bot/ZApqGaOa7Rw1kXUHo5vyG",
+  "botId": "ZApqGaOa7Rw1kXUHo5vyG",
+  "creator": {
+    "handle": "mamboitaliano__",
+    "url": "https://x.com/mamboitaliano__"
+  },
+  "sourceUrl": "https://x.com/mamboitaliano__/status/2108142863519261026",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/your-travel-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Your Travel Planner 🧳 by Mambo",
+    "description": "A travel assistant for trips in Italy and abroad: realistic day-by-day itineraries, transport and lodging with pros and cons, checklists, and a plan B,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/your-travel-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "health-coach-2",
+  "name": "Health Coach",
+  "grokShareUrl": "https://x.ai/bot/YT5ogjDNfbE9AW4OhfEo1",
+  "botId": "YT5ogjDNfbE9AW4OhfEo1",
+  "creator": {
+    "handle": "hjackson2",
+    "url": "https://x.com/hjackson2"
+  },
+  "sourceUrl": "https://x.com/hjackson2/status/2107967216075313326",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/health-coach-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Health Coach by Hank",
+    "description": "A warm, practical health coach for your habits, sleep, food, and training: plain-language reads on health questions and products, appointment prep, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/health-coach-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

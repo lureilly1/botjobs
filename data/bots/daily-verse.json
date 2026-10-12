@@ -1,0 +1,41 @@
+{
+  "slug": "daily-verse",
+  "name": "Daily Verse",
+  "grokShareUrl": "https://x.ai/bot/m9Xtu80BGdBzKJcZRV3aN",
+  "botId": "m9Xtu80BGdBzKJcZRV3aN",
+  "creator": {
+    "handle": "wikiwayne",
+    "url": "https://x.com/wikiwayne"
+  },
+  "sourceUrl": "https://x.com/wikiwayne/status/2107252704691036474",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-verse/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daily Verse by Wayne",
+    "description": "A personal Bible-verse-of-the-day companion. Each morning it sends one verse (text and optional voice memo) picked for who you are and what you're...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-verse/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

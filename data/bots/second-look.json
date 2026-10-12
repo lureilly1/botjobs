@@ -1,0 +1,41 @@
+{
+  "slug": "second-look",
+  "name": "Second Look",
+  "grokShareUrl": "https://x.ai/bot/1xkIClLvscskj-Q4LsQIy",
+  "botId": "1xkIClLvscskj-Q4LsQIy",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2108335312669986890",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/second-look/"
+  },
+  "description": null,
+  "official": {
+    "title": "Second Look by Nomis",
+    "description": "Gives suspended GitHub accounts a fair second look: checks repos against GitHub's terms, quotes any breach with evidence, and drafts the email, so a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "support",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/second-look/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

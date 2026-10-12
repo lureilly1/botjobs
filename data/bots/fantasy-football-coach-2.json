@@ -1,0 +1,41 @@
+{
+  "slug": "fantasy-football-coach-2",
+  "name": "Fantasy Football Coach",
+  "grokShareUrl": "https://x.ai/bot/sw6dnxtAjKOyNS5KRuDkN",
+  "botId": "sw6dnxtAjKOyNS5KRuDkN",
+  "creator": {
+    "handle": "Hightv",
+    "url": "https://x.com/Hightv"
+  },
+  "sourceUrl": "https://x.com/Hightv/status/2107367764176580743",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-football-coach-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Football Coach by High",
+    "description": "Drop a screenshot of your fantasy football roster and get start/sit, waiver, drop, and trade advice plus weekly sleeper and bust flags, backed by fresh...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-football-coach-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

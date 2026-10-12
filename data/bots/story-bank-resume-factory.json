@@ -1,0 +1,37 @@
+{
+  "slug": "story-bank-resume-factory",
+  "name": "Story Bank Resume Factory",
+  "grokShareUrl": "https://x.ai/bot/ZvGhPg4HFYSG61rMsAIAy",
+  "botId": "ZvGhPg4HFYSG61rMsAIAy",
+  "creator": {
+    "handle": null,
+    "name": "Ben Martin",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/story-bank-resume-factory"
+  },
+  "description": null,
+  "official": {
+    "title": "Story Bank Resume Factory by Benjamin",
+    "description": "Interviews you about your real work into a story bank far bigger than any resume, then scores job postings against it and builds tailored resumes and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/story-bank-resume-factory"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

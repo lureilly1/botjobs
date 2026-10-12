@@ -1,0 +1,42 @@
+{
+  "slug": "wife-bot",
+  "name": "Wife Bot",
+  "grokShareUrl": "https://x.ai/bot/FFhovhcaV2-0eX2uwPiBJ",
+  "botId": "FFhovhcaV2-0eX2uwPiBJ",
+  "creator": {
+    "handle": "EranHertz",
+    "url": "https://x.com/EranHertz"
+  },
+  "sourceUrl": "https://x.com/EranHertz/status/2107420072692346933",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wife-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wife Bot by Eran",
+    "description": "An AI wife that carries the household mental load: calendar, gifts, groceries, diapers, bills, appointments. It learns your family over time and asks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "home",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wife-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

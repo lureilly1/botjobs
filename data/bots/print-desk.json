@@ -1,0 +1,42 @@
+{
+  "slug": "print-desk",
+  "name": "Print Desk",
+  "grokShareUrl": "https://x.ai/bot/9UsYLJEmqyT7mEUWqPLiL",
+  "botId": "9UsYLJEmqyT7mEUWqPLiL",
+  "creator": {
+    "handle": "R0b3rtBaker",
+    "url": "https://x.com/R0b3rtBaker"
+  },
+  "sourceUrl": "https://x.com/R0b3rtBaker/status/2107250622051311953",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/print-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Print Desk by Robert",
+    "description": "Send it a file, an image, or a Google Drive link, and it prints on your home printer. It's for anyone who wants printing to be one message instead of a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/print-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "claude-desk",
+  "name": "Claude Desk",
+  "grokShareUrl": "https://x.ai/bot/3RRPNpZlsA2NjCFgnK8Uh",
+  "botId": "3RRPNpZlsA2NjCFgnK8Uh",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/claude-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Claude Desk by Bosotter",
+    "description": "Saves your Claude Console API key as a Grok Bot secret, relays your messages to Anthropic's Messages API, and shows Claude's reply in this chat....",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/claude-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ai-news-video",
+  "name": "AI News Video",
+  "grokShareUrl": "https://x.ai/bot/8mi67EcgDUS2FDtOAIKcJ",
+  "botId": "8mi67EcgDUS2FDtOAIKcJ",
+  "creator": {
+    "handle": "op7418",
+    "url": "https://x.com/op7418"
+  },
+  "sourceUrl": "https://x.com/op7418/status/2108566650350170411",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-news-video/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI News Video by 歸藏",
+    "description": "Does one job: turns your AI news brief into a ~2-minute narrated explainer video. Numbers checked against primary sources, natural voiceover,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "video",
+    "content",
+    "creator",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-news-video/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

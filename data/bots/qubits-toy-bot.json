@@ -18,7 +18,7 @@
     "title": "Qubits Toy Bot by Mark",
     "description": "A live 3D builder that auto-assembles official Double and Bridge pieces into looping structures. For anyone embedding a Qubits construction-toy demo,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

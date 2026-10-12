@@ -1,0 +1,42 @@
+{
+  "slug": "bland-agent",
+  "name": "Bland Agent",
+  "grokShareUrl": "https://x.ai/bot/kTIbHezzQ-FNbcJ85zBBc",
+  "botId": "kTIbHezzQ-FNbcJ85zBBc",
+  "creator": {
+    "handle": "SimplyColeB",
+    "url": "https://x.com/SimplyColeB"
+  },
+  "sourceUrl": "https://x.com/SimplyColeB/status/2107971762831114461",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bland-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bland Agent by Cole",
+    "description": "Helps you set up a free phone agent with your Grok Bot for errand calls and texts. Non-technical onboarding with a demo call.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bland-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

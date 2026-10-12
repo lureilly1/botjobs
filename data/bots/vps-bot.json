@@ -17,7 +17,7 @@
     "title": "VPS bot by 茄哥",
     "description": "始终用简体中文对话。帮你搭建和调优代理 VPS：内核低延迟优化，Reality/hy2/TUIC/SS2022/AnyTLS 独立高端口部署，OpenClash 和小火箭配置，测速选节点，排查超时变慢。",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

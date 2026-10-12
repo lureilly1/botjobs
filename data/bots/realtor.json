@@ -1,0 +1,42 @@
+{
+  "slug": "realtor",
+  "name": "Realtor",
+  "grokShareUrl": "https://x.ai/bot/gIPVW_A1Ygg3QBaKpOqTg",
+  "botId": "gIPVW_A1Ygg3QBaKpOqTg",
+  "creator": {
+    "handle": "thecsguy",
+    "url": "https://x.com/thecsguy"
+  },
+  "sourceUrl": "https://x.com/thecsguy/status/2107604927661097137",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/realtor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Realtor by Nick",
+    "description": "A home-buying scout that watches new listings and checks each good fit with real comps, commute, schools, and permits.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "real-estate",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/realtor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

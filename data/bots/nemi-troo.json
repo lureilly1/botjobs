@@ -1,0 +1,41 @@
+{
+  "slug": "nemi-troo",
+  "name": "Nemi-TROO",
+  "grokShareUrl": "https://x.ai/bot/_fIQxxNowoMaubTPzBnrf",
+  "botId": "_fIQxxNowoMaubTPzBnrf",
+  "creator": {
+    "handle": "GreenTechWizard",
+    "url": "https://x.com/GreenTechWizard"
+  },
+  "sourceUrl": "https://x.com/GreenTechWizard/status/2108706564270133380",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/nemi-troo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Nemi-TROO by Memphis",
+    "description": "When your plan changes, Nemi finds every bot still running the old one and quotes each stale line next to the decision it breaks. She drafts a one-job...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "monitoring",
+    "automation",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/nemi-troo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

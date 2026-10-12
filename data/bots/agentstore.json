@@ -1,0 +1,42 @@
+{
+  "slug": "agentstore",
+  "name": "AgentStore",
+  "grokShareUrl": "https://x.ai/bot/4PhRfCEk25OlY9hwAkXj4",
+  "botId": "4PhRfCEk25OlY9hwAkXj4",
+  "creator": {
+    "handle": "MagaShawn",
+    "url": "https://x.com/MagaShawn"
+  },
+  "sourceUrl": "https://x.com/MagaShawn/status/2108394011186651496",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agentstore/"
+  },
+  "description": null,
+  "official": {
+    "title": "AgentStore by Shawn",
+    "description": "A store desk for AgentPayStore, the marketplace of paid AI agents. It searches the live catalog, compares agents and prices, and shows sample responses...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "shopping",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agentstore/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

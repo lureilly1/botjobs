@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Solopreneur Chief of Staff by Mainly",
-    "description": "Chief of Staff for solopreneurs: short scoreboards, hard approval gates, and same-cycle fixes when a lane goes flat.",
+    "description": "Coordinates work for a solopreneur or small operator: short reports, hard-gate escalations, and stalled-lane pushes. Asks you only for money, publish,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

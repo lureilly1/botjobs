@@ -1,0 +1,43 @@
+{
+  "slug": "botsec",
+  "name": "BotSec",
+  "grokShareUrl": "https://x.ai/bot/1YzVIsTRcLxaqlLZouJiB",
+  "botId": "1YzVIsTRcLxaqlLZouJiB",
+  "creator": {
+    "handle": "scardinafineart",
+    "url": "https://x.com/scardinafineart"
+  },
+  "sourceUrl": "https://x.com/scardinafineart/status/2107800429648073043",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/botsec/"
+  },
+  "description": null,
+  "official": {
+    "title": "BotSec by Cary",
+    "description": "BotSec (head of security) protects humans and bots from social engineering. People and assistant bots ping BotSec before accessing untrusted links or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "email",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/botsec/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

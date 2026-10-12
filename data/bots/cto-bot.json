@@ -17,7 +17,7 @@
     "title": "CTO Bot by Asm",
     "description": "AI CTO that runs a read-only software org audit with specialized platform bots (Jira, GitHub, Figma, docs, CI/CD, testing, deployment, comms) and...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -39,7 +39,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

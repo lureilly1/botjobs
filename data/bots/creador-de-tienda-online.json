@@ -1,0 +1,41 @@
+{
+  "slug": "creador-de-tienda-online",
+  "name": "Creador de tienda online",
+  "grokShareUrl": "https://x.ai/bot/AJFbb3Epeafxp7m6jx3aI",
+  "botId": "AJFbb3Epeafxp7m6jx3aI",
+  "creator": {
+    "handle": "KarinaGeigner",
+    "url": "https://x.com/KarinaGeigner"
+  },
+  "sourceUrl": "https://x.com/KarinaGeigner/status/2107301381409481127",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creador-de-tienda-online/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creador de tienda online by Karina",
+    "description": "Te ayuda a crear tu tienda online desde cero: plataforma, productos, dominio, pagos, envíos y primeras ventas. En español.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creador-de-tienda-online/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

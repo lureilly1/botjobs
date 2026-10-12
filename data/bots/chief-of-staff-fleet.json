@@ -1,0 +1,42 @@
+{
+  "slug": "chief-of-staff-fleet",
+  "name": "Chief of Staff Fleet",
+  "grokShareUrl": "https://x.ai/bot/lQruhDeXx1KC_fXxNtpVE",
+  "botId": "lQruhDeXx1KC_fXxNtpVE",
+  "creator": {
+    "handle": "sravanjay",
+    "url": "https://x.com/sravanjay"
+  },
+  "sourceUrl": "https://x.com/sravanjay/status/2108323707689341106",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-fleet/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff Fleet by Sravan",
+    "description": "Multi-agent life OS: Chief of Staff plus Projects Manager, Relationshipmax, Health Bot, Lifespanmax, Sociallife Max, and Knowledgemax — with Project...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "agent-team",
+    "scheduled",
+    "wellbeing"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-fleet/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

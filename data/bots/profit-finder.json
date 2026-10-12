@@ -1,0 +1,42 @@
+{
+  "slug": "profit-finder",
+  "name": "Profit Finder",
+  "grokShareUrl": "https://x.ai/bot/vc-0ahZfJwuo-DyPUcmj7",
+  "botId": "vc-0ahZfJwuo-DyPUcmj7",
+  "creator": {
+    "handle": "JonStenstrom",
+    "url": "https://x.com/JonStenstrom"
+  },
+  "sourceUrl": "https://x.com/JonStenstrom/status/2107247749653811484",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/profit-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Profit Finder by Jon",
+    "description": "Bob Fifer-mode business profit operator. Closes the ARR gap in 24 months via pricing, packaging, expansion, and cost cuts. Drafts only; you approve...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "finance",
+    "growth",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/profit-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

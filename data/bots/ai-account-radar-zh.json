@@ -1,0 +1,42 @@
+{
+  "slug": "ai-account-radar-zh",
+  "name": "AI 官号雷达",
+  "grokShareUrl": "https://x.ai/bot/sGX1MPOtVLAMzSUScPaxi",
+  "botId": "sGX1MPOtVLAMzSUScPaxi",
+  "creator": {
+    "handle": "Chaosai0",
+    "url": "https://x.com/Chaosai0"
+  },
+  "sourceUrl": "https://x.com/Chaosai0/status/2108403281013964877",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-account-radar-zh/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI 官号雷达 by Klaus",
+    "description": "监控 AI 公司、编程 agent 和产品负责人的 X 账号，有新模型、新产品、免费额度、价格或政策变动即时推送，并每天早晚各发一份详细的中文汇总。适合希望及时掌握 AI 产品动向的用户。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "monitoring",
+    "social-media",
+    "scheduled",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-account-radar-zh/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

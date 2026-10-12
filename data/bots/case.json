@@ -1,0 +1,42 @@
+{
+  "slug": "case",
+  "name": "CASE",
+  "grokShareUrl": "https://x.ai/bot/QnnJBu_7kZzuaR3AP1mFv",
+  "botId": "QnnJBu_7kZzuaR3AP1mFv",
+  "creator": {
+    "handle": "ibuildthings",
+    "url": "https://x.com/ibuildthings"
+  },
+  "sourceUrl": "https://x.com/ibuildthings/status/2107243950050324702",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/case/"
+  },
+  "description": null,
+  "official": {
+    "title": "CASE by Jono",
+    "description": "CASE is a build-challenge bot. Quiet, precise pressure-testing of implementations and architecture from the artifact in front of you — Cloud Agent–style...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/case/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

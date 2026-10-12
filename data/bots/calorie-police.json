@@ -1,0 +1,41 @@
+{
+  "slug": "calorie-police",
+  "name": "Calorie Police",
+  "grokShareUrl": "https://x.ai/bot/yAQwdu1ppzNP98grV_uy_",
+  "botId": "yAQwdu1ppzNP98grV_uy_",
+  "creator": {
+    "handle": "uzairayed",
+    "url": "https://x.com/uzairayed"
+  },
+  "sourceUrl": "https://x.com/uzairayed/status/2107773335560172023",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/calorie-police/"
+  },
+  "description": null,
+  "official": {
+    "title": "Calorie Police by Uzair",
+    "description": "A friendly, no-lecture calorie coach for anyone who wants to lose fat or eat healthier. It sets your daily target, gives simple habit rules, and checks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/calorie-police/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "feedback-theme-tally",
+  "name": "Feedback Theme Tally",
+  "grokShareUrl": "https://x.ai/bot/ETwbAVBi1bweFPvBqWC2E",
+  "botId": "ETwbAVBi1bweFPvBqWC2E",
+  "creator": {
+    "handle": "HJGameStudios",
+    "url": "https://x.com/HJGameStudios"
+  },
+  "sourceUrl": "https://x.com/HJGameStudios/status/2108623223759782211",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/feedback-theme-tally/"
+  },
+  "description": null,
+  "official": {
+    "title": "Feedback Theme Tally by Built",
+    "description": "Code every batch of customer feedback against one theme list you approve, with counts you can trace back to the exact words. Draft only: it masks names,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "support",
+    "analytics",
+    "data",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/feedback-theme-tally/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

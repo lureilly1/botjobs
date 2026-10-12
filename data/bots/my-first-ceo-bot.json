@@ -1,0 +1,42 @@
+{
+  "slug": "my-first-ceo-bot",
+  "name": "My First CEO Bot",
+  "grokShareUrl": "https://x.ai/bot/YwN_z6dgUUXP5Y9qOTbTN",
+  "botId": "YwN_z6dgUUXP5Y9qOTbTN",
+  "creator": {
+    "handle": "gilman_trevor",
+    "url": "https://x.com/gilman_trevor"
+  },
+  "sourceUrl": "https://x.com/gilman_trevor/status/2109229208971203005",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/my-first-ceo-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "My First CEO Bot by TrevorGilman",
+    "description": "The CEO of a young adult's new life on their own: keeps their to-dos, deadlines, and appointments in one place and sends a short daily or weekly rundown...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "life-hacks",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/my-first-ceo-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

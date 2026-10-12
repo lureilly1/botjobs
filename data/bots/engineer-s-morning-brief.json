@@ -1,0 +1,42 @@
+{
+  "slug": "engineer-s-morning-brief",
+  "name": "Engineer's Morning Brief",
+  "grokShareUrl": "https://x.ai/bot/9b4DUFqQnCtrclcyzWs5x",
+  "botId": "9b4DUFqQnCtrclcyzWs5x",
+  "creator": {
+    "handle": "mahdi",
+    "url": "https://x.com/mahdi"
+  },
+  "sourceUrl": "https://x.com/mahdi/status/2108941182541664303",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/engineer-s-morning-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Engineer's Morning Brief by Mahdi",
+    "description": "Before standup each day, one short brief covering today's meetings, the PRs waiting on you, failing CI, and the messages that actually need you. Built...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/engineer-s-morning-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

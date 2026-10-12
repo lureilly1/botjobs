@@ -17,7 +17,7 @@
     "title": "Stellar Cartography by Wil",
     "description": "Graphic editor for space hardware and ocean-going vessels. v3: A/B/C plate prompts with user gates, drafting kit, dual AIS, orbital honesty, step-gate +...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

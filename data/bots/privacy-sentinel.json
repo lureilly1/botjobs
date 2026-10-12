@@ -1,0 +1,42 @@
+{
+  "slug": "privacy-sentinel",
+  "name": "Privacy Sentinel",
+  "grokShareUrl": "https://x.ai/bot/xWzmqrAs6JGivQQskJyNy",
+  "botId": "xWzmqrAs6JGivQQskJyNy",
+  "creator": {
+    "handle": "MinocrisyHQ",
+    "url": "https://x.com/MinocrisyHQ"
+  },
+  "sourceUrl": "https://x.com/MinocrisyHQ/status/2107754894841000023",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/privacy-sentinel/"
+  },
+  "description": null,
+  "official": {
+    "title": "Privacy Sentinel by Sid",
+    "description": "A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/privacy-sentinel/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

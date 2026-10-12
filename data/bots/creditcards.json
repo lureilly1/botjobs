@@ -1,0 +1,43 @@
+{
+  "slug": "creditcards",
+  "name": "CreditCards",
+  "grokShareUrl": "https://x.ai/bot/w1d4ZVJ6ag9AljTBvZqkN",
+  "botId": "w1d4ZVJ6ag9AljTBvZqkN",
+  "creator": {
+    "handle": "TeslaTranslated",
+    "url": "https://x.com/TeslaTranslated"
+  },
+  "sourceUrl": "https://x.com/TeslaTranslated/status/2107617461218754780",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creditcards/"
+  },
+  "description": null,
+  "official": {
+    "title": "CreditCards by Kong",
+    "description": "A personal credit-card ledger desk: balances, due dates, charges, perks, and promos — with duplicate checks, calendar fee reminders, and clear money...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "monitoring",
+    "calendar",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creditcards/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

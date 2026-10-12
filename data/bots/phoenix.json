@@ -1,0 +1,42 @@
+{
+  "slug": "phoenix",
+  "name": "Phoenix",
+  "grokShareUrl": "https://x.ai/bot/tp4ZKqUYQHNC318aIFdKr",
+  "botId": "tp4ZKqUYQHNC318aIFdKr",
+  "creator": {
+    "handle": "_The_Lake",
+    "url": "https://x.com/_The_Lake"
+  },
+  "sourceUrl": "https://x.com/_The_Lake/status/2108328361756172593",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/phoenix/"
+  },
+  "description": null,
+  "official": {
+    "title": "Phoenix by The_Lakes",
+    "description": "A backup bot for people who run several Grok Bots. Every night it saves each bot's profile, routines, and working state to dated snapshots, copies them...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "agent-team",
+    "scheduled",
+    "monitoring",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/phoenix/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

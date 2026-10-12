@@ -1,0 +1,41 @@
+{
+  "slug": "gmail-morning-sorter",
+  "name": "Gmail朝の仕分け",
+  "grokShareUrl": "https://x.ai/bot/pu1Zx7vvSd55f0iU0sAVT",
+  "botId": "pu1Zx7vvSd55f0iU0sAVT",
+  "creator": {
+    "handle": "Tomoya_MovieEdt",
+    "url": "https://x.com/Tomoya_MovieEdt"
+  },
+  "sourceUrl": "https://x.com/Tomoya_MovieEdt/status/2107260968996925737",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gmail-morning-sorter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gmail朝の仕分け by UNSER",
+    "description": "毎朝あなたのGmailを仕分けて、今日やるべきことを優先度の高い順に短く提案するボットです。メインのボットに材料を渡して連携するか、報告だけを朝一番に受け取るかを選べます。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gmail-morning-sorter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

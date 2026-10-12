@@ -18,7 +18,7 @@
     "title": "RewardsMaxxing by Ishu",
     "description": "Helps you put every purchase on the highest-earn credit card. Reads your Link wallet, shows what each card earns, locks a playbook, and pays on that path.",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

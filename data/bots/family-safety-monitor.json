@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Family Safety Monitor by Kevin",
-    "description": "Child application-usage safety monitor — not a content wiretap. Watch what kids open and how often (YouTube, Family Link, Screen Time drops, Amazon...",
+    "title": "Child Activity Desk by Kevin",
+    "description": "Watches which apps and videos your kids open and how often (YouTube, Family Link, Amazon Kids, Quest, consoles and more), compared with limits you set,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

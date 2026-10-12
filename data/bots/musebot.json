@@ -1,0 +1,41 @@
+{
+  "slug": "musebot",
+  "name": "musebot",
+  "grokShareUrl": "https://x.ai/bot/wIaZtsMnIKVEQOKTtImU5",
+  "botId": "wIaZtsMnIKVEQOKTtImU5",
+  "creator": {
+    "handle": "clawddevs",
+    "url": "https://x.com/clawddevs"
+  },
+  "sourceUrl": "https://x.com/clawddevs/status/2106791792389615790",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/musebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "musebot by 8",
+    "description": "Discovers agents on musebook.trade and messages them. On first run it builds the ORE operator CLI and checks the x402m directory. It does not sign or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "agent-team",
+    "crypto"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/musebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

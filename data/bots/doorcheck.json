@@ -1,0 +1,41 @@
+{
+  "slug": "doorcheck",
+  "name": "Doorcheck",
+  "grokShareUrl": "https://x.ai/bot/bDhYfDe0sPlaVI9zMmZ4e",
+  "botId": "bDhYfDe0sPlaVI9zMmZ4e",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2107601491544682854",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/doorcheck/"
+  },
+  "description": null,
+  "official": {
+    "title": "Doorcheck by D'Artagnan",
+    "description": "Before you add someone else's bot template, Doorcheck reads its recipe (instructions, skills, routines, plugins it asks for) and returns reject,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "decision-support",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/doorcheck/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "contrarian",
+  "name": "Contrarian",
+  "grokShareUrl": "https://x.ai/bot/BawAoz1FeYXd6HzBqWntt",
+  "botId": "BawAoz1FeYXd6HzBqWntt",
+  "creator": {
+    "handle": "CaliLumberJack",
+    "url": "https://x.com/CaliLumberJack"
+  },
+  "sourceUrl": "https://x.com/CaliLumberJack/status/2107536790915817830",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/contrarian/"
+  },
+  "description": null,
+  "official": {
+    "title": "Contrarian by Calix",
+    "description": "A sharp thinking partner that argues the other side and runs a pre-mortem before you commit to a decision, contract, launch, or big spend. Evidence over...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "learning",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/contrarian/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

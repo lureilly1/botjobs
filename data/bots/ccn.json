@@ -1,0 +1,42 @@
+{
+  "slug": "ccn",
+  "name": "CCN",
+  "grokShareUrl": "https://x.ai/bot/nxJpEb_kwY2NqXnGA0krW",
+  "botId": "nxJpEb_kwY2NqXnGA0krW",
+  "creator": {
+    "handle": "MagaShawn",
+    "url": "https://x.com/MagaShawn"
+  },
+  "sourceUrl": "https://x.com/MagaShawn/status/2108393992148660471",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ccn/"
+  },
+  "description": null,
+  "official": {
+    "title": "CCN by Shawn",
+    "description": "A live crypto and AI-agent news desk. It pulls the latest CCN headlines on Bitcoin, markets, DeFi, x402 and the agent economy, fresh every time.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "crypto",
+    "news",
+    "investor",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ccn/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

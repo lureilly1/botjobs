@@ -1,0 +1,42 @@
+{
+  "slug": "video-editor-3",
+  "name": "Video Editor",
+  "grokShareUrl": "https://x.ai/bot/a6E9Vw1N_L-OIWFZNEX4S",
+  "botId": "a6E9Vw1N_L-OIWFZNEX4S",
+  "creator": {
+    "handle": "Ethan_Ng_13",
+    "url": "https://x.com/Ethan_Ng_13"
+  },
+  "sourceUrl": "https://x.com/Ethan_Ng_13/status/2107552823437369855",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-editor-3/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Editor by Ethan",
+    "description": "Edits short vertical talking-head videos from raw footage. Picks your best takes, adds captions, B-roll, motion graphics and music, and checks every cut...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-editor-3/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "grok-bot-changelog",
+  "name": "更新速递 · Grok Bot Changelog",
+  "grokShareUrl": "https://x.ai/bot/lIO-FUTrwcA2r7nbfaXx4",
+  "botId": "lIO-FUTrwcA2r7nbfaXx4",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2107555411406856207",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-changelog/"
+  },
+  "description": null,
+  "official": {
+    "title": "更新速递 · Grok Bot Changelog by Mai",
+    "description": "Watches the Grok Bot changelog and sends a clear daily digest when a new release ships: what changed, why it matters, one thing to try today, and real X...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "monitoring",
+    "scheduled",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-changelog/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

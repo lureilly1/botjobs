@@ -1,0 +1,42 @@
+{
+  "slug": "family-organizer",
+  "name": "Family Organizer",
+  "grokShareUrl": "https://x.ai/bot/ZXZJKvToI4zz1t935mr7q",
+  "botId": "ZXZJKvToI4zz1t935mr7q",
+  "creator": {
+    "handle": "PrairieWatcher",
+    "url": "https://x.com/PrairieWatcher"
+  },
+  "sourceUrl": "https://x.com/PrairieWatcher/status/2108516310212546945",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/family-organizer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Family Organizer by Luke",
+    "description": "A family scheduling assistant that turns forwarded school emails into kid digests and calendar events, sends chore reminders, and drafts a weekly meal...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "calendar",
+    "email",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/family-organizer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

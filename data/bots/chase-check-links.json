@@ -1,0 +1,42 @@
+{
+  "slug": "chase-check-links",
+  "name": "Chase Check Links",
+  "grokShareUrl": "https://x.ai/bot/QdjmrUAnmnCkgMIskyMDi",
+  "botId": "QdjmrUAnmnCkgMIskyMDi",
+  "creator": {
+    "handle": "ArtNealKing",
+    "url": "https://x.com/ArtNealKing"
+  },
+  "sourceUrl": "https://x.com/ArtNealKing/status/2107604205653631486",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chase-check-links/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chase Check Links by Art",
+    "description": "Pulls Chase check front images into Google Drive and turns matching Tiller Full Description cells into blue links. For anyone who tracks checks in a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "automation",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chase-check-links/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

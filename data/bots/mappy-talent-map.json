@@ -16,9 +16,9 @@
   "description": "Give it a company name and it returns a headcount picture: which functions exist, at what seniority, and in which offices. This is org-chart reconnaissance rather than sourcing, so anyone wanting a shortlist of approachable candidates is asking the wrong tool.",
   "official": {
     "title": "Mappy by Nick",
-    "description": "Maps who currently works at a named company — a census of the team by function, seniority, and location, not a candidate search. Built for recruiters...",
+    "description": "Maps the people who currently work at any company you name, sorted by function, seniority, tenure, and location. Delivers a CSV plus a one-page HTML org...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

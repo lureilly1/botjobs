@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Bard by Jacob",
-    "description": "Writes chronicle songs about what you have actually been building, in a traveling bard voice, then offers sealed Grok Imagine prompts so a bard can...",
+    "description": "A traveling bard that turns what you actually built into a bardic folk song, makes the track in your music tool, and can turn it into a continuous-take...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

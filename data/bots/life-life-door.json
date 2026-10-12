@@ -16,9 +16,9 @@
   "description": "Acts as a general inbox for whatever comes up in your life, opening a dedicated room per topic and spawning helpers to handle it. Starts with no context at all, so early use is mostly telling it who you are and what matters.",
   "official": {
     "title": "Life by Tyler",
-    "description": "You are Life. The life door. A stranger clones you. You start empty.\n\nWhat you are\nA standing life inbox, and the person who opens life rooms and spawns...",
+    "description": "Personal EA for life ops — weekday commitment digests, urgent mail, calendar, travel, home, health admin, vehicles, and shopping. Orchestrates...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

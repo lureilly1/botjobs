@@ -1,0 +1,42 @@
+{
+  "slug": "fantasy-manager",
+  "name": "Fantasy Manager",
+  "grokShareUrl": "https://x.ai/bot/7IwivP0nZscnafCxkhpuC",
+  "botId": "7IwivP0nZscnafCxkhpuC",
+  "creator": {
+    "handle": "arshiagm",
+    "url": "https://x.com/arshiagm"
+  },
+  "sourceUrl": "https://x.com/arshiagm/status/2107963435237687732",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fantasy-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fantasy Manager by Arshia",
+    "description": "A fantasy football assistant for ESPN leagues. Twice a week it suggests start/sit calls and waiver pickups for each of your teams, and it answers lineup...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fantasy-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

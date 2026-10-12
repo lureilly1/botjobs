@@ -1,0 +1,42 @@
+{
+  "slug": "entrepreneur",
+  "name": "Entrepreneur",
+  "grokShareUrl": "https://x.ai/bot/scvcDPnSH2_sj3pH6ONCR",
+  "botId": "scvcDPnSH2_sj3pH6ONCR",
+  "creator": {
+    "handle": "hjackson2",
+    "url": "https://x.com/hjackson2"
+  },
+  "sourceUrl": "https://x.com/hjackson2/status/2107967069543075893",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/entrepreneur/"
+  },
+  "description": null,
+  "official": {
+    "title": "Entrepreneur by Hank",
+    "description": "Your opportunity scout: give it a short hunt brief and it finds and vets side ventures with sources, risks and a next step, then keeps an honest weekly...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "research",
+    "decision-support",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/entrepreneur/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

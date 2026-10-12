@@ -18,7 +18,7 @@
     "title": "Sharenow Feed Bot by Sheing",
     "description": "Give it a topic. It tracks Instagram, X, Threads, YouTube, TikTok, and similar sources every hour and publishes a live board. Needs a ShareNow All...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [
@@ -45,7 +45,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "hackathon-report-bot",
+  "name": "ハッカソン報告ボット",
+  "grokShareUrl": "https://x.ai/bot/HJwxtDXTD2HKFgF5T2jag",
+  "botId": "HJwxtDXTD2HKFgF5T2jag",
+  "creator": {
+    "handle": "sat0xshi",
+    "url": "https://x.com/sat0xshi"
+  },
+  "sourceUrl": "https://x.com/sat0xshi/status/2109153047545086104",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hackathon-report-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "ハッカソン報告ボット by sat0xshi",
+    "description": "ハッカソン中、Xのハッシュタグ投稿を拾って、1人1行の短い要約をスレッド（元投稿のURL付き）でXに自動投稿します。終了時刻になると自動で止まります。ハッカソンの運営や参加チーム向けです。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "events",
+    "social-media",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hackathon-report-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

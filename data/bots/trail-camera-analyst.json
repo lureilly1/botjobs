@@ -1,0 +1,42 @@
+{
+  "slug": "trail-camera-analyst",
+  "name": "Trail Camera Analyst",
+  "grokShareUrl": "https://x.ai/bot/25StqpR__kg6k6hCky8wz",
+  "botId": "25StqpR__kg6k6hCky8wz",
+  "creator": {
+    "handle": "RussellVargo",
+    "url": "https://x.com/RussellVargo"
+  },
+  "sourceUrl": "https://x.com/RussellVargo/status/2107531469140959680",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/trail-camera-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Trail Camera Analyst by Russell",
+    "description": "Turns trail-camera photos and video into clear wildlife reports: species counts, timing, and ranch or property notes. For hunters, ranchers, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "data",
+    "analytics",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/trail-camera-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

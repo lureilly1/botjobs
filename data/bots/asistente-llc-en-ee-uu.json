@@ -1,0 +1,41 @@
+{
+  "slug": "asistente-llc-en-ee-uu",
+  "name": "Asistente LLC en EE.UU.",
+  "grokShareUrl": "https://x.ai/bot/P1SKFe9QcGTtxhngNMtig",
+  "botId": "P1SKFe9QcGTtxhngNMtig",
+  "creator": {
+    "handle": "KarinaGeigner",
+    "url": "https://x.com/KarinaGeigner"
+  },
+  "sourceUrl": "https://x.com/KarinaGeigner/status/2107301494563484082",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/asistente-llc-en-ee-uu/"
+  },
+  "description": null,
+  "official": {
+    "title": "Asistente LLC en EE.UU. by Karina",
+    "description": "Te guía paso a paso para abrir y mantener tu empresa (LLC) en Estados Unidos desde Latinoamérica: estado, EIN, banco, dirección e impuestos anuales. En...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/asistente-llc-en-ee-uu/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

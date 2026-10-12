@@ -1,0 +1,42 @@
+{
+  "slug": "realitycheck",
+  "name": "RealityCheck",
+  "grokShareUrl": "https://x.ai/bot/3qFR1iwsgP36CC7ayKRfw",
+  "botId": "3qFR1iwsgP36CC7ayKRfw",
+  "creator": {
+    "handle": "johnp_creates",
+    "url": "https://x.com/johnp_creates"
+  },
+  "sourceUrl": "https://x.com/johnp_creates/status/2107606396296655243",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/realitycheck/"
+  },
+  "description": null,
+  "official": {
+    "title": "RealityCheck by John",
+    "description": "Paste an X handle and get an authenticity score card — number, color meter, and top green/red flags from public profile signals. Estimate only, not a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/realitycheck/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

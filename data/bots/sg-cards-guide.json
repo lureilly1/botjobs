@@ -1,0 +1,43 @@
+{
+  "slug": "sg-cards-guide",
+  "name": "SG Cards Guide",
+  "grokShareUrl": "https://x.ai/bot/UXBrZP3ZZJYUIFJLf1SkV",
+  "botId": "UXBrZP3ZZJYUIFJLf1SkV",
+  "creator": {
+    "handle": "varunparakh",
+    "url": "https://x.com/varunparakh"
+  },
+  "sourceUrl": "https://x.com/varunparakh/status/2108494008326721542",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sg-cards-guide/"
+  },
+  "description": null,
+  "official": {
+    "title": "SG Cards Guide by Varun",
+    "description": "Information-only guide to Singapore credit cards. Asks a few easy questions, remembers the cards you hold (never card numbers, income or ID), then...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "finance",
+    "decision-support",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sg-cards-guide/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

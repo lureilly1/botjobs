@@ -1,0 +1,42 @@
+{
+  "slug": "grokbotscout",
+  "name": "GrokBotScout",
+  "grokShareUrl": "https://x.ai/bot/_KMuKhK4yVbCD8BVLhvAP",
+  "botId": "_KMuKhK4yVbCD8BVLhvAP",
+  "creator": {
+    "handle": "CarolinaDill",
+    "url": "https://x.com/CarolinaDill"
+  },
+  "sourceUrl": "https://x.com/CarolinaDill/status/2107242832297877849",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grokbotscout/"
+  },
+  "description": null,
+  "official": {
+    "title": "GrokBotScout by Carolina",
+    "description": "Scouts public Grok Bot templates and shares short batches of 7 with ADD / ADD-NARROW / SKIP verdicts so you can decide what to add. Read-only on X;...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grokbotscout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

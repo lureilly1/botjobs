@@ -1,0 +1,37 @@
+{
+  "slug": "gemini-desk",
+  "name": "Gemini Desk",
+  "grokShareUrl": "https://x.ai/bot/sjdHThfOAwVZsm95Bn-ZM",
+  "botId": "sjdHThfOAwVZsm95Bn-ZM",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/gemini-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Gemini Desk by Bosotter",
+    "description": "Talk to Gemini in Grok Bot with your API key. Saves your Google AI Studio key as a secret and relays your chat to the Gemini API, pay-as-you-go.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gemini-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

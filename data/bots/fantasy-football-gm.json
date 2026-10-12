@@ -17,7 +17,7 @@
     "title": "Fantasy Football GM by Matt",
     "description": "Fantasy Football GM with a Wire/Usage/Market/Desk staff pipeline for start/sit, waivers, trades, and injury flags in your scoring. Never submits without...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

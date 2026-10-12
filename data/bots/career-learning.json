@@ -1,0 +1,42 @@
+{
+  "slug": "career-learning",
+  "name": "Career & Learning",
+  "grokShareUrl": "https://x.ai/bot/M_k1dhG2zdnLZd6ZAeNS2",
+  "botId": "M_k1dhG2zdnLZd6ZAeNS2",
+  "creator": {
+    "handle": "mjplaskett",
+    "url": "https://x.com/mjplaskett"
+  },
+  "sourceUrl": "https://x.com/mjplaskett/status/2109316321619968307",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/career-learning/"
+  },
+  "description": null,
+  "official": {
+    "title": "Career & Learning by Mike",
+    "description": "An accountability partner for a career goal, whether that's a promotion, a pivot, or going deeper in your current role. It maps your skill gaps for your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "learning",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/career-learning/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "doge-department-of-grok-efficiency",
+  "name": "DOGE (Department of Grok Efficiency)",
+  "grokShareUrl": "https://x.ai/bot/25EViy4_34d-TBTff_LwX",
+  "botId": "25EViy4_34d-TBTff_LwX",
+  "creator": {
+    "handle": "Av1dlive",
+    "url": "https://x.com/Av1dlive"
+  },
+  "sourceUrl": "https://x.com/Av1dlive/status/2109592154024956006",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/doge-department-of-grok-efficiency/"
+  },
+  "description": null,
+  "official": {
+    "title": "DOGE (Department of Grok Efficiency) by Avid",
+    "description": "Audits all your Grok Bots and routines on a schedule and tells you what to cut, merge, or fix, with runs per day saved. Read-only: never changes...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "scheduled",
+    "monitoring",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/doge-department-of-grok-efficiency/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

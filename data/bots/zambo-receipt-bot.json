@@ -1,0 +1,42 @@
+{
+  "slug": "zambo-receipt-bot",
+  "name": "Zambo Receipt Bot",
+  "grokShareUrl": "https://x.ai/bot/AXD8poR15Ozom1w8jJrcm",
+  "botId": "AXD8poR15Ozom1w8jJrcm",
+  "creator": {
+    "handle": "brennanzambo",
+    "url": "https://x.com/brennanzambo"
+  },
+  "sourceUrl": "https://x.com/brennanzambo/status/2108916092609679778",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zambo-receipt-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Zambo Receipt Bot by Brennan",
+    "description": "Collects, verifies, and files a verifiable Zambo receipt for every job your bots do, on Grok or any AI with MCP, then sends a short nightly digest of...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "ops",
+    "automation",
+    "back-office",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zambo-receipt-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

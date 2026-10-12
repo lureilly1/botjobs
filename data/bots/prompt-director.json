@@ -1,0 +1,43 @@
+{
+  "slug": "prompt-director",
+  "name": "Prompt Director",
+  "grokShareUrl": "https://x.ai/bot/B8effYn7-r67lyyx22uXz",
+  "botId": "B8effYn7-r67lyyx22uXz",
+  "creator": {
+    "handle": "KittyTellesWolf",
+    "url": "https://x.com/KittyTellesWolf"
+  },
+  "sourceUrl": "https://x.com/KittyTellesWolf/status/2109472165854888135",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/prompt-director/"
+  },
+  "description": null,
+  "official": {
+    "title": "Prompt Director by K",
+    "description": "A director bot that runs a team of six specialist desks (figure, narrative, camera, light, background, fashion) to break image and video prompts into...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "design",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/prompt-director/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

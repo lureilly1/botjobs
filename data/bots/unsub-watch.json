@@ -14,9 +14,9 @@
   "description": null,
   "official": {
     "title": "Unsub Watch by ʞɔɐz",
-    "description": "Watches Gmail for marketing lists and unsubscribes after one audit. New senders wait for a yes. Banks, schools, receipts, 2FA, shipping, and paid...",
+    "description": "Cleans marketing lists out of your Gmail. New senders show up as tap-to-pick checkboxes with the email and a short note, and banks, schools, receipts,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

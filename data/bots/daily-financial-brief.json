@@ -1,0 +1,42 @@
+{
+  "slug": "daily-financial-brief",
+  "name": "Daily Financial Brief",
+  "grokShareUrl": "https://x.ai/bot/s2YEW2exxqk-BhcWfGziz",
+  "botId": "s2YEW2exxqk-BhcWfGziz",
+  "creator": {
+    "handle": "swetha_lochte",
+    "url": "https://x.com/swetha_lochte"
+  },
+  "sourceUrl": "https://x.com/swetha_lochte/status/2107149104761737243",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-financial-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daily Financial Brief",
+    "description": "A morning money brief: your linked accounts, market and sector moves, then tech, energy, Fed, and global news.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "investor",
+    "finance",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-financial-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

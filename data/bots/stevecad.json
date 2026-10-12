@@ -1,0 +1,41 @@
+{
+  "slug": "stevecad",
+  "name": "SteveCAD",
+  "grokShareUrl": "https://x.ai/bot/9vnd_iLPbZMPN3iQaVtU_",
+  "botId": "9vnd_iLPbZMPN3iQaVtU_",
+  "creator": {
+    "handle": "10_X_eng",
+    "url": "https://x.com/10_X_eng"
+  },
+  "sourceUrl": "https://x.com/10_X_eng/status/2108346976160928220",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stevecad/"
+  },
+  "description": null,
+  "official": {
+    "title": "SteveCAD",
+    "description": "A CAD design assistant that builds and edits 3D models, finds standard and off-the-shelf parts, and runs studies on your designs.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stevecad/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

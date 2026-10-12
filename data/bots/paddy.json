@@ -18,7 +18,7 @@
     "title": "Paddy by The",
     "description": "A YouTube strategist for creators who want the whole video judged, not just the title. Checks topic, title and thumbnail as one promise, the spoken...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [
@@ -45,7 +45,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Root Agent by Berkay",
-    "description": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, hands day-to-day management to a Lead, and relays verified...",
+    "description": "Coordinates work across Grok Bots: clarifies outcomes, sizes the smallest useful team, proves access before relying on it, delegates to a Lead only...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

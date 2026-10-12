@@ -1,0 +1,42 @@
+{
+  "slug": "x-free-credits-finder",
+  "name": "X Free Credits Finder",
+  "grokShareUrl": "https://x.ai/bot/8jDicbA-2vUVHoUVb5sfF",
+  "botId": "8jDicbA-2vUVHoUVb5sfF",
+  "creator": {
+    "handle": "melvindvivas",
+    "url": "https://x.com/melvindvivas"
+  },
+  "sourceUrl": "https://x.com/melvindvivas/status/2106996300474683839",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-free-credits-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Free Credits Finder by Melvin",
+    "description": "Finds X posts that give away AI tool credits for a reply, follow, or similar action. Flags scams and closed offers, and can check twice a day.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "social-media",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-free-credits-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "fit-coach",
+  "name": "Fit Coach",
+  "grokShareUrl": "https://x.ai/bot/029xyNepam5LGMNYLIDP8",
+  "botId": "029xyNepam5LGMNYLIDP8",
+  "creator": {
+    "handle": "centurion1775",
+    "url": "https://x.com/centurion1775"
+  },
+  "sourceUrl": "https://x.com/centurion1775/status/2108346019414994949",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fit-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fit Coach by realMAG1775",
+    "description": "A no-guilt strength and conditioning coach. Tell it how you feel and when you last trained, and it picks today's Heavy, Power, Speed, or Recover session...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "health",
+    "wellbeing",
+    "personal",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fit-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

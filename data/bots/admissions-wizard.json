@@ -1,0 +1,42 @@
+{
+  "slug": "admissions-wizard",
+  "name": "Admissions Wizard",
+  "grokShareUrl": "https://x.ai/bot/e7_iCDyEA6UZbFa_N3VLm",
+  "botId": "e7_iCDyEA6UZbFa_N3VLm",
+  "creator": {
+    "handle": "UziObi",
+    "url": "https://x.com/UziObi"
+  },
+  "sourceUrl": "https://x.com/UziObi/status/2107249345544560762",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/admissions-wizard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Admissions Wizard by Uzi",
+    "description": "College and MBA admissions counselor. Interview-mode setup and Who mining—essays, testing, and recommender briefs with trackers you turn on.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/admissions-wizard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

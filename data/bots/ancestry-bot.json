@@ -1,0 +1,42 @@
+{
+  "slug": "ancestry-bot",
+  "name": "Ancestry Bot",
+  "grokShareUrl": "https://x.ai/bot/AINP9mLXBIt__NMVeFXGO",
+  "botId": "AINP9mLXBIt__NMVeFXGO",
+  "creator": {
+    "handle": "mcdanderson",
+    "url": "https://x.com/mcdanderson"
+  },
+  "sourceUrl": "https://x.com/mcdanderson/status/2108508806724636914",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ancestry-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ancestry Bot by Daniel",
+    "description": "A careful genealogy research assistant. It builds and verifies your family tree from real records and DNA, with sources cited for every fact, and you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "research",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ancestry-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

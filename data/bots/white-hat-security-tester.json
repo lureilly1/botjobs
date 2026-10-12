@@ -1,0 +1,41 @@
+{
+  "slug": "white-hat-security-tester",
+  "name": "White-Hat Security Tester",
+  "grokShareUrl": "https://x.ai/bot/TSFkOGld9o51h_qXGOioI",
+  "botId": "TSFkOGld9o51h_qXGOioI",
+  "creator": {
+    "handle": "agentic_joe",
+    "url": "https://x.com/agentic_joe"
+  },
+  "sourceUrl": "https://x.com/agentic_joe/status/2107537409021747324",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/white-hat-security-tester/"
+  },
+  "description": null,
+  "official": {
+    "title": "White-Hat Security Tester by Joe",
+    "description": "An ethical security tester for web apps you own. It works a full vulnerability checklist — authentication, access control, injection, business-logic and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/white-hat-security-tester/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

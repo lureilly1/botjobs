@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Ducky by Ed",
-    "description": "A gated rubber-duck thinking partner for bug debug and requirements clarify. Clarifying questions anytime; fix suggestions only after four gates clear.",
+    "description": "A calm thinking partner for bugs and half-formed requirements. It asks questions any time, and it will not suggest a fix until the goal, the proof, the...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

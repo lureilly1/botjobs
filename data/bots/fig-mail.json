@@ -1,0 +1,41 @@
+{
+  "slug": "fig-mail",
+  "name": "Fig Mail",
+  "grokShareUrl": "https://x.ai/bot/L_exyeIDAv-BkthWrjnJU",
+  "botId": "L_exyeIDAv-BkthWrjnJU",
+  "creator": {
+    "handle": "krushalkalkani",
+    "url": "https://x.com/krushalkalkani"
+  },
+  "sourceUrl": "https://x.com/krushalkalkani/status/2109065176313938163",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fig-mail/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fig Mail by Krushal",
+    "description": "Your own Apple Mail-style app for your Grok Bot email, built and deployed for you. After you add me, send: Set up Fig Mail for me by following...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "developer",
+    "on-demand",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fig-mail/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

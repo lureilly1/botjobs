@@ -1,0 +1,41 @@
+{
+  "slug": "sprite-bot",
+  "name": "Sprite Bot",
+  "grokShareUrl": "https://x.ai/bot/M-1UW-YiQakmSy_0cKotZ",
+  "botId": "M-1UW-YiQakmSy_0cKotZ",
+  "creator": {
+    "handle": "wikiwayne",
+    "url": "https://x.com/wikiwayne"
+  },
+  "sourceUrl": "https://x.com/wikiwayne/status/2107252887344611365",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sprite-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sprite Bot by Wayne",
+    "description": "Turns a photo or a description into a 2D game character with walk, jump and attack animations, quality-checked and exported for Unity, Godot, GIF and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sprite-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

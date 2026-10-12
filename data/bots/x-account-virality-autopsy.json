@@ -1,0 +1,43 @@
+{
+  "slug": "x-account-virality-autopsy",
+  "name": "这个X账号怎么火的",
+  "grokShareUrl": "https://x.ai/bot/jZdcW7oX0o60hLAw35QcB",
+  "botId": "jZdcW7oX0o60hLAw35QcB",
+  "creator": {
+    "handle": "mr_easonyang",
+    "url": "https://x.com/mr_easonyang"
+  },
+  "sourceUrl": "https://x.com/mr_easonyang/status/2109578694188827034",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-account-virality-autopsy/"
+  },
+  "description": null,
+  "official": {
+    "title": "这个X账号怎么火的 by Eason",
+    "description": "丢一个 X 账号进去，找出它什么时候、靠什么内容火起来的，再对照你的号给出改进建议。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "analytics",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-account-virality-autopsy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

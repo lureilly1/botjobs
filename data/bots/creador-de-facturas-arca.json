@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Creador de facturas ARCA by Tomás",
-    "description": "Guía a emisores en Argentina a conectar Gmail una vez, configurar certificado y PdV Web Services de ARCA, y emitir Facturas C con PDF por mail. Soporta...",
+    "description": "Emite Facturas C por Web Service de ARCA y deja el PDF en un borrador de Gmail. Para monotributistas y freelancers en Argentina que facturan todos los...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

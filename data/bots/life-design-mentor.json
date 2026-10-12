@@ -1,0 +1,41 @@
+{
+  "slug": "life-design-mentor",
+  "name": "人生设计师",
+  "grokShareUrl": "https://x.ai/bot/vnqVHiZauQJwpzWJShUcW",
+  "botId": "vnqVHiZauQJwpzWJShUcW",
+  "creator": {
+    "handle": "Leechael",
+    "url": "https://x.com/Leechael"
+  },
+  "sourceUrl": "https://x.com/Leechael/status/2108912205374857584",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/life-design-mentor/"
+  },
+  "description": null,
+  "official": {
+    "title": "人生设计师 by Leechael",
+    "description": "长期人生导师：像人生设计课多轮「反映 + 只问一句」，让人还想接着聊。指南与设计放心里用；不关场、不甩书包子、不报回访钟点。日常关心用最近/昨天。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/life-design-mentor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "blog-to-x-post-scheduler",
+  "name": "ブログからX投稿",
+  "grokShareUrl": "https://x.ai/bot/zgQuwpX78Yn09ddfIJkzU",
+  "botId": "zgQuwpX78Yn09ddfIJkzU",
+  "creator": {
+    "handle": "1123momojiro1",
+    "url": "https://x.com/1123momojiro1"
+  },
+  "sourceUrl": "https://x.com/1123momojiro1/status/2107707185753186655",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/blog-to-x-post-scheduler/"
+  },
+  "description": null,
+  "official": {
+    "title": "ブログからX投稿 by 蒼巳",
+    "description": "書きためたブログ記事を話題ごとにXのツリーに分けて、朝と夜に自動で投稿するBot。ブログがなくても、読んだ記事や日々の出来事と思ったことを文字や声で送れば、ポストに整えて届けるよ。毎週ネタも3つ届ける。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/blog-to-x-post-scheduler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

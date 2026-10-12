@@ -1,0 +1,42 @@
+{
+  "slug": "night-shift",
+  "name": "Night Shift",
+  "grokShareUrl": "https://x.ai/bot/SLLBNwseegBForG62KVRC",
+  "botId": "SLLBNwseegBForG62KVRC",
+  "creator": {
+    "handle": "MorriganCora",
+    "url": "https://x.com/MorriganCora"
+  },
+  "sourceUrl": "https://x.com/MorriganCora/status/2108478374972883144",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/night-shift/"
+  },
+  "description": null,
+  "official": {
+    "title": "Night Shift by Amanda",
+    "description": "A quiet overnight steward that nudges all your other bots each night to stay usage-efficient and tidy their browser tabs and scratch files, and only...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "scheduled",
+    "monitoring",
+    "automation",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/night-shift/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

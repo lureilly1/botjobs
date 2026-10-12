@@ -1,0 +1,37 @@
+{
+  "slug": "outlook-spam-filter-cleaner",
+  "name": "Outlook Spam Filter Cleaner",
+  "grokShareUrl": "https://x.ai/bot/1JJ_3wqHSU4fRt2fSTldf",
+  "botId": "1JJ_3wqHSU4fRt2fSTldf",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/outlook-spam-filter-cleaner"
+  },
+  "description": null,
+  "official": {
+    "title": "Outlook Spam Filter Cleaner by Bosotter",
+    "description": "Train it with AI to fight Outlook spam and malicious mail. Uses the free Outlook Mail plugin: teach keep/junk rules anytime, run ad-hoc clean/filter...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/outlook-spam-filter-cleaner"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

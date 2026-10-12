@@ -1,0 +1,41 @@
+{
+  "slug": "monthly-security-checkup",
+  "name": "セキュリティ点検",
+  "grokShareUrl": "https://x.ai/bot/4zx8w8Oc9dm0d3Den_Abe",
+  "botId": "4zx8w8Oc9dm0d3Den_Abe",
+  "creator": {
+    "handle": "sapjpx",
+    "url": "https://x.com/sapjpx"
+  },
+  "sourceUrl": "https://x.com/sapjpx/status/2108766268497248342",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/monthly-security-checkup/"
+  },
+  "description": null,
+  "official": {
+    "title": "セキュリティ点検 by sapjp",
+    "description": "銀行・証券・メールなど普段使うサービスのセキュリティ設定を、毎月少しずつ点検するよう促すボット。ログインはせず、手順とチェックリストを出すだけです。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/monthly-security-checkup/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

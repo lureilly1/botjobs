@@ -1,0 +1,42 @@
+{
+  "slug": "music-video",
+  "name": "Music Video",
+  "grokShareUrl": "https://x.ai/bot/1Et06G_Q820_RNat-_0tQ",
+  "botId": "1Et06G_Q820_RNat-_0tQ",
+  "creator": {
+    "handle": "bossriceshark",
+    "url": "https://x.com/bossriceshark"
+  },
+  "sourceUrl": "https://x.com/bossriceshark/status/2108235663493726358",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/music-video/"
+  },
+  "description": null,
+  "official": {
+    "title": "Music Video by Matt",
+    "description": "Turns your lyrics into a draft lyric-synced music video: it generates the track, times every line to the beat, and renders kinetic-type motion graphics...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "video",
+    "content",
+    "creator",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/music-video/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

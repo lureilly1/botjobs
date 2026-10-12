@@ -1,0 +1,42 @@
+{
+  "slug": "ai-official-account-radar",
+  "name": "AI Official Account Radar",
+  "grokShareUrl": "https://x.ai/bot/zXPuJgqq5fxIsqCmPHAsF",
+  "botId": "zXPuJgqq5fxIsqCmPHAsF",
+  "creator": {
+    "handle": "Chaosai0",
+    "url": "https://x.com/Chaosai0"
+  },
+  "sourceUrl": "https://x.com/Chaosai0/status/2108403281013964877",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-official-account-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Official Account Radar by Klaus",
+    "description": "Monitors the official X accounts of leading AI companies and coding-agent products, alerts you promptly to new models, free credits, and API pricing or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "monitoring",
+    "social-media",
+    "scheduled",
+    "developer"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-official-account-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

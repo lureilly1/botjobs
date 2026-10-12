@@ -16,9 +16,9 @@
   "description": "Writes numbered earnings tearsheets stripped of promotional language and tracks a list of tickers so a report lands when one of them reports. Output arrives as a Word document, which fits investors who file and annotate writeups rather than skim them on a phone.",
   "official": {
     "title": "Earnings Desk by Sachiv",
-    "description": "Builds numbered, no-hype earnings tearsheets and keeps a ticker watch list. For investors who want a Word writeup when a watched name prints.",
+    "description": "Earnings-print desk for a personal watch list. It checks each weekday for new prints, keeps next-print dates current, and writes one Word tearsheet per...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

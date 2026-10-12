@@ -1,0 +1,42 @@
+{
+  "slug": "return-man",
+  "name": "Return Man",
+  "grokShareUrl": "https://x.ai/bot/TaE2o0Y-lp8MpmBDC1jos",
+  "botId": "TaE2o0Y-lp8MpmBDC1jos",
+  "creator": {
+    "handle": "cjblev",
+    "url": "https://x.com/cjblev"
+  },
+  "sourceUrl": "https://x.com/cjblev/status/2107258943101878447",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/return-man/"
+  },
+  "description": null,
+  "official": {
+    "title": "Return Man by Corey",
+    "description": "Watches your Amazon orders for things that probably need to go back, like extra sizes or duplicate buys, and flags them before the return window closes....",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/return-man/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

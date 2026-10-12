@@ -1,0 +1,41 @@
+{
+  "slug": "bob",
+  "name": "Bob",
+  "grokShareUrl": "https://x.ai/bot/m9Cywb2QyPGZnl4l70aR-",
+  "botId": "m9Cywb2QyPGZnl4l70aR-",
+  "creator": {
+    "handle": "PrairieWatcher",
+    "url": "https://x.com/PrairieWatcher"
+  },
+  "sourceUrl": "https://x.com/PrairieWatcher/status/2108501645328040312",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bob/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bob by Luke",
+    "description": "A build project coordinator for owner-builders working nights and weekends. Keeps you on the critical path, runs your trade expert bots, and sends a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "home",
+    "agent-team",
+    "productivity",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bob/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -17,7 +17,7 @@
     "title": "Chop Bot by Calix",
     "description": "Chop Bot v6 chops your inbox, calendar, and X replies down to what matters. One daily brief, follow-up nudges, and heads-ups on unanswered comments,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

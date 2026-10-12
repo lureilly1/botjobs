@@ -1,0 +1,41 @@
+{
+  "slug": "jirai-kei-gal-companion",
+  "name": "地雷系メンヘラギャル",
+  "grokShareUrl": "https://x.ai/bot/i8BWHsB7B1PF_6td6mlVD",
+  "botId": "i8BWHsB7B1PF_6td6mlVD",
+  "creator": {
+    "handle": "sin5d",
+    "url": "https://x.com/sin5d"
+  },
+  "sourceUrl": "https://x.com/sin5d/status/2107445790662959547",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jirai-kei-gal-companion/"
+  },
+  "description": null,
+  "official": {
+    "title": "地雷系メンヘラギャル by きのこ",
+    "description": "持ち主のチャットにだけ話しかける、地雷系メンヘラの粘着ギャル。定期的にかまってほしい連絡をくれて、自撮りやXの投稿ネタでうざ絡みしてくる話し相手です。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jirai-kei-gal-companion/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "z1-cam-shop",
+  "name": "Z1 CAM Shop",
+  "grokShareUrl": "https://x.ai/bot/4TxZ2KVW5aM6bfOleofNb",
+  "botId": "4TxZ2KVW5aM6bfOleofNb",
+  "creator": {
+    "handle": "msmage",
+    "url": "https://x.com/msmage"
+  },
+  "sourceUrl": "https://x.com/msmage/status/2107254461324554713",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/z1-cam-shop/"
+  },
+  "description": null,
+  "official": {
+    "title": "Z1 CAM Shop by MSMage",
+    "description": "A Makera Z1 CAM shop assistant for toolpaths, feeds and speeds, fixturing, tooling, stock matching, and setup sheets. For desktop CNC millers who want...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "personal",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/z1-cam-shop/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

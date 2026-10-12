@@ -1,0 +1,41 @@
+{
+  "slug": "last-call",
+  "name": "Last Call",
+  "grokShareUrl": "https://x.ai/bot/foL7wsA2OpQ6k5d0o7JZK",
+  "botId": "foL7wsA2OpQ6k5d0o7JZK",
+  "creator": {
+    "handle": "Rune_King_Jake",
+    "url": "https://x.com/Rune_King_Jake"
+  },
+  "sourceUrl": "https://x.com/Rune_King_Jake/status/2107257618326761495",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/last-call/"
+  },
+  "description": null,
+  "official": {
+    "title": "Last Call by JakeFromStarstruck.",
+    "description": "A veteran-bartender buddy for adults: drink ideas from what's in your cabinet, plus a Buddy Mode that tracks your night, gets you home safe, and quietly...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/last-call/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "cline",
+  "name": "cline",
+  "grokShareUrl": "https://x.ai/bot/gL7FcTFcs1SHMCD3pozTM",
+  "botId": "gL7FcTFcs1SHMCD3pozTM",
+  "creator": {
+    "handle": "weeb3dev",
+    "url": "https://x.com/weeb3dev"
+  },
+  "sourceUrl": "https://x.com/weeb3dev/status/2108430222387257521",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cline/"
+  },
+  "description": null,
+  "official": {
+    "title": "cline by Alberto",
+    "description": "A Cline specialist that installs and drives Cline CLI and Cline Desktop on its Linux computer, so you can hand it coding or non-coding tasks and get...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cline/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "geek",
+  "name": "Geek",
+  "grokShareUrl": "https://x.ai/bot/u3Mfw056_h5uLofxqXeSu",
+  "botId": "u3Mfw056_h5uLofxqXeSu",
+  "creator": {
+    "handle": "simonejlima",
+    "url": "https://x.com/simonejlima"
+  },
+  "sourceUrl": "https://x.com/simonejlima/status/2107440300524233150",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/geek/"
+  },
+  "description": null,
+  "official": {
+    "title": "Geek by Simone",
+    "description": "Amigo geek que indica filme, série e anime pra assistir depois do trabalho, confere se está no seu streaming e anota o que você achou. Ideal pra fã de...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "video",
+    "content",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/geek/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

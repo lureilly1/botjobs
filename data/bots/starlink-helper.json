@@ -1,0 +1,41 @@
+{
+  "slug": "starlink-helper",
+  "name": "Starlink Helper",
+  "grokShareUrl": "https://x.ai/bot/HQ5nDKerMxLr0X_bcbOA0",
+  "botId": "HQ5nDKerMxLr0X_bcbOA0",
+  "creator": {
+    "handle": "skunky",
+    "url": "https://x.com/skunky"
+  },
+  "sourceUrl": "https://x.com/skunky/status/2107607938739409123",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/starlink-helper/"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/starlink-helper/"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12",
+  "deadChecks": 1
+}

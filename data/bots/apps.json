@@ -18,7 +18,7 @@
     "title": "Apps by Wayne",
     "description": "One-shots a Vite + React + TypeScript web app on Convex. Checks current Convex docs first, uses anonymous local development, hosts the frontend with...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

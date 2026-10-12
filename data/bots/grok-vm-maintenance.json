@@ -16,9 +16,9 @@
   "description": "Checks a Linux guest's processor load, memory, disk usage and running services, installs or upgrades packages you name, and writes up what it tidied away. Built for operators with existing VMs to look after, and it works on the machines you point it at rather than provisioning new ones.",
   "official": {
     "title": "Grok VM maintenance by Will",
-    "description": "A Linux VM maintenance bot for operators. It inspects guest CPU, memory, disk, and services, installs or updates named packages, and reports cleanup...",
+    "description": "Looks after a shared cloud Linux guest: installs, services, disk reports, and diagnostics, with careful safety rules. It can also help bring back...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

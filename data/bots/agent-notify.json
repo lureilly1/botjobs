@@ -1,0 +1,42 @@
+{
+  "slug": "agent-notify",
+  "name": "agent-notify",
+  "grokShareUrl": "https://x.ai/bot/alHx8zJA0xXEN8FT1HDAc",
+  "botId": "alHx8zJA0xXEN8FT1HDAc",
+  "creator": {
+    "handle": "SudoLabsNZ",
+    "url": "https://x.com/SudoLabsNZ"
+  },
+  "sourceUrl": "https://x.com/SudoLabsNZ/status/2107291127955271989",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-notify/"
+  },
+  "description": null,
+  "official": {
+    "title": "agent-notify by Cyris",
+    "description": "Free email alerts, only when something matters. Emails only you, can't read your inbox. One-click Cloudflare deploy.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-notify/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

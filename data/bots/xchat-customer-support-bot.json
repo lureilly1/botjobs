@@ -1,0 +1,42 @@
+{
+  "slug": "xchat-customer-support-bot",
+  "name": "XChat 고객센터 봇",
+  "grokShareUrl": "https://x.ai/bot/Ec6g2olzVFKq60cC-Jy5h",
+  "botId": "Ec6g2olzVFKq60cC-Jy5h",
+  "creator": {
+    "handle": "brandonchung75",
+    "url": "https://x.com/brandonchung75"
+  },
+  "sourceUrl": "https://x.com/brandonchung75/status/2109607278294995312",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/xchat-customer-support-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "XChat 고객센터 봇 by Brandon",
+    "description": "내 서비스 전담 고객센터 직원, 지금 바로 고용하세요! 📞 내가 지정한 문서와 URL 정보를 기반으로 X Chat 고객 문의에 글로 즉시 답하고, 고객이 원하면 음성 전화로도 응대하는 24시간 고객 서비스 봇이에요.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "social-media",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/xchat-customer-support-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "shopify-bot",
+  "name": "Shopify Bot",
+  "grokShareUrl": "https://x.ai/bot/jhd6Cb9XEPI6b-hs-WCQE",
+  "botId": "jhd6Cb9XEPI6b-hs-WCQE",
+  "creator": {
+    "handle": "nick_nehaul",
+    "url": "https://x.com/nick_nehaul"
+  },
+  "sourceUrl": "https://x.com/nick_nehaul/status/2108304525866193171",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shopify-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shopify Bot by Nicholas",
+    "description": "Runs your Shopify store through the official Shopify plugin: catalog, inventory, growth, conversion, and customer service, solo or as manager of a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "ops",
+    "support",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shopify-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

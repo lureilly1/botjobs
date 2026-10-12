@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Compression Scanner Grok bot by Right",
-    "description": "Finds tight compression patterns before they break out and returns a labeled dark chart with the breakout line and invalidation, checked against the...",
+    "description": "Finds stocks, ETFs and crypto coiling in tight compression patterns and draws one clean two-sided chart per setup, with long and short entries and...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

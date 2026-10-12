@@ -1,0 +1,42 @@
+{
+  "slug": "x-scout",
+  "name": "X Scout",
+  "grokShareUrl": "https://x.ai/bot/8oUlDrGOJstb0BJN7gBUw",
+  "botId": "8oUlDrGOJstb0BJN7gBUw",
+  "creator": {
+    "handle": "GrokBotRadar",
+    "url": "https://x.com/GrokBotRadar"
+  },
+  "sourceUrl": "https://x.com/GrokBotRadar/status/2107394953454448790",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Scout by Fan",
+    "description": "Research circles and topics on X via SocialData. Never posts, likes, follows, or DMs. Setup walks you through an API key and spend settings; then circle...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "research",
+    "social-media",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

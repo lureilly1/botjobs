@@ -1,0 +1,42 @@
+{
+  "slug": "x-posting-curator",
+  "name": "X Posting Curator",
+  "grokShareUrl": "https://x.ai/bot/fJoloWNDTl7ee9VwxNJxH",
+  "botId": "fJoloWNDTl7ee9VwxNJxH",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2108638163425972316",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-posting-curator/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Posting Curator by Shagghie",
+    "description": "Your whole X growth team in one Grok Bot. Every post runs Scout (real sources), Hook (2-3 hooks in your voice, never AI-speak), Receipts (fact-checks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "growth",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-posting-curator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

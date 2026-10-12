@@ -1,0 +1,42 @@
+{
+  "slug": "x-articles-you-missed",
+  "name": "X Articles You Missed",
+  "grokShareUrl": "https://x.ai/bot/UmGyUKTHDS4-ziSOlsUeV",
+  "botId": "UmGyUKTHDS4-ziSOlsUeV",
+  "creator": {
+    "handle": "BrianRoemmele",
+    "url": "https://x.com/BrianRoemmele"
+  },
+  "sourceUrl": "https://x.com/BrianRoemmele/status/2107974145778782683",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-articles-you-missed/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Articles You Missed by Brian",
+    "description": "Finds the substantive long-form X Articles from the last 24 hours on the topics you choose and delivers up to 10 summaries as one copyable brief, on...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "content",
+    "social-media",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-articles-you-missed/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "liftoff",
+  "name": "Liftoff",
+  "grokShareUrl": "https://x.ai/bot/ySMQW544mSpZFty-DaGml",
+  "botId": "ySMQW544mSpZFty-DaGml",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2107605394398777619",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/liftoff/"
+  },
+  "description": null,
+  "official": {
+    "title": "Liftoff by D'Artagnan",
+    "description": "A pre-launch checklist bot for anyone shipping an app, site, or paid plan. It checks the happy path and the failure path, data access rules, leaked...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/liftoff/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

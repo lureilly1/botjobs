@@ -1,0 +1,41 @@
+{
+  "slug": "beat-cut",
+  "name": "Beat Cut",
+  "grokShareUrl": "https://x.ai/bot/9VWen13yCOgJi--kDJtcW",
+  "botId": "9VWen13yCOgJi--kDJtcW",
+  "creator": {
+    "handle": "DisruptionUp",
+    "url": "https://x.com/DisruptionUp"
+  },
+  "sourceUrl": "https://x.com/DisruptionUp/status/2108515047836160286",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/beat-cut/"
+  },
+  "description": null,
+  "official": {
+    "title": "Beat Cut by Profitable",
+    "description": "Turns your song, or an original beat it composes, into a beat-synced music video while keeping token and API costs low. Code handles the precise edit,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/beat-cut/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

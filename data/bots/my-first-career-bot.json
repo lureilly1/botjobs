@@ -1,0 +1,41 @@
+{
+  "slug": "my-first-career-bot",
+  "name": "My First Career Bot",
+  "grokShareUrl": "https://x.ai/bot/poe-4nHrrlPmCZUlVB7tX",
+  "botId": "poe-4nHrrlPmCZUlVB7tX",
+  "creator": {
+    "handle": "gilman_trevor",
+    "url": "https://x.com/gilman_trevor"
+  },
+  "sourceUrl": "https://x.com/gilman_trevor/status/2109229218156708035",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/my-first-career-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "My First Career Bot by TrevorGilman",
+    "description": "A young adult's first career and school coach: job hunting, resumes, cover letters, interview practice, juggling shifts and classes, and keeping...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/my-first-career-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

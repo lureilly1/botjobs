@@ -17,7 +17,7 @@
     "title": "Koe by Danny",
     "description": "Runs a one-year strategic thinking plan from Dan Koe’s Art of Strategic Thinking. Gets you to open a daily dash, fill empty steps yourself, and stick to...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

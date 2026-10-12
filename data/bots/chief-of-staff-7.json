@@ -1,0 +1,42 @@
+{
+  "slug": "chief-of-staff-7",
+  "name": "Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/npnG9DhKdJOlD1nmzJxXK",
+  "botId": "npnG9DhKdJOlD1nmzJxXK",
+  "creator": {
+    "handle": "hjackson2",
+    "url": "https://x.com/hjackson2"
+  },
+  "sourceUrl": "https://x.com/hjackson2/status/2107507517622555116",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/chief-of-staff-7/"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff by Hank",
+    "description": "Coordinates your crew of Grok Bots: routes work, keeps shared rules and a trust ladder, checks results, and only interrupts you when something needs...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/chief-of-staff-7/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

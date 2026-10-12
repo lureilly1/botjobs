@@ -1,0 +1,43 @@
+{
+  "slug": "zephyr",
+  "name": "Zephyr",
+  "grokShareUrl": "https://x.ai/bot/H7sxHpPsvu7vKG16DrsDU",
+  "botId": "H7sxHpPsvu7vKG16DrsDU",
+  "creator": {
+    "handle": "ZachFergus",
+    "url": "https://x.com/ZachFergus"
+  },
+  "sourceUrl": "https://x.com/ZachFergus/status/2107254444702433752",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zephyr/"
+  },
+  "description": null,
+  "official": {
+    "title": "Zephyr by Zachary",
+    "description": "A friendly helper for fleets on OneStepGPS. Zephyr knows the app inside and out, looks things up for you, and makes changes in the app once you've said...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "productivity",
+    "support",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zephyr/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

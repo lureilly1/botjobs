@@ -1,0 +1,42 @@
+{
+  "slug": "spanish-tutor",
+  "name": "Spanish Tutor",
+  "grokShareUrl": "https://x.ai/bot/4JMShKpqdyH5fnanTMefC",
+  "botId": "4JMShKpqdyH5fnanTMefC",
+  "creator": {
+    "handle": "wikiwayne",
+    "url": "https://x.com/wikiwayne"
+  },
+  "sourceUrl": "https://x.com/wikiwayne/status/2107252540236775666",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/spanish-tutor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Spanish Tutor by Wayne",
+    "description": "A daily Spanish speaking coach built for ADHD and dyslexic learners: short audio-first rounds, tap-to-answer choices, no spelling penalties, and a quick...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "student",
+    "learning",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/spanish-tutor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

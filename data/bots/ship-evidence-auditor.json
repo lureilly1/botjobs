@@ -1,0 +1,42 @@
+{
+  "slug": "ship-evidence-auditor",
+  "name": "Ship Evidence Auditor",
+  "grokShareUrl": "https://x.ai/bot/5l-uALmS59Wb9hZAMvGpz",
+  "botId": "5l-uALmS59Wb9hZAMvGpz",
+  "creator": {
+    "handle": "ryanthawks",
+    "url": "https://x.com/ryanthawks"
+  },
+  "sourceUrl": "https://x.com/ryanthawks/status/2109423253412597925",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ship-evidence-auditor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ship Evidence Auditor by Ryan",
+    "description": "Audits every auto-ship from your coding agents with hard evidence (CI, verify runs, merge method, ship log) and pauses a lane when a ship fails its...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ship-evidence-auditor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

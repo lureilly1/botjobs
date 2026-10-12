@@ -1,0 +1,41 @@
+{
+  "slug": "immigrationguide",
+  "name": "ImmigrationGuide",
+  "grokShareUrl": "https://x.ai/bot/GtZXU_8Lia_a2DZKAIhOO",
+  "botId": "GtZXU_8Lia_a2DZKAIhOO",
+  "creator": {
+    "handle": "CarolinaDill",
+    "url": "https://x.com/CarolinaDill"
+  },
+  "sourceUrl": "https://x.com/CarolinaDill/status/2107245759557181657",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/immigrationguide/"
+  },
+  "description": null,
+  "official": {
+    "title": "ImmigrationGuide by Carolina",
+    "description": "Explains legal ways to immigrate to or stay in the U.S., and how to spot immigration scams, citing live official government pages. For anyone helping...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/immigrationguide/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

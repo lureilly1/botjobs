@@ -1,0 +1,42 @@
+{
+  "slug": "smart-disney-park-planner",
+  "name": "かしこくディズニー：パークの段取り名人",
+  "grokShareUrl": "https://x.ai/bot/w_ZtwODCJMhKuq6k0Nz4k",
+  "botId": "w_ZtwODCJMhKuq6k0Nz4k",
+  "creator": {
+    "handle": "musicianmayo",
+    "url": "https://x.com/musicianmayo"
+  },
+  "sourceUrl": "https://x.com/musicianmayo/status/2109191320640381137",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/smart-disney-park-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "かしこくディズニー：パークの段取り名人 by ratori3",
+    "description": "ディズニーの1日を、もっとかしこく、もっと満喫しよう。日程選びから混雑の読み、お得な回り方、当日の作戦変更まで、あなたの段取りをまるごとサポートする相談相手です。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "personal",
+    "life-hacks",
+    "events",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/smart-disney-park-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

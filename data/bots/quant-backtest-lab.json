@@ -17,7 +17,7 @@
     "title": "Quant Backtest Lab · 量化回测台 by jack",
     "description": "把交易想法写成规则，在 A 股 / 美股 / 加密现货上做含成本回测，并给出研究向结论。只出 Python 脚本，不代下单。",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

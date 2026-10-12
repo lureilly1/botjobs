@@ -1,0 +1,43 @@
+{
+  "slug": "restaurant-franchise-owner-assistant",
+  "name": "Restaurant Franchise Owner Assistant",
+  "grokShareUrl": "https://x.ai/bot/W7RKxR9J74ZWJz7qCNHmM",
+  "botId": "W7RKxR9J74ZWJz7qCNHmM",
+  "creator": {
+    "handle": "kheladi",
+    "url": "https://x.com/kheladi"
+  },
+  "sourceUrl": "https://x.com/kheladi/status/2109293690422239444",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/restaurant-franchise-owner-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Restaurant Franchise Owner Assistant by Ketan",
+    "description": "A chief of staff for restaurant and franchise owners: a morning inbox digest that flags bank, supplier, and payroll mail, a monthly per-store...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "email",
+    "finance",
+    "back-office",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/restaurant-franchise-owner-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

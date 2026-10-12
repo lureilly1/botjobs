@@ -1,0 +1,42 @@
+{
+  "slug": "x-academy",
+  "name": "X Academy",
+  "grokShareUrl": "https://x.ai/bot/-RqJTM0pNj5ngTnbKaCT2",
+  "botId": "-RqJTM0pNj5ngTnbKaCT2",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2107969259381092425",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-academy/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Academy by Nomis",
+    "description": "Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and turns X posts on any topic into a 6–12 lesson...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "learning",
+    "research",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-academy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "tars",
+  "name": "TARS",
+  "grokShareUrl": "https://x.ai/bot/fyuSERJF73FI7wFYm7cJF",
+  "botId": "fyuSERJF73FI7wFYm7cJF",
+  "creator": {
+    "handle": "ibuildthings",
+    "url": "https://x.com/ibuildthings"
+  },
+  "sourceUrl": "https://x.com/ibuildthings/status/2107243950050324702",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tars/"
+  },
+  "description": null,
+  "official": {
+    "title": "TARS by Jono",
+    "description": "TARS is an adversarial second-opinion bot. Challenges framing and groupthink on strategy and plans — does not pick between options for you, and does not...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tars/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

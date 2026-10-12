@@ -17,7 +17,7 @@
     "title": "Miffy - Maintenance Triage by Miffy",
     "description": "Coordinates residential maintenance ops bots end to end — intake, P1–P4 triage, dispatch, resident status texts, closeout/photo QA, and unit cost coding...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

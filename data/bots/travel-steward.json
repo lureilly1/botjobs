@@ -1,0 +1,42 @@
+{
+  "slug": "travel-steward",
+  "name": "Travel Steward",
+  "grokShareUrl": "https://x.ai/bot/WNoawju9U2WDwe2yPxGjO",
+  "botId": "WNoawju9U2WDwe2yPxGjO",
+  "creator": {
+    "handle": "stbenjam",
+    "url": "https://x.com/stbenjam"
+  },
+  "sourceUrl": "https://x.com/stbenjam/status/2107250043296063620",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/travel-steward/"
+  },
+  "description": null,
+  "official": {
+    "title": "Travel Steward by Stephen",
+    "description": "A travel steward for trips, flights, stays, and day-of logistics. Runs a daily travel monitor that turns booked plans into practical checks and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "monitoring",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/travel-steward/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

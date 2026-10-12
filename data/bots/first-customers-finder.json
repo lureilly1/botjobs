@@ -1,0 +1,42 @@
+{
+  "slug": "first-customers-finder",
+  "name": "First Customers Finder",
+  "grokShareUrl": "https://x.ai/bot/1vDU_ekPGWy7UztJhp2yK",
+  "botId": "1vDU_ekPGWy7UztJhp2yK",
+  "creator": {
+    "handle": "fabian_thepulse",
+    "url": "https://x.com/fabian_thepulse"
+  },
+  "sourceUrl": "https://x.com/fabian_thepulse/status/2107255964818903059",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/first-customers-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "First Customers Finder by Fabian",
+    "description": "Finds 5 real leads for your product every weekday morning and drafts the first message. You just hit send. Updated Oct 2026: stricter lead checks, a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "marketer",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/first-customers-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

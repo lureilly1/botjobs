@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "X Follower Spam Scanner by Benjamin",
+    "title": "X Follower Spam Scanner by Ben",
     "description": "Scans your X followers for spam, bots, hollow Parody/Fan accounts, and impersonators—then asks before you block. For anyone who wants a cleaner follower...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

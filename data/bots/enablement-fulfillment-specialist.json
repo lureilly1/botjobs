@@ -17,7 +17,7 @@
     "title": "Enablement Fulfillment Specialist by SpaceX",
     "description": "Answer \"send me the recordings\" without digging. Finds Zoom assets, builds one-pagers, uploads to Drive, and drafts the reply with links.",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "x-api-engineer",
+  "name": "X API Engineer",
+  "grokShareUrl": "https://x.ai/bot/ay0PGygsBxYONJRITWABE",
+  "botId": "ay0PGygsBxYONJRITWABE",
+  "creator": {
+    "handle": "sat0xshi",
+    "url": "https://x.com/sat0xshi"
+  },
+  "sourceUrl": "https://x.com/sat0xshi/status/2109107737158377541",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-api-engineer/"
+  },
+  "description": null,
+  "official": {
+    "title": "X API Engineer by Paul",
+    "description": "Helps you ship an app on the X API. Surveys the Developer Exhibit, reads the docs, builds what you pick, walks you through console keys, demos it, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-api-engineer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

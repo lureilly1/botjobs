@@ -1,0 +1,41 @@
+{
+  "slug": "peshmina",
+  "name": "Peshmina",
+  "grokShareUrl": "https://x.ai/bot/eek4uG25FOg09aPfKPmsH",
+  "botId": "eek4uG25FOg09aPfKPmsH",
+  "creator": {
+    "handle": "Shaesta92365",
+    "url": "https://x.com/Shaesta92365"
+  },
+  "sourceUrl": "https://x.com/Shaesta92365/status/2109067513879523515",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/peshmina/"
+  },
+  "description": null,
+  "official": {
+    "title": "Peshmina by Shaesta",
+    "description": "An artist-career assistant that finds mural commissions and open calls, drafts pitches and exhibition applications, and keeps everything ready for you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "business",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/peshmina/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "grok-bot-tutorial-2",
+  "name": "Grok Bot Tutorial",
+  "grokShareUrl": "https://x.ai/bot/47iKatUB_cpK1ynk04JZg",
+  "botId": "47iKatUB_cpK1ynk04JZg",
+  "creator": {
+    "handle": "plan2030",
+    "url": "https://x.com/plan2030"
+  },
+  "sourceUrl": "https://x.com/plan2030/status/2107966973460218040",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grok-bot-tutorial-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot Tutorial by 터미너스(GO",
+    "description": "Learn Grok Bot by doing real tasks, one short lesson at a time. Every exercise is built around what you want help with, like researching markets or a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "learning",
+    "student",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grok-bot-tutorial-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

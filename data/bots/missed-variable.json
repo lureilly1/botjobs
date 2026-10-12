@@ -1,0 +1,41 @@
+{
+  "slug": "missed-variable",
+  "name": "Missed Variable",
+  "grokShareUrl": "https://x.ai/bot/vj2b2E2sbf2rBU0zzzRUw",
+  "botId": "vj2b2E2sbf2rBU0zzzRUw",
+  "creator": {
+    "handle": "Root_Logic_0",
+    "url": "https://x.com/Root_Logic_0"
+  },
+  "sourceUrl": "https://x.com/Root_Logic_0/status/2107437258500616260",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/missed-variable/"
+  },
+  "description": null,
+  "official": {
+    "title": "Missed Variable by linh",
+    "description": "A reasoning gym that tests your judgment across business, AI, scams, and everyday problems. Get a scenario, make your call, see the variable you missed,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/missed-variable/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

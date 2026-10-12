@@ -1,0 +1,42 @@
+{
+  "slug": "local-business-website-hunter",
+  "name": "Local Business Website Hunter",
+  "grokShareUrl": "https://x.ai/bot/U87LeqeLNEIKRe9ctpRxG",
+  "botId": "U87LeqeLNEIKRe9ctpRxG",
+  "creator": {
+    "handle": "NewLongMoney",
+    "url": "https://x.com/NewLongMoney"
+  },
+  "sourceUrl": "https://x.com/NewLongMoney/status/2108069128846328185",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/local-business-website-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Local Business Website Hunter by Kevin",
+    "description": "Finds active local businesses with no website, builds each a demo site from its own content, and prepares a quote PDF and outreach message, all held for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "growth",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/local-business-website-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

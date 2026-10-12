@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Wakeup 2 Day Trade by D.Shi",
-    "description": "Type Dig $TICKER for a fast, source-dated first pass on why a stock is moving: catalyst strength, dilution and cash risk, short interest, and...",
+    "description": "Type Dig $TICKER for a source-dated first pass on why a stock is moving, the catalyst, dilution and cash risk, and speculative 12–18 month scenarios,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

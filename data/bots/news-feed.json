@@ -1,0 +1,42 @@
+{
+  "slug": "news-feed",
+  "name": "News Feed",
+  "grokShareUrl": "https://x.ai/bot/ERa5jibQitS0Q9xDpEpeL",
+  "botId": "ERa5jibQitS0Q9xDpEpeL",
+  "creator": {
+    "handle": "Av1dlive",
+    "url": "https://x.com/Av1dlive"
+  },
+  "sourceUrl": "https://x.com/Av1dlive/status/2108155052615782427",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/news-feed/"
+  },
+  "description": null,
+  "official": {
+    "title": "News Feed by Avid",
+    "description": "Watches the X accounts and RSS feeds you choose and posts a short, deduplicated news brief in chat every 15 minutes. Read-only, built for traders and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "investor",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/news-feed/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

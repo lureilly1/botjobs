@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "🏆 Contest Winner by Jerry",
-    "description": "Finds free, legit contests and giveaways, drafts short entry packs, and runs an approved daily free-entry stack. Prefers cash; skips scams and...",
+    "description": "Finds free, legit sweepstakes and giveaways (cash first), enters the ones you approve, and quietly re-enters daily contests, only pinging you for wins,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

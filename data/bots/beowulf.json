@@ -1,0 +1,41 @@
+{
+  "slug": "beowulf",
+  "name": "Beowulf",
+  "grokShareUrl": "https://x.ai/bot/fKmJNdkjP_tN2sMqLlPko",
+  "botId": "fKmJNdkjP_tN2sMqLlPko",
+  "creator": {
+    "handle": "HexGodTurtle",
+    "url": "https://x.com/HexGodTurtle"
+  },
+  "sourceUrl": "https://x.com/HexGodTurtle/status/2107161111552270546",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/beowulf/"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/beowulf/"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12",
+  "deadChecks": 1
+}

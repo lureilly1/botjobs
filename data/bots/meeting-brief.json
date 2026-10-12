@@ -1,0 +1,42 @@
+{
+  "slug": "meeting-brief",
+  "name": "Meeting Brief",
+  "grokShareUrl": "https://x.ai/bot/JN9e1WggIKVWhCEZrySlj",
+  "botId": "JN9e1WggIKVWhCEZrySlj",
+  "creator": {
+    "handle": "Limok_igit",
+    "url": "https://x.com/Limok_igit"
+  },
+  "sourceUrl": "https://x.com/Limok_igit/status/2107639415656911299",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meeting-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meeting Brief by Komil",
+    "description": "Walk into every call prepared — source-linked attendees, agenda, and open loops in under 90 seconds.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meetings",
+    "productivity",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meeting-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

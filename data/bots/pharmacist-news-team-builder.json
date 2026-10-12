@@ -1,0 +1,43 @@
+{
+  "slug": "pharmacist-news-team-builder",
+  "name": "薬剤師ニュースチーム立ち上げbot",
+  "grokShareUrl": "https://x.ai/bot/h2c1pK5fFqKPvzfm-rvQV",
+  "botId": "h2c1pK5fFqKPvzfm-rvQV",
+  "creator": {
+    "handle": "tadayaku_Pha",
+    "url": "https://x.com/tadayaku_Pha"
+  },
+  "sourceUrl": "https://x.com/tadayaku_Pha/status/2109233572024590623",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pharmacist-news-team-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "薬剤師ニュースチーム立ち上げbot by Kenshiro",
+    "description": "日本の薬剤師向けに、毎朝の業界ニュースを集めて確かめ、記事と音声MP3で届ける6体のチームをあなたのGrok Botに作ります。立ち上げ後は、時間や内容の変更を相談できる窓口になります。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "health",
+    "research",
+    "automation",
+    "agent-team",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pharmacist-news-team-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

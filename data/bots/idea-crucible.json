@@ -1,0 +1,42 @@
+{
+  "slug": "idea-crucible",
+  "name": "Idea Crucible",
+  "grokShareUrl": "https://x.ai/bot/wVlStqEQsN4UJHB0ai5xU",
+  "botId": "wVlStqEQsN4UJHB0ai5xU",
+  "creator": {
+    "handle": "krish1403",
+    "url": "https://x.com/krish1403"
+  },
+  "sourceUrl": "https://x.com/krish1403/status/2107383761281437925",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/idea-crucible/"
+  },
+  "description": null,
+  "official": {
+    "title": "Idea Crucible by saikrishna",
+    "description": "Finds near-term product and service opportunities you can sell or ship, then stress-tests the best ones with Socratic pushback so weak bets die early.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/idea-crucible/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "mbti-bot-hub",
+  "name": "MBTI Bot Hub",
+  "grokShareUrl": "https://x.ai/bot/Fwf_OUvMYPcvVkKsy9jNd",
+  "botId": "Fwf_OUvMYPcvVkKsy9jNd",
+  "creator": {
+    "handle": "nishiyama_dev",
+    "url": "https://x.com/nishiyama_dev"
+  },
+  "sourceUrl": "https://x.com/nishiyama_dev/status/2109206275976536119",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mbti-bot-hub/"
+  },
+  "description": null,
+  "official": {
+    "title": "MBTI Bot Hub by Yudai",
+    "description": "MBTIチームの窓口（ユーザーの分身）。仕様は...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mbti-bot-hub/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

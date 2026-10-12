@@ -1,0 +1,41 @@
+{
+  "slug": "x-assistant",
+  "name": "X assistant",
+  "grokShareUrl": "https://x.ai/bot/J7OPBxlsIUZB7IoXoB5wE",
+  "botId": "J7OPBxlsIUZB7IoXoB5wE",
+  "creator": {
+    "handle": "dragosroua",
+    "url": "https://x.com/dragosroua"
+  },
+  "sourceUrl": "https://x.com/dragosroua/status/2108930574274769191",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "X assistant by Dragos",
+    "description": "Watches your X mentions, topics, and product names, then sends a short weekday morning rundown of what needs you. Read-only by default.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "monitoring",
+    "scheduled",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

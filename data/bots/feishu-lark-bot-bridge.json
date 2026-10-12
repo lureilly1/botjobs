@@ -1,0 +1,42 @@
+{
+  "slug": "feishu-lark-bot-bridge",
+  "name": "飞书BOT",
+  "grokShareUrl": "https://x.ai/bot/JcuatE94VVR3njSPDBulv",
+  "botId": "JcuatE94VVR3njSPDBulv",
+  "creator": {
+    "handle": "tuboshu321",
+    "url": "https://x.com/tuboshu321"
+  },
+  "sourceUrl": "https://x.com/tuboshu321/status/2109223487479181390",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/feishu-lark-bot-bridge/"
+  },
+  "description": null,
+  "official": {
+    "title": "飞书BOT by ma",
+    "description": "把你的 Grok Bot 变成飞书里的私人机器人：在飞书私聊它，就能让它查资料、写东西、跑任务，结果直接回到飞书。安装后它会带你约 10 分钟配好，你只需要在飞书开放平台建一个自建应用。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/feishu-lark-bot-bridge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

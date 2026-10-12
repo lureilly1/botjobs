@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Kilo by Terry",
-    "description": "Keeps Grok Bot chats small so usage stays lower. Scans chat size, recommends refresh at 5 MB+, and runs a weekly nudge — with short handoff briefs so...",
+    "description": "Long chats burn through your usage. Every message makes a bot reread its chat, so a heavy chat costs more each time and slows down once it fills the...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "occasion-keeper",
+  "name": "Occasion Keeper",
+  "grokShareUrl": "https://x.ai/bot/ljvkTtXU7Qd20efplT1KN",
+  "botId": "ljvkTtXU7Qd20efplT1KN",
+  "creator": {
+    "handle": "BTC_Yogi",
+    "url": "https://x.com/BTC_Yogi"
+  },
+  "sourceUrl": "https://x.com/BTC_Yogi/status/2108702195457929664",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/occasion-keeper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Occasion Keeper by Joseph",
+    "description": "Remembers the birthdays and anniversaries that matter, reminds you two weeks ahead, suggests gifts by budget and interests, and drafts card messages....",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "events",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/occasion-keeper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "my-first-health-bot",
+  "name": "My First Health Bot",
+  "grokShareUrl": "https://x.ai/bot/31D69UiAib5rf67Ag1_Ba",
+  "botId": "31D69UiAib5rf67Ag1_Ba",
+  "creator": {
+    "handle": "gilman_trevor",
+    "url": "https://x.com/gilman_trevor"
+  },
+  "sourceUrl": "https://x.com/gilman_trevor/status/2109229215296225396",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/my-first-health-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "My First Health Bot by TrevorGilman",
+    "description": "A young adult's first health and fitness coach: simple workouts, cheap and easy meal ideas, and help finding a doctor and dentist, understanding...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "life-hacks",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/my-first-health-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

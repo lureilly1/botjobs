@@ -17,7 +17,7 @@
     "title": "WebMCP Eval & Build Guide by Growth",
     "description": "Helps a site owner run WebMCP Eval on a URL, explain gaps in plain language, then turn those gaps into a short Webtools Build brief. For owners...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

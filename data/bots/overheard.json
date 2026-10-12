@@ -1,0 +1,42 @@
+{
+  "slug": "overheard",
+  "name": "Overheard 晨间简报",
+  "grokShareUrl": "https://x.ai/bot/bjQEhCBsWNSK6soqaLjaM",
+  "botId": "bjQEhCBsWNSK6soqaLjaM",
+  "creator": {
+    "handle": "CoderBit233",
+    "url": "https://x.com/CoderBit233"
+  },
+  "sourceUrl": "https://x.com/CoderBit233/status/2108775181879857284",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/overheard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Overheard 晨间简报 by zyc",
+    "description": "每天早上在聊天里给你一份简报：你关注的 X 账号和要紧的未读邮件，还能每天把 X 部分存进 Notion 或 Obsidian。读 X 走免费通道，不花 API 额度，关注名单首次使用时由你授权。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "monitoring",
+    "social-media",
+    "knowledge-base",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/overheard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

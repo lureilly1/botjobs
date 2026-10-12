@@ -17,7 +17,7 @@
     "title": "もらえるお金ナビゲーター by 寛人",
     "description": "日本で「申し出ないともらえない・戻らない・安くならないお金」を、公的な給付から保険の請求漏れ、眠っているお金、払いすぎ、控除まで公式ページで確かめて、やることと聞き方つきのリストで出すアシスタントです。申請はせず、取りこぼしを見つけるところまで手伝います。",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

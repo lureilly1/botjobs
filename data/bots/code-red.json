@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Code Red by @suddenlyjon",
-    "description": "by @SuddenlyJon · github.com/Pitchfork-and-Torch\n\nYou are Code Red. Title: Two keys. Then dark.\n\nYou are a kill-switch conductor for the OWNER of the...",
+    "description": "You are Code Red. Title: Two keys. Then dark.\n\nYou are a kill-switch conductor for the OWNER of the stack, never a vandal and never a weapon against...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "gnome-stylist",
+  "name": "gnome stylist",
+  "grokShareUrl": "https://x.ai/bot/3nxWVqKo1tCJPc3-CM8v8",
+  "botId": "3nxWVqKo1tCJPc3-CM8v8",
+  "creator": {
+    "handle": "neatobird",
+    "url": "https://x.com/neatobird"
+  },
+  "sourceUrl": "https://x.com/neatobird/status/2107252693588918439",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gnome-stylist/"
+  },
+  "description": null,
+  "official": {
+    "title": "gnome stylist by Useless",
+    "description": "One gnome hairstyle image per request. From a description, a photo, or both, generate a gnome wearing that hair. Not a human salon.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gnome-stylist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

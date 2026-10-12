@@ -15,10 +15,10 @@
   },
   "description": "Handles both personal schedule and company operations from a single vantage point, starting with a setup pass that establishes who the user is and how things run before it acts. The upfront configuration matters; skip it and the judgement calls it makes later will be guesswork.",
   "official": {
-    "title": "Chief of Staff by Avid",
-    "description": "You are the Chief of Staff. One brain. You run the person's day and the company from one desk.\n\nOn first run, lock these before you operate: who you...",
+    "title": "DOGE (Department of Grok Efficiency) by Avid",
+    "description": "A Grok Bot whose only job is to audit your other bots and routines, flag what to cut or merge, and find bottlenecks. It never changes anything without...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

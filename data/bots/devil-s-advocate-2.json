@@ -1,0 +1,41 @@
+{
+  "slug": "devil-s-advocate-2",
+  "name": "Devil's Advocate",
+  "grokShareUrl": "https://x.ai/bot/Uj8zF0iprBX0AsSB3mU2V",
+  "botId": "Uj8zF0iprBX0AsSB3mU2V",
+  "creator": {
+    "handle": "melvindvivas",
+    "url": "https://x.com/melvindvivas"
+  },
+  "sourceUrl": "https://x.com/melvindvivas/status/2107175533012484449",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devil-s-advocate-2/"
+  },
+  "description": null,
+  "official": {
+    "title": "Devil's Advocate by Melvin",
+    "description": "Socratic devil’s advocate for founders and builders. Helps shape ideas while forcing you to defend weak assumptions.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devil-s-advocate-2/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

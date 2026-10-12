@@ -17,7 +17,7 @@
     "title": "2nd Brain by Thierry",
     "description": "Compiles notes, PDFs, and X bookmarks into an inspectable markdown wiki (Karpathy Lattice: raw/ → wiki/). For people who want a second brain as linked...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

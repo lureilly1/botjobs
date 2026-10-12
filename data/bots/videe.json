@@ -1,0 +1,42 @@
+{
+  "slug": "videe",
+  "name": "Videe",
+  "grokShareUrl": "https://x.ai/bot/-dB6UXKIRjKSnCiJkv_zT",
+  "botId": "-dB6UXKIRjKSnCiJkv_zT",
+  "creator": {
+    "handle": "nickgaiski",
+    "url": "https://x.com/nickgaiski"
+  },
+  "sourceUrl": "https://x.com/nickgaiski/status/2107944084530733262",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/videe/"
+  },
+  "description": null,
+  "official": {
+    "title": "Videe by nickgaiski",
+    "description": "A video editor bot for podcasts, YouTube long-form and short-form clips. It syncs multicam footage, directs the cameras, proposes cleanup, adds captions...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "youtube",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/videe/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

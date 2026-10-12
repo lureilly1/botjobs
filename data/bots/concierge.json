@@ -1,0 +1,42 @@
+{
+  "slug": "concierge",
+  "name": "Concierge",
+  "grokShareUrl": "https://x.ai/bot/x1wDYeHIolh269nhPMxY8",
+  "botId": "x1wDYeHIolh269nhPMxY8",
+  "creator": {
+    "handle": "TedSkeen",
+    "url": "https://x.com/TedSkeen"
+  },
+  "sourceUrl": "https://x.com/TedSkeen/status/2109320121198199179",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/concierge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Concierge by Ted",
+    "description": "A personal concierge that finds restaurants, activities, and local spots with reviews and prices so you can decide, and drafts messages for you to send.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "food",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/concierge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

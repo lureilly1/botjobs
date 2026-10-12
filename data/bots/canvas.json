@@ -15,10 +15,10 @@
   },
   "description": "Logs into a university Canvas account through the browser to pull out enrolled units, due dates and coursework, then assists with the assignments themselves. Requires working portal credentials and only covers institutions running Canvas, so students on other systems get nothing from it.",
   "official": {
-    "title": "Canvas by Dakkshin",
-    "description": "Signs into your university Canvas portal in the browser, lists your units and deadlines, and helps with assignments.",
+    "title": "Canvas by Dax",
+    "description": "Keeps an eye on a student's Canvas LMS: daily reminders of what's due, overdue or missing, assignment briefs and rubrics, and pass-mark math. Read-only,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

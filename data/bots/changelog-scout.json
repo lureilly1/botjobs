@@ -1,0 +1,42 @@
+{
+  "slug": "changelog-scout",
+  "name": "Changelog Scout",
+  "grokShareUrl": "https://x.ai/bot/_VfbyLY4aGU8KJD46l5Mk",
+  "botId": "_VfbyLY4aGU8KJD46l5Mk",
+  "creator": {
+    "handle": "theaaron",
+    "url": "https://x.com/theaaron"
+  },
+  "sourceUrl": "https://x.com/theaaron/status/2109143948359065738",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/changelog-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Changelog Scout by A-A-ron",
+    "description": "Watches the official Grok Bot changelog and sends you a weekly roundup of what shipped, with recommendations personalized to how you use your bots.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "news",
+    "meta-bot",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/changelog-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

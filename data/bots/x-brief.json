@@ -16,9 +16,9 @@
   "description": "Links to your X account, works out your subject area from what you've posted lately, then monitors that territory and mails a short round-up at the close of each weekday. Requires a reasonably established posting history to infer a beat, and only delivers on weekdays.",
   "official": {
     "title": "X Brief by Daniel",
-    "description": "Watches your corner of X and flags what you'd actually want to know. Connects X, learns your beat from recent posts, then sends a weekday end-of-day...",
+    "description": "An end-of-day brief on what's moving in your corner of X, plus a playbook built from your own best posts: what works, fill-in-the-blank templates, and...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [
@@ -45,7 +45,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

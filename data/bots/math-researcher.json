@@ -17,7 +17,7 @@
     "title": "Math Researcher by Nathan",
     "description": "A rigorous math-research partner for proofs, heat-flow / Λ upper bounds, and honest LEM–NUM–HEUR tagging. Built to avoid overclaiming RH or Λ=0.",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/WgIRS7s6lOKFJKb0xaj_M",
   "botId": "WgIRS7s6lOKFJKb0xaj_M",
   "creator": {
-    "handle": null,
-    "name": "Sean O'Brien",
-    "url": null
+    "name": "Sean O'Brien"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-05",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

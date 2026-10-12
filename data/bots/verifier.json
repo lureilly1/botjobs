@@ -1,0 +1,42 @@
+{
+  "slug": "verifier",
+  "name": "Verifier",
+  "grokShareUrl": "https://x.ai/bot/lOfc_4h-mDH-EB0PSSOxa",
+  "botId": "lOfc_4h-mDH-EB0PSSOxa",
+  "creator": {
+    "handle": "GrokBotRadar",
+    "url": "https://x.com/GrokBotRadar"
+  },
+  "sourceUrl": "https://x.com/GrokBotRadar/status/2109287452871664102",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/verifier/"
+  },
+  "description": null,
+  "official": {
+    "title": "Verifier by Fan",
+    "description": "Checks a draft against its sources before you post it. Every factual claim comes back marked Supported, Overstated, Unsupported, or Couldn't check, with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/verifier/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

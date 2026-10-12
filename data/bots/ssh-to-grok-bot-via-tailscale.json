@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "SSH to Grok Bot via Tailscale by Altman",
-    "description": "Installs Tailscale on Grok Bot's computer so you can SSH in over your tailnet (local client or Tailscale web console). On first run, install...",
+    "title": "SSH to Grok via Tailscale by Altman",
+    "description": "Installs Tailscale on Grok Bot's computer so you can SSH in with `ssh box@grok-bot` over your tailnet. Boot autostart, a 5-minute self-heal check after...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

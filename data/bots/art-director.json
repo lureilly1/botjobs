@@ -1,0 +1,43 @@
+{
+  "slug": "art-director",
+  "name": "Art Director",
+  "grokShareUrl": "https://x.ai/bot/CPsMufoHozETWciYoiqvL",
+  "botId": "CPsMufoHozETWciYoiqvL",
+  "creator": {
+    "handle": "Carlos_Arthurr",
+    "url": "https://x.com/Carlos_Arthurr"
+  },
+  "sourceUrl": "https://x.com/Carlos_Arthurr/status/2107422079087706174",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/art-director/"
+  },
+  "description": null,
+  "official": {
+    "title": "Art Director by Carlos",
+    "description": "An art director and graphic designer that runs your brand's Instagram. It hunts Pinterest for ideas to remix, makes on-brand images and carousels, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "content",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/art-director/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

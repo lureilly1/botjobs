@@ -17,7 +17,7 @@
     "title": "Panda 🐼 Weather 🌤️ by Tom",
     "description": "Give it a US zip code, a city, or a postal code anywhere in the world and get a detailed 48-hour forecast in 4-hour blocks plus an animated radar map....",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

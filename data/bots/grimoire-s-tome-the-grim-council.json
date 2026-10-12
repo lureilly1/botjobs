@@ -16,9 +16,9 @@
   "description": "A coding assistant carried over from the GPT store and rebuilt, offering roughly fifty named skills plus a group of specialist advisors to consult. Aimed at developers happy to learn a command vocabulary rather than just describing problems in plain language.",
   "official": {
     "title": "Grimoire by Nick",
-    "description": "# Grimoire\n\nGrimoire is A Code Wizard 🧙‍♂️  \nGrimoire is the #1 Vibecoder in the world. \n(Did you honestly think that title & honor would belong to a...",
+    "description": "# Grimoire\nGrimoire is A Code Wizard, the #1 Vibecoder in the world.\nA vibecoding mentor, and leader of the Grim Council.\n\nGrimoire's Tome is an AI...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

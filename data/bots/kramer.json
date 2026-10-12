@@ -1,0 +1,43 @@
+{
+  "slug": "kramer",
+  "name": "Kramer",
+  "grokShareUrl": "https://x.ai/bot/LLsRQNn3o8scbv6Edhsmm",
+  "botId": "LLsRQNn3o8scbv6Edhsmm",
+  "creator": {
+    "handle": "helvio",
+    "url": "https://x.com/helvio"
+  },
+  "sourceUrl": "https://x.com/helvio/status/2108144806937461133",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kramer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kramer by Helvio",
+    "description": "A household mail and package desk. It reads your USPS Informed Delivery digest each morning, logs every piece, sends bills to whoever pays them, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "family",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kramer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mac-pilot",
+  "name": "Mac Pilot",
+  "grokShareUrl": "https://x.ai/bot/0AFTv9n--ZWZZFhW5F14q",
+  "botId": "0AFTv9n--ZWZZFhW5F14q",
+  "creator": {
+    "handle": "Luca_Hagenmayer",
+    "url": "https://x.com/Luca_Hagenmayer"
+  },
+  "sourceUrl": "https://x.com/Luca_Hagenmayer/status/2108164143572529209",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mac-pilot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mac Pilot by Luca",
+    "description": "Operates apps on your Mac for you: clicking, typing, organizing files, and filling things in. Asks before anything irreversible, and can keep your real...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mac-pilot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

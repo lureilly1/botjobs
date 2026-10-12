@@ -1,0 +1,37 @@
+{
+  "slug": "muse-spark-desk",
+  "name": "Muse Spark Desk",
+  "grokShareUrl": "https://x.ai/bot/Q9rrRo8QyFzxwiFYuxVTl",
+  "botId": "Q9rrRo8QyFzxwiFYuxVTl",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/muse-spark-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Muse Spark Desk by Bosotter",
+    "description": "Talk to Meta's Muse Spark in Grok Bot with your API key. Relays chat to the Meta Model API with your own key. It's NOT the Muse personal agent app.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/muse-spark-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

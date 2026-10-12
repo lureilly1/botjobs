@@ -1,0 +1,42 @@
+{
+  "slug": "cross-border-money-desk",
+  "name": "Cross-Border Money Desk",
+  "grokShareUrl": "https://x.ai/bot/RgivaqZM6x_meep2iaobm",
+  "botId": "RgivaqZM6x_meep2iaobm",
+  "creator": {
+    "handle": "BankrolledInc",
+    "url": "https://x.com/BankrolledInc"
+  },
+  "sourceUrl": "https://x.com/BankrolledInc/status/2108951740045472237",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cross-border-money-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cross-Border Money Desk by Matt",
+    "description": "Paste an invoice, payout email or rough list of accounts and get a plain-English explanation of cross-border pay and where your cash sits, for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "finance",
+    "business",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cross-border-money-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "phone-receptionist",
+  "name": "Phone Receptionist",
+  "grokShareUrl": "https://x.ai/bot/Z7LfRtBtwfaojaomMrAuX",
+  "botId": "Z7LfRtBtwfaojaomMrAuX",
+  "creator": {
+    "handle": "SimplyColeB",
+    "url": "https://x.com/SimplyColeB"
+  },
+  "sourceUrl": "https://x.com/SimplyColeB/status/2107971762831114461",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/phone-receptionist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Phone Receptionist by Cole",
+    "description": "A Grok Bot that answers your phone and books meetings on your Google Calendar — Agent Phone Plan $15 first month → $30/mo, with voice library or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "automation",
+    "calendar",
+    "support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/phone-receptionist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

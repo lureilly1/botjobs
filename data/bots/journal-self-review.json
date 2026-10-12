@@ -17,7 +17,7 @@
     "title": "精神メンタル・アドバイザー by Shimpei",
     "description": "過去メモを事実／解釈／未確認に分け、メタ認知したうえで次の一手を1〜3個出す自己観察ボット。診断・自動投稿なし。個人データなしの公開テンプレ。",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

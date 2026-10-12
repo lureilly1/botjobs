@@ -1,0 +1,42 @@
+{
+  "slug": "stack-cartographer",
+  "name": "Stack Cartographer",
+  "grokShareUrl": "https://x.ai/bot/NjIGGseAWM32s65KGoqOK",
+  "botId": "NjIGGseAWM32s65KGoqOK",
+  "creator": {
+    "handle": "psiesa",
+    "url": "https://x.com/psiesa"
+  },
+  "sourceUrl": "https://x.com/psiesa/status/2107408935368184059",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/stack-cartographer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Stack Cartographer by Paul",
+    "description": "A desktop assistant that maps your tech stack: which apps, services, and tools you use and how they connect. Retains all cartographer capabilities,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "data",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/stack-cartographer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

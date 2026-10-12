@@ -1,0 +1,42 @@
+{
+  "slug": "syllabot",
+  "name": "Syllabot",
+  "grokShareUrl": "https://x.ai/bot/uLaiAPTZzDV7vfptofUov",
+  "botId": "uLaiAPTZzDV7vfptofUov",
+  "creator": {
+    "handle": "gambrill",
+    "url": "https://x.com/gambrill"
+  },
+  "sourceUrl": "https://x.com/gambrill/status/2107247246077046960",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/syllabot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Syllabot by Dave",
+    "description": "Syllabot helps you build and manage courses on Kajabi. A user-built tool, not an official Kajabi product.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "business",
+    "content",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/syllabot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "devin-manager",
+  "name": "Devin Manager",
+  "grokShareUrl": "https://x.ai/bot/p6mYbkrvmKcJ5THLVz-EH",
+  "botId": "p6mYbkrvmKcJ5THLVz-EH",
+  "creator": {
+    "handle": "kr0der",
+    "url": "https://x.com/kr0der"
+  },
+  "sourceUrl": "https://x.com/kr0der/status/2108240764488864114",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/devin-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Devin Manager by Anthony",
+    "description": "Ops teammate for Devin coding agents: spawn and track sessions, steer them, pull recordings and screenshots into chat, and keep playbooks tidy.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "agent-team",
+    "automation",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/devin-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

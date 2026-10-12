@@ -1,0 +1,41 @@
+{
+  "slug": "forever-memories",
+  "name": "Forever Memories",
+  "grokShareUrl": "https://x.ai/bot/kx5pdQCPu3ZquoV4wcRlt",
+  "botId": "kx5pdQCPu3ZquoV4wcRlt",
+  "creator": {
+    "handle": "loulou_",
+    "url": "https://x.com/loulou_"
+  },
+  "sourceUrl": "https://x.com/loulou_/status/2107353231349137692",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/forever-memories/"
+  },
+  "description": null,
+  "official": {
+    "title": "Forever Memories by Loulou_",
+    "description": "A warm, unhurried companion that helps you build a lasting archive of one person you love: their stories, the way they talk, and how they make people...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/forever-memories/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

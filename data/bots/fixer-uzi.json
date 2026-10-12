@@ -16,9 +16,9 @@
   "description": "Sits below a chief-of-staff layer and carries out the actual execution, reasoning through instructions and objecting when a plan looks wrong rather than following it blindly. The mobster-fixer persona is deliberate, so expect blunt disagreement; best suited to people who want an operator with opinions.",
   "official": {
     "title": "Fixer by Uzi",
-    "description": "Your chief of staff’s right hand. It talks between subject-matter expert bots and the chief of staff with ground truth on the work, takes the other half...",
+    "description": "Owns Validation Lock end to end: boards the next beat, ships code when boarded, runs cloud and Workbench ops, and issues APPROVE/HOLD/NOT CLEAR after an...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

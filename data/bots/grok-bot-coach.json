@@ -16,9 +16,9 @@
   "description": "Talks through the design of your own Grok bots, from pinning down a specific job for the profile to picking connectors and setting standing instructions, then reviews and adjusts what you have built. Useful once you have a rough idea; less so if you do not yet know what you want a bot for.",
   "official": {
     "title": "Grok Bot Coach by Amina",
-    "description": "Audits and tightens your Grok bots so they actually get work done: a concrete job, the right connectors, and routines for anything that repeats. Every...",
+    "description": "Keeps a whole set of Grok bots well set up, safe, and worth the credits they use. Every Monday it checks each bot, old and new, and sends each fix to...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "x-monitor-digest",
+  "name": "X監視Bot",
+  "grokShareUrl": "https://x.ai/bot/h0YtWQyxMfHnedrjMsnOR",
+  "botId": "h0YtWQyxMfHnedrjMsnOR",
+  "creator": {
+    "handle": "wad0427",
+    "url": "https://x.com/wad0427"
+  },
+  "sourceUrl": "https://x.com/wad0427/status/2108470777402335237",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-monitor-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "X監視Bot by わど🐏AI界のマスコット",
+    "description": "決めたXのアカウント・リスト・キーワードを見て、伸び始めた投稿とあなたへの反応を毎朝まとめて届けます。AI活用の発信者@wad0427を最初から参考アカウントに入れています。",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "monitoring",
+    "personal",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-monitor-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

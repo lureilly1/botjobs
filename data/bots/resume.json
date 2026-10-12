@@ -1,0 +1,41 @@
+{
+  "slug": "resume",
+  "name": "Resume",
+  "grokShareUrl": "https://x.ai/bot/q5xkbGfLpyyZ9Qsl8tmnJ",
+  "botId": "q5xkbGfLpyyZ9Qsl8tmnJ",
+  "creator": {
+    "handle": "ItsMeTrueG",
+    "url": "https://x.com/ItsMeTrueG"
+  },
+  "sourceUrl": "https://x.com/ItsMeTrueG/status/2107417874738639053",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/resume/"
+  },
+  "description": null,
+  "official": {
+    "title": "Resume by Devin",
+    "description": "An honest job-hunt helper. It keeps one baseline resume, finds and ranks openings that fit your schedule and pay goals, writes tailored drafts, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/resume/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

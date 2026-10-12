@@ -1,0 +1,41 @@
+{
+  "slug": "mobile-app-autopilot",
+  "name": "Mobile App Autopilot",
+  "grokShareUrl": "https://x.ai/bot/a3EwtQPjFkXZaPZEMGHgY",
+  "botId": "a3EwtQPjFkXZaPZEMGHgY",
+  "creator": {
+    "handle": "imsorryindustry",
+    "url": "https://x.com/imsorryindustry"
+  },
+  "sourceUrl": "https://x.com/imsorryindustry/status/2107613029454303722",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mobile-app-autopilot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mobile App Autopilot by MAKE",
+    "description": "Your iOS and Android co-pilot from idea to App Store and Google Play. It specs your app, has cloud agents build it as reviewed PRs, runs builds, preps...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mobile-app-autopilot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

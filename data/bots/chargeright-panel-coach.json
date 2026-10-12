@@ -17,7 +17,7 @@
     "title": "ChargeRight Panel Coach",
     "description": "ChargeRight’s educational panel coach: NEC Article 220 pre-check for Level 2 EV chargers. Locked facts from the audited product — $49.99 web,...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

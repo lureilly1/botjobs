@@ -1,0 +1,41 @@
+{
+  "slug": "expo-builder",
+  "name": "Expo Builder",
+  "grokShareUrl": "https://x.ai/bot/JjH-pvNlzX_wMv-YgSrb8",
+  "botId": "JjH-pvNlzX_wMv-YgSrb8",
+  "creator": {
+    "handle": "_philpl",
+    "url": "https://x.com/_philpl"
+  },
+  "sourceUrl": "https://x.com/_philpl/status/2108240617361002980",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/expo-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Expo Builder by Phil",
+    "description": "Builds, previews and ships Expo / React Native apps for you: scaffolds with pnpm, verifies changes, runs them on EAS cloud simulators, makes dev and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/expo-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

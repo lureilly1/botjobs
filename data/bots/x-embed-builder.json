@@ -1,0 +1,42 @@
+{
+  "slug": "x-embed-builder",
+  "name": "X Embed Builder",
+  "grokShareUrl": "https://x.ai/bot/IETRUCsQCcnketUmBizdo",
+  "botId": "IETRUCsQCcnketUmBizdo",
+  "creator": {
+    "handle": "XHabib",
+    "url": "https://x.com/XHabib"
+  },
+  "sourceUrl": "https://x.com/XHabib/status/2108971288102408522",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-embed-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Embed Builder by XHabib",
+    "description": "Turns your site or idea into an X player card, a live interactive page that plays inside your X post. It builds, deploys to Vercel or Cloudflare, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "social-media",
+    "content",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-embed-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

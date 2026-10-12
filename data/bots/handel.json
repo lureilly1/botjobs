@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Handel by Eugene",
-    "description": "Track doppelgänger named for history’s great musical borrower. Captures what’s playing on your Mac, Windows, or Linux machine (or an attached clip),...",
+    "description": "Hears what's playing on your Mac, Windows, or Linux machine (or a clip you attach), reverse-engineers the track, and pushes harder-slapping Suno...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

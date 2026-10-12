@@ -1,0 +1,41 @@
+{
+  "slug": "clear-speech",
+  "name": "Clear Speech",
+  "grokShareUrl": "https://x.ai/bot/85J64XeyKMaYXQrMhQWpl",
+  "botId": "85J64XeyKMaYXQrMhQWpl",
+  "creator": {
+    "handle": "JideLambo",
+    "url": "https://x.com/JideLambo"
+  },
+  "sourceUrl": "https://x.com/JideLambo/status/2107436751208022328",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clear-speech/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clear Speech by Jide",
+    "description": "English speaking coach. It makes you clear, not ornate: short sentences, one correction, then you say it again.",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "student",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clear-speech/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

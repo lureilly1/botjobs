@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Weather Bot by GrokBotGod",
-    "description": "Weather Bot gives local conditions and quiet alerts only. Asks where you are once, then stays at two lines on ordinary days and one sentence when the...",
+    "description": "Local weather in two lines, with one-sentence alerts for severe weather, big temperature swings or travel trouble. Works from the location you give it...",
     "resolves": true,
-    "fetchedAt": "2026-09-28"
+    "fetchedAt": "2026-10-12"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-09-28",
+  "lastVerifiedAt": "2026-10-12",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-05"
+  "lastSeenAt": "2026-10-12"
 }

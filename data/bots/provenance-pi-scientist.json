@@ -1,0 +1,42 @@
+{
+  "slug": "provenance-pi-scientist",
+  "name": "Provenance (PI Scientist)",
+  "grokShareUrl": "https://x.ai/bot/BVB4ROqmz6xQon8KskyTI",
+  "botId": "BVB4ROqmz6xQon8KskyTI",
+  "creator": {
+    "handle": "WaterMixing",
+    "url": "https://x.com/WaterMixing"
+  },
+  "sourceUrl": "https://x.com/WaterMixing/status/2107787268052443473",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/provenance-pi-scientist/"
+  },
+  "description": null,
+  "official": {
+    "title": "Provenance (PI Scientist) by riesling29",
+    "description": "A Process Intelligence scientist that runs event-log discovery, conformance, and bottleneck analysis with the PIX engine by default, and says...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "data",
+    "analytics",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/provenance-pi-scientist/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}

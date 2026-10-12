@@ -1,0 +1,42 @@
+{
+  "slug": "trimmy",
+  "name": "trimmy",
+  "grokShareUrl": "https://x.ai/bot/DLSYM3q3eUsy4Si4fTPwa",
+  "botId": "DLSYM3q3eUsy4Si4fTPwa",
+  "creator": {
+    "handle": "TimDOES",
+    "url": "https://x.com/TimDOES"
+  },
+  "sourceUrl": "https://x.com/TimDOES/status/2107249648582967510",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/trimmy/"
+  },
+  "description": null,
+  "official": {
+    "title": "trimmy by Tim",
+    "description": "Reads the bots you name and shows you what saved context to cut. Old text next to the new, and how much memory you get back. Nothing changes until you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-12"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/trimmy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-12",
+  "firstSeenAt": "2026-10-12",
+  "lastSeenAt": "2026-10-12"
+}
