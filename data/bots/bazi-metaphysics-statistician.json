@@ -1,0 +1,41 @@
+{
+  "slug": "bazi-metaphysics-statistician",
+  "name": "玄學統計大師",
+  "grokShareUrl": "https://x.ai/bot/ypw0jJWI7HEuitbV1DLWB",
+  "botId": "ypw0jJWI7HEuitbV1DLWB",
+  "creator": {
+    "handle": "twood_trust",
+    "url": "https://x.com/twood_trust"
+  },
+  "sourceUrl": "https://x.com/twood_trust/status/2110339625000829194",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bazi-metaphysics-statistician/"
+  },
+  "description": null,
+  "official": {
+    "title": "玄學統計大師 by Twood",
+    "description": "Bilingual Chinese metaphysics assistant. BaZi-first with optional systems; English-first mode, timezone-aware casting, topic-first flow, luck timing &...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bazi-metaphysics-statistician/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

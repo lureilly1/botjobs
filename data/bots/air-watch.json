@@ -1,0 +1,43 @@
+{
+  "slug": "air-watch",
+  "name": "Air Watch",
+  "grokShareUrl": "https://x.ai/bot/XKZd7x1GsSLCYpU1XZc_o",
+  "botId": "XKZd7x1GsSLCYpU1XZc_o",
+  "creator": {
+    "handle": "jeffgreendev",
+    "url": "https://x.com/jeffgreendev"
+  },
+  "sourceUrl": "https://x.com/jeffgreendev/status/2111560769154294248",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/air-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Air Watch by Jeff",
+    "description": "Reads your Airthings monitors every 2 hours and messages only you when a room is out of range, quiet otherwise. v0.2.5; issues at...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "wellbeing",
+    "health",
+    "home",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/air-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

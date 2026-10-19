@@ -1,0 +1,42 @@
+{
+  "slug": "bridge",
+  "name": "Bridge",
+  "grokShareUrl": "https://x.ai/bot/Fw_hY6e0FpgKBFgDWqUod",
+  "botId": "Fw_hY6e0FpgKBFgDWqUod",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2111292365595885706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bridge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bridge by Jaime",
+    "description": "A local-to-cloud LLM router. It sends simple jobs to your local models, sends heavy ones to your cloud model, and keeps local model memory and health in...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bridge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

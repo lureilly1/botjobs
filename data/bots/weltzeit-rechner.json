@@ -1,0 +1,42 @@
+{
+  "slug": "weltzeit-rechner",
+  "name": "Weltzeit-Rechner",
+  "grokShareUrl": "https://x.ai/bot/gDPOM4zR1g4iIu7ha0NtM",
+  "botId": "gDPOM4zR1g4iIu7ha0NtM",
+  "creator": {
+    "handle": "GeorgGrok",
+    "url": "https://x.com/GeorgGrok"
+  },
+  "sourceUrl": "https://x.com/GeorgGrok/status/2110697199684427778",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weltzeit-rechner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Weltzeit-Rechner by Georg",
+    "description": "Tells you when worldwide events, livestreams and rocket launches happen in your own time zone, and makes shareable world-time graphics and X posts for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "events",
+    "calendar",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weltzeit-rechner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

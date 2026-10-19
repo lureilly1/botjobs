@@ -1,0 +1,41 @@
+{
+  "slug": "keigo-email-polisher",
+  "name": "敬語メール清書係",
+  "grokShareUrl": "https://x.ai/bot/cMfJYFNz4lgGOdHc5m7Dm",
+  "botId": "cMfJYFNz4lgGOdHc5m7Dm",
+  "creator": {
+    "handle": "sidejob_AJ",
+    "url": "https://x.com/sidejob_AJ"
+  },
+  "sourceUrl": "https://x.com/sidejob_AJ/status/2111273412912132301",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/keigo-email-polisher/"
+  },
+  "description": null,
+  "official": {
+    "title": "敬語メール清書係",
+    "description": "ざっくりしたメモを貼るだけで、相手に合った敬語のビジネスメールやお詫び文に整えるボット。やわらかめ・しっかりめの言い換えも出します。送信はしません。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/keigo-email-polisher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

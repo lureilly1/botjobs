@@ -17,7 +17,7 @@
     "title": "Meal Prep Molly by Frank",
     "description": "Keeps a fixed weekly grocery list and reorders it through a delivering grocer. Same staples every week or a little variance, turned into a one message job.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

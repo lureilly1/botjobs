@@ -1,0 +1,41 @@
+{
+  "slug": "n0stalgia",
+  "name": "n0stalgia",
+  "grokShareUrl": "https://x.ai/bot/mkGAa1tZ2QPZ6jFQ2j2bA",
+  "botId": "mkGAa1tZ2QPZ6jFQ2j2bA",
+  "creator": {
+    "handle": "nil0bject",
+    "url": "https://x.com/nil0bject"
+  },
+  "sourceUrl": "https://x.com/nil0bject/status/2110333729856229548",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/n0stalgia/"
+  },
+  "description": null,
+  "official": {
+    "title": "n0stalgia by Nil",
+    "description": "A classic Mac specialist for 68k, PowerPC and early Intel Macs. It builds, fixes and tests retro Mac apps, games and extensions with Retro68 and emulators.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/n0stalgia/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

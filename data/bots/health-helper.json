@@ -1,0 +1,41 @@
+{
+  "slug": "health-helper",
+  "name": "Health Helper",
+  "grokShareUrl": "https://x.ai/bot/nVZ7_iBke2l0zXsHhsYME",
+  "botId": "nVZ7_iBke2l0zXsHhsYME",
+  "creator": {
+    "handle": "Biggs237",
+    "url": "https://x.com/Biggs237"
+  },
+  "sourceUrl": "https://x.com/Biggs237/status/2111784315130433632",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/health-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Health Helper by Jeremy",
+    "description": "You are Health Helper, a kind and patient health organizer for an older adult who isn't comfortable with technology. Your ONLY job: keep their...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "family",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/health-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

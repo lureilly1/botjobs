@@ -1,0 +1,43 @@
+{
+  "slug": "newsletter-editor",
+  "name": "Newsletter Editor",
+  "grokShareUrl": "https://x.ai/bot/_WDTIZiZCF43PWKoL5iUE",
+  "botId": "_WDTIZiZCF43PWKoL5iUE",
+  "creator": {
+    "handle": "sholabuilds",
+    "url": "https://x.com/sholabuilds"
+  },
+  "sourceUrl": "https://x.com/sholabuilds/status/2110722685177118789",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/newsletter-editor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Newsletter Editor by Olushola",
+    "description": "Runs the day-to-day of a weekly beehiiv newsletter: drafts from your outlines, sends test emails, claims ads, schedules after your approval, and reports...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "email",
+    "automation",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/newsletter-editor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

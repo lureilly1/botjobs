@@ -1,0 +1,43 @@
+{
+  "slug": "product-trial-applier",
+  "name": "체험단신청",
+  "grokShareUrl": "https://x.ai/bot/VSxAr0CZzf8qh5lUQ9gmA",
+  "botId": "VSxAr0CZzf8qh5lUQ9gmA",
+  "creator": {
+    "handle": "2ynch",
+    "url": "https://x.com/2ynch"
+  },
+  "sourceUrl": "https://x.com/2ynch/status/2111439852722115050",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/product-trial-applier/"
+  },
+  "description": null,
+  "official": {
+    "title": "체험단신청 by yun",
+    "description": "무신사와 카카오 선물하기 체험단을 매일 확인해서 조건에 맞는 공고에 대신 신청하고, 당첨 결과까지 알려주는 봇이에요.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "saving-money",
+    "shopping",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/product-trial-applier/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "data-contract-guard",
+  "name": "Data Contract Guard",
+  "grokShareUrl": "https://x.ai/bot/Kjoz94o-27PM_NgvcPntn",
+  "botId": "Kjoz94o-27PM_NgvcPntn",
+  "creator": {
+    "handle": "__nightmoose__",
+    "url": "https://x.com/__nightmoose__"
+  },
+  "sourceUrl": "https://x.com/__nightmoose__/status/2111059180182208572",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/data-contract-guard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Data Contract Guard by Alex",
+    "description": "Guards your data with DataContractGate: drafts a contract from a sample file, validates files and feeds against it, explains quarantined records in...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "data",
+    "engineering",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/data-contract-guard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

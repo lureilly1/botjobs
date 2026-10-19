@@ -17,7 +17,7 @@
     "title": "MACD Indicator Bot by Right",
     "description": "Finds MACD setups on your watchlist and writes a finished order ticket for each one. It checks the market first and skips choppy markets where MACD...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

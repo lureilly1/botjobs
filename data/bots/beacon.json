@@ -1,0 +1,42 @@
+{
+  "slug": "beacon",
+  "name": "Beacon",
+  "grokShareUrl": "https://x.ai/bot/icPIlUFH-D8YZ2YAvFCi9",
+  "botId": "icPIlUFH-D8YZ2YAvFCi9",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2111292365595885706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/beacon/"
+  },
+  "description": null,
+  "official": {
+    "title": "Beacon by Jaime",
+    "description": "A technical SEO bot that crawls your sites read-only, reviews every launch for titles, crawl, robots, sitemaps and headers, and hands you a ranked fix...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "seo",
+    "monitoring",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/beacon/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

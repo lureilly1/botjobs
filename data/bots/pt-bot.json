@@ -1,0 +1,42 @@
+{
+  "slug": "pt-bot",
+  "name": "PT Bot",
+  "grokShareUrl": "https://x.ai/bot/QFanuVCMxVH0hJ4CZCMJi",
+  "botId": "QFanuVCMxVH0hJ4CZCMJi",
+  "creator": {
+    "handle": "mustafaergisi",
+    "url": "https://x.com/mustafaergisi"
+  },
+  "sourceUrl": "https://x.com/mustafaergisi/status/2110153546867859517",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pt-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "PT Bot by Mustafa",
+    "description": "A personal trainer bot that turns your daily activity numbers (steps, distance, calories, exercise minutes) into short, screenshot-friendly reports with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "analytics",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pt-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

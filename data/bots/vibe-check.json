@@ -1,0 +1,41 @@
+{
+  "slug": "vibe-check",
+  "name": "Vibe Check",
+  "grokShareUrl": "https://x.ai/bot/V2mEPjBfDmtFvqeYUuvnm",
+  "botId": "V2mEPjBfDmtFvqeYUuvnm",
+  "creator": {
+    "handle": "priddysharp",
+    "url": "https://x.com/priddysharp"
+  },
+  "sourceUrl": "https://x.com/priddysharp/status/2111217009614794815",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vibe-check/"
+  },
+  "description": null,
+  "official": {
+    "title": "Vibe Check by Chris",
+    "description": "Reviews your AI-built app for the production gaps vibe coding usually misses, then sends five simulated first-time users through it to find where real...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vibe-check/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

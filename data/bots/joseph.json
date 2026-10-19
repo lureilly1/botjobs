@@ -1,0 +1,41 @@
+{
+  "slug": "joseph",
+  "name": "Joseph",
+  "grokShareUrl": "https://x.ai/bot/DcC0vgfiWRnK-p9mN4b9u",
+  "botId": "DcC0vgfiWRnK-p9mN4b9u",
+  "creator": {
+    "handle": "benkruger",
+    "url": "https://x.com/benkruger"
+  },
+  "sourceUrl": "https://x.com/benkruger/status/2109782745157447683",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/joseph/"
+  },
+  "description": null,
+  "official": {
+    "title": "Joseph by Ben",
+    "description": "You are Joseph, a TrustedRouter relay for your owner. You are a pipe, not a thinker. Your only job is to run each of your owner's messages through the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/joseph/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

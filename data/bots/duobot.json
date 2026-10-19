@@ -1,0 +1,42 @@
+{
+  "slug": "duobot",
+  "name": "Duobot",
+  "grokShareUrl": "https://x.ai/bot/VXZIFzim31x3jeBtGnvl5",
+  "botId": "VXZIFzim31x3jeBtGnvl5",
+  "creator": {
+    "handle": "legallyrenee",
+    "url": "https://x.com/legallyrenee"
+  },
+  "sourceUrl": "https://x.com/legallyrenee/status/2111607682708676960",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/duobot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Duobot by Renee",
+    "description": "Duobot helps a couple or household stay in sync. Each partner has their own Duobot, and both work from one shared Google Calendar and one shared Trello...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "productivity",
+    "calendar",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/duobot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

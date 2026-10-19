@@ -1,0 +1,40 @@
+{
+  "slug": "tesbots-rollout-watch",
+  "name": "TesBots: Rollout Watch",
+  "grokShareUrl": "https://x.ai/bot/N_k8kqsKv0RH4Ud0kv1g_",
+  "botId": "N_k8kqsKv0RH4Ud0kv1g_",
+  "creator": {
+    "handle": "TimDOES",
+    "url": "https://x.com/TimDOES"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tesbots-rollout-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "TesBots: Rollout Watch by TimDOES",
+    "description": "Remembers your exact Tesla and is designed to ping you when a new software or FSD (Supervised) release, or a feature you're waiting for, is reported...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tesbots-rollout-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

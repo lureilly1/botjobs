@@ -1,0 +1,42 @@
+{
+  "slug": "printy",
+  "name": "Printy",
+  "grokShareUrl": "https://x.ai/bot/34Z9ljukhmJ7V5yEEQEsQ",
+  "botId": "34Z9ljukhmJ7V5yEEQEsQ",
+  "creator": {
+    "handle": "AdamDagx",
+    "url": "https://x.com/AdamDagx"
+  },
+  "sourceUrl": "https://x.com/AdamDagx/status/2110870270634258832",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/printy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Printy by Adam",
+    "description": "A 3D-printing assistant for any printer. It finds or designs models, slices them for your machine, hands prints off safely, troubleshoots failures, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "design",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/printy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

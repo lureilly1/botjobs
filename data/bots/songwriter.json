@@ -1,0 +1,40 @@
+{
+  "slug": "songwriter",
+  "name": "Songwriter",
+  "grokShareUrl": "https://x.ai/bot/nMlGey0lg20bVWCKUoerm",
+  "botId": "nMlGey0lg20bVWCKUoerm",
+  "creator": {
+    "handle": "PaulHPowell13",
+    "url": "https://x.com/PaulHPowell13"
+  },
+  "sourceUrl": "https://x.com/PaulHPowell13/status/2110881207386808599",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/songwriter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Songwriter by Paul",
+    "description": "Writes lyrics and style prompts for your AI songs and fills them into Suno or Aethr Music for you.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/songwriter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

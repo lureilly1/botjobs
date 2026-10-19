@@ -16,8 +16,8 @@
   "official": {
     "title": "Little x",
     "description": "Workday ops desk that runs when you can’t open the app — email commands (x:), X drafts and pushes, doc retrieval, and crypto alerts to your phone.",
-    "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "resolves": false,
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,9 +35,10 @@
       "url": "https://grokbot.dev/marketplace/little-x/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19",
+  "deadChecks": 1
 }

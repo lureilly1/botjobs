@@ -17,7 +17,7 @@
     "title": "Ecom Store Builder by Colin",
     "description": "Builds a buyable physical-goods store in one conversation: products with shipping and tax, size and colour variants with stock and SKU, images, checkout...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

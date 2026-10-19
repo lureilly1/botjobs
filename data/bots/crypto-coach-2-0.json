@@ -1,0 +1,42 @@
+{
+  "slug": "crypto-coach-2-0",
+  "name": "Crypto Coach 2.0",
+  "grokShareUrl": "https://x.ai/bot/7sk1TKf3spNkOpMk7WLvU",
+  "botId": "7sk1TKf3spNkOpMk7WLvU",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2111049913605976215",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-coach-2-0/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto Coach 2.0 by James",
+    "description": "A friendly crypto teacher for complete beginners. Explains basics, wallets, coins, and scam safety in plain English with no hype.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "investor",
+    "learning",
+    "crypto",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-coach-2-0/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

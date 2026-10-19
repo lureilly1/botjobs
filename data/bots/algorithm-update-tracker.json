@@ -1,0 +1,43 @@
+{
+  "slug": "algorithm-update-tracker",
+  "name": "Algorithm Update Tracker",
+  "grokShareUrl": "https://x.ai/bot/6_6Nef0lMZgBxKHGidZzs",
+  "botId": "6_6Nef0lMZgBxKHGidZzs",
+  "creator": {
+    "handle": "realjohnnewburg",
+    "url": "https://x.com/realjohnnewburg"
+  },
+  "sourceUrl": "https://x.com/realjohnnewburg/status/2110155054279803295",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/algorithm-update-tracker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Algorithm Update Tracker by Jonathan",
+    "description": "Tracks X's open-source For You algorithm code (xai-org/x-algorithm) and explains every update in plain English, tailored to your X account.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "developer",
+    "social-media",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/algorithm-update-tracker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "page-watcher",
+  "name": "Page Watcher",
+  "grokShareUrl": "https://x.ai/bot/CEK-EsCiOWcB8NBzSYnEx",
+  "botId": "CEK-EsCiOWcB8NBzSYnEx",
+  "creator": {
+    "handle": "teeRex247",
+    "url": "https://x.com/teeRex247"
+  },
+  "sourceUrl": "https://x.com/teeRex247/status/2110574098573385826",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/page-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Page Watcher by Thuong",
+    "description": "Watch any public web page: price drops, restocks, new listings, policy changes. Paste a link and get your first snapshot in under 2 minutes, then alerts...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "shopping",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/page-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

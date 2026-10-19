@@ -17,7 +17,7 @@
     "title": "Reconcile by Richard",
     "description": "An inventory mismatch desk for small shops. It compares your master stock file with every sales channel, shows the differences in a table, and proposes...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

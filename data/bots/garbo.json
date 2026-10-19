@@ -1,0 +1,42 @@
+{
+  "slug": "garbo",
+  "name": "Garbo",
+  "grokShareUrl": "https://x.ai/bot/ijWt4lcb_vkZ6IMYnbBNI",
+  "botId": "ijWt4lcb_vkZ6IMYnbBNI",
+  "creator": {
+    "handle": "rgllm",
+    "url": "https://x.com/rgllm"
+  },
+  "sourceUrl": "https://x.com/rgllm/status/2110330836495094266",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/garbo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Garbo by Rogério",
+    "description": "An early-warning war and geopolitics monitor that sweeps a list of OSINT accounts on X and alerts you only to significant, corroborated developments,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/garbo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

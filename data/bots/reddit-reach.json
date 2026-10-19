@@ -1,0 +1,42 @@
+{
+  "slug": "reddit-reach",
+  "name": "Reddit Reach",
+  "grokShareUrl": "https://x.ai/bot/d20O3Bx5NypE-O-E_vKtp",
+  "botId": "d20O3Bx5NypE-O-E_vKtp",
+  "creator": {
+    "handle": "fatwang2ai",
+    "url": "https://x.com/fatwang2ai"
+  },
+  "sourceUrl": "https://x.com/fatwang2ai/status/2108896210937602462",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/reddit-reach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Reddit Reach by DING",
+    "description": "Gets Reddit working on a Grok Bot cloud computer when the datacenter IP is blocked. Uses an ISP proxy via mihomo so only Reddit traffic exits through...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "social-media",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/reddit-reach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

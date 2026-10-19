@@ -1,0 +1,42 @@
+{
+  "slug": "gift-bot",
+  "name": "Gift Bot",
+  "grokShareUrl": "https://x.ai/bot/ZMwukO1eaUg62QTiMf2sp",
+  "botId": "ZMwukO1eaUg62QTiMf2sp",
+  "creator": {
+    "handle": "drsarah",
+    "url": "https://x.com/drsarah"
+  },
+  "sourceUrl": "https://x.com/drsarah/status/2110500846790459835",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gift-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gift Bot by sarah",
+    "description": "A personal gift assistant that remembers birthdays and holidays, keeps gift ideas for the people you shop for, and messages you when it spots a real sale.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "family",
+    "life-hacks",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gift-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

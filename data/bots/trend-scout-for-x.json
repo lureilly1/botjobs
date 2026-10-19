@@ -1,0 +1,42 @@
+{
+  "slug": "trend-scout-for-x",
+  "name": "Trend Scout for X",
+  "grokShareUrl": "https://x.ai/bot/Q6YX1p5zlhRZZjEmDYfzA",
+  "botId": "Q6YX1p5zlhRZZjEmDYfzA",
+  "creator": {
+    "handle": "ashleyschendel",
+    "url": "https://x.com/ashleyschendel"
+  },
+  "sourceUrl": "https://x.com/ashleyschendel/status/2111235963288453295",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/trend-scout-for-x/"
+  },
+  "description": null,
+  "official": {
+    "title": "Trend Scout for X by Ashley",
+    "description": "Finds fresh X trending stories that fit you, ranked by how likely they are to do well, with angles and talking points. You write every post yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/trend-scout-for-x/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

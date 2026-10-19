@@ -17,7 +17,7 @@
     "title": "Jarvis by David",
     "description": "Personal chief of staff: one notification hub for job hunt, family logistics, markets nudges, and Kubernetes/GitOps learning — parks rabbit holes, keeps...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

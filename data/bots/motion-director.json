@@ -1,0 +1,43 @@
+{
+  "slug": "motion-director",
+  "name": "Motion Director",
+  "grokShareUrl": "https://x.ai/bot/MdpeJPD6eiY7YWUa9bfes",
+  "botId": "MdpeJPD6eiY7YWUa9bfes",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2111576398242492600",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/motion-director/"
+  },
+  "description": null,
+  "official": {
+    "title": "Motion Director by @suddenlyjon",
+    "description": "Designs, animates, scores and QAs short films in code, including character-led music videos with generated performance plates, lip sync and GPU-upscaled...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "business",
+    "automation",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/motion-director/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

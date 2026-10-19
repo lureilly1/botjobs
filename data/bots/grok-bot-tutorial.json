@@ -17,7 +17,7 @@
     "title": "Grok Bot Tutorial by Sawyer",
     "description": "A hands-on, 20-lesson course for anyone new to Grok Bot. It walks you through all 20 lessons one by one, each with a real exercise and tips, so you...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

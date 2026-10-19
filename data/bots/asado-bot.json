@@ -1,0 +1,41 @@
+{
+  "slug": "asado-bot",
+  "name": "Asado bot",
+  "grokShareUrl": "https://x.ai/bot/b5Wez7fDDAGMnvjyUaoYY",
+  "botId": "b5Wez7fDDAGMnvjyUaoYY",
+  "creator": {
+    "handle": "kblok",
+    "url": "https://x.com/kblok"
+  },
+  "sourceUrl": "https://x.com/kblok/status/2111192114943959186",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/asado-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Asado bot by Darío",
+    "description": "Plans your asado shopping: tell it who is coming and it calculates how much meat, chorizo, and bread to buy, then tracks your progress at the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "events",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/asado-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

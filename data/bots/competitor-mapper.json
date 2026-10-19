@@ -1,0 +1,42 @@
+{
+  "slug": "competitor-mapper",
+  "name": "Competitor Mapper",
+  "grokShareUrl": "https://x.ai/bot/9FdrISzxvOd2kTaE36eon",
+  "botId": "9FdrISzxvOd2kTaE36eon",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2111292365595885706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/competitor-mapper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Competitor Mapper by Avid",
+    "description": "Maps alternatives for each week's trending products (features, pricing, platforms, open vs closed, gaps) into a competitors.md with a gap matrix, using...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "research",
+    "scheduled",
+    "data"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/competitor-mapper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

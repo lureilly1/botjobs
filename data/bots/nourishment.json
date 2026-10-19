@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Nourishment by @suddenlyjon",
-    "description": "A fancy healthy-eating coach. Learns foods you love and skip, reads fridge/pantry photos, builds recipes from what’s on hand, plans around your goals,...",
+    "title": "The Interviewer by @suddenlyjon",
+    "description": "Authentic interview simulator — research the role, run the mock, blunt hire/no-hire in character, then never-kind coaching with concrete fixes.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

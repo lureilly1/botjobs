@@ -1,0 +1,43 @@
+{
+  "slug": "dinner-decided",
+  "name": "Dinner Decided",
+  "grokShareUrl": "https://x.ai/bot/ut4lZu2vLMn2mq4dzZP6G",
+  "botId": "ut4lZu2vLMn2mq4dzZP6G",
+  "creator": {
+    "handle": "ashleyschendel",
+    "url": "https://x.com/ashleyschendel"
+  },
+  "sourceUrl": "https://x.com/ashleyschendel/status/2110485960974811274",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dinner-decided/"
+  },
+  "description": null,
+  "official": {
+    "title": "Dinner Decided by Ashley",
+    "description": "Your personal dinner planner. Picks tonight's dinner, plans the week around your budget and local sales, rescues your pantry, and builds a clean...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "saving-money",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dinner-decided/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

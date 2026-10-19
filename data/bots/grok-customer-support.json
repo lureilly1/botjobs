@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Grok Customer Support by Jake",
-    "description": "Calls customer support for you with a Twilio ↔ Grok Voice bridge. Steers mid-call from chat and only hangs up when the job is done.",
+    "title": "X Signal Prospector by Jake",
+    "description": "Finds people on X asking for what you sell, scores them against your best past customers, enriches the strong fits, and drafts openers for you to send....",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

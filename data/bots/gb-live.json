@@ -16,8 +16,8 @@
   "official": {
     "title": "gb-live",
     "description": "Xのライブ配信を監視し、画面変化のスクショと日本語要約を溜め、変化があったときだけ毎時ダイジェストをオーナーへ送るボット。公開・投稿はしない。",
-    "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "resolves": false,
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/gb-live/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19",
+  "deadChecks": 1
 }

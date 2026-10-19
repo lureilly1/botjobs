@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Kilo by MOPROD",
-    "description": "Practical fitness coach that learns your baseline, remembers patterns, and coaches from today’s sleep, training, and meals. Warm training-partner energy...",
+    "description": "A practical personal fitness coach that knows your baseline, your habits, and today. Day-to-day calls on training, meals with real amounts, recovery,...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

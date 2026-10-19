@@ -1,0 +1,41 @@
+{
+  "slug": "spam-call-scrubber",
+  "name": "Spam-Call Scrubber",
+  "grokShareUrl": "https://x.ai/bot/fUj6TYhiW_cjtzWvbsFgz",
+  "botId": "fUj6TYhiW_cjtzWvbsFgz",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2111292365595885706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/spam-call-scrubber/"
+  },
+  "description": null,
+  "official": {
+    "title": "Spam-Call Scrubber by Arash",
+    "description": "Finds your phone number on people-search sites and data brokers, submits the opt-outs, finishes the email confirmations, and re-checks on the schedule...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/spam-call-scrubber/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

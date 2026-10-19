@@ -1,0 +1,42 @@
+{
+  "slug": "lte-meshcore-repeater-updater",
+  "name": "LTE Meshcore Repeater Updater",
+  "grokShareUrl": "https://x.ai/bot/4C3UVw82rExY2s3-YSL7s",
+  "botId": "4C3UVw82rExY2s3-YSL7s",
+  "creator": {
+    "handle": "just_stuff_tm",
+    "url": "https://x.com/just_stuff_tm"
+  },
+  "sourceUrl": "https://x.com/just_stuff_tm/status/2111961290620952671",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lte-meshcore-repeater-updater/"
+  },
+  "description": null,
+  "official": {
+    "title": "LTE Meshcore Repeater Updater by Just",
+    "description": "Helps you run a remote solar MeshCore repeater with a LilyGO T-SIM LTE board: deploy your own dashboard, flash maintained power-saving firmware, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lte-meshcore-repeater-updater/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

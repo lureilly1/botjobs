@@ -1,0 +1,41 @@
+{
+  "slug": "ink",
+  "name": "Ink",
+  "grokShareUrl": "https://x.ai/bot/jKCF30ndOxkjzXXdhFNzd",
+  "botId": "jKCF30ndOxkjzXXdhFNzd",
+  "creator": {
+    "handle": "QuinnWR",
+    "url": "https://x.com/QuinnWR"
+  },
+  "sourceUrl": "https://x.com/QuinnWR/status/2110508442205208837",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ink/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ink by Quinn",
+    "description": "A pixel-art and sprite partner for game developers. It turns Grok Imagine concepts into clean, game-ready Aseprite sprites and walk cycles, and exports...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ink/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

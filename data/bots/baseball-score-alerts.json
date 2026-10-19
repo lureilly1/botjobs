@@ -1,0 +1,41 @@
+{
+  "slug": "baseball-score-alerts",
+  "name": "Baseball Score Alerts",
+  "grokShareUrl": "https://x.ai/bot/MNAkssnLggwp3t74suuPs",
+  "botId": "MNAkssnLggwp3t74suuPs",
+  "creator": {
+    "handle": "SouthernLvg",
+    "url": "https://x.com/SouthernLvg"
+  },
+  "sourceUrl": "https://x.com/SouthernLvg/status/2111842827504324665",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/baseball-score-alerts/"
+  },
+  "description": null,
+  "official": {
+    "title": "Baseball Score Alerts",
+    "description": "Get MLB score alerts that often beat the TV: pings at the 4th inning, on every run, and at the final, plus a morning schedule with start times and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/baseball-score-alerts/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

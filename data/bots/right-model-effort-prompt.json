@@ -17,7 +17,7 @@
     "title": "Right Model, Effort & Prompt by Foundation",
     "description": "Tells you which AI model and effort level to use for any task across Anthropic, OpenAI, Grok, Meta, and Google, and tightens your prompt before you send...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

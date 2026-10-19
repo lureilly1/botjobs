@@ -1,0 +1,41 @@
+{
+  "slug": "tv-de-ad-bot",
+  "name": "TV De-Ad Bot",
+  "grokShareUrl": "https://x.ai/bot/rIKTxh3Pwrmn7N02x6glX",
+  "botId": "rIKTxh3Pwrmn7N02x6glX",
+  "creator": {
+    "handle": "0node0",
+    "url": "https://x.com/0node0"
+  },
+  "sourceUrl": "https://x.com/0node0/status/2111648991414738956",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tv-de-ad-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "TV De-Ad Bot by Chris",
+    "description": "Removes ads, tracking, and clutter from your own smart TV with safe, reversible steps you approve one at a time. Best on Google TV, Android TV, and Fire...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tv-de-ad-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

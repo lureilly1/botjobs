@@ -1,0 +1,43 @@
+{
+  "slug": "sell-anything",
+  "name": "Sell Anything",
+  "grokShareUrl": "https://x.ai/bot/jSEK7tMiX9wUBMVB_mojh",
+  "botId": "jSEK7tMiX9wUBMVB_mojh",
+  "creator": {
+    "handle": "cjdinnison",
+    "url": "https://x.com/cjdinnison"
+  },
+  "sourceUrl": "https://x.com/cjdinnison/status/2111607251157078208",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sell-anything/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sell Anything by Clark",
+    "description": "A resale pro that prices your stuff from real sold comps, writes listings that sell, posts them to OfferUp, Facebook Marketplace, eBay, and Craigslist,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "saving-money",
+    "shopping",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sell-anything/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

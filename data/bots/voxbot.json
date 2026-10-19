@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "VoxBot by Andrew",
-    "description": "Calls for you. A Grok Bot that places and takes phone calls through the installer’s ElevenLabs + Twilio — outbound on request, inbound public until a...",
+    "description": "Calls for you. No keys needed to try it: rehearse a tough call right in chat, then hook up your own phone line for real calls under a caller name you...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

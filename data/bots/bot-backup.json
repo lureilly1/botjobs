@@ -1,0 +1,41 @@
+{
+  "slug": "bot-backup",
+  "name": "Bot Backup",
+  "grokShareUrl": "https://x.ai/bot/iFta3IqB1ZOR4wLLbOlUz",
+  "botId": "iFta3IqB1ZOR4wLLbOlUz",
+  "creator": {
+    "handle": "positive_charge",
+    "url": "https://x.com/positive_charge"
+  },
+  "sourceUrl": "https://x.com/positive_charge/status/2111229558590734646",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-backup/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Backup by PositiveCharge",
+    "description": "Backs up all your bots to Google Drive every week, sorted into year and month folders. Each photo and document is saved once, and later backups just...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "data",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-backup/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "photo-credit-watch",
+  "name": "Photo Credit Watch",
+  "grokShareUrl": "https://x.ai/bot/fXV8CXfn8_l4Q1ktMrrF2",
+  "botId": "fXV8CXfn8_l4Q1ktMrrF2",
+  "creator": {
+    "handle": "gzikry",
+    "url": "https://x.com/gzikry"
+  },
+  "sourceUrl": "https://x.com/gzikry/status/2110158736618832217",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/photo-credit-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Photo Credit Watch by George",
+    "description": "Runs a weekly reverse-image search on your portfolio to find where your photos turn up online. Flags uncredited and commercial use, and drafts polite...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/photo-credit-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

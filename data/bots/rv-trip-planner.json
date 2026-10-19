@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "RV Trip Planner by Chris",
-    "description": "Multi-day RV trip planner for full-timers. Builds a chat trip board, checks live availability, and tees bookings to review/pay for your click — never...",
+    "title": "Ultimate RV Trip Planner by Chris",
+    "description": "Plans multi-day RV trips around your rig: paced legs, rig-safe routes, stays by your memberships and budget, live availability, fuel and weather checks,...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

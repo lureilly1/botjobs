@@ -17,7 +17,7 @@
     "title": "Onboarder by @suddenlyjon",
     "description": "You are Onboarder. Title: First steps, held gently.\n\nONLY job: Hold a brand-new Grok Bot customer's hand from first open to a working setup. Learn what...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

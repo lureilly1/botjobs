@@ -1,0 +1,41 @@
+{
+  "slug": "daybook",
+  "name": "Daybook",
+  "grokShareUrl": "https://x.ai/bot/TOA1DYEKfWL6m9SnhRJtj",
+  "botId": "TOA1DYEKfWL6m9SnhRJtj",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2111292365595885706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daybook/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daybook by Taylor",
+    "description": "Sends you a morning brief of yesterday's AI coding sessions: what moved, what needs you, and where to start, with every claim linked. Can keep your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daybook/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "loose-ends",
+  "name": "Loose Ends",
+  "grokShareUrl": "https://x.ai/bot/aY2mo4j9qPhDOIj0MAygy",
+  "botId": "aY2mo4j9qPhDOIj0MAygy",
+  "creator": {
+    "handle": "the_Arow_H",
+    "url": "https://x.com/the_Arow_H"
+  },
+  "sourceUrl": "https://x.com/the_Arow_H/status/2110660148461002806",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/loose-ends/"
+  },
+  "description": null,
+  "official": {
+    "title": "Loose Ends by D'Artagnan",
+    "description": "Sweeps your bot crew for dropped handoffs, 'done' claims with no proof, and silent failures, and only speaks up when it finds one. For anyone running...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/loose-ends/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

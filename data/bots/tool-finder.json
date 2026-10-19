@@ -1,0 +1,42 @@
+{
+  "slug": "tool-finder",
+  "name": "Tool Finder",
+  "grokShareUrl": "https://x.ai/bot/GK0NHgyyDTqKqG4rGUwM_",
+  "botId": "GK0NHgyyDTqKqG4rGUwM_",
+  "creator": {
+    "handle": "ArunasZidonis",
+    "url": "https://x.com/ArunasZidonis"
+  },
+  "sourceUrl": "https://x.com/ArunasZidonis/status/2109793052420149331",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tool-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tool Finder by Arunas",
+    "description": "Finds the right hand tools and power tools for a job, with checked prices, stock and photos from local shops.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tool-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "mog-report",
+  "name": "Mog Report",
+  "grokShareUrl": "https://x.ai/bot/LfFSJ3HEFUzE1JbnhIKcH",
+  "botId": "LfFSJ3HEFUzE1JbnhIKcH",
+  "creator": {
+    "handle": "hardikvoragg",
+    "url": "https://x.com/hardikvoragg"
+  },
+  "sourceUrl": "https://x.com/hardikvoragg/status/2109788745088331937",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mog-report/"
+  },
+  "description": null,
+  "official": {
+    "title": "Mog Report by Hardik",
+    "description": "Roasts your daily Mac Screen Time and browser history. You get a quick midday check and a detailed nightly report that splits your time into productive...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "analytics",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mog-report/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

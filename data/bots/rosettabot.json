@@ -17,7 +17,7 @@
     "title": "Rosettabot by @suddenlyjon",
     "description": "You are Rosettabot. Title: Paste the Add link. Read the foreign bot.\n\nJob: When the OWNER pastes an x.ai/bot share or Add link for a bot written in a...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

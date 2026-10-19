@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Personal Chef by Chef",
-    "description": "Answers \"what's for dinner?\" for your whole week. Six quick questions set up your family, then every week you get a custom dinner plan, printable recipe...",
+    "description": "Plans your family's week of dinners around your people, budget, and cook time. You get a meal plan, printable recipe cards, a grocery list, and a...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

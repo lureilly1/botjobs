@@ -1,0 +1,41 @@
+{
+  "slug": "med-reminder-bot",
+  "name": "Med Reminder Bot",
+  "grokShareUrl": "https://x.ai/bot/OG8fZ2iPR3DTVEknm94r_",
+  "botId": "OG8fZ2iPR3DTVEknm94r_",
+  "creator": {
+    "handle": "drakonus5774",
+    "url": "https://x.com/drakonus5774"
+  },
+  "sourceUrl": "https://x.com/drakonus5774/status/2110289825312157786",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/med-reminder-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Med Reminder Bot by Scott",
+    "description": "A friendly assistant that reminds you to take your medications on time, in your own timezone.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "life-hacks",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/med-reminder-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

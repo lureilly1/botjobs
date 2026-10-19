@@ -1,0 +1,41 @@
+{
+  "slug": "d2r-vr-helper",
+  "name": "D2R VR Helper",
+  "grokShareUrl": "https://x.ai/bot/UYdkpfZSu4O6N8_cRXpJO",
+  "botId": "UYdkpfZSu4O6N8_cRXpJO",
+  "creator": {
+    "handle": "OliverRCote",
+    "url": "https://x.com/OliverRCote"
+  },
+  "sourceUrl": "https://x.com/OliverRCote/status/2111234897897501034",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/d2r-vr-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "D2R VR Helper by Oliver",
+    "description": "Helps you install, update, and fix the D2R PCVR mod so you can play Diablo II: Resurrected in VR on a Windows PC. For Quest and Steam Frame players with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/d2r-vr-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

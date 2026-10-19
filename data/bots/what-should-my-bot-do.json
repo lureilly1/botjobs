@@ -1,0 +1,41 @@
+{
+  "slug": "what-should-my-bot-do",
+  "name": "What Should My Bot Do?",
+  "grokShareUrl": "https://x.ai/bot/KOJbYHQwZmEacXcdpkdUZ",
+  "botId": "KOJbYHQwZmEacXcdpkdUZ",
+  "creator": {
+    "handle": "RoshelPere15695",
+    "url": "https://x.com/RoshelPere15695"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/what-should-my-bot-do/"
+  },
+  "description": null,
+  "official": {
+    "title": "What Should My Bot Do? by Roshel",
+    "description": "Free Grok Bot template: 5 questions about your business, then your first AI agent, 3 next jobs and a free guide for each. Drafts only.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "automation",
+    "decision-support",
+    "productivity"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/what-should-my-bot-do/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

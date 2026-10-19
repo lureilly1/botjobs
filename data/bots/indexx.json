@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "INDEXX by Kevin",
-    "description": "Personal media wiki for Instagram Saved: local archive, cloud transcription, tags + facets, and a cited wiki. Keeps media on your computer; the...",
+    "description": "Turns your Instagram Saved posts and reels into a searchable, cited personal wiki with transcripts, tags, and creator and person pages. Checks Saved for...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

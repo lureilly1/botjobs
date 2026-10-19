@@ -1,0 +1,43 @@
+{
+  "slug": "meeting-prep-follow-up",
+  "name": "Meeting Prep & Follow-up",
+  "grokShareUrl": "https://x.ai/bot/Of0WZSYyqWtQXV9Z52pqv",
+  "botId": "Of0WZSYyqWtQXV9Z52pqv",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2110669884954992900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meeting-prep-follow-up/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meeting Prep & Follow-up by Jared",
+    "description": "Sends you a short brief before your upcoming meetings so you walk in prepared. After each meeting, it drafts the follow-up email for you to review and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "meetings",
+    "email",
+    "calendar",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meeting-prep-follow-up/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

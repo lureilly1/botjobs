@@ -1,0 +1,42 @@
+{
+  "slug": "poi-katsu-sale-watcher",
+  "name": "ポイ活・セール番人",
+  "grokShareUrl": "https://x.ai/bot/EL7FBbcMa3gIcXvSxozqv",
+  "botId": "EL7FBbcMa3gIcXvSxozqv",
+  "creator": {
+    "handle": "sidejob_AJ",
+    "url": "https://x.com/sidejob_AJ"
+  },
+  "sourceUrl": "https://x.com/sidejob_AJ/status/2111273412912132301",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/poi-katsu-sale-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "ポイ活・セール番人",
+    "description": "Amazon・楽天・Yahoo!の欲しい物を目標価格とポイント還元込みで見張り、値下がりや大型キャンペーンの時だけ知らせるボット。購入は代行しません。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/poi-katsu-sale-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

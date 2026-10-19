@@ -1,0 +1,42 @@
+{
+  "slug": "coding-plan-quota-reset-alerts",
+  "name": "Agent 重置提醒",
+  "grokShareUrl": "https://x.ai/bot/O_ZPyAOXn9yBuAR-4qDo8",
+  "botId": "O_ZPyAOXn9yBuAR-4qDo8",
+  "creator": {
+    "handle": "bylixing",
+    "url": "https://x.com/bylixing"
+  },
+  "sourceUrl": "https://x.com/bylixing/status/2109951379360088487",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/coding-plan-quota-reset-alerts/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent 重置提醒 by lixing",
+    "description": "盯着 X 上的官方公告，Claude、Codex、Grok、Cursor、Antigravity 的编程套餐一宣布全局重置用量，就第一时间提醒你。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "monitoring",
+    "scheduled",
+    "automation",
+    "news"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/coding-plan-quota-reset-alerts/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

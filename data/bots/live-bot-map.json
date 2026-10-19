@@ -1,0 +1,42 @@
+{
+  "slug": "live-bot-map",
+  "name": "Live Bot Map",
+  "grokShareUrl": "https://x.ai/bot/LBWRqJu3RkUutDrqSlSEc",
+  "botId": "LBWRqJu3RkUutDrqSlSEc",
+  "creator": {
+    "handle": "kylekane",
+    "url": "https://x.com/kylekane"
+  },
+  "sourceUrl": "https://x.com/kylekane/status/2111059933332389962",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/live-bot-map/"
+  },
+  "description": null,
+  "official": {
+    "title": "Live Bot Map by Kyle",
+    "description": "Builds a live, animated map of all your Grok Bots, showing who's working, what they're doing and which projects they touch, on a web page that updates...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "meta-bot",
+    "agent-team",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/live-bot-map/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "fact-check-bot",
+  "name": "Fact Check Bot",
+  "grokShareUrl": "https://x.ai/bot/8RyeqTp5cgrjbzO9t2wXb",
+  "botId": "8RyeqTp5cgrjbzO9t2wXb",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2110669884954992900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fact-check-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fact Check Bot by Ilya",
+    "description": "Checks claims, headlines, viral posts, stats, images, and advice against reliable sources and tells you what holds up.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "research",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fact-check-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "inbox-pilot-daily-email-manager-for-gmail-outlook",
+  "name": "Inbox Pilot: Daily Email Manager for Gmail & Outlook",
+  "grokShareUrl": "https://x.ai/bot/wYp3q6RVWjQ3BYjQVh5ff",
+  "botId": "wYp3q6RVWjQ3BYjQVh5ff",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/inbox-pilot-daily-email-manager-for-gmail-outlook"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Pilot by Jennifer",
+    "description": "Your personal email manager for Gmail or Outlook. You get a morning inbox digest on the days and time you choose (sorted into Needs You, Waiting On, FYI...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/inbox-pilot-daily-email-manager-for-gmail-outlook"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

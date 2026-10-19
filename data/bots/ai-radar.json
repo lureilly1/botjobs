@@ -1,0 +1,42 @@
+{
+  "slug": "ai-radar",
+  "name": "AI Radar",
+  "grokShareUrl": "https://x.ai/bot/i1xwguSTrplEdPvx96MYh",
+  "botId": "i1xwguSTrplEdPvx96MYh",
+  "creator": {
+    "handle": "gota_bara",
+    "url": "https://x.com/gota_bara"
+  },
+  "sourceUrl": "https://x.com/gota_bara/status/2109968003047858239",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-radar/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Radar by Gota",
+    "description": "Always-on AI news radar. Watches AI labs' official X accounts, their staff, researchers and well-known people, plus blogs, changelogs, GitHub, Hugging...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "news",
+    "monitoring",
+    "scheduled",
+    "developer",
+    "research"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-radar/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

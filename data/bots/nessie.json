@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Nessie by Alec",
-    "description": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor (fully protected from offset and garnishment), wage ladder,...",
+    "description": "Design partner for a U.S. citizen dividend + sovereign wealth package: locked $500 floor (fully protected from offset and garnishment; permanent...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

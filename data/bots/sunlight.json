@@ -16,8 +16,8 @@
   "official": {
     "title": "Sunlight by Developer",
     "description": "Finds the money and the primary source behind a media claim, then holds it until you say it can go public. Every post is one small card with a floating...",
-    "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "resolves": false,
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/sunlight/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19",
+  "deadChecks": 1
 }

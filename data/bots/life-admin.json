@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Life Admin by Cristopher",
-    "description": "Catches the personal deadlines that cost money when they slip (renewals, tickets, free trials, lease notices) and tells you when to start, not just when...",
+    "description": "Catches personal deadlines that cost money when they slip and tells you when to act. Drafts cancel, refund, and renewal messages or forms first, then...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

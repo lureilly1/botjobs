@@ -1,0 +1,41 @@
+{
+  "slug": "bot-forge",
+  "name": "Bot Forge",
+  "grokShareUrl": "https://x.ai/bot/aiRz71Ec8J67tNNglG0Mw",
+  "botId": "aiRz71Ec8J67tNNglG0Mw",
+  "creator": {
+    "handle": "Ease_Up_Turbo",
+    "url": "https://x.com/Ease_Up_Turbo"
+  },
+  "sourceUrl": "https://x.com/Ease_Up_Turbo/status/2111406231860715676",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bot-forge/"
+  },
+  "description": null,
+  "official": {
+    "title": "Bot Forge by Manjot",
+    "description": "A master Grok Bot designer. Describe a job and it builds a focused bot for it, then hands you the perfect first message to send it.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "developer",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bot-forge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

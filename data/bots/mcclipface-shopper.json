@@ -1,0 +1,42 @@
+{
+  "slug": "mcclipface-shopper",
+  "name": "McClipFace shopper",
+  "grokShareUrl": "https://x.ai/bot/Z56l38GYvaZtYIgjhDl6-",
+  "botId": "Z56l38GYvaZtYIgjhDl6-",
+  "creator": {
+    "handle": "McClipFace",
+    "url": "https://x.com/McClipFace"
+  },
+  "sourceUrl": "https://x.com/McClipFace/status/2111064391894311414",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mcclipface-shopper/"
+  },
+  "description": null,
+  "official": {
+    "title": "McClipFace shopper by Matt",
+    "description": "Your AI checks you're getting the best price before you buy. Free. Affiliate: McClipFace may earn a commission.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mcclipface-shopper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

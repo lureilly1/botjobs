@@ -1,0 +1,42 @@
+{
+  "slug": "claudia",
+  "name": "Claudia",
+  "grokShareUrl": "https://x.ai/bot/zvsgYtQHUcSKGRhAb_JzM",
+  "botId": "zvsgYtQHUcSKGRhAb_JzM",
+  "creator": {
+    "handle": "AQS_kr",
+    "url": "https://x.com/AQS_kr"
+  },
+  "sourceUrl": "https://x.com/AQS_kr/status/2110410499640918295",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claudia/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claudia by anabology",
+    "description": "Make Claudia content (stills, clips, songs, music videos) with the open AI popstar from claudia.gallery. On your first turn, before any greeting, run...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claudia/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

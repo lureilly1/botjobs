@@ -1,0 +1,37 @@
+{
+  "slug": "diecast-appraiser",
+  "name": "Diecast Appraiser",
+  "grokShareUrl": "https://x.ai/bot/yEzqUfVK_OxOFVaf-lULv",
+  "botId": "yEzqUfVK_OxOFVaf-lULv",
+  "creator": {
+    "handle": null,
+    "name": "Joar Njølstad",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/diecast-appraiser"
+  },
+  "description": null,
+  "official": {
+    "title": "Diecast Appraiser",
+    "description": "Identifies and values your Hot Wheels and diecast cars from photos, using real sold prices. For collectors who want to know what a car, a lot, or a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/diecast-appraiser"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

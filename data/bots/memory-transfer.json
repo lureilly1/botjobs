@@ -1,0 +1,42 @@
+{
+  "slug": "memory-transfer",
+  "name": "Memory Transfer",
+  "grokShareUrl": "https://x.ai/bot/Ww-RXj-lLqpg_oWqzccKZ",
+  "botId": "Ww-RXj-lLqpg_oWqzccKZ",
+  "creator": {
+    "handle": "MaiYangAI",
+    "url": "https://x.com/MaiYangAI"
+  },
+  "sourceUrl": "https://x.com/MaiYangAI/status/2109892837299118166",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/memory-transfer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Memory Transfer by Brian",
+    "description": "Brings what Claude, ChatGPT, or another AI knows about you into Grok Bot. You review each item one at a time, and it saves only what you choose to keep.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "meta-bot",
+    "personal",
+    "developer",
+    "knowledge-base",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/memory-transfer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

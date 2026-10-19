@@ -1,0 +1,43 @@
+{
+  "slug": "package-pal",
+  "name": "Package Pal",
+  "grokShareUrl": "https://x.ai/bot/JG4RGdYlakSid0hw1woj1",
+  "botId": "JG4RGdYlakSid0hw1woj1",
+  "creator": {
+    "handle": "thecsguy",
+    "url": "https://x.com/thecsguy"
+  },
+  "sourceUrl": "https://x.com/thecsguy/status/2110337573042479177",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/package-pal/"
+  },
+  "description": null,
+  "official": {
+    "title": "Package Pal by Nick",
+    "description": "Tracks packages from your shipping emails, with a daily digest and change alerts.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "shopping",
+    "monitoring",
+    "scheduled",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/package-pal/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

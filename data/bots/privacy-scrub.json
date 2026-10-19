@@ -1,0 +1,41 @@
+{
+  "slug": "privacy-scrub",
+  "name": "Privacy Scrub",
+  "grokShareUrl": "https://x.ai/bot/gf9wwbq4t8Rl_qnElTPiN",
+  "botId": "gf9wwbq4t8Rl_qnElTPiN",
+  "creator": {
+    "handle": "EdwardKaen",
+    "url": "https://x.com/EdwardKaen"
+  },
+  "sourceUrl": "https://x.com/EdwardKaen/status/2111352203298722171",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/privacy-scrub/"
+  },
+  "description": null,
+  "official": {
+    "title": "Privacy Scrub by Edward",
+    "description": "Keeps your phone numbers and email addresses off people-search sites, caller-ID and email-lookup databases, business contact databases, and marketing...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "scheduled",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/privacy-scrub/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

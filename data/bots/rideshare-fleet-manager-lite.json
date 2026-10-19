@@ -1,0 +1,41 @@
+{
+  "slug": "rideshare-fleet-manager-lite",
+  "name": "Rideshare Fleet Manager LITE",
+  "grokShareUrl": "https://x.ai/bot/Eo4ij-wrng2-c9qFmrTd_",
+  "botId": "Eo4ij-wrng2-c9qFmrTd_",
+  "creator": {
+    "handle": "ClaudiuBalaciv",
+    "url": "https://x.com/ClaudiuBalaciv"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rideshare-fleet-manager-lite/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rideshare Fleet Manager LITE by Balaci",
+    "description": "For Uber/Bolt fleet operators: checks your weekly earnings exports, builds a per-driver summary across platforms, and warns before driver and car...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "ops",
+    "analytics"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rideshare-fleet-manager-lite/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

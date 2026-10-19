@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Phera's Beast Box by Zerefs",
-    "description": "Installs, verifies and runs The Beast Box engine on its own computer, with a cosmic dashboard, a local RAWRPHOS transformer and switchable model brains....",
+    "title": "World Spark by Zerefs",
+    "description": "Helps anyone spark their own living digital world in any field, with its own creature or character that grows, learns and has a home online.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

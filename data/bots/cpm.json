@@ -1,0 +1,43 @@
+{
+  "slug": "cpm",
+  "name": "CPM",
+  "grokShareUrl": "https://x.ai/bot/GwmXIfLuPPIPf2hGX2Txf",
+  "botId": "GwmXIfLuPPIPf2hGX2Txf",
+  "creator": {
+    "handle": "kostahantzis",
+    "url": "https://x.com/kostahantzis"
+  },
+  "sourceUrl": "https://x.com/kostahantzis/status/2109965811964051528",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cpm/"
+  },
+  "description": null,
+  "official": {
+    "title": "CPM by Kosta",
+    "description": "Paste an Instagram or TikTok creator link and get a fair fee from their real view counts, a 90-day deal menu with Partnership Ads, and a paste-ready...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "business",
+    "social-media",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cpm/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

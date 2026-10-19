@@ -1,0 +1,41 @@
+{
+  "slug": "crypto-news-desk-2-0",
+  "name": "Crypto News Desk 2.0",
+  "grokShareUrl": "https://x.ai/bot/232LlkmcsiCpE4rakVz5n",
+  "botId": "232LlkmcsiCpE4rakVz5n",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2111049916025798999",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-news-desk-2-0/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto News Desk 2.0 by James",
+    "description": "Your own crypto newsroom: every morning it digs up the last 24 hours of crypto news, fact-checks it against original sources, and hands you one...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "crypto",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-news-desk-2-0/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

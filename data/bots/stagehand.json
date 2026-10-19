@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Stagehand by Patrick",
-    "description": "SI for WordPress that edits staging, checks the change, and won't touch the live site until you say so.",
+    "title": "UNLOCK by Patrick",
+    "description": "Checks the assumptions behind your AI project with a six-step checklist: untangle, nail, look, observe, change, keep iterating. Helps you tell an AI's...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

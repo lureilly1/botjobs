@@ -1,0 +1,42 @@
+{
+  "slug": "parks",
+  "name": "Parks",
+  "grokShareUrl": "https://x.ai/bot/p3AZnkzysvRypGWCAJXVT",
+  "botId": "p3AZnkzysvRypGWCAJXVT",
+  "creator": {
+    "handle": "bradshannon",
+    "url": "https://x.com/bradshannon"
+  },
+  "sourceUrl": "https://x.com/bradshannon/status/2110145532958232656",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/parks/"
+  },
+  "description": null,
+  "official": {
+    "title": "Parks by Brad",
+    "description": "Parks covers all 63 US National Parks: pick parks, optimize multi-park road trips, build day-by-day plans and printable day sheets, and track the parks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "decision-support",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/parks/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "jim-simons",
+  "name": "Jim Simons",
+  "grokShareUrl": "https://x.ai/bot/1b7YcKo0fT9hnNaKYgH5L",
+  "botId": "1b7YcKo0fT9hnNaKYgH5L",
+  "creator": {
+    "handle": "51bodila",
+    "url": "https://x.com/51bodila"
+  },
+  "sourceUrl": "https://x.com/51bodila/status/2110501729326215643",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jim-simons/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jim Simons by Codila",
+    "description": "Thinks like Jim Simons. Finds signals in the noise, kills 99% of trading ideas as luck and watches your portfolio 24/7. The Renaissance quant you could...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "decision-support",
+    "monitoring",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jim-simons/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

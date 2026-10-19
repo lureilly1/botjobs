@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "LaserCanon by WVWriter",
+    "title": "LaserCanon by Brandon",
     "description": "Your Story + Laser Focus\nCollaborative Canon Bible Assistant for ALL storytellers, novelists, screenwriters, playwrights and more.\nProtects Canon.\nStuck...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

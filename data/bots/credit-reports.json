@@ -1,0 +1,42 @@
+{
+  "slug": "credit-reports",
+  "name": "Credit Reports",
+  "grokShareUrl": "https://x.ai/bot/gZ0uuJdy7v4QJ-5JkI4E-",
+  "botId": "gZ0uuJdy7v4QJ-5JkI4E-",
+  "creator": {
+    "handle": "josephstayhappy",
+    "url": "https://x.com/josephstayhappy"
+  },
+  "sourceUrl": "https://x.com/josephstayhappy/status/2110874303390494872",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/credit-reports/"
+  },
+  "description": null,
+  "official": {
+    "title": "Credit Reports by Yossi",
+    "description": "Pulls your Experian, Equifax, and TransUnion reports, flags errors and identity-theft fraud, files the disputes it can online, drafts mail-in letters...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "back-office",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/credit-reports/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Grottle™ by BCORN",
-    "description": "Grottle™ v0.13.2 — a free template: gauge and throttle for Grok™ Bot and SuperGrok™. Paste your Usage %, see how much of the week is left, and pace the...",
+    "description": "Grottle™ v0.15.3 — a free template: gauge and throttle for Grok™ Bot and SuperGrok™. Paste your Usage %, see how much of the week is left, and pace the...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

@@ -1,0 +1,43 @@
+{
+  "slug": "zerotok-research",
+  "name": "ZeroTok Research",
+  "grokShareUrl": "https://x.ai/bot/cy-_WGjLOPsiU5WOlzFr-",
+  "botId": "cy-_WGjLOPsiU5WOlzFr-",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2110669884954992900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/zerotok-research/"
+  },
+  "description": null,
+  "official": {
+    "title": "ZeroTok Research by hunghuc",
+    "description": "See any Shopify store’s estimated revenue, traffic, top products, and active ads in seconds. Just send its domain and get a clean report.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "sales",
+    "research",
+    "shopping",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/zerotok-research/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

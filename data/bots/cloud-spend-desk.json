@@ -1,0 +1,43 @@
+{
+  "slug": "cloud-spend-desk",
+  "name": "Cloud Spend Desk",
+  "grokShareUrl": "https://x.ai/bot/TAzgDpkrgwiVaFjaSbCe6",
+  "botId": "TAzgDpkrgwiVaFjaSbCe6",
+  "creator": {
+    "handle": "Av1dlive",
+    "url": "https://x.com/Av1dlive"
+  },
+  "sourceUrl": "https://x.com/Av1dlive/status/2111504263432241437",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cloud-spend-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cloud Spend Desk by Avid",
+    "description": "A read-and-report bot that finds waste in your hosting and cloud bills, like idle projects, oversized plans, unused domains and bill spikes. It never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "saving-money",
+    "analytics",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cloud-spend-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -17,7 +17,7 @@
     "title": "🔍 PR Review Desk ✦ SHIP-SAFE by Cypher",
     "description": "🔍 Review pull requests faster with anchored Blocker, Major, Minor and Nit findings in one review packet. It never approves, merges or posts comments on...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

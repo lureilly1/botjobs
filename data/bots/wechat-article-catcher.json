@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "微信文章捕手 by 铁柱AGI",
-    "description": "把微信公众号文章链接原样抓成 Markdown 和 JSON，标题、公众号、发布时间、正文、图片都会带上。首次启动会自动搭好抓取环境，也可以给其他 Bot 当抓取底座调用。",
+    "description": "作者：铁柱AGI @cgnot996（X），公众号同名。把微信公众号文章链接原样抓成 Markdown/JSON，包括标题、公众号、发布时间、正文和图片。不用付费 API，也不用登录，可以给你自己或其他 Bot 调用。",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

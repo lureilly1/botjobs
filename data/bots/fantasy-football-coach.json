@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Fantasy Football Coach by Daniel",
-    "description": "Your fantasy football coach for season-long leagues and FanDuel/DraftKings DFS: start/sit calls, best lineups, waiver targets with FAAB guidance, and...",
+    "description": "Your fantasy football coach for start/sit calls, best lineups, waiver-wire targets with FAAB bids, and FanDuel/DraftKings DFS lineups, all checked...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

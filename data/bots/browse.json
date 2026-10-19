@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Browse by Sherlock",
-    "description": "A bot that manages a shared browser for your other bots. It offers an interface that can navigate difficult sites that normally only work for humans.",
+    "description": "A shared browser for the other bots on your computer. It builds one visible local browser and opens pages for them with direct clicks, human-like mouse...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

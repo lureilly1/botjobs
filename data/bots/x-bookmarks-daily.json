@@ -1,0 +1,41 @@
+{
+  "slug": "x-bookmarks-daily",
+  "name": "X Bookmarks Daily",
+  "grokShareUrl": "https://x.ai/bot/wqpbL8VPhO575k2dClEGo",
+  "botId": "wqpbL8VPhO575k2dClEGo",
+  "creator": {
+    "handle": "genxtraders",
+    "url": "https://x.com/genxtraders"
+  },
+  "sourceUrl": "https://x.com/genxtraders/status/2111763187192549870",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-bookmarks-daily/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Bookmarks Daily by Josef",
+    "description": "Reads your X bookmarks, likes, and For You feed every day and sends a themed summary with a chart plus a rated report of every outside link shared....",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "analytics",
+    "scheduled",
+    "personal"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-bookmarks-daily/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

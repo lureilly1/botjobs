@@ -1,0 +1,41 @@
+{
+  "slug": "quick-calendar-bot",
+  "name": "Quick Calendar Bot",
+  "grokShareUrl": "https://x.ai/bot/hSB5eAvp41y3-atquZoR9",
+  "botId": "hSB5eAvp41y3-atquZoR9",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2111049918240485581",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quick-calendar-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quick Calendar Bot by James",
+    "description": "A friendly assistant that makes adding things to your calendar as frictionless as possible and reminds you whenever you need it. Created by James Rule....",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "calendar",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quick-calendar-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

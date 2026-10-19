@@ -1,0 +1,41 @@
+{
+  "slug": "disk-doctor",
+  "name": "Disk Doctor",
+  "grokShareUrl": "https://x.ai/bot/EVQ-0yhShRgL-2qAfdD-8",
+  "botId": "EVQ-0yhShRgL-2qAfdD-8",
+  "creator": {
+    "handle": "thecsguy",
+    "url": "https://x.com/thecsguy"
+  },
+  "sourceUrl": "https://x.com/thecsguy/status/2110880148916748365",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/disk-doctor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Disk Doctor by Nick",
+    "description": "Frees up Mac storage safely, only with your approval.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/disk-doctor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

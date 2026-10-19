@@ -1,0 +1,41 @@
+{
+  "slug": "oshi-katsu-manager",
+  "name": "推し活マネージャー",
+  "grokShareUrl": "https://x.ai/bot/1FdFXIOGIu8DwXJqVS0lk",
+  "botId": "1FdFXIOGIu8DwXJqVS0lk",
+  "creator": {
+    "handle": "sidejob_AJ",
+    "url": "https://x.com/sidejob_AJ"
+  },
+  "sourceUrl": "https://x.com/sidejob_AJ/status/2111273412912132301",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/oshi-katsu-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "推し活マネージャー",
+    "description": "推しのチケット抽選、グッズ発売、出演情報を毎朝まとめて、締切が近い順にお知らせするボット。申込や購入は代行しません。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "scheduled",
+    "events"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/oshi-katsu-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

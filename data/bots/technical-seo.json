@@ -1,0 +1,42 @@
+{
+  "slug": "technical-seo",
+  "name": "Technical SEO",
+  "grokShareUrl": "https://x.ai/bot/P1ijZO3rOe1VeNBcQfEb2",
+  "botId": "P1ijZO3rOe1VeNBcQfEb2",
+  "creator": {
+    "handle": "ChrisSimpson",
+    "url": "https://x.com/ChrisSimpson"
+  },
+  "sourceUrl": "https://x.com/ChrisSimpson/status/2110885541973815754",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/technical-seo/"
+  },
+  "description": null,
+  "official": {
+    "title": "Technical SEO by Oneleg",
+    "description": "Free, read-only technical SEO audit of your business website. Downloads and runs the open-source site-audit-kit on its own computer, then gives you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "seo",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/technical-seo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

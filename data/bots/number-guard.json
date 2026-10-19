@@ -1,0 +1,41 @@
+{
+  "slug": "number-guard",
+  "name": "Number Guard",
+  "grokShareUrl": "https://x.ai/bot/UDQglxTgFIcaLqet3cVt2",
+  "botId": "UDQglxTgFIcaLqet3cVt2",
+  "creator": {
+    "handle": "KSJ_Kreative",
+    "url": "https://x.com/KSJ_Kreative"
+  },
+  "sourceUrl": "https://x.com/KSJ_Kreative/status/2111396954836213889",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/number-guard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Number Guard by KSJ",
+    "description": "Cuts down spam calls by finding your phone number on people-search and data broker sites and submitting free opt-outs you approve, then re-checking...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "automation",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/number-guard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Remote Grok Build by Frank",
-    "description": "Mission control for local Grok Build on a linked PC. Optional per-project workers and an RGB channel for parallel turns.",
+    "description": "Drive Grok Build on your own linked PC from chat: mission control, resume, live turns, interrupt, and images both ways. Template v9, updated for grok...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

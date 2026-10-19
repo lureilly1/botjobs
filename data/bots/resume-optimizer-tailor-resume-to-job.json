@@ -1,0 +1,40 @@
+{
+  "slug": "resume-optimizer-tailor-resume-to-job",
+  "name": "Resume Optimizer: Tailor Resume to Job",
+  "grokShareUrl": "https://x.ai/bot/rEba1S2MuOrKRmLRbEflv",
+  "botId": "rEba1S2MuOrKRmLRbEflv",
+  "creator": {
+    "handle": "GrokBotGod",
+    "url": "https://x.com/GrokBotGod"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/resume-optimizer-tailor-resume-to-job/"
+  },
+  "description": null,
+  "official": {
+    "title": "Resume Optimizer: Tailor Resume to Job by GrokBotGod",
+    "description": "Resume optimizer: tailor resume to job post you paste, plus a list of gaps to fill. Never invents experience, skills, dates, titles or numbers.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/resume-optimizer-tailor-resume-to-job/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

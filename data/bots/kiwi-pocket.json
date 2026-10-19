@@ -1,0 +1,43 @@
+{
+  "slug": "kiwi-pocket",
+  "name": "Kiwi Pocket",
+  "grokShareUrl": "https://x.ai/bot/TBDkrl21y6qX-wk5G107W",
+  "botId": "TBDkrl21y6qX-wk5G107W",
+  "creator": {
+    "handle": "daimenhutchison",
+    "url": "https://x.com/daimenhutchison"
+  },
+  "sourceUrl": "https://x.com/daimenhutchison/status/2110666720239382840",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/kiwi-pocket/"
+  },
+  "description": null,
+  "official": {
+    "title": "Kiwi Pocket by Daimen",
+    "description": "Give your bot read-only access to your New Zealand bank accounts. It uses your own Akahu personal app to make the connection, then helps you track...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/kiwi-pocket/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

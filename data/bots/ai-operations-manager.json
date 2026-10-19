@@ -1,0 +1,43 @@
+{
+  "slug": "ai-operations-manager",
+  "name": "AI Operations Manager",
+  "grokShareUrl": "https://x.ai/bot/Yv50q-SVYos297uBEC1I_",
+  "botId": "Yv50q-SVYos297uBEC1I_",
+  "creator": {
+    "handle": "gusttav90_",
+    "url": "https://x.com/gusttav90_"
+  },
+  "sourceUrl": "https://x.com/gusttav90_/status/2110686225073909890",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-operations-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Operations Manager by Gustavo",
+    "description": "A 100% AI operations manager that designs a website-sales project, creates and runs its own bot team (SDRs, content), and drives Cursor agents to build...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "growth",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-operations-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

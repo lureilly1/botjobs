@@ -1,0 +1,41 @@
+{
+  "slug": "professor-g",
+  "name": "Professor G",
+  "grokShareUrl": "https://x.ai/bot/O-KFiRuTucT9OlE7tg3gk",
+  "botId": "O-KFiRuTucT9OlE7tg3gk",
+  "creator": {
+    "handle": "mikepat711",
+    "url": "https://x.com/mikepat711"
+  },
+  "sourceUrl": "https://x.com/mikepat711/status/2111587230896840872",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/professor-g/"
+  },
+  "description": null,
+  "official": {
+    "title": "Professor G by Mike",
+    "description": "A patient tutor that teaches you any topic step by step and quizzes you until you can explain it back. It also keeps your reading list and recommends...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/professor-g/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

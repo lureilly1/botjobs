@@ -1,0 +1,43 @@
+{
+  "slug": "knowledgemax",
+  "name": "Knowledgemax",
+  "grokShareUrl": "https://x.ai/bot/NN9pHzrAZOhB2WBvOyPwU",
+  "botId": "NN9pHzrAZOhB2WBvOyPwU",
+  "creator": {
+    "handle": "sravanjay",
+    "url": "https://x.com/sravanjay"
+  },
+  "sourceUrl": "https://x.com/sravanjay/status/2110158294774128940",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/knowledgemax/"
+  },
+  "description": null,
+  "official": {
+    "title": "Knowledgemax by Sravan",
+    "description": "A Karpathy-style second brain bot: it indexes your Notion, Drive, Readwise and saved links into cited theme summaries in a git repo, files nightly agent...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "developer",
+    "knowledge-base",
+    "research",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/knowledgemax/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

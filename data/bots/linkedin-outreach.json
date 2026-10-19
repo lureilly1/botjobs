@@ -1,0 +1,44 @@
+{
+  "slug": "linkedin-outreach",
+  "name": "LinkedIn Outreach",
+  "grokShareUrl": "https://x.ai/bot/RoPTRP7mgY41LgyiaZVA1",
+  "botId": "RoPTRP7mgY41LgyiaZVA1",
+  "creator": {
+    "handle": "blayonX",
+    "url": "https://x.com/blayonX"
+  },
+  "sourceUrl": "https://x.com/blayonX/status/2110328541116350837",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/linkedin-outreach/"
+  },
+  "description": null,
+  "official": {
+    "title": "LinkedIn Outreach by blay",
+    "description": "Finds decision makers at companies that fit your ICP and can afford you, writes personal connection notes, sends them safely every day, and hands you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "sales",
+    "business",
+    "marketer",
+    "growth",
+    "social-media",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/linkedin-outreach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

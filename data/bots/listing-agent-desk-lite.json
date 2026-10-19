@@ -1,0 +1,41 @@
+{
+  "slug": "listing-agent-desk-lite",
+  "name": "Listing Agent Desk LITE",
+  "grokShareUrl": "https://x.ai/bot/8JiqD02tWEQRGcVqPsswi",
+  "botId": "8JiqD02tWEQRGcVqPsswi",
+  "creator": {
+    "handle": "ClaudiuBalaciv",
+    "url": "https://x.com/ClaudiuBalaciv"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/listing-agent-desk-lite/"
+  },
+  "description": null,
+  "official": {
+    "title": "Listing Agent Desk LITE by Balaci",
+    "description": "For real-estate agents (listing side): turns property facts and photos into ready-to-paste listings in any language, runs a quick comparable-price...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "real-estate",
+    "business",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/listing-agent-desk-lite/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

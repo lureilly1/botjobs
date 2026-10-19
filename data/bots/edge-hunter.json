@@ -1,0 +1,42 @@
+{
+  "slug": "edge-hunter",
+  "name": "Edge Hunter",
+  "grokShareUrl": "https://x.ai/bot/NWvF8UK-ai_nnJhxGYlA3",
+  "botId": "NWvF8UK-ai_nnJhxGYlA3",
+  "creator": {
+    "handle": "Xvynzza",
+    "url": "https://x.com/Xvynzza"
+  },
+  "sourceUrl": "https://x.com/Xvynzza/status/2111358209508495731",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/edge-hunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Edge Hunter by Anthony",
+    "description": "Finds NFL betting edges each week by matching scheme against scheme, defense first, then checks the read against the market. Sends a ranked list of...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "analytics",
+    "research",
+    "scheduled",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/edge-hunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

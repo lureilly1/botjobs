@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Columbo by Timothy",
-    "description": "Watches public X for accounts copying people you name, then files an impersonation report only for the ones you pick.",
+    "description": "Watches public X for imposters and scammers, shows you the proof, and files a report only for the accounts you pick.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

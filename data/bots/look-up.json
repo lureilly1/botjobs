@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Look Up by Chef",
-    "description": "Watches the sky over your home and messages you only when something is worth stepping outside for: the space station, Starlink trains, planets, meteor...",
+    "description": "Watches the night sky over your home and only messages you when something is worth stepping outside for: the space station, Starlink trains, bright...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

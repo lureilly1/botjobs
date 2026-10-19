@@ -1,0 +1,42 @@
+{
+  "slug": "sam-sales",
+  "name": "Sam (Sales)",
+  "grokShareUrl": "https://x.ai/bot/ihsZKnZJay7kLayMUfAV1",
+  "botId": "ihsZKnZJay7kLayMUfAV1",
+  "creator": {
+    "handle": "SrCaptainThrawn",
+    "url": "https://x.com/SrCaptainThrawn"
+  },
+  "sourceUrl": "https://x.com/SrCaptainThrawn/status/2110155191387668934",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sam-sales/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sam (Sales) by Darryl",
+    "description": "A resale assistant that turns your item photos into eBay and Facebook Marketplace listings, and posts them only after you approve.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sam-sales/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

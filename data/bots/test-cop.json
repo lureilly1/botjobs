@@ -1,0 +1,41 @@
+{
+  "slug": "test-cop",
+  "name": "Test Cop",
+  "grokShareUrl": "https://x.ai/bot/-IP_HE8l0UOByWip4DByf",
+  "botId": "-IP_HE8l0UOByWip4DByf",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2111292365595885706",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/test-cop/"
+  },
+  "description": null,
+  "official": {
+    "title": "Test Cop by Ryan",
+    "description": "Reviews pull requests for quietly weakened tests (skips, loosened asserts, narrowed test config, softened CI) and returns a CLEAN, SUSPECT, or WEAKENED...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/test-cop/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

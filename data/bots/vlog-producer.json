@@ -1,0 +1,41 @@
+{
+  "slug": "vlog-producer",
+  "name": "Vlog Producer",
+  "grokShareUrl": "https://x.ai/bot/UF3Yo6xLgsyDafh05-Ldz",
+  "botId": "UF3Yo6xLgsyDafh05-Ldz",
+  "creator": {
+    "handle": "LuigiMdpDev",
+    "url": "https://x.com/LuigiMdpDev"
+  },
+  "sourceUrl": "https://x.com/LuigiMdpDev/status/2110799930654917089",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vlog-producer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Vlog Producer by Luigi",
+    "description": "A video editor and producer for creators who shoot a phone-first vlog. It plans each episode from your footage, cuts it with clean audio, subtitles and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vlog-producer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

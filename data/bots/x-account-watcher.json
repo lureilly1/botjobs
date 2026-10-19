@@ -1,0 +1,42 @@
+{
+  "slug": "x-account-watcher",
+  "name": "X Account Watcher",
+  "grokShareUrl": "https://x.ai/bot/e7dI4aLmitFXzNqPl_Z4U",
+  "botId": "e7dI4aLmitFXzNqPl_Z4U",
+  "creator": {
+    "handle": "bunkeideploy",
+    "url": "https://x.com/bunkeideploy"
+  },
+  "sourceUrl": "https://x.com/bunkeideploy/status/2110244882799546847",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-account-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Account Watcher by bunkei",
+    "description": "Watches one X account you choose. Every 2 hours it logs new posts with a summary and analysis wherever you like, and pings you only on important updates.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "research",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-account-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

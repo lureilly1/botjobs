@@ -1,0 +1,41 @@
+{
+  "slug": "grokcli",
+  "name": "grokcli",
+  "grokShareUrl": "https://x.ai/bot/0B7CBnzSyIA3aVLjMTwoF",
+  "botId": "0B7CBnzSyIA3aVLjMTwoF",
+  "creator": {
+    "handle": "nil0bject",
+    "url": "https://x.com/nil0bject"
+  },
+  "sourceUrl": "https://x.com/nil0bject/status/2110676445379141736",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grokcli/"
+  },
+  "description": null,
+  "official": {
+    "title": "grokcli by Nil",
+    "description": "A coding bot that writes tight prompts and runs them through the Grok CLI, headless on your own computer, then commits, pushes and reports back. For...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grokcli/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

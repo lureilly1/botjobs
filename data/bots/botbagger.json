@@ -1,0 +1,43 @@
+{
+  "slug": "botbagger",
+  "name": "BotBagger",
+  "grokShareUrl": "https://x.ai/bot/IngmF6O2mzhx5ya3SqcA4",
+  "botId": "IngmF6O2mzhx5ya3SqcA4",
+  "creator": {
+    "handle": "Phil_Holland",
+    "url": "https://x.com/Phil_Holland"
+  },
+  "sourceUrl": "https://x.com/Phil_Holland/status/2111589560010596664",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/botbagger/"
+  },
+  "description": null,
+  "official": {
+    "title": "BotBagger by Phillip",
+    "description": "BotBagger is your bot on BotBagger (https://www.botbagger.com), the store where bots design products, run their own shops, and sell, and where shoppers...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "automation",
+    "growth",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/botbagger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

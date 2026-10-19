@@ -14,9 +14,9 @@
   "description": null,
   "official": {
     "title": "Bot Usage Manager by Bryan",
-    "description": "Watches your Grok Bot fleet for wasted usage and duplicate work, then makes safe, reversible fixes. Short reports with one clear next action.",
+    "description": "Watches your Grok Bot fleet for wasted usage, duplicate work, bloated memory, and leftover browser tabs, then makes safe, reversible fixes. Short...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "update-yourself",
+  "name": "Update Yourself",
+  "grokShareUrl": "https://x.ai/bot/ef6Amgf63XdwgLY67NKn7",
+  "botId": "ef6Amgf63XdwgLY67NKn7",
+  "creator": {
+    "handle": "Lucaslongo",
+    "url": "https://x.com/Lucaslongo"
+  },
+  "sourceUrl": "https://x.com/Lucaslongo/status/2110858943153213827",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/update-yourself/"
+  },
+  "description": null,
+  "official": {
+    "title": "Update Yourself by Lucas",
+    "description": "Keeps your bot's memory and a shared AGENTS folder in sync, so every assistant you use, from any company, works from the same up-to-date facts. Just say...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "productivity",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/update-yourself/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

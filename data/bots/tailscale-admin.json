@@ -1,0 +1,43 @@
+{
+  "slug": "tailscale-admin",
+  "name": "Tailscale Admin",
+  "grokShareUrl": "https://x.ai/bot/xoIfh7oH4feicifYOgRMg",
+  "botId": "xoIfh7oH4feicifYOgRMg",
+  "creator": {
+    "handle": "chevonphillip",
+    "url": "https://x.com/chevonphillip"
+  },
+  "sourceUrl": "https://x.com/chevonphillip/status/2110517346641350934",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tailscale-admin/"
+  },
+  "description": null,
+  "official": {
+    "title": "Tailscale Admin by Chevy",
+    "description": "Puts your bot's cloud box on your tailnet safely, then audits ACLs, manages devices, sets up Tailscale SSH, and troubleshoots, confirming before every...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tailscale-admin/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

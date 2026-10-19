@@ -1,0 +1,42 @@
+{
+  "slug": "mv-forge",
+  "name": "MV Forge",
+  "grokShareUrl": "https://x.ai/bot/mnZV-Y3B9Oyzhh0Yd7Ytq",
+  "botId": "mnZV-Y3B9Oyzhh0Yd7Ytq",
+  "creator": {
+    "handle": "old_pgmrs_will",
+    "url": "https://x.com/old_pgmrs_will"
+  },
+  "sourceUrl": "https://x.com/old_pgmrs_will/status/2110387063979962528",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mv-forge/"
+  },
+  "description": null,
+  "official": {
+    "title": "MV Forge by Will",
+    "description": "曲とプロンプトから、横画面のミュージックビデオを1本作るBot。Grok Imagine の動画素材か、コード描画だけの映像で作り、字幕のモーション、拍に合わせた編集、品質チェックまで自分でやりきります。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "design",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mv-forge/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

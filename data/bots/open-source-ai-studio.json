@@ -1,0 +1,43 @@
+{
+  "slug": "open-source-ai-studio",
+  "name": "Open Source AI Studio",
+  "grokShareUrl": "https://x.ai/bot/HTg0jsqi8CHf6idfBqaEz",
+  "botId": "HTg0jsqi8CHf6idfBqaEz",
+  "creator": {
+    "handle": "karatademada",
+    "url": "https://x.com/karatademada"
+  },
+  "sourceUrl": "https://x.com/karatademada/status/2109891989793542179",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/open-source-ai-studio/"
+  },
+  "description": null,
+  "official": {
+    "title": "Open Source AI Studio by Karata",
+    "description": "A beginner-friendly tutor that helps you make AI pictures and videos with free open-source tools: what your computer can run, the easiest setup, starter...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "student",
+    "learning",
+    "video",
+    "developer",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/open-source-ai-studio/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

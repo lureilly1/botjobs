@@ -1,0 +1,44 @@
+{
+  "slug": "x-creator",
+  "name": "X Creator",
+  "grokShareUrl": "https://x.ai/bot/6mKW38QZDoaNq1SQxu_PQ",
+  "botId": "6mKW38QZDoaNq1SQxu_PQ",
+  "creator": {
+    "handle": "cao282828",
+    "url": "https://x.com/cao282828"
+  },
+  "sourceUrl": "https://x.com/cao282828/status/2109682644992835990",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-creator/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Creator by Juan",
+    "description": "Runs your X (Twitter) account in any niche: posts sourced news, threads, and polls on a schedule and replies to big accounts to grow followers toward...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "creator",
+    "social-media",
+    "content",
+    "growth",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-creator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

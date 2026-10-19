@@ -1,0 +1,42 @@
+{
+  "slug": "bills-yo",
+  "name": "$$ Bills Yo",
+  "grokShareUrl": "https://x.ai/bot/U-ATLBXuCZ5g-aUVZmc5D",
+  "botId": "U-ATLBXuCZ5g-aUVZmc5D",
+  "creator": {
+    "handle": "BiGSr",
+    "url": "https://x.com/BiGSr"
+  },
+  "sourceUrl": "https://x.com/i/status/2109796573035331601",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bills-yo/"
+  },
+  "description": null,
+  "official": {
+    "title": "$$ Bills Yo",
+    "description": "A Coinbase crypto trade scout that hunts for small-cap setups worth the fees, proposes trades with stop-loss and take-profit, and sends a daily recap....",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "crypto",
+    "monitoring",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bills-yo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

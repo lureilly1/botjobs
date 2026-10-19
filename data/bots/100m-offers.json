@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "$100M Offers by Joe",
-    "description": "Turns what you sell into a clear, honest offer people want to buy, explained in plain English. Built for anyone new to advertising and marketing.",
+    "description": "A one-book guide to $100M Offers by Alex Hormozi. Tell it what you sell, and it helps you build an honest offer people want to buy, in plain English....",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

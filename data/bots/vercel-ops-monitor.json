@@ -1,0 +1,42 @@
+{
+  "slug": "vercel-ops-monitor",
+  "name": "Vercel Ops Monitor",
+  "grokShareUrl": "https://x.ai/bot/LSo2GKkmt_Fxh-TBz5RLX",
+  "botId": "LSo2GKkmt_Fxh-TBz5RLX",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2110669884954992900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/vercel-ops-monitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Vercel Ops Monitor by Gu",
+    "description": "Daily Vercel ops: spend vs plan credit, 5xx, traffic swings, 404s, new errors and failed deploys. Quiet days stay one short line.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "data",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/vercel-ops-monitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

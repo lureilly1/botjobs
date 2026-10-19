@@ -1,0 +1,40 @@
+{
+  "slug": "grokbird",
+  "name": "GrokBird",
+  "grokShareUrl": "https://x.ai/bot/CYqiGcZZjsxGn0VH-jO0n",
+  "botId": "CYqiGcZZjsxGn0VH-jO0n",
+  "creator": {
+    "handle": "okame_cockatiel",
+    "url": "https://x.com/okame_cockatiel"
+  },
+  "sourceUrl": "https://x.com/okame_cockatiel/status/2110169589757964456",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grokbird/"
+  },
+  "description": null,
+  "official": {
+    "title": "GrokBird",
+    "description": "Grok風オカメインコを育てる放置育成ゲームの飼育係Bot。話しかけると世話ができ、育て方で分岐進化するドット絵の鳥を毎朝報告してくれる。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grokbird/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

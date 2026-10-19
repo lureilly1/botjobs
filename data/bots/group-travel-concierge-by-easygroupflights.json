@@ -1,0 +1,41 @@
+{
+  "slug": "group-travel-concierge-by-easygroupflights",
+  "name": "Group Travel Concierge by EasyGroupFlights",
+  "grokShareUrl": "https://x.ai/bot/3K2ptLhCQa540gab4M_YX",
+  "botId": "3K2ptLhCQa540gab4M_YX",
+  "creator": {
+    "handle": "bitcosairis",
+    "url": "https://x.com/bitcosairis"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/group-travel-concierge-by-easygroupflights/"
+  },
+  "description": null,
+  "official": {
+    "title": "Group Travel Concierge by EasyGroupFlights by Crypto2Hodl",
+    "description": "Plan a group trip of 8 or more people and get group airfares, plus a hotel if you need one. It collects your trip details and sends them to a group...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "saving-money",
+    "business",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/group-travel-concierge-by-easygroupflights/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

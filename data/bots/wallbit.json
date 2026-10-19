@@ -1,0 +1,42 @@
+{
+  "slug": "wallbit",
+  "name": "Wallbit",
+  "grokShareUrl": "https://x.ai/bot/YKuyXcI_7iX9Ur4psTUBL",
+  "botId": "YKuyXcI_7iX9Ur4psTUBL",
+  "creator": {
+    "handle": "rodrigouroz",
+    "url": "https://x.com/rodrigouroz"
+  },
+  "sourceUrl": "https://x.com/rodrigouroz/status/2110480172965081293",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/wallbit/"
+  },
+  "description": null,
+  "official": {
+    "title": "Wallbit by Rodrigo",
+    "description": "Asistente no oficial para tu cuenta Wallbit; no afiliado ni respaldado por Wallbit. No es asesoramiento financiero.\n\nUn solo trabajo: que el usuario...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "decision-support",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/wallbit/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

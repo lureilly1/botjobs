@@ -1,0 +1,42 @@
+{
+  "slug": "meter",
+  "name": "Meter",
+  "grokShareUrl": "https://x.ai/bot/AWWfTsu3hekFx0CTloXf0",
+  "botId": "AWWfTsu3hekFx0CTloXf0",
+  "creator": {
+    "handle": "Veriflier",
+    "url": "https://x.com/Veriflier"
+  },
+  "sourceUrl": "https://x.com/Veriflier/status/2111222423882215431",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meter by Matt",
+    "description": "A credit optimizer for people who run several bots. Each week it audits every routine and proposes a leaner schedule, and nothing changes until you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

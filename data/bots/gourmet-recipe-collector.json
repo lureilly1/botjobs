@@ -1,0 +1,44 @@
+{
+  "slug": "gourmet-recipe-collector",
+  "name": "グルメ・レシピ収集ボット",
+  "grokShareUrl": "https://x.ai/bot/lz6SnkE4oRd3cuy5H40GG",
+  "botId": "lz6SnkE4oRd3cuy5H40GG",
+  "creator": {
+    "handle": "ad_motsu",
+    "url": "https://x.com/ad_motsu"
+  },
+  "sourceUrl": "https://x.com/ad_motsu/status/2111469990067290250",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gourmet-recipe-collector/"
+  },
+  "description": null,
+  "official": {
+    "title": "グルメ・レシピ収集ボット by もつ@C106",
+    "description": "Xで話題のお店とレシピを毎日集めて、Notionに整理するボットです。一般の人の投稿も重視し、Notionに貯めたお店やレシピは聞けば検索して教えてくれます。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "automation",
+    "food",
+    "knowledge-base",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gourmet-recipe-collector/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

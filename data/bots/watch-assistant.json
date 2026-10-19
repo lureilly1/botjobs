@@ -1,0 +1,42 @@
+{
+  "slug": "watch-assistant",
+  "name": "Watch Assistant",
+  "grokShareUrl": "https://x.ai/bot/HShNRJXkQBDIlJnwtZP1J",
+  "botId": "HShNRJXkQBDIlJnwtZP1J",
+  "creator": {
+    "handle": "daisuke",
+    "url": "https://x.com/daisuke"
+  },
+  "sourceUrl": "https://x.com/daisuke/status/2110641072695111966",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/watch-assistant/"
+  },
+  "description": null,
+  "official": {
+    "title": "Watch Assistant by dai",
+    "description": "Keeps an eye on X accounts and other things you care about, and tells you right away only when something new happens. Good for catching announcements...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "social-media",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/watch-assistant/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

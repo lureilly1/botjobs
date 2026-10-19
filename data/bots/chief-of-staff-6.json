@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Chief of staff",
-    "description": "Quiet, budget-conscious chief of staff. Filters noise, runs real program management with artifact KPIs and % kill-switches, and hires lean specialists...",
+    "description": "A quiet, budget-conscious chief of staff that runs your projects in the background, hires lean specialist agents when a lane is clear, and only messages...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

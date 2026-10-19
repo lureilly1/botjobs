@@ -1,0 +1,43 @@
+{
+  "slug": "doge-procurement-desk",
+  "name": "DOGE Procurement Desk",
+  "grokShareUrl": "https://x.ai/bot/Tp-pBgcS3F_8Oc1bEygxw",
+  "botId": "Tp-pBgcS3F_8Oc1bEygxw",
+  "creator": {
+    "handle": "Av1dlive",
+    "url": "https://x.com/Av1dlive"
+  },
+  "sourceUrl": "https://x.com/Av1dlive/status/2111504263432241437",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/doge-procurement-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "DOGE Procurement Desk by Avid",
+    "description": "A draft-only procurement desk that finds wasted software and vendor spend (unused seats, duplicate tools, forgotten subscriptions, upcoming renewals)...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "saving-money",
+    "back-office",
+    "finance",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/doge-procurement-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

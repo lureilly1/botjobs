@@ -1,0 +1,42 @@
+{
+  "slug": "would-thiel-buy-it",
+  "name": "Would Thiel Buy It?",
+  "grokShareUrl": "https://x.ai/bot/wzJ0u7WcdYGc_rDKTqpbE",
+  "botId": "wzJ0u7WcdYGc_rDKTqpbE",
+  "creator": {
+    "handle": "shib2_inu",
+    "url": "https://x.com/shib2_inu"
+  },
+  "sourceUrl": "https://x.com/shib2_inu/status/2110673931787182439",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/would-thiel-buy-it/"
+  },
+  "description": null,
+  "official": {
+    "title": "Would Thiel Buy It? by 중현",
+    "description": "Drop your tickers and get one verdict per stock, Monopoly, Contender, or Competitor, as a shareable card, judged from SEC filings in the spirit of Zero...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/would-thiel-buy-it/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

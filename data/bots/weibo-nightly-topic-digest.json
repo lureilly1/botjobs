@@ -1,0 +1,42 @@
+{
+  "slug": "weibo-nightly-topic-digest",
+  "name": "微博追踪",
+  "grokShareUrl": "https://x.ai/bot/w5SXwT0WzP0Y-55u7bIWT",
+  "botId": "w5SXwT0WzP0Y-55u7bIWT",
+  "creator": {
+    "handle": "Guluhehe",
+    "url": "https://x.com/Guluhehe"
+  },
+  "sourceUrl": "https://x.com/Guluhehe/status/2110204862625706014",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/weibo-nightly-topic-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "微博追踪 by Guluhehe",
+    "description": "每晚帮你汇总微博关注的内容，特别关注放最前面细讲，还能按你在意的话题（比如美股投资）从重点账号的正文和评论区筛出信号。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "social-media",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/weibo-nightly-topic-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

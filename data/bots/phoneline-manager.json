@@ -1,0 +1,43 @@
+{
+  "slug": "phoneline-manager",
+  "name": "Phoneline Manager",
+  "grokShareUrl": "https://x.ai/bot/qJrEhsA1sWCbisI6VuzNr",
+  "botId": "qJrEhsA1sWCbisI6VuzNr",
+  "creator": {
+    "handle": "clawcalldev",
+    "url": "https://x.com/clawcalldev"
+  },
+  "sourceUrl": "https://x.com/clawcalldev/status/2111969969676464413",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/phoneline-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Phoneline Manager by Nikit",
+    "description": "Makes the calls on your to-do list: waits on hold, gets quotes, chases support, and reports what was said. Never books, pays, or cancels beyond what you...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "back-office",
+    "support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/phoneline-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

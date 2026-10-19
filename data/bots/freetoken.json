@@ -1,0 +1,44 @@
+{
+  "slug": "freetoken",
+  "name": "FreeToken",
+  "grokShareUrl": "https://x.ai/bot/G33RxzA5ocOTN3DmHcsFU",
+  "botId": "G33RxzA5ocOTN3DmHcsFU",
+  "creator": {
+    "handle": "MinLiBuilds",
+    "url": "https://x.com/MinLiBuilds"
+  },
+  "sourceUrl": "https://x.com/MinLiBuilds/status/2110306298994839649",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/freetoken/"
+  },
+  "description": null,
+  "official": {
+    "title": "FreeToken by Min",
+    "description": "帮你找到 OpenRouter 上真正免费、支持工具调用的大模型，给 Pi 子 agent 使用，并每天监控免费名单变化。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "monitoring",
+    "data",
+    "saving-money",
+    "scheduled",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/freetoken/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

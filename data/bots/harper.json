@@ -1,0 +1,44 @@
+{
+  "slug": "harper",
+  "name": "Harper",
+  "grokShareUrl": "https://x.ai/bot/A6er8L662aOk-vYUrRY9_",
+  "botId": "A6er8L662aOk-vYUrRY9_",
+  "creator": {
+    "handle": "TravisWeathers",
+    "url": "https://x.com/TravisWeathers"
+  },
+  "sourceUrl": "https://x.com/TravisWeathers/status/2111960155382571444",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/harper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Harper by Travis",
+    "description": "An executive assistant for email, calendar, and texting. It triages your inbox, schedules people, protects deep-work time, and texts you the week's...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "email",
+    "calendar",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/harper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

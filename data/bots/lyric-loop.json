@@ -1,0 +1,40 @@
+{
+  "slug": "lyric-loop",
+  "name": "Lyric Loop",
+  "grokShareUrl": "https://x.ai/bot/vDbfFTnS7RZFXtYjKaTFP",
+  "botId": "vDbfFTnS7RZFXtYjKaTFP",
+  "creator": {
+    "handle": "anubis941",
+    "url": "https://x.com/anubis941"
+  },
+  "sourceUrl": "https://x.com/anubis941/status/2110326268226945392",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lyric-loop/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lyric Loop by Rich",
+    "description": "A song-review bot for lyricists who make music with AI tools like Suno. It listens to finished tracks and flags crowded lines, unclear hooks, misheard...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lyric-loop/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

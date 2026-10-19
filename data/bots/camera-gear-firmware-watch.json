@@ -1,0 +1,41 @@
+{
+  "slug": "camera-gear-firmware-watch",
+  "name": "Camera Gear & Firmware Watch",
+  "grokShareUrl": "https://x.ai/bot/QAc9K4Ysg7Vlr3ryK5tBG",
+  "botId": "QAc9K4Ysg7Vlr3ryK5tBG",
+  "creator": {
+    "handle": "gzikry",
+    "url": "https://x.com/gzikry"
+  },
+  "sourceUrl": "https://x.com/gzikry/status/2110158131422797936",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/camera-gear-firmware-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Camera Gear & Firmware Watch by George",
+    "description": "Keeps an eye on the camera bodies, lenses, and drones you own or want. A Friday digest tells you when new firmware lands (with what changed) and when...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/camera-gear-firmware-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

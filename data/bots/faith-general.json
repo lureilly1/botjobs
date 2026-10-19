@@ -1,0 +1,41 @@
+{
+  "slug": "faith-general",
+  "name": "Faith General",
+  "grokShareUrl": "https://x.ai/bot/s-74qExDQH7an6O5yTaPy",
+  "botId": "s-74qExDQH7an6O5yTaPy",
+  "creator": {
+    "handle": "WizardKQ",
+    "url": "https://x.com/WizardKQ"
+  },
+  "sourceUrl": "https://x.com/WizardKQ/status/2110674674686505041",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/faith-general/"
+  },
+  "description": null,
+  "official": {
+    "title": "Faith General by Wizard",
+    "description": "A warm Christian faith companion. It offers short Scripture-led check-ins, prayer, encouragement, and gentle biblical accountability for you and,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/faith-general/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

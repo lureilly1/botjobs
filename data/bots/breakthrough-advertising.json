@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Breakthrough Advertising by Joe",
-    "description": "Helps you write ads and campaigns that grab attention and sell. Tell it your product, audience, and channel, and it drafts angles, headlines, and copy...",
+    "description": "A one-book Bot for Eugene Schwartz's Breakthrough Advertising. It helps you apply mass desire, awareness stages, and market sophistication to your own...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

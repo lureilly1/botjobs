@@ -1,0 +1,40 @@
+{
+  "slug": "virtual-girl-encouragement-selfies",
+  "name": "かわいい女の子メーカー",
+  "grokShareUrl": "https://x.ai/bot/ZGchiLLX_A1LAOjsg9iOD",
+  "botId": "ZGchiLLX_A1LAOjsg9iOD",
+  "creator": {
+    "handle": "suna_gaku",
+    "url": "https://x.com/suna_gaku"
+  },
+  "sourceUrl": "https://x.com/suna_gaku/status/2110193312502284308",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/virtual-girl-encouragement-selfies/"
+  },
+  "description": null,
+  "official": {
+    "title": "かわいい女の子メーカー by 馬場",
+    "description": "つらい時やしんどい時に、架空の女の子の実写風の自撮り画像を、励ましのひと言と一緒に送ってくれるBotです。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/virtual-girl-encouragement-selfies/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

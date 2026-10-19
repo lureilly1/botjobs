@@ -17,7 +17,7 @@
     "title": "信息搜集-bot by Yunn",
     "description": "每天自动搜集 AI 热点资讯和热门争议话题，按固定格式写成一份中文日报，每条都附来源链接，适合做内容、追行业动态的人。",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

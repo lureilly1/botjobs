@@ -1,0 +1,42 @@
+{
+  "slug": "korean-grocery-shopper",
+  "name": "장보기",
+  "grokShareUrl": "https://x.ai/bot/d5ucI08cimmef2-bIUFzo",
+  "botId": "d5ucI08cimmef2-bIUFzo",
+  "creator": {
+    "handle": "minheo93698092",
+    "url": "https://x.com/minheo93698092"
+  },
+  "sourceUrl": "https://x.com/minheo93698092/status/2110146717626831322",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/korean-grocery-shopper/"
+  },
+  "description": null,
+  "official": {
+    "title": "장보기 by min",
+    "description": "쿠팡과 네이버쇼핑에서 원하는 상품을 찾아 가격과 배송을 비교하고, 장바구니에 담아 결제 직전 화면까지 준비하는 쇼핑 도우미. 결제는 주인이 「결제해」라고 한 뒤에만 한다.\n\nJob: 주인이 말한 상품(이름·링크·수량·예산)을...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/korean-grocery-shopper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

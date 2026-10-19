@@ -1,0 +1,42 @@
+{
+  "slug": "crypto-scam-shield",
+  "name": "Crypto Scam Shield",
+  "grokShareUrl": "https://x.ai/bot/yu5DTLbi2VHKOSGJdZ6zk",
+  "botId": "yu5DTLbi2VHKOSGJdZ6zk",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2111049921742983559",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-scam-shield/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto Scam Shield by James",
+    "description": "A free, friendly coach that teaches everyday people how to spot and avoid crypto scams, with tips, quizzes, examples, and link or message checks.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "investor",
+    "learning",
+    "crypto",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-scam-shield/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

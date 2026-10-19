@@ -1,0 +1,42 @@
+{
+  "slug": "ai-output-guard",
+  "name": "AI Output Guard",
+  "grokShareUrl": "https://x.ai/bot/7wSIwep9R-eedkBMse1gd",
+  "botId": "7wSIwep9R-eedkBMse1gd",
+  "creator": {
+    "handle": "__nightmoose__",
+    "url": "https://x.com/__nightmoose__"
+  },
+  "sourceUrl": "https://x.com/__nightmoose__/status/2111058830725460304",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-output-guard/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Output Guard by Alex",
+    "description": "Checks what your AI bots and prompts produce against a contract with AISchemaGate, repairs what it can, and explains failures in plain words. For anyone...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "data",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-output-guard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

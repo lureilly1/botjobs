@@ -1,0 +1,41 @@
+{
+  "slug": "one-day",
+  "name": "One Day",
+  "grokShareUrl": "https://x.ai/bot/2BDIxeFbgvRgQtX52I6pI",
+  "botId": "2BDIxeFbgvRgQtX52I6pI",
+  "creator": {
+    "handle": "Compare1and2",
+    "url": "https://x.com/Compare1and2"
+  },
+  "sourceUrl": "https://x.com/Compare1and2/status/2111242240525799921",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/one-day/"
+  },
+  "description": null,
+  "official": {
+    "title": "One Day by Alfredo",
+    "description": "“One day I’ll start.” One Day turns it into the first step and a daily check until you do it. Draft only — it never files, pays, posts, or calls.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/one-day/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

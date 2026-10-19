@@ -1,0 +1,42 @@
+{
+  "slug": "brick-scout",
+  "name": "Brick Scout",
+  "grokShareUrl": "https://x.ai/bot/RHVbp2I2y0fIkZI54fcdf",
+  "botId": "RHVbp2I2y0fIkZI54fcdf",
+  "creator": {
+    "handle": "bradshannon",
+    "url": "https://x.com/bradshannon"
+  },
+  "sourceUrl": "https://x.com/bradshannon/status/2110330047777448255",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/brick-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Brick Scout by Brad",
+    "description": "Designs LEGO builds from real, verified parts, exports part lists for Rebrickable, BrickLink and Studio, checks and renders 3D models, and prices parts...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "design",
+    "engineering",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/brick-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

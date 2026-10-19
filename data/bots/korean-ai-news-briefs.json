@@ -1,0 +1,42 @@
+{
+  "slug": "korean-ai-news-briefs",
+  "name": "AI 뉴스 봇",
+  "grokShareUrl": "https://x.ai/bot/QjlXhXmlHD7KpnHC7H11Q",
+  "botId": "QjlXhXmlHD7KpnHC7H11Q",
+  "creator": {
+    "handle": "hokkk01",
+    "url": "https://x.com/hokkk01"
+  },
+  "sourceUrl": "https://x.com/hokkk01/status/2110477083969532148",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/korean-ai-news-briefs/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI 뉴스 봇 by 현",
+    "description": "Sends short daily AI news digests built from X chatter and official blogs: a morning roundup and an evening hot-topic check.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "research",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/korean-ai-news-briefs/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

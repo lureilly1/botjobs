@@ -1,0 +1,42 @@
+{
+  "slug": "morning-brief",
+  "name": "Morning Brief",
+  "grokShareUrl": "https://x.ai/bot/UUnYvoOqa9yVwMoWcLhIy",
+  "botId": "UUnYvoOqa9yVwMoWcLhIy",
+  "creator": {
+    "handle": "McLeodAgency",
+    "url": "https://x.com/McLeodAgency"
+  },
+  "sourceUrl": "https://x.com/McLeodAgency/status/2111064178966548712",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/morning-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Morning Brief by Jeffrey",
+    "description": "A two-minute morning read: your weather, today's calendar, the news on topics you pick, your stocks, and what's trending on X. It arrives every morning....",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/morning-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

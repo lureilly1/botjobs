@@ -1,0 +1,42 @@
+{
+  "slug": "scam-bot",
+  "name": "Scam Bot",
+  "grokShareUrl": "https://x.ai/bot/TK3jh27fy9qZGcxRktI16",
+  "botId": "TK3jh27fy9qZGcxRktI16",
+  "creator": {
+    "handle": "WifeDirtyTesla",
+    "url": "https://x.com/WifeDirtyTesla"
+  },
+  "sourceUrl": "https://x.com/WifeDirtyTesla/status/2110151236548694444",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scam-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scam Bot by Wife",
+    "description": "Finds accounts impersonating you on X and reports them in safe, paced batches. It also helps you size up suspicious messages.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "social-media",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scam-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

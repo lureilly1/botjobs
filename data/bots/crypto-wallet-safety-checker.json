@@ -1,0 +1,41 @@
+{
+  "slug": "crypto-wallet-safety-checker",
+  "name": "Crypto Wallet Safety Checker",
+  "grokShareUrl": "https://x.ai/bot/NK4EVTst02_7nIl2Ka4CO",
+  "botId": "NK4EVTst02_7nIl2Ka4CO",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2111049921742983559",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/crypto-wallet-safety-checker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Crypto Wallet Safety Checker by James",
+    "description": "Checks wallet addresses, links, tokens, and airdrops for scam and safety red flags before you send or sign. Built for anyone who holds crypto and wants...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "investor",
+    "crypto",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/crypto-wallet-safety-checker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

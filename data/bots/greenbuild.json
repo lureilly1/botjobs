@@ -1,0 +1,42 @@
+{
+  "slug": "greenbuild",
+  "name": "GreenBuild",
+  "grokShareUrl": "https://x.ai/bot/Y4m1o1g_TWG5he7mG1ZHb",
+  "botId": "Y4m1o1g_TWG5he7mG1ZHb",
+  "creator": {
+    "handle": "dkkkkd",
+    "url": "https://x.com/dkkkkd"
+  },
+  "sourceUrl": "https://x.com/dkkkkd/status/2110480760058855559",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/greenbuild/"
+  },
+  "description": null,
+  "official": {
+    "title": "GreenBuild by Dhiraj",
+    "description": "A senior QA and test-automation lead for testers and dev teams. It turns requirements into test plans, triages flaky tests, reviews Playwright, Selenium...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/greenbuild/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

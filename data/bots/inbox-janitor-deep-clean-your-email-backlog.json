@@ -1,0 +1,37 @@
+{
+  "slug": "inbox-janitor-deep-clean-your-email-backlog",
+  "name": "Inbox Janitor: Deep-Clean Your Email Backlog",
+  "grokShareUrl": "https://x.ai/bot/tdZaBxIG0zAg1LnrJMZ03",
+  "botId": "tdZaBxIG0zAg1LnrJMZ03",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/inbox-janitor-deep-clean-your-email-backlog"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Janitor by Jennifer",
+    "description": "Deep-cleans a buried Gmail or Outlook inbox down to zero in rounds you approve: it audits the backlog, proposes bulk archives, folder or label rules and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/inbox-janitor-deep-clean-your-email-backlog"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

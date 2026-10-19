@@ -17,7 +17,7 @@
     "title": "Flight Briefer by Jernau",
     "description": "Writes lean, one-page preflight briefing cards (weather, NOTAMs, TFRs, FBO, aircraft notes) from official free FAA and aviationweather.gov sources. For...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

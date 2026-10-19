@@ -1,0 +1,42 @@
+{
+  "slug": "exit-ip-proxy-manager",
+  "name": "出口IP管家",
+  "grokShareUrl": "https://x.ai/bot/1AKObJsZ-4jTjoTZ6_Y0R",
+  "botId": "1AKObJsZ-4jTjoTZ6_Y0R",
+  "creator": {
+    "handle": "KhoaMinh88704",
+    "url": "https://x.com/KhoaMinh88704"
+  },
+  "sourceUrl": "https://x.com/KhoaMinh88704/status/2111629966022762730",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/exit-ip-proxy-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "出口IP管家 by Mamta",
+    "description": "专门管理 Grok Bot 电脑（box）上的出口 IP / 代理链路：配置与切换 mihomo dialer-proxy，查询出口与测速，本地端口挂载。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/exit-ip-proxy-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

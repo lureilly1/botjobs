@@ -1,0 +1,37 @@
+{
+  "slug": "video-vision-bot",
+  "name": "Video Vision Bot",
+  "grokShareUrl": "https://x.ai/bot/msscOhUxeeEWG1smciiNM",
+  "botId": "msscOhUxeeEWG1smciiNM",
+  "creator": {
+    "handle": null,
+    "name": "Archor Wright",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/video-vision-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Vision Bot by ARCHOR",
+    "description": "Send a YouTube or other online video link and get a clear report of what is said and shown, including visuals, on-screen text, audio, and key details....",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/video-vision-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

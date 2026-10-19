@@ -1,0 +1,42 @@
+{
+  "slug": "marketing-manager",
+  "name": "Marketing Manager",
+  "grokShareUrl": "https://x.ai/bot/GW1Db37PnYoLXuaxX_Si-",
+  "botId": "GW1Db37PnYoLXuaxX_Si-",
+  "creator": {
+    "handle": "PaulHPowell13",
+    "url": "https://x.com/PaulHPowell13"
+  },
+  "sourceUrl": "https://x.com/PaulHPowell13/status/2110881207386808599",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/marketing-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Marketing Manager by Paul",
+    "description": "Helps independent and AI-assisted musicians get their songs heard with free, low-key promotion across YouTube, Spotify, and music communities, without...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "social-media",
+    "growth",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/marketing-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

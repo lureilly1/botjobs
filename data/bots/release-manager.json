@@ -1,0 +1,42 @@
+{
+  "slug": "release-manager",
+  "name": "Release Manager",
+  "grokShareUrl": "https://x.ai/bot/2kuWBEj2AX1Bs4bHD5e17",
+  "botId": "2kuWBEj2AX1Bs4bHD5e17",
+  "creator": {
+    "handle": "PaulHPowell13",
+    "url": "https://x.com/PaulHPowell13"
+  },
+  "sourceUrl": "https://x.com/PaulHPowell13/status/2110881207386808599",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/release-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Release Manager by Paul",
+    "description": "Helps independent and AI-assisted musicians release songs: YouTube lyric videos and Shorts, DistroKid uploads, Spotify pitches and free promotion, with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/release-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

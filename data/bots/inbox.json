@@ -1,0 +1,42 @@
+{
+  "slug": "inbox",
+  "name": "Inbox",
+  "grokShareUrl": "https://x.ai/bot/-t-XZjCcLbbbx-hz7HDon",
+  "botId": "-t-XZjCcLbbbx-hz7HDon",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2110669884954992900",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox by Josh",
+    "description": "A quiet email watcher that only pings you for mail that needs action today and batches everything else into a digest. Read-only by default: it never...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

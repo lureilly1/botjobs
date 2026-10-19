@@ -1,0 +1,42 @@
+{
+  "slug": "job-hunt-bot",
+  "name": "Job Hunt Bot",
+  "grokShareUrl": "https://x.ai/bot/yFcyx8WyOfB38IjqetoHX",
+  "botId": "yFcyx8WyOfB38IjqetoHX",
+  "creator": {
+    "handle": "realcoachmatt23",
+    "url": "https://x.com/realcoachmatt23"
+  },
+  "sourceUrl": "https://x.com/realcoachmatt23/status/2110143246005350633",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/job-hunt-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Job Hunt Bot by matt",
+    "description": "Your job search assistant. It finds roles that fit you, sorts them into ready and needs-your-call, preps and fills applications up to the review page,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/job-hunt-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

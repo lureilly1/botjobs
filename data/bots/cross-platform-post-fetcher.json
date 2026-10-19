@@ -1,0 +1,43 @@
+{
+  "slug": "cross-platform-post-fetcher",
+  "name": "全平台内容抓取",
+  "grokShareUrl": "https://x.ai/bot/G9FfCfIzn4hoPf1888jYi",
+  "botId": "G9FfCfIzn4hoPf1888jYi",
+  "creator": {
+    "handle": "erickang_ai",
+    "url": "https://x.com/erickang_ai"
+  },
+  "sourceUrl": "https://x.com/erickang_ai/status/2110379432515178676",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cross-platform-post-fetcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "全平台内容抓取 by 天",
+    "description": "一个链接，抓回完整的公开内容。\n支持 17 个平台，包括抖音、小红书、B站、公众号、YouTube、X、TikTok、Instagram、LinkedIn...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "content",
+    "research",
+    "social-media",
+    "video",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cross-platform-post-fetcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

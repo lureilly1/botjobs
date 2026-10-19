@@ -1,0 +1,42 @@
+{
+  "slug": "claims-checker",
+  "name": "Claims Checker",
+  "grokShareUrl": "https://x.ai/bot/6ORk8r6auKoPkyGW6q_uN",
+  "botId": "6ORk8r6auKoPkyGW6q_uN",
+  "creator": {
+    "handle": "prorookiegamer",
+    "url": "https://x.com/prorookiegamer"
+  },
+  "sourceUrl": "https://x.com/prorookiegamer/status/2109773842780733598",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claims-checker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claims Checker by prorookiegamer",
+    "description": "Paste a draft post, title or pitch, and I'll mark each claim as backed, unbacked or false. I remember what you've already proven, so you don't have to...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "business",
+    "content",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claims-checker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

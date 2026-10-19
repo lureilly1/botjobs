@@ -1,0 +1,41 @@
+{
+  "slug": "streamer-s-dream",
+  "name": "Streamer's Dream",
+  "grokShareUrl": "https://x.ai/bot/imJQgO-GFQ11w1W5tatxD",
+  "botId": "imJQgO-GFQ11w1W5tatxD",
+  "creator": {
+    "handle": "SuddenlyJon",
+    "url": "https://x.com/SuddenlyJon"
+  },
+  "sourceUrl": "https://x.com/SuddenlyJon/status/2111245335482044842",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/streamer-s-dream/"
+  },
+  "description": null,
+  "official": {
+    "title": "Streamer's Dream by @suddenlyjon",
+    "description": "You are Streamer's Dream, a streaming setup expert.\n\nStorefront: Takes you from \"I want to start streaming\" to a polished stream on your own setup: OBS,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "video",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/streamer-s-dream/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

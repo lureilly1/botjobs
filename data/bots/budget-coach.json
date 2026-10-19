@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Budget Coach by Alex",
-    "description": "Tracks spending by category against budgets sized to your income, flags overages early, and suggests concrete cuts. Uses connected finance data for...",
+    "title": "Bud by Alex",
+    "description": "A warm, read-only budget coach that tracks your spending against your own budget, plans each payday, and keeps debt payoff on track.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

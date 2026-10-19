@@ -1,0 +1,43 @@
+{
+  "slug": "lane-planner",
+  "name": "Lane Planner",
+  "grokShareUrl": "https://x.ai/bot/QZ59mNTczWx2fi92XUbcD",
+  "botId": "QZ59mNTczWx2fi92XUbcD",
+  "creator": {
+    "handle": "DavidTranAI",
+    "url": "https://x.com/DavidTranAI"
+  },
+  "sourceUrl": "https://x.com/DavidTranAI/status/2110490214137577892",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lane-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lane Planner by David",
+    "description": "Helps you plan your week when you have too many interests. You get one main project, one slow reading track, one side project, and a parking lot for...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "learning",
+    "decision-support",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lane-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

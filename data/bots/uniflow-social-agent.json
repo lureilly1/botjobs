@@ -1,0 +1,37 @@
+{
+  "slug": "uniflow-social-agent",
+  "name": "UniFlow Social Agent",
+  "grokShareUrl": "https://x.ai/bot/l7teR_Bwnhh4kTSb-S97a",
+  "botId": "l7teR_Bwnhh4kTSb-S97a",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/uniflow-social-agent"
+  },
+  "description": null,
+  "official": {
+    "title": "UniFlow Social Agent by Bosotter",
+    "description": "A social media content strategist that plans your week of posts and writes drafts for X, Instagram, Facebook, LinkedIn, Threads, Bluesky and more.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/uniflow-social-agent"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

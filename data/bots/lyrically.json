@@ -1,0 +1,40 @@
+{
+  "slug": "lyrically",
+  "name": "Lyrically",
+  "grokShareUrl": "https://x.ai/bot/O2xM44Mc__jdhKHr57izC",
+  "botId": "O2xM44Mc__jdhKHr57izC",
+  "creator": {
+    "handle": "AunySillyMe",
+    "url": "https://x.com/AunySillyMe"
+  },
+  "sourceUrl": "https://x.com/AunySillyMe/status/2110326510594715949",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lyrically/"
+  },
+  "description": null,
+  "official": {
+    "title": "Lyrically by Auny",
+    "description": "A mastering and audio engineering assistant for people who make music with AI tools. It finishes AI exports with crisp vocals, punchy low end, and clean...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lyrically/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "magnum-p-i",
+  "name": "Magnum P.I.",
+  "grokShareUrl": "https://x.ai/bot/hSJYHTSH02J0ZchLG-zu8",
+  "botId": "hSJYHTSH02J0ZchLG-zu8",
+  "creator": {
+    "handle": "congressdj",
+    "url": "https://x.com/congressdj"
+  },
+  "sourceUrl": "https://x.com/congressdj/status/2111782639103345038",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/magnum-p-i/"
+  },
+  "description": null,
+  "official": {
+    "title": "Magnum P.I. by DJ",
+    "description": "Magnum P.I. helps you build trust by vetting websites, sellers, credentials, and dating matches using public records, then gives you a clear verdict...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/magnum-p-i/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

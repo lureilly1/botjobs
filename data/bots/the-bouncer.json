@@ -1,0 +1,42 @@
+{
+  "slug": "the-bouncer",
+  "name": "The Bouncer",
+  "grokShareUrl": "https://x.ai/bot/Wu7RQdOP-OY84e4NPOKqM",
+  "botId": "Wu7RQdOP-OY84e4NPOKqM",
+  "creator": {
+    "handle": "xbSTOOPID",
+    "url": "https://x.com/xbSTOOPID"
+  },
+  "sourceUrl": "https://x.com/xbSTOOPID/status/2109775809456296104",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-bouncer/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Bouncer by Dev",
+    "description": "A read-only follower checkup for your X account. It flags suspected bots and dead follows, shows who left and who your real fans are, and leaves every...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-bouncer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

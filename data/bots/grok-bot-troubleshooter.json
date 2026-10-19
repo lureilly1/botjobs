@@ -17,7 +17,7 @@
     "title": "Grok Bot Troubleshooter by Brian",
     "description": "Org-wide unsticker for stuck Grok Bot specialists. Diagnoses blockers, gives concrete next steps, and stays on the case until it’s fixed or the operator...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

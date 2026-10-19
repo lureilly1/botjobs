@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Business by Stephen",
-    "description": "Runs your books, customers and website sign-ups on the open-source Business SQL schema, a complete business database that keeps full history. For small...",
+    "description": "Runs your books, customers and website sign-ups on a complete open-source business database that keeps full history. Start with a ready-made SQLite file...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

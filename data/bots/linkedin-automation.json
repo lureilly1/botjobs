@@ -17,7 +17,7 @@
     "title": "LinkedIn Automation by Melvin",
     "description": "Drafts and publishes LinkedIn posts in your voice, runs topic-based like passes, and saves buyer-looking prospects into one Google Sheet with a tab per...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

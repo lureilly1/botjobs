@@ -1,0 +1,42 @@
+{
+  "slug": "claim-ready",
+  "name": "Claim Ready",
+  "grokShareUrl": "https://x.ai/bot/ONLSQaVnarp5OYjp2CUPC",
+  "botId": "ONLSQaVnarp5OYjp2CUPC",
+  "creator": {
+    "handle": "Biggs237",
+    "url": "https://x.com/Biggs237"
+  },
+  "sourceUrl": "https://x.com/Biggs237/status/2111608094706807039",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claim-ready/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claim Ready by Jeremy",
+    "description": "A VA disability claim organizer for veterans. It builds an evidence checklist for each condition, tracks intent-to-file and exam dates, helps write lay...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "back-office",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claim-ready/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

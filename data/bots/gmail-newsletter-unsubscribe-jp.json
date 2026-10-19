@@ -1,0 +1,43 @@
+{
+  "slug": "gmail-newsletter-unsubscribe-jp",
+  "name": "メルマガ整理ボット",
+  "grokShareUrl": "https://x.ai/bot/bUhYvfA8mzvTSEWMpcTEO",
+  "botId": "bUhYvfA8mzvTSEWMpcTEO",
+  "creator": {
+    "handle": "devpapago",
+    "url": "https://x.com/devpapago"
+  },
+  "sourceUrl": "https://x.com/devpapago/status/2109618838169964984",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gmail-newsletter-unsubscribe-jp/"
+  },
+  "description": null,
+  "official": {
+    "title": "メルマガ整理ボット by 豪",
+    "description": "Gmailにたまるメルマガや宣伝、転職サイトのメールを洗い出して、選んだものだけ配信停止してくれるボットです。大事なメールは候補から外し、勝手には止めません。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "productivity",
+    "life-hacks",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gmail-newsletter-unsubscribe-jp/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

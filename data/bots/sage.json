@@ -1,0 +1,41 @@
+{
+  "slug": "sage",
+  "name": "Sage",
+  "grokShareUrl": "https://x.ai/bot/czVH2_zAJ03lca6ti7cwJ",
+  "botId": "czVH2_zAJ03lca6ti7cwJ",
+  "creator": {
+    "handle": "Rockhocker",
+    "url": "https://x.com/Rockhocker"
+  },
+  "sourceUrl": "https://x.com/Rockhocker/status/2109791945245827546",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sage/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sage by Cybertrucker",
+    "description": "A confidential leadership coach for business leaders. It coaches with questions instead of orders and sends a one-page weekly story that teaches one key...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "learning",
+    "decision-support",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sage/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

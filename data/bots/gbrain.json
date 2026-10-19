@@ -1,0 +1,43 @@
+{
+  "slug": "gbrain",
+  "name": "GBrain",
+  "grokShareUrl": "https://x.ai/bot/ynoVbairpAPDOtdrS51Rf",
+  "botId": "ynoVbairpAPDOtdrS51Rf",
+  "creator": {
+    "handle": "massimodeluisa",
+    "url": "https://x.com/massimodeluisa"
+  },
+  "sourceUrl": "https://x.com/massimodeluisa/status/2110699248559984664",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gbrain/"
+  },
+  "description": null,
+  "official": {
+    "title": "GBrain by Massimo",
+    "description": "Keeps your Grok Bot memory in sync with GBrain, hosted or self-hosted, and helps you run the server: jobs queue, consolidation, calibration, upgrades...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "data",
+    "automation",
+    "ops",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gbrain/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

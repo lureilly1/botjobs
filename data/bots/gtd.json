@@ -1,0 +1,41 @@
+{
+  "slug": "gtd",
+  "name": "GTD",
+  "grokShareUrl": "https://x.ai/bot/Gi8PhZvWF0rVz9CjsTkd7",
+  "botId": "Gi8PhZvWF0rVz9CjsTkd7",
+  "creator": {
+    "handle": "MrSanders",
+    "url": "https://x.com/MrSanders"
+  },
+  "sourceUrl": "https://x.com/MrSanders/status/2111038438267031840",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gtd/"
+  },
+  "description": null,
+  "official": {
+    "title": "GTD by Luis",
+    "description": "A personal GTD (Getting Things Done) coach that runs your tasks and projects in Notion: captures, clarifies, keeps every project moving, sends a daily...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gtd/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "go-direct",
+  "name": "Go Direct",
+  "grokShareUrl": "https://x.ai/bot/WxcRgxU7YtWNqL7ZIkg3e",
+  "botId": "WxcRgxU7YtWNqL7ZIkg3e",
+  "creator": {
+    "handle": "LandonH",
+    "url": "https://x.com/LandonH"
+  },
+  "sourceUrl": "https://x.com/LandonH/status/2110874066064396574",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/go-direct/"
+  },
+  "description": null,
+  "official": {
+    "title": "Go Direct by Landon",
+    "description": "Skip the press. Lulu helps founders tell their story straight to the 50 to 500 people who actually matter: investors, early customers, future hires. She...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "growth",
+    "sales",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/go-direct/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

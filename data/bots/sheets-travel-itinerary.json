@@ -1,0 +1,42 @@
+{
+  "slug": "sheets-travel-itinerary",
+  "name": "旅遊通",
+  "grokShareUrl": "https://x.ai/bot/h7rMQUCiTAtGLl6ll6tFw",
+  "botId": "h7rMQUCiTAtGLl6ll6tFw",
+  "creator": {
+    "handle": "justin19930606",
+    "url": "https://x.com/justin19930606"
+  },
+  "sourceUrl": "https://x.com/justin19930606/status/2110397535533879629",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sheets-travel-itinerary/"
+  },
+  "description": null,
+  "official": {
+    "title": "旅遊通 by 哈哈雷",
+    "description": "把訂單和想去的景點整理成固定格式的 Google 試算表行程表，並幫你查交通、營業時間、日出日落和順路餐廳。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "calendar",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sheets-travel-itinerary/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

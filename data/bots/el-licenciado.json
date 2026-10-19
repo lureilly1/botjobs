@@ -1,0 +1,42 @@
+{
+  "slug": "el-licenciado",
+  "name": "El Licenciado",
+  "grokShareUrl": "https://x.ai/bot/SPL35PSeoLitGIIh3EfRF",
+  "botId": "SPL35PSeoLitGIIh3EfRF",
+  "creator": {
+    "handle": "alanvaa96",
+    "url": "https://x.com/alanvaa96"
+  },
+  "sourceUrl": "https://x.com/alanvaa96/status/2111850222905331724",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/el-licenciado/"
+  },
+  "description": null,
+  "official": {
+    "title": "El Licenciado by Alan",
+    "description": "El Licenciado es tu contador personal para México. Captura tus estados de cuenta y recibos en tu hoja de Google Sheets, concilia cada mes, te dice qué...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "finance",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/el-licenciado/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

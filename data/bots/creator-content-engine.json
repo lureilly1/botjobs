@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Creator Content Engine by 🇺🇸",
-    "description": "For X creators who want range. Drop in a topic, rough thought, photo, screenshot, news item, or video idea — get hooks, post options, replies,...",
+    "description": "For X creators who want posts that start conversations. Drop in any idea and get Funny, Savage, and Thought-Provoking versions with scroll-stopping...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

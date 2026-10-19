@@ -1,0 +1,41 @@
+{
+  "slug": "tunebot",
+  "name": "TuneBot",
+  "grokShareUrl": "https://x.ai/bot/sXaJXpHNSpaFq--oIg0Tl",
+  "botId": "sXaJXpHNSpaFq--oIg0Tl",
+  "creator": {
+    "handle": "steinolina",
+    "url": "https://x.com/steinolina"
+  },
+  "sourceUrl": "https://x.com/steinolina/status/2109950072121389064",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tunebot/"
+  },
+  "description": null,
+  "official": {
+    "title": "TuneBot by Steinunn",
+    "description": "A conversational investigator of human behaviour, built on Tuning Theory. It helps you understand a pattern you keep repeating, what keeps it going, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tunebot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

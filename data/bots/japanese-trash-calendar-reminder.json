@@ -1,0 +1,41 @@
+{
+  "slug": "japanese-trash-calendar-reminder",
+  "name": "ゴミ出しカレンダー番",
+  "grokShareUrl": "https://x.ai/bot/0mHB_9dm6GJotZA_hqqqJ",
+  "botId": "0mHB_9dm6GJotZA_hqqqJ",
+  "creator": {
+    "handle": "sidejob_AJ",
+    "url": "https://x.com/sidejob_AJ"
+  },
+  "sourceUrl": "https://x.com/sidejob_AJ/status/2111273412912132301",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/japanese-trash-calendar-reminder/"
+  },
+  "description": null,
+  "official": {
+    "title": "ゴミ出しカレンダー番",
+    "description": "お住まいの自治体の公式ゴミ収集日を調べて、毎晩「明日は何ゴミの日か」を知らせるボット。「これ何ゴミ？」にも公式の分け方で答えます。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "scheduled",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/japanese-trash-calendar-reminder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "multi-gmail",
+  "name": "Multi Gmail",
+  "grokShareUrl": "https://x.ai/bot/96EWGTulQPKJqVuozXaRx",
+  "botId": "96EWGTulQPKJqVuozXaRx",
+  "creator": {
+    "handle": "ecoay",
+    "url": "https://x.com/ecoay"
+  },
+  "sourceUrl": "https://x.com/ecoay/status/2110882371033534919",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/multi-gmail/"
+  },
+  "description": null,
+  "official": {
+    "title": "Multi Gmail",
+    "description": "Connect all your Gmail inboxes to your bots at once, so any bot can search every inbox in one go. Self-hosted free on your own Vercel, read-only by...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "email",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/multi-gmail/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

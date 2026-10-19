@@ -1,0 +1,41 @@
+{
+  "slug": "egress-engineer",
+  "name": "Egress Engineer",
+  "grokShareUrl": "https://x.ai/bot/sSiZrIbYNGqtqtTmO3Btf",
+  "botId": "sSiZrIbYNGqtqtTmO3Btf",
+  "creator": {
+    "handle": "satsnode",
+    "url": "https://x.com/satsnode"
+  },
+  "sourceUrl": "https://x.com/satsnode/status/2110720810260537825",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/egress-engineer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Egress Engineer by sats",
+    "description": "Routes your bot's browser through a device you own using a Tailscale exit node, so websites see your home IP and country. Good for region-locked sites,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/egress-engineer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

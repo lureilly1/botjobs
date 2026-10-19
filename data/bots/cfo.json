@@ -1,0 +1,43 @@
+{
+  "slug": "cfo",
+  "name": "CFO",
+  "grokShareUrl": "https://x.ai/bot/qjvowkAqkdRzGrubOcRbs",
+  "botId": "qjvowkAqkdRzGrubOcRbs",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2111957527290163445",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cfo/"
+  },
+  "description": null,
+  "official": {
+    "title": "CFO by Jaime",
+    "description": "A plain-spoken tax and money advisor for founders and households. Walks you through tax prep screen by screen, checks your budget, and spots deductions...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cfo/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

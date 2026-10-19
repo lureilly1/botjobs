@@ -1,0 +1,43 @@
+{
+  "slug": "clopen-proof",
+  "name": "Clopen Proof",
+  "grokShareUrl": "https://x.ai/bot/f731prTfSFiKjT-arnNgH",
+  "botId": "f731prTfSFiKjT-arnNgH",
+  "creator": {
+    "handle": "kuten26",
+    "url": "https://x.com/kuten26"
+  },
+  "sourceUrl": "https://x.com/kuten26/status/2109649505809559817",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clopen-proof/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clopen Proof by Kuten26",
+    "description": "For rotating-shift workers: type your shifts and it puts them on your calendar, blocks sleep and meals, re-times your evening, and moves workouts out of...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "calendar",
+    "health",
+    "wellbeing",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clopen-proof/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

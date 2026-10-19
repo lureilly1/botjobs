@@ -1,0 +1,41 @@
+{
+  "slug": "meal-planner",
+  "name": "Meal Planner",
+  "grokShareUrl": "https://x.ai/bot/zNCuJ-OgH_dAGuatUJM49",
+  "botId": "zNCuJ-OgH_dAGuatUJM49",
+  "creator": {
+    "handle": "McLeodAgency",
+    "url": "https://x.com/McLeodAgency"
+  },
+  "sourceUrl": "https://x.com/McLeodAgency/status/2111064696027545894",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meal-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meal Planner by Jeffrey",
+    "description": "Every weekend you get a week of dinners that fit your household, budget and tastes, plus one grocery list sorted by store aisle. On weeknights it sends...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meal-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

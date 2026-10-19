@@ -1,0 +1,42 @@
+{
+  "slug": "quota",
+  "name": "Quota",
+  "grokShareUrl": "https://x.ai/bot/ylCdqzarTvkUP7a-CD8s7",
+  "botId": "ylCdqzarTvkUP7a-CD8s7",
+  "creator": {
+    "handle": "franklinjavier",
+    "url": "https://x.com/franklinjavier"
+  },
+  "sourceUrl": "https://x.com/franklinjavier/status/2111225040268140929",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/quota/"
+  },
+  "description": null,
+  "official": {
+    "title": "Quota by Franklin",
+    "description": "Tracks how much quota and money your Grok Bots, routines and coding CLIs burn, with a daily dashboard and actionable alerts.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "analytics",
+    "monitoring",
+    "saving-money",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/quota/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

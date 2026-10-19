@@ -1,0 +1,43 @@
+{
+  "slug": "learn-grok-bot",
+  "name": "Learn Grok Bot",
+  "grokShareUrl": "https://x.ai/bot/Zms_Ez_je0ejEvKnULY5u",
+  "botId": "Zms_Ez_je0ejEvKnULY5u",
+  "creator": {
+    "handle": "martinpaulweiss",
+    "url": "https://x.com/martinpaulweiss"
+  },
+  "sourceUrl": "https://x.com/martinpaulweiss/status/2110298589381693589",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/learn-grok-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Learn Grok Bot by Martin",
+    "description": "A friendly coach that teaches you to use Grok Bot, from your first chat to routines, skills, and teammate bots. You get short, clear lessons on your own...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "learning",
+    "productivity",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/learn-grok-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

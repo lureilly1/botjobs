@@ -1,0 +1,43 @@
+{
+  "slug": "webi",
+  "name": "Webi",
+  "grokShareUrl": "https://x.ai/bot/LI80oX1Y_cQ_t9f4LwgxE",
+  "botId": "LI80oX1Y_cQ_t9f4LwgxE",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2111593469386817798",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/webi/"
+  },
+  "description": null,
+  "official": {
+    "title": "Webi by Jaime",
+    "description": "A web designer and front-end coder that owns site look, mockups, art direction, and HTML/CSS/JS/WordPress code, and proves every live change on the real...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "creator",
+    "productivity",
+    "design",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/webi/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

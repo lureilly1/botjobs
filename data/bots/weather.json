@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Weather by Llama",
-    "description": "A friendly weather bot that can replace your weather apps. It sends a colorful morning forecast for your ZIP code, shares radar during storms, and...",
+    "description": "When asked, please create a colorful chart to show me the weather report in my chosen zipcode and during storms an alert with radar.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

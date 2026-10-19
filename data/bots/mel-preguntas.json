@@ -1,0 +1,43 @@
+{
+  "slug": "mel-preguntas",
+  "name": "MEL preguntas",
+  "grokShareUrl": "https://x.ai/bot/YvxsAro5SITkzr5x6TsWg",
+  "botId": "YvxsAro5SITkzr5x6TsWg",
+  "creator": {
+    "handle": "maarmapa",
+    "url": "https://x.com/maarmapa"
+  },
+  "sourceUrl": "https://x.com/maarmapa/status/2110721878608269392",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mel-preguntas/"
+  },
+  "description": null,
+  "official": {
+    "title": "MEL preguntas by Maar",
+    "description": "Responde las preguntas de tus publicaciones y los mensajes post-venta de Mercado Libre con el tono de tu tienda. Aprende de tu historial de respuestas y...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "support",
+    "automation",
+    "shopping",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mel-preguntas/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

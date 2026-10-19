@@ -1,0 +1,42 @@
+{
+  "slug": "x-bookmark-script-studio",
+  "name": "Xブクマ台本工房",
+  "grokShareUrl": "https://x.ai/bot/3tOP_ZthJfS0r3_7E4Gtq",
+  "botId": "3tOP_ZthJfS0r3_7E4Gtq",
+  "creator": {
+    "handle": "sidejob_AJ",
+    "url": "https://x.com/sidejob_AJ"
+  },
+  "sourceUrl": "https://x.com/sidejob_AJ/status/2111273412912132301",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-bookmark-script-studio/"
+  },
+  "description": null,
+  "official": {
+    "title": "Xブクマ台本工房",
+    "description": "毎朝あなたのXブックマークから使えるネタを選び、3行要約とショート動画の台本下書きを反応が良さそうな順に届けるボット。投稿はしません。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "social-media",
+    "scheduled",
+    "video"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-bookmark-script-studio/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

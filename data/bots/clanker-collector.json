@@ -1,0 +1,42 @@
+{
+  "slug": "clanker-collector",
+  "name": "Clanker Collector",
+  "grokShareUrl": "https://x.ai/bot/MqdUhT_uY9SoPKKwrDyKg",
+  "botId": "MqdUhT_uY9SoPKKwrDyKg",
+  "creator": {
+    "handle": "lebeaujm",
+    "url": "https://x.com/lebeaujm"
+  },
+  "sourceUrl": "https://x.com/lebeaujm/status/2110683905606971660",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clanker-collector/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clanker Collector by JM",
+    "description": "Long-running bots get slow and sloppy as their chats pile up. Clanker Collector, a gruff zero-waste junkyard mechanic, checks your bots for that rot,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clanker-collector/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

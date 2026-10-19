@@ -1,0 +1,41 @@
+{
+  "slug": "socrates",
+  "name": "Socrates",
+  "grokShareUrl": "https://x.ai/bot/MHn2K6OnnvSs7itmjhX-K",
+  "botId": "MHn2K6OnnvSs7itmjhX-K",
+  "creator": {
+    "handle": "MartinBarna333",
+    "url": "https://x.com/MartinBarna333"
+  },
+  "sourceUrl": "https://x.com/MartinBarna333/status/2111352079369552134",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/socrates/"
+  },
+  "description": null,
+  "official": {
+    "title": "Socrates by Martin",
+    "description": "Like Grok, Socrates searched for truth, and he helps you find it in life too. Bring him a half-baked idea and he restates it in its strongest form, asks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "learning",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/socrates/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "business-legal-prep-desk",
+  "name": "Business Legal Prep Desk",
+  "grokShareUrl": "https://x.ai/bot/rtfT8mnlp-69m6N4x56tA",
+  "botId": "rtfT8mnlp-69m6N4x56tA",
+  "creator": {
+    "handle": "iamtheh0n3yp0t",
+    "url": "https://x.com/iamtheh0n3yp0t"
+  },
+  "sourceUrl": "https://x.com/iamtheh0n3yp0t/status/2110927886404215287",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/business-legal-prep-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Business Legal Prep Desk by John",
+    "description": "Legal research and drafting prep for Maryland and Florida small-business owners, with every claim cited and dated. Not a lawyer and not legal advice; it...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "back-office",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/business-legal-prep-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

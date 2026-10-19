@@ -1,0 +1,42 @@
+{
+  "slug": "author-watch",
+  "name": "Author Watch",
+  "grokShareUrl": "https://x.ai/bot/ZZrNmKwD9jTAQEe0SjxNR",
+  "botId": "ZZrNmKwD9jTAQEe0SjxNR",
+  "creator": {
+    "handle": "Taedioaffectus",
+    "url": "https://x.com/Taedioaffectus"
+  },
+  "sourceUrl": "https://x.com/Taedioaffectus/status/2111173025953718665",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/author-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Author Watch by Clark",
+    "description": "Follows the writers you care about across the sites they publish on and tells you only when they have a genuinely new article. Scans on your schedule,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/author-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

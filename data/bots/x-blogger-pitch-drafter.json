@@ -17,7 +17,7 @@
     "title": "投卷助手 by hardy",
     "description": "帮你给 X 上的博主起草私信：先判断文章适不适合分享，再为每个人单独写一条真诚、不套路的私信，请对方看看文章、提点意见，转发与否完全由对方决定。四种语气可选，只起草，默认由你自己发送。",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

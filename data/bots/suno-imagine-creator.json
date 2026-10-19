@@ -1,0 +1,41 @@
+{
+  "slug": "suno-imagine-creator",
+  "name": "Suno & Imagine Creator",
+  "grokShareUrl": "https://x.ai/bot/aY7oZvOOoyKs3FQvlleEt",
+  "botId": "aY7oZvOOoyKs3FQvlleEt",
+  "creator": {
+    "handle": "Michael94288471",
+    "url": "https://x.com/Michael94288471"
+  },
+  "sourceUrl": "https://x.com/Michael94288471/status/2111766632443805787",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/suno-imagine-creator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Suno & Imagine Creator by 🅼🅸🅲🅷🅰🅴🅻",
+    "description": "A creative partner that writes song lyrics, Suno style prompts, and Grok Imagine still and video prompts. For musicians and creators who want...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/suno-imagine-creator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

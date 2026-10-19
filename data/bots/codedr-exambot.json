@@ -1,0 +1,41 @@
+{
+  "slug": "codedr-exambot",
+  "name": "CodeDR - ExamBot",
+  "grokShareUrl": "https://x.ai/bot/qocgykNssAv63yc1kdNnN",
+  "botId": "qocgykNssAv63yc1kdNnN",
+  "creator": {
+    "handle": "codedrai",
+    "url": "https://x.com/codedrai"
+  },
+  "sourceUrl": "https://x.com/codedrai/status/2109777232415912372",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/codedr-exambot/"
+  },
+  "description": null,
+  "official": {
+    "title": "CodeDR - ExamBot by Gavin",
+    "description": "Runs CodeDR.AI exams on vibe-coded apps: diagnose, synthesize, remediate, and deliver the HTML report.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/codedr-exambot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

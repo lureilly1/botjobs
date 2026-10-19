@@ -1,0 +1,43 @@
+{
+  "slug": "creator-brand-outreach",
+  "name": "Creator Brand Outreach",
+  "grokShareUrl": "https://x.ai/bot/h38W2kv34TCuHETc0uu1w",
+  "botId": "h38W2kv34TCuHETc0uu1w",
+  "creator": {
+    "handle": "_lovablecurves",
+    "url": "https://x.com/_lovablecurves"
+  },
+  "sourceUrl": "https://x.com/_lovablecurves/status/2110150778489110794",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/creator-brand-outreach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Creator Brand Outreach by Lovable",
+    "description": "Pitches brands for paid videos and gifted product for a content creator, watches the inbox for replies, and keeps deals moving.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "sales",
+    "growth",
+    "email",
+    "automation",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/creator-brand-outreach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

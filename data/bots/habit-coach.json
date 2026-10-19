@@ -1,0 +1,42 @@
+{
+  "slug": "habit-coach",
+  "name": "Habit Coach",
+  "grokShareUrl": "https://x.ai/bot/wi-v_TmB07CH5-0iFeli7",
+  "botId": "wi-v_TmB07CH5-0iFeli7",
+  "creator": {
+    "handle": "JennaLiftsLife",
+    "url": "https://x.com/JennaLiftsLife"
+  },
+  "sourceUrl": "https://x.com/JennaLiftsLife/status/2110150900832776427",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/habit-coach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Habit Coach by Jenna",
+    "description": "A warm habit coach that helps you build routines that stick, with daily check-ins, reminders, and gentle accountability.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "wellbeing",
+    "life-hacks",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/habit-coach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "slack-omakase-helper",
+  "name": "Slackおまかせくん",
+  "grokShareUrl": "https://x.ai/bot/HoISpPn0PmZjzBzbI7nEn",
+  "botId": "HoISpPn0PmZjzBzbI7nEn",
+  "creator": {
+    "handle": "osarupolice",
+    "url": "https://x.com/osarupolice"
+  },
+  "sourceUrl": "https://x.com/osarupolice/status/2110684419791200618",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/slack-omakase-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Slackおまかせくん by akihiro",
+    "description": "Slackのメッセージに🤖を付けるだけで、タスク登録・返信・カレンダー登録の案を作り、選ぶだけで進められるBotです。開発以外のちょっとした仕事をすぐ任せたい人向け。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/slack-omakase-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

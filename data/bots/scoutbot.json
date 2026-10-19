@@ -1,0 +1,42 @@
+{
+  "slug": "scoutbot",
+  "name": "Scoutbot",
+  "grokShareUrl": "https://x.ai/bot/Z70qDv7UpoZ4ihZt1M0b7",
+  "botId": "Z70qDv7UpoZ4ihZt1M0b7",
+  "creator": {
+    "handle": "arach",
+    "url": "https://x.com/arach"
+  },
+  "sourceUrl": "https://x.com/arach/status/2111958329517863105",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scoutbot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scoutbot by Arach",
+    "description": "Hand tasks to Claude Code, Codex and your other coding agents on your Mac, and get the answers back.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scoutbot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

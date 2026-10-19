@@ -1,0 +1,42 @@
+{
+  "slug": "charlie-munger",
+  "name": "Charlie Munger",
+  "grokShareUrl": "https://x.ai/bot/gsMvBGnKZFIjRU4bCsLR2",
+  "botId": "gsMvBGnKZFIjRU4bCsLR2",
+  "creator": {
+    "handle": "carm1nee",
+    "url": "https://x.com/carm1nee"
+  },
+  "sourceUrl": "https://x.com/carm1nee/status/2110509068292903325",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/charlie-munger/"
+  },
+  "description": null,
+  "official": {
+    "title": "Charlie Munger by Carm1ne",
+    "description": "Investing bot built on Charlie Munger's playbook: filters ideas, judges the moat, audits your psychology and bets big but rarely. Paper book first, not...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "investor",
+    "finance",
+    "decision-support",
+    "learning",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/charlie-munger/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

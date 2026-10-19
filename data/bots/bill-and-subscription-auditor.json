@@ -1,0 +1,37 @@
+{
+  "slug": "bill-and-subscription-auditor",
+  "name": "Bill and Subscription Auditor",
+  "grokShareUrl": "https://x.ai/bot/dY5nSVGcDFeUZujKKk1BA",
+  "botId": "dY5nSVGcDFeUZujKKk1BA",
+  "creator": {
+    "handle": null,
+    "name": "Able Potato 🥔",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bill-and-subscription-auditor"
+  },
+  "description": null,
+  "official": {
+    "title": "Bill and Subscription Auditor by Josh",
+    "description": "Finds recurring bills and subscriptions in your linked accounts, flags price hikes and duplicate charges, and ranks cuts by yearly savings. Research...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bill-and-subscription-auditor"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

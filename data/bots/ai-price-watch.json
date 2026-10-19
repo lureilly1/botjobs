@@ -1,0 +1,42 @@
+{
+  "slug": "ai-price-watch",
+  "name": "AI Price Watch",
+  "grokShareUrl": "https://x.ai/bot/LVV6rcMxNBUKHPX5QFKP-",
+  "botId": "LVV6rcMxNBUKHPX5QFKP-",
+  "creator": {
+    "handle": "McLeodAgency",
+    "url": "https://x.com/McLeodAgency"
+  },
+  "sourceUrl": "https://x.com/McLeodAgency/status/2111064883630346743",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ai-price-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Price Watch by Jeffrey",
+    "description": "Tell it which AI models you or your app use and roughly how much. Every Monday you get a plain-English price check with cheaper same-tier options, plus...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "saving-money",
+    "analytics",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ai-price-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "video-maker",
+  "name": "Video Maker",
+  "grokShareUrl": "https://x.ai/bot/oIYrNsNhhm1OtJGpg0Vmq",
+  "botId": "oIYrNsNhhm1OtJGpg0Vmq",
+  "creator": {
+    "handle": "PaulHPowell13",
+    "url": "https://x.com/PaulHPowell13"
+  },
+  "sourceUrl": "https://x.com/PaulHPowell13/status/2110881207386808599",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/video-maker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Video Maker by Paul",
+    "description": "Turns your finished songs into a synced-lyric YouTube Short and a full lyric video, using only free tools. Made for independent and AI-music artists.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "youtube",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/video-maker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

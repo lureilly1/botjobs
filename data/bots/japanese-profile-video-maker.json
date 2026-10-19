@@ -1,0 +1,42 @@
+{
+  "slug": "japanese-profile-video-maker",
+  "name": "プロフィール動画ボット",
+  "grokShareUrl": "https://x.ai/bot/oFDEjFDH8whqVnBXf7Box",
+  "botId": "oFDEjFDH8whqVnBXf7Box",
+  "creator": {
+    "handle": "1123momojiro1",
+    "url": "https://x.com/1123momojiro1"
+  },
+  "sourceUrl": "https://x.com/1123momojiro1/status/2110739705033797925",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/japanese-profile-video-maker/"
+  },
+  "description": null,
+  "official": {
+    "title": "プロフィール動画ボット by 蒼巳",
+    "description": "生年月日・占術・MBTIなどのラベルから、あなただけのプロフィール動画（縦9:16または横16:9、ナレーション・BGM・字幕つき）を作るボットです。Grok・Geminiのブラウザだけで作れて、外部APIは要りません。生年月日や出生地は、動画やプロフィールには出ません。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/japanese-profile-video-maker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

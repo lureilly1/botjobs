@@ -17,7 +17,7 @@
     "title": "Paperwork Desk by Daniel",
     "description": "Forward your bills, renewal notices, leases, medical bills, and letters. Paperwork Desk pulls out what you owe and when, tracks every deadline, reminds...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

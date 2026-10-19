@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Am I Covered? by Bryce",
-    "description": "Explains US home, condo, renters, flood, auto, umbrella, and small business insurance documents in plain English or Spanish. It explains what a policy...",
+    "description": "Explains US home, condo, renters, flood, auto, umbrella, and small-business insurance documents in plain English or Spanish. Educational only, never a...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

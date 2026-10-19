@@ -1,0 +1,40 @@
+{
+  "slug": "fitness-coach-pro",
+  "name": "Fitness Coach Pro",
+  "grokShareUrl": "https://x.ai/bot/02Fb7wLgPAnpmEFEcyNfo",
+  "botId": "02Fb7wLgPAnpmEFEcyNfo",
+  "creator": {
+    "handle": "Biggs237",
+    "url": "https://x.com/Biggs237"
+  },
+  "sourceUrl": "https://x.com/Biggs237/status/2110324629478744089",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fitness-coach-pro/"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fitness-coach-pro/"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19",
+  "deadChecks": 1
+}

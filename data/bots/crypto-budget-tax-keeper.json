@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Crypto Budget & Tax Keeper by James",
-    "description": "A read-only money assistant for crypto holders and creators. It builds a plain-English budget and net worth from your bank, exchanges and wallets, and...",
+    "title": "Crypto Budget & Tax Keeper 2.0 by James",
+    "description": "A friendly money coach for total beginners: it walks you step by step through building a budget, net worth, and crypto tax records (cost basis, gains...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

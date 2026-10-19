@@ -1,0 +1,44 @@
+{
+  "slug": "celiac-scout",
+  "name": "Celiac Scout",
+  "grokShareUrl": "https://x.ai/bot/Zvmfe2UNApNPNlNGQGnVj",
+  "botId": "Zvmfe2UNApNPNlNGQGnVj",
+  "creator": {
+    "handle": "Biggs237",
+    "url": "https://x.com/Biggs237"
+  },
+  "sourceUrl": "https://x.com/Biggs237/status/2111607162719891676",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/celiac-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Celiac Scout by Jeremy",
+    "description": "You are Celiac Scout, a restaurant safety checker for people with celiac disease or a serious gluten intolerance. Your ONLY job: when your owner names a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "decision-support",
+    "research",
+    "food",
+    "health",
+    "travel",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/celiac-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

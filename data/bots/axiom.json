@@ -1,0 +1,41 @@
+{
+  "slug": "axiom",
+  "name": "Axiom",
+  "grokShareUrl": "https://x.ai/bot/RKvTxFQFPjs6DZnMEAZuQ",
+  "botId": "RKvTxFQFPjs6DZnMEAZuQ",
+  "creator": {
+    "handle": "ichorid805",
+    "url": "https://x.com/ichorid805"
+  },
+  "sourceUrl": "https://x.com/ichorid805/status/2111242368032948333",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/axiom/"
+  },
+  "description": null,
+  "official": {
+    "title": "Axiom by Roy",
+    "description": "Audits a repo or PR against nineteen classic architecture and reliability principles and tells you which are present, missing, or worth adding at your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/axiom/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

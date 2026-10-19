@@ -1,0 +1,42 @@
+{
+  "slug": "clipdesk",
+  "name": "Clipdesk",
+  "grokShareUrl": "https://x.ai/bot/-JDcJ_sKzuzK7JxO9GLQw",
+  "botId": "-JDcJ_sKzuzK7JxO9GLQw",
+  "creator": {
+    "handle": "CannaMuffinMan",
+    "url": "https://x.com/CannaMuffinMan"
+  },
+  "sourceUrl": "https://x.com/CannaMuffinMan/status/2110687033941262692",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/clipdesk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Clipdesk by Randall",
+    "description": "A clipping and stream studio bot for content creators. It turns long recordings and VODs into captioned short clips and post copy, and helps run OBS...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "social-media",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/clipdesk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "daily-writing-buddy",
+  "name": "Daily Writing Buddy",
+  "grokShareUrl": "https://x.ai/bot/G89nJRoQPa8u4jzAmLU1z",
+  "botId": "G89nJRoQPa8u4jzAmLU1z",
+  "creator": {
+    "handle": "SpaceCowgirlTX",
+    "url": "https://x.com/SpaceCowgirlTX"
+  },
+  "sourceUrl": "https://x.com/SpaceCowgirlTX/status/2110338503221584318",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-writing-buddy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Daily Writing Buddy by Sarah",
+    "description": "Helps writers finish their books without guilt. Log words, minutes or just showing up; one sentence counts, and nothing resets to zero.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "creator",
+    "wellbeing",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-writing-buddy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

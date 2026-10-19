@@ -1,0 +1,41 @@
+{
+  "slug": "memory-janitor",
+  "name": "Memory Janitor",
+  "grokShareUrl": "https://x.ai/bot/FI8aV0ovvncB_6v8SfYbG",
+  "botId": "FI8aV0ovvncB_6v8SfYbG",
+  "creator": {
+    "handle": "marco_machado",
+    "url": "https://x.com/marco_machado"
+  },
+  "sourceUrl": "https://x.com/marco_machado/status/2111291554698563607",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/memory-janitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "Memory Janitor by Marco",
+    "description": "Keeps the shared memory your bots all read clean and tidy: finds duplicates, stale entries and contradictions, and proposes fixes for you to approve.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "agent-team",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/memory-janitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

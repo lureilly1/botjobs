@@ -1,0 +1,44 @@
+{
+  "slug": "christmas-list-bot",
+  "name": "Christmas List Bot",
+  "grokShareUrl": "https://x.ai/bot/cBA9ydeG9r1ZnCaAaaJA9",
+  "botId": "cBA9ydeG9r1ZnCaAaaJA9",
+  "creator": {
+    "handle": "Chris__X__",
+    "url": "https://x.com/Chris__X__"
+  },
+  "sourceUrl": "https://x.com/Chris__X__/status/2110509204947521814",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/christmas-list-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Christmas List Bot by Chris",
+    "description": "Give it your gift list and it finds the best deals and coupons, shows stock and delivery times, tracks every gift, and fills your carts so you just hit...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "family",
+    "events",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/christmas-list-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

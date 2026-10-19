@@ -1,0 +1,43 @@
+{
+  "slug": "claude-codex",
+  "name": "Claude + Codex ルーター",
+  "grokShareUrl": "https://x.ai/bot/pUZHPs1FCV6iVdeOt3oNI",
+  "botId": "pUZHPs1FCV6iVdeOt3oNI",
+  "creator": {
+    "handle": "chihironishioka",
+    "url": "https://x.com/chihironishioka"
+  },
+  "sourceUrl": "https://x.com/chihironishioka/status/2111495197779759135",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claude-codex/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claude + Codex ルーター by CHIHIRO",
+    "description": "ClaudeとChatGPTのサブスクにつないで、依頼を適した方に振り分けるボット。調べ物や文章はClaude、コードはCodexに任せ、結果を短く返します。",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "personal",
+    "automation",
+    "productivity",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claude-codex/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

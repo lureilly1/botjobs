@@ -1,0 +1,41 @@
+{
+  "slug": "show-desk",
+  "name": "Show Desk",
+  "grokShareUrl": "https://x.ai/bot/KYUctVKUDNLG5IjsQPQ_o",
+  "botId": "KYUctVKUDNLG5IjsQPQ_o",
+  "creator": {
+    "handle": "IT_Rod_S",
+    "url": "https://x.com/IT_Rod_S"
+  },
+  "sourceUrl": "https://x.com/IT_Rod_S/status/2109158633288413254",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/show-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Show Desk by Rod",
+    "description": "Tracks concerts, comedy, and live events in your area, flags your favorite acts, and reminds you before tickets go on sale.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "events",
+    "personal",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/show-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

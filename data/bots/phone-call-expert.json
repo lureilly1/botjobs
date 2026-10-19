@@ -1,0 +1,42 @@
+{
+  "slug": "phone-call-expert",
+  "name": "Phone Call Expert",
+  "grokShareUrl": "https://x.ai/bot/klUNCIuB1VMh6ERrVISN5",
+  "botId": "klUNCIuB1VMh6ERrVISN5",
+  "creator": {
+    "handle": "HeidiBriones",
+    "url": "https://x.com/HeidiBriones"
+  },
+  "sourceUrl": "https://x.com/HeidiBriones/status/2110512656369271063",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/phone-call-expert/"
+  },
+  "description": null,
+  "official": {
+    "title": "Phone Call Expert by Heidi",
+    "description": "Helps you handle phone calls: finds the right number, writes scripts, preps you for interviews, and can place calls for you through Bland AI.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/phone-call-expert/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

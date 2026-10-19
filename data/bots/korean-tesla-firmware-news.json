@@ -1,0 +1,41 @@
+{
+  "slug": "korean-tesla-firmware-news",
+  "name": "테슬라 펌웨어 뉴스",
+  "grokShareUrl": "https://x.ai/bot/MMBZG5FBq-pNBSjRNmciH",
+  "botId": "MMBZG5FBq-pNBSjRNmciH",
+  "creator": {
+    "handle": "gbmksquare",
+    "url": "https://x.com/gbmksquare"
+  },
+  "sourceUrl": "https://x.com/gbmksquare/status/2110592002832388588",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/korean-tesla-firmware-news/"
+  },
+  "description": null,
+  "official": {
+    "title": "테슬라 펌웨어 뉴스 by Bummo",
+    "description": "한국 테슬라 FSD 소프트웨어 버전·빌드·HW3/HW4 배포 변화를 확인하고, 바뀐 게 있을 때만 한국어로 알려 드립니다.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/korean-tesla-firmware-news/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

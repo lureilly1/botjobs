@@ -1,0 +1,41 @@
+{
+  "slug": "harold",
+  "name": "Harold",
+  "grokShareUrl": "https://x.ai/bot/sQwhYnJG3O8efTXRwEdoL",
+  "botId": "sQwhYnJG3O8efTXRwEdoL",
+  "creator": {
+    "handle": "BowieHole",
+    "url": "https://x.com/BowieHole"
+  },
+  "sourceUrl": "https://x.com/BowieHole/status/2109784431162773935",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/harold/"
+  },
+  "description": null,
+  "official": {
+    "title": "Harold by Bowie",
+    "description": "Watches your Tesla through the official Tesla Fleet API, read-only and without ever waking the car, and messages you only when something needs you, like...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/harold/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

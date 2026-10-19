@@ -1,0 +1,41 @@
+{
+  "slug": "soul-to-scene-director",
+  "name": "Soul-to-Scene Director",
+  "grokShareUrl": "https://x.ai/bot/9xP8NiSCxAr5vCPf_oG6s",
+  "botId": "9xP8NiSCxAr5vCPf_oG6s",
+  "creator": {
+    "handle": "phera46334652",
+    "url": "https://x.com/phera46334652"
+  },
+  "sourceUrl": "https://x.com/phera46334652/status/2111236114665115715",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/soul-to-scene-director/"
+  },
+  "description": null,
+  "official": {
+    "title": "Soul-to-Scene Director by Zerefs",
+    "description": "A songwriting partner and music-video director that finishes your lyrics in your own voice and turns your songs, photos, and memories into fully timed,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/soul-to-scene-director/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

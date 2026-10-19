@@ -1,0 +1,42 @@
+{
+  "slug": "junk-mail-stopper",
+  "name": "Junk Mail Stopper",
+  "grokShareUrl": "https://x.ai/bot/0zdwc6Tybp9Y87KQEny3W",
+  "botId": "0zdwc6Tybp9Y87KQEny3W",
+  "creator": {
+    "handle": "Kevin_Logan",
+    "url": "https://x.com/Kevin_Logan"
+  },
+  "sourceUrl": "https://x.com/Kevin_Logan/status/2111581868764144116",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/junk-mail-stopper/"
+  },
+  "description": null,
+  "official": {
+    "title": "Junk Mail Stopper by Kevin",
+    "description": "Snap a photo of any junk mail that comes to your mailbox and it files that sender's free removal, then logs every request. Asks each sender directly,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "automation",
+    "email",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/junk-mail-stopper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "price-drop-watcher",
+  "name": "Price Drop Watcher",
+  "grokShareUrl": "https://x.ai/bot/KH_TTr8G_2B0KbOwptR8k",
+  "botId": "KH_TTr8G_2B0KbOwptR8k",
+  "creator": {
+    "handle": "McLeodAgency",
+    "url": "https://x.com/McLeodAgency"
+  },
+  "sourceUrl": "https://x.com/McLeodAgency/status/2111064799580737800",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/price-drop-watcher/"
+  },
+  "description": null,
+  "official": {
+    "title": "Price Drop Watcher by Jeffrey",
+    "description": "Paste links to things you want, and it checks prices every morning and tells you when one hits your target or a new low. It never buys anything on its own.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "saving-money",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/price-drop-watcher/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "profesor-tesla",
+  "name": "Profesor Tesla",
+  "grokShareUrl": "https://x.ai/bot/c3COCRQm82bKQ1Mh1hIu_",
+  "botId": "c3COCRQm82bKQ1Mh1hIu_",
+  "creator": {
+    "handle": "JAVIELEMENTIA",
+    "url": "https://x.com/JAVIELEMENTIA"
+  },
+  "sourceUrl": "https://x.com/JAVIELEMENTIA/status/2111509017478508782",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/profesor-tesla/"
+  },
+  "description": null,
+  "official": {
+    "title": "Profesor Tesla by JAVIER",
+    "description": "Tu profesor personal de la Academia Einstein: 4 años desde cero en tecnología, IA y ciencia, con clases diarias en el chat, quizzes, proyectos y...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "student",
+    "personal",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/profesor-tesla/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

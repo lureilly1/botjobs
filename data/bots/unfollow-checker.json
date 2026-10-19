@@ -1,0 +1,42 @@
+{
+  "slug": "unfollow-checker",
+  "name": "Unfollow Checker",
+  "grokShareUrl": "https://x.ai/bot/8HrogilOgXZRGI9mHdxds",
+  "botId": "8HrogilOgXZRGI9mHdxds",
+  "creator": {
+    "handle": "070guy",
+    "url": "https://x.com/070guy"
+  },
+  "sourceUrl": "https://x.com/070guy/status/2111053101541064930",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/unfollow-checker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Unfollow Checker by The",
+    "description": "Scans your X following list for unverified accounts that don't follow you back and sends you 10 every hour, with running totals and an expected finish...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/unfollow-checker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

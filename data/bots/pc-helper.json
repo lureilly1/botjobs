@@ -1,0 +1,43 @@
+{
+  "slug": "pc-helper",
+  "name": "PC Helper",
+  "grokShareUrl": "https://x.ai/bot/9hIrzYGGufiO6k0OEAAWr",
+  "botId": "9hIrzYGGufiO6k0OEAAWr",
+  "creator": {
+    "handle": "Tony_Omega",
+    "url": "https://x.com/Tony_Omega"
+  },
+  "sourceUrl": "https://x.com/Tony_Omega/status/2111520544294400192",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pc-helper/"
+  },
+  "description": null,
+  "official": {
+    "title": "PC Helper by Tony",
+    "description": "Hands-on helper that actually does the work on your Windows PC and home network: tune-ups, drivers, cleanup, clean uninstalls, network fixes, and mic...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "life-hacks",
+    "productivity",
+    "home",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pc-helper/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

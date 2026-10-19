@@ -1,0 +1,44 @@
+{
+  "slug": "daily-bangers",
+  "name": "daily bangers",
+  "grokShareUrl": "https://x.ai/bot/182OWDI636IzNxEUUnMsU",
+  "botId": "182OWDI636IzNxEUUnMsU",
+  "creator": {
+    "handle": "NetSeg_io",
+    "url": "https://x.com/NetSeg_io"
+  },
+  "sourceUrl": "https://x.com/NetSeg_io/status/2110331330181632104",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/daily-bangers/"
+  },
+  "description": null,
+  "official": {
+    "title": "daily bangers by Leon",
+    "description": "Your daily X coach. It suggests topics from your profile, turns rough thoughts into short posts ready to go, and sends a daily review of how your posts...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "personal",
+    "social-media",
+    "content",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/daily-bangers/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

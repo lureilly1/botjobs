@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Gluco by Brian",
-    "description": "Free chat-based diabetes logger for glucose, carbs, meds, weight, water, and steps. Keeps a daily carb tally, gives day summaries, and can import past...",
+    "description": "A free, friendly carb coach for diabetics. Log glucose, meals (just snap a photo), meds, water, and steps in chat, and get honest carb estimates with a...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

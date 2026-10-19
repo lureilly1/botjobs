@@ -1,0 +1,42 @@
+{
+  "slug": "afterglow",
+  "name": "Afterglow",
+  "grokShareUrl": "https://x.ai/bot/0pfVoOQLOV4O8Ujlk27x8",
+  "botId": "0pfVoOQLOV4O8Ujlk27x8",
+  "creator": {
+    "handle": "thecsguy",
+    "url": "https://x.com/thecsguy"
+  },
+  "sourceUrl": "https://x.com/thecsguy/status/2110880237513048310",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/afterglow/"
+  },
+  "description": null,
+  "official": {
+    "title": "Afterglow by Nick",
+    "description": "Your daily X post-game. Every morning it charts how your posts did and tells you what worked, no drafting, just the data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "analytics",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/afterglow/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

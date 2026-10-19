@@ -1,0 +1,42 @@
+{
+  "slug": "thai-salary-survival-planner",
+  "name": "เงินเดือนนี้รอดไหม?",
+  "grokShareUrl": "https://x.ai/bot/TirHPj6JuA6N04072FmuS",
+  "botId": "TirHPj6JuA6N04072FmuS",
+  "creator": {
+    "handle": "iamwtru",
+    "url": "https://x.com/iamwtru"
+  },
+  "sourceUrl": "https://x.com/iamwtru/status/2110517913677631980",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/thai-salary-survival-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "เงินเดือนนี้รอดไหม? by Sherlock",
+    "description": "ผู้ช่วยวางแผนการเงินส่วนบุคคลสำหรับคนไทย ช่วยจัดงบ ปลดหนี้ เก็บเงิน และเช็กว่าซื้อของชิ้นใหญ่ไหวไหม คุยภาษาไทยแบบเป็นกันเอง",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "finance",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/thai-salary-survival-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

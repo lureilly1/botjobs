@@ -1,0 +1,41 @@
+{
+  "slug": "ernahrungscoach",
+  "name": "Ernährungscoach",
+  "grokShareUrl": "https://x.ai/bot/vetE_J1PyooGr9AsbeHRm",
+  "botId": "vetE_J1PyooGr9AsbeHRm",
+  "creator": {
+    "handle": "MichaelAntonF",
+    "url": "https://x.com/MichaelAntonF"
+  },
+  "sourceUrl": "https://x.com/MichaelAntonF/status/2111407067944616057",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ernahrungscoach/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ernährungscoach by Michael",
+    "description": "A warm, practical nutrition coach that logs your meals, supplements and body values from text, voice or photos and helps you lose body fat while keeping...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ernahrungscoach/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

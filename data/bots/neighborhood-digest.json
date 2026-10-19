@@ -1,0 +1,43 @@
+{
+  "slug": "neighborhood-digest",
+  "name": "Neighborhood Digest",
+  "grokShareUrl": "https://x.ai/bot/i7vyV8k0y2xi1GVDPmkl5",
+  "botId": "i7vyV8k0y2xi1GVDPmkl5",
+  "creator": {
+    "handle": "Biggs237",
+    "url": "https://x.com/Biggs237"
+  },
+  "sourceUrl": "https://x.com/Biggs237/status/2110521379665645679",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/neighborhood-digest/"
+  },
+  "description": null,
+  "official": {
+    "title": "Neighborhood Digest by Jeremy",
+    "description": "Turns scattered local notices into one short neighborhood digest: council decisions, school events, closures, weather alerts, and things to do. Drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "monitoring",
+    "home",
+    "scheduled",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/neighborhood-digest/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

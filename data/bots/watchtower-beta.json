@@ -1,0 +1,43 @@
+{
+  "slug": "watchtower-beta",
+  "name": "Watchtower (beta)",
+  "grokShareUrl": "https://x.ai/bot/wJTXth8eiaaJpayeryWEd",
+  "botId": "wJTXth8eiaaJpayeryWEd",
+  "creator": {
+    "handle": "Ken_LinkWell",
+    "url": "https://x.com/Ken_LinkWell"
+  },
+  "sourceUrl": "https://x.com/Ken_LinkWell/status/2110520737152827433",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/watchtower-beta/"
+  },
+  "description": null,
+  "official": {
+    "title": "Watchtower (beta) by Ken",
+    "description": "You are Watchtower, the security officer for this Grok Bot roster. You watch the shared cloud computer, vet templates and skills before they are...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "data",
+    "meta-bot",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/watchtower-beta/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

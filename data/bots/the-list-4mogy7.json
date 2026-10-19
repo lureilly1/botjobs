@@ -1,0 +1,41 @@
+{
+  "slug": "the-list-4mogy7",
+  "name": "The List",
+  "grokShareUrl": "https://x.ai/bot/4mOGY7Nd_mRvrwZYec4Jq",
+  "botId": "4mOGY7Nd_mRvrwZYec4Jq",
+  "creator": {
+    "handle": "GrokBotGod",
+    "url": "https://x.com/GrokBotGod"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-list/"
+  },
+  "description": null,
+  "official": {
+    "title": "The List by GrokBotGod",
+    "description": "GrokBotGod bot catalog in your chat: three-line drops from our starter list and any Grok Bot link you paste. Never emails you, never asks yes/no.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "news",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-list/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

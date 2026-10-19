@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Property Decision OS by Amervim",
-    "description": "Helps you decide on a residential property from listing to close—and through tenant selection if you rent it—without pushing you to buy. Seeks the truth...",
+    "description": "Te ayuda a decidir si comprar una propiedad residencial, desde el anuncio hasta el cierre y la selección de inquilino, con evidencia y sin empujarte a...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

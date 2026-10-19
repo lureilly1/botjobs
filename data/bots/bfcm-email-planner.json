@@ -1,0 +1,43 @@
+{
+  "slug": "bfcm-email-planner",
+  "name": "BFCM Email Planner",
+  "grokShareUrl": "https://x.ai/bot/Uf1bydmjxYZZpgymtOzSZ",
+  "botId": "Uf1bydmjxYZZpgymtOzSZ",
+  "creator": {
+    "handle": "ecomchasedimond",
+    "url": "https://x.com/ecomchasedimond"
+  },
+  "sourceUrl": "https://x.com/ecomchasedimond/status/2110509272002072979",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/bfcm-email-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "BFCM Email Planner by Chase",
+    "description": "Plans your full Black Friday / Cyber Monday email and SMS calendar: sends, segments, offer angles, subject lines, flow changes and a deliverability...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "email",
+    "growth",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/bfcm-email-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

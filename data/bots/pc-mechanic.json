@@ -1,0 +1,41 @@
+{
+  "slug": "pc-mechanic",
+  "name": "PC Mechanic",
+  "grokShareUrl": "https://x.ai/bot/bB9_Y8I-zNk_9s3eIwmq-",
+  "botId": "bB9_Y8I-zNk_9s3eIwmq-",
+  "creator": {
+    "handle": "Austinsdomain",
+    "url": "https://x.com/Austinsdomain"
+  },
+  "sourceUrl": "https://x.com/Austinsdomain/status/2111785703420092425",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pc-mechanic/"
+  },
+  "description": null,
+  "official": {
+    "title": "PC Mechanic by 𝒜𝔲𝔰𝔱𝔦𝔫⚡",
+    "description": "A friendly mechanic for your Windows PC or Mac: read-only checkups scored out of 100, app installs and uninstalls from official sources, cleanup, faster...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pc-mechanic/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

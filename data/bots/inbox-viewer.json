@@ -1,0 +1,42 @@
+{
+  "slug": "inbox-viewer",
+  "name": "Inbox Viewer",
+  "grokShareUrl": "https://x.ai/bot/dfo7Cc1-VNviSdOGJyA7r",
+  "botId": "dfo7Cc1-VNviSdOGJyA7r",
+  "creator": {
+    "handle": "ChaiWithAi",
+    "url": "https://x.com/ChaiWithAi"
+  },
+  "sourceUrl": "https://x.com/ChaiWithAi/status/2110467536013988223",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-viewer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Viewer by Sushant",
+    "description": "A Gmail-style inbox for your Grok Bot's email, styled like Grok Bot in dark and light mode, that opens on your phone or computer over Tailscale. Read...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "email",
+    "design",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-viewer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

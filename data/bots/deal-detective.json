@@ -1,0 +1,43 @@
+{
+  "slug": "deal-detective",
+  "name": "Deal Detective",
+  "grokShareUrl": "https://x.ai/bot/p36qEKy4qL_Gksm00iJus",
+  "botId": "p36qEKy4qL_Gksm00iJus",
+  "creator": {
+    "handle": "ashleyschendel",
+    "url": "https://x.com/ashleyschendel"
+  },
+  "sourceUrl": "https://x.com/ashleyschendel/status/2109688952915415359",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/deal-detective/"
+  },
+  "description": null,
+  "official": {
+    "title": "Deal Detective by Ashley",
+    "description": "Your personal bargain hunter. Tell it your ZIP and favorite stores, and it finds real discounts, compares unit prices, and builds shopping lists that...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "shopping",
+    "food",
+    "saving-money",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/deal-detective/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

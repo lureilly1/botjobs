@@ -1,0 +1,43 @@
+{
+  "slug": "ad-spend-desk",
+  "name": "Ad Spend Desk",
+  "grokShareUrl": "https://x.ai/bot/MQLGGf9tlc1LITK3ixesd",
+  "botId": "MQLGGf9tlc1LITK3ixesd",
+  "creator": {
+    "handle": "Av1dlive",
+    "url": "https://x.com/Av1dlive"
+  },
+  "sourceUrl": "https://x.com/Av1dlive/status/2111504263432241437",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/ad-spend-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Ad Spend Desk by Avid",
+    "description": "A read-only ad spend auditor that finds campaigns, ad groups and ads spending without conversions and landing pages that leak traffic, with dollar...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "analytics",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/ad-spend-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

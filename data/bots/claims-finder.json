@@ -1,0 +1,43 @@
+{
+  "slug": "claims-finder",
+  "name": "Claims Finder",
+  "grokShareUrl": "https://x.ai/bot/6VeOVsZzMkrKElrPi_kOR",
+  "botId": "6VeOVsZzMkrKElrPi_kOR",
+  "creator": {
+    "handle": "DanBooneFerden",
+    "url": "https://x.com/DanBooneFerden"
+  },
+  "sourceUrl": "https://x.com/DanBooneFerden/status/2109796469997719730",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/claims-finder/"
+  },
+  "description": null,
+  "official": {
+    "title": "Claims Finder by Dan",
+    "description": "Matches your email receipts to open settlements, unclaimed property, price adjustments, flight refunds, and rebates, with official links only. You...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "email",
+    "finance",
+    "saving-money",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/claims-finder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

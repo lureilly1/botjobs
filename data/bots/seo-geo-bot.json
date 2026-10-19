@@ -1,0 +1,45 @@
+{
+  "slug": "seo-geo-bot",
+  "name": "SEO & GEO Bot",
+  "grokShareUrl": "https://x.ai/bot/5iHGngaDIvmt1Mh-ef3_w",
+  "botId": "5iHGngaDIvmt1Mh-ef3_w",
+  "creator": {
+    "handle": "antoine_cre",
+    "url": "https://x.com/antoine_cre"
+  },
+  "sourceUrl": "https://x.com/antoine_cre/status/2110321079491481814",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/seo-geo-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "SEO & GEO Bot by Antoine",
+    "description": "Finds what your buyers search on Google and ask AI assistants, then turns it into ranked ideas, writer briefs, page audits and a weekly search report....",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "marketer",
+    "business",
+    "growth",
+    "seo",
+    "research",
+    "analytics",
+    "content",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/seo-geo-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

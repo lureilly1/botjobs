@@ -1,0 +1,42 @@
+{
+  "slug": "fine-print",
+  "name": "Fine Print",
+  "grokShareUrl": "https://x.ai/bot/Yetb1ei_7VvPfWlYqYwAM",
+  "botId": "Yetb1ei_7VvPfWlYqYwAM",
+  "creator": {
+    "handle": "DirtyTesLa",
+    "url": "https://x.com/DirtyTesLa"
+  },
+  "sourceUrl": "https://x.com/DirtyTesLa/status/2110517412328353909",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fine-print/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fine Print by Dirty",
+    "description": "Send it any contract, lease, bill, or terms of service and it tells you what's really in it, flags hidden fees and gotchas, and writes the dispute letter.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fine-print/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "starlink-flights",
+  "name": "Starlink Flights",
+  "grokShareUrl": "https://x.ai/bot/ChRqh1qs7aS87bsjva7B9",
+  "botId": "ChRqh1qs7aS87bsjva7B9",
+  "creator": {
+    "handle": "naoufal_elh",
+    "url": "https://x.com/naoufal_elh"
+  },
+  "sourceUrl": "https://x.com/naoufal_elh/status/2111053722419634588",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/starlink-flights/"
+  },
+  "description": null,
+  "official": {
+    "title": "Starlink Flights by Naoufal",
+    "description": "Finds flights that are 100% confirmed to have Starlink Wi-Fi onboard, with a link to each confirmation, and drops anything that's only likely. Rechecks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "travel",
+    "research",
+    "monitoring",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/starlink-flights/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}

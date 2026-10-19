@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Grok Bot Polish by GrokBotGod",
-    "description": "Rewrites your Grok Bot listing so people find it in Google and AI search: a clear name, a first line in the words people type, and a tight description....",
+    "description": "Grok Bot listing polish for Google and AI search: rewrites the bot, app or product listing you paste. Never invents features or stats, never submits.",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

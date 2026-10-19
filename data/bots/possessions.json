@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "POSSESSIONS by Bill",
-    "description": "Tracks your belongings, home, vehicles, and accounts like a stock portfolio: what you paid vs. what it's worth now, flip profits, and net worth. Also...",
+    "title": "POSSESSIONS: Home Inventory & Net Worth by Bill",
+    "description": "Builds a home inventory from room photos, receipts, or purchase emails, then tracks what you paid against what each item is worth today, with a monthly...",
     "resolves": true,
-    "fetchedAt": "2026-10-05"
+    "fetchedAt": "2026-10-19"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-05",
+  "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-12"
+  "lastSeenAt": "2026-10-19"
 }

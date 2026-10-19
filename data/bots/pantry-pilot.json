@@ -1,0 +1,43 @@
+{
+  "slug": "pantry-pilot",
+  "name": "Pantry Pilot",
+  "grokShareUrl": "https://x.ai/bot/9cKnt1JbVEqPMaEQgcJq0",
+  "botId": "9cKnt1JbVEqPMaEQgcJq0",
+  "creator": {
+    "handle": "MichaelGannotti",
+    "url": "https://x.com/MichaelGannotti"
+  },
+  "sourceUrl": "https://x.com/MichaelGannotti/status/2110514074622550148",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pantry-pilot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pantry Pilot by Michael",
+    "description": "Show it your fridge, get a week of family meals and a filled grocery cart. It stops before checkout, every time.",
+    "resolves": true,
+    "fetchedAt": "2026-10-19"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "shopping",
+    "life-hacks",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pantry-pilot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-19",
+  "firstSeenAt": "2026-10-19",
+  "lastSeenAt": "2026-10-19"
+}
