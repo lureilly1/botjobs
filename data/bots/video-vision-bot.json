@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/msscOhUxeeEWG1smciiNM",
   "botId": "msscOhUxeeEWG1smciiNM",
   "creator": {
-    "handle": null,
-    "name": "Archor Wright",
-    "url": null
+    "name": "Archor Wright"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-19",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

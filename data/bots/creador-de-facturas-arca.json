@@ -17,7 +17,7 @@
     "title": "Creador de facturas ARCA by Tomás",
     "description": "Emite Facturas C por Web Service de ARCA y deja el PDF en un borrador de Gmail. Para monotributistas y freelancers en Argentina que facturan todos los...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Res by ashen",
-    "description": "Gets you into hard-to-book restaurants. Res watches Resy, SevenRooms, OpenTable and Tock for drops and cancellations, checks your calendar and email for...",
+    "description": "Watches hard-to-get restaurant reservations across Resy, SevenRooms, OpenTable, and Tock, catches daily release drops and cancellations, checks your...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

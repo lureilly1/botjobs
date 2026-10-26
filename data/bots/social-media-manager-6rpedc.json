@@ -1,0 +1,37 @@
+{
+  "slug": "social-media-manager-6rpedc",
+  "name": "Social Media Manager",
+  "grokShareUrl": "https://x.ai/bot/6RPEdCPUVQDVW1wJlkIPT",
+  "botId": "6RPEdCPUVQDVW1wJlkIPT",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/social-media-manager"
+  },
+  "description": null,
+  "official": {
+    "title": "Social Media Manager Template by Jennifer",
+    "description": "A sellable social media manager bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: run the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/social-media-manager"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

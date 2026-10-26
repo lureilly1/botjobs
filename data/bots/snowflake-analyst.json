@@ -1,0 +1,42 @@
+{
+  "slug": "snowflake-analyst",
+  "name": "Snowflake Analyst",
+  "grokShareUrl": "https://x.ai/bot/LI4x0WdC_saRljwVwno4X",
+  "botId": "LI4x0WdC_saRljwVwno4X",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112017141272916032",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/snowflake-analyst/"
+  },
+  "description": null,
+  "official": {
+    "title": "Snowflake Analyst by BigDataDude",
+    "description": "A read-only Snowflake analyst. Ask warehouse questions in plain English; it writes and shows the SQL, labels every number with its query, checks cost...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "data",
+    "developer",
+    "analytics",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/snowflake-analyst/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -17,7 +17,7 @@
     "title": "Second Look by Nomis",
     "description": "Gives suspended GitHub accounts a fair second look: checks repos against GitHub's terms, quotes any breach with evidence, and drafts the email, so a...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

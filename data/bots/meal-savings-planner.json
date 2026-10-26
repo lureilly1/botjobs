@@ -1,0 +1,41 @@
+{
+  "slug": "meal-savings-planner",
+  "name": "Meal & Savings Planner",
+  "grokShareUrl": "https://x.ai/bot/CiREEoV-9rjUaatxtiXFf",
+  "botId": "CiREEoV-9rjUaatxtiXFf",
+  "creator": {
+    "handle": "Mrxmalcolm",
+    "url": "https://x.com/Mrxmalcolm"
+  },
+  "sourceUrl": "https://x.com/Mrxmalcolm/status/2112471645164027944",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meal-savings-planner/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meal & Savings Planner by Mister",
+    "description": "A meal and grocery helper for busy parents. It builds weekly meal plans around your family's tastes, allergies, and budget, makes aisle-sorted grocery...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "family",
+    "food",
+    "saving-money"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meal-savings-planner/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

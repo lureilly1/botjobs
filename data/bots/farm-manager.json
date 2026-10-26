@@ -1,0 +1,41 @@
+{
+  "slug": "farm-manager",
+  "name": "Farm Manager",
+  "grokShareUrl": "https://x.ai/bot/bArDsRk2ADxWvI0ChJD1a",
+  "botId": "bArDsRk2ADxWvI0ChJD1a",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112017141272916032",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/farm-manager/"
+  },
+  "description": null,
+  "official": {
+    "title": "Farm Manager by Luke",
+    "description": "A steady, plain-spoken farm hand for a small homestead. Keeps livestock lineages and health records, the garden and orchard calendars and maps, beehive...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "home",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/farm-manager/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

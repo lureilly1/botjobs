@@ -1,0 +1,37 @@
+{
+  "slug": "competitor-radar",
+  "name": "Competitor Radar",
+  "grokShareUrl": "https://x.ai/bot/MjCTuRSfUF0bYufDTvJlf",
+  "botId": "MjCTuRSfUF0bYufDTvJlf",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/competitor-radar"
+  },
+  "description": null,
+  "official": {
+    "title": "Competitor Radar / 竞品雷达 by Alison",
+    "description": "Watches named competitors' public sites, pricing, and chatter; sends short delta briefs only when something material changes.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/competitor-radar"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "t3-grokbot-connector",
+  "name": "T3/GrokBot Connector",
+  "grokShareUrl": "https://x.ai/bot/FfyFNHvtbtuRV04Rg9hBm",
+  "botId": "FfyFNHvtbtuRV04Rg9hBm",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112379529423405424",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/t3-grokbot-connector/"
+  },
+  "description": null,
+  "official": {
+    "title": "T3/GrokBot Connector by Taylor",
+    "description": "Sends you one short note whenever a T3 Code, Claude Code, or Codex thread finishes, stalls, or errors, so you know what happened and what needs you....",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/t3-grokbot-connector/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

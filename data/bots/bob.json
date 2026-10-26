@@ -17,7 +17,7 @@
     "title": "Bob by Luke",
     "description": "A build project coordinator for owner-builders working nights and weekends. Keeps you on the critical path, runs your trade expert bots, and sends a...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

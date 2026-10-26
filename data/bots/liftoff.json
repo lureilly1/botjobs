@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Liftoff by D'Artagnan",
-    "description": "A pre-launch checklist bot for anyone shipping an app, site, or paid plan. It checks the happy path and the failure path, data access rules, leaked...",
+    "title": "Script-it by D'Artagnan",
+    "description": "Moves routine checks off the model onto your own computer. It audits your routines, scripts the deterministic ones, proves they match, then pauses the...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

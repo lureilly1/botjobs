@@ -18,7 +18,7 @@
     "title": "DOGE (Department of Grok Efficiency) by Avid",
     "description": "A Grok Bot whose only job is to audit your other bots and routines, flag what to cut or merge, and find bottlenecks. It never changes anything without...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

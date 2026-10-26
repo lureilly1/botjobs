@@ -17,7 +17,7 @@
     "title": "Doorcheck by D'Artagnan",
     "description": "Before you add someone else's bot template, Doorcheck reads its recipe (instructions, skills, routines, plugins it asks for) and returns reject,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

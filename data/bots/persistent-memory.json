@@ -1,0 +1,43 @@
+{
+  "slug": "persistent-memory",
+  "name": "Persistent memory",
+  "grokShareUrl": "https://x.ai/bot/rp0gErUTW6Vth7cdtwPS_",
+  "botId": "rp0gErUTW6Vth7cdtwPS_",
+  "creator": {
+    "handle": "andrerocha",
+    "url": "https://x.com/andrerocha"
+  },
+  "sourceUrl": "https://x.com/andrerocha/status/2112295577174069574",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/persistent-memory/"
+  },
+  "description": null,
+  "official": {
+    "title": "Persistent memory by Andre",
+    "description": "Gives all your bots one durable memory: each bot writes a daily log of decisions, shipped work, and standing preferences to a private GitHub repo you own.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "automation",
+    "knowledge-base",
+    "monitoring",
+    "meta-bot",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/persistent-memory/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

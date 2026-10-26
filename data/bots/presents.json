@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Presents by Dylan",
-    "description": "Keeps your gift ideas organized by person, with the best price, the store, a link, and a photo for each, and checks every price weekly. It never buys...",
+    "description": "A holiday gift planner that keeps one list per person with photos, best prices from trusted stores, budgets, and order-by dates, and watches for price...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

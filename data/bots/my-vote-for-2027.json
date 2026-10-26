@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "My Vote For 2027 by Thierry",
-    "description": "A French civic bot that scores 2027 presidential candidates from a Mileist (small-state, pro-AI) view, using a private Lattice wiki, a daily X watch, an...",
+    "title": "France 2027 AFUERA ! by Thierry",
+    "description": "Ton assistant de veille pour la présidentielle 2027 : chaque matin, il trie l'actualité des candidats, met à jour leurs notes sur cinq qualités et te...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "call-shield",
+  "name": "Call Shield",
+  "grokShareUrl": "https://x.ai/bot/leKqVRHk7QbaX3VVcUbEv",
+  "botId": "leKqVRHk7QbaX3VVcUbEv",
+  "creator": {
+    "handle": "cryptorally",
+    "url": "https://x.com/cryptorally"
+  },
+  "sourceUrl": "https://x.com/cryptorally/status/2112279363211219449",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/call-shield/"
+  },
+  "description": null,
+  "official": {
+    "title": "Call Shield by JORGE",
+    "description": "Cuts the spam calls reaching your phone and keeps them down: Do Not Call registration, carrier and phone blockers, FTC complaint drafts, and data-broker...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "monitoring",
+    "automation",
+    "support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/call-shield/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

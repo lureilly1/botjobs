@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Missed Variable by linh",
+    "title": "Missed Variable by RootLogic",
     "description": "A reasoning gym that tests your judgment across business, AI, scams, and everyday problems. Get a scenario, make your call, see the variable you missed,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

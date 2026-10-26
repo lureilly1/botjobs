@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Overheard 晨间简报 by zyc",
-    "description": "每天早上在聊天里给你一份简报：你关注的 X 账号和要紧的未读邮件，还能每天把 X 部分存进 Notion 或 Obsidian。读 X 走免费通道，不花 API 额度，关注名单首次使用时由你授权。",
+    "title": "Overheard by zyc",
+    "description": "每天定时给你一份合并早报：你在 X 上关注的人说了什么、按你关心的领域排好，可每天存进 Notion 或 Obsidian。适合想少刷 X、不漏重点的人。",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

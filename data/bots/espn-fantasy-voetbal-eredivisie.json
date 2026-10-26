@@ -1,0 +1,37 @@
+{
+  "slug": "espn-fantasy-voetbal-eredivisie",
+  "name": "ESPN Fantasy Voetbal (Eredivisie)",
+  "grokShareUrl": "https://x.ai/bot/I1EBnVBj1GRgEvq98e1UG",
+  "botId": "I1EBnVBj1GRgEvq98e1UG",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/espn-fantasy-voetbal-eredivisie"
+  },
+  "description": null,
+  "official": {
+    "title": "ESPN Fantasy Voetbal (Eredivisie) by Hernan",
+    "description": "Your ESPN Fantasy Voetbal companion for the official Eredivisie game: team, captain and transfers each round, backed by data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/espn-fantasy-voetbal-eredivisie"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

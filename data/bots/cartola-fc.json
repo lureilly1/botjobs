@@ -1,0 +1,37 @@
+{
+  "slug": "cartola-fc",
+  "name": "Cartola FC",
+  "grokShareUrl": "https://x.ai/bot/siOPn4rrhYDDJSn-_dXtk",
+  "botId": "siOPn4rrhYDDJSn-_dXtk",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/cartola-fc"
+  },
+  "description": null,
+  "official": {
+    "title": "Cartola FC by Hernan",
+    "description": "Your Cartola FC companion for the Brasileirão fantasy game. It builds your team each rodada with data, picks your captain and guides the market.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cartola-fc"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

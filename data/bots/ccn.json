@@ -17,7 +17,7 @@
     "title": "CCN by Shawn",
     "description": "A live crypto and AI-agent news desk. It pulls the latest CCN headlines on Bitcoin, markets, DeFi, x402 and the agent economy, fresh every time.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

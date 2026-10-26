@@ -1,0 +1,40 @@
+{
+  "slug": "gridlock",
+  "name": "Gridlock",
+  "grokShareUrl": "https://x.ai/bot/wLGRmIN1v-L8Hlz_BWQd2",
+  "botId": "wLGRmIN1v-L8Hlz_BWQd2",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112379529423405424",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gridlock/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gridlock by Lem",
+    "description": "A blunt, read-only spreadsheet critic. It stress-tests any workbook against a clear pass bar and ranks issues as Blockers, Majors and Minors, each with...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "data"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gridlock/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "grokbot-mail",
+  "name": "Grokbot Mail",
+  "grokShareUrl": "https://x.ai/bot/vHWtUqHtdpfhnwTFOfEVT",
+  "botId": "vHWtUqHtdpfhnwTFOfEVT",
+  "creator": {
+    "handle": "Phil_Holland",
+    "url": "https://x.com/Phil_Holland"
+  },
+  "sourceUrl": "https://x.com/Phil_Holland/status/2112284772575621574",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/grokbot-mail/"
+  },
+  "description": null,
+  "official": {
+    "title": "Grokbot Mail by Phillip",
+    "description": "A private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account. For Grok...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "email",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/grokbot-mail/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

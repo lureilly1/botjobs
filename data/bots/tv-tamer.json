@@ -1,0 +1,42 @@
+{
+  "slug": "tv-tamer",
+  "name": "TV Tamer",
+  "grokShareUrl": "https://x.ai/bot/QJIlVrh34pWOth8tK4Umn",
+  "botId": "QJIlVrh34pWOth8tK4Umn",
+  "creator": {
+    "handle": "EndsHunter",
+    "url": "https://x.com/EndsHunter"
+  },
+  "sourceUrl": "https://x.com/EndsHunter/status/2111991367505207306",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/tv-tamer/"
+  },
+  "description": null,
+  "official": {
+    "title": "TV Tamer by Jonathan",
+    "description": "Debloats, de-ads, speeds up and customizes your own Android TV or Google TV over ADB from a computer on your home network. It backs everything up, asks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "home",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/tv-tamer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

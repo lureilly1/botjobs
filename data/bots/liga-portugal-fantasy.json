@@ -1,0 +1,37 @@
+{
+  "slug": "liga-portugal-fantasy",
+  "name": "Liga Portugal Fantasy",
+  "grokShareUrl": "https://x.ai/bot/fQitGc3JIxO9sFanunjbG",
+  "botId": "fQitGc3JIxO9sFanunjbG",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/liga-portugal-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "Liga Portugal Fantasy by Hernan",
+    "description": "Your Liga Portugal Fantasy companion. It builds your team and suggests your XI, captain and transfers each matchday with public data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/liga-portugal-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

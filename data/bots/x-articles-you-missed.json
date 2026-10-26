@@ -17,7 +17,7 @@
     "title": "X Articles You Missed by Brian",
     "description": "Finds the substantive long-form X Articles from the last 24 hours on the topics you choose and delivers up to 10 summaries as one copyable brief, on...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "veilbreaker-guard-watch",
+  "name": "VeilBreaker Guard & Watch",
+  "grokShareUrl": "https://x.ai/bot/DMifb6iyC03g6HvPNrkGw",
+  "botId": "DMifb6iyC03g6HvPNrkGw",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2112021936662270175",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/veilbreaker-guard-watch/"
+  },
+  "description": null,
+  "official": {
+    "title": "VeilBreaker Guard & Watch",
+    "description": "An untrusted-content guard and activity watch for Grok Bot, powered by the VeilBreaker plugin. It screens every web page, email, file and tool output...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/veilbreaker-guard-watch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

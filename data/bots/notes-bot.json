@@ -1,0 +1,40 @@
+{
+  "slug": "notes-bot",
+  "name": "Notes Bot",
+  "grokShareUrl": "https://x.ai/bot/go9M2-A3GQM5-tpstIPIQ",
+  "botId": "go9M2-A3GQM5-tpstIPIQ",
+  "creator": {
+    "handle": "charlychoi",
+    "url": "https://x.com/charlychoi"
+  },
+  "sourceUrl": "https://x.com/charlychoi/status/2112132723926315166",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/notes-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Notes Bot by X",
+    "description": "A simple personal notepad. Ramble or dictate your ideas and reminders, and it saves clean, dated notes to a Google Doc, sends reminder pings and gives...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "knowledge-base"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/notes-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

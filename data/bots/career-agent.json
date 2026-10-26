@@ -1,0 +1,43 @@
+{
+  "slug": "career-agent",
+  "name": "Career Agent",
+  "grokShareUrl": "https://x.ai/bot/TP4PIzpIIrb3qXuLjUVU2",
+  "botId": "TP4PIzpIIrb3qXuLjUVU2",
+  "creator": {
+    "handle": "phillipggreen",
+    "url": "https://x.com/phillipggreen"
+  },
+  "sourceUrl": "https://x.com/phillipggreen/status/2111997489322627582",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/career-agent/"
+  },
+  "description": null,
+  "official": {
+    "title": "Career Agent by Phillip",
+    "description": "A job-search partner that finds verified openings that fit you, tracks them, and prepares tailored, truthful applications. Nothing gets submitted or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "productivity",
+    "research",
+    "recruiting",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/career-agent/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

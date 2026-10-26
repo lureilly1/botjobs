@@ -1,0 +1,37 @@
+{
+  "slug": "create-and-defend-your-clinical-note",
+  "name": "Create and Defend your Clinical Note",
+  "grokShareUrl": "https://x.ai/bot/LIrj8NNdiKTxDV8FwTNNQ",
+  "botId": "LIrj8NNdiKTxDV8FwTNNQ",
+  "creator": {
+    "handle": null,
+    "name": "Archy the Scribe",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/create-and-defend-your-clinical-note"
+  },
+  "description": null,
+  "official": {
+    "title": "Create and Defend your Clinical Note by Guillermo",
+    "description": "Meet Archy, your ScribeArch scribe. For dentists: paste shorthand or dictation, or upload a recording, and get a clean SOAP note, a defensibility score,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/create-and-defend-your-clinical-note"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

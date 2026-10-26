@@ -1,0 +1,41 @@
+{
+  "slug": "undercut",
+  "name": "Undercut",
+  "grokShareUrl": "https://x.ai/bot/mzY8PRsWQZCuKuTEFQteB",
+  "botId": "mzY8PRsWQZCuKuTEFQteB",
+  "creator": {
+    "handle": "MichaelHeckert",
+    "url": "https://x.com/MichaelHeckert"
+  },
+  "sourceUrl": "https://x.com/MichaelHeckert/status/2112514444991574236",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/undercut/"
+  },
+  "description": null,
+  "official": {
+    "title": "Undercut by Michael",
+    "description": "Drop in a bill. See what new customers pay near you, plus the exact script to get your price down. You make the call.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "saving-money",
+    "finance",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/undercut/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

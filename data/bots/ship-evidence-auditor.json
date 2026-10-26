@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Ship Evidence Auditor by Ryan",
-    "description": "Audits every auto-ship from your coding agents with hard evidence (CI, verify runs, merge method, ship log) and pauses a lane when a ship fails its...",
+    "description": "Independently proves each auto-ship met its gate with evidence, pauses failing lanes, and can run rotating Cloudflare security audits (report-only)...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

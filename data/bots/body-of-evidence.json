@@ -1,0 +1,42 @@
+{
+  "slug": "body-of-evidence",
+  "name": "Body of Evidence",
+  "grokShareUrl": "https://x.ai/bot/yi-DUpczI7Gvzc2oGDesm",
+  "botId": "yi-DUpczI7Gvzc2oGDesm",
+  "creator": {
+    "handle": "Drew42",
+    "url": "https://x.com/Drew42"
+  },
+  "sourceUrl": "https://x.com/Drew42/status/2112688077042774489",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/body-of-evidence/"
+  },
+  "description": null,
+  "official": {
+    "title": "Body of Evidence by Diggity",
+    "description": "A personal medical research and health advisor that reads lab reports, checks medications for interactions, works through symptoms, preps doctor visits,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "research",
+    "learning",
+    "decision-support"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/body-of-evidence/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "cfl-fantasy",
+  "name": "CFL Fantasy",
+  "grokShareUrl": "https://x.ai/bot/oPcskUMa2HP0xX-LGrhCq",
+  "botId": "oPcskUMa2HP0xX-LGrhCq",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/cfl-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "CFL Fantasy by Hernan",
+    "description": "Your CFL Fantasy companion for the official Canadian Football League game. It helps you draft and plans weekly starters and waivers with data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cfl-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

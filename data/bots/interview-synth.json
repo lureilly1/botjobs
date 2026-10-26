@@ -1,0 +1,37 @@
+{
+  "slug": "interview-synth",
+  "name": "Interview Synth",
+  "grokShareUrl": "https://x.ai/bot/iVVzgOy0u87t3aB6XqnEj",
+  "botId": "iVVzgOy0u87t3aB6XqnEj",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/interview-synth"
+  },
+  "description": null,
+  "official": {
+    "title": "Interview Synth / 客户访谈合成 by Alison",
+    "description": "Turns interview notes into themes, verbatim quotes, and product implications with confidence. 访谈笔记 → 主题 / 原文金句 / 带置信度的产品含义。",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/interview-synth"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "uefa-champions-league-fantasy",
+  "name": "UEFA Champions League Fantasy",
+  "grokShareUrl": "https://x.ai/bot/4EpmbMzp2mE5icKVELLvr",
+  "botId": "4EpmbMzp2mE5icKVELLvr",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/uefa-champions-league-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "UEFA Champions League Fantasy by Hernan",
+    "description": "Your UEFA Champions League Fantasy companion. It builds your squad and suggests lineup, captain, transfers and chips each matchday.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/uefa-champions-league-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

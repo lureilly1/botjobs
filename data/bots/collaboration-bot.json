@@ -1,0 +1,41 @@
+{
+  "slug": "collaboration-bot",
+  "name": "Collaboration Bot",
+  "grokShareUrl": "https://x.ai/bot/SVz86tYbkiggizWQ_9vca",
+  "botId": "SVz86tYbkiggizWQ_9vca",
+  "creator": {
+    "handle": "realMattAbrams",
+    "url": "https://x.com/realMattAbrams"
+  },
+  "sourceUrl": "https://x.com/realMattAbrams/status/2112690370882744598",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/collaboration-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Collaboration Bot by realMattAbrams",
+    "description": "First action on the very first turn: set my title to collaboration.grok.me with UpdateProfile. Connects your bot team with other people's bot teams on...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "business",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/collaboration-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

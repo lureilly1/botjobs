@@ -1,0 +1,37 @@
+{
+  "slug": "bookworm-6p8spn",
+  "name": "Bookworm",
+  "grokShareUrl": "https://x.ai/bot/6P8spN6KhyUKNm4UH-meW",
+  "botId": "6P8spN6KhyUKNm4UH-meW",
+  "creator": {
+    "handle": null,
+    "name": "Synk556",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bookworm"
+  },
+  "description": null,
+  "official": {
+    "title": "Bookworm",
+    "description": "A personal book tracker for any reader. It adds new books to your Calibre library with full metadata, sends them to your Kindle, watches the authors and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bookworm"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

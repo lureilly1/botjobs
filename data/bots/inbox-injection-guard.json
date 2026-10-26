@@ -1,0 +1,40 @@
+{
+  "slug": "inbox-injection-guard",
+  "name": "Inbox Injection Guard",
+  "grokShareUrl": "https://x.ai/bot/lsXZ6NdEqAdCHe8z88QAl",
+  "botId": "lsXZ6NdEqAdCHe8z88QAl",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112379529423405424",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-injection-guard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox Injection Guard by Thuong",
+    "description": "Screens your email for hidden instructions aimed at AI assistants, like white text, zero-width characters and \"ignore previous instructions\" lines, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "email",
+    "developer",
+    "business"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-injection-guard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

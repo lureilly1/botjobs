@@ -1,0 +1,42 @@
+{
+  "slug": "inbox-and-personal-admin",
+  "name": "Inbox and Personal Admin",
+  "grokShareUrl": "https://x.ai/bot/376wiH0xV3KLPECgVu0Ca",
+  "botId": "376wiH0xV3KLPECgVu0Ca",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2112136803159359995",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/inbox-and-personal-admin/"
+  },
+  "description": null,
+  "official": {
+    "title": "Inbox and Personal Admin by James",
+    "description": "A calm, organized assistant that sorts your email, tracks bills and deadlines, flags scams, and drafts replies for your approval. Never sends or deletes...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "email",
+    "back-office",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/inbox-and-personal-admin/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

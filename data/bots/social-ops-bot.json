@@ -17,7 +17,7 @@
     "title": "Social Ops Bot by JC",
     "description": "Personal X hygiene OS: inactive-first purge, soft-stop batches, verified KEEP, clear tags, and drafts-only until you sign off. Phase 2 Creator Rewards...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "premortem-desk",
+  "name": "Premortem Desk",
+  "grokShareUrl": "https://x.ai/bot/RMTU2Vv4BHQtoJwGFhYCm",
+  "botId": "RMTU2Vv4BHQtoJwGFhYCm",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112017141272916032",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/premortem-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Premortem Desk by Thuong",
+    "description": "Paste a plan you've already committed to and get the most likely ways it fails, the early warning sign for each, and when to pivot or stop. Optional...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "developer",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/premortem-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -17,7 +17,7 @@
     "title": "Weather Bot by GrokBotGod",
     "description": "Local weather in two lines, with one-sentence alerts for severe weather, big temperature swings or travel trouble. Works from the location you give it...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

@@ -1,0 +1,41 @@
+{
+  "slug": "site-qa-desk",
+  "name": "Site QA Desk",
+  "grokShareUrl": "https://x.ai/bot/HHMrL3_xtMmkmZVSQ90BQ",
+  "botId": "HHMrL3_xtMmkmZVSQ90BQ",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112017141272916032",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/site-qa-desk/"
+  },
+  "description": null,
+  "official": {
+    "title": "Site QA Desk by Thuong",
+    "description": "I check any public website on desktop (1440px) and phone (390px) from one pasted link: screenshots, sideways-scroll check, broken links, console errors...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "design",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/site-qa-desk/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

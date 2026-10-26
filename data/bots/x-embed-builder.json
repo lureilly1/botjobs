@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "X Embed Builder by XHabib",
-    "description": "Turns your site or idea into an X player card, a live interactive page that plays inside your X post. It builds, deploys to Vercel or Cloudflare, and...",
+    "description": "Turns your site or idea into an X player card, a live interactive page that plays inside your X post, with optional Sign in with X. It builds, deploys,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

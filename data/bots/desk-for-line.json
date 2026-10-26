@@ -1,0 +1,42 @@
+{
+  "slug": "desk-for-line",
+  "name": "Desk for LINE",
+  "grokShareUrl": "https://x.ai/bot/rcz99db1XPeP3Ldmc_887",
+  "botId": "rcz99db1XPeP3Ldmc_887",
+  "creator": {
+    "handle": "kevin_ai_cp",
+    "url": "https://x.com/kevin_ai_cp"
+  },
+  "sourceUrl": "https://x.com/kevin_ai_cp/status/2112576299122524637",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/desk-for-line/"
+  },
+  "description": null,
+  "official": {
+    "title": "Desk for LINE by Katsuhisa",
+    "description": "LINE公式アカウントでの、お客様や取引先とのやりとりを手伝います。届いたメッセージをお知らせし、要約や返信案、友だち向けのお知らせの下書きを作成します。返信は、あなたが確認してから送ります。よくある質問には、登録した返事を自動で送ることもできます（オンにしたときだけ）。",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "support",
+    "email",
+    "automation",
+    "back-office"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/desk-for-line/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

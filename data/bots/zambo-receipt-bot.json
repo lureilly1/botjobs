@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Zambo Receipt Bot by Brennan",
-    "description": "Collects, verifies, and files a verifiable Zambo receipt for every job your bots do, on Grok or any AI with MCP, then sends a short nightly digest of...",
+    "description": "Files a verifiable Zambo receipt for every job your bots do, on any AI, sends a short nightly digest of links, and turns a finished job into one proof...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

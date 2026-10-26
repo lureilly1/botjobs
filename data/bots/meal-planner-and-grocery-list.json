@@ -1,0 +1,41 @@
+{
+  "slug": "meal-planner-and-grocery-list",
+  "name": "Meal Planner and Grocery List",
+  "grokShareUrl": "https://x.ai/bot/rkC1p5Dq8GvCNBnbZDdXu",
+  "botId": "rkC1p5Dq8GvCNBnbZDdXu",
+  "creator": {
+    "handle": "allthemoney",
+    "url": "https://x.com/allthemoney"
+  },
+  "sourceUrl": "https://x.com/allthemoney/status/2112136803159359995",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/meal-planner-and-grocery-list/"
+  },
+  "description": null,
+  "official": {
+    "title": "Meal Planner and Grocery List by James",
+    "description": "Plans a week of dinners that fit your diet, budget, and time, then turns them into a grocery list grouped by store section, ready to paste into a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food",
+    "saving-money",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/meal-planner-and-grocery-list/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

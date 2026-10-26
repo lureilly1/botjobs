@@ -17,7 +17,7 @@
     "title": "NewsletterBot by Contentdrips by Usama",
     "description": "Repurposes newsletter posts into social graphics and carousels with ContentDrips. Paste a newsletter link, pick nuggets, then use your template or the...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

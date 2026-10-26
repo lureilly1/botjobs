@@ -1,0 +1,37 @@
+{
+  "slug": "comunio",
+  "name": "Comunio",
+  "grokShareUrl": "https://x.ai/bot/wztCUKKDkTI3CLD9KFM52",
+  "botId": "wztCUKKDkTI3CLD9KFM52",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/comunio"
+  },
+  "description": null,
+  "official": {
+    "title": "Comunio by Hernan",
+    "description": "Your Comunio companion. It helps you build your squad, bid in the transfer market and pick each matchday lineup with public data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/comunio"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

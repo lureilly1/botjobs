@@ -16,7 +16,7 @@
     "title": "Muse Spark Desk by Bosotter",
     "description": "Talk to Meta's Muse Spark in Grok Bot with your API key. Relays chat to the Meta Model API with your own key. It's NOT the Muse personal agent app.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

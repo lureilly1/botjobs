@@ -18,7 +18,7 @@
     "title": "Fixer by Uzi",
     "description": "Owns Validation Lock end to end: boards the next beat, ships code when boarded, runs cloud and Workbench ops, and issues APPROVE/HOLD/NOT CLEAR after an...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -43,7 +43,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

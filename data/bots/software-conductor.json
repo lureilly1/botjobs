@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Software Conductor by Jeff",
-    "description": "An engineering lead that runs Cursor cloud agents for you. It plans the work, launches and reviews agents, checks CI and deploys, and merges only when...",
+    "description": "An engineering lead that plans your software work, runs it through Cursor cloud agents, and checks PRs and CI before anything merges. Built for people...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

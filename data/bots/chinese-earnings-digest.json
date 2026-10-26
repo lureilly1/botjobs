@@ -17,7 +17,7 @@
     "title": "财报锦囊 by CHENG",
     "description": "Capital Compass｜稳财锦囊 的 AI 财报解读员：丢一个美股 ticker，联网查最新一季财报，出一份 7 点中文速读（只用 LSEG 一致预期），不给买卖建议。",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

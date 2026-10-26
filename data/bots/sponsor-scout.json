@@ -1,0 +1,40 @@
+{
+  "slug": "sponsor-scout",
+  "name": "Sponsor Scout",
+  "grokShareUrl": "https://x.ai/bot/HK7rbeEuMNDD3_RbYyvx6",
+  "botId": "HK7rbeEuMNDD3_RbYyvx6",
+  "creator": {
+    "handle": "MichaelHeckert",
+    "url": "https://x.com/MichaelHeckert"
+  },
+  "sourceUrl": "https://x.com/MichaelHeckert/status/2112514456853086323",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/sponsor-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Sponsor Scout by Michael",
+    "description": "Finds brands already sponsoring people like you, finds the real way in, and drafts the pitch. You hit send. Built for fighters, athletes, newsletter...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "sales",
+    "growth"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/sponsor-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

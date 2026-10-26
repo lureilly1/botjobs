@@ -1,0 +1,37 @@
+{
+  "slug": "ipl-fantasy",
+  "name": "IPL Fantasy",
+  "grokShareUrl": "https://x.ai/bot/9Yl8oBQHncPrInDmQsZeD",
+  "botId": "9Yl8oBQHncPrInDmQsZeD",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/ipl-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "IPL Fantasy by Hernan",
+    "description": "Your IPL Fantasy companion for the official free season-long game. It picks your XI, captain and vice-captain after the toss and plans boosters.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ipl-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

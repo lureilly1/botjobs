@@ -1,0 +1,42 @@
+{
+  "slug": "arnie",
+  "name": "Arnie",
+  "grokShareUrl": "https://x.ai/bot/62xEf6aI2zDz6NILuIniU",
+  "botId": "62xEf6aI2zDz6NILuIniU",
+  "creator": {
+    "handle": "dan_spitzwieser",
+    "url": "https://x.com/dan_spitzwieser"
+  },
+  "sourceUrl": "https://x.com/dan_spitzwieser/status/2112143388623389100",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/arnie/"
+  },
+  "description": null,
+  "official": {
+    "title": "Arnie by Daniel",
+    "description": "Dein persönlicher Fitness-Coach für Fettabbau und Muskelaufbau, jederzeit erreichbar. Rechnet deine Kalorien und Makros, plant deine Mahlzeiten und hält...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "wellbeing",
+    "food",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/arnie/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

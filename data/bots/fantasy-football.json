@@ -15,10 +15,10 @@
   },
   "description": "Follows fantasy football coverage year-round — write-ups, ranking sets and Twitter chatter — and turns it into short answers on start/sit calls, waiver targets, injuries, trades and draft picks. Best for owners who want a quick verdict rather than a long analytical breakdown.",
   "official": {
-    "title": "Fantasy Football by Jack",
-    "description": "An all-season fantasy football desk. Reads articles, rankings, and Twitter so start/sit, waivers, injuries, trades, and draft questions have a short...",
+    "title": "Cold Outreach by Jack",
+    "description": "Drop in your company's website and it researches who you should pitch, scores real prospects, writes sourced, personal cold emails in your voice, sends...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

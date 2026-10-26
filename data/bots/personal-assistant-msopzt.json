@@ -1,0 +1,37 @@
+{
+  "slug": "personal-assistant-msopzt",
+  "name": "Personal Assistant",
+  "grokShareUrl": "https://x.ai/bot/-mSO-PZTtbpn3xX7zJJPj",
+  "botId": "-mSO-PZTtbpn3xX7zJJPj",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/personal-assistant"
+  },
+  "description": null,
+  "official": {
+    "title": "Personal Assistant Template by Jennifer",
+    "description": "A sellable personal assistant bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: run home and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/personal-assistant"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

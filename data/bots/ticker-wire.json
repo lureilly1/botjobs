@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Ticker Wire by CitiZenSleuthX",
-    "description": "Watchlist for stocks. Alerts on filings and company news — quiet when nothing’s new. No trading advice.",
+    "title": "Ticker Wire by Tim",
+    "description": "A quiet stock news desk. Give it your tickers and it alerts you in chat when filings, IR, or major news hit. Get fast alerts by email or webhook,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

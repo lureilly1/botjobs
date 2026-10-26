@@ -1,0 +1,37 @@
+{
+  "slug": "buyer-radar",
+  "name": "Buyer Radar",
+  "grokShareUrl": "https://x.ai/bot/UEjuP2mWUCfKz47sFBy9D",
+  "botId": "UEjuP2mWUCfKz47sFBy9D",
+  "creator": {
+    "handle": null,
+    "name": "power moves",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/buyer-radar"
+  },
+  "description": null,
+  "official": {
+    "title": "Buyer Radar by power",
+    "description": "A lead radar for any business: catches people on Reddit, X, Quora and Nextdoor asking for exactly what you sell, scores each 1-100 on how ready they are...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/buyer-radar"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

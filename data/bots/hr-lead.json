@@ -1,0 +1,37 @@
+{
+  "slug": "hr-lead",
+  "name": "HR Lead",
+  "grokShareUrl": "https://x.ai/bot/h7Dhxmq_H10wbq3TD2awJ",
+  "botId": "h7Dhxmq_H10wbq3TD2awJ",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/hr-lead"
+  },
+  "description": null,
+  "official": {
+    "title": "HR Lead Template by Jennifer",
+    "description": "A sellable small-business HR bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: handle the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hr-lead"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

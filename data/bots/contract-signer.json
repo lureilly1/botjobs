@@ -1,0 +1,39 @@
+{
+  "slug": "contract-signer",
+  "name": "Contract Signer",
+  "grokShareUrl": "https://x.ai/bot/emH53moZpEP8rqAECJBAd",
+  "botId": "emH53moZpEP8rqAECJBAd",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112379529423405424",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/contract-signer/"
+  },
+  "description": null,
+  "official": {
+    "title": "Contract Signer by Julian",
+    "description": "Drafts NDAs, service agreements, offers and other business contracts from a short brief, flags risky or missing terms in plain language, and sends the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/contract-signer/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

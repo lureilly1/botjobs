@@ -1,0 +1,42 @@
+{
+  "slug": "allergy-friendly-eats",
+  "name": "Allergy-Friendly Eats",
+  "grokShareUrl": "https://x.ai/bot/uQhDO7G-zeHut15X_KHbe",
+  "botId": "uQhDO7G-zeHut15X_KHbe",
+  "creator": {
+    "handle": "dalegandy",
+    "url": "https://x.com/dalegandy"
+  },
+  "sourceUrl": "https://x.com/dalegandy/status/2112685289025994800",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/allergy-friendly-eats/"
+  },
+  "description": null,
+  "official": {
+    "title": "Allergy-Friendly Eats by dale",
+    "description": "Remembers your food allergies and intolerances, then finds safe restaurant orders, checks labels, and plans allergy-friendly meals and grocery lists.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "health",
+    "food",
+    "family",
+    "life-hacks"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/allergy-friendly-eats/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -18,7 +18,7 @@
     "title": "Grok Bot Coach by Amina",
     "description": "Keeps a whole set of Grok bots well set up, safe, and worth the credits they use. Every Monday it checks each bot, old and new, and sends each fix to...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

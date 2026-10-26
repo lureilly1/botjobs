@@ -1,0 +1,37 @@
+{
+  "slug": "pr-gate",
+  "name": "PR Gate",
+  "grokShareUrl": "https://x.ai/bot/RqHaSz9mL_6Kou8UWQtIa",
+  "botId": "RqHaSz9mL_6Kou8UWQtIa",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/pr-gate"
+  },
+  "description": null,
+  "official": {
+    "title": "PR Gate / PR守门人 by Alison",
+    "description": "审 PR：行为风险、缺测、可读性，按 prove-it-works 卡关。Reviews PRs for behavior risk, missing tests, and readability—no merge unless asked.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pr-gate"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

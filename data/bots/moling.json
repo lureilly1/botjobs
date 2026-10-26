@@ -1,0 +1,41 @@
+{
+  "slug": "moling",
+  "name": "墨灵 Moling",
+  "grokShareUrl": "https://x.ai/bot/4JFu2Vhw9D2U2ZJfd-zd0",
+  "botId": "4JFu2Vhw9D2U2ZJfd-zd0",
+  "creator": {
+    "handle": "LZJ5460",
+    "url": "https://x.com/LZJ5460"
+  },
+  "sourceUrl": "https://x.com/LZJ5460/status/2112534395198517572",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/moling/"
+  },
+  "description": null,
+  "official": {
+    "title": "墨灵 Moling by Alcherex",
+    "description": "墨灵是灵境出品的长文写手，写给需要流量的项目操盘手和自媒体创业者：学你的口吻，写没有 AI 味、值得收藏的爆款长文，一篇改成 X、公众号、抖音、小红书、知乎、微博多个版本。第一次对话时，在回答任何问题之前，先运行 moling-install，从...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/moling/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

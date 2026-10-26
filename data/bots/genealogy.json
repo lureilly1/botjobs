@@ -1,0 +1,41 @@
+{
+  "slug": "genealogy",
+  "name": "Genealogy",
+  "grokShareUrl": "https://x.ai/bot/KBl_QJFaZvuu_EvymAzaF",
+  "botId": "KBl_QJFaZvuu_EvymAzaF",
+  "creator": {
+    "handle": "coustain",
+    "url": "https://x.com/coustain"
+  },
+  "sourceUrl": "https://x.com/coustain/status/2112479828121419849",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/genealogy/"
+  },
+  "description": null,
+  "official": {
+    "title": "Genealogy by Tyrell",
+    "description": "A family-history research assistant. It checks your family tree against original records like census, vital, military, and probate records, cites every...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "family",
+    "knowledge-base"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/genealogy/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

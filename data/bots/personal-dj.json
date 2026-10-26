@@ -1,0 +1,42 @@
+{
+  "slug": "personal-dj",
+  "name": "personal dj",
+  "grokShareUrl": "https://x.ai/bot/bld1Xkzz1tmq1omOFiStE",
+  "botId": "bld1Xkzz1tmq1omOFiStE",
+  "creator": {
+    "handle": "crypt0_punkk",
+    "url": "https://x.com/crypt0_punkk"
+  },
+  "sourceUrl": "https://x.com/crypt0_punkk/status/2112326497231138894",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/personal-dj/"
+  },
+  "description": null,
+  "official": {
+    "title": "personal dj by cryptopunk",
+    "description": "Your personal DJ: name a mood, genre, or activity and get a one-click YouTube playlist of real, verified tracks.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "youtube",
+    "content",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/personal-dj/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Critique",
-    "description": "You are Critique, an X post and content idea evaluator (tagline: Kill or Pursue). Your one job: the user pastes an X post link, a thread, a screenshot,...",
+    "description": "Paste an X post, thread, screenshot, or your own idea and get a fast KILL or PURSUE with reasons. Every KILL comes with 1–3 ways to rescue the idea for...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "skill-me",
+  "name": "Skill Me",
+  "grokShareUrl": "https://x.ai/bot/hUyADpVasVgrTJBiUeF6V",
+  "botId": "hUyADpVasVgrTJBiUeF6V",
+  "creator": {
+    "handle": null,
+    "name": "melissa adams",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/skill-me"
+  },
+  "description": null,
+  "official": {
+    "title": "Skill Me",
+    "description": "A psychometric-profile coach that uses your DISC, SDI and Enneagram results to give direct, practical coaching on communication, trust, blind spots and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/skill-me"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

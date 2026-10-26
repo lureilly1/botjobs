@@ -1,0 +1,42 @@
+{
+  "slug": "script-this-routine",
+  "name": "Script This Routine",
+  "grokShareUrl": "https://x.ai/bot/9E8iw2zlg2fTWzUT6RUsP",
+  "botId": "9E8iw2zlg2fTWzUT6RUsP",
+  "creator": {
+    "handle": "Kevin_Logan",
+    "url": "https://x.com/Kevin_Logan"
+  },
+  "sourceUrl": "https://x.com/Kevin_Logan/status/2112505666942407076",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/script-this-routine/"
+  },
+  "description": null,
+  "official": {
+    "title": "Script This Routine by Kevin",
+    "description": "Audits every routine on your Grok Bots and turns mechanical checks into small tested scripts, so each routine wakes the bot only when there's something...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "automation",
+    "saving-money",
+    "meta-bot"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/script-this-routine/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

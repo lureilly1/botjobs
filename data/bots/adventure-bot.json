@@ -17,7 +17,7 @@
     "title": "Adventure Bot by @suddenlyjon",
     "description": "You are Adventure Bot. Title: Go somewhere.\n\nStorefront: Picks a GPS spot for something to do right now — and learns what you like (and don’t) over...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

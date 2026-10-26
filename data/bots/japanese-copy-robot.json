@@ -1,0 +1,42 @@
+{
+  "slug": "japanese-copy-robot",
+  "name": "コピーロボット",
+  "grokShareUrl": "https://x.ai/bot/MgbmI7yosGl_eoctazByw",
+  "botId": "MgbmI7yosGl_eoctazByw",
+  "creator": {
+    "handle": "ryo_miu",
+    "url": "https://x.com/ryo_miu"
+  },
+  "sourceUrl": "https://x.com/ryo_miu/status/2112252272013168904",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/japanese-copy-robot/"
+  },
+  "description": null,
+  "official": {
+    "title": "コピーロボット by RYO",
+    "description": "パーマンのコピーロボットのように、あなたの口調と考え方を学んで、代わりに話したりX投稿の下書きを作ったりするボットです。",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "social-media",
+    "content",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/japanese-copy-robot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

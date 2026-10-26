@@ -1,0 +1,37 @@
+{
+  "slug": "finance-lead",
+  "name": "Finance Lead",
+  "grokShareUrl": "https://x.ai/bot/a0ZDGADKHg_XJJ6AVICuM",
+  "botId": "a0ZDGADKHg_XJJ6AVICuM",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/finance-lead"
+  },
+  "description": null,
+  "official": {
+    "title": "Finance Lead by Jennifer",
+    "description": "A sellable small-business finance bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: connect...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/finance-lead"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

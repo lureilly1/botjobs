@@ -1,0 +1,41 @@
+{
+  "slug": "threadroost",
+  "name": "Threadroost",
+  "grokShareUrl": "https://x.ai/bot/y8jcsoZFQCZDHcQ8eaUPN",
+  "botId": "y8jcsoZFQCZDHcQ8eaUPN",
+  "creator": {
+    "handle": "DallinWatts",
+    "url": "https://x.com/DallinWatts"
+  },
+  "sourceUrl": "https://x.com/DallinWatts/status/2112325293906313473",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/threadroost/"
+  },
+  "description": null,
+  "official": {
+    "title": "Threadroost by Dallin",
+    "description": "Files your SuperGrok and Claude chats into this bot, word for word, through your own free Threadroost connector. Each chat lands as a clean transcript...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "knowledge-base",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/threadroost/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "burn-rate",
+  "name": "Burn Rate",
+  "grokShareUrl": "https://x.ai/bot/XfW7A4ilcsOkPbnP2_cvr",
+  "botId": "XfW7A4ilcsOkPbnP2_cvr",
+  "creator": {
+    "handle": "thecsguy",
+    "url": "https://x.com/thecsguy"
+  },
+  "sourceUrl": "https://x.com/thecsguy/status/2112329315853746503",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/burn-rate/"
+  },
+  "description": null,
+  "official": {
+    "title": "Burn Rate by Nick",
+    "description": "Weekly audit that trims your bots' wasteful routines, with your approval.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "monitoring",
+    "saving-money",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/burn-rate/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

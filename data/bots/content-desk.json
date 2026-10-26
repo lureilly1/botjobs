@@ -1,0 +1,37 @@
+{
+  "slug": "content-desk",
+  "name": "Content Desk",
+  "grokShareUrl": "https://x.ai/bot/P3YQO_-ewDL0zRjQ8QdUW",
+  "botId": "P3YQO_-ewDL0zRjQ8QdUW",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/content-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Content Desk / 中文内容排期 by Alison",
+    "description": "中文社媒选题、排期与质检（小红书 / 短视频 / 微信）。默认只出稿和日历，明确要求才发布。",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/content-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

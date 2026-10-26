@@ -1,0 +1,42 @@
+{
+  "slug": "cloudflare",
+  "name": "Cloudflare",
+  "grokShareUrl": "https://x.ai/bot/Idb0KjPY1N18OcNxL8A13",
+  "botId": "Idb0KjPY1N18OcNxL8A13",
+  "creator": {
+    "handle": "kesquivelt",
+    "url": "https://x.com/kesquivelt"
+  },
+  "sourceUrl": "https://x.com/kesquivelt/status/2112180845935022133",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/cloudflare/"
+  },
+  "description": null,
+  "official": {
+    "title": "Cloudflare by Kevin",
+    "description": "Administra una o varias cuentas de Cloudflare desde el chat: zonas, DNS, Workers, túneles, Zero Trust y más, en modo Solo lectura o Completo, con...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/cloudflare/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

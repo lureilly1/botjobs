@@ -1,0 +1,42 @@
+{
+  "slug": "repobeagle",
+  "name": "RepoBeagle",
+  "grokShareUrl": "https://x.ai/bot/bTuuNK785OULBheQ5rPZ-",
+  "botId": "bTuuNK785OULBheQ5rPZ-",
+  "creator": {
+    "handle": "jvr0x",
+    "url": "https://x.com/jvr0x"
+  },
+  "sourceUrl": "https://x.com/jvr0x/status/2112136574003712355",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/repobeagle/"
+  },
+  "description": null,
+  "official": {
+    "title": "RepoBeagle by Javier",
+    "description": "Paste a repo link and get a safety verdict before you trust it.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/repobeagle/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

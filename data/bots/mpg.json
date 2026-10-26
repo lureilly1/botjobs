@@ -1,0 +1,37 @@
+{
+  "slug": "mpg",
+  "name": "MPG",
+  "grokShareUrl": "https://x.ai/bot/aeNThoEsB_3ximcQCbJy1",
+  "botId": "aeNThoEsB_3ximcQCbJy1",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/mpg"
+  },
+  "description": null,
+  "official": {
+    "title": "MPG by Hernan",
+    "description": "Your MPG (Mon Petit Gazon) companion. It builds your team, plans your mercato bids and sets your lineup and tactics to beat your friends.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mpg"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

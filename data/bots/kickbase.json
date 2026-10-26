@@ -1,0 +1,37 @@
+{
+  "slug": "kickbase",
+  "name": "Kickbase",
+  "grokShareUrl": "https://x.ai/bot/66TwYrny7OA72_FmXlSev",
+  "botId": "66TwYrny7OA72_FmXlSev",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/kickbase"
+  },
+  "description": null,
+  "official": {
+    "title": "Kickbase by Hernan",
+    "description": "Your Kickbase companion. It builds your team and suggests lineup and transfers every matchday, with data and a safe and a risky option.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/kickbase"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

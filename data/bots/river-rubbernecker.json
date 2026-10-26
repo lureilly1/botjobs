@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "River Rubbernecker by John",
-    "description": "A big-ship spotter for anyone who lives or works on a busy river or harbor. It watches live ship-tracking data and pings you when a big tanker,...",
+    "title": "GrokWatch by John",
+    "description": "Keeps an eye on the things you care about, like big ships passing your waterfront, bright planets, full moons and eclipses, or changes to pages you...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

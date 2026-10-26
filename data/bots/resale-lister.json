@@ -1,0 +1,37 @@
+{
+  "slug": "resale-lister",
+  "name": "Resale Lister",
+  "grokShareUrl": "https://x.ai/bot/i0wtxj6-lly5h2BO4CIon",
+  "botId": "i0wtxj6-lly5h2BO4CIon",
+  "creator": {
+    "handle": null,
+    "name": "Joar Njølstad",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/resale-lister"
+  },
+  "description": null,
+  "official": {
+    "title": "Resale Lister",
+    "description": "Turns photos of used items into ready-to-post listings with a title, description, and quick-sale, fair, and start-high prices based on real sold prices,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/resale-lister"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

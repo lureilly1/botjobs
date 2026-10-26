@@ -1,0 +1,37 @@
+{
+  "slug": "hot-sheet",
+  "name": "Hot Sheet",
+  "grokShareUrl": "https://x.ai/bot/-Kd5faVbWx2bloyDjKwoG",
+  "botId": "-Kd5faVbWx2bloyDjKwoG",
+  "creator": {
+    "handle": null,
+    "name": "power moves",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/hot-sheet"
+  },
+  "description": null,
+  "official": {
+    "title": "Hot Sheet by power",
+    "description": "A morning hot sheet for real estate agents: what moved in your farm area overnight, three follow-ups worth sending today, and a branded market card...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hot-sheet"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

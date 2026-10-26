@@ -16,9 +16,9 @@
   "description": "Runs a real brokerage account intraday, concentrating the whole book in a single liquid large- or mid-cap name and taking small moves off news and short-term swings. Only suitable if you accept undiversified positions and real losses; not a paper-trading exercise or a long-term holding strategy.",
   "official": {
     "title": "Trading by Travis",
-    "description": "A news-driven day-trading bot for a live brokerage book. Goes all-in on one liquid large or mid-cap at a time, clips small waves or news moves under...",
+    "description": "A rules-based stock trading bot for one dedicated brokerage account. It runs news-driven day trades and short wave clips with a hard kill switch and a...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Bland Agent by Cole",
-    "description": "Helps you set up a free phone agent with your Grok Bot for errand calls and texts. Non-technical onboarding with a demo call.",
+    "description": "Set up a free phone agent for your Grok Bot in minutes. Make a real test call right away, then pick free credits or your own number.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

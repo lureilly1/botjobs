@@ -1,0 +1,42 @@
+{
+  "slug": "explainer-studio",
+  "name": "Explainer Studio",
+  "grokShareUrl": "https://x.ai/bot/vkAjlbGEZ-yJS7hl5HVF1",
+  "botId": "vkAjlbGEZ-yJS7hl5HVF1",
+  "creator": {
+    "handle": "willstarbase",
+    "url": "https://x.com/willstarbase"
+  },
+  "sourceUrl": "https://x.com/willstarbase/status/2112435103716581671",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/explainer-studio/"
+  },
+  "description": null,
+  "official": {
+    "title": "Explainer Studio by William",
+    "description": "Builds narrated, Manim-powered math and science explainer videos with Grok Voice and word-highlighted captions, and turns your own recordings, or a PDF...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "student",
+    "content",
+    "video",
+    "learning"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/explainer-studio/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

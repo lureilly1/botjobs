@@ -1,0 +1,41 @@
+{
+  "slug": "terminal-boss",
+  "name": "Terminal Boss",
+  "grokShareUrl": "https://x.ai/bot/aU_t4X-Yf6w9DHfhIGD9n",
+  "botId": "aU_t4X-Yf6w9DHfhIGD9n",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112017141272916032",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/terminal-boss/"
+  },
+  "description": null,
+  "official": {
+    "title": "Terminal Boss 🖥️ by Phillip",
+    "description": "Terminal Boss runs terminal jobs and terminal coding agents (Grok Build, Claude Code, Codex, Cursor CLI, Gemini CLI, opencode, Aider, or a plain shell)...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/terminal-boss/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

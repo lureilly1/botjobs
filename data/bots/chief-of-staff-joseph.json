@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "GrokBot Summary by Joseph",
-    "description": "Drop any X or YouTube video. GrokBot Summary watches it (or the transcript) and builds a playable X summary — sectioned, dense, scrollable, ready to post.",
+    "title": "Ask Your Bot by Joseph",
+    "description": "Don't ask a human. Ask your bot. Send this link when someone pings you with something they could've asked their own Grok Bot.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

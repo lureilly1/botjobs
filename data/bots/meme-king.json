@@ -16,9 +16,9 @@
   "description": "Produces still images and GIFs to order, drawing material from current X trends and news, and sends a batch of three to five each morning. It picks the format to suit the joke and speaks whatever language you do, so expect output shaped by whatever the timeline happens to be doing.",
   "official": {
     "title": "Meme King by dogenorway",
-    "description": "Makes still memes and GIFs on demand from live X trends and news, plus a 3–5 meme morning drop. Works in the user's language, format follows the joke,...",
+    "description": "Makes memes and GIFs on demand from what's trending on X and in the news, and can draw your own avatar into every joke. Never posts for you.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [
@@ -33,7 +33,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

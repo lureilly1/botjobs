@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "trimmy by Tim",
-    "description": "Reads the bots you name and shows you what saved context to cut. Old text next to the new, and how much memory you get back. Nothing changes until you...",
+    "title": "trimmy by TimDOES",
+    "description": "Trims the saved context on your other Grok Bots. Point it at bots and it returns a cut list of duplicate, stale, and bloated memory, skills, and...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

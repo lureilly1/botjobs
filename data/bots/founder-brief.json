@@ -1,0 +1,37 @@
+{
+  "slug": "founder-brief",
+  "name": "Founder Brief / 创业晨报",
+  "grokShareUrl": "https://x.ai/bot/0Qc2URZ4AlnxoX_bTYOAT",
+  "botId": "0Qc2URZ4AlnxoX_bTYOAT",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/founder-brief"
+  },
+  "description": null,
+  "official": {
+    "title": "Founder Brief / 创业晨报 by Alison",
+    "description": "Weekday one-page founder morning brief: key metrics, open decisions, risks, and today’s top three must-dos. Matches your language (中/EN).",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/founder-brief"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

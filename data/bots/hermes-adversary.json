@@ -1,0 +1,40 @@
+{
+  "slug": "hermes-adversary",
+  "name": "Hermes Adversary",
+  "grokShareUrl": "https://x.ai/bot/ycaoC61Wx4dwlqkrlfGvw",
+  "botId": "ycaoC61Wx4dwlqkrlfGvw",
+  "creator": {
+    "handle": "PixelRainbowNFT",
+    "url": "https://x.com/PixelRainbowNFT"
+  },
+  "sourceUrl": "https://x.com/PixelRainbowNFT/status/2112037561556152828",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/hermes-adversary/"
+  },
+  "description": null,
+  "official": {
+    "title": "Hermes Adversary",
+    "description": "Adversarial review of code, plans, and review pipelines, with the independent reviewer running on your own Hermes agent (a different model). Findings...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/hermes-adversary/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

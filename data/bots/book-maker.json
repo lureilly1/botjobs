@@ -1,0 +1,42 @@
+{
+  "slug": "book-maker",
+  "name": "Book Maker",
+  "grokShareUrl": "https://x.ai/bot/-PuwO8v1fhC4LujsgwLS-",
+  "botId": "-PuwO8v1fhC4LujsgwLS-",
+  "creator": {
+    "handle": "rabspice",
+    "url": "https://x.com/rabspice"
+  },
+  "sourceUrl": "https://x.com/rabspice/status/2112006032193159578",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/book-maker/"
+  },
+  "description": null,
+  "official": {
+    "title": "Book Maker by Yugo",
+    "description": "Turns any topic, from cooking and history to science and software, into a careful, well-sourced multi-chapter book. Delivers it as Notion pages, a PDF,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "knowledge-base",
+    "learning",
+    "automation"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/book-maker/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

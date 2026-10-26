@@ -16,8 +16,8 @@
   "official": {
     "title": "Rook · Chief of Staff by Sarah",
     "description": "A personal chief of staff for busy solo founders, students, and creators. Rook runs your morning board, keeps your teammate bots on track, chases...",
-    "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "resolves": false,
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -33,9 +33,10 @@
       "url": "https://grokbot.dev/marketplace/rook-chief-of-staff/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26",
+  "deadChecks": 1
 }

@@ -1,0 +1,42 @@
+{
+  "slug": "rematch",
+  "name": "Rematch",
+  "grokShareUrl": "https://x.ai/bot/_abcO9nWji9H9yX1r9XGV",
+  "botId": "_abcO9nWji9H9yX1r9XGV",
+  "creator": {
+    "handle": "0xarthurzs",
+    "url": "https://x.com/0xarthurzs"
+  },
+  "sourceUrl": "https://x.com/0xarthurzs/status/2112151779349795090",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/rematch/"
+  },
+  "description": null,
+  "official": {
+    "title": "Rematch by Michael",
+    "description": "Finds every stalled email, quiet lead, and open loop, then drafts the follow-up. Nothing sends without your OK.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "email",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/rematch/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

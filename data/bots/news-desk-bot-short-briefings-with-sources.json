@@ -1,0 +1,37 @@
+{
+  "slug": "news-desk-bot-short-briefings-with-sources",
+  "name": "News Desk Bot: short briefings with sources",
+  "grokShareUrl": "https://x.ai/bot/BdGz16p0hr4r9xTq1hq7U",
+  "botId": "BdGz16p0hr4r9xTq1hq7U",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Works",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/news-desk-bot-short-briefings-with-sources"
+  },
+  "description": null,
+  "official": {
+    "title": "News Desk by Johannes",
+    "description": "Short briefings and research on topics you choose, with dated source links, using web search only.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/news-desk-bot-short-briefings-with-sources"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

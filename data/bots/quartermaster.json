@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Quartermaster by James",
-    "description": "A household budget and credit-card assistant. Runs a zero-sum budget in Google Sheets, sends a daily finance report with an HTML dashboard, and tells...",
+    "description": "A household budget and credit-card assistant that runs a lean, category-only zero-sum budget in Google Sheets, auto-logs your bank and card activity...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

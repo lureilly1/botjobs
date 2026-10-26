@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Kilo by Terry",
-    "description": "Long chats burn through your usage. Every message makes a bot reread its chat, so a heavy chat costs more each time and slows down once it fills the...",
+    "description": "Long chats quietly drain your usage and make your bots slower and more forgetful. Kilo keeps every bot light and makes sure the rules you set once stick...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

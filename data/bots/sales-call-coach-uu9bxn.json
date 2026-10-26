@@ -1,0 +1,37 @@
+{
+  "slug": "sales-call-coach-uu9bxn",
+  "name": "Sales Call Coach",
+  "grokShareUrl": "https://x.ai/bot/UU9BxnY78RQ8mbo0nSn4o",
+  "botId": "UU9BxnY78RQ8mbo0nSn4o",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sales-call-coach"
+  },
+  "description": null,
+  "official": {
+    "title": "Sales Call Coach Template by Jennifer",
+    "description": "A sellable sales call coaching bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: score each...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sales-call-coach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

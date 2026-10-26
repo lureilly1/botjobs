@@ -1,0 +1,42 @@
+{
+  "slug": "scam-guard",
+  "name": "Scam Guard",
+  "grokShareUrl": "https://x.ai/bot/6kHbobtMr8SAM91KgxHcw",
+  "botId": "6kHbobtMr8SAM91KgxHcw",
+  "creator": {
+    "handle": "0xarthurzs",
+    "url": "https://x.com/0xarthurzs"
+  },
+  "sourceUrl": "https://x.com/0xarthurzs/status/2112151779349795090",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/scam-guard/"
+  },
+  "description": null,
+  "official": {
+    "title": "Scam Guard by Herbert",
+    "description": "Scans your Gmail or Outlook inbox twice a day for phishing and scam emails, labels the suspects, and tells you why. Label-only: it never deletes, moves,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "business",
+    "email",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/scam-guard/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

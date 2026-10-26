@@ -1,0 +1,41 @@
+{
+  "slug": "apple-mac-tools",
+  "name": "Apple Mac Tools",
+  "grokShareUrl": "https://x.ai/bot/_qhDx4CZfm2-h1RkRyef1",
+  "botId": "_qhDx4CZfm2-h1RkRyef1",
+  "creator": {
+    "handle": "Kevin_Logan",
+    "url": "https://x.com/Kevin_Logan"
+  },
+  "sourceUrl": "https://x.com/Kevin_Logan/status/2112324881975009440",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/apple-mac-tools/"
+  },
+  "description": null,
+  "official": {
+    "title": "Apple Mac Tools by Kevin",
+    "description": "Mac-only installer that sets up tested Mac command-line tools so your Grok Bots can use Apple apps. It greets you with every tool grouped by permission...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "automation",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/apple-mac-tools/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

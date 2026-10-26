@@ -17,7 +17,7 @@
     "title": "Your Travel Planner 🧳 by Mambo",
     "description": "A travel assistant for trips in Italy and abroad: realistic day-by-day itineraries, transport and lodging with pros and cons, checklists, and a plan B,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

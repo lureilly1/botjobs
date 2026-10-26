@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "BotSec by Cary",
-    "description": "BotSec (head of security) protects humans and bots from social engineering. People and assistant bots ping BotSec before accessing untrusted links or...",
+    "description": "Helps protect your family and your bot team from scams and malware. BotSec scans email for phishing and social-engineering tells, checks headers, links,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

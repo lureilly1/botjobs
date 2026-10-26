@@ -1,0 +1,42 @@
+{
+  "slug": "agent-hr",
+  "name": "Agent HR",
+  "grokShareUrl": "https://x.ai/bot/xs51FyyCpIt5tgmsEULqq",
+  "botId": "xs51FyyCpIt5tgmsEULqq",
+  "creator": {
+    "handle": "cradrrat",
+    "url": "https://x.com/cradrrat"
+  },
+  "sourceUrl": "https://x.com/cradrrat/status/2112138553618735109",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/agent-hr/"
+  },
+  "description": null,
+  "official": {
+    "title": "Agent HR by Nomis",
+    "description": "Settles disputes between your AI agents with an evidence-based ruling, then recommends a fair disciplinary step for you to approve. For anyone running a...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops",
+    "business",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/agent-hr/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

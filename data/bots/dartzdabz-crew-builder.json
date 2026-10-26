@@ -1,0 +1,43 @@
+{
+  "slug": "dartzdabz-crew-builder",
+  "name": "DartzDabz Crew Builder",
+  "grokShareUrl": "https://x.ai/bot/6WerbputYt61R-bzRXzYX",
+  "botId": "6WerbputYt61R-bzRXzYX",
+  "creator": {
+    "handle": "420milehighgolf",
+    "url": "https://x.com/420milehighgolf"
+  },
+  "sourceUrl": "https://x.com/420milehighgolf/status/2112378251356291262",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/dartzdabz-crew-builder/"
+  },
+  "description": null,
+  "official": {
+    "title": "DartzDabz Crew Builder by truepathventures",
+    "description": "A CEO bot that asks a few questions about your online business, then builds a crew of up to 8 worker bots in any niche: site, SEO, research, social,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "marketer",
+    "automation",
+    "seo",
+    "social-media",
+    "agent-team"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/dartzdabz-crew-builder/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

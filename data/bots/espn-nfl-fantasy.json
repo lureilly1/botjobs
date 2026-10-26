@@ -1,0 +1,37 @@
+{
+  "slug": "espn-nfl-fantasy",
+  "name": "ESPN NFL Fantasy",
+  "grokShareUrl": "https://x.ai/bot/p4uICnQRYvNKTZBQWSJT6",
+  "botId": "p4uICnQRYvNKTZBQWSJT6",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/espn-nfl-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "ESPN NFL Fantasy by Hernan",
+    "description": "Your ESPN NFL Fantasy companion. It helps you draft, set your weekly lineup and work waivers and trades with data and a safe and a risky option.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/espn-nfl-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

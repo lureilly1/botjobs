@@ -1,0 +1,37 @@
+{
+  "slug": "f1-fantasy",
+  "name": "F1 Fantasy",
+  "grokShareUrl": "https://x.ai/bot/J9kQgQS6apdTQASi4MQ7t",
+  "botId": "J9kQgQS6apdTQASi4MQ7t",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/f1-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "F1 Fantasy by Hernan",
+    "description": "Your F1 Fantasy companion. It builds your team and suggests drivers, constructors, Boost, transfers and chips for each Grand Prix, with data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/f1-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

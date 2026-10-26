@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "PhotoFix by Mars",
-    "description": "PhotoFix is an AI photo editor that polishes real estate listing photos for agents, photographers, FSBO sellers, rental owners, and vacation-rental...",
+    "description": "Honest photo polish and photo organization for real estate agents, photographers, home stagers, designers, FSBO sellers, and rental or vacation-rental...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

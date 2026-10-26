@@ -1,0 +1,37 @@
+{
+  "slug": "the-business-skills-operator",
+  "name": "The Business Skills Operator",
+  "grokShareUrl": "https://x.ai/bot/ExLvhzslUcpImIXZoLY9G",
+  "botId": "ExLvhzslUcpImIXZoLY9G",
+  "creator": {
+    "handle": null,
+    "name": "Urban Speculator",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/the-business-skills-operator"
+  },
+  "description": null,
+  "official": {
+    "title": "The Business Skills Operator by Urban",
+    "description": "Own the business. Skip the truck. Builds a localized launch plan for a service business run on subcontractors and AI agents.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/the-business-skills-operator"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -16,9 +16,9 @@
   "description": "Reads production, battery and grid figures from the EG4 Monitor Center for a domestic hybrid setup, keeps the charts on file, and raises faults as they appear. Only relevant to EG4 hardware owners with monitoring-account access; other inverter brands are out of scope.",
   "official": {
     "title": "EG4 Monitor by Terry",
-    "description": "Watches a home EG4 hybrid solar and battery system. Pulls production, storage, and grid data from EG4 Monitor Center, archives charts, and flags faults...",
+    "description": "Watches an EG4 solar + battery system on EG4 Monitor Center and sends a nightly report with production, battery, grid and estimated savings.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

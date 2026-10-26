@@ -16,7 +16,7 @@
     "title": "Claude Desk by Bosotter",
     "description": "Saves your Claude Console API key as a Grok Bot secret, relays your messages to Anthropic's Messages API, and shows Claude's reply in this chat....",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

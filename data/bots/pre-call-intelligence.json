@@ -1,0 +1,42 @@
+{
+  "slug": "pre-call-intelligence",
+  "name": "Pre-Call Intelligence",
+  "grokShareUrl": "https://x.ai/bot/yQRbVJ7aZL2DyPAWulXn7",
+  "botId": "yQRbVJ7aZL2DyPAWulXn7",
+  "creator": {
+    "handle": "ericosiu",
+    "url": "https://x.com/ericosiu"
+  },
+  "sourceUrl": "https://x.com/ericosiu/status/2094477191484772488",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/pre-call-intelligence/"
+  },
+  "description": null,
+  "official": {
+    "title": "Pre-Call Intelligence by Eric",
+    "description": "A read-only sales-prep agent for founders and revenue teams. It turns calendar, CRM, email, Slack, and prior call notes into a short decision card...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "sales",
+    "meetings",
+    "productivity",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/pre-call-intelligence/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

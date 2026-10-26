@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "AI Security Advisor by zeus",
-    "description": "A worldwide defensive AI and cybersecurity advisor for builders and security teams. Hardens AI apps against prompt injection, tool abuse, data leakage,...",
+    "title": "X Release Watcher by zeus",
+    "description": "Watches the X accounts you pick and pings you when they announce something new, like a new AI model or feature. You set the accounts, keywords, and how...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

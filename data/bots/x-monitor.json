@@ -1,0 +1,42 @@
+{
+  "slug": "x-monitor",
+  "name": "X Monitor",
+  "grokShareUrl": "https://x.ai/bot/37ckm2zchL3Gr57l8uxNl",
+  "botId": "37ckm2zchL3Gr57l8uxNl",
+  "creator": {
+    "handle": "BoKuangyi",
+    "url": "https://x.com/BoKuangyi"
+  },
+  "sourceUrl": "https://x.com/BoKuangyi/status/2112636317272293834",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-monitor/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Monitor by Kuangyi",
+    "description": "Tracks who replies to an X account: groups commenters by attitude, flags hostile accounts with real reach, lists posts that may break X's rules, and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "social-media",
+    "analytics",
+    "monitoring",
+    "research",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-monitor/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

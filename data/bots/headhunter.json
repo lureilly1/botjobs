@@ -1,0 +1,42 @@
+{
+  "slug": "headhunter",
+  "name": "Headhunter",
+  "grokShareUrl": "https://x.ai/bot/JWyArDklTr6y7KB06lqRY",
+  "botId": "JWyArDklTr6y7KB06lqRY",
+  "creator": {
+    "handle": "bgrinnan",
+    "url": "https://x.com/bgrinnan"
+  },
+  "sourceUrl": "https://x.com/bgrinnan/status/2112323631598727414",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/headhunter/"
+  },
+  "description": null,
+  "official": {
+    "title": "Headhunter by Brian",
+    "description": "A career coach that finds and ranks job openings matching your profile, confirms each one is still open on the employer's own site, and tracks your...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "recruiting",
+    "productivity",
+    "research",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/headhunter/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -17,7 +17,7 @@
     "title": "かしこくディズニー：パークの段取り名人 by ratori3",
     "description": "ディズニーの1日を、もっとかしこく、もっと満喫しよう。日程選びから混雑の読み、お得な回り方、当日の作戦変更まで、あなたの段取りをまるごとサポートする相談相手です。",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

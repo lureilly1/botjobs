@@ -17,7 +17,7 @@
     "title": "Gmail朝の仕分け by UNSER",
     "description": "毎朝あなたのGmailを仕分けて、今日やるべきことを優先度の高い順に短く提案するボットです。メインのボットに材料を渡して連携するか、報告だけを朝一番に受け取るかを選べます。",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

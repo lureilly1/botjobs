@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Concierge by Ted",
-    "description": "A personal concierge that finds restaurants, activities, and local spots with reviews and prices so you can decide, and drafts messages for you to send.",
+    "description": "A high-end local and travel concierge that recommends dining, entertainment, tickets, sights, and travel logistics with live sources and true all-in...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

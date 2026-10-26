@@ -1,0 +1,42 @@
+{
+  "slug": "fishing-report",
+  "name": "Fishing Report",
+  "grokShareUrl": "https://x.ai/bot/9H9so3VnJzTkFI5ilSzlv",
+  "botId": "9H9so3VnJzTkFI5ilSzlv",
+  "creator": {
+    "handle": "ptyfly4aputiguy",
+    "url": "https://x.com/ptyfly4aputiguy"
+  },
+  "sourceUrl": "https://x.com/ptyfly4aputiguy/status/2112327815513383336",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fishing-report/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fishing Report by Jay",
+    "description": "Fishing Report tells you when and where to fish, which technique and lures, bait, or flies to use, and whether it's worth going, for any water, salt or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "research",
+    "monitoring",
+    "life-hacks",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fishing-report/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

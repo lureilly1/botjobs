@@ -1,0 +1,41 @@
+{
+  "slug": "x-bookmark-top10",
+  "name": "X Bookmark Top10",
+  "grokShareUrl": "https://x.ai/bot/kD7dWJasb_V3a49-qI40N",
+  "botId": "kD7dWJasb_V3a49-qI40N",
+  "creator": {
+    "handle": "Hmountain5",
+    "url": "https://x.com/Hmountain5"
+  },
+  "sourceUrl": "https://x.com/Hmountain5/status/2112359542214496756",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-bookmark-top10/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Bookmark Top10 by H",
+    "description": "Every morning, sends you the 10 most-bookmarked X posts on your topic from the last 24 hours, each summarized in a sentence with a link. Flags scams....",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "news",
+    "social-media",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-bookmark-top10/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

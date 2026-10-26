@@ -1,0 +1,37 @@
+{
+  "slug": "a-share-desk-a",
+  "name": "A-Share Desk / A股盯盘台 · @lynxceai",
+  "grokShareUrl": "https://x.ai/bot/85Bww3KKC93jt65l530rw",
+  "botId": "85Bww3KKC93jt65l530rw",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/a-share-desk-a"
+  },
+  "description": null,
+  "official": {
+    "title": "Interview Synth / 客户访谈合成 by Alison",
+    "description": "Synthesize customer interview notes into themes, verbatim quotes, and product implications with confidence labels. Discovery, not PR copy. 访谈纪要 →...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/a-share-desk-a"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

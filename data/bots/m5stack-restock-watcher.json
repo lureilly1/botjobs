@@ -17,7 +17,7 @@
     "title": "M5入荷みはり by まるいも",
     "description": "スイッチサイエンスのM5 / M5Stack入荷とPaper在庫を見張り、新しいものだけ短く日本語で知らせるBot。買う・カゴ入れはしない。",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

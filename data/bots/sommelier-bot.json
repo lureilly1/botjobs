@@ -1,0 +1,37 @@
+{
+  "slug": "sommelier-bot",
+  "name": "sommelier.bot",
+  "grokShareUrl": "https://x.ai/bot/UPAg1Vque_5YKcSDtdZEq",
+  "botId": "UPAg1Vque_5YKcSDtdZEq",
+  "creator": {
+    "handle": null,
+    "name": "sommelier.bot",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sommelier-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "sommelier.bot by Johannes",
+    "description": "Your personal sommelier for everything in the glass, with or without alcohol: wine, beer, spirits, sake, cider, and non-alcoholic drinks like tea and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sommelier-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

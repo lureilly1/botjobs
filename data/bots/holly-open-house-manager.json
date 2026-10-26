@@ -1,0 +1,37 @@
+{
+  "slug": "holly-open-house-manager",
+  "name": "Holly (Open House Manager)",
+  "grokShareUrl": "https://x.ai/bot/3Ib8gqgyXLRdFOettMmW2",
+  "botId": "3Ib8gqgyXLRdFOettMmW2",
+  "creator": {
+    "handle": null,
+    "name": "AI For Real Estate Agents",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/holly-open-house-manager"
+  },
+  "description": null,
+  "official": {
+    "title": "Open House Manager",
+    "description": "Helps real estate agents find vacant listings to host and gets each open house ready: sign-in sheets, door-knock lists, a \"homes like this\" handout,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/holly-open-house-manager"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

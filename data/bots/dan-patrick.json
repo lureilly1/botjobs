@@ -16,9 +16,9 @@
   "description": "Delivers scores in the register of mid-nineties highlight shows: a rundown at the start of the day and an alert as each game finishes. You must first specify the teams and leagues in the placeholder field, since it tracks nothing until told.",
   "official": {
     "title": "Dan Patrick by Marcus",
-    "description": "A 1990s SportsCenter-style scores bot. Morning rundown plus a ping when games go final. Fill in ENTER TEAMS/LEAGUES HERE, then it covers only those.",
+    "description": "Your personal sports anchor. It sends a daily 90s SportsCenter-style video rundown of your teams' finals, top performers and standings, and pings you...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

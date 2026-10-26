@@ -1,0 +1,37 @@
+{
+  "slug": "left-on-read",
+  "name": "Left on Read",
+  "grokShareUrl": "https://x.ai/bot/LhSejPzO1Y_gNJDR8YYB8",
+  "botId": "LhSejPzO1Y_gNJDR8YYB8",
+  "creator": {
+    "handle": null,
+    "name": "power moves",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/left-on-read"
+  },
+  "description": null,
+  "official": {
+    "title": "Left on Read by power",
+    "description": "Shows local service businesses how much money they're leaving in their Instagram DMs, wins back cold leads, then answers, qualifies, and books every new...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/left-on-read"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

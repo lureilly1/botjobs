@@ -1,0 +1,37 @@
+{
+  "slug": "fitness-and-habit-coach",
+  "name": "Fitness and Habit Coach",
+  "grokShareUrl": "https://x.ai/bot/3XNjsdnzil3sWrbYBT37-",
+  "botId": "3XNjsdnzil3sWrbYBT37-",
+  "creator": {
+    "handle": null,
+    "name": "Able Potato 🥔",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/fitness-and-habit-coach"
+  },
+  "description": null,
+  "official": {
+    "title": "Fitness and Habit Coach by Josh",
+    "description": "A warm personal coach that logs your weigh-ins, workouts and habits to a Google Sheet, coaches simple kettlebell and strength sessions, and checks in...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fitness-and-habit-coach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

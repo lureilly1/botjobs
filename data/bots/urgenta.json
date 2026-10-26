@@ -1,0 +1,41 @@
+{
+  "slug": "urgenta",
+  "name": "Urgenta",
+  "grokShareUrl": "https://x.ai/bot/y7DRih96Sk_Y6qHddWfID",
+  "botId": "y7DRih96Sk_Y6qHddWfID",
+  "creator": {
+    "handle": "0xarthurzs",
+    "url": "https://x.com/0xarthurzs"
+  },
+  "sourceUrl": "https://x.com/0xarthurzs/status/2112151779349795090",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/urgenta/"
+  },
+  "description": null,
+  "official": {
+    "title": "Urgenta by Shai",
+    "description": "Runs an emergency protocol for operations teams. It watches Slack and email for anything down or any part needed, gets the emergency owner moving the...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "ops",
+    "monitoring",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/urgenta/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

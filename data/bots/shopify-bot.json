@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Shopify Bot by Nicholas",
-    "description": "Runs your Shopify store through the official Shopify plugin: catalog, inventory, growth, conversion, and customer service, solo or as manager of a...",
+    "description": "Start from an idea or connect your store. Shopify Bot and a team of specialist bots help you build, run and grow it.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

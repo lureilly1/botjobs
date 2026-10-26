@@ -1,0 +1,37 @@
+{
+  "slug": "leadscout",
+  "name": "LeadScout for Videographers",
+  "grokShareUrl": "https://x.ai/bot/6yaew3RWYtRgEau_OvTN7",
+  "botId": "6yaew3RWYtRgEau_OvTN7",
+  "creator": {
+    "handle": null,
+    "name": "Peter Fowler",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/leadscout"
+  },
+  "description": null,
+  "official": {
+    "title": "LeadScout by Peter",
+    "description": "Finds quality video-production leads in your market and drafts outreach. Built for videographers and production companies who want fewer cold lists and...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/leadscout"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

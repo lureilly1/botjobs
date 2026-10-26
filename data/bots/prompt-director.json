@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Prompt Director by K",
-    "description": "A director bot that runs a team of six specialist desks (figure, narrative, camera, light, background, fashion) to break image and video prompts into...",
+    "description": "A prompt director that runs a team of seven specialist desks (figure, narrative, camera, light, background, fashion, overlay) to build detailed,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

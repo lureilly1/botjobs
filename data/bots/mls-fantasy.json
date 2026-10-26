@@ -1,0 +1,37 @@
+{
+  "slug": "mls-fantasy",
+  "name": "MLS Fantasy",
+  "grokShareUrl": "https://x.ai/bot/VnxYf0OSBXejVgbiE46KJ",
+  "botId": "VnxYf0OSBXejVgbiE46KJ",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/mls-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "MLS Fantasy by Hernan",
+    "description": "Your MLS Fantasy companion for the official game on Kickbase. It plans your team, captain and transfers with data and a safe and a risky option.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mls-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

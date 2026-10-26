@@ -1,0 +1,37 @@
+{
+  "slug": "meteora-dlmm-farmer",
+  "name": "Meteora DLMM Farmer",
+  "grokShareUrl": "https://x.ai/bot/kFdVOLCH30QLEsV6uVpTt",
+  "botId": "kFdVOLCH30QLEsV6uVpTt",
+  "creator": {
+    "handle": null,
+    "name": "HAB1B0 German Raffleking 🇩🇪🇹🇷👑{🦅}",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/meteora-dlmm-farmer"
+  },
+  "description": null,
+  "official": {
+    "title": "Meteora DLMM Farmer by HAB1B0",
+    "description": "100% English research & live dashboard agent for Meteora DLMM farming tokens on Solana. Onboard your filter criteria (MC >= $1.5M, 24h vol >= $150k, age...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/meteora-dlmm-farmer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

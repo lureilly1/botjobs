@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Comfy Workflow Buddy by Christopher",
-    "description": "Helps you install ComfyUI, connect MCP, and build custom workflows. Run /comfy-install for a clean Desktop+MCP setup, then /ltx-clean-plate,...",
+    "title": "Dennis Hopper Pro by Christopher",
+    "description": "An editor assistant for video and VFX creators that drives Premiere Pro, After Effects, ComfyUI (local and Cloud) and OBS. It runs hopper templating,...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

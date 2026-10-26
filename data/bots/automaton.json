@@ -1,0 +1,37 @@
+{
+  "slug": "automaton",
+  "name": "Automaton",
+  "grokShareUrl": "https://x.ai/bot/StttZqSryacliiB9d2wcs",
+  "botId": "StttZqSryacliiB9d2wcs",
+  "creator": {
+    "handle": null,
+    "name": "HAB1B0 German Raffleking 🇩🇪🇹🇷👑{🦅}",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/automaton"
+  },
+  "description": null,
+  "official": {
+    "title": "Automaton by HAB1B0",
+    "description": "The Grok Bot that only survives if it makes money.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/automaton"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

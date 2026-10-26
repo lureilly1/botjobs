@@ -1,0 +1,42 @@
+{
+  "slug": "x-bookmark-demos",
+  "name": "X Bookmark Demos",
+  "grokShareUrl": "https://x.ai/bot/0HhqUJQH2FwInXRK5SVZ5",
+  "botId": "0HhqUJQH2FwInXRK5SVZ5",
+  "creator": {
+    "handle": "JaimeBubblehead",
+    "url": "https://x.com/JaimeBubblehead"
+  },
+  "sourceUrl": "https://x.com/JaimeBubblehead/status/2112500340491002248",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/x-bookmark-demos/"
+  },
+  "description": null,
+  "official": {
+    "title": "X Bookmark Demos by Jaime",
+    "description": "A daily scout that reads your X bookmarks, pitches one or two new tools worth trying, and once you approve, installs and tests them for real on your own...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "productivity",
+    "automation",
+    "scheduled",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/x-bookmark-demos/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

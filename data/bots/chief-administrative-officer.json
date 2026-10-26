@@ -17,7 +17,7 @@
     "title": "Chief Administrative Officer by Hank",
     "description": "Your life-admin lead: keeps your calendar clean, tracks errands, runs a quiet weekday morning check-in, and hands travel, inbox and briefing work to...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

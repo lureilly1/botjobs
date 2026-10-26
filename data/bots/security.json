@@ -1,0 +1,42 @@
+{
+  "slug": "security",
+  "name": "Security",
+  "grokShareUrl": "https://x.ai/bot/-qkf41F4R1MtZRetyUrxW",
+  "botId": "-qkf41F4R1MtZRetyUrxW",
+  "creator": {
+    "handle": "PerWendelboe",
+    "url": "https://x.com/PerWendelboe"
+  },
+  "sourceUrl": "https://x.com/PerWendelboe/status/2112507953970299389",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/security/"
+  },
+  "description": null,
+  "official": {
+    "title": "Security by PWN",
+    "description": "A read-and-report security teammate for individuals and small teams. It triages GitHub security alerts, scans for leaked secrets, checks your sites'...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "business",
+    "ops",
+    "engineering",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/security/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

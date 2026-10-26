@@ -1,0 +1,37 @@
+{
+  "slug": "nations-championship-fantasy",
+  "name": "Nations Championship Fantasy",
+  "grokShareUrl": "https://x.ai/bot/7KFbtwFgj3QL_p8oJ2b-r",
+  "botId": "7KFbtwFgj3QL_p8oJ2b-r",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nations-championship-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "Nations Championship Fantasy by Hernan",
+    "description": "Your Nations Championship Fantasy companion. It builds your XV and Super Sub within 100M, compares captains and plans your Triple Captain.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nations-championship-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

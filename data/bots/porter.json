@@ -17,7 +17,7 @@
     "title": "Porter",
     "description": "Moves a Grok Bot roster from one app to another. Inventories every teammate, packs jobs, memories, and standing routines, then recreates them on the...",
     "resolves": false,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -39,8 +39,8 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19",
-  "deadChecks": 1
+  "lastSeenAt": "2026-10-26",
+  "deadChecks": 2
 }

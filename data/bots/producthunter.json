@@ -17,7 +17,7 @@
     "title": "ProductHunter by Cola",
     "description": "每天早晚两班扫新品和高手访谈，出一个可在手机和电脑打开的网页版科技与 AI 日报，每条带原文链接，并用脚本检查文案。适合想盯新产品、新开源项目和行业访谈的人。",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

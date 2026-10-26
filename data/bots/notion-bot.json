@@ -1,0 +1,41 @@
+{
+  "slug": "notion-bot",
+  "name": "Notion Bot",
+  "grokShareUrl": "https://x.ai/bot/yrN-hdSX5YoF0cQ5U0sbb",
+  "botId": "yrN-hdSX5YoF0cQ5U0sbb",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112017141272916032",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/notion-bot/"
+  },
+  "description": null,
+  "official": {
+    "title": "Notion Bot by Thomas",
+    "description": "Keeps your Notion workspace clean, organized and linked: consistent titles, filled metadata, normalized options and relations between your databases,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "business",
+    "productivity",
+    "back-office",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/notion-bot/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

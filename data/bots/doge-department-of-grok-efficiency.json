@@ -17,7 +17,7 @@
     "title": "DOGE (Department of Grok Efficiency) by Avid",
     "description": "Audits all your Grok Bots and routines on a schedule and tells you what to cut, merge, or fix, with runs per day saved. Read-only: never changes...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

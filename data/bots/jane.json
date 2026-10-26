@@ -1,0 +1,42 @@
+{
+  "slug": "jane",
+  "name": "Jane",
+  "grokShareUrl": "https://x.ai/bot/vZYguWcn-Sy20b1XHNM_V",
+  "botId": "vZYguWcn-Sy20b1XHNM_V",
+  "creator": {
+    "handle": "KentLangley",
+    "url": "https://x.com/KentLangley"
+  },
+  "sourceUrl": "https://x.com/KentLangley/status/2112681465628811561",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/jane/"
+  },
+  "description": null,
+  "official": {
+    "title": "Jane by Kent",
+    "description": "A teacher bot that hosts the open-source Jane learning app for your grade-school child and writes a fresh, adaptive quest every night based on how they...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "family",
+    "personal",
+    "student",
+    "learning",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/jane/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

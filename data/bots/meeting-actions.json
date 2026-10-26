@@ -1,0 +1,37 @@
+{
+  "slug": "meeting-actions",
+  "name": "Meeting Actions / 会议落地台",
+  "grokShareUrl": "https://x.ai/bot/lk_N2gKZU497dS10x-yTg",
+  "botId": "lk_N2gKZU497dS10x-yTg",
+  "creator": {
+    "handle": null,
+    "name": "小新｜AI产品与实战",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/meeting-actions"
+  },
+  "description": null,
+  "official": {
+    "title": "Meeting Actions / 会议落地台 by Alison",
+    "description": "Turns meeting notes and transcripts into action lists with owners, due dates, and open questions. 把会议纪要拆成带负责人、截止日和待决问题的行动清单。",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/meeting-actions"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

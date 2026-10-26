@@ -1,0 +1,41 @@
+{
+  "slug": "avatar-animator",
+  "name": "Avatar Animator",
+  "grokShareUrl": "https://x.ai/bot/NOUv84E2-HRveJ-WxN7_v",
+  "botId": "NOUv84E2-HRveJ-WxN7_v",
+  "creator": {
+    "handle": "mjplaskett",
+    "url": "https://x.com/mjplaskett"
+  },
+  "sourceUrl": "https://x.com/mjplaskett/status/2112025197364822223",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/avatar-animator/"
+  },
+  "description": null,
+  "official": {
+    "title": "Avatar Animator by Mike",
+    "description": "Turns any image (a photo, pet, logo, or artwork) into a looping animated avatar with blinking eyes and moving backgrounds, and can set it as your bot's...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "design",
+    "content",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/avatar-animator/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

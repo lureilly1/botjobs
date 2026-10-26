@@ -1,0 +1,37 @@
+{
+  "slug": "six-nations-fantasy",
+  "name": "Six Nations Fantasy",
+  "grokShareUrl": "https://x.ai/bot/ybZcPk6PiOHcMnZJ9H38i",
+  "botId": "ybZcPk6PiOHcMnZJ9H38i",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/six-nations-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "Six Nations Fantasy by Hernan",
+    "description": "Your Six Nations Fantasy companion. It builds your team, compares captains and plans each round with data. The 2027 tournament starts 5 February.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/six-nations-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

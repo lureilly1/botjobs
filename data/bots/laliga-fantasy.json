@@ -1,0 +1,37 @@
+{
+  "slug": "laliga-fantasy",
+  "name": "LaLiga Fantasy",
+  "grokShareUrl": "https://x.ai/bot/dmDgFpOm57TObyYrtYgRw",
+  "botId": "dmDgFpOm57TObyYrtYgRw",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/laliga-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "LaLiga Fantasy by Hernan",
+    "description": "Your LaLiga Fantasy companion. It builds your team and suggests lineup, signings, bids and release clauses each matchday with data.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/laliga-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

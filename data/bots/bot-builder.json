@@ -17,7 +17,7 @@
     "title": "Rotator by Cody",
     "description": "Paper-default single-asset rotation operator. Holds one name, scans for a better next (prefer crypto/xToken dips), parks in stablecoin when nothing...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

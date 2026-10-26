@@ -1,0 +1,39 @@
+{
+  "slug": "the-maitre-d",
+  "name": "The Maitre D",
+  "grokShareUrl": "https://x.ai/bot/jZDmuZbKvUIELlYazIAuC",
+  "botId": "jZDmuZbKvUIELlYazIAuC",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112379529423405424",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/the-maitre-d/"
+  },
+  "description": null,
+  "official": {
+    "title": "The Maitre D by TeslaAiGirl",
+    "description": "Finds great restaurants and books your reservations. Tell it the night, party size, area, and vibe, and it brings back 4 picks with booking and map...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "food"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/the-maitre-d/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

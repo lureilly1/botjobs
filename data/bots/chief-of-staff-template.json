@@ -1,0 +1,37 @@
+{
+  "slug": "chief-of-staff-template",
+  "name": "Chief of Staff Template",
+  "grokShareUrl": "https://x.ai/bot/Pz17GKXbh7LKHkLu4IcR0",
+  "botId": "Pz17GKXbh7LKHkLu4IcR0",
+  "creator": {
+    "handle": "jenniferbuildai",
+    "name": null,
+    "url": "https://x.com/jenniferbuildai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/chief-of-staff-template"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief of Staff Template by Jennifer",
+    "description": "A sellable Chief of Staff bot, the hub of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: be the owner's...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-of-staff-template"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

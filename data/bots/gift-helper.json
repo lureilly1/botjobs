@@ -1,0 +1,37 @@
+{
+  "slug": "gift-helper",
+  "name": "Gift Helper",
+  "grokShareUrl": "https://x.ai/bot/gG2uY9f4dGjXid_51kZrj",
+  "botId": "gG2uY9f4dGjXid_51kZrj",
+  "creator": {
+    "handle": null,
+    "name": "Joar Njølstad",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/gift-helper"
+  },
+  "description": null,
+  "official": {
+    "title": "Gift Helper",
+    "description": "Remembers birthdays and special dates and suggests gifts in good time, within your budget, linking to real products sold in your country. Never buys or...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gift-helper"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

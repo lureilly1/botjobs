@@ -1,0 +1,41 @@
+{
+  "slug": "gig-scout",
+  "name": "Gig Scout",
+  "grokShareUrl": "https://x.ai/bot/5ZuZw6OTVvI6dJ74UVIu1",
+  "botId": "5ZuZw6OTVvI6dJ74UVIu1",
+  "creator": {
+    "handle": "yulikay",
+    "url": "https://x.com/yulikay"
+  },
+  "sourceUrl": "https://x.com/yulikay/status/2112499672623595734",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/gig-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Gig Scout by Yuli",
+    "description": "A research-only scout that finds currently open paid gigs, creator programs and brand partnerships in your niche and sends you up to 3 vetted picks...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "research",
+    "growth",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/gig-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

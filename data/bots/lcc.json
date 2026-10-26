@@ -1,0 +1,43 @@
+{
+  "slug": "lcc",
+  "name": "LCCポーカー遠征サポーター",
+  "grokShareUrl": "https://x.ai/bot/bcB5JEpUXmwNHgyNphT2k",
+  "botId": "bcB5JEpUXmwNHgyNphT2k",
+  "creator": {
+    "handle": "hiruma_poker",
+    "url": "https://x.com/hiruma_poker"
+  },
+  "sourceUrl": "https://x.com/hiruma_poker/status/2111976460089278725",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/lcc/"
+  },
+  "description": null,
+  "official": {
+    "title": "LCCポーカー遠征サポーター by PokerGarden",
+    "description": "LCCで安く行けるポーカー遠征を、追加料金込みの総額で比べて提案するボット。会社員のポーカープレイヤー向け。",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "personal",
+    "travel",
+    "shopping",
+    "saving-money",
+    "decision-support",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/lcc/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

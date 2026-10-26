@@ -1,0 +1,37 @@
+{
+  "slug": "ligue-1-fantasy",
+  "name": "Ligue 1 Fantasy",
+  "grokShareUrl": "https://x.ai/bot/gO9t05szCsj7iU-4nFehM",
+  "botId": "gO9t05szCsj7iU-4nFehM",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/ligue-1-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "Ligue 1 Fantasy by Hernan",
+    "description": "Your Ligue 1 Fantasy companion. It builds your team each matchday, picks your captain and tracks your results, with data behind every pick.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ligue-1-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

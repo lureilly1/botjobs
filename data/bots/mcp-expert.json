@@ -1,0 +1,42 @@
+{
+  "slug": "mcp-expert",
+  "name": "MCP Expert",
+  "grokShareUrl": "https://x.ai/bot/7xSkMMmBQoQJmyuXTSYhx",
+  "botId": "7xSkMMmBQoQJmyuXTSYhx",
+  "creator": {
+    "handle": "MikeBillettJr",
+    "url": "https://x.com/MikeBillettJr"
+  },
+  "sourceUrl": "https://x.com/MikeBillettJr/status/2112686465691816410",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/mcp-expert/"
+  },
+  "description": null,
+  "official": {
+    "title": "MCP Expert by Mike",
+    "description": "Designs, reviews and grades MCP servers against the current MCP spec, and plans polite, budgeted live tests that respect bot-protected sites. For teams...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "engineering",
+    "research",
+    "data",
+    "on-demand"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/mcp-expert/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

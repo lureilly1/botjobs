@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Daily Verse by Wayne",
-    "description": "A personal Bible-verse-of-the-day companion. Each morning it sends one verse (text and optional voice memo) picked for who you are and what you're...",
+    "description": "A personal Bible-verse-of-the-day companion. Each morning it checks in briefly and picks one fresh verse for what you're facing, then sends a weekly...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

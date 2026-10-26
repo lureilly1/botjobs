@@ -1,0 +1,37 @@
+{
+  "slug": "cbs-sports-fantasy",
+  "name": "CBS Sports Fantasy",
+  "grokShareUrl": "https://x.ai/bot/zFmK_Bao-y1ikFsfEH9wq",
+  "botId": "zFmK_Bao-y1ikFsfEH9wq",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/cbs-sports-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "CBS Sports Fantasy by Hernan",
+    "description": "Your CBS Sports Fantasy companion. Weekly lineup, waiver, trade and drop ideas backed by data, with a safe and a risky option.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cbs-sports-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

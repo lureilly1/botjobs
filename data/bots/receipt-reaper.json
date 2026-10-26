@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Receipt Reaper by Brian",
-    "description": "Hunts forgotten SaaS in your Gmail, scores a Zombie Index, and opens a playful lavender HTML autopsy — cancel paths optional, never cancels without your...",
+    "title": "Buy Elsewhere by Brian",
+    "description": "Buys from brand sites and other retailers when Amazon blocks bots or has a worse deal. Compares, carts, and checks out only after you approve the exact...",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

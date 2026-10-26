@@ -14,10 +14,10 @@
   },
   "description": "Handles the signature workflow through SumoSign: documents go up, fields get positioned, and the request goes out to a human signer. Runs on the customer's own API key, which new accounts receive free at signup.",
   "official": {
-    "title": "SumoSign by Keith",
-    "description": "Sends documents for human signature via SumoSign. Needs only the client's own API key. New users get a free key at signup, then upload, place fields,...",
+    "title": "Meeting to Money by Keith",
+    "description": "Turns a sales meeting into a priced proposal, a signed go-ahead, an invoice, and payment chase. You approve every send. For freelancers and small agencies.",
     "resolves": true,
-    "fetchedAt": "2026-10-12"
+    "fetchedAt": "2026-10-26"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-12",
+  "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-10-19"
+  "lastSeenAt": "2026-10-26"
 }

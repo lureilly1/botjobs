@@ -1,0 +1,41 @@
+{
+  "slug": "fraud-scout",
+  "name": "Fraud Scout",
+  "grokShareUrl": "https://x.ai/bot/JHSAxXQxijbB6PeopDHXh",
+  "botId": "JHSAxXQxijbB6PeopDHXh",
+  "creator": {
+    "handle": "EzekielB6516",
+    "url": "https://x.com/EzekielB6516"
+  },
+  "sourceUrl": "https://x.com/EzekielB6516/status/2112634831939207660",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/fraud-scout/"
+  },
+  "description": null,
+  "official": {
+    "title": "Fraud Scout by Christopher",
+    "description": "Scans free public federal health care data (OIG exclusions, CMS Medicare billing and ownership, NPI registry) for possible fraud leads in hospice, home...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "research",
+    "data",
+    "business",
+    "monitoring"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/fraud-scout/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

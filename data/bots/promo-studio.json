@@ -1,0 +1,43 @@
+{
+  "slug": "promo-studio",
+  "name": "Promo Studio",
+  "grokShareUrl": "https://x.ai/bot/ybXMrluMLTr7EU0ohttgX",
+  "botId": "ybXMrluMLTr7EU0ohttgX",
+  "creator": {
+    "handle": "iamjeevanvj",
+    "url": "https://x.com/iamjeevanvj"
+  },
+  "sourceUrl": "https://x.com/iamjeevanvj/status/2112687663761572325",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/promo-studio/"
+  },
+  "description": null,
+  "official": {
+    "title": "Promo Studio by jeevan",
+    "description": "A short-form video producer that turns any app or website into polished vertical promos for TikTok, Instagram Reels, YouTube Shorts and LinkedIn, built...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "marketer",
+    "content",
+    "video",
+    "growth",
+    "social-media"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/promo-studio/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

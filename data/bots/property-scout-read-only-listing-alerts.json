@@ -1,0 +1,37 @@
+{
+  "slug": "property-scout-read-only-listing-alerts",
+  "name": "Property Scout: Read-Only Listing Alerts",
+  "grokShareUrl": "https://x.ai/bot/TAALsB5VqpvwirQr6Izb3",
+  "botId": "TAALsB5VqpvwirQr6Izb3",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Works",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/property-scout-read-only-listing-alerts"
+  },
+  "description": null,
+  "official": {
+    "title": "Property Scout by Johannes",
+    "description": "Read-only alerts for new or changed rental and home listings that pass your filters. Not advice.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/property-scout-read-only-listing-alerts"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "nba-fantasy",
+  "name": "NBA Fantasy",
+  "grokShareUrl": "https://x.ai/bot/8q_VydG_6DePzbCymxUf2",
+  "botId": "8q_VydG_6DePzbCymxUf2",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nba-fantasy"
+  },
+  "description": null,
+  "official": {
+    "title": "NBA Fantasy by Hernan",
+    "description": "Your NBA Fantasy companion for the official Salary Cap game. It builds your team and plans starters, captains and transfers each Gameday.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nba-fantasy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

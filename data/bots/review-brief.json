@@ -1,0 +1,39 @@
+{
+  "slug": "review-brief",
+  "name": "Review Brief",
+  "grokShareUrl": "https://x.ai/bot/XftMzXd6cq-DT_ZLvdoy5",
+  "botId": "XftMzXd6cq-DT_ZLvdoy5",
+  "creator": {
+    "handle": "cu30rry_",
+    "url": "https://x.com/cu30rry_"
+  },
+  "sourceUrl": "https://x.com/cu30rry_/status/2112379529423405424",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/review-brief/"
+  },
+  "description": null,
+  "official": {
+    "title": "Review Brief by Thuong",
+    "description": "Paste a pull request and get the reviewer's brief in under 2 minutes: what changed vs the ticket, risky spots with file and line, what to test by hand,...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "developer",
+    "ops"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/review-brief/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

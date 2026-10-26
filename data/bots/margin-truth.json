@@ -1,0 +1,37 @@
+{
+  "slug": "margin-truth",
+  "name": "Margin Truth",
+  "grokShareUrl": "https://x.ai/bot/1khuH5PXZKlHlnepLKl60",
+  "botId": "1khuH5PXZKlHlnepLKl60",
+  "creator": {
+    "handle": null,
+    "name": "TanLines",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/margin-truth"
+  },
+  "description": null,
+  "official": {
+    "title": "Margin Truth by TanLines",
+    "description": "Unit-econ desk for D2C founders: contribution margin, MER, and POAS from your real exports — daily or weekly — not vanity ROAS. Never invents numbers;...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/margin-truth"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

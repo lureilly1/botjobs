@@ -1,0 +1,43 @@
+{
+  "slug": "shortform-scaler",
+  "name": "Shortform Scaler",
+  "grokShareUrl": "https://x.ai/bot/NA1zDLMoKJZVcjl3mZ2tT",
+  "botId": "NA1zDLMoKJZVcjl3mZ2tT",
+  "creator": {
+    "handle": "ericosiu",
+    "url": "https://x.com/ericosiu"
+  },
+  "sourceUrl": "https://x.com/ericosiu/status/2112016185294258556",
+  "discoveredVia": {
+    "name": "grokbot.dev",
+    "url": "https://grokbot.dev/marketplace/shortform-scaler/"
+  },
+  "description": null,
+  "official": {
+    "title": "Shortform Scaler by Eric",
+    "description": "Turns long-form podcast tape into a daily short-form ship packet. Proposes 4 clips, you pick 2, overlays a 3-second hook on one, then schedules only...",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [
+    "creator",
+    "content",
+    "video",
+    "social-media",
+    "productivity",
+    "scheduled"
+  ],
+  "listings": [
+    {
+      "name": "grokbot.dev",
+      "url": "https://grokbot.dev/marketplace/shortform-scaler/"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}

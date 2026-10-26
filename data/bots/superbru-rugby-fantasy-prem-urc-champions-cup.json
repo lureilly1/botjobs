@@ -1,0 +1,37 @@
+{
+  "slug": "superbru-rugby-fantasy-prem-urc-champions-cup",
+  "name": "Superbru Rugby Fantasy (PREM, URC, Champions Cup)",
+  "grokShareUrl": "https://x.ai/bot/8CiLEmRuOTH385LsmRD5a",
+  "botId": "8CiLEmRuOTH385LsmRD5a",
+  "creator": {
+    "handle": "hdelacampa",
+    "name": null,
+    "url": "https://x.com/hdelacampa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/superbru-rugby-fantasy-prem-urc-champions-cup"
+  },
+  "description": null,
+  "official": {
+    "title": "Superbru Rugby Fantasy by Hernan",
+    "description": "Your companion for the Superbru PREM, URC and Champions Cup fantasy rugby games. It picks your XV, captain and kicker and plans transfers.",
+    "resolves": true,
+    "fetchedAt": "2026-10-26"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/superbru-rugby-fantasy-prem-urc-champions-cup"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-10-26",
+  "firstSeenAt": "2026-10-26",
+  "lastSeenAt": "2026-10-26"
+}
