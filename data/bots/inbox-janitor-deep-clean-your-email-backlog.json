@@ -17,7 +17,7 @@
     "title": "Inbox Janitor by Jennifer",
     "description": "Deep-cleans a buried Gmail or Outlook inbox down to zero in rounds you approve: it audits the backlog, proposes bulk archives, folder or label rules and...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

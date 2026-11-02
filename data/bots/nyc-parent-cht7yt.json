@@ -1,0 +1,37 @@
+{
+  "slug": "nyc-parent-cht7yt",
+  "name": "NYC Parent",
+  "grokShareUrl": "https://x.ai/bot/cht7ytAhe3euOQy2wnEg9",
+  "botId": "cht7ytAhe3euOQy2wnEg9",
+  "creator": {
+    "handle": "DennisonBertram",
+    "name": "Dennison",
+    "url": "https://x.com/DennisonBertram"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nyc-parent"
+  },
+  "description": null,
+  "official": {
+    "title": "NYC Parent",
+    "description": "A family chief of staff for New York City parents. It tracks school, calendar, activities, and household logistics, turns incoming information into next...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nyc-parent"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

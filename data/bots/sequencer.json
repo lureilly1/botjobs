@@ -1,0 +1,37 @@
+{
+  "slug": "sequencer",
+  "name": "Sequencer",
+  "grokShareUrl": "https://x.ai/bot/6xnxd_CHg0cXVMQCwnRrZ",
+  "botId": "6xnxd_CHg0cXVMQCwnRrZ",
+  "creator": {
+    "handle": "SimonLackowskii",
+    "name": "Simon Lackowski",
+    "url": "https://x.com/SimonLackowskii"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sequencer"
+  },
+  "description": null,
+  "official": {
+    "title": "Sequencer",
+    "description": "Runs your outbound sequencer as a staff function. Connects your tools, learns voice and ICP from Gmail and CRM, keeps sequence state on a sheet, and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sequencer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

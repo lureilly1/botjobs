@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Gift Bot by sarah",
-    "description": "A personal gift assistant that remembers birthdays and holidays, keeps gift ideas for the people you shop for, and messages you when it spots a real sale.",
+    "description": "A year-round gift idea keeper: holds gift lists for the people in your life, remembers birthdays and holidays, and messages you when a real sale turns up.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

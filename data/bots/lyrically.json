@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Lyrically by Auny",
-    "description": "A mastering and audio engineering assistant for people who make music with AI tools. It finishes AI exports with crisp vocals, punchy low end, and clean...",
+    "description": "A mastering and audio engineering assistant for people who make music with AI tools. It learns your sound and finishes your exports for release.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "The Table by Markus",
-    "description": "Solo TTRPG with a real party of bots — GM + players with secret deals, hidden hooks, rule arguments, and real dice.",
+    "description": "Play a tabletop RPG solo with a full party of bots: a fair GM, three opinionated players, real dice, and secret side deals.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

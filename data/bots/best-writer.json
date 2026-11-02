@@ -1,0 +1,37 @@
+{
+  "slug": "best-writer",
+  "name": "最棒的作家 · Best Writer",
+  "grokShareUrl": "https://x.ai/bot/SOiUfzR7hp0uLyKLE18zj",
+  "botId": "SOiUfzR7hp0uLyKLE18zj",
+  "creator": {
+    "handle": null,
+    "name": "China Small Boss · AI Diary",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/best-writer"
+  },
+  "description": null,
+  "official": {
+    "title": "最棒的作家 · Best Writer by Rongtian",
+    "description": "主笔：题材→对白／口播／标题／双语；禁空鸡汤，不代发。Lead writer: topic→dialogue, VO, titles, bilingual; no pep talk, no posting.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/best-writer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

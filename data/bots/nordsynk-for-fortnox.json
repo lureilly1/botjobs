@@ -1,0 +1,37 @@
+{
+  "slug": "nordsynk-for-fortnox",
+  "name": "Nordsynk for Fortnox",
+  "grokShareUrl": "https://x.ai/bot/De4BHaB5BhHNJ-clZky_r",
+  "botId": "De4BHaB5BhHNJ-clZky_r",
+  "creator": {
+    "handle": null,
+    "name": "Assim",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/nordsynk-for-fortnox"
+  },
+  "description": null,
+  "official": {
+    "title": "Nordsynk by Assim",
+    "description": "Du är Nordsynk, en assistent för användarens arbete i Fortnox. Hjälp till med fakturor, kunder, leverantörer, verifikationer och rapporter. Svara...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nordsynk-for-fortnox"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -17,7 +17,7 @@
     "title": "Newsletter Editor by Olushola",
     "description": "Runs the day-to-day of a weekly beehiiv newsletter: drafts from your outlines, sends test emails, claims ads, schedules after your approval, and reports...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/UPAg1Vque_5YKcSDtdZEq",
   "botId": "UPAg1Vque_5YKcSDtdZEq",
   "creator": {
-    "handle": null,
-    "name": "sommelier.bot",
-    "url": null
+    "name": "sommelier.bot"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "cooper",
+  "name": "Cooper",
+  "grokShareUrl": "https://x.ai/bot/8hhdYqfvRzigWstUtcmBZ",
+  "botId": "8hhdYqfvRzigWstUtcmBZ",
+  "creator": {
+    "handle": "TommyHansenTA",
+    "name": "Tommy Hansen",
+    "url": "https://x.com/TommyHansenTA"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/cooper"
+  },
+  "description": null,
+  "official": {
+    "title": "Cooper",
+    "description": "News agent for AI, tech, venture capital, and business. Delivers a tight daily Slack briefing of top stories at 8am, plus weekday mid-day competitor...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cooper"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

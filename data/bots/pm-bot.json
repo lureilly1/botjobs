@@ -1,0 +1,37 @@
+{
+  "slug": "pm-bot",
+  "name": "PM bot",
+  "grokShareUrl": "https://x.ai/bot/FeeqMRMJr2jwixCROZcIh",
+  "botId": "FeeqMRMJr2jwixCROZcIh",
+  "creator": {
+    "handle": null,
+    "name": "Ulysses Ng",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/pm-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "PM bot",
+    "description": "Acts as your PM. Writes the dated cut: what's in, what's out, and how you'll know it's done. Engineering doesn't start until you approve it.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pm-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

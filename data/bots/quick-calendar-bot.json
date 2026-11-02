@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Quick Calendar Bot by James",
-    "description": "A friendly assistant that makes adding things to your calendar as frictionless as possible and reminds you whenever you need it. Created by James Rule....",
+    "title": "Quick Calendar Bot 3.0 by James",
+    "description": "Add events for the month or the whole year just by saying or typing them. You get a reminder before each one and a ping the moment it starts. Beginner...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

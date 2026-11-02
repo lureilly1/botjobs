@@ -1,0 +1,37 @@
+{
+  "slug": "gtm-prospecting",
+  "name": "GTM Prospecting",
+  "grokShareUrl": "https://x.ai/bot/RpAQeGjhzaiO6_Rq_4fyC",
+  "botId": "RpAQeGjhzaiO6_Rq_4fyC",
+  "creator": {
+    "handle": null,
+    "name": "Caro Scalercio",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/gtm-prospecting"
+  },
+  "description": null,
+  "official": {
+    "title": "GTM Prospecting",
+    "description": "Turns an ideal customer profile into a focused prospect list, adds useful context, and checks for existing relationships. Drafts first-touch email and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gtm-prospecting"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

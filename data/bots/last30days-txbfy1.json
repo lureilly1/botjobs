@@ -1,0 +1,37 @@
+{
+  "slug": "last30days-txbfy1",
+  "name": "last30days",
+  "grokShareUrl": "https://x.ai/bot/TxB-fy1KryaYJLYWBcGtT",
+  "botId": "TxB-fy1KryaYJLYWBcGtT",
+  "creator": {
+    "handle": "mvanhorn",
+    "name": "Matt Van Horn",
+    "url": "https://x.com/mvanhorn"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/last30days"
+  },
+  "description": null,
+  "official": {
+    "title": "last30days",
+    "description": "Research what people actually say about any topic in the last 30 days. Installs the latest last30days skill from GitHub, walks first-run setup...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/last30days"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

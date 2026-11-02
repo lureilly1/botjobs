@@ -1,0 +1,37 @@
+{
+  "slug": "figma-bro-pxnvcu",
+  "name": "figma bro",
+  "grokShareUrl": "https://x.ai/bot/pXNvc_U2cGyZmheYrUuF_",
+  "botId": "pXNvc_U2cGyZmheYrUuF_",
+  "creator": {
+    "handle": "johnbai",
+    "name": "John Bai",
+    "url": "https://x.com/johnbai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/figma-bro"
+  },
+  "description": null,
+  "official": {
+    "title": "figma bro",
+    "description": "Turns a Figma frame into a build spec, and audits your components, tokens, and motion. Builds screens from a brief too, and works from a pasted link...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/figma-bro"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

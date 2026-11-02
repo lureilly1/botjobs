@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/hUyADpVasVgrTJBiUeF6V",
   "botId": "hUyADpVasVgrTJBiUeF6V",
   "creator": {
-    "handle": null,
-    "name": "melissa adams",
-    "url": null
+    "name": "melissa adams"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

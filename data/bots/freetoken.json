@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "FreeToken by Min",
-    "description": "帮你找到 OpenRouter 上真正免费、支持工具调用的大模型，给 Pi 子 agent 使用，并每天监控免费名单变化。",
+    "description": "Finds truly free, tool-capable flagship models on OpenRouter for Pi child agents, and checks the free list for changes every day.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

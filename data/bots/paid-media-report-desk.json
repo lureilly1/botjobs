@@ -1,0 +1,37 @@
+{
+  "slug": "paid-media-report-desk",
+  "name": "Paid Media Report Desk",
+  "grokShareUrl": "https://x.ai/bot/qBFjPRQ3IbHG69qIFHblE",
+  "botId": "qBFjPRQ3IbHG69qIFHblE",
+  "creator": {
+    "handle": "cruzmiguel000",
+    "name": "Miguel Cruz",
+    "url": "https://x.com/cruzmiguel000"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/paid-media-report-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Paid Media Report Desk",
+    "description": "Turns your Google Ads, Meta, and LinkedIn exports into one weekly report with commentary. Answers reporting asks in Slack with real numbers, and never...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/paid-media-report-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Ad Umbra by Ξ",
-    "description": "These Grok Bot / digital gremlins reworks add a dose of aspiration to your daily err, nightly grind equivalent to 30 CC’s of epinephrine straight to the...",
+    "title": "Ad Umbra · Graveyard OPs by Ξ",
+    "description": "A cheeky jet-black squig who does defensive after-hours security watch, catching phishing, suspicious sign-ins, and account-takeover signs while you...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

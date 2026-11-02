@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Safari 27 MCP by Shagghie",
-    "description": "Makes websites readable by AI agents and search engines. It tests sites with Apple Safari 27's safaridriver MCP, ranks what's broken, and writes...",
+    "title": "Agent-Ready Optimizer (AgentReady + Safari 27) by Shagghie",
+    "description": "Checks whether AI agents can find, read, and act on your website using the AgentReady spec and real Safari 27 browser tests, then ranks the fixes in...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

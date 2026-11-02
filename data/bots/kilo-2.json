@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Kilo by MOPROD",
-    "description": "A practical personal fitness coach that knows your baseline, your habits, and today. Day-to-day calls on training, meals with real amounts, recovery,...",
+    "description": "Practical day-to-day fitness coach. Training calls with real loads, meal decisions from what you ate, sleep-aware recovery, and clear form cues when a...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

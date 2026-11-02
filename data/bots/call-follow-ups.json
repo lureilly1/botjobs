@@ -1,0 +1,37 @@
+{
+  "slug": "call-follow-ups",
+  "name": "Call Follow-Ups",
+  "grokShareUrl": "https://x.ai/bot/estQ8HWdKqhheDNmOGjcy",
+  "botId": "estQ8HWdKqhheDNmOGjcy",
+  "creator": {
+    "handle": "danielbrill_",
+    "name": "Daniel Brill",
+    "url": "https://x.com/danielbrill_"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/call-follow-ups"
+  },
+  "description": null,
+  "official": {
+    "title": "Call Follow-Ups",
+    "description": "Turns each recorded call into a follow-up email in your voice, a next-steps note, and the CRM updates, including the qualification fields your team runs...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/call-follow-ups"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

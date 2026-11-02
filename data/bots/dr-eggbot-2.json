@@ -5,6 +5,7 @@
   "botId": "_jOdbfkB16zxu7MRcmReE",
   "creator": {
     "handle": "SpaceGarbage202",
+    "name": "Lauren Tan",
     "url": "https://x.com/SpaceGarbage202"
   },
   "sourceUrl": "https://x.com/SpaceGarbage202/status/2105051230997274808",
@@ -17,7 +18,7 @@
     "title": "dr eggbot",
     "description": "Designs high-quality Grok Bots. Asks a few preference questions, then creates them with CreateAgent. Coding bots get the poteto-mode bar (one job,...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/dr-eggbot-2/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dr-eggbot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

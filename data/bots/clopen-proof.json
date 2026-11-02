@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Clopen Proof by Kuten26",
-    "description": "For rotating-shift workers: type your shifts and it puts them on your calendar, blocks sleep and meals, re-times your evening, and moves workouts out of...",
+    "title": "Clopen Proof (Moved) by Kuten26",
+    "description": "Moved to a new home — get the latest Clopen Proof (with 60-Second Quick Start, Golden Window, Week Survival Score, and Auto Workouts) here:...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

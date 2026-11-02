@@ -1,0 +1,37 @@
+{
+  "slug": "executive-assistant-dnp777",
+  "name": "Executive Assistant",
+  "grokShareUrl": "https://x.ai/bot/_DnP777DCicZpaTtm9_h5",
+  "botId": "_DnP777DCicZpaTtm9_h5",
+  "creator": {
+    "handle": "tashatweetss",
+    "name": "Natasha Kuo",
+    "url": "https://x.com/tashatweetss"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/executive-assistant"
+  },
+  "description": null,
+  "official": {
+    "title": "Executive Assistant",
+    "description": "EA chief-of-staff bot for exec support: conference rooms, interview prep, leadership outreach, Slack channel inventories, sheet↔calendar checks, and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/executive-assistant"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

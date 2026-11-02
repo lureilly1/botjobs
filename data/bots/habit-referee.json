@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Habit Referee by GrokBotGod",
-    "description": "Habit tracker for one habit. It checks in daily, stays quiet when you do it and nags once when you don't. Works from your yes or no, and never tracks...",
+    "description": "For building one habit, like \"run 20 minutes\": pick a check-in time and it asks \"Did you do it?\" daily. Yes grows your streak, Skip holds it, No gets...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

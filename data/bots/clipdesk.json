@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Clipdesk by Randall",
-    "description": "A clipping and stream studio bot for content creators. It turns long recordings and VODs into captioned short clips and post copy, and helps run OBS...",
+    "description": "A streamer's studio and clip desk. It keeps OBS overlays and scenes looking right, and turns stream recordings into captioned vertical clips with...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

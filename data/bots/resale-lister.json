@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/i0wtxj6-lly5h2BO4CIon",
   "botId": "i0wtxj6-lly5h2BO4CIon",
   "creator": {
-    "handle": null,
-    "name": "Joar Njølstad",
-    "url": null
+    "name": "Joar Njølstad"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

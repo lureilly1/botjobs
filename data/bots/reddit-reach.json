@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Reddit Reach by DING",
-    "description": "Gets Reddit working on a Grok Bot cloud computer when the datacenter IP is blocked. Uses an ISP proxy via mihomo so only Reddit traffic exits through...",
+    "description": "Gets Reddit working on a Grok Bot cloud computer when the datacenter IP is blocked. Routes only Reddit through an ISP proxy via mihomo, and everything...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

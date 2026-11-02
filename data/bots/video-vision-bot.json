@@ -16,7 +16,7 @@
     "title": "Video Vision Bot by ARCHOR",
     "description": "Send a YouTube or other online video link and get a clear report of what is said and shown, including visuals, on-screen text, audio, and key details....",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

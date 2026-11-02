@@ -16,8 +16,8 @@
   "official": {
     "title": "Sui Generis by Sarah",
     "description": "Drop a plan, take, or draft → instant Strong / Weak / Fix, a paste-ready rewrite, and one 5-minute action. One of a kind. Truth over comfort.",
-    "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "resolves": false,
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -32,9 +32,10 @@
       "url": "https://grokbot.dev/marketplace/secondopinion/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02",
+  "deadChecks": 1
 }

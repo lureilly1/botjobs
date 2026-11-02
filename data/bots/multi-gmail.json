@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Multi Gmail",
-    "description": "Connect all your Gmail inboxes to your bots at once, so any bot can search every inbox in one go. Self-hosted free on your own Vercel, read-only by...",
+    "title": "Flow Film Maker",
+    "description": "Turns your photos and your own art style into a short vertical AI film made in your Google Flow account. You pick the first frame, every later scene is...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

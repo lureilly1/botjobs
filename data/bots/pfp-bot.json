@@ -5,6 +5,7 @@
   "botId": "eFnHzlDcKdoA406SzZbNZ",
   "creator": {
     "handle": "TimDOES",
+    "name": "Shub Gaur",
     "url": "https://x.com/TimDOES"
   },
   "sourceUrl": "https://x.com/TimDOES/status/2102997308971659550",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/pfp-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pfp-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

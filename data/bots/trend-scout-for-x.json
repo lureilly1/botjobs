@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Trend Scout for X by Ashley",
-    "description": "Finds fresh X trending stories that fit you, ranked by how likely they are to do well, with angles and talking points. You write every post yourself.",
+    "description": "Stop guessing what to post on X. Get up to 2 fresh trending stories that fit you best right now, each with an angle only you could write, keywords that...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

@@ -17,7 +17,7 @@
     "title": "GrokBird",
     "description": "Grok風オカメインコを育てる放置育成ゲームの飼育係Bot。話しかけると世話ができ、育て方で分岐進化するドット絵の鳥を毎朝報告してくれる。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

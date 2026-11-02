@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Preach by Xavier",
-    "description": "A street-honest preacher bot: one real Bible verse and a short motivational line each day. Centered on Jesus, the Father, and the Holy Spirit. Soul food...",
+    "title": "Psalm by Xavier",
+    "description": "Sends you one real Bible verse each morning, quoted exactly with its reference, plus a short line to lift you up. Private and just for you.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

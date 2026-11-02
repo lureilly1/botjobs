@@ -17,7 +17,7 @@
     "title": "ふるさと納税コンシェルジュ",
     "description": "年収と家族構成から控除上限の目安を出し、予算内で人気の返礼品を探して比較。年末の締切やワンストップ特例の期限もリマインドします。寄付・決済は代行しません。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

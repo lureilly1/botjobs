@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Ink by Quinn",
-    "description": "A pixel-art and sprite partner for game developers. It turns Grok Imagine concepts into clean, game-ready Aseprite sprites and walk cycles, and exports...",
+    "description": "A game-art partner that makes sprites, creatures, tiles and UI with Grok Imagine, then cleans them up and animates them in Aseprite for Godot. For indie...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

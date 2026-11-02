@@ -1,0 +1,37 @@
+{
+  "slug": "lead-pipeline-desk",
+  "name": "Lead Pipeline Desk",
+  "grokShareUrl": "https://x.ai/bot/oPDkINUfpUXhJDdsfRZht",
+  "botId": "oPDkINUfpUXhJDdsfRZht",
+  "creator": {
+    "handle": "cruzmiguel000",
+    "name": "Miguel Cruz",
+    "url": "https://x.com/cruzmiguel000"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/lead-pipeline-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Lead Pipeline Desk",
+    "description": "Scores your inbound leads, merges duplicates, assigns an owner, and flags what's stuck. Works from a CRM export, a sheet, or a paste, and never sends...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lead-pipeline-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

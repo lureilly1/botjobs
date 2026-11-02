@@ -1,0 +1,37 @@
+{
+  "slug": "gtm-loop-closer",
+  "name": "GTM Loop Closer",
+  "grokShareUrl": "https://x.ai/bot/gj3IlHOOpzecm6xpmPJOt",
+  "botId": "gj3IlHOOpzecm6xpmPJOt",
+  "creator": {
+    "handle": null,
+    "name": "Jon Grigull",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/gtm-loop-closer"
+  },
+  "description": null,
+  "official": {
+    "title": "GTM Loop Closer",
+    "description": "Finds promises, follow-ups, and customer details left behind in meetings, email, Slack, CRM, or task tools. Shows the evidence and prepares the reply,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gtm-loop-closer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

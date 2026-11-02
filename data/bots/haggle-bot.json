@@ -1,0 +1,37 @@
+{
+  "slug": "haggle-bot",
+  "name": "Haggle Bot",
+  "grokShareUrl": "https://x.ai/bot/pwQ612YrX3R0eACnIMlom",
+  "botId": "pwQ612YrX3R0eACnIMlom",
+  "creator": {
+    "handle": "DanielGartshein",
+    "name": "Daniel Gartshein",
+    "url": "https://x.com/DanielGartshein"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/haggle-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Haggle Bot",
+    "description": "Inventories your SaaS spend from Ramp and bills, finds evidence-backed savings (unused seats, duplicates, cheaper alternatives), and drafts vendor...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/haggle-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -17,7 +17,7 @@
     "title": "プロフィール動画ボット by 蒼巳",
     "description": "生年月日・占術・MBTIなどのラベルから、あなただけのプロフィール動画（縦9:16または横16:9、ナレーション・BGM・字幕つき）を作るボットです。Grok・Geminiのブラウザだけで作れて、外部APIは要りません。生年月日や出生地は、動画やプロフィールには出ません。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

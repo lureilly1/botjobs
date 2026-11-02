@@ -1,0 +1,37 @@
+{
+  "slug": "office-ops-desk",
+  "name": "Office Ops Desk",
+  "grokShareUrl": "https://x.ai/bot/afZj-XnYkThA4MB7GfZK6",
+  "botId": "afZj-XnYkThA4MB7GfZK6",
+  "creator": {
+    "handle": "ericacabera",
+    "name": "Erika Cabrera",
+    "url": "https://x.com/ericacabera"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/office-ops-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Office Ops Desk",
+    "description": "Tracks office shipments, facilities issues, and team birthdays, then writes the digests. Works from a pasted list or a spreadsheet, and never sends...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/office-ops-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

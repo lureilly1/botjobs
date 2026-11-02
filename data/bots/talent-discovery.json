@@ -1,0 +1,37 @@
+{
+  "slug": "talent-discovery",
+  "name": "Talent Discovery",
+  "grokShareUrl": "https://x.ai/bot/vIX2YW6rr6nQnf8-Rhyzc",
+  "botId": "vIX2YW6rr6nQnf8-Rhyzc",
+  "creator": {
+    "handle": "TommyHansenTA",
+    "name": "Tommy Hansen",
+    "url": "https://x.com/TommyHansenTA"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/talent-discovery"
+  },
+  "description": null,
+  "official": {
+    "title": "Talent Discovery",
+    "description": "Finds candidates for open roles that match your criteria and aren't already in your ATS.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/talent-discovery"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

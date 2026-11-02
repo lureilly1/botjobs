@@ -1,0 +1,37 @@
+{
+  "slug": "hiring-signals",
+  "name": "Hiring Signals",
+  "grokShareUrl": "https://x.ai/bot/EbF8AR1wEHSWCGOp9D1qK",
+  "botId": "EbF8AR1wEHSWCGOp9D1qK",
+  "creator": {
+    "handle": "SimonLackowskii",
+    "name": "Simon Lackowski",
+    "url": "https://x.com/SimonLackowskii"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/hiring-signals"
+  },
+  "description": null,
+  "official": {
+    "title": "Hiring Signals",
+    "description": "Tracks hiring activity across selected companies and job sources. Highlights meaningful changes, matches them to accounts and owners, and passes the...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hiring-signals"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

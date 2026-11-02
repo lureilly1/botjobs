@@ -1,0 +1,37 @@
+{
+  "slug": "website-ops",
+  "name": "Website Ops",
+  "grokShareUrl": "https://x.ai/bot/NYDai_DOI_2pNDIKerrpD",
+  "botId": "NYDai_DOI_2pNDIKerrpD",
+  "creator": {
+    "handle": "joshkim",
+    "name": "Josh Kim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/website-ops"
+  },
+  "description": null,
+  "official": {
+    "title": "Website Ops",
+    "description": "Website operations and content manager. Ships site changes as PRs from your website repo, runs evidence-backed site audits (SEO, content, speed, a11y,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/website-ops"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -17,7 +17,7 @@
     "title": "Claude + Codex ルーター by CHIHIRO",
     "description": "ClaudeとChatGPTのサブスクにつないで、依頼を適した方に振り分けるボット。調べ物や文章はClaude、コードはCodexに任せ、結果を短く返します。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

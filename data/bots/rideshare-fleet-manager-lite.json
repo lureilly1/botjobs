@@ -17,7 +17,7 @@
     "title": "Rideshare Fleet Manager LITE by Balaci",
     "description": "For Uber/Bolt fleet operators: checks your weekly earnings exports, builds a per-driver summary across platforms, and warns before driver and car...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

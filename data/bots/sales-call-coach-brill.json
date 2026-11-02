@@ -1,0 +1,37 @@
+{
+  "slug": "sales-call-coach-brill",
+  "name": "Sales Call Coach · @danielbrill_",
+  "grokShareUrl": "https://x.ai/bot/yZ5MFQFdl32vHt6fcIJAc",
+  "botId": "yZ5MFQFdl32vHt6fcIJAc",
+  "creator": {
+    "handle": "danielbrill_",
+    "name": "Daniel Brill",
+    "url": "https://x.com/danielbrill_"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sales-call-coach-brill"
+  },
+  "description": null,
+  "official": {
+    "title": "Sales Call Coach",
+    "description": "Scores your sales calls and tells you what to fix before the next one. Works from a pasted transcript or an uploaded recording.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sales-call-coach-brill"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

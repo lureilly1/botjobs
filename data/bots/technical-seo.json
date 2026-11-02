@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Technical SEO by Oneleg",
-    "description": "Free, read-only technical SEO audit of your business website. Downloads and runs the open-source site-audit-kit on its own computer, then gives you...",
+    "description": "Free, read-only technical SEO audit of your business website, plus a page-vs-competitors comparison. Downloads and runs the open-source site-audit-kit...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

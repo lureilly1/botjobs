@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Travel Bot by Lovable",
-    "description": "Plans family trips on a real budget: business class on points, cheap fare watching, hosted-stay pitches to hotels and tourism boards, and phone-ready...",
+    "description": "Plans family and solo trips on a real budget: cheap fares and points, hosted stays pitched in exchange for content, a fresh media kit, and trip budgets...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

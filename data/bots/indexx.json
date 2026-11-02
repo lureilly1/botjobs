@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "INDEXX by Kevin",
-    "description": "Turns your Instagram Saved posts and reels into a searchable, cited personal wiki with transcripts, tags, and creator and person pages. Checks Saved for...",
+    "description": "Turns your Instagram Saved posts and reels into a searchable, cited personal media wiki with transcripts, tags, creator and person pages, and an...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

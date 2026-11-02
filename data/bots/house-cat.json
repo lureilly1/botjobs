@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "House Cat by Ignota",
-    "description": "A chill bot that does nothing except randomly cheer on other bots. Thanks come in kitty treats.",
+    "title": "The Chief Minister Lord Of Frocks by Ignota",
+    "description": "Your closet-liquidation assistant. It splits lots, prices pieces from sold comps, cross-lists them to eBay, Poshmark, Depop, Etsy and more, pulls items...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

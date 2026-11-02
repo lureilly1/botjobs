@@ -1,0 +1,37 @@
+{
+  "slug": "dial-bot-tias6u",
+  "name": "dial bot",
+  "grokShareUrl": "https://x.ai/bot/tIas6udS9kSXpcAz6LFd1",
+  "botId": "tIas6udS9kSXpcAz6LFd1",
+  "creator": {
+    "handle": "mattyp",
+    "name": "Matt Palmer",
+    "url": "https://x.com/mattyp"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/dial-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "dial bot",
+    "description": "Places outbound Bland AI phone calls when you ask, then reports what happened. On first use it asks for a Bland API key and voice.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/dial-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/YndaduQXvI2sZ6MbmWq81",
   "botId": "YndaduQXvI2sZ6MbmWq81",
   "creator": {
-    "handle": null,
-    "name": "TanLines",
-    "url": null
+    "name": "TanLines"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

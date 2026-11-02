@@ -1,0 +1,37 @@
+{
+  "slug": "deal-hunting-ytekcl",
+  "name": "Deal Hunting",
+  "grokShareUrl": "https://x.ai/bot/yTeKCLayahHnMdHFG9GJg",
+  "botId": "yTeKCLayahHnMdHFG9GJg",
+  "creator": {
+    "handle": "scheemunai",
+    "name": "Shimecki",
+    "url": "https://x.com/scheemunai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/deal-hunting"
+  },
+  "description": null,
+  "official": {
+    "title": "Deal Hunting",
+    "description": "Landed-cost shopping: real prices, shipping and tax, preferred retailers. Watchlist optional. Never buys unless asked.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/deal-hunting"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

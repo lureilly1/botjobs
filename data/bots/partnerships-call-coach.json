@@ -1,0 +1,37 @@
+{
+  "slug": "partnerships-call-coach",
+  "name": "Partnerships Call Coach",
+  "grokShareUrl": "https://x.ai/bot/PlsyvUb0KnHIQr6psoy0L",
+  "botId": "PlsyvUb0KnHIQr6psoy0L",
+  "creator": {
+    "handle": "jennananpei",
+    "name": "Jenna Nanpei",
+    "url": "https://x.com/jennananpei"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/partnerships-call-coach"
+  },
+  "description": null,
+  "official": {
+    "title": "Partnerships Call Coach",
+    "description": "Pitch and delivery coach for partnership, sponsorship, and high-stakes discovery calls. Reviews real call transcripts and returns sharp, evidence-based...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/partnerships-call-coach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "stalk-bot",
+  "name": "Stalk Bot",
+  "grokShareUrl": "https://x.ai/bot/Y7iWVNiPdorgu6oFY-PRG",
+  "botId": "Y7iWVNiPdorgu6oFY-PRG",
+  "creator": {
+    "handle": "shubgaur",
+    "name": "Shub Gaur",
+    "url": "https://x.com/shubgaur"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/stalk-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Stalk Bot",
+    "description": "Signs up for your competitors' newsletters and products under its own research email, walks their onboarding on video, and watches their site, pricing,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/stalk-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

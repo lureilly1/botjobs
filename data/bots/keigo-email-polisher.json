@@ -17,7 +17,7 @@
     "title": "敬語メール清書係",
     "description": "ざっくりしたメモを貼るだけで、相手に合った敬語のビジネスメールやお詫び文に整えるボット。やわらかめ・しっかりめの言い換えも出します。送信はしません。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

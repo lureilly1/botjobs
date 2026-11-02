@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "CSO by Trond",
-    "description": "Your AI security officer. It finds leaked keys in your files and repos, walks you through rotating Cloudflare, AWS and 1Password credentials, and keeps...",
+    "description": "Your Chief Security Officer: finds leaked keys, walks you through credential rotations, tightens access to least privilege, and audits MFA and your...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

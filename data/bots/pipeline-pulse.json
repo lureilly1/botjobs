@@ -1,0 +1,37 @@
+{
+  "slug": "pipeline-pulse",
+  "name": "Pipeline Pulse",
+  "grokShareUrl": "https://x.ai/bot/X-hZf_AreWNt-ZQPYs0Ev",
+  "botId": "X-hZf_AreWNt-ZQPYs0Ev",
+  "creator": {
+    "handle": "kristaletz",
+    "name": "Krista Letz",
+    "url": "https://x.com/kristaletz"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/pipeline-pulse"
+  },
+  "description": null,
+  "official": {
+    "title": "Pipeline Pulse",
+    "description": "Scans your full pipeline for movement, stale next steps, forecast risk, and CRM gaps. Shows what changed across the book and drafts the updates needed...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pipeline-pulse"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

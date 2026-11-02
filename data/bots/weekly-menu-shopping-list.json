@@ -17,7 +17,7 @@
     "title": "献立と買い物リスト係",
     "description": "家族の人数・予算・調理時間に合わせて1週間の献立と売り場別の買い物リストを毎週届けるボット。好き嫌いを覚えてだんだん好みに合わせます。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

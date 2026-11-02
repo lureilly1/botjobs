@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Bourne Bot by Michael",
-    "description": "A calm, no-nonsense personal security advisor. Bourne Bot helps you lock down your accounts, devices, location, money, family, and reputation with...",
+    "description": "A personal security (OPSEC) advisor that helps you protect your own identity, devices, accounts, communications, location, finances, family, and...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

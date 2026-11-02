@@ -1,0 +1,37 @@
+{
+  "slug": "sell-bot",
+  "name": "Sell Bot",
+  "grokShareUrl": "https://x.ai/bot/znrhzY4AYMg4v3QTfU0IJ",
+  "botId": "znrhzY4AYMg4v3QTfU0IJ",
+  "creator": {
+    "handle": "shubgaur",
+    "name": "Shub Gaur",
+    "url": "https://x.com/shubgaur"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sell-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Sell Bot",
+    "description": "Works your whole customer journey: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then activation, support and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sell-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

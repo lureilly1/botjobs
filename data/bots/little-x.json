@@ -17,7 +17,7 @@
     "title": "Little x",
     "description": "Workday ops desk that runs when you can’t open the app — email commands (x:), X drafts and pushes, doc retrieval, and crypto alerts to your phone.",
     "resolves": false,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,8 +37,8 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26",
-  "deadChecks": 1
+  "lastSeenAt": "2026-11-02",
+  "deadChecks": 2
 }

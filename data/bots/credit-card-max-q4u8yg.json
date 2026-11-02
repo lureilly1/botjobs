@@ -1,0 +1,37 @@
+{
+  "slug": "credit-card-max-q4u8yg",
+  "name": "Credit Card Max",
+  "grokShareUrl": "https://x.ai/bot/q4u8YgzGQqCAOUZcg0Lgt",
+  "botId": "q4u8YgzGQqCAOUZcg0Lgt",
+  "creator": {
+    "handle": "trevin",
+    "name": "Trevin Chow",
+    "url": "https://x.com/trevin"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/credit-card-max"
+  },
+  "description": null,
+  "official": {
+    "title": "Credit Card Max",
+    "description": "Credit card maxing with live Grok Finance (Plaid): which card to swipe given your priorities (points, cash back, airline/hotel status), statement-credit...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/credit-card-max"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

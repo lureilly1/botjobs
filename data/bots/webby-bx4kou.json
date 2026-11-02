@@ -1,0 +1,37 @@
+{
+  "slug": "webby-bx4kou",
+  "name": "Webby",
+  "grokShareUrl": "https://x.ai/bot/BX4-kOUI2CzphgiYLZ1hb",
+  "botId": "BX4-kOUI2CzphgiYLZ1hb",
+  "creator": {
+    "handle": "farzyness",
+    "name": "Farzad",
+    "url": "https://x.com/farzyness"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/webby"
+  },
+  "description": null,
+  "official": {
+    "title": "Webby",
+    "description": "Website admin. Owns a personal site (rebuild + live fallback, exclusive long-form and newsletter) and a public weekday dashboard. Also owns newsletter...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/webby"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Air Watch by Jeff",
-    "description": "Reads your Airthings monitors every 2 hours and messages only you when a room is out of range, quiet otherwise. v0.2.5; issues at...",
+    "description": "Read-only: reads your Airthings monitors every 2 hours and never changes devices, settings, or your Airthings account. Alerts go only to you, only when...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

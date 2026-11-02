@@ -17,7 +17,7 @@
     "title": "ポイ活・セール番人",
     "description": "Amazon・楽天・Yahoo!の欲しい物を目標価格とポイント還元込みで見張り、値下がりや大型キャンペーンの時だけ知らせるボット。購入は代行しません。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

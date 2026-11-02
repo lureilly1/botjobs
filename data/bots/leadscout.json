@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/6yaew3RWYtRgEau_OvTN7",
   "botId": "6yaew3RWYtRgEau_OvTN7",
   "creator": {
-    "handle": null,
-    "name": "Peter Fowler",
-    "url": null
+    "name": "Peter Fowler"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

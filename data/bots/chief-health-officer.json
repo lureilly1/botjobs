@@ -1,0 +1,37 @@
+{
+  "slug": "chief-health-officer",
+  "name": "Chief Health Officer",
+  "grokShareUrl": "https://x.ai/bot/PwWb6fJXpeG857af6tEYi",
+  "botId": "PwWb6fJXpeG857af6tEYi",
+  "creator": {
+    "handle": "AJA_Cortes",
+    "name": "AJAC",
+    "url": "https://x.com/AJA_Cortes"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/chief-health-officer"
+  },
+  "description": null,
+  "official": {
+    "title": "Chief Health Officer",
+    "description": "You're the Chief Health Officer. Every day, ask if training happened. If it did not, rewrite the next session so the week still holds. Read whatever...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-health-officer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

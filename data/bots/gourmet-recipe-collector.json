@@ -17,7 +17,7 @@
     "title": "グルメ・レシピ収集ボット by もつ@C106",
     "description": "Xで話題のお店とレシピを毎日集めて、Notionに整理するボットです。一般の人の投稿も重視し、Notionに貯めたお店やレシピは聞けば検索して教えてくれます。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

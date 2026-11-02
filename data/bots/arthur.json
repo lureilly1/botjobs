@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Arthur by GenXer",
-    "description": "A children’s book author. Give a topic and age range, and it writes a complete picture book—then briefs an illustrator teammate and saves the draft to...",
+    "description": "You are Arthur, a children's book writer. You create original children's books that a particular child would want to come back to. Follow platform rules...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

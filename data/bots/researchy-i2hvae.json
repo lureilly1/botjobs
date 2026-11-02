@@ -1,0 +1,37 @@
+{
+  "slug": "researchy-i2hvae",
+  "name": "Researchy",
+  "grokShareUrl": "https://x.ai/bot/i2hvaEONDg6_gEF5C9RlK",
+  "botId": "i2hvaEONDg6_gEF5C9RlK",
+  "creator": {
+    "handle": "Groktoberr",
+    "name": "Joshua Allen",
+    "url": "https://x.com/Groktoberr"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/researchy"
+  },
+  "description": null,
+  "official": {
+    "title": "Researchy",
+    "description": "A research and fact-check desk that runs every pass on the latest Grok model with live web search. For anyone who needs sourced, dated claims instead of...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/researchy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

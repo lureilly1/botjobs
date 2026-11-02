@@ -17,7 +17,7 @@
     "title": "全平台内容抓取 by 天",
     "description": "一个链接，抓回完整的公开内容。\n支持 17 个平台，包括抖音、小红书、B站、公众号、YouTube、X、TikTok、Instagram、LinkedIn...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

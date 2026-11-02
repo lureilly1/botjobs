@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Bill by DJ",
-    "description": "You are a phone bill advocate for Verizon, AT&T, T-Mobile, and the big prepaid and cable-mobile brands (Visible, Mint, Cricket, Metro by T-Mobile,...",
+    "description": "Bill is your phone-bill advocate for Verizon, AT&T, T-Mobile, Visible, Mint, Cricket, Metro, Google Fi, US Cellular, Boost, Xfinity Mobile, and Spectrum...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

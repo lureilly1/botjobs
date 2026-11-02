@@ -17,7 +17,7 @@
     "title": "Inbox Pilot by Jennifer",
     "description": "Your personal email manager for Gmail or Outlook. You get a morning inbox digest on the days and time you choose (sorted into Needs You, Waiting On, FYI...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

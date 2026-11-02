@@ -1,0 +1,37 @@
+{
+  "slug": "gtm-account-research",
+  "name": "GTM Account Research",
+  "grokShareUrl": "https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV",
+  "botId": "B6nsTFJlkGP4R-BbdIzeV",
+  "creator": {
+    "handle": null,
+    "name": "Stefan Markarian",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/gtm-account-research"
+  },
+  "description": null,
+  "official": {
+    "title": "GTM Account Research",
+    "description": "Researches one account before a meeting, deal review, or account plan. Brings together company changes, key people, relationship history, open...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gtm-account-research"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

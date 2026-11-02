@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Revenue Signal Radar by Eric",
-    "description": "Weekday revenue-action radar for HubSpot shops. Ranks expansion, stalled deals, and closed-lost revival with evidence and draft next steps. Read-only...",
+    "description": "Finds and ranks your best current-quarter revenue actions across expansion, stalled open-deal revival, and closed-lost revival, with fresh evidence and...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

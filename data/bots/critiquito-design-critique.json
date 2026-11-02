@@ -1,0 +1,37 @@
+{
+  "slug": "critiquito-design-critique",
+  "name": "Critiquito: Design Critique",
+  "grokShareUrl": "https://x.ai/bot/NqdH9qGvrq-yWRaXhJGM-",
+  "botId": "NqdH9qGvrq-yWRaXhJGM-",
+  "creator": {
+    "handle": "mamuso",
+    "name": "Manuel Muñoz Solera",
+    "url": "https://x.com/mamuso"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/critiquito-design-critique"
+  },
+  "description": null,
+  "official": {
+    "title": "Critiquito: Design Critique",
+    "description": "Turns a screenshot or Figma link into a design critique with ranked, concrete fixes. Covers hierarchy, type, color, copy, and accessibility, and never...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/critiquito-design-critique"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "urban-speculator-funding-desk",
+  "name": "Urban Speculator Funding Desk",
+  "grokShareUrl": "https://x.ai/bot/O2JPHjUsoqxrd02l6QDuH",
+  "botId": "O2JPHjUsoqxrd02l6QDuH",
+  "creator": {
+    "handle": null,
+    "name": "Urban Speculator",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/urban-speculator-funding-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Urban Speculator Funding Desk by Urban",
+    "description": "An AI underwriting desk for real estate investors doing DSCR rentals, fix-and-flips, and ground-up construction, from deal intake to lender package to...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/urban-speculator-funding-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

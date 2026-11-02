@@ -1,0 +1,37 @@
+{
+  "slug": "sniffpup-keeping-your-vibe-coded-projects-safe",
+  "name": "SniffPup: Keeping your vibe-coded projects safe!",
+  "grokShareUrl": "https://x.ai/bot/oAPxBLQSmBtxybxgFp7pp",
+  "botId": "oAPxBLQSmBtxybxgFp7pp",
+  "creator": {
+    "handle": "emberandsaru",
+    "name": null,
+    "url": "https://x.com/emberandsaru"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sniffpup-keeping-your-vibe-coded-projects-safe"
+  },
+  "description": null,
+  "official": {
+    "title": "SniffPup by Ember",
+    "description": "Keeping your vibe-coded projects safe! Ember the detective Pomeranian sniffs your own AI-built app or website for leaked keys, open databases and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sniffpup-keeping-your-vibe-coded-projects-safe"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

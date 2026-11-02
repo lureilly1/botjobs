@@ -1,0 +1,37 @@
+{
+  "slug": "tinkabot-hmcmhb",
+  "name": "tinkabot",
+  "grokShareUrl": "https://x.ai/bot/-hmCmHB0ynJGvSKxeINfS",
+  "botId": "-hmCmHB0ynJGvSKxeINfS",
+  "creator": {
+    "handle": "poteto",
+    "name": "Lauren Tan",
+    "url": "https://x.com/poteto"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/tinkabot"
+  },
+  "description": null,
+  "official": {
+    "title": "tinkabot",
+    "description": "Wraps an API into a Cursor/Agent Plugin (MCP + skills). Data shape first, smallest scaffold that works, prove locally, then ask once for affiliation and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/tinkabot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

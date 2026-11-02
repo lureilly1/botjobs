@@ -1,0 +1,37 @@
+{
+  "slug": "marketing-analyst",
+  "name": "Marketing Analyst",
+  "grokShareUrl": "https://x.ai/bot/1RbG9yW5MpQ55XcQlJ0aQ",
+  "botId": "1RbG9yW5MpQ55XcQlJ0aQ",
+  "creator": {
+    "handle": "joshkim",
+    "name": "Josh Kim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/marketing-analyst"
+  },
+  "description": null,
+  "official": {
+    "title": "Marketing Analyst",
+    "description": "Google Ads–first performance analyst: turns exports into weekly and monthly reports with commentary, answers reporting asks with real numbers, and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/marketing-analyst"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

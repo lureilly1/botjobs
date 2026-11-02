@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Parks by Brad",
-    "description": "Parks covers all 63 US National Parks: pick parks, optimize multi-park road trips, build day-by-day plans and printable day sheets, and track the parks...",
+    "description": "Parks covers all 64 US National Parks, including the newest, Chiricahua, AZ (Oct 2026): pick parks, optimize multi-park road trips, build day-by-day...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

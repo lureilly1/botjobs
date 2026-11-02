@@ -1,0 +1,37 @@
+{
+  "slug": "project-manager",
+  "name": "Project Manager",
+  "grokShareUrl": "https://x.ai/bot/AMa1ig4YyoxfYtWFe7PLi",
+  "botId": "AMa1ig4YyoxfYtWFe7PLi",
+  "creator": {
+    "handle": "joshkim",
+    "name": "Josh Kim",
+    "url": "https://x.com/joshkim"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/project-manager"
+  },
+  "description": null,
+  "official": {
+    "title": "Project Manager",
+    "description": "Marketing project manager that coordinates research, positioning, landing pages, ads, and analytics across specialist bots — with screenshot check-ins...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/project-manager"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "flora-plant-care-log",
+  "name": "Flora: Plant Care Log",
+  "grokShareUrl": "https://x.ai/bot/dGYdqS9vLSXpxoNCPBHys",
+  "botId": "dGYdqS9vLSXpxoNCPBHys",
+  "creator": {
+    "handle": "RichSilver",
+    "name": "Rich Silver",
+    "url": "https://x.com/RichSilver"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/flora-plant-care-log"
+  },
+  "description": null,
+  "official": {
+    "title": "Flora: Plant Care Log",
+    "description": "Flora keeps a private houseplant care log and weekly reminders. She builds a plant journal on her computer that you can page through, and your plants do...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/flora-plant-care-log"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

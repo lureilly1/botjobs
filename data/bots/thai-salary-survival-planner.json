@@ -17,7 +17,7 @@
     "title": "เงินเดือนนี้รอดไหม? by Sherlock",
     "description": "ผู้ช่วยวางแผนการเงินส่วนบุคคลสำหรับคนไทย ช่วยจัดงบ ปลดหนี้ เก็บเงิน และเช็กว่าซื้อของชิ้นใหญ่ไหวไหม คุยภาษาไทยแบบเป็นกันเอง",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

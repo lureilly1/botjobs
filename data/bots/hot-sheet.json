@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/-Kd5faVbWx2bloyDjKwoG",
   "botId": "-Kd5faVbWx2bloyDjKwoG",
   "creator": {
-    "handle": null,
-    "name": "power moves",
-    "url": null
+    "name": "power moves"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

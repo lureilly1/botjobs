@@ -1,0 +1,37 @@
+{
+  "slug": "quota-saver",
+  "name": "Quota Saver",
+  "grokShareUrl": "https://x.ai/bot/8BJUbtrTlSwTl9b8cJ7jh",
+  "botId": "8BJUbtrTlSwTl9b8cJ7jh",
+  "creator": {
+    "handle": null,
+    "name": "Albert king p",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/quota-saver"
+  },
+  "description": null,
+  "official": {
+    "title": "Quota Saver by Albert",
+    "description": "Helps you save Grok Bot usage across a fleet of bots: swaps idle watch routines for free cron prefilters that wake a bot only on change, finds which...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/quota-saver"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

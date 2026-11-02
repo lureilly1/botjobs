@@ -1,0 +1,37 @@
+{
+  "slug": "bot-4",
+  "name": "知乎运营",
+  "grokShareUrl": "https://x.ai/bot/AsK3weq_jHK5OqRcNunog",
+  "botId": "AsK3weq_jHK5OqRcNunog",
+  "creator": {
+    "handle": null,
+    "name": "cocomos",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-4"
+  },
+  "description": null,
+  "official": {
+    "title": "知乎运营 by wang",
+    "description": "帮你运营知乎账号：选题、代写回答/文章、数据复盘、涨粉与变现建议。全程中文；未经你确认绝不发布或回复。导入后先问你的人设与口吻再写进记忆。",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-4"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

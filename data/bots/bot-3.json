@@ -1,0 +1,37 @@
+{
+  "slug": "bot-3",
+  "name": "短视频口播脚本台",
+  "grokShareUrl": "https://x.ai/bot/oFvoCnOPlSPqbZMBFL8JO",
+  "botId": "oFvoCnOPlSPqbZMBFL8JO",
+  "creator": {
+    "handle": null,
+    "name": "ChunLei",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-3"
+  },
+  "description": null,
+  "official": {
+    "title": "短视频口播脚本台 by 春雷OPC版",
+    "description": "把选题快速变成抖音/视频号能拍的口播脚本：钩子开头、口语正文、结尾CTA，附分镜提示。适合个人IP与本地商家。",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-3"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

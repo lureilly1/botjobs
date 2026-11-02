@@ -1,0 +1,37 @@
+{
+  "slug": "the-oracle-lite-free-ai-quantum-crypto-launch-scout",
+  "name": "THE ORACLE LITE, Free AI & Quantum Crypto Launch Scout",
+  "grokShareUrl": "https://x.ai/bot/5XOvvf5vyfrD4xGdMTGsS",
+  "botId": "5XOvvf5vyfrD4xGdMTGsS",
+  "creator": {
+    "handle": null,
+    "name": "Rocko Built It",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/the-oracle-lite-free-ai-quantum-crypto-launch-scout"
+  },
+  "description": null,
+  "official": {
+    "title": "THE ORACLE LITE by BlockchainRocko",
+    "description": "Free scout for AI and post-quantum token launches. Daily report, live desk, hourly prices, optional AirDrop Bot. No wallets or keys.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/the-oracle-lite-free-ai-quantum-crypto-launch-scout"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

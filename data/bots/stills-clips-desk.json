@@ -1,0 +1,37 @@
+{
+  "slug": "stills-clips-desk",
+  "name": "Stills & Clips Desk",
+  "grokShareUrl": "https://x.ai/bot/V8XugyLxzbQXLM9o5b3B-",
+  "botId": "V8XugyLxzbQXLM9o5b3B-",
+  "creator": {
+    "handle": "mattyp",
+    "name": "Matt Palmer",
+    "url": "https://x.com/mattyp"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/stills-clips-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Stills & Clips Desk",
+    "description": "Pulls stills, thumbnails, and short clips out of your footage, sized for where they go. Cleans up screenshots for docs too, and writes the caption and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/stills-clips-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

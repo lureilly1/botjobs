@@ -1,0 +1,37 @@
+{
+  "slug": "account-research-desk",
+  "name": "Account Research Desk",
+  "grokShareUrl": "https://x.ai/bot/O3iqVd_ZrdRtrDJpxcKss",
+  "botId": "O3iqVd_ZrdRtrDJpxcKss",
+  "creator": {
+    "handle": "akbaliga96",
+    "name": "Anoop Baliga",
+    "url": "https://x.com/akbaliga96"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/account-research-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Account Research Desk",
+    "description": "Researches the companies you sell to and writes your pre-call brief and account plan. Works from the public web and the notes you paste, and never sends...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/account-research-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

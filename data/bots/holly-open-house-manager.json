@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/3Ib8gqgyXLRdFOettMmW2",
   "botId": "3Ib8gqgyXLRdFOettMmW2",
   "creator": {
-    "handle": null,
-    "name": "AI For Real Estate Agents",
-    "url": null
+    "name": "AI For Real Estate Agents"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

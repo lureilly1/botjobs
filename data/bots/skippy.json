@@ -1,0 +1,37 @@
+{
+  "slug": "skippy",
+  "name": "skippy",
+  "grokShareUrl": "https://x.ai/bot/X4NHZvN9cvBBS5EgdjsLx",
+  "botId": "X4NHZvN9cvBBS5EgdjsLx",
+  "creator": {
+    "handle": "mattyp",
+    "name": "Matt Palmer",
+    "url": "https://x.com/mattyp"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/skippy"
+  },
+  "description": null,
+  "official": {
+    "title": "skippy",
+    "description": "A San Francisco street-cleaning assistant. Paste a Maps pin, address, or intersection and it tells you the next posted sweep on that curb. Uses public...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/skippy"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

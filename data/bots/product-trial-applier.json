@@ -17,7 +17,7 @@
     "title": "체험단신청 by yun",
     "description": "무신사와 카카오 선물하기 체험단을 매일 확인해서 조건에 맞는 공고에 대신 신청하고, 당첨 결과까지 알려주는 봇이에요.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

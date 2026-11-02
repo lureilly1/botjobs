@@ -1,0 +1,37 @@
+{
+  "slug": "distro-bot",
+  "name": "Distro Bot",
+  "grokShareUrl": "https://x.ai/bot/XbN6iofs_Qjsi2Od1yjyI",
+  "botId": "XbN6iofs_Qjsi2Od1yjyI",
+  "creator": {
+    "handle": "shubgaur",
+    "name": "Shub Gaur",
+    "url": "https://x.com/shubgaur"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/distro-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Distro Bot",
+    "description": "Runs your marketing loop end to end: campaigns on your ad accounts, fresh creative, real channel analysis, timely posts from X and web scans, and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/distro-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

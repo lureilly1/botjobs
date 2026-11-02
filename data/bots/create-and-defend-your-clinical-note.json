@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/LIrj8NNdiKTxDV8FwTNNQ",
   "botId": "LIrj8NNdiKTxDV8FwTNNQ",
   "creator": {
-    "handle": null,
-    "name": "Archy the Scribe",
-    "url": null
+    "name": "Archy the Scribe"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

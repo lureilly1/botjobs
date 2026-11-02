@@ -1,0 +1,37 @@
+{
+  "slug": "imogen",
+  "name": "Imogen",
+  "grokShareUrl": "https://x.ai/bot/Eeu5NZp62OzQjtlY4ons2",
+  "botId": "Eeu5NZp62OzQjtlY4ons2",
+  "creator": {
+    "handle": "kentcdodds",
+    "name": "Kent C. Dodds",
+    "url": "https://x.com/kentcdodds"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/imogen"
+  },
+  "description": null,
+  "official": {
+    "title": "Imogen",
+    "description": "Imogen the Impala Image Interpreter writes brief, copyable alt text focused on the most important part of an image, so images are accessible to blind...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/imogen"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

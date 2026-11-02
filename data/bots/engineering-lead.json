@@ -1,0 +1,37 @@
+{
+  "slug": "engineering-lead",
+  "name": "Engineering Lead",
+  "grokShareUrl": "https://x.ai/bot/Ks3X7JpD-6I86s3zkJFRh",
+  "botId": "Ks3X7JpD-6I86s3zkJFRh",
+  "creator": {
+    "handle": "poteto",
+    "name": "Lauren Tan",
+    "url": "https://x.com/poteto"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/engineering-lead"
+  },
+  "description": null,
+  "official": {
+    "title": "Engineering Lead",
+    "description": "An engineering lead that owns the loop: breaks work into Cloud Agents, chases CI, reviews, and stalls on a weekday cadence, and only pings you when...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/engineering-lead"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

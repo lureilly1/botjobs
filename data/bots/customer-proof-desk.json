@@ -1,0 +1,37 @@
+{
+  "slug": "customer-proof-desk",
+  "name": "Customer Proof Desk",
+  "grokShareUrl": "https://x.ai/bot/AamPlGjd2lIdDv6seEMXR",
+  "botId": "AamPlGjd2lIdDv6seEMXR",
+  "creator": {
+    "handle": "akbaliga96",
+    "name": "Anoop Baliga",
+    "url": "https://x.com/akbaliga96"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/customer-proof-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Customer Proof Desk",
+    "description": "Turns call notes and transcripts into case studies, testimonials, and proof points. Quotes stay word for word from what you paste, and nothing publishes...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/customer-proof-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

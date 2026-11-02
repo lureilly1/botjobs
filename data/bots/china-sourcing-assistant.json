@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/U2NoaMqQYj-nxZRDAcfJh",
   "botId": "U2NoaMqQYj-nxZRDAcfJh",
   "creator": {
-    "handle": null,
-    "name": "Jaygle",
-    "url": null
+    "name": "Jaygle"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

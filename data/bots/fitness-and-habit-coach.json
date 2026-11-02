@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/3XNjsdnzil3sWrbYBT37-",
   "botId": "3XNjsdnzil3sWrbYBT37-",
   "creator": {
-    "handle": null,
-    "name": "Able Potato 🥔",
-    "url": null
+    "name": "Able Potato 🥔"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

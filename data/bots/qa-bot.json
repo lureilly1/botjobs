@@ -1,0 +1,37 @@
+{
+  "slug": "qa-bot",
+  "name": "QA bot",
+  "grokShareUrl": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
+  "botId": "lKQWoQAvYgg_7Bkg2R-m7",
+  "creator": {
+    "handle": null,
+    "name": "Ulysses Ng",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/qa-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "QA bot",
+    "description": "Acts as your QA on the live deploy: runs the acceptance checklist and says pass or fail before you ship.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/qa-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

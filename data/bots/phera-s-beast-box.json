@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "World Spark by Zerefs",
-    "description": "Helps anyone spark their own living digital world in any field, with its own creature or character that grows, learns and has a home online.",
+    "title": "Engineering Studio by Zerefs",
+    "description": "Turns a big idea (a world, game, simulation or AI companion) into a real build with clear briefs, honest data labels, small green-CI releases, fair...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

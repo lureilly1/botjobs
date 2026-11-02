@@ -17,7 +17,7 @@
     "title": "かわいい女の子メーカー by 馬場",
     "description": "つらい時やしんどい時に、架空の女の子の実写風の自撮り画像を、励ましのひと言と一緒に送ってくれるBotです。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

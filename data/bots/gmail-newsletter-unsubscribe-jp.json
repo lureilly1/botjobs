@@ -17,7 +17,7 @@
     "title": "メルマガ整理ボット by 豪",
     "description": "Gmailにたまるメルマガや宣伝、転職サイトのメールを洗い出して、選んだものだけ配信停止してくれるボットです。大事なメールは候補から外し、勝手には止めません。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

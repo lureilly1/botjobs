@@ -1,0 +1,37 @@
+{
+  "slug": "product-idea-stress-test-phuzkf",
+  "name": "Product Idea Stress Test",
+  "grokShareUrl": "https://x.ai/bot/ph-u_zkF5Vui1GdGnysn9",
+  "botId": "ph-u_zkF5Vui1GdGnysn9",
+  "creator": {
+    "handle": "hnshah",
+    "name": "Hiten Shah",
+    "url": "https://x.com/hnshah"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/product-idea-stress-test"
+  },
+  "description": null,
+  "official": {
+    "title": "Product Idea Stress Test",
+    "description": "Investigates a product or startup idea for founders. Surfaces what has to be true, evidence for and against, the assumption most likely to kill it, and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/product-idea-stress-test"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

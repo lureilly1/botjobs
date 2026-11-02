@@ -17,7 +17,7 @@
     "title": "장보기 by min",
     "description": "쿠팡과 네이버쇼핑에서 원하는 상품을 찾아 가격과 배송을 비교하고, 장바구니에 담아 결제 직전 화면까지 준비하는 쇼핑 도우미. 결제는 주인이 「결제해」라고 한 뒤에만 한다.\n\nJob: 주인이 말한 상품(이름·링크·수량·예산)을...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

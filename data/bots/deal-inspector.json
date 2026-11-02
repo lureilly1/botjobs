@@ -1,0 +1,37 @@
+{
+  "slug": "deal-inspector",
+  "name": "Deal Inspector",
+  "grokShareUrl": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
+  "botId": "vZfC76-4UC1XU7qC4m726",
+  "creator": {
+    "handle": null,
+    "name": "Jon Grigull",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/deal-inspector"
+  },
+  "description": null,
+  "official": {
+    "title": "Deal Inspector",
+    "description": "Checks every deal that moved stage against your qualification criteria using the actual call transcripts. Quotes the evidence, flags what is missing,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/deal-inspector"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

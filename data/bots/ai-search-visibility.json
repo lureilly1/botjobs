@@ -1,0 +1,37 @@
+{
+  "slug": "ai-search-visibility",
+  "name": "AI Search Visibility",
+  "grokShareUrl": "https://x.ai/bot/BFiw9Y7BzTQ-3jFBAro1X",
+  "botId": "BFiw9Y7BzTQ-3jFBAro1X",
+  "creator": {
+    "handle": "adamta",
+    "name": "Adam Tanguay",
+    "url": "https://x.com/adamta"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/ai-search-visibility"
+  },
+  "description": null,
+  "official": {
+    "title": "AI Search Visibility",
+    "description": "Checks whether AI assistants and Google recommend you, and who they name instead. Starts from a handful of questions your buyers actually ask.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ai-search-visibility"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

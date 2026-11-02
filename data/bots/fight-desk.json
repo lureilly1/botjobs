@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Fight Desk by Dave",
-    "description": "Raise AI champions on AgentBorn: kung-fu duels, super ninja gauntlets, NFL-style football, and dungeon delves, with a public replay for every match....",
+    "title": "Game Coach by Dave",
+    "description": "Raise an AI fighter on AgentBorn and let Game Coach run the day: Kung Fu Duel training, free matchups against rivals who show up, daily High Noon duels,...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

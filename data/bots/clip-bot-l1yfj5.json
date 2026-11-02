@@ -1,0 +1,37 @@
+{
+  "slug": "clip-bot-l1yfj5",
+  "name": "Clip Bot",
+  "grokShareUrl": "https://x.ai/bot/-L1yFJ5mtwPgn3O_iYUo_",
+  "botId": "-L1yFJ5mtwPgn3O_iYUo_",
+  "creator": {
+    "handle": "ThisWeeknAI",
+    "name": "This Week in AI",
+    "url": "https://x.com/ThisWeeknAI"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/clip-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Clip Bot",
+    "description": "Finds the best moments in a long recording and cuts them into short captioned clips. Works from an upload or a link, with transcript and timestamps on...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/clip-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

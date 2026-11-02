@@ -17,7 +17,7 @@
     "title": "LTE Meshcore Repeater Updater by Just",
     "description": "Helps you run a remote solar MeshCore repeater with a LilyGO T-SIM LTE board: deploy your own dashboard, flash maintained power-saving firmware, and...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

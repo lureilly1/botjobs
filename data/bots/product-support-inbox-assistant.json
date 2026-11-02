@@ -1,0 +1,37 @@
+{
+  "slug": "product-support-inbox-assistant",
+  "name": "Product Support Inbox Assistant",
+  "grokShareUrl": "https://x.ai/bot/Rw8d83KAzTYQWBAtAscin",
+  "botId": "Rw8d83KAzTYQWBAtAscin",
+  "creator": {
+    "handle": "akbaliga96",
+    "name": "Anoop Baliga",
+    "url": "https://x.com/akbaliga96"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/product-support-inbox-assistant"
+  },
+  "description": null,
+  "official": {
+    "title": "Product Support Inbox Assistant",
+    "description": "Helps you find and draft answers to product questions. Never sends emails without you.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/product-support-inbox-assistant"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

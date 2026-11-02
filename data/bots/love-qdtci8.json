@@ -1,0 +1,37 @@
+{
+  "slug": "love-qdtci8",
+  "name": "Love ❤️",
+  "grokShareUrl": "https://x.ai/bot/qDtCI8WZgVJKbN3rogL8j",
+  "botId": "qDtCI8WZgVJKbN3rogL8j",
+  "creator": {
+    "handle": "dannybuck",
+    "name": "Danny Buck",
+    "url": "https://x.com/dannybuck"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/love"
+  },
+  "description": null,
+  "official": {
+    "title": "Love ❤️",
+    "description": "Takes the admin out of being a good Partner so the attention can go where it counts. Reminds, researches, and queues dates, tables, and presents; you...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/love"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

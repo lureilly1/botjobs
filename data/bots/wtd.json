@@ -1,0 +1,37 @@
+{
+  "slug": "wtd",
+  "name": "WTD",
+  "grokShareUrl": "https://x.ai/bot/Q3VCc_x0Y8lWd4m-rung2",
+  "botId": "Q3VCc_x0Y8lWd4m-rung2",
+  "creator": {
+    "handle": "jennananpei",
+    "name": "Jenna Nanpei",
+    "url": "https://x.com/jennananpei"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/wtd"
+  },
+  "description": null,
+  "official": {
+    "title": "WTD",
+    "description": "WTD is a VIP hospitality planning partner for marketing ops — project-plan and status rhythm across tentpoles and ticket banks, nomination-sheet...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/wtd"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

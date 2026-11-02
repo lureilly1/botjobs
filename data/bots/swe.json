@@ -1,0 +1,37 @@
+{
+  "slug": "swe",
+  "name": "SWE",
+  "grokShareUrl": "https://x.ai/bot/sd4474cf03cd8552905ff",
+  "botId": "sd4474cf03cd8552905ff",
+  "creator": {
+    "handle": "cursor_ai",
+    "name": "Cursor",
+    "url": "https://x.com/cursor_ai"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/swe"
+  },
+  "description": null,
+  "official": {
+    "title": "SWE by Cursor",
+    "description": "Cursor's software engineer bot: writes code, triages issues, monitors production, and more.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/swe"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "pitch-deck-coach-zkvspk",
+  "name": "Pitch Deck Coach",
+  "grokShareUrl": "https://x.ai/bot/zkVS-PkX1ooTE2nP21DPO",
+  "botId": "zkVS-PkX1ooTE2nP21DPO",
+  "creator": {
+    "handle": "hnshah",
+    "name": "Hiten Shah",
+    "url": "https://x.com/hnshah"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/pitch-deck-coach"
+  },
+  "description": null,
+  "official": {
+    "title": "Pitch Deck Coach",
+    "description": "Reviews a pitch deck and reports what an investor is likely to understand, believe, question, and remember, then helps strengthen the story, evidence,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pitch-deck-coach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -17,7 +17,7 @@
     "title": "ゴミ出しカレンダー番",
     "description": "お住まいの自治体の公式ゴミ収集日を調べて、毎晩「明日は何ゴミの日か」を知らせるボット。「これ何ゴミ？」にも公式の分け方で答えます。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

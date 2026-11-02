@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/DZkjwzxZ36ZxC18IIk07O",
   "botId": "DZkjwzxZ36ZxC18IIk07O",
   "creator": {
-    "handle": null,
-    "name": "Eric Vanderr Wiede",
-    "url": null
+    "name": "Eric Vanderr Wiede"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-10-26",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

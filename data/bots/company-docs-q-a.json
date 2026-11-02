@@ -1,0 +1,37 @@
+{
+  "slug": "company-docs-q-a",
+  "name": "Company Docs Q&A",
+  "grokShareUrl": "https://x.ai/bot/GVAnpUah1K6PzJtG9EuG9",
+  "botId": "GVAnpUah1K6PzJtG9EuG9",
+  "creator": {
+    "handle": "akbaliga96",
+    "name": "Anoop Baliga",
+    "url": "https://x.com/akbaliga96"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/company-docs-q-a"
+  },
+  "description": null,
+  "official": {
+    "title": "Company Docs Q&A",
+    "description": "Answers product and how-to questions from live docs first, then connected knowledge sources, and always cites sources. Built for anyone who wants a...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/company-docs-q-a"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

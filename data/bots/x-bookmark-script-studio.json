@@ -17,7 +17,7 @@
     "title": "Xブクマ台本工房",
     "description": "毎朝あなたのXブックマークから使えるネタを選び、3行要約とショート動画の台本下書きを反応が良さそうな順に届けるボット。投稿はしません。",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

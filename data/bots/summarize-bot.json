@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Summarize Bot by Vincent",
-    "description": "Point at any URL, YouTube, podcast, or file — get a short gist in chat via the summarize CLI. On-demand; never invents without the CLI.",
+    "description": "Paste a link, YouTube video, podcast, or file and get a short summary back in chat. It runs the open-source summarize tool and never makes things up.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

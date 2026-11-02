@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "메일 정리봇 by 초코넛밀크티",
-    "description": "네이버와 Gmail을 매일 아침 짧게 정리하고, 결제·보안 리스크만 요약해 알려주는 메일 정리 봇.",
+    "description": "매일 아침 Gmail(여러 계정)과 네이버 메일을 정리하고, 결제·보안 위험 메일만 짧게 요약해 알려 주는 봇이에요. 광고는 구독취소 후보로 모아 제안만 해요.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

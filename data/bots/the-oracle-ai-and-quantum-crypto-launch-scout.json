@@ -1,0 +1,37 @@
+{
+  "slug": "the-oracle-ai-and-quantum-crypto-launch-scout",
+  "name": "THE ORACLE, AI and Quantum Crypto Launch Scout",
+  "grokShareUrl": "https://x.ai/bot/f72LjSGzc3_Y3K-v6gV6d",
+  "botId": "f72LjSGzc3_Y3K-v6gV6d",
+  "creator": {
+    "handle": null,
+    "name": "Rocko Built It",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/the-oracle-ai-and-quantum-crypto-launch-scout"
+  },
+  "description": null,
+  "official": {
+    "title": "THE ORACLE by BlockchainRocko",
+    "description": "Scouts AI and post-quantum token launches. 3 daily scans, morning report, hourly prices, scored projects, optional AirDrop Bot. No wallets or keys.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/the-oracle-ai-and-quantum-crypto-launch-scout"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

@@ -17,7 +17,7 @@
     "title": "PC Mechanic by 𝒜𝔲𝔰𝔱𝔦𝔫⚡",
     "description": "A friendly mechanic for your Windows PC or Mac: read-only checkups scored out of 100, app installs and uninstalls from official sources, cleanup, faster...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

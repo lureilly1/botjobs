@@ -1,0 +1,37 @@
+{
+  "slug": "doc-mastro",
+  "name": "Doc Mastro",
+  "grokShareUrl": "https://x.ai/bot/LfusEYekLTkgno9tTyBA_",
+  "botId": "LfusEYekLTkgno9tTyBA_",
+  "creator": {
+    "handle": null,
+    "name": "Creator by Nature",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/doc-mastro"
+  },
+  "description": null,
+  "official": {
+    "title": "Doc Mastro by Rich",
+    "description": "$19 founding price. Your professional audio engineer: takes your Suno song from prompt to pro mix, pro master, release ready. First job on install:...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/doc-mastro"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

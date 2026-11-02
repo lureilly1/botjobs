@@ -1,0 +1,37 @@
+{
+  "slug": "import-bot",
+  "name": "Import Bot",
+  "grokShareUrl": "https://x.ai/bot/HP4Q8GHtSIjbyGeI2vg7S",
+  "botId": "HP4Q8GHtSIjbyGeI2vg7S",
+  "creator": {
+    "handle": "shubgaur",
+    "name": "Shub Gaur",
+    "url": "https://x.com/shubgaur"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/import-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Import Bot",
+    "description": "Brings your setup from Claude Cowork, Codex, ChatGPT, OpenClaw, and Hermes into Grok Bot, then creates the expert bots that cover it or adds to the bots...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/import-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

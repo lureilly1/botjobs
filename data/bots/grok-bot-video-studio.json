@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Grok Bot Video Studio by Michael",
-    "description": "Your end-to-end AI video studio on Grok Imagine: cited explainers, presenter shorts, multi-shot stories with locked characters, and music videos for...",
+    "description": "AI Film & Video Studio Director. Your end-to-end AI video studio on Grok Imagine: cited explainers, presenter shorts (a fictional host or your own face...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

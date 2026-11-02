@@ -1,0 +1,37 @@
+{
+  "slug": "overheard-nieguo",
+  "name": "Overheard",
+  "grokShareUrl": "https://x.ai/bot/NIEguoGUjA648fUPle8F5",
+  "botId": "NIEguoGUjA648fUPle8F5",
+  "creator": {
+    "handle": "lennysan",
+    "name": "Lenny Rachitsky",
+    "url": "https://x.com/lennysan"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/overheard"
+  },
+  "description": null,
+  "official": {
+    "title": "Overheard",
+    "description": "Watches Reddit, Hacker News, news sites, and X for third-party mentions of your name, brand, and URLs, then sends a short weekday digest when something...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/overheard"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

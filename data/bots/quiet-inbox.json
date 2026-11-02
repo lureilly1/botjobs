@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Quiet Inbox by Ben",
-    "description": "Archives promo and junk in Gmail and never deletes it. Weekly bills and events notes stay drafts until you say to send them.",
+    "title": "Money Finder by Ben",
+    "description": "Finds real ways to save you money, one pick a week, from your own bank accounts and bill emails. Read-only: it never moves money, cancels anything, or...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

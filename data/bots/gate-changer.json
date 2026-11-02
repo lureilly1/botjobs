@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Gate Changer by Chris",
-    "description": "Status match coach for frequent flyers. Maps match vs challenge paths, packs proof, tracks deadlines — so you can change airlines without losing elite...",
+    "title": "Bot Activity Dashboard by Chris",
+    "description": "Keeps a live dashboard of what your bot team is doing: blockers, what's waiting on you, a timeline, and routine runs. For anyone running several Grok...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

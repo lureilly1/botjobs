@@ -1,0 +1,37 @@
+{
+  "slug": "morning-brief-ypxw7w",
+  "name": "Morning Brief",
+  "grokShareUrl": "https://x.ai/bot/ypXW7w1OkXm4QlQlUxH9G",
+  "botId": "ypXW7w1OkXm4QlQlUxH9G",
+  "creator": {
+    "handle": "criadoleyra",
+    "name": null,
+    "url": "https://x.com/criadoleyra"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/morning-brief"
+  },
+  "description": null,
+  "official": {
+    "title": "Morning Brief by Fernando",
+    "description": "A 12-line morning agenda from your calendar, plus a 3-minute end-of-day shutdown. Reads only; never sends. Free, unofficial community template. More...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/morning-brief"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

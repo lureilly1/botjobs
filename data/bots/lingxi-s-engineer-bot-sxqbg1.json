@@ -1,0 +1,37 @@
+{
+  "slug": "lingxi-s-engineer-bot-sxqbg1",
+  "name": "Lingxi's Engineer Bot",
+  "grokShareUrl": "https://x.ai/bot/SxqbG1NT5qEw7ggmHqQu_",
+  "botId": "SxqbG1NT5qEw7ggmHqQu_",
+  "creator": {
+    "handle": "lingxi",
+    "name": "Lingxi Li",
+    "url": "https://x.com/lingxi"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/lingxi-s-engineer-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Lingxi's Engineer Bot",
+    "description": "A hands-off engineering supervisor. Boards work, launches cloud agents on the repo you name, watches PRs on a 30-minute cadence, and only asks you to...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lingxi-s-engineer-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

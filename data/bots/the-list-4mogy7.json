@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "The List by GrokBotGod",
-    "description": "GrokBotGod bot catalog in your chat: three-line drops from our starter list and any Grok Bot link you paste. Never emails you, never asks yes/no.",
+    "description": "For people browsing Grok Bots: each new GrokBotGod bot arrives in your chat as three lines (name, one job, link). Paste any x.ai/bot link to get the...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

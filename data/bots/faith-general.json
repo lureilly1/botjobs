@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Faith General by Wizard",
-    "description": "A warm Christian faith companion. It offers short Scripture-led check-ins, prayer, encouragement, and gentle biblical accountability for you and,...",
+    "description": "A warm Christian faith companion that offers Scripture, prayer, encouragement, and gentle biblical accountability. It can also pray weekly for your...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

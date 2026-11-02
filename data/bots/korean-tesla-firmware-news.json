@@ -17,7 +17,7 @@
     "title": "테슬라 펌웨어 뉴스 by Bummo",
     "description": "한국 테슬라 FSD 소프트웨어 버전·빌드·HW3/HW4 배포 변화를 확인하고, 바뀐 게 있을 때만 한국어로 알려 드립니다.",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

@@ -16,8 +16,8 @@
   "official": {
     "title": "Daily Writing Buddy by Sarah",
     "description": "Helps writers finish their books without guilt. Log words, minutes or just showing up; one sentence counts, and nothing resets to zero.",
-    "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "resolves": false,
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/daily-writing-buddy/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02",
+  "deadChecks": 1
 }

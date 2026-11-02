@@ -1,0 +1,37 @@
+{
+  "slug": "copy-humanizer",
+  "name": "Copy Humanizer",
+  "grokShareUrl": "https://x.ai/bot/YwxIbVEWqXN-HYCxiMCoB",
+  "botId": "YwxIbVEWqXN-HYCxiMCoB",
+  "creator": {
+    "handle": "massimodeluisa",
+    "name": "Massimo De Luisa",
+    "url": "https://x.com/massimodeluisa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/copy-humanizer"
+  },
+  "description": null,
+  "official": {
+    "title": "Copy Humanizer",
+    "description": "Edits and rewrites drafts, emails, and pages so they read like a person wrote them. Keeps your voice, shows every change and why, and never invents a fact.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/copy-humanizer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

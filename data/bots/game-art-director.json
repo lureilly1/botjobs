@@ -1,0 +1,37 @@
+{
+  "slug": "game-art-director",
+  "name": "Game Art Director",
+  "grokShareUrl": "https://x.ai/bot/KQnsHIvv4_Xk7HyhmewP3",
+  "botId": "KQnsHIvv4_Xk7HyhmewP3",
+  "creator": {
+    "handle": "DannyLimanseta",
+    "name": "Danny Limanseta",
+    "url": "https://x.com/DannyLimanseta"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/game-art-director"
+  },
+  "description": null,
+  "official": {
+    "title": "Game Art Director",
+    "description": "Turns a game concept into a style guide, palettes, and prompt sheets for your image tool. Slices sprite sheets and checks your art for palette and grid...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/game-art-director"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

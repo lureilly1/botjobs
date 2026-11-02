@@ -1,0 +1,37 @@
+{
+  "slug": "seo-aeo-desk",
+  "name": "SEO & AEO Desk",
+  "grokShareUrl": "https://x.ai/bot/0IhyZWxwbf2cFmsmroZQL",
+  "botId": "0IhyZWxwbf2cFmsmroZQL",
+  "creator": {
+    "handle": "adamta",
+    "name": "Adam Tanguay",
+    "url": "https://x.com/adamta"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/seo-aeo-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "SEO & AEO Desk",
+    "description": "Turns your keywords into content ideas and writer-ready briefs for search and AI answers. Works from a pasted keyword list or your Search Console.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/seo-aeo-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

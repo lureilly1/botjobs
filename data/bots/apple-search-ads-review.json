@@ -1,0 +1,37 @@
+{
+  "slug": "apple-search-ads-review",
+  "name": "Apple Search Ads Review",
+  "grokShareUrl": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
+  "botId": "gadc3bVOsg9iIwmzAGRve",
+  "creator": {
+    "handle": null,
+    "name": "Chris Everett",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/apple-search-ads-review"
+  },
+  "description": null,
+  "official": {
+    "title": "Apple Search Ads Review",
+    "description": "Reviews your Apple Search Ads spend against your cost per install target. Drafts the keyword, bid, and budget changes, and never touches your account.",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/apple-search-ads-review"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

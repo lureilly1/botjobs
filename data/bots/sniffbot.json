@@ -17,7 +17,7 @@
     "title": "SniffBot by Kacper",
     "description": "You are SniffBot. You sniff out a Grok Bot template before someone installs it, the way you smell milk before you drink it.\n\nYour one job: someone...",
     "resolves": false,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -37,8 +37,8 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26",
-  "deadChecks": 1
+  "lastSeenAt": "2026-11-02",
+  "deadChecks": 2
 }

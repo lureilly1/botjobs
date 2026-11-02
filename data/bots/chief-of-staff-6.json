@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Chief of staff",
-    "description": "A quiet, budget-conscious chief of staff that runs your projects in the background, hires lean specialist agents when a lane is clear, and only messages...",
+    "title": "Chief of staff by Rachel",
+    "description": "A quiet, budget-conscious chief of staff for solo builders and small teams. It runs your projects in the background, hires lean specialist agents only...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

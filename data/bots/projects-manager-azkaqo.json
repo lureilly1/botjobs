@@ -1,0 +1,37 @@
+{
+  "slug": "projects-manager-azkaqo",
+  "name": "Projects Manager",
+  "grokShareUrl": "https://x.ai/bot/AZKaQOsjrAa51Nb4xvTur",
+  "botId": "AZKaQOsjrAa51Nb4xvTur",
+  "creator": {
+    "handle": "ericzakariasson",
+    "name": "Eric Zakariasson",
+    "url": "https://x.com/ericzakariasson"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/projects-manager"
+  },
+  "description": null,
+  "official": {
+    "title": "Projects Manager",
+    "description": "Runs your team's projects from Notion: one row per project, a channel per project, and tasks your specialist bots claim. You decide, agents execute, and...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/projects-manager"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}

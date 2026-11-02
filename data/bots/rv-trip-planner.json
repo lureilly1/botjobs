@@ -17,7 +17,7 @@
     "title": "Ultimate RV Trip Planner by Chris",
     "description": "Plans multi-day RV trips around your rig: paced legs, rig-safe routes, stays by your memberships and budget, live availability, fuel and weather checks,...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-02"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-10-26"
+  "lastSeenAt": "2026-11-02"
 }

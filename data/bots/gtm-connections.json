@@ -1,0 +1,37 @@
+{
+  "slug": "gtm-connections",
+  "name": "GTM Connections",
+  "grokShareUrl": "https://x.ai/bot/aUF_wTHXGWKU3-QPm6PmN",
+  "botId": "aUF_wTHXGWKU3-QPm6PmN",
+  "creator": {
+    "handle": null,
+    "name": "Brian Joseph",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/gtm-connections"
+  },
+  "description": null,
+  "official": {
+    "title": "GTM Connections",
+    "description": "Finds credible ways into a target account through mutual contacts, past conversations, shared history, and prior meetings. Ranks the best paths, drafts...",
+    "resolves": true,
+    "fetchedAt": "2026-11-02"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/gtm-connections"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-02",
+  "firstSeenAt": "2026-11-02",
+  "lastSeenAt": "2026-11-02"
+}
