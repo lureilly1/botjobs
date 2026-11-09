@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Entrepreneur by Hank",
-    "description": "Your opportunity scout: give it a short hunt brief and it finds and vets side ventures with sources, risks and a next step, then keeps an honest weekly...",
+    "title": "Family App Builder by Hank",
+    "description": "Helps you design, build and run a small private app for your own household, like a chores and points board, with privacy-first defaults and you...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

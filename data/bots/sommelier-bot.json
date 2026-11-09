@@ -16,7 +16,7 @@
     "title": "sommelier.bot by Johannes",
     "description": "Your personal sommelier for everything in the glass, with or without alcohol: wine, beer, spirits, sake, cider, and non-alcoholic drinks like tea and...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

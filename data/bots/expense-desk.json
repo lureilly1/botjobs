@@ -16,7 +16,7 @@
     "title": "Expense Desk / 报销台 by Alison",
     "description": "Receipts and bills in → categorized expense drafts out. 收票归类、标缺件、起草报销清单。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

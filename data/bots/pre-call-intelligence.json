@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Pre-Call Intelligence by Eric",
-    "description": "A read-only sales-prep agent for founders and revenue teams. It turns calendar, CRM, email, Slack, and prior call notes into a short decision card...",
+    "description": "Decision-ready briefs before important prospect, client and partner calls, plus post-call packets with Slack and CRM note drafts after them. Read and...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

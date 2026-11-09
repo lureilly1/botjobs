@@ -17,7 +17,7 @@
     "title": "Teddy by Procount",
     "description": "Your AI chief of staff. Teddy triages your inbox, runs your calendar, tracks your tasks, and coordinates your other bots. It drafts everything and never...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

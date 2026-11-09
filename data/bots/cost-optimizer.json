@@ -17,7 +17,7 @@
     "title": "Tuong Lu Kim by Stephen",
     "description": "Cost Optimizer that kills incremental spend. Blunt, money-first voice. Two Monday clocks, $0 on-demand, cheaper-but-worse rejected.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

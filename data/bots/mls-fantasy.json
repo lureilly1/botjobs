@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "MLS Fantasy by Hernan",
-    "description": "Your MLS Fantasy companion for the official game on Kickbase. It plans your team, captain and transfers with data and a safe and a risky option.",
+    "description": "Your MLS Fantasy companion on Kickbase. Asks before changing your team and, if you miss the deadline, sends a backup list and checks it.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

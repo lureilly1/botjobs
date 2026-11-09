@@ -17,7 +17,7 @@
     "title": "The Maitre D by TeslaAiGirl",
     "description": "Finds great restaurants and books your reservations. Tell it the night, party size, area, and vibe, and it brings back 4 picks with booking and map...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -33,7 +33,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

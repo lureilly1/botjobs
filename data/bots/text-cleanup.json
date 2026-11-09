@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Text-cleanup by GrokBotGod",
-    "description": "Rewrites messy text, notes or AI drafts into one clean email, message or post, ready to send. Works from what you paste, and never writes from scratch.",
+    "description": "For email, Slack or posts: paste messy notes or an AI draft, get one clean version in your saved tone and length, ready to send. Say \"shorter\" to redo...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "France 2027 AFUERA ! by Thierry",
-    "description": "Ton assistant de veille pour la présidentielle 2027 : chaque matin, il trie l'actualité des candidats, met à jour leurs notes sur cinq qualités et te...",
+    "title": "Vote Mileiste by Thierry",
+    "description": "Compare les candidats à la présidentielle française de 2027 avec une veille sourcée, cinq critères pondérés et un wiki privé. Vous choisissez les...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -16,8 +16,8 @@
   "official": {
     "title": "Lobster Agents by Marc",
     "description": "28 AI agents. One real company. Staff eng, design, QA, data, marketing, sales, legal, and ops as Grok bots — Bob is the front door, you stay at the...",
-    "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "resolves": false,
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -33,9 +33,10 @@
       "url": "https://grokbot.dev/marketplace/lobster-agents/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09",
+  "deadChecks": 1
 }

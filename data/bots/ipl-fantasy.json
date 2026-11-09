@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "IPL Fantasy by Hernan",
-    "description": "Your IPL Fantasy companion for the official free season-long game. It picks your XI, captain and vice-captain after the toss and plans boosters.",
+    "description": "Your IPL Fantasy companion: XI after the toss and captain. Reads screenshots, replies in your language, never changes your team without your OK.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

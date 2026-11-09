@@ -1,0 +1,37 @@
+{
+  "slug": "wholesale-deal-desk",
+  "name": "Wholesale Deal Desk",
+  "grokShareUrl": "https://x.ai/bot/bGPhAElG5UQOJVhsd9FAa",
+  "botId": "bGPhAElG5UQOJVhsd9FAa",
+  "creator": {
+    "handle": null,
+    "name": "Urban Speculator",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/wholesale-deal-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Wholesale Deal Desk by Urban",
+    "description": "A deal desk for real estate wholesalers and investors. It scores motivated-seller leads, runs comps into ARV and MAO, drafts offers, LOIs, and scripts,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/wholesale-deal-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

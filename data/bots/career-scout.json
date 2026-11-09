@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Career Scout by Hojjat",
-    "description": "A field-agnostic job-search co-pilot. Builds a profile from your CV, scores postings, and returns a ranked shortlist — no spray-and-pray.",
+    "title": "Career Scout · Jobs, resume, shortlist by Hojjat",
+    "description": "Job-search co-pilot that finds, scores, and categorizes open roles into a tight shortlist. Hands apply-ready batches to apply/outreach teammates; never...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

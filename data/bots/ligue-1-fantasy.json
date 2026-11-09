@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Ligue 1 Fantasy by Hernan",
-    "description": "Your Ligue 1 Fantasy companion. It builds your team each matchday, picks your captain and tracks your results, with data behind every pick.",
+    "description": "Your Ligue 1 Fantasy companion: team and captain. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

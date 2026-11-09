@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/AsK3weq_jHK5OqRcNunog",
   "botId": "AsK3weq_jHK5OqRcNunog",
   "creator": {
-    "handle": null,
-    "name": "cocomos",
-    "url": null
+    "name": "cocomos"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

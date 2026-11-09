@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Super Rugby Pacific Fantasy by Hernan",
-    "description": "Your Super Rugby Pacific Fantasy companion. It builds your 15 within the budget and club cap, compares captains, and plans byes and boosters.",
+    "description": "Your Super Rugby Pacific Fantasy companion: 15 and captain. Reads screenshots, replies in your language, never changes your team without your OK.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

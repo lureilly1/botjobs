@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Gran DT by Hernan",
-    "description": "Your Gran DT companion (Clarín). It builds your 11, bench, captain and Fútbol 5 each round with data, plus a safe and a risky option.",
+    "description": "Your Gran DT companion (Clarín): 11, captain and Fútbol 5. Reads screenshots, replies in your language, never changes your team without your OK.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

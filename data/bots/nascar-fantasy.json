@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "NASCAR Fantasy by Hernan",
-    "description": "Your NASCAR Fantasy Live companion. It builds your driver lineup for each race by track type, with data and a safe and a risky option.",
+    "description": "Your NASCAR Fantasy Live companion: drivers. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

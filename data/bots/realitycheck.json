@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "RealityCheck by John",
-    "description": "Paste an X handle and get an authenticity score card — number, color meter, and top green/red flags from public profile signals. Estimate only, not a...",
+    "description": "Scores any X account for authenticity from public signals and makes a shareable color score card with green and red flags. Read-only, an estimate not a...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "GrokWatch by John",
-    "description": "Keeps an eye on the things you care about, like big ships passing your waterfront, bright planets, full moons and eclipses, or changes to pages you...",
+    "title": "GrokWatch · Scout & alert relay by John",
+    "description": "Your single alert channel for things worth watching: big ships passing your waterfront, sky and moon events, web and X changes, and new AI model...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

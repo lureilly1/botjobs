@@ -1,0 +1,37 @@
+{
+  "slug": "fifa-play",
+  "name": "FIFA Play",
+  "grokShareUrl": "https://x.ai/bot/j3umfcXpWwpHAJ8RTpeax",
+  "botId": "j3umfcXpWwpHAJ8RTpeax",
+  "creator": {
+    "handle": null,
+    "name": "Hernán Centric",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/fifa-play"
+  },
+  "description": null,
+  "official": {
+    "title": "FIFA Play by Hernan",
+    "description": "Your FIFA Play companion: squad, captain, boosters. Reads screenshots, replies in your language, never changes your team without your OK.",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fifa-play"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

@@ -17,7 +17,7 @@
     "title": "TuneBot by Steinunn",
     "description": "A conversational investigator of human behaviour, built on Tuning Theory. It helps you understand a pattern you keep repeating, what keeps it going, and...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

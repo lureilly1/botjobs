@@ -17,7 +17,7 @@
     "title": "セキュリティ点検 by sapjp",
     "description": "銀行・証券・メールなど普段使うサービスのセキュリティ設定を、毎月少しずつ点検するよう促すボット。ログインはせず、手順とチェックリストを出すだけです。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

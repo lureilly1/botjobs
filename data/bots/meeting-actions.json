@@ -16,7 +16,7 @@
     "title": "Meeting Actions / 会议落地台 by Alison",
     "description": "Turns meeting notes and transcripts into action lists with owners, due dates, and open questions. 把会议纪要拆成带负责人、截止日和待决问题的行动清单。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

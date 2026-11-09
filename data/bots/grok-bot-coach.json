@@ -15,10 +15,10 @@
   },
   "description": "Talks through the design of your own Grok bots, from pinning down a specific job for the profile to picking connectors and setting standing instructions, then reviews and adjusts what you have built. Useful once you have a rough idea; less so if you do not yet know what you want a bot for.",
   "official": {
-    "title": "Grok Bot Coach by Amina",
-    "description": "Keeps a whole set of Grok bots well set up, safe, and worth the credits they use. Every Monday it checks each bot, old and new, and sends each fix to...",
+    "title": "Bot Fleet Manager by Amina",
+    "description": "Keeps your whole set of Grok bots well set up, safe, and worth the credits they use. Checks every bot each Monday, vets each new bot you add (especially...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

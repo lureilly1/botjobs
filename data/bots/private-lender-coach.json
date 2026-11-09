@@ -1,0 +1,37 @@
+{
+  "slug": "private-lender-coach",
+  "name": "Private Lender Coach",
+  "grokShareUrl": "https://x.ai/bot/Yrp312RUTRugLJzQogkIQ",
+  "botId": "Yrp312RUTRugLJzQogkIQ",
+  "creator": {
+    "handle": null,
+    "name": "Urban Speculator",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/private-lender-coach"
+  },
+  "description": null,
+  "official": {
+    "title": "Private Lender Coach by Urban",
+    "description": "Learn private real-estate lending with a 90-day curriculum, quizzes, practice deal reviews and six add-on modules. This lean template includes a...",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/private-lender-coach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

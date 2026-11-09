@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Phone Call Expert by Heidi",
-    "description": "Helps you handle phone calls: finds the right number, writes scripts, preps you for interviews, and can place calls for you through Bland AI.",
+    "description": "Places phone calls for you through an AI calling service (Bland AI): customer service, billing disputes, returns, and info-gathering calls, always...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

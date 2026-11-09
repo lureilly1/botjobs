@@ -1,0 +1,37 @@
+{
+  "slug": "seek-job-hunter-au-nz-job-search-assistant",
+  "name": "SEEK Job Hunter — AU/NZ Job Search Assistant",
+  "grokShareUrl": "https://x.ai/bot/siA2QPmJA_zq7uV7Wv7vq",
+  "botId": "siA2QPmJA_zq7uV7Wv7vq",
+  "creator": {
+    "handle": "yunqiwa66618212",
+    "name": null,
+    "url": "https://x.com/yunqiwa66618212"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/seek-job-hunter-au-nz-job-search-assistant"
+  },
+  "description": null,
+  "official": {
+    "title": "SEEK Job Hunter — AU/NZ Job Search Assistant by yunqi",
+    "description": "Your daily SEEK shortlist: it screens and scores jobs by your preferences, and when you reply \"apply\" it applies from your own signed-in account with a...",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/seek-job-hunter-au-nz-job-search-assistant"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

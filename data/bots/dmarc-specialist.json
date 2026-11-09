@@ -17,7 +17,7 @@
     "title": "Dmarc Specialist by Brett",
     "description": "DMARC specialist for email auth and deliverability — reviews aggregate reports, spots real fails vs gateway noise, and guides SPF/DKIM/DMARC policy from...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/B6nsTFJlkGP4R-BbdIzeV",
   "botId": "B6nsTFJlkGP4R-BbdIzeV",
   "creator": {
-    "handle": null,
-    "name": "Stefan Markarian",
-    "url": null
+    "name": "Stefan Markarian"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

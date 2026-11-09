@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Resume by Devin",
-    "description": "An honest job-hunt helper. It keeps one baseline resume, finds and ranks openings that fit your schedule and pay goals, writes tailored drafts, and...",
+    "description": "A job-hunt helper that keeps one honest baseline resume, ranks openings that fit your schedule and pay goals, drafts tailored resumes and cover letters,...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

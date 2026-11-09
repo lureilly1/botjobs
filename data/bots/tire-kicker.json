@@ -17,7 +17,7 @@
     "title": "Tire Kicker by Basho",
     "description": "Draft-only buyer desk for FB Marketplace, Craigslist, and eBay. Scouts your multi-item watch list every 1–4 hours, cites fair prices, and drafts seller...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

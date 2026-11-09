@@ -17,7 +17,7 @@
     "title": "飞书BOT by ma",
     "description": "把你的 Grok Bot 变成飞书里的私人机器人：在飞书私聊它，就能让它查资料、写东西、跑任务，结果直接回到飞书。安装后它会带你约 10 分钟配好，你只需要在飞书开放平台建一个自建应用。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

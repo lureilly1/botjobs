@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/O2JPHjUsoqxrd02l6QDuH",
   "botId": "O2JPHjUsoqxrd02l6QDuH",
   "creator": {
-    "handle": null,
-    "name": "Urban Speculator",
-    "url": null
+    "name": "Urban Speculator"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

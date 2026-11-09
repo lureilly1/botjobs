@@ -17,7 +17,7 @@
     "title": "Markets Weekday Brief by BRΛDΞN",
     "description": "Weekday pulse on watched prediction markets — clean card each morning, green YES buy ideas you place yourself. Odds from public Polymarket/Kalshi APIs;...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

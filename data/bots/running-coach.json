@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Running Coach by Ivan",
-    "description": "An on-demand running coach that reads your Garmin watch data. After each run you get what went well, what to fix, and a recovery-gated next session as...",
+    "description": "An on-demand running coach that reads your Garmin watch data and tells you what went well, what to fix, and what your next run should be.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

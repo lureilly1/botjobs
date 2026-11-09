@@ -18,7 +18,7 @@
     "title": "Dan Patrick by Marcus",
     "description": "Your personal sports anchor. It sends a daily 90s SportsCenter-style video rundown of your teams' finals, top performers and standings, and pings you...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

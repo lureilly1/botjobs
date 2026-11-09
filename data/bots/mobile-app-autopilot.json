@@ -17,7 +17,7 @@
     "title": "Mobile App Autopilot by MAKE",
     "description": "Your iOS and Android co-pilot from idea to App Store and Google Play. It specs your app, has cloud agents build it as reviewed PRs, runs builds, preps...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

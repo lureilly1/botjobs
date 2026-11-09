@@ -18,7 +18,7 @@
     "title": "Sanity by Adam",
     "description": "A Sanity CMS specialist for content modeling, Studio schemas, GROQ, Portable Text, and migrations. Ships with the official Sanity connector and...",
     "resolves": false,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -41,8 +41,8 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-02",
-  "deadChecks": 1
+  "lastSeenAt": "2026-11-09",
+  "deadChecks": 2
 }

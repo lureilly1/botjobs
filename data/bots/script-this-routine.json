@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Script This Routine by Kevin",
-    "description": "Audits every routine on your Grok Bots and turns mechanical checks into small tested scripts, so each routine wakes the bot only when there's something...",
+    "description": "Audits the routines on all your Grok Bots and turns mechanical checks into small tested scripts, so routines only spend tokens when there's something to...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

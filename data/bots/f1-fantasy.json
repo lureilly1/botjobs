@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "F1 Fantasy by Hernan",
-    "description": "Your F1 Fantasy companion. It builds your team and suggests drivers, constructors, Boost, transfers and chips for each Grand Prix, with data.",
+    "description": "Your F1 Fantasy companion: drivers, Boost and chips. Reads screenshots, replies in your language, never changes your team without your OK.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

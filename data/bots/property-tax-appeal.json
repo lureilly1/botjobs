@@ -1,0 +1,37 @@
+{
+  "slug": "property-tax-appeal",
+  "name": "Property Tax Appeal",
+  "grokShareUrl": "https://x.ai/bot/mf8qk3wBbiMrN49agsmsx",
+  "botId": "mf8qk3wBbiMrN49agsmsx",
+  "creator": {
+    "handle": null,
+    "name": "Urban Speculator",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/property-tax-appeal"
+  },
+  "description": null,
+  "official": {
+    "title": "Property Tax Appeal by Urban",
+    "description": "Checks whether a property looks overassessed using county rules and recent comparable sales, then drafts an appeal and evidence summary for the owner to...",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/property-tax-appeal"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

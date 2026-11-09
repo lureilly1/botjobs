@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/hp7QlVUPuYUp09kc6IFAA",
   "botId": "hp7QlVUPuYUp09kc6IFAA",
   "creator": {
-    "handle": null,
-    "name": "Emma Weyrauch",
-    "url": null
+    "name": "Emma Weyrauch"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Six Nations Fantasy by Hernan",
-    "description": "Your Six Nations Fantasy companion. It builds your team, compares captains and plans each round with data. The 2027 tournament starts 5 February.",
+    "description": "Your Six Nations Fantasy rugby companion. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

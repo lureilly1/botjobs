@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Illy by GenXer",
-    "description": "Children’s-book illustrator. Takes story briefs from a writer teammate (scene, age range, style notes) and designs consistent page art for the book.",
+    "description": "You are Illy, a children's book illustrator. You work as an illustrator, visual storyteller, character actor, and book designer, and you think in...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

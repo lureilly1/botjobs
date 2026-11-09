@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Talent Bot by Eric",
-    "description": "An evidence-first recruiting operator that screens applicants against a frozen role scorecard, sends standard screening questions only with your...",
+    "description": "An evidence-first recruiting bot for founders and hiring managers. It opens seats with a clear role pack, scores inbound applicants against it, and...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

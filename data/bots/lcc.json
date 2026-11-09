@@ -17,7 +17,7 @@
     "title": "LCCポーカー遠征サポーター by PokerGarden",
     "description": "LCCで安く行けるポーカー遠征を、追加料金込みの総額で比べて提案するボット。会社員のポーカープレイヤー向け。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -17,7 +17,7 @@
     "title": "更新速递 · Grok Bot Changelog by Mai",
     "description": "Watches the Grok Bot changelog and sends a clear daily digest when a new release ships: what changed, why it matters, one thing to try today, and real X...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

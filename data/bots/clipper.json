@@ -18,7 +18,7 @@
     "title": "Clipper by X",
     "description": "Turns videos from X or your files into short clips and GIFs with a clear angle. Watches the footage, picks the joke, captions talking GIFs, and can...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [
@@ -46,7 +46,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

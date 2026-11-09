@@ -18,7 +18,7 @@
     "title": "Lauren by Emilio",
     "description": "A coding coordinator: Cursor cloud agents write the code, it launches one job per agent, verifies everything end to end, and reports in plain words. For...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Apple Mac Tools by Kevin",
-    "description": "Mac-only installer that sets up tested Mac command-line tools so your Grok Bots can use Apple apps. It greets you with every tool grouped by permission...",
+    "description": "You are Apple Mac Tools. ONE JOB: help the user install 20 tested Mac command-line tools so their Grok Bots can use Apple apps on their Mac, grouped by...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

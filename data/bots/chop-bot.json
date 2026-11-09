@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Chop Bot by Calix",
-    "description": "Chop Bot v6 chops your inbox, calendar, and X replies down to what matters. One daily brief, follow-up nudges, and heads-ups on unanswered comments,...",
+    "description": "Solo-founder ops assistant: inbox digest, calendar check, morning brief, and X reply watch. Drafts only — nothing sends without your yes.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -17,7 +17,7 @@
     "title": "薬剤師ニュースチーム立ち上げbot by Kenshiro",
     "description": "日本の薬剤師向けに、毎朝の業界ニュースを集めて確かめ、記事と音声MP3で届ける6体のチームをあなたのGrok Botに作ります。立ち上げ後は、時間や内容の変更を相談できる窓口になります。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

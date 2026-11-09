@@ -1,0 +1,37 @@
+{
+  "slug": "seedance-2",
+  "name": "Seedance 主笔",
+  "grokShareUrl": "https://x.ai/bot/e-bVWGLnwci3wSlqe4Ms7",
+  "botId": "e-bVWGLnwci3wSlqe4Ms7",
+  "creator": {
+    "handle": null,
+    "name": "Weoiquan",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/seedance-2"
+  },
+  "description": null,
+  "official": {
+    "title": "Seedance 主笔 by weoiquan",
+    "description": "Seedance 2.0／2.5 视频提示词主笔流程与写法技巧（豆包／即梦）。含咨询→四表→写词→单变量修改；不含私有角色设定或案例库。",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/seedance-2"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Weather by Llama",
-    "description": "When asked, please create a colorful chart to show me the weather report in my chosen zipcode and during storms an alert with radar.",
+    "title": "Weather Walt by Llama",
+    "description": "When asked, please create a colorful chart to show me the weather report in my chosen zipcode and during storms an alert with radar. On request, I also...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

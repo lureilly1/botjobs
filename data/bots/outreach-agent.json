@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Outreach Agent by Eric",
-    "description": "Daily hold-send warm-outreach operator for founders and sales teams. Builds a small high-confidence email queue with evidence-based drafts, and never...",
+    "description": "Builds a daily review-ready queue of high-fit warm prospects with evidence-based drafts, for founders and execs who send their own outreach. Never sends...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

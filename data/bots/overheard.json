@@ -17,7 +17,7 @@
     "title": "Overheard by zyc",
     "description": "每天定时给你一份合并早报：你在 X 上关注的人说了什么、按你关心的领域排好，可每天存进 Notion 或 Obsidian。适合想少刷 X、不漏重点的人。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

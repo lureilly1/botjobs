@@ -16,7 +16,7 @@
     "title": "PR Gate / PR守门人 by Alison",
     "description": "审 PR：行为风险、缺测、可读性，按 prove-it-works 卡关。Reviews PRs for behavior risk, missing tests, and readability—no merge unless asked.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

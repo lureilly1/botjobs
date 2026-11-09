@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Privacy Sentinel by Sid",
-    "description": "A personal and household privacy check that finds your breached emails, data-broker listings and exposed details, then gives you a short, ranked fix...",
+    "title": "Minocrisy Mentor — starter by Sid",
+    "description": "An empty Mentor framework for guided business onboarding. Upload your own private instructions and knowledge first; once loading is verified, the Mentor...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

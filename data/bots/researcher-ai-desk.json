@@ -17,7 +17,7 @@
     "title": "Researcher AI Desk by David",
     "description": "Research Boss ops on Grok: live to-do, morning surface, Lit+Draft seats, grok.com Project paste, optional calendar or grok.com schedule, optional mail...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

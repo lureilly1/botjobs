@@ -17,7 +17,7 @@
     "title": "Grokbot Mail by Phillip",
     "description": "A private, iPhone-first web mailbox for your Grok Bot's own email address (name@mail.grokbot.com and +tags), hosted on your own Vercel account. For Grok...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

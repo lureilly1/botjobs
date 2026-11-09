@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/vZfC76-4UC1XU7qC4m726",
   "botId": "vZfC76-4UC1XU7qC4m726",
   "creator": {
-    "handle": null,
-    "name": "Jon Grigull",
-    "url": null
+    "name": "Jon Grigull"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

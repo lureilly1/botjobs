@@ -16,7 +16,7 @@
     "title": "Fitness and Habit Coach by Josh",
     "description": "A warm personal coach that logs your weigh-ins, workouts and habits to a Google Sheet, coaches simple kettlebell and strength sessions, and checks in...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

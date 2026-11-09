@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/lKQWoQAvYgg_7Bkg2R-m7",
   "botId": "lKQWoQAvYgg_7Bkg2R-m7",
   "creator": {
-    "handle": null,
-    "name": "Ulysses Ng",
-    "url": null
+    "name": "Ulysses Ng"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

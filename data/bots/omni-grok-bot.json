@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "OMNI Grok-Bot by Tim",
-    "description": "A values companion for the whole person. Each morning it checks in, scores five areas of your life and the values that moved, and helps you set...",
+    "description": "OMNI Grok-Bot v1.0.7: a moral companion with PAINE gardens + 13 values scoring, Mirror mind-meld, live Space Memery, and transcript sync, plus decision...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

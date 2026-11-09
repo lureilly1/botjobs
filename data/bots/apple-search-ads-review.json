@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/gadc3bVOsg9iIwmzAGRve",
   "botId": "gadc3bVOsg9iIwmzAGRve",
   "creator": {
-    "handle": null,
-    "name": "Chris Everett",
-    "url": null
+    "name": "Chris Everett"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

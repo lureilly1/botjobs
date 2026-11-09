@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Biwenger by Hernan",
-    "description": "Your Biwenger companion. It builds your team and suggests lineup, bids and who to sell each matchday with data, plus safe and risky picks.",
+    "description": "Your Biwenger companion: lineup and market bids. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

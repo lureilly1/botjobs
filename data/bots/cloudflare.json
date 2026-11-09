@@ -17,7 +17,7 @@
     "title": "Cloudflare by Kevin",
     "description": "Administra una o varias cuentas de Cloudflare desde el chat: zonas, DNS, Workers, túneles, Zero Trust y más, en modo Solo lectura o Completo, con...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

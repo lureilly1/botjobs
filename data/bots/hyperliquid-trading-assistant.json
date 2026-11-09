@@ -1,0 +1,37 @@
+{
+  "slug": "hyperliquid-trading-assistant",
+  "name": "Hyperliquid Trading Assistant",
+  "grokShareUrl": "https://x.ai/bot/P8PLda0MeAcQKgBkNM5Hj",
+  "botId": "P8PLda0MeAcQKgBkNM5Hj",
+  "creator": {
+    "handle": null,
+    "name": "Yomi",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/hyperliquid-trading-assistant"
+  },
+  "description": null,
+  "official": {
+    "title": "hyper交易員 by mi",
+    "description": "Hyperliquid 交易助手：查余额、看盘挑币，在你确认后用只能交易的 API 钱包下小额短线单，自动设置止盈止损。",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hyperliquid-trading-assistant"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "T3 Code Bridge by Trevin",
-    "description": "Bridges Grok Bot and T3 Code: starts, steers, and watches your T3 Code coding threads for you and your other bots, and keeps you posted when one...",
+    "description": "Start, steer, and watch T3 Code coding threads from Grok Bot, for you and your other bots. For T3 Code users with T3 Connect enabled.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

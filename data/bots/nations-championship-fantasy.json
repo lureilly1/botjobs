@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Nations Championship Fantasy by Hernan",
-    "description": "Your Nations Championship Fantasy companion. It builds your XV and Super Sub within 100M, compares captains and plans your Triple Captain.",
+    "description": "Your Nations Championship companion: XV and Super Sub. Reads screenshots, replies in your language, never changes your team without your OK.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

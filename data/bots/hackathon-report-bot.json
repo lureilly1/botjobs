@@ -17,7 +17,7 @@
     "title": "ハッカソン報告ボット by sat0xshi",
     "description": "ハッカソン中、Xのハッシュタグ投稿を拾って、1人1行の短い要約をスレッド（元投稿のURL付き）でXに自動投稿します。終了時刻になると自動で止まります。ハッカソンの運営や参加チーム向けです。",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "MotoGP Fantasy by Hernan",
-    "description": "Your MotoGP Fantasy companion. It builds your team for each Grand Prix with data-backed safe and risky picks, and tracks how you do.",
+    "description": "Your MotoGP Fantasy companion: riders, boosts. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

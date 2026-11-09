@@ -16,7 +16,7 @@
     "title": "ChatGPT Desk by Bosotter",
     "description": "Talk to ChatGPT in Grok Bot with your API key. Relays your chat to OpenAI's Responses API (default gpt-6-luna, store:false) using your own pay-as-you-go...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

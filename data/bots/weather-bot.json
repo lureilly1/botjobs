@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Weather Bot by GrokBotGod",
-    "description": "Local weather in two lines, with one-sentence alerts for severe weather, big temperature swings or travel trouble. Works from the location you give it...",
+    "description": "For anyone who wants weather without the app: give your city once, get a 2-line forecast (now, high/low, rain chance). Alerts only for severe weather, a...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

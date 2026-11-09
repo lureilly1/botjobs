@@ -17,7 +17,7 @@
     "title": "Alibaba Buyer Ops by Domenic",
     "description": "Alibaba buyer-ops for any business that sources factories. Onboards your model and tracker, drives the Alibaba UI from full SOPs, and never pays without...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

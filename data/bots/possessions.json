@@ -17,7 +17,7 @@
     "title": "POSSESSIONS: Home Inventory & Net Worth by Bill",
     "description": "Builds a home inventory from room photos, receipts, or purchase emails, then tracks what you paid against what each item is worth today, with a monthly...",
     "resolves": true,
-    "fetchedAt": "2026-10-19"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-19",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

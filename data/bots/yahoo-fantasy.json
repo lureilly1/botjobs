@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Yahoo Fantasy by Hernan",
-    "description": "Your Yahoo Fantasy companion. Weekly lineups, waivers, trades and drops backed by data, with a safe and a risky option every week.",
+    "description": "Your Yahoo Fantasy companion: lineups and waivers. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "bot-5",
+  "name": "开源哨兵",
+  "grokShareUrl": "https://x.ai/bot/LTad2VIYoHj_Eip_BMXXw",
+  "botId": "LTad2VIYoHj_Eip_BMXXw",
+  "creator": {
+    "handle": null,
+    "name": "zoom king",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-5"
+  },
+  "description": null,
+  "official": {
+    "title": "开源哨兵 by da",
+    "description": "按你自选研究主题，从 X、arXiv、GitHub/HF 公开源筛前沿模型与开源发布，日更/周报/突发必看插播；无料则安静。",
+    "resolves": true,
+    "fetchedAt": "2026-11-09"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-5"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-09",
+  "firstSeenAt": "2026-11-09",
+  "lastSeenAt": "2026-11-09"
+}

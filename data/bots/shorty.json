@@ -15,10 +15,10 @@
   },
   "description": "Turns long-form YouTube videos that already performed into vertical shorts, using Opus Clip as the main tool and Descript when that falls short. Output is 9:16 with captions and a deliberate hook, produced in batches on weekdays, so it assumes an existing back catalogue to mine.",
   "official": {
-    "title": "Shorty by Farzad",
-    "description": "Cuts YouTube Shorts from proven long-form. Opus Clip first, Descript backup, CapCut dropped. Strong hooks, 9:16, captions, no spam. Weekday batches of...",
+    "title": "Shorty · Short-Form creator by Farzad",
+    "description": "Owns YouTube Shorts end-to-end: cut from your long-form playlist, publish after checks, cross-post native video to X, optional TikTok. Quiet unless...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [
@@ -44,7 +44,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

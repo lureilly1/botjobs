@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "NBA Fantasy by Hernan",
-    "description": "Your NBA Fantasy companion for the official Salary Cap game. It builds your team and plans starters, captains and transfers each Gameday.",
+    "description": "Your NBA Fantasy companion: starters, captain. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }

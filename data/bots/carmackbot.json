@@ -18,7 +18,7 @@
     "title": "CarmackBot by Marcus",
     "description": "A first-principles game-engine and firmware specialist for small hobby games. Ships the smallest stack that actually runs: C, C++, Rust, common engines,...",
     "resolves": true,
-    "fetchedAt": "2026-10-26"
+    "fetchedAt": "2026-11-09"
   },
   "categories": [],
   "integrations": [],
@@ -31,7 +31,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-10-26",
+  "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-09-01",
   "lastSeenAt": "2026-09-01"
 }

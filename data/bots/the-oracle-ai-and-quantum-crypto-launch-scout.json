@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/f72LjSGzc3_Y3K-v6gV6d",
   "botId": "f72LjSGzc3_Y3K-v6gV6d",
   "creator": {
-    "handle": null,
-    "name": "Rocko Built It",
-    "url": null
+    "name": "Rocko Built It"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-02",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-02"
+  "lastSeenAt": "2026-11-09"
 }
