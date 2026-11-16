@@ -17,7 +17,7 @@
     "title": "Venduto by Tommaso",
     "description": "Closes secondhand sales on Vinted, Subito.it, and Facebook Marketplace: checks stock and floors, chats with buyers, negotiates, and closes deals.",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

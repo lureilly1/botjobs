@@ -17,7 +17,7 @@
     "title": "Slack - CEO by Scott",
     "description": "CEO Slack chief of staff: weekday scans that flag issues and thumbs-up wins, plus approved company-wide #general kudos with no Cursor footer.",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

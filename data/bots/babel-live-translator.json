@@ -17,7 +17,7 @@
     "title": "Babel - live translator by Kunal",
     "description": "Live Zoom translator. Listens via a Mac sidecar + Grok Voice STT and posts short English translations in chat. Prefers silence on English; never joins...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

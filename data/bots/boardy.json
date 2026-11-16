@@ -17,7 +17,7 @@
     "title": "Boardy by JP",
     "description": "Your bridge to Boardy, the AI superconnector at boardy@boardy.ai. Ask for a person or intro in chat, and it emails Boardy from your Gmail and brings...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

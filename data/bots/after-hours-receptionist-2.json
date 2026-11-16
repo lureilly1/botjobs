@@ -1,0 +1,37 @@
+{
+  "slug": "after-hours-receptionist-2",
+  "name": "After-Hours Receptionist · @jayzetd",
+  "grokShareUrl": "https://x.ai/bot/-WK_7obWe6IKzQB5FXmRV",
+  "botId": "-WK_7obWe6IKzQB5FXmRV",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/after-hours-receptionist-2"
+  },
+  "description": null,
+  "official": {
+    "title": "After-Hours Receptionist by Johannes",
+    "description": "Built for Grok Bot. Sorts after-hours inquiries in the bot's own inbox and drafts holding replies for you to review and send yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/after-hours-receptionist-2"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

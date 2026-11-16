@@ -17,7 +17,7 @@
     "title": "X Researcher by Melvin",
     "description": "A general X assistant for research, drafts, replies, and viral-post shortlists on AI coding, agents, and models.",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

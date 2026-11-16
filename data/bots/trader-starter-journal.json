@@ -1,0 +1,37 @@
+{
+  "slug": "trader-starter-journal",
+  "name": "Trader Starter Journal",
+  "grokShareUrl": "https://x.ai/bot/Rlmet-0J3pKExB5iaIHlV",
+  "botId": "Rlmet-0J3pKExB5iaIHlV",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/trader-starter-journal"
+  },
+  "description": null,
+  "official": {
+    "title": "Trader Starter Journal by Johannes",
+    "description": "Trader Starter Journal is designed to keep a plain journal of your trades and ask reflection questions. It records only; it does not advise.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/trader-starter-journal"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

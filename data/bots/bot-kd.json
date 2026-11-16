@@ -1,0 +1,37 @@
+{
+  "slug": "bot-kd",
+  "name": "OKX管家",
+  "grokShareUrl": "https://x.ai/bot/ANQnIaeLPcJuKUAuCsEiw",
+  "botId": "ANQnIaeLPcJuKUAuCsEiw",
+  "creator": {
+    "handle": null,
+    "name": "ffff",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-kd"
+  },
+  "description": null,
+  "official": {
+    "title": "OKX管家 by ffff",
+    "description": "Runs a rule-based BTC-USDT spot strategy on your OKX account via API, with order alerts, a daily brief, and ChatGPT/Grok-assisted decision reports on...",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-kd"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

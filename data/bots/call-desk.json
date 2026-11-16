@@ -16,8 +16,8 @@
   "official": {
     "title": "Call Desk by Dr",
     "description": "Places personal outbound phone calls so you don’t have to — shops, bookings, utilities, appointments, chasing deliveries. Uses Grok Voice plus Twilio....",
-    "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/call-desk/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "landlord-desk",
+  "name": "Landlord Desk",
+  "grokShareUrl": "https://x.ai/bot/Yqqm7BCrZKPgYK5uPyL1B",
+  "botId": "Yqqm7BCrZKPgYK5uPyL1B",
+  "creator": {
+    "handle": null,
+    "name": "Urban Speculator",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/landlord-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Landlord Desk by Urban",
+    "description": "Landlord Desk by Urban Speculator helps self-managing US landlords with up to 10 doors track rent, log maintenance tickets, draft tenant messages for...",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/landlord-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

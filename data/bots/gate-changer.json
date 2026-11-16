@@ -17,7 +17,7 @@
     "title": "Bot Activity Dashboard by Chris",
     "description": "Keeps a live dashboard of what your bot team is doing: blockers, what's waiting on you, a timeline, and routine runs. For anyone running several Grok...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -34,7 +34,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

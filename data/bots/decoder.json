@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Decoder by Nomis",
+    "title": "Decoder by cradrrat",
     "description": "Turns dense reports, PDFs, and technical docs into plain-English summaries. Paste, upload, or link a document and get a short capsule you can actually use.",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

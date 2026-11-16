@@ -16,8 +16,8 @@
   "official": {
     "title": "Comprador by Whyment",
     "description": "A personal shopping bot that finds products, watches launches and restocks, and takes orders to checkout. It checks each store's bot policy first and...",
-    "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -33,9 +33,10 @@
       "url": "https://grokbot.dev/marketplace/comprador/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
 }

@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/j3umfcXpWwpHAJ8RTpeax",
   "botId": "j3umfcXpWwpHAJ8RTpeax",
   "creator": {
-    "handle": null,
-    "name": "Hernán Centric",
-    "url": null
+    "name": "Hernán Centric"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

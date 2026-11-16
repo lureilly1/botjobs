@@ -17,7 +17,7 @@
     "title": "gb-live",
     "description": "Xのライブ配信を監視し、画面変化のスクショと日本語要約を溜め、変化があったときだけ毎時ダイジェストをオーナーへ送るボット。公開・投稿はしない。",
     "resolves": false,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,8 +36,9 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09",
-  "deadChecks": 2
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 3,
+  "unpublished": true
 }

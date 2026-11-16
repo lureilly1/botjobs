@@ -15,8 +15,8 @@
   "official": {
     "title": "Meeting & Note Action Extractor by Johannes",
     "description": "Turns messy meeting transcripts and notes into a 1-page brief and an owner/deadline action table.",
-    "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -27,9 +27,10 @@
       "url": "https://bot.store/bots/meeting-note-action-extractor"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
 }

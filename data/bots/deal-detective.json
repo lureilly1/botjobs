@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Deal Detective by Ashley",
-    "description": "Your personal bargain hunter. Tell it your ZIP and favorite stores, and it finds real discounts, compares unit prices, and builds shopping lists that...",
+    "description": "Finds real grocery and retail discounts, compares unit prices, checks coupons, and builds shopping lists that actually save you money. No fake deals, no...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

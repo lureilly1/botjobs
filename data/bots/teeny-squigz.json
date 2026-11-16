@@ -17,7 +17,7 @@
     "title": "Ad Aether by Ξ",
     "description": "Astronut Inbox Assailant for crew runners about to go live. Clone in one tap (Add to Grok Bot) — not another layer of barriers. Inbox triage, one next...",
     "resolves": false,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,9 +36,9 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09",
-  "deadChecks": 3,
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 4,
   "unpublished": true
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "sales-follow-up-drafter",
+  "name": "Sales Follow-up Drafter",
+  "grokShareUrl": "https://x.ai/bot/ZEtVsqmKqO-jVovWxC929",
+  "botId": "ZEtVsqmKqO-jVovWxC929",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/sales-follow-up-drafter"
+  },
+  "description": null,
+  "official": {
+    "title": "Sales Follow-up Drafter by Johannes",
+    "description": "Works in Grok Bot. Turns call notes you paste into next steps, objections and a follow-up email draft, using only what is in the notes.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/sales-follow-up-drafter"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

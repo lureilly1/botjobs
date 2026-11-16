@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Warranty Bot by Nomis",
+    "title": "Warranty Bot by cradrrat",
     "description": "Finds your receipts in your email, tells you whether a broken item is still covered, and walks you through the claim. Can also track warranty expiries...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

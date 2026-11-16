@@ -1,0 +1,37 @@
+{
+  "slug": "social-content-desk",
+  "name": "Social Content Desk",
+  "grokShareUrl": "https://x.ai/bot/L9bFCqlGz2q4V7F1S2C7-",
+  "botId": "L9bFCqlGz2q4V7F1S2C7-",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/social-content-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Social Content Desk by Johannes",
+    "description": "Works in Grok Bot. Drafts posts and a weekly calendar. It never posts, schedules, replies, likes, follows or sends messages on any platform.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/social-content-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

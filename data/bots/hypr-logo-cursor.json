@@ -16,8 +16,8 @@
   "official": {
     "title": "Hypr Logo Cursor by Tim",
     "description": "Omarchy/Hyprland helper that installs a scalable Hyprland logo (cyan droplet) cursor from official pixels — sizes 24–48 — without third-party cursor packs.",
-    "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/hypr-logo-cursor/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
 }

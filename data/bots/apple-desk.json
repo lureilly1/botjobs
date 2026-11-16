@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Apple Desk by Phillip",
-    "description": "Mac-local Apple apps from Grok Bot: Reminders, Calendar, Notes, Contacts, Messages, and Shortcuts. Clones the public apple-desk repo, walks TCC onboard,...",
+    "title": "App Store Desk by Phillip",
+    "description": "Helps indie iOS developers ship through App Store Connect. It connects a safe API key, checks TestFlight and Xcode Cloud, drafts listing copy and...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

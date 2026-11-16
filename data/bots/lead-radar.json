@@ -1,0 +1,37 @@
+{
+  "slug": "lead-radar",
+  "name": "Lead Radar",
+  "grokShareUrl": "https://x.ai/bot/eIyIcUkXHTdMmtOP75P6R",
+  "botId": "eIyIcUkXHTdMmtOP75P6R",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/lead-radar"
+  },
+  "description": null,
+  "official": {
+    "title": "Lead Radar by Johannes",
+    "description": "Works in Grok Bot. Lead Radar spots public X and Reddit posts that may want what you offer, with reply drafts you review and post yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lead-radar"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

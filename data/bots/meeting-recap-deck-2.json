@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/ix0LjeZowKh5J4j6lf3jf",
   "botId": "ix0LjeZowKh5J4j6lf3jf",
   "creator": {
-    "handle": null,
-    "name": "也派AI",
-    "url": null
+    "name": "也派AI"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

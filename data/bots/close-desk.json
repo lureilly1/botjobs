@@ -1,0 +1,37 @@
+{
+  "slug": "close-desk",
+  "name": "Close Desk",
+  "grokShareUrl": "https://x.ai/bot/a_x3LPVaPwc6UXLcKgkdr",
+  "botId": "a_x3LPVaPwc6UXLcKgkdr",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/close-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Close Desk by Johannes",
+    "description": "Close Desk drafts, tracks and chases client work for bookkeepers, and you approve everything that goes out. Not tax, legal or accounting advice.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/close-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

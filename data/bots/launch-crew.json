@@ -1,0 +1,37 @@
+{
+  "slug": "launch-crew",
+  "name": "Launch Crew",
+  "grokShareUrl": "https://x.ai/bot/CkmF4C9uxWhLJSxV03rzm",
+  "botId": "CkmF4C9uxWhLJSxV03rzm",
+  "creator": {
+    "handle": "growthwortfh",
+    "name": null,
+    "url": "https://x.com/growthwortfh"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/launch-crew"
+  },
+  "description": null,
+  "official": {
+    "title": "Growth Operator by Wenyan",
+    "description": "A one-person marketing team for indie founders, solo developers and small teams selling software, apps or games in global and Chinese markets. It...",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/launch-crew"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

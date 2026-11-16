@@ -17,7 +17,7 @@
     "title": "Mailchimp Monthly Blast by Lovable",
     "description": "Drafts and sends a monthly Mailchimp email blast (last month, this month, upcoming, CTAs) plus optional same-day reminders. One fact per section, wait...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

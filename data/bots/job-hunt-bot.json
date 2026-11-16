@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Job Hunt Bot by matt",
-    "description": "Your job search assistant. It finds roles that fit you, sorts them into ready and needs-your-call, preps and fills applications up to the review page,...",
+    "description": "Searches the major job boards and company career pages every day, scores each job against your resume and LinkedIn, and sends you the best fits. It...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

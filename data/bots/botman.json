@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Botman by JakeFromStarstruck.",
-    "description": "A detective bot that vets your followers, DMs, lists, and inbox, writes evidence-backed case files, and catches scammers, bots, and impersonators....",
+    "description": "A detective bot that vets your social followers, DMs and inbox for scams, bots and impersonators, writes evidence-first case files, and runs a real-time...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

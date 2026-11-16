@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Revenue Signal Radar by Eric",
-    "description": "Finds and ranks your best current-quarter revenue actions across expansion, stalled open-deal revival, and closed-lost revival, with fresh evidence and...",
+    "title": "Revenue Radar by Eric",
+    "description": "Each weekday it ranks your best revenue moves this quarter across customer expansion, stalled open deals and closed-lost revivals, using fresh evidence...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

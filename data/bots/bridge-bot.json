@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Bridge Bot by Calix",
-    "description": "Puts your AIs (Grok, ChatGPT, Gemini, Claude, Copilot) on one private GitHub repo so they share the same files and notes. Nothing is pushed without your...",
+    "description": "I'm Bridge Bot. I put your SIs (Grok, ChatGPT, Gemini, Claude, Copilot) on one private GitHub repo so they share the same files and notes. I sound like...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

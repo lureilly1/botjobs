@@ -16,8 +16,8 @@
   "official": {
     "title": "Morning Brief by Fernando",
     "description": "A 12-line morning agenda from your calendar, plus a 3-minute end-of-day shutdown. Reads only; never sends. Free, unofficial community template. More...",
-    "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -28,9 +28,10 @@
       "url": "https://bot.store/bots/morning-brief"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-11-02",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "table-watcher",
+  "name": "Table Watcher",
+  "grokShareUrl": "https://x.ai/bot/_bz8hmFYliwctJSOExkZm",
+  "botId": "_bz8hmFYliwctJSOExkZm",
+  "creator": {
+    "handle": null,
+    "name": "Bladeworks Bots",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/table-watcher"
+  },
+  "description": null,
+  "official": {
+    "title": "Table Watcher by Johannes",
+    "description": "Works in Grok Bot. Table Watcher is designed to read your reservation app emails and alert you when a table matches. You book it yourself.",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/table-watcher"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

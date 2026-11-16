@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/xdPCH7E6PVXf5zxFWDvlp",
   "botId": "xdPCH7E6PVXf5zxFWDvlp",
   "creator": {
-    "handle": null,
-    "name": "Yomi",
-    "url": null
+    "name": "Yomi"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-09",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

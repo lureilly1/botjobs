@@ -17,7 +17,7 @@
     "title": "Agent-Ready Optimizer (AgentReady + Safari 27) by Shagghie",
     "description": "Checks whether AI agents can find, read, and act on your website using the AgentReady spec and real Safari 27 browser tests, then ranks the fixes in...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

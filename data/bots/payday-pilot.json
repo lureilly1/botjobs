@@ -1,0 +1,37 @@
+{
+  "slug": "payday-pilot",
+  "name": "Payday Pilot",
+  "grokShareUrl": "https://x.ai/bot/hykPskCjk1RoFQdDGixxe",
+  "botId": "hykPskCjk1RoFQdDGixxe",
+  "creator": {
+    "handle": null,
+    "name": "Joseph Carey",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/payday-pilot"
+  },
+  "description": null,
+  "official": {
+    "title": "Payday Pilot by Joe",
+    "description": "A read-only money tracker for people juggling bills and debt. It watches your due dates, credit cards, loans, Klarna and Affirm plans, and cash-advance...",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/payday-pilot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

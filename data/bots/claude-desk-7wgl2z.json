@@ -1,0 +1,36 @@
+{
+  "slug": "claude-desk-7wgl2z",
+  "name": "Claude Desk",
+  "grokShareUrl": "https://x.ai/bot/7WgL2zBFvgtl8ccjAAV_4",
+  "botId": "7WgL2zBFvgtl8ccjAAV_4",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/claude-desk"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/claude-desk"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
+}

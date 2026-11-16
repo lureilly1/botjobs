@@ -17,7 +17,7 @@
     "title": "Rogue Bot Hunter by Thierry",
     "description": "Fleet police for rogue AIs on your Grok Bot agents. Payment kills plus niche occupation; ask before cut. Monday recap and event-driven Hunt new bot....",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

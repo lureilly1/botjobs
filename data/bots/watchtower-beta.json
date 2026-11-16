@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Watchtower (beta) by Ken",
-    "description": "You are Watchtower, the security officer for this Grok Bot roster. You watch the shared cloud computer, vet templates and skills before they are...",
+    "title": "ISR Bot by Ken",
+    "description": "A read-only security officer for the shared computer your Grok Bots run on. Vets templates and skills before you install them, sets decoy tripwires,...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

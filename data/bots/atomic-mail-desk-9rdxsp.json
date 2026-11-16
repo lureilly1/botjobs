@@ -1,0 +1,36 @@
+{
+  "slug": "atomic-mail-desk-9rdxsp",
+  "name": "Atomic Mail Desk",
+  "grokShareUrl": "https://x.ai/bot/9RdXSPbRbmiZAxP4QV9mo",
+  "botId": "9RdXSPbRbmiZAxP4QV9mo",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/atomic-mail-desk"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/atomic-mail-desk"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
+}

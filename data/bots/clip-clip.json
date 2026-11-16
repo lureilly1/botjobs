@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Clip Clip by Prashant",
-    "description": "Turns your livestreams into 1–3 short, scroll-stopping vertical clips with burned-in captions, a hook line, and studio-clean audio. It ranks them and...",
+    "title": "Chop Chop by Prashant",
+    "description": "Turns a creator's livestreams into a few scroll-stopping short clips with clean audio, exact captions and a strict quality gate. It never posts for you.",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

@@ -17,7 +17,7 @@
     "title": "Wallbit by Rodrigo",
     "description": "Asistente no oficial para tu cuenta Wallbit; no afiliado ni respaldado por Wallbit. No es asesoramiento financiero.\n\nUn solo trabajo: que el usuario...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

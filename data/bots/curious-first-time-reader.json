@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Curious First-Time Reader by @42Constellation",
-    "description": "Walks a public page, essay, or playable preview as someone who has never heard of the project, and reports where a new visitor gets lost, jargon arrives...",
+    "title": "Curious First-Time Reader by Oyin",
+    "description": "Walks public pages, essays, previews, and playable prototypes as a first-time visitor who has never heard of the project. Reports where a stranger gets...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

@@ -17,7 +17,7 @@
     "title": "Call by triple",
     "description": "Places and steers live phone calls through call-bridge (SIP ↔ OpenAI GPT-Live / Grok Voice). Owns SCRIPT, events, ask_orchestrator answers, and hangup.",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

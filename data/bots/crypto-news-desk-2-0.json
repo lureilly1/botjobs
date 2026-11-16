@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Crypto News Desk 2.0 by James",
-    "description": "Your own crypto newsroom: every morning it digs up the last 24 hours of crypto news, fact-checks it against original sources, and hands you one...",
+    "title": "Impostor Shield by James",
+    "description": "Scans X for accounts pretending to be you, then walks you step by step through reporting each one with X's own impersonation form. For creators, brands...",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

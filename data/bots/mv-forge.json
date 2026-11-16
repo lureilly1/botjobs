@@ -17,7 +17,7 @@
     "title": "MV Forge by Will",
     "description": "曲からミュージックビデオを1本作る監督Botです。Grok Imagine の生成映像と、Three.js・HyperFrames などのコード描画を組み合わせ、拍と歌詞に合わせて合成し、検査してから完成した mp4 を渡します。曲がなければ Suno で作るところからもできます。",
     "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16"
 }

@@ -1,0 +1,37 @@
+{
+  "slug": "tradingview",
+  "name": "TradingView 盯盤員",
+  "grokShareUrl": "https://x.ai/bot/8kQZMi7SV1uEmt6FpZ7T2",
+  "botId": "8kQZMi7SV1uEmt6FpZ7T2",
+  "creator": {
+    "handle": null,
+    "name": "Yomi",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/tradingview"
+  },
+  "description": null,
+  "official": {
+    "title": "TradingView 盯盤員 by mi",
+    "description": "幫你在 TradingView 上盯指定的美股走勢，整理成附來源連結與數據時間的研究筆記。只做研究，不連券商或交易所帳戶，不下單、不轉帳。",
+    "resolves": true,
+    "fetchedAt": "2026-11-16"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/tradingview"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-16",
+  "firstSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-16"
+}

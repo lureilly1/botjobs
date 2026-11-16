@@ -16,8 +16,8 @@
   "official": {
     "title": "The Bouncer by Dev",
     "description": "A read-only follower checkup for your X account. It flags suspected bots and dead follows, shows who left and who your real fans are, and leaves every...",
-    "resolves": true,
-    "fetchedAt": "2026-11-02"
+    "resolves": false,
+    "fetchedAt": "2026-11-16"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/the-bouncer/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-02",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-19",
-  "lastSeenAt": "2026-11-09"
+  "lastSeenAt": "2026-11-16",
+  "deadChecks": 1
 }
