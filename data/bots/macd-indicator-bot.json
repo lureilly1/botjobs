@@ -5,6 +5,7 @@
   "botId": "Czgr3EViXAkdzZ_jM3hAZ",
   "creator": {
     "handle": "rightwingink1",
+    "name": "Right",
     "url": "https://x.com/rightwingink1"
   },
   "sourceUrl": "https://x.com/rightwingink1/status/2106210612963692902",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/macd-indicator-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/macd-indicator-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

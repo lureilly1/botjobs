@@ -5,6 +5,7 @@
   "botId": "yDxUZegF6GnO_Kym-qewf",
   "creator": {
     "handle": "stevenvillarino",
+    "name": "Steven",
     "url": "https://x.com/stevenvillarino"
   },
   "sourceUrl": "https://x.com/stevenvillarino/status/2104712906025882077",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/growth/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/growth"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

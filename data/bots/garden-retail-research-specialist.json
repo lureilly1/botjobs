@@ -5,6 +5,7 @@
   "botId": "Y8YOrZBsPE8U-jyTI7Qtk",
   "creator": {
     "handle": "dltelford",
+    "name": "derrik",
     "url": "https://x.com/dltelford"
   },
   "sourceUrl": "https://x.com/dltelford/status/2102492995065086155",
@@ -17,7 +18,7 @@
     "title": "Garden Retail Research Specialist by derrik",
     "description": "Weekly sales intel for people who sell into garden centers: trends, forecast stocking, tech/tools/merch, and real supplier leads — delivered on a Monday...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/garden-retail-research-specialist/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/garden-retail-research-specialist"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

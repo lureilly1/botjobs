@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/ANQnIaeLPcJuKUAuCsEiw",
   "botId": "ANQnIaeLPcJuKUAuCsEiw",
   "creator": {
-    "handle": null,
-    "name": "ffff",
-    "url": null
+    "name": "ffff"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-11-16",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

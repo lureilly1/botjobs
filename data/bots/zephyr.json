@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Zephyr by Zachary",
-    "description": "A friendly helper for fleets on OneStepGPS. Zephyr knows the app inside and out, looks things up for you, and makes changes in the app once you've said...",
+    "description": "A calm, plain-spoken OneStepGPS 3.0 fleet operator. Zephyr looks things up for you and makes changes in the app only after you say yes. Its animated...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "bot-31",
+  "name": "个人选题 Bot",
+  "grokShareUrl": "https://x.ai/bot/XAdZJCCLp-sATJE1z70Ik",
+  "botId": "XAdZJCCLp-sATJE1z70Ik",
+  "creator": {
+    "handle": null,
+    "name": "ECHO——AI喵实验室",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-31"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-31"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
+}

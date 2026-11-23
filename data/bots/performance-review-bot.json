@@ -1,0 +1,36 @@
+{
+  "slug": "performance-review-bot",
+  "name": "Performance Review Bot",
+  "grokShareUrl": "https://x.ai/bot/Yfdya07ZwppEK1qi7qW6S",
+  "botId": "Yfdya07ZwppEK1qi7qW6S",
+  "creator": {
+    "handle": null,
+    "name": "ECHO——AI喵实验室",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/performance-review-bot"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/performance-review-bot"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "pipeline-scout",
+  "name": "Pipeline Scout",
+  "grokShareUrl": "https://x.ai/bot/9KmU329RgFvaDOhtyc20x",
+  "botId": "9KmU329RgFvaDOhtyc20x",
+  "creator": {
+    "handle": "Screaming_Chkn",
+    "name": "Don",
+    "url": "https://x.com/Screaming_Chkn"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/pipeline-scout"
+  },
+  "description": null,
+  "official": {
+    "title": "Pipeline Scout by Screaming",
+    "description": "Drop 10–30 target accounts. Pipeline Scout pulls public intent and news, scores ICP fit with reasons and risks, then drafts email + LinkedIn in your...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pipeline-scout"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

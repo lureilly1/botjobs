@@ -1,0 +1,37 @@
+{
+  "slug": "botanist",
+  "name": "Botanist",
+  "grokShareUrl": "https://x.ai/bot/vtNyKT9NJV2qAFjWPdDKM",
+  "botId": "vtNyKT9NJV2qAFjWPdDKM",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/botanist"
+  },
+  "description": null,
+  "official": {
+    "title": "Botanist",
+    "description": "A careful plant doctor: send a photo or describe symptoms and get up to 3 ranked likely causes, one safe next step, and what to watch for. Asks your...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/botanist"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

@@ -5,6 +5,7 @@
   "botId": "PUn74RYv_r3pcSvNkeQbd",
   "creator": {
     "handle": "leingoedbloed",
+    "name": "Lein",
     "url": "https://x.com/leingoedbloed"
   },
   "sourceUrl": "https://x.com/leingoedbloed/status/2099569404115624094",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/e-mail-organizer/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/e-mail-organizer"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

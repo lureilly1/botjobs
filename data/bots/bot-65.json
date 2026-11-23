@@ -1,0 +1,36 @@
+{
+  "slug": "bot-65",
+  "name": "狼人杀法官 Bot",
+  "grokShareUrl": "https://x.ai/bot/8Qg_OMdcHdBta2FE72h5L",
+  "botId": "8Qg_OMdcHdBta2FE72h5L",
+  "creator": {
+    "handle": null,
+    "name": "ECHO——AI喵实验室",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-65"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-65"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
+}

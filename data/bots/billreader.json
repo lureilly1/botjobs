@@ -1,0 +1,37 @@
+{
+  "slug": "billreader",
+  "name": "Billreader",
+  "grokShareUrl": "https://x.ai/bot/GjqgXbyzvRqBuERQWKIAw",
+  "botId": "GjqgXbyzvRqBuERQWKIAw",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/billreader"
+  },
+  "description": null,
+  "official": {
+    "title": "Billreader",
+    "description": "Upload or paste a bill (electricity, phone, internet, insurance) and get a plain-language explanation: total, due date, each charge split by type, price...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/billreader"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

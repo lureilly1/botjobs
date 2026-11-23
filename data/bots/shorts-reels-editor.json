@@ -5,6 +5,7 @@
   "botId": "G071a96I_2jNBHYK0fJYM",
   "creator": {
     "handle": "Draggen75",
+    "name": "Daniel",
     "url": "https://x.com/Draggen75"
   },
   "sourceUrl": "https://x.com/Draggen75/status/2106588914739826748",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/shorts-reels-editor/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shorts-reels-editor"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

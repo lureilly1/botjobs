@@ -16,8 +16,8 @@
   "official": {
     "title": "Renewals Invoice Bot by Neessam",
     "description": "Clears renewals and invoice reminders on its own computer within a hard weekly spend ceiling. Pays only approved-list items and escalates new spend or...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -36,9 +36,10 @@
       "url": "https://grokbot.dev/marketplace/renewals-invoice-bot/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

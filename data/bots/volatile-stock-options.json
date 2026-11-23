@@ -1,0 +1,37 @@
+{
+  "slug": "volatile-stock-options",
+  "name": "Volatile Stock Options",
+  "grokShareUrl": "https://x.ai/bot/kuhoazDWLEsY-kXvHBwtU",
+  "botId": "kuhoazDWLEsY-kXvHBwtU",
+  "creator": {
+    "handle": "KVTay316",
+    "name": "KV",
+    "url": "https://x.com/KVTay316"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/volatile-stock-options"
+  },
+  "description": null,
+  "official": {
+    "title": "Volatile Stock Options by KV",
+    "description": "Screens volatile US call options with multi-source checks and concrete contracts for personal research — not advice.",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/volatile-stock-options"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

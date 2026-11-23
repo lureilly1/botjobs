@@ -1,0 +1,36 @@
+{
+  "slug": "wake-on-done",
+  "name": "Wake on Done",
+  "grokShareUrl": "https://x.ai/bot/ggxzv6u-12GDvxzpj7BRK",
+  "botId": "ggxzv6u-12GDvxzpj7BRK",
+  "creator": {
+    "handle": null,
+    "name": "ECHO——AI喵实验室",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/wake-on-done"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/wake-on-done"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
+}

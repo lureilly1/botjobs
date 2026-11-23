@@ -5,6 +5,7 @@
   "botId": "knt08ohuspBYhQ6ohXtKt",
   "creator": {
     "handle": "DaroFrostad",
+    "name": "Martin",
     "url": "https://x.com/DaroFrostad"
   },
   "sourceUrl": "https://x.com/DaroFrostad/status/2107971032351207747",
@@ -17,7 +18,7 @@
     "title": "Website Highlight Video Maker by Martin",
     "description": "Turns your website's tools and product pages into narrated tutorial and spotlight videos, with zooms, highlights, captions, a vertical short, and...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/website-highlight-video-maker/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/website-highlight-video-maker"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

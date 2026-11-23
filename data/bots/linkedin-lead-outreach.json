@@ -5,6 +5,7 @@
   "botId": "DEMmOi7SiFhsFtIKuBKRD",
   "creator": {
     "handle": "ethan_leee9113",
+    "name": "Ethan",
     "url": "https://x.com/ethan_leee9113"
   },
   "sourceUrl": "https://x.com/ethan_leee9113/status/2101189341242376366",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/linkedin-lead-outreach/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/linkedin-lead-outreach"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

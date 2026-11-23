@@ -1,0 +1,37 @@
+{
+  "slug": "bookkeeper",
+  "name": "Bookkeeper",
+  "grokShareUrl": "https://x.ai/bot/O6aUmxY6QmMaC4aJBSuqc",
+  "botId": "O6aUmxY6QmMaC4aJBSuqc",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bookkeeper"
+  },
+  "description": null,
+  "official": {
+    "title": "Bookkeeper",
+    "description": "Built by a finance manager with many years in international groups: GAAP-aware setup, clean closings with optional accruals, and controller-style key...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bookkeeper"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

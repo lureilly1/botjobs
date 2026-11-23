@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Superbru Rugby Fantasy by Hernan",
-    "description": "Your Superbru rugby companion: PREM, URC and Champions Cup. Reads screenshots, replies in your language, never changes your team without your OK.",
+    "description": "Your Superbru rugby companion: PREM, URC, Champions Cup. Asks before changing your team and sends a backup list before each deadline.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

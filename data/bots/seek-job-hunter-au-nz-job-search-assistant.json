@@ -17,7 +17,7 @@
     "title": "SEEK Job Hunter — AU/NZ Job Search Assistant by yunqi",
     "description": "Your daily SEEK shortlist: it screens and scores jobs by your preferences, and when you reply \"apply\" it applies from your own signed-in account with a...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

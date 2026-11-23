@@ -5,6 +5,7 @@
   "botId": "Ed8OwTpWaFfZdJHEAoT4t",
   "creator": {
     "handle": "sam_builds_ai",
+    "name": "Sam",
     "url": "https://x.com/sam_builds_ai"
   },
   "sourceUrl": "https://x.com/sam_builds_ai/status/2099824297573511622",
@@ -34,11 +35,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/prospect-drafts/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/prospect-drafts"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

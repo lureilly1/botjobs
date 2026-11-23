@@ -15,7 +15,7 @@
   "description": null,
   "official": {
     "resolves": false,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,9 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16",
-  "deadChecks": 3,
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 4,
   "unpublished": true
 }

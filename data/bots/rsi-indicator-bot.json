@@ -5,6 +5,7 @@
   "botId": "Cjn6YQ377TLVjJYGwkLEq",
   "creator": {
     "handle": "rightwingink1",
+    "name": "Right",
     "url": "https://x.com/rightwingink1"
   },
   "sourceUrl": "https://x.com/rightwingink1/status/2106210475122061715",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/rsi-indicator-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/rsi-indicator-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

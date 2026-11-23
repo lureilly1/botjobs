@@ -1,0 +1,36 @@
+{
+  "slug": "bot-42",
+  "name": "店铺数据日报",
+  "grokShareUrl": "https://x.ai/bot/bEy10rd34xQgV35us671Y",
+  "botId": "bEy10rd34xQgV35us671Y",
+  "creator": {
+    "handle": null,
+    "name": "ECHO——AI喵实验室",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/bot-42"
+  },
+  "description": null,
+  "official": {
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bot-42"
+    }
+  ],
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
+}

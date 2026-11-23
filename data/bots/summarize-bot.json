@@ -5,6 +5,7 @@
   "botId": "9vk3KOm7wJzYVXlyKXxj7",
   "creator": {
     "handle": "_VincentPeng",
+    "name": "Vincent",
     "url": "https://x.com/_VincentPeng"
   },
   "sourceUrl": "https://x.com/_VincentPeng/status/2101214058431058358",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/summarize-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/summarize-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

@@ -5,6 +5,7 @@
   "botId": "UuKqeb4npN9RsP1G3REFR",
   "creator": {
     "handle": "ryanthawks",
+    "name": "Ryan",
     "url": "https://x.com/ryanthawks"
   },
   "sourceUrl": "https://x.com/ryanthawks/status/2105811878081663402",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/website-publisher/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/website-publisher"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

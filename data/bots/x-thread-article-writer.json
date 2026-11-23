@@ -5,6 +5,7 @@
   "botId": "xLeBNzgp0Z6IUGxyt8sj4",
   "creator": {
     "handle": "sigarellano",
+    "name": "sigarellano",
     "url": "https://x.com/sigarellano"
   },
   "sourceUrl": "https://x.com/sigarellano/status/2103737235413860615",
@@ -17,7 +18,7 @@
     "title": "X Thread & Article Writer",
     "description": "Turns your ideas, links, or rough notes into X threads and X articles written in your own voice, ready to paste. It drafts only and never posts for you.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/x-thread-article-writer/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-thread-article-writer"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

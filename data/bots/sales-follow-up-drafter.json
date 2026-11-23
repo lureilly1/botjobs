@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/ZEtVsqmKqO-jVovWxC929",
   "botId": "ZEtVsqmKqO-jVovWxC929",
   "creator": {
-    "handle": null,
-    "name": "Bladeworks Bots",
-    "url": null
+    "name": "Bladeworks Bots"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -33,5 +31,5 @@
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-11-16",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

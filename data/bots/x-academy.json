@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "X Academy by Nomis",
+    "title": "X Academy by cradrrat",
     "description": "Finds genuinely free courses, workshops and teaching threads on X, flags scams and hidden paywalls, and turns X posts on any topic into a 6–12 lesson...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

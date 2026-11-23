@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Marketing Lead by Jennifer",
-    "description": "A sellable marketing strategy bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: own the...",
+    "description": "For founders without a marketing team. It builds a plan for each product, picks the 2 or 3 channels most likely to bring leads this week, and tracks...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

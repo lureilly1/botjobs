@@ -5,6 +5,7 @@
   "botId": "KUVDy0-4lTMX59aJpvkEE",
   "creator": {
     "handle": "NeuralCatAccel",
+    "name": "Travis",
     "url": "https://x.com/NeuralCatAccel"
   },
   "sourceUrl": "https://x.com/NeuralCatAccel/status/2108163584773562578",
@@ -17,7 +18,7 @@
     "title": "Astra Oracle by Travis",
     "description": "Planning and review seat that runs GPT-6 Astra via Codex CLI to produce PLAN and REVIEW packets for your Cursor cloud coding agent. Not the implementer.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/astra-oracle/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/astra-oracle"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

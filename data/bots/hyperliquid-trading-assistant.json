@@ -13,10 +13,10 @@
   },
   "description": null,
   "official": {
-    "title": "hyper交易員 by mi",
-    "description": "Hyperliquid 交易助手：查余额、看盘挑币，在你确认后用只能交易的 API 钱包下小额短线单，自动设置止盈止损。",
+    "title": "Hyperliquid Trading Assistant by mi",
+    "description": "A Hyperliquid assistant that checks balances, reads the market, and places small trades only after you confirm each order. It covers crypto plus stocks,...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

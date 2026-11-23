@@ -15,8 +15,8 @@
   "official": {
     "title": "News Desk by Johannes",
     "description": "Short briefings and research on topics you choose, with dated source links, using web search only.",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -27,9 +27,10 @@
       "url": "https://bot.store/bots/news-desk-bot-short-briefings-with-sources"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

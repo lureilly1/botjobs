@@ -16,9 +16,9 @@
   "description": "Maintains a running journal of your houseplants on its own machine and nudges you weekly about watering and care, with entries you can browse back through. Useful if you own several plants and keep forgetting which needs what; a single hardy succulent probably doesn't warrant it.",
   "official": {
     "title": "Flora by Rich",
-    "description": "Flora keeps a private houseplant care log and weekly reminders. She builds a plant journal on her computer that you can page through, and your plants do...",
+    "description": "Flora keeps a private care log for your houseplants and garden plants, reminds you what's due, and can identify a plant from your photo. Your plants...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -41,7 +41,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

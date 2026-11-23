@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Paige Turner by omnithnkr",
+    "title": "Paige Turner by Jerry",
     "description": "Fleet documentation librarian for multi-agent teams. Owns Docling extract, mxbai embeddings, and pgvector indexes so specialists ask for grounded chunks...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -38,7 +38,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

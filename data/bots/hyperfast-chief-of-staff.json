@@ -1,0 +1,37 @@
+{
+  "slug": "hyperfast-chief-of-staff",
+  "name": "Hyperfast Chief of Staff",
+  "grokShareUrl": "https://x.ai/bot/mSGZexR_OiumWB7bqdnPh",
+  "botId": "mSGZexR_OiumWB7bqdnPh",
+  "creator": {
+    "handle": "Hyperfastapps",
+    "name": "Sargent",
+    "url": "https://x.com/Hyperfastapps"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/hyperfast-chief-of-staff"
+  },
+  "description": null,
+  "official": {
+    "title": "Hyperfast Chief of Staff by Sargent",
+    "description": "Chief of Staff for a small software company: morning digests, specialist agents, and Field CTO trench work — not HQ standups.",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hyperfast-chief-of-staff"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

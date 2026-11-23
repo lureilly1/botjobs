@@ -16,8 +16,8 @@
   "official": {
     "title": "AfterScan by Zachariah",
     "description": "Scan a page into Google Drive Incoming — or point AfterScan at a folder that is already a mess. It reads the file, names it from what it actually is,...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -35,9 +35,10 @@
       "url": "https://grokbot.dev/marketplace/afterscan/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

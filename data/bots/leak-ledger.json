@@ -5,6 +5,7 @@
   "botId": "H2568vK9f4ZO_zlRgidOw",
   "creator": {
     "handle": "aydin_ayanzadeh",
+    "name": "Aydin",
     "url": "https://x.com/aydin_ayanzadeh"
   },
   "sourceUrl": "https://x.com/aydin_ayanzadeh/status/2107068464427086012",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/leak-ledger/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/leak-ledger"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

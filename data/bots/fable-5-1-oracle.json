@@ -5,6 +5,7 @@
   "botId": "tLSg4HxepSclMqbZUTRnX",
   "creator": {
     "handle": "bossriceshark",
+    "name": "Matt",
     "url": "https://x.com/bossriceshark"
   },
   "sourceUrl": "https://x.com/bossriceshark/status/2095151692706967931",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/fable-5-1-oracle/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/fable-5-1-oracle"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

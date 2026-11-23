@@ -5,6 +5,7 @@
   "botId": "FSSDbB1Bv0msoI5mfjR3u",
   "creator": {
     "handle": "SacredFolio",
+    "name": "Drew",
     "url": "https://x.com/SacredFolio"
   },
   "sourceUrl": "https://x.com/SacredFolio/status/2100003255183200704",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/listing-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/listing-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

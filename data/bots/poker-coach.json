@@ -1,0 +1,37 @@
+{
+  "slug": "poker-coach",
+  "name": "Poker Coach",
+  "grokShareUrl": "https://x.ai/bot/vLUJRDBtaFfjWKcNbQv2f",
+  "botId": "vLUJRDBtaFfjWKcNbQv2f",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/poker-coach"
+  },
+  "description": null,
+  "official": {
+    "title": "Pokercoach",
+    "description": "Hold'em trainer: play hands, get graded. Practise No-Limit Texas Hold'em hands street by street at a 6-max table, get each decision graded with pot...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/poker-coach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

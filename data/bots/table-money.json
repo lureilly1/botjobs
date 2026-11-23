@@ -5,6 +5,7 @@
   "botId": "abfx0_FhJ8G_mue5YWQxM",
   "creator": {
     "handle": "Andrew51786",
+    "name": "Andrew",
     "url": "https://x.com/Andrew51786"
   },
   "sourceUrl": "https://x.com/Andrew51786/status/2095176422767599794",
@@ -35,11 +36,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/table-money/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/table-money"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

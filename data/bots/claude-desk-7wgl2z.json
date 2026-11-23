@@ -4,9 +4,7 @@
   "grokShareUrl": "https://x.ai/bot/7WgL2zBFvgtl8ccjAAV_4",
   "botId": "7WgL2zBFvgtl8ccjAAV_4",
   "creator": {
-    "handle": null,
-    "name": "Uniflow",
-    "url": null
+    "name": "Uniflow"
   },
   "sourceUrl": null,
   "discoveredVia": {
@@ -31,6 +29,6 @@
   "linkStatus": "dead",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-11-16",
-  "lastSeenAt": "2026-11-16",
+  "lastSeenAt": "2026-11-23",
   "deadChecks": 1
 }

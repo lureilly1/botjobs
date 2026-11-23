@@ -5,6 +5,7 @@
   "botId": "UUsZRoInD7OHp4sjrZ-we",
   "creator": {
     "handle": "starzq",
+    "name": "Star",
     "url": "https://x.com/starzq"
   },
   "sourceUrl": "https://x.com/starzq/status/2099333570020122669",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/x-writer/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-writer"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

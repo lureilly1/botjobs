@@ -14,10 +14,10 @@
   },
   "description": null,
   "official": {
-    "title": "Prompt Director by K",
-    "description": "A prompt director that runs a team of seven specialist desks (figure, narrative, camera, light, background, fashion, overlay) to build detailed,...",
+    "title": "Sabrina · Sargent by K",
+    "description": "A manager bot that runs your other bots: it sends each task to the right one, checks the work, and only pulls you in when a decision is yours.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

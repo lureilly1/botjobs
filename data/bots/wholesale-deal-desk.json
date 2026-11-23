@@ -14,9 +14,9 @@
   "description": null,
   "official": {
     "title": "Wholesale Deal Desk by Urban",
-    "description": "A deal desk for real estate wholesalers and investors. It scores motivated-seller leads, runs comps into ARV and MAO, drafts offers, LOIs, and scripts,...",
+    "description": "A deal desk for real estate wholesalers and investors: score motivated-seller leads, run comps into ARV and MAO, build a likely-cash buyers list from...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

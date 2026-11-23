@@ -17,8 +17,8 @@
   "official": {
     "title": "Disney Ride Strategist by Matt",
     "description": "A Walt Disney World wait-time strategist you configure for your trip. Asks for your park days, whether you have Early Entry, and your must-do rides,...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -39,9 +39,10 @@
       "url": "https://grokbot.dev/marketplace/disney-ride-strategist/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

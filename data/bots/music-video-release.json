@@ -5,6 +5,7 @@
   "botId": "vagsUEIt5s7lexKnSes2H",
   "creator": {
     "handle": "OmgawdMadeit",
+    "name": "Joseph",
     "url": "https://x.com/OmgawdMadeit"
   },
   "sourceUrl": "https://x.com/OmgawdMadeit/status/2096127964668629458",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/music-video-release/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/music-video-release"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

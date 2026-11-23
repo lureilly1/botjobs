@@ -5,6 +5,7 @@
   "botId": "vIIc2EV8FFZ3g6W8JUgoZ",
   "creator": {
     "handle": "kumarkandgule",
+    "name": "Kumar",
     "url": "https://x.com/kumarkandgule"
   },
   "sourceUrl": "https://x.com/kumarkandgule/status/2100001162426519754",
@@ -34,11 +35,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/exec-daily-ops/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/exec-daily-ops"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

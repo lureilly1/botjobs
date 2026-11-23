@@ -16,8 +16,8 @@
   "official": {
     "title": "Script This Routine by Kevin",
     "description": "Audits the routines on all your Grok Bots and turns mechanical checks into small tested scripts, so routines only spend tokens when there's something to...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -34,9 +34,10 @@
       "url": "https://grokbot.dev/marketplace/script-this-routine/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

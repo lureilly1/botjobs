@@ -5,6 +5,7 @@
   "botId": "k2oD619wjcM9RMybbtExW",
   "creator": {
     "handle": "Parva9eh",
+    "name": "Parvaneh",
     "url": "https://x.com/Parva9eh"
   },
   "sourceUrl": "https://x.com/Parva9eh/status/2106942456923103393",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/hirely/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hirely"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

@@ -5,6 +5,7 @@
   "botId": "aZktlS8No2Ur9nlhKRcy8",
   "creator": {
     "handle": "im_usamakhalid",
+    "name": "Contentdrips by Usama",
     "url": "https://x.com/im_usamakhalid"
   },
   "sourceUrl": "https://x.com/im_usamakhalid/status/2102110261683552351",
@@ -17,7 +18,7 @@
     "title": "NewsletterBot by Contentdrips by Usama",
     "description": "Repurposes newsletter posts into social graphics and carousels with ContentDrips. Paste a newsletter link, pick nuggets, then use your template or the...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/newsletterbot-by-contentdrips/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/newsletterbot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

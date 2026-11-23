@@ -5,6 +5,7 @@
   "botId": "xK8W0ukRv4iZjglzz-FRE",
   "creator": {
     "handle": "kunchenguid",
+    "name": "Kun",
     "url": "https://x.com/kunchenguid"
   },
   "sourceUrl": "https://x.com/kunchenguid/status/2105806675399852090",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/kun/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/kun"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

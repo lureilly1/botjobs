@@ -15,10 +15,10 @@
   },
   "description": "Acts as a general manager for an ESPN fantasy league, covering draft preparation, weekly starters, waiver claims and trade talks, and checking with you before it touches the roster. Suited to owners who want the reasoning done for them but keep the final say.",
   "official": {
-    "title": "FF Bot by Cole",
-    "description": "Your fantasy football GM. It preps drafts and runs your teams every week, handling lineups, waivers, trades and injury news, with the playoffs and a...",
+    "title": "Fantasy Football Advisor by Cole",
+    "description": "A season-long fantasy football GM for ESPN, Yahoo, or Sleeper. It works waivers, sets lineups, finds real trades, and tracks injuries, all aimed at...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -42,7 +42,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

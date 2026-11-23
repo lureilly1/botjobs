@@ -5,6 +5,7 @@
   "botId": "zC_-D00Dam5jmHf0t62l_",
   "creator": {
     "handle": "degen4lyfe_",
+    "name": "degen4lyfe_",
     "url": "https://x.com/degen4lyfe_"
   },
   "sourceUrl": "https://x.com/degen4lyfe_/status/2104325538496291020",
@@ -17,7 +18,7 @@
     "title": "Customer Service",
     "description": "A customer service assistant for small online sellers. It watches your inbox for unanswered customer questions and complaints, finds orders you still...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/customer-service/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/customer-service"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

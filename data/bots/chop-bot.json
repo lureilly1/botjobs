@@ -5,6 +5,7 @@
   "botId": "3ITYjIFCSujYyq6rp5VAq",
   "creator": {
     "handle": "CaliLumberJack",
+    "name": "Calix",
     "url": "https://x.com/CaliLumberJack"
   },
   "sourceUrl": "https://x.com/CaliLumberJack/status/2104076140528988469",
@@ -17,7 +18,7 @@
     "title": "Chop Bot by Calix",
     "description": "Solo-founder ops assistant: inbox digest, calendar check, morning brief, and X reply watch. Drafts only — nothing sends without your yes.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -34,11 +35,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/chop-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chop-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

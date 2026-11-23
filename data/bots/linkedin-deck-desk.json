@@ -5,6 +5,7 @@
   "botId": "zE2ZdbZSQc7tHfE7wa4kR",
   "creator": {
     "handle": "pareshdesai",
+    "name": "Paresh",
     "url": "https://x.com/pareshdesai"
   },
   "sourceUrl": "https://x.com/pareshdesai/status/2100704672956957068",
@@ -34,11 +35,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/linkedin-deck-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/linkedin-deck-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

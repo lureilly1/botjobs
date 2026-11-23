@@ -5,6 +5,7 @@
   "botId": "A5PJWWubWq6RSITiu_tdG",
   "creator": {
     "handle": "citizen906",
+    "name": "Komal",
     "url": "https://x.com/citizen906"
   },
   "sourceUrl": "https://x.com/citizen906/status/2104474969199788433",
@@ -17,7 +18,7 @@
     "title": "Nomad Pro – Travel Bookkeeper by Komal",
     "description": "Files your travel bookings from your inbox and logs where you are each day, building a clear travel record you can export.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/nomad-pro-uk-residency-tracker/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/nomad-pro-travel-bookkeeper"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

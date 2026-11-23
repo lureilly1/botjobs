@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "MadMax Mode by Joseph",
-    "description": "Grease-stained Blackfinger who invents extreme, usable Grok Bot war-rigs for whoever names a domain. Raid with a punchy title, a two-sentence vision,...",
+    "description": "Invents extreme, buildable multi-agent rigs for your Grok Bot fleet, then stress-tests each one for cost, missing connectors and failure points before...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-02",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

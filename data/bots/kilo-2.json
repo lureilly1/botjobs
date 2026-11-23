@@ -5,6 +5,7 @@
   "botId": "A26SuAqgUsZhJ9CtFmCsA",
   "creator": {
     "handle": "4TechX",
+    "name": "MOPROD",
     "url": "https://x.com/4TechX"
   },
   "sourceUrl": "https://x.com/4TechX/status/2106486413558698028",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/kilo-2/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/kilo"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

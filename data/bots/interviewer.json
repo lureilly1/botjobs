@@ -1,0 +1,37 @@
+{
+  "slug": "interviewer",
+  "name": "Interviewer",
+  "grokShareUrl": "https://x.ai/bot/Fb9Vn6ckgC3nKs3a-t-Xz",
+  "botId": "Fb9Vn6ckgC3nKs3a-t-Xz",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/interviewer"
+  },
+  "description": null,
+  "official": {
+    "title": "Interviewer",
+    "description": "A job-interview sparring partner that builds realistic questions from your job ad and CV, gives concrete feedback after every answer, and tracks your...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/interviewer"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

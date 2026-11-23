@@ -15,10 +15,10 @@
   },
   "description": "Sweeps X and Reddit every hour for AI and tech stories worth filming, returning chronological briefs covering both trending items and notable launches. The output is raw material for TikTok, Reels or Shorts rather than finished scripts, so you still write and shoot the thing yourself.",
   "official": {
-    "title": "socials by ashen",
-    "description": "Content scout for short-form creators: watches X and YouTube for filmable AI and tech stories and sends short, ready-to-film kits in chat.",
+    "title": "Content by ashen",
+    "description": "A content-scouting machine for AI and tech creators. It finds filmable ideas for TikTok, Reels, and Shorts, steals proven AI-vs-AI YouTube formats, and...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [
@@ -47,7 +47,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

@@ -5,6 +5,7 @@
   "botId": "3XJW8dmWURQqR6KqXper8",
   "creator": {
     "handle": "Draggen75",
+    "name": "Daniel",
     "url": "https://x.com/Draggen75"
   },
   "sourceUrl": "https://x.com/Draggen75/status/2106589095715868683",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/youtube-title-description-writer/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/youtube-title-description-writer"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

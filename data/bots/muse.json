@@ -5,6 +5,7 @@
   "botId": "BJhe9l9IasV0gXFAnNO2W",
   "creator": {
     "handle": "wiiiimm",
+    "name": "William",
     "url": "https://x.com/wiiiimm"
   },
   "sourceUrl": "https://x.com/wiiiimm/status/2105522007249133702",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/muse/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/muse"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

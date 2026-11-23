@@ -5,6 +5,7 @@
   "botId": "n-moXgKp8F22oS9xckCMt",
   "creator": {
     "handle": "crisships",
+    "name": "Cristopher",
     "url": "https://x.com/crisships"
   },
   "sourceUrl": "https://x.com/crisships/status/2106534311105294494",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/life-admin/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/life-admin"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

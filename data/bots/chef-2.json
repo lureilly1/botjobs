@@ -1,0 +1,37 @@
+{
+  "slug": "chef-2",
+  "name": "Chef · @caitsith21",
+  "grokShareUrl": "https://x.ai/bot/4NkSSPoXv2h3tqpaTTYOm",
+  "botId": "4NkSSPoXv2h3tqpaTTYOm",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/chef-2"
+  },
+  "description": null,
+  "official": {
+    "title": "Chef",
+    "description": "A fridge-to-plate cook: list your ingredients or send a fridge photo and get 2–3 dishes with clear steps, using what needs eating first, scaled to your...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chef-2"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

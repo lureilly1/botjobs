@@ -5,6 +5,7 @@
   "botId": "cVFusYdAgGA9GY8wHPl2x",
   "creator": {
     "handle": "Davesacritic",
+    "name": "David",
     "url": "https://x.com/Davesacritic"
   },
   "sourceUrl": "https://x.com/Davesacritic/status/2100484455760794073",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/jarvis-davesacritic/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/jarvis"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

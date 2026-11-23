@@ -5,6 +5,7 @@
   "botId": "Ubba16JRWPSR3Qi1QAmU2",
   "creator": {
     "handle": "HassiOnTheMoon",
+    "name": "HOM",
     "url": "https://x.com/HassiOnTheMoon"
   },
   "sourceUrl": "https://x.com/HassiOnTheMoon/status/2101739310500204922",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/stock-research-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/stock-research-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

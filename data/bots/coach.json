@@ -5,6 +5,7 @@
   "botId": "9sDwKR-MphjuZ-Q00mr59",
   "creator": {
     "handle": "stevenvillarino",
+    "name": "Steven",
     "url": "https://x.com/stevenvillarino"
   },
   "sourceUrl": "https://x.com/stevenvillarino/status/2104713340614570216",
@@ -30,11 +31,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/coach/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/coach"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

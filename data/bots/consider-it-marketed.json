@@ -5,6 +5,7 @@
   "botId": "ayQYbaHquRM7x7lnBOEoQ",
   "creator": {
     "handle": "CindyH874325640",
+    "name": "Cindy",
     "url": "https://x.com/CindyH874325640"
   },
   "sourceUrl": "https://x.com/CindyH874325640/status/2101866621228785883",
@@ -17,7 +18,7 @@
     "title": "Consider It Marketed by Cindy",
     "description": "Clinic CEO for a medical practice. Runs the bot team end to end — marketing, Google Ads, creative, video, and QC — so a physician-owner can stay with...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/consider-it-marketed/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/consider-it-marketed"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

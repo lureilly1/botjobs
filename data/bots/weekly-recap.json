@@ -5,6 +5,7 @@
   "botId": "-BWpMRidNVEjHFqOtol0Q",
   "creator": {
     "handle": "Christian_O91",
+    "name": "Christian",
     "url": "https://x.com/Christian_O91"
   },
   "sourceUrl": "https://x.com/Christian_O91/status/2103347545900507549",
@@ -16,8 +17,8 @@
   "official": {
     "title": "Profile Site by Christian",
     "description": "Builds you a one-page personal website from your X profile, your Grok Bot bots and teams, and what Grok Bot knows about you, with bot and team counters...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,16 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/weekly-recap/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/profile-site"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

@@ -5,6 +5,7 @@
   "botId": "AM17wqUeEmweEHWn58rEL",
   "creator": {
     "handle": "chaney_tx",
+    "name": "Chaney",
     "url": "https://x.com/chaney_tx"
   },
   "sourceUrl": "https://x.com/chaney_tx/status/2105834812095537365",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/local-concert-scout/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/local-concert-scout"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

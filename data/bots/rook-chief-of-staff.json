@@ -17,7 +17,7 @@
     "title": "Rook · Chief of Staff by Sarah",
     "description": "A personal chief of staff for busy solo founders, students, and creators. Rook runs your morning board, keeps your teammate bots on track, chases...",
     "resolves": false,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -35,8 +35,9 @@
   ],
   "evidenceLevel": "listed",
   "linkStatus": "dead",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16",
-  "deadChecks": 2
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 3,
+  "unpublished": true
 }

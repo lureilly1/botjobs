@@ -5,6 +5,7 @@
   "botId": "XMYbnGwxPJUePeRWYOduO",
   "creator": {
     "handle": "raincoatrun",
+    "name": "haiyuan",
     "url": "https://x.com/raincoatrun"
   },
   "sourceUrl": "https://x.com/raincoatrun/status/2101712459564229015",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/agent-manage-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/agent-manage-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

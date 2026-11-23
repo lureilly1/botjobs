@@ -5,6 +5,7 @@
   "botId": "Gv02Uedgl530XCpAqbUoU",
   "creator": {
     "handle": "Daniel191555486",
+    "name": "Daniel",
     "url": "https://x.com/Daniel191555486"
   },
   "sourceUrl": "https://x.com/Daniel191555486/status/2105055345303556263",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/paperwork-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/paperwork-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

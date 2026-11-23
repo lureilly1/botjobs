@@ -1,0 +1,37 @@
+{
+  "slug": "finders-keepers",
+  "name": "Finders Keepers",
+  "grokShareUrl": "https://x.ai/bot/AS92BklB1VQx5IMP7aW2x",
+  "botId": "AS92BklB1VQx5IMP7aW2x",
+  "creator": {
+    "handle": null,
+    "name": "Joseph Carey",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/finders-keepers"
+  },
+  "description": null,
+  "official": {
+    "title": "Finders Keepers by Joe",
+    "description": "Finds money you're already owed: class action settlements, unclaimed property, and recalls on stuff you bought. Pre-fills every claim; you press submit.",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/finders-keepers"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

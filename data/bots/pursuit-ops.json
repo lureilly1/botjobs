@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Pursuit Ops Template by Jennifer",
-    "description": "A sellable RFP and pursuit bot, part of the 'Founder's Back Office' package of public Grok Bot templates, for firms that win work through RFPs, RFQs,...",
+    "description": "For AEC firms and government contractors who bid on RFPs. On your schedule it checks SAM.gov and your portals, scores new bids for fit, and lists the...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

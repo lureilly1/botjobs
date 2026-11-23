@@ -5,6 +5,7 @@
   "botId": "vJqjJphtZRkdBTYBxmWur",
   "creator": {
     "handle": "Amervim",
+    "name": "Amervim",
     "url": "https://x.com/Amervim"
   },
   "sourceUrl": "https://x.com/Amervim/status/2105844674418418093",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/tax-firm-os/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/tax-firm-os"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

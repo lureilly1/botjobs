@@ -5,6 +5,7 @@
   "botId": "WKRY_T1y-KOmOn2q5vpRW",
   "creator": {
     "handle": "ShehjadTaus",
+    "name": "Taus",
     "url": "https://x.com/ShehjadTaus"
   },
   "sourceUrl": "https://x.com/ShehjadTaus/status/2098538235303735484",
@@ -17,7 +18,7 @@
     "title": "Rival Watch Desk by Taus",
     "description": "Watches rival companies for funding, hiring, news, and ads so GTM teams catch momentum early. Built for marketers who want a standing competitor brief.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/rival-watch-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/rival-watch-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

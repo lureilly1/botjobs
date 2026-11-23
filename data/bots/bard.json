@@ -5,6 +5,7 @@
   "botId": "y_QOhpnXyS7Rap9CE4Ir8",
   "creator": {
     "handle": "XyberRun",
+    "name": "Jacob",
     "url": "https://x.com/XyberRun"
   },
   "sourceUrl": "https://x.com/XyberRun/status/2103629410876162382",
@@ -17,7 +18,7 @@
     "title": "Bard by Jacob",
     "description": "A traveling bard that turns what you actually built into a bardic folk song, makes the track in your music tool, and can turn it into a continuous-take...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,11 +31,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/bard/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/bard"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

@@ -5,6 +5,7 @@
   "botId": "iN9VkE6H4f4CLidzMaNaZ",
   "creator": {
     "handle": "ShehjadTaus",
+    "name": "Taus",
     "url": "https://x.com/ShehjadTaus"
   },
   "sourceUrl": "https://x.com/ShehjadTaus/status/2098538235303735484",
@@ -17,7 +18,7 @@
     "title": "SERP Watch Team by Taus",
     "description": "Tracks SERP and AI/LLM visibility so content teams know what to publish next. Built for SEO and content marketers who want standing organic + AI digests.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/serp-watch-team/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/serp-watch-team"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

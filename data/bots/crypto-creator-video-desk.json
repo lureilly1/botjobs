@@ -5,6 +5,7 @@
   "botId": "dS3EJo8pppavYU3vmafz4",
   "creator": {
     "handle": "allthemoney",
+    "name": "James",
     "url": "https://x.com/allthemoney"
   },
   "sourceUrl": "https://x.com/allthemoney/status/2104700854930481258",
@@ -14,10 +15,10 @@
   },
   "description": null,
   "official": {
-    "title": "Crypto Creator Video Desk by James",
-    "description": "Paste a YouTube link and get chapter timestamps ready to paste, plus AI-voiced intros and outros with captions and Shorts cut from your episodes. Built...",
+    "title": "XRP Artist by James",
+    "description": "A daily Warhol-inspired artist for XRP fans. Every morning around 7 AM it makes eight new pieces each for XRP, RLUSD, XRP Ledger, Ripple, and an All of...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/crypto-creator-video-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/crypto-creator-video-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

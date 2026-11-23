@@ -5,6 +5,7 @@
   "botId": "B_WCQAMMbhkNU2r3r4YNO",
   "creator": {
     "handle": "ladybarrelmaker",
+    "name": "ladybarrelmaker",
     "url": "https://x.com/ladybarrelmaker"
   },
   "sourceUrl": "https://x.com/ladybarrelmaker/status/2102764678791495692",
@@ -17,7 +18,7 @@
     "title": "Content Calendar by ladybarrelmaker",
     "description": "Owns the cross-channel posting calendar only — slots, multi-day arcs, conflicts, and 1 post per day per channel in the owner’s timezone. Substantive...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/content-calendar/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/content-calendar"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

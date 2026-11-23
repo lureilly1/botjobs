@@ -5,6 +5,7 @@
   "botId": "9ptyasfHm8ehbIDsLizs-",
   "creator": {
     "handle": "mentalmodality",
+    "name": "Strategic",
     "url": "https://x.com/mentalmodality"
   },
   "sourceUrl": "https://x.com/mentalmodality/status/2096802892602654744",
@@ -17,7 +18,7 @@
     "title": "Marketplace Bot by Strategic",
     "description": "Clothing resale assistant for Poshmark, Depop, and optional Facebook Marketplace. Drafts from photos, researches comps, posts after approval,...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/marketplace-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/marketplace-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-14",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

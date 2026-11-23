@@ -1,0 +1,37 @@
+{
+  "slug": "linguist",
+  "name": "Linguist",
+  "grokShareUrl": "https://x.ai/bot/_HS0dBo9gmLOa-ERXsX_G",
+  "botId": "_HS0dBo9gmLOa-ERXsX_G",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/linguist"
+  },
+  "description": null,
+  "official": {
+    "title": "Linguist",
+    "description": "A conversation coach for learning a language. It chats naturally in your target language at your level, adds short corrections, tracks your recurring...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/linguist"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

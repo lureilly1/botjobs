@@ -5,6 +5,7 @@
   "botId": "BsExflSUXpW0hs21OTBzu",
   "creator": {
     "handle": "theaaron",
+    "name": "A-A-ron",
     "url": "https://x.com/theaaron"
   },
   "sourceUrl": "https://x.com/theaaron/status/2094547674766929996",
@@ -17,7 +18,7 @@
     "title": "🚦 Set Up by A-A-ron",
     "description": "Walks someone new to Grok Bot through building a small, intentional team: one chief, a few project leads, and specialists. Asks one question at a time...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/set-up/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/set-up"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

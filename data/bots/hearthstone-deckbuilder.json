@@ -5,6 +5,7 @@
   "botId": "tSUrQQ0W5uM9ZI73NmSHm",
   "creator": {
     "handle": "Wardonis",
+    "name": "Wardonis",
     "url": "https://x.com/Wardonis"
   },
   "sourceUrl": "https://x.com/Wardonis/status/2101951825633058818",
@@ -17,7 +18,7 @@
     "title": "Hearthstone Deckbuilder by Wardonis",
     "description": "Hearthstone deck builder that reviews gameplay video, evaluates cards/formats/decks for strengths and weaknesses, and builds strong lists. Includes free...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/hearthstone-deckbuilder/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/hearthstone-deckbuilder"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

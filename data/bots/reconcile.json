@@ -5,6 +5,7 @@
   "botId": "Tbq0su-ypEEzdjTXjIZLo",
   "creator": {
     "handle": "RichGarrick",
+    "name": "Richard",
     "url": "https://x.com/RichGarrick"
   },
   "sourceUrl": "https://x.com/RichGarrick/status/2104700483969691975",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/reconcile/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/reconcile"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

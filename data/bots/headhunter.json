@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Headhunter by Brian",
-    "description": "A career coach that finds and ranks job openings matching your profile, confirms each one is still open on the employer's own site, and tracks your...",
+    "description": "A job-search headhunter that finds and ranks openings matching your profile, verifies every one live on the employer's own careers site, and keeps your...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

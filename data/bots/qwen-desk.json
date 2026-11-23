@@ -1,0 +1,37 @@
+{
+  "slug": "qwen-desk",
+  "name": "Qwen Desk",
+  "grokShareUrl": "https://x.ai/bot/NJ0C3IhXgiRPCLp0iIRWT",
+  "botId": "NJ0C3IhXgiRPCLp0iIRWT",
+  "creator": {
+    "handle": null,
+    "name": "Uniflow",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/qwen-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Qwen Desk by Adriaan",
+    "description": "Qwen in Grok Bot with your own Alibaba or OpenRouter key.\n\n**Before you buy:** Qwen Desk uses your own Qwen API key, so usage is billed by your...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/qwen-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

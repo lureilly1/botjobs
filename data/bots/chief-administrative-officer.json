@@ -5,6 +5,7 @@
   "botId": "sqJpRQBtQTdPJ-L1C8-7k",
   "creator": {
     "handle": "hjackson2",
+    "name": "Hank",
     "url": "https://x.com/hjackson2"
   },
   "sourceUrl": "https://x.com/hjackson2/status/2107966933710901633",
@@ -17,7 +18,7 @@
     "title": "Chief Administrative Officer by Hank",
     "description": "Your life-admin lead: keeps your calendar clean, tracks errands, runs a quiet weekday morning check-in, and hands travel, inbox and briefing work to...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/chief-administrative-officer/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/chief-administrative-officer"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

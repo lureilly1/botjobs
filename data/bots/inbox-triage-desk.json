@@ -5,6 +5,7 @@
   "botId": "soRR-1IslCTX7U4YiBg3Y",
   "creator": {
     "handle": "Cypher0x9",
+    "name": "Cypher",
     "url": "https://x.com/Cypher0x9"
   },
   "sourceUrl": "https://x.com/Cypher0x9/status/2105189988979896469",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/inbox-triage-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/inbox-triage-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

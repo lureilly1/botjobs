@@ -5,6 +5,7 @@
   "botId": "RPtsHesZPgAlwMOZAX8Ef",
   "creator": {
     "handle": "farzyness",
+    "name": "Farzad",
     "url": "https://x.com/farzyness"
   },
   "sourceUrl": "https://x.com/farzyness/status/2106592372150632793",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/video-creator/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/video-creator"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

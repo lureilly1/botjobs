@@ -1,0 +1,37 @@
+{
+  "slug": "examiner-2",
+  "name": "Examiner · @caitsith21",
+  "grokShareUrl": "https://x.ai/bot/viMBJLxjYIY742r9S6336",
+  "botId": "viMBJLxjYIY742r9S6336",
+  "creator": {
+    "handle": null,
+    "name": "CaitSith21",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/examiner-2"
+  },
+  "description": null,
+  "official": {
+    "title": "Examiner",
+    "description": "An exam sparring partner that quizzes you like the real exam (written, oral or multiple choice), adapts to your weakest topics, explains every mistake...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/examiner-2"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

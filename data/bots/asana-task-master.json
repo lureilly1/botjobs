@@ -5,6 +5,7 @@
   "botId": "S2LodAIjlLw0mB30vN3Gl",
   "creator": {
     "handle": "wikiwayne",
+    "name": "Wayne",
     "url": "https://x.com/wikiwayne"
   },
   "sourceUrl": "https://x.com/wikiwayne/status/2107252465955487944",
@@ -17,7 +18,7 @@
     "title": "Asana Task Master by Wayne",
     "description": "Reads your Gmail and Outlook inboxes and turns emails that need action into Asana tasks with due dates, so nothing gets buried in email. Replies on the...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/asana-task-master/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/asana-task-master"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

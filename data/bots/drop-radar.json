@@ -1,0 +1,37 @@
+{
+  "slug": "drop-radar",
+  "name": "Drop Radar",
+  "grokShareUrl": "https://x.ai/bot/KYM0C9BcyfXEP9uIyxlmE",
+  "botId": "KYM0C9BcyfXEP9uIyxlmE",
+  "creator": {
+    "handle": "Steph_Pierson",
+    "name": "Stephen",
+    "url": "https://x.com/Steph_Pierson"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/drop-radar"
+  },
+  "description": null,
+  "official": {
+    "title": "Drop Radar by Stephen",
+    "description": "Same-day DTC / beauty competitor product-drop watcher. Scans Amazon, brand sites, and TikTok Shop for new products, collections, and exclusives — quiet...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/drop-radar"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

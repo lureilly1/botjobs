@@ -5,6 +5,7 @@
   "botId": "XGri4qPORtUxnDruyF_da",
   "creator": {
     "handle": "docjais",
+    "name": "Anan",
     "url": "https://x.com/docjais"
   },
   "sourceUrl": "https://x.com/docjais/status/2105165510447079466",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/routebook/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/routebook"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

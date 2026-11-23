@@ -5,6 +5,7 @@
   "botId": "5axq0n6JtBkqjhMaCDO6d",
   "creator": {
     "handle": "ColinMcDermott",
+    "name": "Colin",
     "url": "https://x.com/ColinMcDermott"
   },
   "sourceUrl": "https://x.com/ColinMcDermott/status/2105790823682003017",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/store-manager/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/store-manager"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

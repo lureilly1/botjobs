@@ -5,6 +5,7 @@
   "botId": "9X3XAP55-_L_47wFmH-jf",
   "creator": {
     "handle": "day__bliss",
+    "name": "Day",
     "url": "https://x.com/day__bliss"
   },
   "sourceUrl": "https://x.com/day__bliss/status/2106560603494269170",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/follow-up-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/follow-up-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

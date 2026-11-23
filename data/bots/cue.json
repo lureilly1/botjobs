@@ -5,6 +5,7 @@
   "botId": "WRGIjapC1i3Hvi2jfv66m",
   "creator": {
     "handle": "DBCrypt0",
+    "name": "DBCrypto",
     "url": "https://x.com/DBCrypt0"
   },
   "sourceUrl": "https://x.com/DBCrypt0/status/2096311629805961385",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/cue/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/cue"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-07",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

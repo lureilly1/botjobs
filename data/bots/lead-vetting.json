@@ -5,6 +5,7 @@
   "botId": "eEfAacXdtzHANV5hVhG6o",
   "creator": {
     "handle": "anzevoje",
+    "name": "Growth",
     "url": "https://x.com/anzevoje"
   },
   "sourceUrl": "https://x.com/anzevoje/status/2102299536513245605",
@@ -17,7 +18,7 @@
     "title": "Lead Vetting by Growth",
     "description": "Vets collaboration and consulting leads from a watched inbox, writes a one-page fit brief, and DMs you a 5-bullet decision summary on Slack.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -34,11 +35,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/lead-vetting/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lead-vetting"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

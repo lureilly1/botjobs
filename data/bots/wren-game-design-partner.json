@@ -5,6 +5,7 @@
   "botId": "XqdTeBFaHmeWI4xKbma_3",
   "creator": {
     "handle": "ixef",
+    "name": "Xavier",
     "url": "https://x.com/ixef"
   },
   "sourceUrl": "https://x.com/ixef/status/2104698702963339695",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/wren-game-design-partner/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/wren-game-design-partner"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

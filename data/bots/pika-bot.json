@@ -15,10 +15,10 @@
   },
   "description": "Keeps an eye on the official Pokémon Center US storefront for trading card releases and limited exclusives, holding a single signed-in session rather than juggling logins. Built for collectors tracking restocks; it watches and reports rather than acting on your behalf at checkout.",
   "official": {
-    "title": "Pika Bot by Joe",
-    "description": "A Pokémon Center US drop hunter for collectors. Watches the official store for TCG and limited exclusives, keeps one clean logged-in session, and never...",
+    "title": "Pika Bot · Online Pokémon card hunter by Joe",
+    "description": "An online Pokémon card hunter for collectors. It watches TCG drops, restocks, and queues at official stores like Pokémon Center, Target, Walmart, Best...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -40,7 +40,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

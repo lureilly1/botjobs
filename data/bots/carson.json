@@ -5,6 +5,7 @@
   "botId": "v-anNtCSU16DhOT6XDOpn",
   "creator": {
     "handle": "aarwen7",
+    "name": "aarwen7",
     "url": "https://x.com/aarwen7"
   },
   "sourceUrl": "https://x.com/aarwen7/status/2102541925110923386",
@@ -17,7 +18,7 @@
     "title": "Carson",
     "description": "Stands up your downstairs crew — bots that help run your life so you don’t disappear into the week. Keep the defaults, drop one, or add another. They...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/carson/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/carson"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

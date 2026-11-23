@@ -5,6 +5,7 @@
   "botId": "7n0xNJQkJya50-WawGibg",
   "creator": {
     "handle": "DJDEEZ",
+    "name": "D.J.",
     "url": "https://x.com/DJDEEZ"
   },
   "sourceUrl": "https://x.com/DJDEEZ/status/2104514372374765736",
@@ -17,7 +18,7 @@
     "title": "Deploy Desk by D.J.",
     "description": "Keeps a small SaaS product's site deployed and healthy, runs its organic X account from a rolling queue with generated visuals, and drafts outreach for...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/deploy-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/deploy-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

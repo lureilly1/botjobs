@@ -5,6 +5,7 @@
   "botId": "TSgExceGHVJN9U2E4-_23",
   "creator": {
     "handle": "JRNavarro75",
+    "name": "Joe",
     "url": "https://x.com/JRNavarro75"
   },
   "sourceUrl": "https://x.com/JRNavarro75/status/2104903749026435552",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/crypto-buddy/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/crypto-buddy"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

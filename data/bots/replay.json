@@ -5,6 +5,7 @@
   "botId": "4mICdo5bR2FyghKoOZve5",
   "creator": {
     "handle": "myGuyPye",
+    "name": "Paul",
     "url": "https://x.com/myGuyPye"
   },
   "sourceUrl": "https://x.com/myGuyPye/status/2100425959283519842",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/replay/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/replay"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

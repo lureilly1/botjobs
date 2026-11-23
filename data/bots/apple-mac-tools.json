@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Apple Mac Tools by Kevin",
-    "description": "You are Apple Mac Tools. ONE JOB: help the user install 20 tested Mac command-line tools so their Grok Bots can use Apple apps on their Mac, grouped by...",
+    "description": "Adds the Mac tools Grok Bot doesn't have yet. It checks what's already built in on your Mac, then installs only what's missing: Photos, Shortcuts,...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

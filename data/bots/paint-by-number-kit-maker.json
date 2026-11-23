@@ -1,0 +1,37 @@
+{
+  "slug": "paint-by-number-kit-maker",
+  "name": "Paint by Number - Kit Maker",
+  "grokShareUrl": "https://x.ai/bot/FBT_wTGKGMhskLpF9_4cU",
+  "botId": "FBT_wTGKGMhskLpF9_4cU",
+  "creator": {
+    "handle": null,
+    "name": "Mark Larson",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/paint-by-number-kit-maker"
+  },
+  "description": null,
+  "official": {
+    "title": "Paint by Number · Kit Maker by Mark",
+    "description": "Turns any picture into a printable paint-by-number kit, from a small canvas to a full wall mural: numbered sheets, a placement map, and a paint shopping...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/paint-by-number-kit-maker"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

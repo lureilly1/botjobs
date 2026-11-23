@@ -1,0 +1,37 @@
+{
+  "slug": "site-takeover",
+  "name": "Site Takeover",
+  "grokShareUrl": "https://x.ai/bot/6S4MzifV6Ky82POUVLczb",
+  "botId": "6S4MzifV6Ky82POUVLczb",
+  "creator": {
+    "handle": null,
+    "name": "Justin Wanajrat",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/site-takeover"
+  },
+  "description": null,
+  "official": {
+    "title": "Site Takeover by Justin",
+    "description": "Takes your domain and WordPress site back from a former web developer or agency, moves them into accounts you own without breaking email or forms, then...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/site-takeover"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

@@ -5,6 +5,7 @@
   "botId": "jhd6Cb9XEPI6b-hs-WCQE",
   "creator": {
     "handle": "nick_nehaul",
+    "name": "Nicholas",
     "url": "https://x.com/nick_nehaul"
   },
   "sourceUrl": "https://x.com/nick_nehaul/status/2108304525866193171",
@@ -17,7 +18,7 @@
     "title": "Shopify Bot by Nicholas",
     "description": "Start from an idea or connect your store. Shopify Bot and a team of specialist bots help you build, run and grow it.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/shopify-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/shopify-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

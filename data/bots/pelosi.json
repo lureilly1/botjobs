@@ -5,6 +5,7 @@
   "botId": "sZvrsCSynGeSuBVA7lA2x",
   "creator": {
     "handle": "amartins02",
+    "name": "Arsenio",
     "url": "https://x.com/amartins02"
   },
   "sourceUrl": "https://x.com/amartins02/status/2104701245684670755",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/pelosi/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/pelosi"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

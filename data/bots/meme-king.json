@@ -18,7 +18,7 @@
     "title": "Meme King by dogenorway",
     "description": "Makes memes and GIFs on demand from what's trending on X and in the news, and can draw your own avatar into every joke. Never posts for you.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [
@@ -33,7 +33,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

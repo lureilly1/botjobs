@@ -16,8 +16,8 @@
   "official": {
     "title": "Desk by Contravious",
     "description": "NFL PropDesk research assistant. Stamps named player props and totals with TypeSafe Jev language-support probabilities — never picks, never places bets.",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,9 +32,10 @@
       "url": "https://grokbot.dev/marketplace/desk/"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

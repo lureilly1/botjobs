@@ -5,6 +5,7 @@
   "botId": "C3z3lWaB4TLRC0CcodU9Q",
   "creator": {
     "handle": "uxaistudio",
+    "name": "Ward",
     "url": "https://x.com/uxaistudio"
   },
   "sourceUrl": "https://x.com/uxaistudio/status/2101964867338981468",
@@ -17,7 +18,7 @@
     "title": "DomainSnip Bot by Ward",
     "description": "Weekday morning DomainSnip digest bot. Pulls your saved keyword alerts and flags notable new or ending-soon .com matches — price, length, marketplace,...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/domainsnip-bot/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/domainsnip-bot"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

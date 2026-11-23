@@ -5,6 +5,7 @@
   "botId": "_AtzRQVYEzMUS8QsanARG",
   "creator": {
     "handle": "bill_mitchell_",
+    "name": "Bill",
     "url": "https://x.com/bill_mitchell_"
   },
   "sourceUrl": "https://x.com/bill_mitchell_/status/2105420420283314572",
@@ -17,7 +18,7 @@
     "title": "POSSESSIONS: Home Inventory & Net Worth by Bill",
     "description": "Builds a home inventory from room photos, receipts, or purchase emails, then tracks what you paid against what each item is worth today, with a monthly...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/possessions/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/possessions-home-inventory-net-worth"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

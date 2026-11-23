@@ -1,0 +1,37 @@
+{
+  "slug": "creator-desk",
+  "name": "Creator Desk",
+  "grokShareUrl": "https://x.ai/bot/dM43J1T44OmcRdAsNHsBf",
+  "botId": "dM43J1T44OmcRdAsNHsBf",
+  "creator": {
+    "handle": "MadeItHappenX",
+    "name": "Stephen",
+    "url": "https://x.com/MadeItHappenX"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/creator-desk"
+  },
+  "description": null,
+  "official": {
+    "title": "Creator Desk by Stephen",
+    "description": "An original-content creator's assistant for X. It plans, writes, and schedules your posts, short native video clips, and replies worth making, so your...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/creator-desk"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

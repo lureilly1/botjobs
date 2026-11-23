@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Presents by Dylan",
-    "description": "A holiday gift planner that keeps one list per person with photos, best prices from trusted stores, budgets, and order-by dates, plus a gift app with a...",
+    "description": "A holiday gift planner that keeps one list per person: ideas, photos, the pick, store, price, budget, and bought/wrapped status. Snap a photo of a gift...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

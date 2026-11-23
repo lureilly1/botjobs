@@ -5,6 +5,7 @@
   "botId": "VnfgvYJ-G58ZjwfvijWOy",
   "creator": {
     "handle": "RichGarrick",
+    "name": "Richard",
     "url": "https://x.com/RichGarrick"
   },
   "sourceUrl": "https://x.com/RichGarrick/status/2104700485567684743",
@@ -17,7 +18,7 @@
     "title": "Events by Richard",
     "description": "A market and pop-up inventory desk for small sellers. It builds pack lists before a show and logs what sold afterward, so offline sales reach your...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/events/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/events"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

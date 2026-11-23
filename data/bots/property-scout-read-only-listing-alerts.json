@@ -15,8 +15,8 @@
   "official": {
     "title": "Property Scout by Johannes",
     "description": "Read-only alerts for new or changed rental and home listings that pass your filters. Not advice.",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -27,9 +27,10 @@
       "url": "https://bot.store/bots/property-scout-read-only-listing-alerts"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

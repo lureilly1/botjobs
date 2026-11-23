@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Security by PWN",
-    "description": "A read-and-report security teammate for individuals and small teams. It triages GitHub security alerts, scans for leaked secrets, checks your sites'...",
+    "description": "A read-and-report security teammate for individuals and small teams. It triages GitHub security alerts, checks your own sites' TLS, headers and...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -36,7 +36,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Handyman by Dylan",
-    "description": "A home maintenance tracker that remembers your filter sizes, appliances, warranties, and repairs. It reminds you when tasks come due and builds a...",
+    "description": "A home maintenance tracker that logs filters, water heater flushes, tune-ups, appliances, and repairs, then reminds you before anything comes due. It...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

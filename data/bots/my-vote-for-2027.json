@@ -17,7 +17,7 @@
     "title": "Vote Mileiste by Thierry",
     "description": "Compare les candidats à la présidentielle française de 2027 avec une veille sourcée, cinq critères pondérés et un wiki privé. Vous choisissez les...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

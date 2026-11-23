@@ -5,6 +5,7 @@
   "botId": "QiLYZ-kp5PLnalntJjt9x",
   "creator": {
     "handle": "GallagherPreach",
+    "name": "Chris",
     "url": "https://x.com/GallagherPreach"
   },
   "sourceUrl": "https://x.com/GallagherPreach/status/2101502422237552742",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/lee/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/lee"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

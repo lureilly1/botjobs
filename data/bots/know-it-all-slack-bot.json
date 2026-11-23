@@ -1,0 +1,37 @@
+{
+  "slug": "know-it-all-slack-bot",
+  "name": "Know it All Slack Bot",
+  "grokShareUrl": "https://x.ai/bot/vMnAJf7zumjDX7t06WKAV",
+  "botId": "vMnAJf7zumjDX7t06WKAV",
+  "creator": {
+    "handle": "Vinnysosa",
+    "name": "Vinny",
+    "url": "https://x.com/Vinnysosa"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/know-it-all-slack-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Know it All Slack Bot by Vinny",
+    "description": "A branded Slack Q&A bot that answers from your team's latest taught knowledge, learns from trusted teachers and seed sources, and posts a daily...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/know-it-all-slack-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

@@ -5,6 +5,7 @@
   "botId": "-BXZiXKHwvcge3PviX2yK",
   "creator": {
     "handle": "berlu135",
+    "name": "Luc",
     "url": "https://x.com/berlu135"
   },
   "sourceUrl": "https://x.com/berlu135/status/2105755722952618242",
@@ -31,11 +32,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/listener/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/listener"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

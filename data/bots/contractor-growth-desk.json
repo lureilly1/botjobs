@@ -14,9 +14,9 @@
   "description": null,
   "official": {
     "title": "Contractor Growth Desk by Urban",
-    "description": "A marketing workbench for owner-operated contractors and service businesses: demo website drafts, B2B leads from companies running Meta and Google ads,...",
+    "description": "A marketing workbench for owner-operated contractors and service businesses with four modes: demo website drafts, B2B leads from companies running Meta...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -29,7 +29,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-11-09",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

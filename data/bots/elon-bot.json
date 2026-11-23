@@ -1,0 +1,37 @@
+{
+  "slug": "elon-bot",
+  "name": "Elon Bot",
+  "grokShareUrl": "https://x.ai/bot/m9p839QVulo48OQa04cds",
+  "botId": "m9p839QVulo48OQa04cds",
+  "creator": {
+    "handle": "fernando_brawn",
+    "name": "Fernando",
+    "url": "https://x.com/fernando_brawn"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/elon-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Elon Bot by Fernando",
+    "description": "Chief of Staff for a paper-trading desk: coordinates discretionary vs mean-reversion trader bots, runs digests and thesis alerts, scores an A/B contest,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/elon-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

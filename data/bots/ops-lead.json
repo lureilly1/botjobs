@@ -1,0 +1,37 @@
+{
+  "slug": "ops-lead",
+  "name": "Ops Lead",
+  "grokShareUrl": "https://x.ai/bot/7pUs0lN7Ajl-C2KirGfTx",
+  "botId": "7pUs0lN7Ajl-C2KirGfTx",
+  "creator": {
+    "handle": null,
+    "name": "han lingiao",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/ops-lead"
+  },
+  "description": null,
+  "official": {
+    "title": "监工 by han",
+    "description": "多 Agent 团队的运营监工。用一流代理运营方法盯用户帐户用量、管交付质量、监管其他助手权限，执行接单与外发门禁，但不替你对外发送或花钱。",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/ops-lead"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Gran DT by Hernan",
-    "description": "Your Gran DT companion (Clarín): 11, captain and Fútbol 5. Reads screenshots, replies in your language, never changes your team without your OK.",
+    "description": "Your Gran DT companion (Clarín): 11 and captain. Asks before changing your team and, if you miss the deadline, loads and checks a backup.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

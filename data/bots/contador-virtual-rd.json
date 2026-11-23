@@ -1,0 +1,37 @@
+{
+  "slug": "contador-virtual-rd",
+  "name": "Contador Virtual RD",
+  "grokShareUrl": "https://x.ai/bot/aQsNE0u18WjHe97Nbo1MV",
+  "botId": "aQsNE0u18WjHe97Nbo1MV",
+  "creator": {
+    "handle": "CGI_Caveda",
+    "name": "Dayron",
+    "url": "https://x.com/CGI_Caveda"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/contador-virtual-rd"
+  },
+  "description": null,
+  "official": {
+    "title": "Contador Virtual RD by Dayron",
+    "description": "Asistente contable en español para dueños de S.R.L. y contribuyentes en República Dominicana: calendario DGII, preparación de IT-1, IR-17, 606/607,...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/contador-virtual-rd"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

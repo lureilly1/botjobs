@@ -5,6 +5,7 @@
   "botId": "4evc9gtDOCrFt5vMCg0HG",
   "creator": {
     "handle": "dodgeking3171",
+    "name": "Braner",
     "url": "https://x.com/dodgeking3171"
   },
   "sourceUrl": "https://x.com/dodgeking3171/status/2100816862409793883",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/solo-founder-ops-desk/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/solo-founder-ops-desk"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

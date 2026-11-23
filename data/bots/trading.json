@@ -17,8 +17,8 @@
   "official": {
     "title": "Trading by Travis",
     "description": "A rules-based stock trading bot for one dedicated brokerage account. It runs news-driven day trades and short wave clips with a hard kill switch and a...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -29,9 +29,10 @@
       "url": "https://bot.store/bots/trading"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-09-01"
+  "lastSeenAt": "2026-09-01",
+  "deadChecks": 1
 }

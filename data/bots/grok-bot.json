@@ -1,0 +1,37 @@
+{
+  "slug": "grok-bot",
+  "name": "Grok Bot",
+  "grokShareUrl": "https://x.ai/bot/Uy2oK9854UViaiO0rQ6nC",
+  "botId": "Uy2oK9854UViaiO0rQ6nC",
+  "creator": {
+    "handle": "scottxmetcalf",
+    "name": "Scott Metcalf",
+    "url": "https://x.com/scottxmetcalf"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/grok-bot"
+  },
+  "description": null,
+  "official": {
+    "title": "Grok Bot",
+    "description": "Use this template to create a new Bot or apply it to an existing Bot",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grok-bot"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

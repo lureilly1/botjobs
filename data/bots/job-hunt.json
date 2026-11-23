@@ -1,0 +1,37 @@
+{
+  "slug": "job-hunt",
+  "name": "Job Hunt",
+  "grokShareUrl": "https://x.ai/bot/4DlWbDs7ddKWhgpQ3l71a",
+  "botId": "4DlWbDs7ddKWhgpQ3l71a",
+  "creator": {
+    "handle": "AnthonyDo",
+    "name": "Anthony",
+    "url": "https://x.com/AnthonyDo"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/job-hunt"
+  },
+  "description": null,
+  "official": {
+    "title": "Job Hunt by Anthony",
+    "description": "Onboard with your target role plus a resume or LinkedIn, get a daily shortlist of matching openings, tailor materials, and draft applications for you to...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/job-hunt"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

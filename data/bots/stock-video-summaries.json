@@ -1,0 +1,37 @@
+{
+  "slug": "stock-video-summaries",
+  "name": "Stock Video Summaries",
+  "grokShareUrl": "https://x.ai/bot/fEKm3hXOWNegRH_DKKYqg",
+  "botId": "fEKm3hXOWNegRH_DKKYqg",
+  "creator": {
+    "handle": "edengil94",
+    "name": "Eden",
+    "url": "https://x.com/edengil94"
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/stock-video-summaries"
+  },
+  "description": null,
+  "official": {
+    "title": "Stock Video Summaries by Eden",
+    "description": "Watches a stock-education Discord on an automatic hourly schedule plus a weekday pre-market run. Emails one short newspaper brief per video — Jerusalem...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/stock-video-summaries"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

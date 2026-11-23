@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Res by ashen",
-    "description": "Watches hard-to-get restaurant reservations across Resy, SevenRooms, OpenTable, and Tock, catches daily release drops and cancellations, checks your...",
+    "description": "Gets hard-to-get restaurant reservations. It watches release drops and cancellations on Resy, OpenTable, SevenRooms and Tock, then auto-books or alerts...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -35,7 +35,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

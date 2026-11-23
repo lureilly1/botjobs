@@ -5,6 +5,7 @@
   "botId": "YV5xOs96YaWLN39PbkPwk",
   "creator": {
     "handle": "the_simonjester",
+    "name": "John",
     "url": "https://x.com/the_simonjester"
   },
   "sourceUrl": "https://x.com/the_simonjester/status/2103991653375824068",
@@ -17,7 +18,7 @@
     "title": "ScriptSprint by John",
     "description": "Transcript desk for writers and operators: pull Otter (or paste-in) notes, file raw Markdown, write sibling distills, and hand off with Obsidian deep...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/scriptsprint/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/scriptsprint"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

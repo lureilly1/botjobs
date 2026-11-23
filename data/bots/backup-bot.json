@@ -15,8 +15,8 @@
   "official": {
     "title": "Backup Bot by ollie",
     "description": "Audits any of your bots and saves a restore pack with its profile, skills, routines and key notes, never passwords, keys or tokens. Can keep an...",
-    "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "resolves": false,
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -27,9 +27,10 @@
       "url": "https://bot.store/bots/backup-bot"
     }
   ],
-  "evidenceLevel": "link-verified",
-  "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "evidenceLevel": "listed",
+  "linkStatus": "dead",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23",
+  "deadChecks": 1
 }

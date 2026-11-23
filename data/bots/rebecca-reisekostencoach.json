@@ -1,0 +1,37 @@
+{
+  "slug": "rebecca-reisekostencoach",
+  "name": "Rebecca (Reisekostencoach)",
+  "grokShareUrl": "https://x.ai/bot/PDhDhO7AaiLUuBYQ8BOjl",
+  "botId": "PDhDhO7AaiLUuBYQ8BOjl",
+  "creator": {
+    "handle": null,
+    "name": "Florian Reichardt",
+    "url": null
+  },
+  "sourceUrl": null,
+  "discoveredVia": {
+    "name": "bot.store",
+    "url": "https://bot.store/bots/rebecca-reisekostencoach"
+  },
+  "description": null,
+  "official": {
+    "title": "Rebecca (Reisekostencoach) by Florian",
+    "description": "Rechnet Dienstreisen aus Belegen ab, die du im Chat schickst: PDF mit Verpflegungspauschalen, Buchungsvorschlägen für SKR03/SKR04 und optional...",
+    "resolves": true,
+    "fetchedAt": "2026-11-23"
+  },
+  "categories": [],
+  "integrations": [],
+  "tags": [],
+  "listings": [
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/rebecca-reisekostencoach"
+    }
+  ],
+  "evidenceLevel": "link-verified",
+  "linkStatus": "live",
+  "lastVerifiedAt": "2026-11-23",
+  "firstSeenAt": "2026-11-23",
+  "lastSeenAt": "2026-11-23"
+}

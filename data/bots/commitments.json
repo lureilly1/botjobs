@@ -5,6 +5,7 @@
   "botId": "rFShmowW_3x_qeXQQB-sn",
   "creator": {
     "handle": "samlambert",
+    "name": "Sam",
     "url": "https://x.com/samlambert"
   },
   "sourceUrl": "https://x.com/samlambert/status/2099584402045210992",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/commitments/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/commitments"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-09-21",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

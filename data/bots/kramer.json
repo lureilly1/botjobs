@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Kramer by Helvio",
-    "description": "A household mail and package desk. It reads your USPS Informed Delivery digest each morning, logs every piece, sends bills to whoever pays them, and...",
+    "description": "A household mail and package desk that reads your USPS Informed Delivery digest every morning, logs every letter and package, and gets junk mailers to...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -37,7 +37,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-12",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

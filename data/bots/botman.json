@@ -5,6 +5,7 @@
   "botId": "ZsgeyFyAlUtxHbRgDBZqx",
   "creator": {
     "handle": "Rune_King_Jake",
+    "name": "JakeFromStarstruck.",
     "url": "https://x.com/Rune_King_Jake"
   },
   "sourceUrl": "https://x.com/Rune_King_Jake/status/2105984890567262510",
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/botman/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/botman"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

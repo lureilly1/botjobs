@@ -15,9 +15,9 @@
   "description": null,
   "official": {
     "title": "Personal Assistant Template by Jennifer",
-    "description": "A sellable personal assistant bot, part of the 'Founder's Back Office' package of public Grok Bot templates. Its job for whoever owns it: run home and...",
+    "description": "For busy people whose life admin keeps slipping. It tracks bills, renewals, subscriptions and appointments and sends a weekly look-ahead of what is due....",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -30,7 +30,7 @@
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-10-26",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

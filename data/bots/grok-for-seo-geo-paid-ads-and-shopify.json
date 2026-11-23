@@ -5,6 +5,7 @@
   "botId": "dep-tU0gmIPgiqNsvS4N4",
   "creator": {
     "handle": "irabukht",
+    "name": "Dmitry",
     "url": "https://x.com/irabukht"
   },
   "sourceUrl": "https://x.com/irabukht/status/2094540233429619144",
@@ -17,7 +18,7 @@
     "title": "Grok for SEO, GEO, paid ads and Shopify by Dmitry",
     "description": "A senior marketer for Google Ads, Meta, SEO and Shopify.",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [
@@ -35,11 +36,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/grok-for-seo-geo-paid-ads-and-shopify/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/grok-for-seo-geo-paid-ads-and-shopify"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-01",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

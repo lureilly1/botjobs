@@ -5,6 +5,7 @@
   "botId": "Y0HBAodNhuJB2Gt5i9LEm",
   "creator": {
     "handle": "melvindvivas",
+    "name": "Melvin",
     "url": "https://x.com/melvindvivas"
   },
   "sourceUrl": "https://x.com/melvindvivas/status/2106944801660973269",
@@ -33,11 +34,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/x-researcher/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/x-researcher"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
   "lastVerifiedAt": "2026-11-16",
   "firstSeenAt": "2026-10-05",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }

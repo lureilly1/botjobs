@@ -5,6 +5,7 @@
   "botId": "R426aIhME68m8-MOd_zPd",
   "creator": {
     "handle": "nw_great",
+    "name": "Decibel",
     "url": "https://x.com/nw_great"
   },
   "sourceUrl": "https://x.com/nw_great/status/2102787986496930250",
@@ -17,7 +18,7 @@
     "title": "MediaDeconstructor by Decibel",
     "description": "Quiet No Agenda–method media deconstructor for contest/share. Drop a URL, X post, clip, or transcript — get stamp, formula, Producer+Critic, shownotes,...",
     "resolves": true,
-    "fetchedAt": "2026-11-09"
+    "fetchedAt": "2026-11-23"
   },
   "categories": [],
   "integrations": [],
@@ -32,11 +33,15 @@
     {
       "name": "grokbot.dev",
       "url": "https://grokbot.dev/marketplace/mediadeconstructor/"
+    },
+    {
+      "name": "bot.store",
+      "url": "https://bot.store/bots/mediadeconstructor"
     }
   ],
   "evidenceLevel": "link-verified",
   "linkStatus": "live",
-  "lastVerifiedAt": "2026-11-09",
+  "lastVerifiedAt": "2026-11-23",
   "firstSeenAt": "2026-09-28",
-  "lastSeenAt": "2026-11-16"
+  "lastSeenAt": "2026-11-23"
 }
